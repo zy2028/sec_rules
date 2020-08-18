@@ -1,0 +1,465 @@
+https://www.sec.gov/rules/final/2008/34-57526.pdf
+
+I.0.0.0 Introduction
+
+II.0.0.0 Amendments
+
+	II.A.0.0 Electronic Filing
+
+	II.B.0.0 Posting of Rule 19b-7 Proposed Rule Changes on SRO Web sites
+
+	II.C.0.0 Requirement to Update Rule Text on SRO Web Sites
+
+		II.C.1.0 New Paragraph (g) of Rule 19b-7
+
+		II.C.2.0 Amendments to Paragraph (m) of Rule 19b-4
+
+		II.C.1.0 the Commission’s approval of the proposed rule change; or (2) the SRO’s filing of a written certification with the CFTC under Section 5c(c) of the Commodity Exchange Act, notice from the CFTC that it has determined that review of the proposed rule change is not necessary, or notice from the CFTC that it has approved the proposed rule change.
+
+	II.D.0.0 Form 19b-7 Amendments
+
+		II.D.1.0 Form 19b-7 Amendments
+
+		II.D.2.0 Accurate, Consistent, and Complete Forms 19b-7
+
+	II.E.0.0 Amendments to Form 19b-4
+
+	II.F.0.0 Date of Effectiveness of the Proposal
+
+III.0.0.0 Paperwork Reduction Act
+
+	III.A.0.0 Summary of Collection of Information
+
+	III.B.0.0 Use of Information
+
+	III.C.0.0 Respondents
+
+	III.D.0.0 Total Annual Reporting and Recordkeeping Burden
+
+		III.D.1.0 Background
+
+		III.D.2.0 Rule 19b-7 and Form 19b-7
+
+		III.D.3.0 Posting of Proposed Rule Changes filed under Rule 19b-7 on SRO Web sites
+
+		III.D.4.0 SRO Rule Text
+
+		III.D.5.0 Total Annual Reporting Burden
+
+	III.E.0.0 Retention Period of Recordkeeping Requirements
+
+	III.F.0.0 Collection of Information is Mandatory
+
+	III.G.0.0 Responses to Collection of Information Will Not Be Kept Confidential
+
+IV.0.0.0 Costs and Benefits of the Rulemaking
+
+	IV.A.0.0 Benefits
+
+	IV.B.0.0 Costs
+
+V.0.0.0 Consideration of the Burden on Competition, Promotion of Efficiency, and Capital Formation
+
+VI.0.0.0 Regulatory Flexibility Act Certifications
+
+VII.0.0.0 Statutory Basis and Text of Proposed Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 240 and 249
+
+[Release No. 34-57526; File No. S7-06-07] RIN 3235-AJ80
+
+Proposed Rule Changes of Self-Regulatory Organizations AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting rule amendments to require Self-Regulatory Organizations (“SROs”) that submit proposed rule changes pursuant to Section 19(b)(7)(A) of the Securities Exchange Act of 1934 (“Act”) to file these rule changes electronically. In addition, the Commission is adopting rule amendments to require SROs to post all such proposed rule changes on their Web sites. Together, the amendments are designed to expand the electronic filing by SROs of proposed rule changes, making it more efficient and cost effective, and to harmonize the process of filings made under Section 19(b)(7)(A) with that for filings made by SROs under Section 19(b)(1) of the Act.
+
+EFFECTIVE DATE: April 28, 2008.
+
+FOR FURTHER INFORMATION CONTACT: John Roeser, Assistant Director, at
+
+(202) 551-5630, Michou Nguyen, Special Counsel, at (202) 551-5634, or Sherry Moore, Paralegal, at (202) 551-5549, Division of Trading and Markets, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-6628.
+
+SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+On February 23, 2007, the Commission proposed to require SROs that submit proposed rule changes pursuant to Section 19(b)(7)(A) of the Act <sup>1</sup> to file these rule changes electronically. <sup>2</sup> The Commission proposed amending Rule 19b-7 and Form 19b-7 to: (1) require SROs to file proposed rule changes submitted pursuant to Section 19(b)(7)(A) of the Act electronically, rather than in paper format; and (2) require SROs to post all such proposed rule changes on their Web sites. The Commission also proposed making certain conforming changes to Rule 19b-4 and Form 19b-4.
+
+Under Section 19(b)(7) of the Act and Rule 19b-7 thereunder, securities futures exchanges registered with the Commission under Section 6(g) of the Act and associations registered with the Commission under Section 15A(k) of the Act <sup>3</sup> for the limited purpose of regulating activities of members who are registered as broker-dealers in security futures products <sup>4</sup> are required to file certain categories of proposed rule changes with the Commission. <sup>5</sup> These proposed rule changes are published for comment and may takeeffect: (1) when a written certification has been filed with the Commodity Futures Trading Commission (“CFTC”) under Section 5c(c) of the Commodity Exchange Act;(2) when the CFTC determines that review of the proposed rule change is not necessary; or (3) when the CFTC approves the proposed rule change. <sup>6</sup> Rule 19b-7 and Form 19b-7 under the Act set forth the process for SROs to file proposed rule changes under Section 19(b)(7) of the Act.
+
+Currently, SROs are required to electronically file proposed rule changes submitted to the Commission under Section 19(b)(1) of the Act. <sup>7</sup> SROs are also required to post such proposed rule changes on their Web sites. <sup>8</sup>
+
+Proposed rule changes submitted by SROs under Section 19(b)(7) of the Act, in contrast, are submitted to the Commission in paper. <sup>9</sup> In addition, SROs are not currently required to post proposed rule changes filed under Section 19(b)(7) on their Web sites.
+
+The Commission proposed to amend Rule 19b-7 and Form 19b-7 to require electronic filing and Web posting of proposed rule changes filed under Section 19(b)(7) of the Act. These proposals were designed to conform to the requirements already in place for proposed rule changes filed pursuant to Rule 19b-4 and Form 19b-4.
+
+The Commission received two comment letters in response to its request for comments. <sup>10</sup> The commenters were generally supportive of the proposed amendments but offered a few suggestions for refinements to the proposal. In addition, commenters commended the Commission’s efforts to improve the rule filing process and make it less costly and more efficient. One commenter also offered suggestions relating to matters outside the scope of this rulemaking. <sup>11</sup> The Commission has determined to adopt the amendments substantially as proposed, with modifications to address the comments of the NFA and with some clarifications.
+
+<h>II. Amendments</h>
+
+<h>A. Electronic Filing</h>
+
+The Commission proposed to amend Rule 19b-7 and Form 19b-7 to require that Form 19b-7, and any amendments thereto, be submitted electronically to the Commission. The Commission is adopting these amendments as proposed.
+
+Based on the Commission’s experience receiving electronic Rule 19b-4 filings from SROs, the Commission believes that requiring SROs to file proposed rule changes on Form 19b-7 electronically will have many benefits. First, the Commission believes electronic filing will reduce the amount of time required by SROs to submit SRO rule filings by eliminating paper delivery, photocopying, and distribution. Under the current system, SROs send paper copies of proposed rule changes on Form 19b-7 to the
+
+Commission via messenger, overnight delivery, or U.S. mail. Electronic filing will reduce costs for the SROs <sup>12</sup> because the SROs will no longer incur costs for delivery of paper filings or for the SRO staff time currently devoted to preparing filing packages.
+
+The Commission also will benefit from reducing the personnel time currently associated with manually processing paper filings.
+
+Second, electronic filing will allow for a more efficient use of Commission resources by integrating the SRO electronic filing technology with SRO Rule Tracking System (“SRTS”), the internal Commission database that tracks these filings, enabling Commission staff to more easily monitor and process proposed rule changes. Pertinent information regarding proposed rule changes, as well as amendments, will be captured automatically by SRTS. As a result, Commission staff will be able to monitor electronically the progress of proposed rule changes filed on Form 19b-7 from initial receipt through final disposition and thereby enhance its management of the rule filing process.
+
+As of 5:30 p.m. Eastern Daylight Saving Time on April 27, 2008,the Commission will no longer accept SRO proposed rule changes in paper format. Beginning at 9:00 a.m. Eastern Daylight Saving Time on April 28, 2008, SROs will be required to file all Forms 19b-7 and any amendments to Forms 19b-7 electronically, according to the procedures and in the format described in Rule 19b-7 and Form 19b-7, as amended. SROs will gain access to a secure Web site known as the EFFS, whichenables authorized individuals at the SRO to file proposed rule changes with the Commission electronically. <sup>13</sup> Proposed rule changes will be deemed filed on the business day the Commission receives the proposed rule change electronically, provided the Commission receives the filing before 5:30 p.m. Eastern Standard Time or Eastern Daylight Saving Time, whichever is in effect at the time of filing, and it is filed in accordance with Rule 19b-7 and Form 19b-7, as amended. The Commission has eliminated the requirement that SROs submit multiple, paper copies of proposed rule changes. <sup>14</sup>
+
+As had been proposed, the adopted amendment to Form 19b-7 requires SROs to file their proposed rule changes with an electronic signature. <sup>15</sup> Form 19b-7 requires that a filing be signed on the SRO’s behalf by a person “duly authorized” to sign a proposed rule change. <sup>16</sup> Each duly authorized signatory will be required to obtain a “digital ID,”which provides both the Commission and the SRO with assurances of the authenticity and integrity of the electronically-submitted Form 19b-7. <sup>17</sup> In addition, each signatory will be required to manually sign a hard copy of the Form 19b-7, authenticating, acknowledging, or otherwise adopting his or her electronic signature that is attached to or logically associated with the filing. In accordance with Rule 17a-1 under the Act, <sup>18</sup> the SRO is required to retain that manual signature page of the rule filing, authenticating the signatory’s electronic signature, for not less than five years after the Form 19b-7 is filed with the Commission and, upon request, furnish a copy of it to the Commission or its staff. <sup>19</sup>
+
+One commenter suggested that the Commission use its exemptive authority to eliminate the requirement that SROs file proposed rule changes with the Commission pursuant to Section 19(b)(7) of the Act. <sup>20</sup> The Commission believes that this comment isoutside the scope of the proposed amendments and therefore is not making any changes to the proposal in this regard.
+
+<h>B. Posting of Rule 19b-7 Proposed Rule Changes on SRO Web sites</h>
+
+The Commission also proposed to amend Rule 19b-7 to require each SRO to post proposed rule changes filed pursuant to that Rule, and any amendments thereto, on its public Web site no later than two business days after filing with the Commission. The Commission also proposed to require SROs to continue to post such proposed rule changes until 60 days after the SRO files a written certification with the CFTC, the CFTC determines that review of the proposed rule change is not necessary, or the CFTC approves the proposed rule change. The Commission is adopting these amendments as proposed.
+
+The Commission believes the Web site posting requirement provides interested persons with easy access to proposed rule changes, while at the same time providing SROs with sufficient time to comply with the posting requirement. <sup>21</sup> Based on the Commission’s experience with respect to SROs’ obligation to post proposed rule changes under Rule 19b-4, the Commission believes that the two business day timeframe strikes an appropriate balance between promoting the public interest of having proposed rule changes posted quickly and the need for the SROs to have adequate time to perform the technological tasks necessary to post the proposed rule change. <sup>22</sup> The Commissionbelieves all market participants, investors, and other interested parties should have access to SRO proposed rule changes filed with the Commission, and any amendments, as soon as practicable. Moreover, the Commission believes that Web site accessibility of SRO proposed rule changes filed under Section 19(b)(7) of the Act will: (1) provide interested persons with faster access to proposed rule changes; (2) facilitate the ability of interested persons to comment on the proposals; (3) save SRO resources currently used to monitor the Commission’s Public Reference Room for competitors’ proposed rule changes; and(4) enhance the transparency of the rule filing process by providing ready access to proposed rule changes and facilitating public comment on them.
+
+The Commission is also adopting as proposed amendments requiring SROs to remove proposed rule changes filed under Section 19(b)(7) of the Act that are deemed not properly filed and returned to SROs or withdrawn by SROs from their Web sites within two business days from the Commission’s notification to the SRO that such proposed rule change was not properly filed, <sup>23</sup> or of the SRO’s withdrawal of the proposed rule change.
+
+The NFA requested clarification on whether it could keep proposed rule changes on its Web site for longer than the 60-day period provided in the proposed rule, and whether it could maintain on its Web site the letter submitted to the CFTC in connection with a proposed rule change that it withdraws from filing with the Commission or isthe SRO’s public Web site within two business days of filing with the Commission.notified was not properly filed. NFA also noted that leaving the letter submitted to the CFTC on the NFA Web site may provide useful historical information regarding NFA rule changes or other matters. <sup>24</sup> In this regard, the Commission notes that the amended rule only establishes minimum periods for which an SRO must post its proposed rule changes. An SRO may maintain a Form 19b-7 filing on its Web site after the 60-day period has ended. In addition, Rule 19b-7 does not apply to any filing other than those made under Section 19(b)(7)(A). Thus, an SRO may post on its Web site submissions to the CFTC or other materials, as it chooses.
+
+Finally, Dr. Angel, suggested that all SROs be required to describe the status of rule filings ( e.g. , “effective,” “under review at the Commission,” “rejected,” “superseded by a new proposal,” etc.) on their Web sites. <sup>25</sup> In addition, Dr. Angel suggested that the Commission require SROs to post all filings submitted to the Commission, including Form 1 and Form PILOT, and that the Commission require alternative trading systems to post their Forms ATS on their respective Web sites. <sup>26</sup> The Commission believes these suggestions are outside the scope of the proposed amendments, which relate exclusively to electronic filing by securities futures exchanges under Section 19(b)(7) of the Act, and therefore is not modifying the proposal in response to these comments. <sup>27</sup>
+
+<h>C. Requirement to Update Rule Text on SRO Web Sites</h>
+
+Currently, Rule 19b-4(m) under the Act <sup>28</sup> requires all SROs to post and maintain on their Web sites a complete and accurate copy of their rules. In addition, an SRO must update its Web site to reflect rule changes within two business days after being notified of the Commission’s approval of a proposed rule change filed pursuant to Section 19(b)(2) of the Act or of the Commission’s notice of a proposed rule change filed pursuant to 19(b)(3)(A) or 19(b)(7) of the Act. As adopted, all SROs will continue to be required to post and maintain a complete and accurate copy of their rules and to update their Web sites to reflect their proposed rule changes.
+
+<h>1. New Paragraph (g) of Rule 19b-7</h>
+
+The Commission proposed to add paragraph (g) to Rule 19b-7 to move the requirement that an SRO filing a proposed rule change under Section 19(b)(7): (1) post and maintain a current and complete version of its rules on its Web site; and (2) update the rules posted on its Web site within two days after a rule change becomes effective. <sup>29</sup> The Commission is adopting new paragraph (g) to Rule 19b-7 as proposed, with certain minor changes to reflect comments from the NFA. <sup>30</sup>
+
+The NFA asked the Commission to modify the proposed language in Rule 19b- 7(g) so that an SRO’s obligation to update its rules on its Web site would apply no sooner than two days after the SRO’s receipt of notice from the CFTC that it had determined that review of the proposal was not necessary or that it had approved the proposal. <sup>31</sup> The NFA states that the CFTC does not have an electronic filing system and, therefore, the NFA does not always receive immediate notification of CFTC action.
+
+In response to the NFA’s comment, the Commission is amending Rule 19b-7(g) to require an SRO to update its Web site to reflect rule changes filed under Section 19(b)(7) within two business days of the later of: (1) the Commission’s notice of the proposed rule change; or (2) the filing by the SRO of a certification with the CFTC under Section 5c(c) of the Commodities Exchange Act, receipt of notice from the CFTC that it has determined that review of such proposed rule change is not necessary, or receipt of notice from the CFTC that it has approved such proposed rule change. The Commission believes these changes are appropriate because they do not impose an obligation on an SRO to update its Web site until the SRO has notice of the CFTC action and no sooner than SROs are obligated to update their rule text for proposals submitted pursuant to Section 19(b)(3)(A) of the Act, which are effective upon filing with the Commission.
+
+<h>2. Amendments to Paragraph (m) of Rule 19b-4</h>
+
+The Commission also proposed to make a conforming change to Ruletechnology on their Web sites which facilitates research of their rules, the Commission does not believe it is necessary or appropriate to require SROs to use a particular application to publish their rules.19b-4 to remove the requirement in paragraph (m) that SROs update their Web sites to reflect proposed rule changes filed pursuant to Section 19(b)(7) of the Act. As discussed above, the Commission has moved this requirement to Rule 19b-7. The Commission is adopting the conforming changes to Rule 19b-4 as proposed. <sup>32</sup>
+
+In addition, in response to comments from the NFA, the Commission is modifying Rule 19b-4(m) as it applies to an exchange registered with the Commission under Section 6(g) or a limited purpose national securities association registered under Section 15A(k) with regard to the period within which it must update its rule text on its Web site. An Exchange registered with the Commission under Section 6(g) of the Act <sup>33</sup> or a limited purpose national securities association registered under Section 15A(k) of the Act, <sup>34</sup> may be required to file certain proposed rule changes under Section 19(b)(2) of the Act. Such proposed rule changes do not become effective until: (1) the Commission approved the proposal; and (2) the SRO filed with the CFTC a written certification, the CFTC determined that review of the proposed rule change is not necessary, or the CFTC approved the proposed rule change. Accordingly, the final rule the Commission is adopting provides that an exchange that is registered with the Commission under Section 6(g) of the Act or a limited purpose national securities association registered under Section 15A(k) of the Act, is required to update its rule text on its Web site to reflect rule changes filed under Section 19(b)(2) of the Act within two business days of the later of:
+
+<h>1. the Commission’s approval of the proposed rule change; or (2) the SRO’s filing of a written certification with the CFTC under Section 5c(c) of the Commodity Exchange Act, notice from the CFTC that it has determined that review of the proposed rule change is not necessary, or notice from the CFTC that it has approved the proposed rule change.</h>
+
+The Commission believes these modifications to the proposal are appropriate because they reflect the practical effect of the fact that exchanges registered under Section 6(g) of the Act and national securities association registered under Section 15A(k) of the Act are also regulated by the CFTC. Under this dual regulatory scheme, proposed rule changes must become effective under both the Act and the CEA. The final rule makes clear that such an SRO’s obligation to update its Web site to reflect rule changes arises only after such rule changes have become effective under both the Act and the CEA.
+
+<h>D. Form 19b-7 Amendments</h>
+
+<h>1. Form 19b-7 Amendments</h>
+
+The Commission proposed to amend the instructions to Form 19b-7 to eliminate the requirement to submit nine paper copies and instead to require electronic filing of Form 19b-7. The Commission is adopting this amendment as proposed. To access the secure Internet site for Web-based filing of the Form 19b-7, an SRO will submit to the Commission an External Application User Authentication Form (“EAUF”) to register each individual at the SRO who will be submitting Forms 19b-7 on behalf of the SRO. Upon receipt and verification of the information in the EAUF process, the Commissionwill issue each such person a User ID and Password to permit access to the Commission’s secure Web site. As Form 19b-7 will be electronic, initially the authorized user at an SRO will access a screen containing a filing template, referenced as Page 1, in which it can identify the SRO, enter a brief description of the proposed rule change, and enter a brief description of the SRO governing body action approval. <sup>36</sup> The SRO will provide contact information and place the electronic signature of a duly authorized officer on this Page 1 initial screen. <sup>37</sup> The second screen of the electronic Form 19b-7 will provide the SRO with a means to attach the proposed rule change and related exhibits in Microsoft Word format. <sup>38</sup> EAUF users will have electronic access to a mechanism to fulfill the requirements of the Form, as adapted for electronic filing. <sup>39</sup> Finally, the SRO will use the electronic Form 19b-7 to amend or withdraw a rule filing pending with the Commission.
+
+The Commission also proposed a number of changes to Form 19b-7, unrelated to electronic filing, that are modeled after certain provisions in Form 19b-4, which the Commission believed would facilitate an SRO’s proper filing of Form 19b-7. The Commission is adopting the changes to Form 19b-7 substantially as proposed. For example, the format of the Instructions to Form 19b-7 will be organized according to the sections currently used for Form 19b-4 Instructions, instead of the combination of questions and titles that serve as subject heads in the existing Instructions to Form 19b-7 currently. The amended Form 19b-7 will require the SRO to describe the purpose of the proposed rule change in sufficient detail to enable the public to provide meaningful public comment. <sup>40</sup> The Form 19b-7 will direct the SRO to relevant sections of the Act that are appropriate for discussion in the Statutory Basis section of the Form 19b-7 and will clarify that a mere assertion that the proposed rule change is consistent with the Act is not sufficient to describe why the proposed rule change is consistent with the Act. The amended Form 19b-7 will also provide updated instructions related to the solicitation of comments from interested persons regarding the proposed rule change. These updated instructions will include the new address where interested parties may direct comments to Form 19b-7 filings in hard copy and describe the manner in which comments may be submitted on the Commission Web site.
+
+The changes to Form 19b-7 will alter the way that the Exhibits are organized and the Instructions to such Exhibits are presented. For example, the amended Instructions will direct an SRO to include the completed notice of the proposed rule change (“Form19b-7 Notice” or “Notice”) as Exhibit 1, whereas such notice is not assigned to an Exhibit in the existing Form 19b-7. The instructions for the Form 19b-7 Notice will be amended to include more detailed guidance on the current requirement that the Notice must be formatted to comply with the requirements for Federal Register publication. For example, the amended Instructions will provide guidance regarding Federal Registerrequirements relating to margin spacing, page numbering, and line spacing.
+
+The subject of existing Exhibit 1, relating to communications with third parties on the subject of the proposed rule change, will move to Exhibit 2. The guidance in the existing Instructions to Exhibit 2 will be replaced, in Exhibit 3, with more detailed guidance as to how the SRO should present forms, reports, and questionnaires that the SRO proposes to use to implement the terms of the proposed rule change. The requirement to include the text of the proposed rule change will remain in Exhibit 4, but the requirement for the SRO to describe the anticipated effect of the proposed rule change would have on the application of other rules of the SRO will move to Section II(A)(1)(b) of the Form 19b-7 Notice.
+
+The Commission is adopting as proposed, a requirement that an SRO submitting a Form 19b-7 attach, in Exhibit 5, a document reflecting the certificate of effectiveness of a proposed rule change, an SRO’s request or the CFTC’s determination that review of the proposed rule change is not necessary, or an SRO’s request for CFTC approval or an indication from the CFTC that the proposed rule change has been approved. Page 1 of Form 19b-7 will provide a space for SROs to indicate which of these actions, noted in the preceding sentence, has been taken by the SRO or the CFTC. After further consideration of the issue, the Commission is modifying Page 1 to provide greater specificity as to thestatus of the effectiveness of the proposed rule change. Accordingly, Page 1 will have separate boxes for the SRO to mark indicating whether it is attaching a copy of its request that the CFTC determine that review of the proposed rule change is not necessary or a copy of the CFTC’s determination that review of the proposed rule change is not necessary. Similarly, an SRO will be able to mark separate boxes indicating whether the SRO is attaching a document reflecting the SRO’s request that the CFTC approve the proposed rule change or to indicate that the SRO is attaching the CFTC’s approval of the proposed rule change. Page 1 will also indicate that the SRO may submit more than one document in Exhibit 5.
+
+As amended, the Instructions to Form 19b-7 describe circumstances under which an SRO must file an amendment to a proposed rule change and the procedures an SRO must follow when submitting an amendment electronically. The Instructions for Form 19b-7 state, in relevant part, that if “any information on this form or exhibit thereto is or becomes inaccurate before the proposed rule change becomes effective, the [SRO] shall file amendments correcting any such inaccuracy.” This instruction, for example, will require an SRO to file an amended Exhibit 5 when the SRO receives notice from the CFTC that review of the proposed rule change is not necessary or that the CFTC has approved the proposed rule change, if the SRO receives such notice following the submission of the original proposed rule change.
+
+The Commission believes that the changes to Form 19b-7, which are designed generally to conform to the updated Form 19b-4, will promote uniformity among SRO proposed rule change filings. This uniformity should facilitate SROs’ compliance with the rule filing requirements under Section 19(b) and the Commission’s review ofproposed rule changes. The changes are also expected to facilitate a speedy migration to electronic filing for SROs submitting proposed rule changes under Section 19(b)(7).
+
+As noted above, the Commission recognizes that in rare circumstances SROs may be unable to file certain documents electronically with the Commission. Therefore, under these limited circumstances, the Commission would consider whether to allow SROs to file documents in paper format within five days of the electronic filing of all other required documents. <sup>41</sup> In the Electronic 19b-7 Proposing Release, the Commission solicited comment on whether there would be a need for an exception to the electronic filing requirement of Exhibit 5 to Form 19b-7. In response, the NFA suggested that while an explicit exception from the electronic filing requirement of Exhibit 5 was not necessary, the Commission should reserve the general exemptive authority to allow paper filings for all or part of a rule filing in unusual situations. <sup>42</sup> The Commission believes that the proposed rule changes filed pursuant to Section 19(b)(7) of the Act are usually not so time-sensitive that failure to file them with the Commission on a particular date will result in negative consequences to SROs, their members, or investors. In the rare situation where an SRO can demonstrate to the Commission that its inability to file a proposed rule change electronically on that particular date will cause harm to the SRO, its members, or investors, the Commission would consider appropriate relief. In such emergency situations, the Commission could consider an SRO’s exemption request fromthe electronic rule filing requirements of Section 19(b) of the Act pursuant to Rule 0-12 of the Act <sup>43</sup> and Section 36(a)(1) of the Act <sup>44</sup> “to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.” In making such findings, the Commission generally would consider important the existence of factors such as: (1) an extended electronic outage at the SRO facility or at the Commission; (2) a pressing need for implementation of the proposed rule change; and (3) a failure of back-up facilities. The Commission notes that SROs, in their business continuity planning, should ensure that they have appropriate back-up facilities to accommodate electronic filing of proposed rule changes. Accordingly, the Commission is adopting the rule as originally proposed, without a specific exception to permit SROs to file Exhibit 5 on paper.
+
+<h>2. Accurate, Consistent, and Complete Forms 19b-7</h>
+
+The Commission firmly believes that, to provide the public with a meaningful opportunity to comment, a proposed rule change must be accurate, consistent, and complete. Form 19b-7 states that the form, including the exhibits, is intended to elicit information necessary for the public to provide meaningful comment on the proposed rule change and for the Commission to determine whether abrogation of the proposal is appropriate because it unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and protection of investors. <sup>45</sup>
+
+The SRO must provide all the information called for by the form, including the exhibits, and must present the information in a clear and comprehensible manner.
+
+Currently, Commission staff devotes significant time to processing proposed rule changes, reviewing them for accuracy and completeness, and preparing them for publication. SRO staff must ensure that the filings: (1) contain a properly completed Form 19b-7; (2) contain a clear and accurate statement of the authority for, and basis and purpose of, such rule change, including the impact on competition; (3) contain a summary of any written comments received by the SRO; (4) contain the proper certification submitted to the CFTC, any other appropriate determination made by the CFTC that a review of the proposed rule change is not necessary, or an indication that the CFTC has approved the proposed rule change; and (5) describe the impact of the proposed rule change on the existing rules of the SRO, including any other rules proposed to be amended. As described in the current Form 19b-7, filings that do not comply with the foregoing are deemed not filed and returned to the SRO. Under these amendments the Commission is adopting, electronically filed proposed rule changes that do not comply with the foregoing will continue to be returned to the SRO, but in electronic format, and, consistent with current practice, will be deemed not filed with the Commission until all required information has been provided.taken effect pursuant to Section 19(b)(7)(B) of the Act if it appears to the Commission that such a rule change unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and the protection of investors.
+
+<h>E. Amendments to Form 19b-4</h>
+
+The Commission proposed to clarify on Form 19b-4 that an individual who signs the Form 19b-4 digitally must be an officer authorized by the SRO’s governing body to sign proposed rule changes on behalf of the SRO. Accordingly, the Commission proposed to amend Page 1 of Form 19b-4 to add the word “officer” to follow the phrase “duly authorized” in the Signature Box appearing on that page. <sup>46</sup> The Commission notes that this change does not create any new obligation. Section F of the Instructions to Form 19b-4 provides that a “duly authorized officer” sign Form 19b-4 submissions, but the word “officer” was inadvertently omitted from the signature box when the electronic Form 19b-4 was adopted. <sup>47</sup> The Commission is adopting this amendment as proposed.
+
+<h>F. Date of Effectiveness of the Proposal</h>
+
+One commenter requested a 30 day delay before implementation of the proposed amendments. <sup>48</sup> The Commission believes that the SROs will benefit from an effective date that provides them with time to familiarize themselves with the EFFS and to make the technological changes to the procedures for updating their Web sites necessary to comply with the new obligations under this proposal. Accordingly, these amendments will become effective on [ insert date 30 days after publication in the Federal
+
+Register ] , 30 days following publication in the Federal Register .
+
+<h>III. Paperwork Reduction Act</h>
+
+Certain provisions of the amendments to Rule 19b-7 and Form 19b-7 and Rule 19b-4 and Form 19b-4 contain “collection of information requirements” within the meaning of the Paperwork Reduction Act of 1995. <sup>49</sup> Accordingly, the Commission submitted the information to the Office of Management and Budget (“OMB”) for review revisions to the current collection of information titled “Rule 19b-7 Under the Securities Exchange Act of 1934” (OMB Control No. 3235-0553). The Commission also submitted revisions to the current collection of information titled “Form 19b-7 Under the Securities Exchange Act of 1934” (OMB Control No. 3235-0553). In addition, the Commission has submitted revisions to the current collection of information titled “Rule 19b-4 Under the Securities Exchange Act of 1934” (OMB Control No. 3235-0045). Finally, the Commission submitted revisions to the current collection of information titled “Form19b-4 Under the Securities Exchange Act of 1934” (OMB Control No. 3235-0045). An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. In the Electronic 19b-7 Proposing Release, the Commission solicited comments on the collection of information requirements, but received no response to the solicitation.
+
+Accordingly, the Commission is making no adjustments to the burden estimates provided in the Electronic 19b-7 Proposing Release. <sup>50</sup>
+
+<h>A. Summary of Collection of Information</h>
+
+Prior to these amendments, Rule 19b-7 required an SRO that proposes to add, delete, or amend its rules relating to certain subjects <sup>51</sup> to submit such proposed rule change to the Commission on Form 19b-7. Form 19b-7 required the respondent: (1) to state the purpose of the proposed rule change; (2) to state the authority and statutory basis for the proposed rule change; (3) to describe the proposal’s impact on competition; (4) to provide a summary of any written comments on the proposed rule change received by the SRO; and (5) to describe the date upon which the proposed rule change becomes effective and provide supporting documentation relevant to the effectiveness date. The amendments add a requirement to Form 19b-7 that an SRO provide on Page 1 of Form 19b-7 more information about a staff member prepared to answer questions about the filing, such as the SRO staff member’s title, email address and fax number. The amendments also require Web site posting of all proposed rule changes, and any amendments thereto. In addition, the amendments codify in Rule 19b-7 the requirement previously located in Rule 19b-4(m) that SROs submitting Form 19b-7 post a current and complete set of their rules on their Web sites. In response to a commenter’s concerns, the Commission modified the amendment so that a security futures exchange or a limited purpose national securities association will be required to update its Web site within two business days after it files a written certification with the CFTC under Section 5c(c) of the Commodities Exchange Act, within two business days after the SRO’s receipt of notice from the CFTC that it has determined that review of the proposed rule change isnot necessary, or within two business days after the SRO receives an indication from the CFTC that it has approved the proposed rule change, or within two business days of the Commission’s notice of the proposed rule change, if such notice occurs after the CFTC certification, determination, or approval. The amendments also clarify that a mere assertion that the proposed rule change is consistent with the Act is not sufficient to describe why the proposed rule change is consistent with the Act. Rule 19b-4(m) will continue to require SROs to update their rules on their Web sites to reflect proposed rule changes filed pursuant to Section 19(b)(2) and 19(b)(3)(A) of the Act. Proposed Rule 19b-7(g) will require SROs to update their rule texts on their Web sites to reflect rule changes filed pursuant to Section 19(b)(7) of the Act following the Commission’s notice of such proposed rule change, within two business days after such rule change takes effect. All SROs that file Form 19b-4 and Form 19b-7 currently post this information on their Web sites. Therefore, SROs will not be required to provide additional information to comply with proposed Rule 19b-7(g) and current Rule 19b-4(m).
+
+<h>B. Use of Information</h>
+
+The information provided via EAUF, as required by the amendments to Form 19b-7, will be used by the Commission to verify the identity of the individual representing the SRO and provide such individual access to a secure Commission Web site for filing of the Form 19b-7. The amendment will require that SROs post their proposed rule changes filed pursuant Section 19(b)(7) of the Act on their Web sites, so that these proposals could be viewed by the general public, SRO members, competing SROs, other market participants, and Commission staff. The information will enable interested parties to more easily access SRO rules and rule filings, which will facilitatepublic comment on proposed SRO rules. In addition, SRO staff, members, industry participants, and Commission staff will utilize the accurate and current version of SRO rules that are posted on the SRO Web site to facilitate compliance with such rules.
+
+<h>C. Respondents</h>
+
+There are currently five SROs <sup>52</sup> registered with the Commission as national securities exchanges under Section 6(g) of the Act or as a national securities association registered with the Commission under Section 15A(k) of the Act subject to the collection of information for Rule 19b-7, though that number may vary owing to the consolidation of SROs or the introduction of new entities. In a fiscal year, these respondents filed an average of 12 rule change proposals and 3 amendments to those proposed rule change proposals, for an average of 15 filings per fiscal year that are subject to the current collection of information. <sup>53</sup> Of the 12 proposed rule changes filed by SROs, all 12 ultimately became effective because the SROs did not withdraw any proposed rule changes.
+
+<h>D. Total Annual Reporting and Recordkeeping Burden</h>
+
+<h>1. Background</h>
+
+The amendments to Rule 19b-7 and Form 19b-7 are designed to modernize the SRO rule filing process and to make the process more efficient by conserving both SROand Commission resources. Rule 19b-7 and Form 19b-7 are amended to require SROs to electronically file their proposed rule changes. Form 19b-7 is revised to accommodate electronic submission. In addition, SROs will be required to post on their Web sites proposed rule changes submitted on Form 19b-7 to the Commission and amendments thereto. A conforming amendment codifies in Rule 19b-7 the current requirement in Rule 19b-4(m) for SROs to maintain a current and complete set of their rules on their Web site.
+
+<h>2. Rule 19b-7 and Form 19b-7</h>
+
+The Commission does not expect that the amendments to Rule 19b-7 and Form 19b-7 relating to electronic filing of proposed rule changes and amendments will impose any material upfront cost on SROs. The technology for electronic filing will be Web- based; therefore, the SROs are not expected to have any material upfront technology expenditures for electronic filing because all SROs currently have access to the Internet.
+
+However, each SRO will be required to obtain a digital ID from a certificating authority. The Commission estimates the annual cost of the ID to be approximately $20 for each SRO. <sup>54</sup> The Commission estimates that each SRO will purchase five such digital IDs for its staff. Thus, the annual cost of the ID for all SROs is expected to be approximately $500 (5 SROs x $20 x 5). The Commission included these estimates in its proposal and received no comments on them.
+
+In addition, the Commission believes that SROs may incur some costs associated with training their personnel about the procedures for submitting proposed rule changeselectronically via EFFS. However, the Commission believes that such costs will be one- time costs and relatively insubstantial since the SROs are already familiar with the information required in filing a proposed rule change with the Commission and will be required to submit the same information they currently submit in electronic form under these amendments. Based on the experience of the Commission staff in training SROs for the implementation of electronic Form 19b-4 filings, the Commission estimates that each SRO will spend approximately two hours training each staff member who will use the EFFS to submit the proposed rule changes electronically. Accordingly, the Commission estimates that the upfront cost of training SRO staff members to use EFFS will be 50 hours (5 SROs x 2 hours x 5 staff members). The Commission included these estimates in its proposal and received no comments on them.
+
+An SRO rule change proposal is generally filed with the Commission after an SRO’s staff has obtained approval from its Board. The time required to complete a filing varies significantly and is difficult to separate from the time an SRO spends in developing internally the proposed rule change. However, the Commission estimates that15.5 hours is the amount of time required to complete an average rule filing using present Form 19b-7. <sup>55</sup> This figure includes an estimated 11.5 hours of in-house legal work and four hours of clerical work. The amount of time required to prepare amendments varies because some amendments are comprehensive, while other amendments are submitted in the form of a one-page letter. The Commission estimates that, under current rules, seven hours is the amount of time required to prepare an amendment to the rule proposal. Thisfigure includes an estimated two hours of in-house legal work and five hours of clerical work. The Commission included these estimates in its proposal and received no comments on them.
+
+Based upon the experience of electronic filing of proposed rule changes on Form 19b-4, the Commission expects that an electronic Form 19b-7 and new requirements to Form 19b-7 will reduce by three hours the amount of SRO clerical time required to prepare the average proposed rule change and by four hours for an amendment thereto. The Commission does not believe that the new instruction specifying that an SRO describe the purpose of the proposed rule change in sufficient detail to enable the Commission to determine whether abrogation is appropriate will add any additional burden to the Form 19b-7 filing process because the existing Instructions to Form 19b-7 already required that all information in the Form must be presented in a manner which will enable the Commission to make such a determination. The Commission does not believe that the additional contact information of an SRO staff member on Page 1 of the Form will add any measurable burden to an SRO submitting a Form 19b-7, because the information is so readily accessible to the party submitting the filing. The Commission does not believe that requiring the SROs to indicate on Page 1 of Form 19b-7 whether the CFTC has determined that review of the proposed rule change is not necessary or that the CFTC has approved the proposed rule change, as proposed herein, will create any addition burden to the SROs because the SROs are already required to indicate such information in Exhibit 1 to Form 19b-7. With the proposed electronic filing, the Commission staff estimates that 12.5 hours is the amount of time that will be required to complete an average rule filing and that three hours is the amount of time required tocomplete an average amendment. These figures reflect the three hours in savings in clerical hours that would result from the use of an electronic form for rule filings and four hours for amendments. <sup>56</sup> The Commission estimates that the reporting burden for filing rule change proposals and amendments with the Commission under the proposed amendments will be 159 hours (12 rule change proposals x 12.5 hours + 3 amendments x 3 hours). The Commission included these estimates in its proposal and received no comments on them.
+
+<h>3. Posting of Proposed Rule Changes filed under Rule 19b-7 on SRO Web sites</h>
+
+The amendments also require SROs to post proposed rule changes filed under Rule 19b-7, and any amendments thereto, on their Web sites. The Commission estimates that 30 minutes is the amount of time that will be required to post a proposed rule on an SRO’s Web site and that 30 minutes is the amount of time that will be required to post an amendment on an SRO’s Web site. <sup>57</sup> The Commission estimates that the reporting burden for posting rule change proposals and amendments on the SRO Web sites will be approximately eight hours (12 rule change proposals x 0.5 hours + 3 amendments x 0.5 hours). The Commission included these estimates in its proposal and received no comments on them.
+
+<h>4. SRO Rule Text</h>
+
+Currently, all SROs are required to post their current rules on their Web sites pursuant to Rule 19b-4(m). The Commission estimates, based upon its analysis in the Electronic 19b-4 Adopting Release, that the amount of the time required to update an SRO’s rule text on its Web site after a proposed rule change becomes effective to be four hours. Proposed rule changes submitted under Section 19(b)(7)(A) become effective an average of 12 times a year. Therefore, the Commission estimates that the reporting burden for updating the posted SRO rules on the SRO Web site will be 48 hours (12 proposed rule changes submitted pursuant to Section 19(b)(7)(A) x 4 hours). The Commission included these estimates in its proposal and received no comments on them.
+
+The amendment will move the burden associated with complying with this provision from Rule 19b-4(m) to Rule 19b-7(g). Based upon the Commission’s reporting burden estimate described above, the Commission estimates that the amendments will reduce the burden associated with SROs’ compliance with the requirement provided in Rule 19b-4 that SROs post current and complete rule text on their Web sites and update that rule text after it changes following the effectiveness of a proposed rule change by 48 hours annually and increase the corresponding burden for compliance with Rule 19b-7 by 48 hours. The Commission anticipates that the amendments to Rule 19b-7(g) proposed herein, relating to the timing of updates to SRO rules do not impact the compliance burden for this rule. The Commission included these estimates in its proposal and received no comments on them.
+
+In addition, in response to comments from the NFA, the Commission is also modifying Rule 19b-4(m) as it applies to an exchange registered with the Commissionunder Section 6(g) or a limited purpose national securities association registered under Section 15A(k). In its comment letter, the NFA noted that receipt of notification of CFTC action is not always immediate and requested that the Commission change the period within which an exchange registered with the Commission under Section 6(g) or a limited purpose national securities association registered under Section 15A(k) is required to update its Web site to be based on receipt of CFTC action and not the date the CFTC action occurs. <sup>58</sup> In response to this comment, Rule 19b-7(g) will now will require that an exchange registered with the Commission under Section 6(g) or a limited purpose national securities association registered under Section 15A(k) to update its rule text on its Web site to reflect rule changes filed under Section 19(b)(2) of the Act within two business day of the later of: (1) Commission approval of the proposed rule change; or (2) the SRO’s filing of a written certification with the CFTC under Section 5c(c) of the Commodities Exchange Act, notice from the CFTC that it has determined that review of the proposed rule change is not necessary, or notice from the CFTC that it has approved the proposed rule change. The Commission does not believe this amendment will create any additional burden to SROs because the all SROs are already required to update their Web sites following the Commission’s approval of rule changes submitted to the Commission pursuant to Section 19(b)(2) of the Act.
+
+<h>5. Total Annual Reporting Burden</h>
+
+The Commission estimates that the total annual reporting burden under the proposed rule will be 167 hours (159 hours for filing proposed rule changes andamendments + 8 hours for posting proposed rule changes and amendments on the SROs’ Web sites + 48 hours for posting and updating complete sets of SRO rule text pursuant to Rule 19b-7 – 48 hours for posting and updating complete sets of SRO rule text pursuant to Rule 19b-4).
+
+In addition to the 167 hour annual burden, the Commission believes that SROs may incur some costs associated with training their personnel about the procedures for submitting proposed rule changes electronically and submission of the information via EFFS. However, the Commission believes that such costs will be one-time costs and relatively insubstantial since the SROs are already familiar with the information required in filing a proposed rule change with the Commission and will be required to submit the information (already required to be submitted) electronically under this proposal. The Commission estimates that each SRO will spend approximately two hours training each staff member who will use the EFFS to submit the proposed rule changes electronically. Accordingly, the Commission estimates that the upfront cost of training SRO staff members to use EFFS will be 50 hours (5 SROs x 2 hours x 5 staff members).
+
+The Commission does not expect that the amendments with regard to electronic filing will impose any material additional costs on SROs. Instead, the Commission believes that the amendments to Rule 19b-7 and Form 19b-7, on balance, will reduce paperwork costs related to the submission of SRO proposed rule changes. The technology for electronic filing will be Web-based; therefore, the SROs are not expected to have any technology expenditures for electronic filing because all SROs currently have access to the Internet.
+
+As previously stated, the SROs may incur costs of eight hours annually to post on their Web site their proposed rules, and amendments thereto, no later than two business days after filing with by the Commission. With regard to posting of and updating of accurate and complete text of SRO final rules, the Commission believes that the amendments will increase the burden associated with complying Rule 19b-7 by 48 hours and reduce the burden associated with complying with Rule 19b-4 by 48 hours. In addition, the Commission does not anticipate that SROs will incur any additional costs in complying with the change to Form 19b-4, which adds the word “officer” to the Signature Box because the addition of the word simply provides transparency to an obligation that already exists. <sup>59</sup> Accordingly, the Commission does not believe that SROs will incur any additional costs in posting this information on their Web sites.
+
+<h>E. Retention Period of Recordkeeping Requirements</h>
+
+The SROs will be required to retain records of the collection of information (the manually signed signature page of the Form 19b-7) for a period of not less than five years, the first two years in an easily accessible place, according to the current recordkeeping requirements set forth in Rule 17a-1 under the Act. <sup>60</sup> The SROs will be required to retain proposed rule changes, and any amendments, on their Web sites until <sup>60</sup> days after effectiveness of the proposed rule that is filed with both the Commission and the CFTC or within two business days of withdrawal of the proposed rule change or notification that it isimproperly filed. <sup>61</sup> The SRO will be required at all times to maintain an accurate and up-to- date copy of all of its rules on its Web site. <sup>62</sup>
+
+<h>F. Collection of Information is Mandatory</h>
+
+Any collection of information pursuant to the amendments to Rule 19b-7 and Form 19b-7 to require electronic filing with the Commission of SRO proposed rule changes will be a mandatory collection of information filed with the Commission as a means for the Commission to review, and, as required, take action with respect to SRO proposed rule changes. Any collection of information pursuant to amendments to require Web site posting by the SROs of their proposed and final rules will also be a mandatory collection of information.
+
+<h>G. Responses to Collection of Information Will Not Be Kept Confidential</h>
+
+Other than information for which an SRO requests and obtains confidential treatment in accordance with the provisions of 5 U.S.C. 522, the collection of information pursuant to amendments to Rule 19b-7 and Form 19b-7 under the Act will not be confidential and will be publicly available. <sup>63</sup>
+
+<h>IV. Costs and Benefits of the Rulemaking</h>
+
+In the Electronic 19b-7 Proposing Release, the Commission identified certain costs and benefits of the amendments to Rule 19b-7 and Form 19b-7. <sup>64</sup> As noted, the Commission estimates that the total annual paperwork reporting burden under the proposed rule will be 167 hours. The Commission, however, believes that there will be an overall reduction of costs based on the amendments. <sup>65</sup> The Commission received one comment letter relating to the cost and benefits of the proposed amendments. <sup>66</sup> The commenter expressed its belief that the amendment will reduce the costs and burdens associated with compliance with Rule 19b-7 and Form 19b-7. Thus, after careful consideration, the Commission is not modifying its costs and benefits analysis from that presented in the Electronic 19b-7 Proposing Release <sup>67</sup> and believes that the benefits of the amendments justify the costs that they will impose.
+
+<h>A. Benefits</h>
+
+The amendments are designed to modernize the filing, receipt, and processing of SRO proposed rule changes and to make the SRO rule filing process more efficient by conserving both SRO and Commission resources. The Commission believes that the changes to Rule 19b-7 and Form 19b-7 will permit SROs to file proposed rule changeswith the Commission more quickly and economically. For example, SROs are currently required to pay for delivery costs of multiple paper copies to the Commission and incur costs associated with monitoring the Commission’s Public Reference Room for competitors’ rule filings. Requiring SROs to electronically file proposed rule changes under Rule 19b-7 is expected to reduce expenses associated with clerical time, postage, and copying and to increase the speed, accuracy, and availability of information beneficial to investors, other SROs, and financial markets.
+
+The Commission does not expect that the amendments will impose additional costs on SROs. Instead, the Commission believes that the amendments to Rule 19b-7 and Form 19b-7, on balance, will reduce costs related to the submission of SRO proposed rule changes. The technology for electronic filing will be Web-based; therefore, the SRO is not expected to have any material increase in technology expenditures for electronic filing because all SROs currently have access to the Internet. Accordingly, the Commission believes that the amendments to Rule 19b-7 and Form 19b-7, by requiring the SROs to submit proposed rule changes electronically, will reduce their costs.
+
+Because Commission staff will no longer manually process the receipt and distribution of SRO rule filings submitted on Form 19b-7, electronic filing will also expedite the Commission’s receipt of SRO proposed rule changes filed under Rule 19b-7 and provide the SROs with the certainty that the Commission has received the proposed rule changes and has captured pertinent information about the rule changes in SRTS. Based on the Commission’s experience with electronic filing of Form 19b-4, the Commission believes that integrating this electronic filing technology with SRTS willalso enhance the Commission’s ability to monitor and process SRO proposed rule changes filed on Form 19b-7.
+
+Moreover, requiring SROs to post proposed rule changes filed under Rule 19b-7 on their Web sites no later than two business days after filing with the Commission is designed to increase availability of SRO proposed rules and thereby facilitate the ability of interested parties to comment on proposed rule changes. For instance, the posting of these proposed rule changes will provide the public with access to the filings on the SROs’ Web sites and thereby reduce the burden on SRO and Commission staff related to providing information about proposed rule changes to interested parties. The Commission believes that the posting of the proposed rule changes submitted on Form 19b-7 will also save SRO resources that are currently being used to monitor the Commission’s Public Reference Room for competitors’ proposed rule changes.
+
+<h>B. Costs</h>
+
+As previously noted, the Commission estimates that the annual paperwork reporting costs will be 167 hours under the proposed rule. The Commission believes that SROs may incur some costs associated with training their personnel about the procedures for submitting proposed rule changes electronically and submission of the information via EFFS. However, the Commission believes that such costs will be one-time costs and insubstantial since the SROs are already familiar with the information required in filing a proposed rule change with the Commission and will be required to submit the same information electronically under these amendments. In the Electronic 19b-7 Proposing Release, the Commission estimated that the total amount of one-time costs that SROs will incur in training personnel how to use EFFS is 50 hours and received no comments onthis estimate. The Commission believes that the SROs may also incur some minimal costs (currently $20 per year) associated with purchasing digital IDs for each duly authorized officer electronic signatories. <sup>68</sup> The Commission also believes that the SROs will have to make temporary adjustments to their recordkeeping procedures since the SROs will be required to print out the Form 19b-7 signature block, manually sign proposed rule changes, and retain the manual signature for not less than five years.
+
+However, there are not expected to be additional costs associated with such recordkeeping as SROs are currently required to retain the Form 19b-7 for not less than five years.
+
+Moreover, the Commission believes that the requirement that SROs post proposed rule changes on their Web sites will impose some but not substantial costs on most SROs. The Commission notes that no new costs will be associated with posting a current and complete version of their rules on their Web site because currently all SROs promptly post this information on their Web sites pursuant to Rule 19b-4(m). In addition, the Commission does not anticipate that SROs will incur any material additional costs in complying with the change to Form 19b-4, which adds the word “officer” to the Signature Box because the addition of the word simply provides transparency to an obligation that already exists. <sup>69</sup> Therefore, at all times, each SRO must maintain a current and complete set of its rules to facilitate compliance with this requirement.
+
+Accordingly, the Commission does not believe that SROs will incur substantial costs in simply posting this information on their Web sites because they are already required to do so.
+
+<h>V. Consideration of the Burden on Competition, Promotion of Efficiency, and Capital Formation</h>
+
+Section 3(f) of the Act <sup>70</sup> requires the Commission, whenever it engages in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. In addition, Section 23(a)(2) of the Act <sup>71</sup> requires the Commission, when promulgating rules under the Act, to consider the impact any such rules would have on competition. Section 23(a)(2) further provides that the Commission may not adopt a rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Act.
+
+In the Electronic 19b-7 Proposing Release, the Commission considered how the proposed amendments to Rule 19b-7 and Form 19b-7 would impact competition among SROs, and whether they would promote efficiency and capital formation. <sup>72</sup> The Commission requested comment on the competitive or anticompetitive effects of the amendments to Rule 19b-7 and Form 19b-7 on any market participants if adopted as proposed. The Commission also requested comment on what impact the amendments, if adopted, would have on efficiency and capital formation. The Commission requestedcommenters to provide empirical data to support their views. The NFA and Dr. Angel both commented that they believed that the proposal would increase the efficiency of the 19b-7 rule filing process. <sup>73</sup>
+
+The amendments are intended to modernize the receipt and review of SRO proposed rule changes and to make the SRO rule filing process more efficient by conserving both SRO and Commission resources. As a result of the new requirement to file proposed rule changes electronically, the Commission anticipates that SROs will save time and resources currently devoted to corresponding under a paper-based system. As discussed in further detail in Section IV (“Costs and Benefits of the Rulemaking”), the Commission anticipates that SROs will save staff time in the preparation and transmission of Form 19b-7 as well as associated preparation and delivery costs.
+
+The amendments also are intended to improve the transparency of the SRO rule filing process and facilitate access to current and complete sets of SRO rules. The Commission believes that the Web site posting of rule filings submitted on Form 19b-7 will promote competition among SROs because they will be able to determine the proposed rules of their competitors more easily. Further, because the proposal does not impact a significant number of businesses or investors, the Commission believes it will have minimal impact on capital formation.
+
+<h>VI. Regulatory Flexibility Act Certifications</h>
+
+The Commission has certified, pursuant to Section 605(b) of the Regulatory
+
+Flexibility Act, <sup>74</sup> that the amendments to Rule 19b-7 and Form 19b-7 and Rule 19b-4 and Form 19b-4 will not have a significant economic impact on a substantial number of small entities. This certification, including the reasons supporting the certification, was incorporated into the Electronic 19b-7 Proposing Release. <sup>75</sup> The Commission solicited comments as to the nature of any impact on small entities. No comments were received.
+
+<h>VII. Statutory Basis and Text of Proposed Amendments</h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 78s(b)(7)(A).
+
+2 Securities Exchange Act Release No. 55341 (February 23, 2007), 72 FR 9412 (March 1, 2007) (“Electronic 19b-7 Proposing Release”).
+
+3 15 U.S.C. 78o-1(k).
+
+4 See Section 15(b)(11) of the Act. 15 U.S.C. 78o(b)(11).
+
+5 Section 19(b)(7) of the Act. 15 U.S.C. 78s(b)(7). Specifically, under Section 19(b)(7), these SROs submit those proposed rule changes that relate to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating the SRO’s obligation to enforce the securities laws.
+
+6 Section 19(b)(7)(B) of the Act. 15 U.S.C. 78s(b)(7)(B). Proposed rule changes that relate to margin, except for those that result in higher margin levels, must be filed pursuant to Sections 19(b)(1) of the Act. 15 U.S.C. 78s(b)(1).
+
+7 17 CFR 240.19b-4. See Securities Exchange Act Release No. 50486 (October 4, 2004), 69 FR 60287 (October 8, 2004) (File No. S7-18-04) (“Electronic 19b-4 Adopting Release”).
+
+8 17 CFR 240.19b-4(l).
+
+9 See Securities Exchange Act Release No. 44692 (August 13, 2001), 66 FR 43721 (August 20, 2001) (Paper Form 19b-7 Adopting Release).
+
+10 See letters to Nancy M. Morris, Secretary, Commission, from: Thomas W. Sexton, Vice President and General Counsel, National Futures Association (“NFA”), dated April 23, 2007 (“NFA Letter”) and James J. Angel, Ph.D., CFA, Associate Professor of Finance, McDonough School of Business, Georgetown University, dated April 30, 2007 (“Angel Letter”).
+
+11 See Angel Letter, supra note 10 at 1-2.
+
+12 See infra notes 65-69 and accompanying text.
+
+13 The SRO will determine which individuals would be supplied with User IDs and passwords to access the secure Web site. See infra note 17 and accompanying text.
+
+14 Occasionally, an SRO may find it necessary to file documents that cannot be submitted electronically, such as comment letters submitted to the Exchange before filing, or other exhibits. In addition, it may not be appropriate to require proprietary and other information subject to a request for confidential treatment to be filed electronically. Accordingly, the amendments to Rule 19b-7 and Form 19b-7 will retain the flexibility to permit portions of a rule filing to be made in paper form under limited circumstances. For example, the Commission will permit SROs to file materials for which confidential treatment is requested in paper format.
+
+15 The Commission notes that the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001, et seq. does not apply in this regard.
+
+16 The Commission is clarifying on amended Form 19b-7 that this individual must be an officer of the SRO, who has been authorized by the SRO’s governing body to sign proposed rule changes on behalf of the SRO. See Instruction E to Form 19b-7.
+
+17 A digital ID, sometimes called a “digital certificate,” is a file on the computer that identifies the user. Computers can use a digital ID to create a digital signature that verifies both that the message originated from a specific person and that the message has not been altered either intentionally or accidentally. The user obtains a digital ID from a “Certificate Authority” (“CA”) for a modest sum (currently approximately $20 per year). When the SRO electronically sends the Form 19b-7 to the Commission, the digital ID will encrypt the data through a system that uses “key pairs.” With key pairs, the SRO’s software application uses one key to encrypt the document. When the Commission receives the SRO’s electronic document, the Commission’s software will use a matching key to decrypt the document.
+
+18 17 CFR 240.17a-1.
+
+19 See Rule 19b-7(d). These requirements are substantially consistent with the requirements for Form 19b-4 filings, which were adapted from Section 232.302 of Regulation S-T, 17 CFR 232.302 for EDGAR filers.
+
+20 See Angel Letter, supra note 10 at 1.
+
+21 The complete proposed rule change will also be available electronically in the Commission’s Public Reference Room.
+
+22 An SRO controls the timing of filing proposed rule changes and amendments and can assure that its technology staff is prepared to post the proposed rule change on
+
+23 A screen within EFFS will indicate that a rule filing has not been properly filed and has been returned to the SRO.
+
+24 See NFA Letter, supra note 10 at 2.
+
+25 See Angel Letter, supra note 10 at 1.
+
+26 See Angel Letter, supra note 10 at 2.
+
+27 The Commission notes that it proposed to require SROs to post amendments to their Form 1s on their Web sites. See Securities Release Act No. 50699 (November 18, 2004), 69 FR 71126 (December 8, 2004). The Commission has not taken action on this proposal.
+
+28 17 CFR 240.19b-4(m).
+
+29 Section 19(b)(7)(B) of the Act requires a proposed rule change filed with the Commission under Section 19(b)(7) of the Act to be filed concurrently with the CFTC. Such proposed rule change is effective upon filing of a written certification with the CFTC, upon a determination by the CFTC that review of the proposed rule change is not necessary, or upon approval of the proposed rule change by the CFTC. 15 U.S.C. 78s(b)(7)(B).
+
+30 Dr. Angel suggested that the Commission require SROs to post their rulebooks on their Web site in one Adobe pdf file for ease of searching. See Angel Letter, supra note 10 at 1. While the Commission encourages the SROs to employ
+
+31 See NFA Letter, supra note 10 at 2-3.
+
+32 See Rule 19b-4(m)(2). The final rule also clarifies that the two-day time period is business days.
+
+33 15 U.S.C. 78f(g).
+
+34 15 U.S.C. 78o-1(k).
+
+35 See Rule 19b-4(m)(3).
+
+36 The authorized user also will be able to indicate if there will be a separate filing of any hard copy exhibits that are unable to be submitted electronically.
+
+37 As noted supra notes 15-17, and accompanying text, a person that is a “duly authorized officer” at the SRO will be required to place his or her “electronic signature” on the Form 19b-7 before it is transmitted electronically to the Commission.
+
+38 An SRO may also submit Exhibits 2, 3, and 5 in another acceptable electronic format, including Microsoft Excel, Microsoft PowerPoint, Adobe Acrobat, or Corel WordPerfect, if Microsoft Word is not available to the SRO or the document is not compatible with Microsoft Word.
+
+39 For example, the SRO will click separate boxes on the second screen to attach documents containing the various exhibits; notices, written comments, transcripts, other communications; form, report, or questionnaire; proposed rule text; CFTC certification; the completed notice of the proposed rule change for publication in the Federal Register; and, marked copies of amendments if applicable.
+
+40 See also General Instructions for Form 19b-4, which establish a similar requirement for Form 19b-4.
+
+41 This exception from electronic filing would not apply to Page 1 to Form 19b-7 or Exhibits 1 and 4 thereto but would only be applicable to Exhibits 2 and 3, and any documents filed pursuant to a request for confidential treatment pursuant to the Freedom of Information Act, 5 U.S.C. 552.
+
+42 See NFA Letter at 2.
+
+43 17 CFR 240.0-12.
+
+44 15 U.S.C. 78mm(a)(1).
+
+45 Section 19(b)(7)(C) of the Act grants to the Commission, after consultation with the CFTC, the authority to summarily abrogate a proposed rule change that has
+
+46 The proposed amendment to Form 19b-4 is attached as Appendix B.
+
+47 See Electronic 19b-4 Adopting Release, supra note 7.
+
+48 See NFA Letter at 3.
+
+49 44 U.S.C. 3501 et seq.
+
+50 See supra note 2, 72 FR 9412, 9418.
+
+51 See 15 U.S.C. 78f(g)(4)(B)(i) and 78o-3(k)(3)(A).
+
+52 The Board of Trade of the City of Chicago, Inc. (“CBOT”), Chicago Mercantile Exchange, Inc. (“CME”), CBOE Futures Exchange LLC (“CFE”), NFA, and OneChicago LLC (“OC”).
+
+53 Since the implementation of the CFMA in 2001 to September 30, 2006, SROs have filed 62 proposed rule changes pursuant to Section 19(b)(7) of the Act and 13 amendments.
+
+54 This estimate is based upon the $19.95 price displayed for the ID on VeriSign’s Web site as of October 2, 2007.
+
+55 See Electronic 19b-7 Proposing Release, supra note 2.
+
+56 The SROs’ four hour time savings would result from the elimination of tasks, such as making multiple copies of the Form 19b-7 and amendments, arranging for couriers, and making follow-up telephone calls to ensure Commission receipt.
+
+57 This estimate is based on information from the Commission’s Office of Information Technology.
+
+58 See NFA Letter, supra note 10 at 2-3.
+
+59 See Section F of the Instructions to Form 19b-4.
+
+60 SROs may also destroy or otherwise dispose of such records at the end of five years according to Rule 17a-5 under the Act. 17 CFR 240.17a-5.
+
+61 See Rule 19b-7(f).
+
+62 See Rule 19b-7(g).
+
+63 Consistent with applicable law, proposed SRO rule changes containing proprietary or otherwise sensitive information may be accorded confidential treatment, including requests submitted pursuant to the protection afforded for such information in the Freedom of Information Act, 5 U.S.C. 552.
+
+64 See supra note 2, 72 FR 9412, 9418.
+
+65 As noted in the Paperwork Reduction Act analysis, the Commission staff based this total reporting burden of 159 hours for filing proposed rule changes and amendments + 8 hours for posting proposed rule changes and amendments on the SROs’ Web sites + 48 hours for posting and updating complete sets of SRO rule text pursuant to Rule 19b-7 – 48 hours for posting and updating complete sets of SRO rule text pursuant to Rule 19b-4.
+
+66 See NFA Letter, supra note 10.
+
+67 See Proposing Release, supra note 2 at 27-30.
+
+68 In the Electronic 19b-7 Proposing Release, the Commission estimated that each SRO will purchase five of their staff such digital IDs. Thus, the annual cost of the digital ID for all SROs will be $500 (5 SROs x $20 x 5). The Commission received no comments on this estimate.
+
+69 See Section F of the Instructions to Form 19b-4.
+
+70 15 U.S.C. 78c(f).
+
+71 15 U.S.C. 78w(a)(2).
+
+72 See supra note 1, 72 FR 9412, 9419.
+
+73 See Angel Letter and NFA Letter, supra note 10.
+
+74 5 U.S.C. 605(b).
+
+75 See supra note 2, 72 FR 9412, 9419-20.
+
+76 15 U.S.C. 78s(b)(7).
+
+77 To be completed by the Commission. This date will be the date on which the Commission receives the proposed rule change filing if the filing complies with all requirements of this form. See General Instructions for Form 19b-7.

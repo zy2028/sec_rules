@@ -1,0 +1,243 @@
+https://www.sec.gov/rules/final/33-8171.htm
+
+	I.0.0.0: I. Background
+
+	II.0.0.0: II. Discussion of the Amendments
+
+	III.0.0.0: III. Paperwork Reduction Act
+
+	IV.0.0.0: IV. Cost-Benefit Analysis
+
+	V.0.0.0: V. Regulatory Flexibility Act Certification
+
+	VI.0.0.0: VI. Consideration of Impact on the Economy, Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
+
+	VII.0.0.0: VII. Effective Date
+
+	VIII.0.0.0: VIII. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Exemption for Standardized Options From Provisions of the Securities Act of 1933 and From the Registration Requirements of the Securities Exchange Act of 1934 SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 230 and 240 
+
+[Release Nos. 33-8171; 34-47082; File No. S7-29-02] 
+
+RIN 3235-AI55 
+
+EXEMPTION FOR STANDARDIZED OPTIONS FROM PROVISIONS OF THE SECURITIES ACT OF 1933 AND FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ Agency: Securities and Exchange Commission
+
+ Action: Final rule
+
+ Summary: We are adopting new exemptions under the Securities Act of 1933 and the Securities Exchange Act of 1934 for most standardized options. The rules adopted today exempt standardized options issued by registered clearing agencies and traded on a registered national securities exchange or a registered national securities association from all provisions of the Securities Act, other than the Section 17 antifraud provision, as well as the Exchange Act registration requirements. The rules also clarify that a security futures product that is cleared by a registered clearing agency or that is exempt from registration and traded on a registered national securities exchange or a registered national securities association is exempt from the registration requirements of Exchange Act Section 12(g). The rules ensure comparable regulatory treatment of standardized options and security futures products. 
+
+ Effective Date: The rules are effective January 2, 2003. 
+
+ For Further Information Contact: N. Sean Harrison, Special Counsel, Office of Rulemaking, Division of Corporation Finance at (202) 942-2910, at the Securities and Exchange Commission, 450 Fifth Street NW, Washington, DC 20549-0312. 
+
+ Supplementary Information: We are adopting new Rule 238 <sup> 1 </sup> under the Securities Act of 1933 <sup> 2 </sup> and new Rule 12a-9 <sup> 3 </sup> under the Securities Exchange Act of 1934. <sup> 4 </sup> We also are amending Exchange Act Rules 9b-1 <sup> 5 </sup> and 12h-1. <sup> 6 </sup>
+
+<END HEADER>
+
+<h>I. Background </h>
+
+In July 2002, we proposed amendments that would exempt standardized options issued by registered clearing agencies and traded on a registered national securities exchange or an automated quotation system of a registered national securities association from all provisions of the Securities Act, other than the Section 17 antifraud provision, as well as the Exchange Act registration requirements. <sup> 7 </sup> The purpose of the proposals was to harmonize the treatment of standardized options with security futures products under the Securities Act and the Exchange Act, and to remedy the longstanding paradox of applying the registration provisions to standardized options.
+
+In 1973, we first permitted national securities exchanges to establish pilot programs for the trading of standardized options. <sup> 8 </sup> The Commission determined that the Options Clearing Corporation ("OCC") <sup> 9 </sup> should be deemed to be the issuer of the standardized options to be listed on the Chicago Board Options Exchange ("CBOE"). <sup> 10 </sup> Therefore, OCC registered standardized options under both the Securities Act and the Exchange Act. At that time, all transactions in standardized options were registered under the Securities Act on Form S-1, our general registration form. OCC filed a registration statement on Form 10 <sup> 11 </sup> to register standardized options under the Exchange Act. <sup> 12 </sup>
+
+In 1982, following recommendations of the Report of the Special Study of Options Markets ("Options Study"), <sup> 13 </sup> we extensively revised our system of regulation of standardized options. <sup> 14 </sup> First, we adopted Form S-20 as a simplified Securities Act registration form customized for standardized options. <sup> 15 </sup> Form S-20 requires limited information about the clearing agency registrant and the options being registered. <sup> 16 </sup> We also adopted Securities Act Rule 153b <sup> 17 </sup> to provide that the prospectus delivery requirement in Securities Act Section 5(b)(2) <sup> 18 </sup> is satisfied by delivery of copies of the Form S-20 prospectus to each options market trading the options covered by the prospectus. <sup> 19 </sup> These changes simplified the registration process for options and eliminated some of the costs associated with the distribution and annual redistribution of options prospectuses to investors.
+
+The central element of the reformed registration system was the newly created options disclosure document ("ODD"), required by Exchange Act Rule 9b-1. <sup> 20 </sup> The ODD discloses information relevant to standardized options trading generally, instead of information about the issuing clearing agency. <sup> 21 </sup> Broker-dealers are precluded from accepting orders to purchase or sell standardized options from a customer or from approving a customer's account for trading in these options unless the broker-dealer has furnished the customer with the ODD. The ODD is the only document required to be provided to options investors and thus has become the primary disclosure document with respect to trading in standardized options. <sup> 22 </sup> After today's adoption of the exemptions for standardized options, broker-dealers will continue to be required to furnish the ODD to their customers investing in standardized options.
+
+Although our 1982 rulemaking streamlined and improved disclosure regarding standardized options, the Securities Act registration requirement continued to apply to offers and sales of standardized options. While this result was dictated by the statutory scheme, under which options are securities, it was anomalous because, in its role as an issuer of standardized options, a registered clearing agency is fundamentally different from a conventional issuer that registers transactions in its securities under the Securities Act. For example, the purchaser of a standardized option does not, except in the most formal sense, make an investment decision regarding the clearing agency that registers transactions in standardized options. As a result, information about the registrant's business, its officers and directors, and its financial statements, is less relevant to investors in standardized options. <sup> 23 </sup> In standardized option transactions, the investment risk is determined by the market performance of the underlying security rather than the performance of the clearing agency. Moreover, registered clearing agencies are self-regulatory organizations subject to Commission oversight under Section 17A of the Exchange Act. Furthermore, unlike a conventional issuer, a registered clearing agency does not receive the proceeds from sales of the standardized options that it issues. <sup> 24 </sup> Registration does not appear to provide any additional protections to investors in standardized options. <sup> 25 </sup>
+
+Compliance with Exchange Act registration requirements also has been more burdensome for the clearing agency issuer of standardized options than for a conventional issuer. Section 12(a) of the Exchange Act makes it unlawful for any broker or dealer to effect a transaction in a non-exempt security on a national securities exchange unless the security has been registered for trading on that exchange. Section 12(g)(1), <sup> 26 </sup> as modified by rule, requires any issuer with more than $10,000,000 in total assets and a class of equity securities held by 500 or more persons to register such security with the Commission.
+
+Rule 12b-1 of the Exchange Act <sup> 27 </sup> prescribes the procedures for registration under both Section 12(b) and Section 12(g). <sup> 28 </sup> Standardized options are listed on national securities exchanges and, therefore, must be registered under Section 12(b) of the Exchange Act. As the issuer of standardized options, OCC has registered the options on Form 8-A. <sup> 29 </sup> Whenever an exchange has introduced options on a new underlying security or index of securities, OCC has filed an amended Form 8-A to identify the underlying security or index of securities and the exchange or exchanges on which the option is to be traded. OCC also has provided an updated list of all classes of options being traded on all exchanges as part of the amendment. Because it has had to file a Form 8-A amendment every time a new class of options has opened for trading, OCC typically has filed more than 200 Form 8-A amendments each year. It is not clear that these numerous amendments have benefited investors.
+
+The National Securities Markets Improvement Act of 1996 <sup> 30 </sup> conferred on the Commission authority to adopt exemptive rules under the Securities Act and the Exchange Act. By virtue of this authority, we are now able to resolve the anomalies associated with registration of standardized options that we were unable to resolve when standardized options began to trade nearly three decades ago or when we streamlined the registration of standardized options 20 years ago. Section 28 of the Securities Act authorizes us to exempt any person, security or transaction from any provision of the Securities Act by rule or regulation to the extent that the exemption is necessary or appropriate in the public interest and consistent with the protection of investors. <sup> 31 </sup> Similarly, Section 36 of the Exchange Act gives us the authority to exempt any person, security or transaction from any Exchange Act provision by rule, regulation or order, to the extent that the exemption is necessary or appropriate in the public interest and consistent with the protection of investors. <sup> 32 </sup>
+
+The enactment of the Commodity Futures Modernization Act of 2000 ("CFMA") <sup> 33 </sup> is another significant factor motivating the adoption of these exemptions. The CFMA addressed the regulation of security futures products, <sup> 34 </sup> and permits the trading of futures on individual securities and on narrow-based security indices. The CFMA, among other things:
+
+ 
+
+Exempted from all provisions of the Securities Act, except the antifraud provisions of Section 17 of the Securities Act; <sup> 35 </sup> any security futures product that is traded on a national securities exchange or a national securities association registered under Section 15A(a) of the Exchange Act <sup> 36 </sup> and cleared by a clearing agency that is registered under Section 17A of the Exchange Act or exempt from registration under Section 17A(b)(7);
+
+Exempted security futures products from the provisions of Section 12(a) of the Exchange Act; <sup> 37 </sup>
+
+Amended Section 12(g)(5) of the Exchange Act <sup> 38 </sup> to state that, for purposes of Section 12(g) of the Exchange Act, a security futures product will not be considered a class of equity security of the issuer of the securities underlying the security futures product; and
+
+Amended Section 2(a)(3) of the Securities Act <sup> 39 </sup> to ensure that a security futures product could not be used by an issuer, affiliate of an issuer or underwriter to circumvent the registration requirements of Section 5 with respect to an issuer's securities underlying the security futures product. <sup> 40 </sup>
+
+ 
+
+Because security futures products can be used for financial purposes similar to those served by standardized options, we believe that it is appropriate to establish comparable regulatory treatment for standardized options by adopting parallel exemptions under the Securities Act and Exchange Act. By doing so, we eliminate any unjustified or unintended consequences that could result from differing regulatory treatment of these two types of securities.<h>II. Discussion of the Amendments </h>
+
+We are adopting the new exemptions under the Securities Act and the Exchange Act for most standardized options substantially as proposed. The amendments:
+
+ 
+
+Exempt standardized options that are issued by a registered clearing agency and traded on a national securities exchange registered under Section 6(a) of the Exchange Act, or on a national securities association registered under Section 15A(a) of the Exchange Act, from all provisions of the Securities Act except the antifraud provisions of Section 17 of the Securities Act; <sup> 41 </sup> and
+
+Make clear that any offer or sale of a standardized option by or on behalf of the issuer of the securities underlying the standardized option, an affiliate of the issuer, or an underwriter, will constitute a contract for sale of, sale of, offer for sale, or offer to sell (as these terms are defined in Section 2(a)(3) of the Securities Act) the underlying securities. <sup> 42 </sup>
+
+ 
+
+We also are adopting new Exchange Act Rule 12a-9 <sup> 43 </sup> and revisions to Rule 12h-1 to exempt standardized options from the registration requirements of Section 12 of the Exchange Act, <sup> 44 </sup> and to clarify that any security futures product that is traded on a registered national securities exchange or on a national securities association registered pursuant to Section 15A(a) of the Exchange Act and cleared by a clearing agency that is registered under Section 17A of the Exchange Act or is exempt from registration under Section 17A(b)(7) of the Exchange Act is exempt from registration under Section 12(g). <sup> 45 </sup> The revisions to Rule 12h-1 relating to security futures products have been modified slightly from the proposal so that the exemption under the rule is consistent with the statutory exemption from Securities Act registration for security futures products.
+
+We received four letters of comment on the proposals. <sup> 46 </sup> Each commenter supported the proposals and our objective to establish comparable regulatory treatment of security futures and standardized options. One commenter, however, advocated a broadening of the proposed exemptions to cover standardized options issued by foreign clearing agencies and traded on foreign exchanges that are subject to the oversight of a foreign regulatory authority that is acceptable to the Commission. <sup> 47 </sup> We have considered the views of the commenters and are adopting the proposed amendments substantially as proposed. <sup> 48 </sup>
+
+The terms of the adopted rules are substantively comparable to the Securities Act and Exchange Act exemptions provided by the CFMA for security futures products. New Securities Act Rule 238 does not make Form S-20 obsolete. We are retaining Form S-20 for use by an issuer of standardized options that is not a clearing agency registered under Section 17A of the Exchange Act, such as a foreign clearing agency, <sup> 49 </sup> or for use by issuers of standardized options that do not trade on a registered national securities exchange or on a registered national securities association.
+
+Similarly, new Exchange Act Rule 12a-9 states that the provisions of Exchange Act Section 12(a) do not apply in respect of any standardized option, as defined in Rule 9b-1(a)(4), <sup> 50 </sup> that is issued by a clearing agency registered under Section 17A of the Exchange Act and traded on a national securities exchange registered pursuant to Section 6(a) of the Exchange Act. Exchange Act Rule 12h-1(d) exempts issuers from the provisions of Section 12(g) of the Exchange Act with respect to a standardized option, as defined by Rule 9b-1(a)(4), that is issued by a clearing agency registered under Section 17A of the Exchange Act and traded on a national securities exchange registered pursuant to Section 6(a) of the Exchange Act or a national securities association registered pursuant to Section 15A(a) of the Exchange Act.
+
+The amendments do not affect the requirements under Exchange Act Rule 9b-1(d)(1) <sup> 51 </sup> that preclude broker-dealers from accepting orders to purchase or sell standardized options from a customer or from approving a customer's account for trading in standardized options unless the broker-dealer has furnished the customer with an ODD, other than to make conforming changes to reflect the fact that some standardized options are exempt from Securities Act registration.
+
+For the reasons stated above, including that investors will still receive the ODD informing them about standardized options trading in general, and that Securities Act registration provides little benefit relative to its costs, we believe that the amendments are in the public interest and consistent with the protection of investors.<h>III. Paperwork Reduction Act </h>
+
+The amendments affect "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA"). <sup> 52 </sup> The title for the collection of information affected by the amendments is "Form 8-A" (OMB Control No. 3235-0056). <sup> 53 </sup> We published a notice requesting comment on the proposed change to the Form 8-A collection of information requirements, and submitted a request to the Office of Management and Budget for approval of the change in accordance with the PRA. <sup> 54 </sup> The Office of Management and Budget approved the proposed change. We did not receive any comments on the PRA analysis contained in the proposing release. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information requirement unless it displays a currently valid OMB control number.
+
+There is no mandatory retention period for the information disclosed and Form 8-A is not kept confidential. We currently estimate that Form 8-A results in a total annual compliance burden of 5,934 hours. The burden was calculated by multiplying the actual number of respondents filing Form 8-A annually (1,978) by the estimated average number of hours each entity spends completing the form (3 hours).
+
+The amendments will eliminate the need for OCC, the only clearing agency currently registered under Exchange Act Section 17A that issues standardized options, to file Form 8-A and amendments thereto. During fiscal year 2001, OCC filed four Form 8-A registration statements and 214 Form 8-A amendments. Therefore, we estimate that the total annual burden for Form 8-A is 5,280 hours, a decrease of 654 hours.<h>IV. Cost-Benefit Analysis </h>
+
+The amendments are intended to harmonize the regulatory treatment of standardized options and security futures products under the Securities Act and the Exchange Act. It is anticipated that these amendments will benefit registered clearing agencies that issue standardized options covered by the exemptions by eliminating Form S-20 and Form 8-A filing requirements currently applicable to issuers of standardized options. We solicited comment to assist us in our evaluation of the costs and benefits associated with the amendments. In response, we received four comment letters. All of the commenters supported the amendments. Two noted that the amendments would eliminate unnecessary regulatory filings and reduce costs imposed on persons engaged in standardized options trading without compromising investor protection. <sup> 55 </sup>
+
+The Securities Act and Exchange Act exemptions we are adopting today reflect our view that registration provides little useful information to investors in standardized options issued by registered clearing agencies and traded on a national securities exchange or on a registered national securities association and imposes costs on options market participants that are not justified by the marginal benefits to investors.<h>V. Regulatory Flexibility Act Certification </h>
+
+Pursuant to 5 U.S.C. §605(b), the Commission has certified that Rule 238 under the Securities Act, Rule 12a-9 under the Exchange Act, and amendments to Rules 9b-1 and 12h-1 under the Exchange Act, will not have a significant economic impact on a substantial number of small entities. This certification, including our basis for requesting the certification, was included in the proposing release. We solicited comments on the potential impact of the amendments on small entities, but received none.<h>VI. Consideration of Impact on the Economy, Burden on Competition and Promotion of Efficiency, Competition and Capital Formation </h>
+
+Section 23(a)(2) of the Exchange Act <sup> 56 </sup> requires us to consider the anti-competitive effects of any rules that we adopt under the Exchange Act. Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Furthermore, Section 2(b) of the Securities Act <sup> 57 </sup> and Section 3(f) of the Exchange Act <sup> 58 </sup> require us, when engaging in rulemaking to consider or determine whether an action is necessary or appropriate in the public interest, and consider whether the action will promote efficiency, competition, and capital formation.
+
+We requested comment on any anti-competitive effects of the proposals. One commenter indicated that, without the exemptions, dissimilar regulatory treatment between standardized options and security futures products would result in a competitive advantage for security futures products. Another suggested that the exemptions would improve efficiency by eliminating the costs associated with compliance with the Securities Act registration requirements. The purpose of these amendments is to harmonize the treatment of standardized options with security futures products under the Securities Act and the Exchange Act. We think that the amendments will promote efficiency by eliminating the potential for regulatory arbitrage opportunities that could result from discordant treatment of security futures products and standardized options, and by removing regulatory obstacles to trading of these securities. We believe the amendments will have a positive, but unquantifiable, effect on efficiency, competition, and capital formation.<h>VII. Effective Date </h>
+
+The new rules are effective upon publication in the Federal Register . Generally, the Administrative Procedure Act requires that, unless an exception applies, a substantive rule be /published in the Federal Register at least 30 days prior to its effective date. <sup> 59 </sup> One exception to the 30-day publication requirement is if a substantive rule grants or recognizes an exemption or relieves a restriction. <sup> 60 </sup> New Securities Act Rule 238 and Exchange Act Rule 12a-9 would exempt certain standardized options from most of the provisions of the Securities Act and the registration provisions of the Exchange Act. The effect of the exemptions would be to remove most of the registration restrictions currently placed on covered issuers of standardized options that trade on a national securities exchange or registered national securities associations. In addition, new Exchange Act Rule 12h-1(e) provides that covered security futures products are exempt from registration under Section 12(g). The rule is intended to clarify that security futures products are not subject to the registration requirements of Section 12(g).<h>VIII. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 230.238.
+
+2 15 U.S.C. §77a et seq.
+
+3 17 CFR 240.12a-9.
+
+4 15 U.S.C. §78a et seq.
+
+5 17 CFR 240.9b-1.
+
+6 17 CFR 240.12h-1.
+
+7 Release No. 33-8114 (July 25, 2002) [67 FR 50326].
+
+8 See Release No. 34-9985 (February 1, 1973). Section 9(b) of the Exchange Act [15 U.S.C. §78i(b)] prohibits the trading of options, by use of any facility of a national securities exchange, "in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors." CBOE established the first of these pilot programs. See Release No. 34-9985. The American Stock Exchange (see Release No. 34-11144 (December 19, 1974) [40 FR 3258]), Philadelphia Stock Exchange (see Release No. 34-11423 (May 15, 1975)), Pacific Exchange (see Release No. 34-12283 (March 30, 1976) [41 FR 14454]) and the Midwest Stock Exchange (see Release No. 34-13045 (December 8, 1976) [41 FR 54783]) also later began to list standardized options. In 1974, OCC became the common clearing agency for all exchange listed options (see Release No. 34-11146 (December 19, 1974)).
+
+9 Founded in 1973, OCC was the successor to CBOE's original clearing agency, the Chicago Board Options Exchange Clearing Corporation. OCC, which is a registered clearing agency under Section 17A of the Exchange Act [15 U.S.C. §78q-1], is the issuer and clearing facility for all U.S. exchange listed securities options. The American Stock Exchange, Chicago Board Options Exchange, Pacific Exchange, Philadelphia Stock Exchange and International Securities Exchange share equal ownership of OCC.
+
+10 See Release No. 33-6411 (June 24, 1982) [47 FR 28688].
+
+11 17 CFR 249.210.
+
+12 Registration of a class of securities under Section 12 of the Exchange Act [15 U.S.C. §78 l ] generally imposes several reporting duties on the registrant, including the duty to file periodic and current reports under Section 13(a) [15 U.S.C. §78m(a)]. Additionally, the rules under Exchange Act Sections 13(d), 13(e), 13(g), 14(d) and Section 16 [15 U.S.C. §§78m(d), 78m(e), 78m(g), 78n(d) and 78p] apply to classes of equity securities registered under Section 12. Because the securities underlying standardized options are issued by persons other than the clearing agency and are themselves registered under Section 12, it serves no purpose to require the clearing agency to file Exchange Act reports. The value of standardized options derives primarily from the value of the underlying security or index, not from matters peculiar to the issuing clearing agency. Moreover, because there is no possibility that a purchaser of standardized options could gain control over the clearing agency, there is no need for the disclosure mandated by Sections 13(d) and 14(d) of the Exchange Act, which govern stock accumulations and tender offers. Clearing agency insiders have no informational advantages with respect to the issuers of the securities underlying standardized options. In recognition of these unique circumstances, we issued an order under Section 12(h) [15 U.S.C. §78 l (h)] exempting OCC from Sections 13(a), 13(d), 13(e), 14(d), 15(d) and 16 of the Exchange Act. See Release No. 34-10483 (Nov. 7, 1973). This order will remain in effect to prevent OCC from becoming subject to reporting obligations pursuant to Exchange Act Section 15(d) [15 U.S.C. §78o(d)]. OCC would incur a reporting obligation under Section 15(d) in the event that standardized options issued under a previously filed registration statement were held of record by more than 300 persons.
+
+13 96<sup>th</sup> Cong., 1<sup>st</sup> Sess. (Comm. Print 1978).
+
+14 See Release No. 33-6426 (September 16, 1982) [47 FR 41950].
+
+15 17 CFR 239.20.
+
+16 Part I of Form S-20 requires the prospectus to include a description of the registrant and a brief summary of the securities being registered. Part II specifies information required to be included in the registration statement but not in the prospectus, including information as to the directors and executive officers of the registrant, material legal proceedings involving the registrant, certain exhibits and undertakings, and the registrant's financial statements.
+
+17 17 CFR 230.153b.
+
+18 15 U.S.C. §77e(b)(2).
+
+19 The options market must deliver the prospectus to any investor requesting it.
+
+20 17 CFR 240.9b-1. Rule 9b-1 requires an options market, defined in Rule 9b-1(a)(1) as a national securities exchange, an automated quotation system of a registered securities association or a foreign securities exchange on which standardized options are traded, to file the ODD with the Commission at least 60 days before the date that definitive copies are furnished to customers, or at least 30 days before that date with respect to an amended ODD if the information contained in the ODD becomes or will become materially inaccurate or incomplete or there is or will be an omission of material information necessary to make the ODD not misleading. Form S-20 prohibits the issuance of an option registered on the form unless a definitive ODD meeting the requirements of Rule 9b-1 for the options class is available. As a practical matter, OCC works with the options markets to prepare and file the ODD. Rule 9b-1 allows an options exchange to use an ODD only if there is also an effective Form S-20 registration statement for the same options classes that are the subject of the ODD. We are revising Rules 9b-1(b)(1) and 9b-1(c)(8) [17 CFR 240.9b-1(b)(1) and 9b-1(c)(8)] to permit use of the ODD if the option class is the subject of an effective Form S-20 registration statement or is exempt from registration.
+
+21 The ODD describes: the mechanics of buying, writing and exercising standardized options; the risks of trading these options; the market for the options; the tax consequences of standardized options trading; the issuer of standardized options; the instruments underlying an options class; the Form S-20 registration process; and the availability of the options prospectus. We revised Rule 9b-1 to explicitly state that amendments and supplements to the ODD are part of the ODD, and to describe more clearly the type of information to be included in the ODD. See Release No. 34-43461 (October 19, 2000) [65 FR 64137].
+
+22 Securities Act Rules 134a and 135b also are part of the revised options disclosure regime [17 CFR 230.134a and 135b]. Rule 134a provides that written materials, including advertisements, containing limited information concerning standardized options may be disseminated without being deemed to be a prospectus. Rule 135b provides that, solely for purposes of Section 5 of the Securities Act, materials meeting the requirements of Rule 9b-1 of the Exchange Act will not be deemed an "offer to sell" or "offer to buy" a security, nor will the materials be deemed a prospectus for purposes of Sections 2(a)(10) and 12(a)(2) of the Securities Act. Rule 135b remains unchanged. Similarly, although Rule 134a does not apply to standardized options exempted under Rule 238, it continues to apply to any standardized options that remain subject to the registration provisions of the Securities Act.
+
+23 Options Study at 378.
+
+24 OCC does receive a clearing fee of up to $0.09 per option contract from its members.
+
+25 Information that is required in the Form S-20 registration statement but is not required in the ODD, such as OCC's financial statements and a description of OCC's backup system, is publicly available on OCC's website, located at www.optionsclearing.com.
+
+26 15 U.S.C. §78 l (g)(1).
+
+27 17 CFR 240.12b-1.
+
+28 15 U.S.C. §78 l (b) and (g).
+
+29 17 CFR 240.208a.
+
+30 Pub. Law 104-290, 110 Stat. 3416 (1996).
+
+31 15 U.S.C. §77z-3.
+
+32 15 U.S.C. §78mm.
+
+33 Pub. L. No. 106-554 Stat. 2763 (2000).
+
+34 Securities Act Section 2(a)(16) [15 U.S.C. §77b(a)(16)], Exchange Act Section 3(a)(56) [15 U.S.C. §78c(a)(56)], and CEA Section 1a(32) [7 U.S.C. §1a(32)] define "security futures product" as a security future or an option on a security future.
+
+35 Section 17(c) of the Securities Act [15 U.S.C. §77q(c)] states that the exemptions provided in Section 3 of the Securities Act, including the exemption for security futures products, do not apply to the provisions of Section 17.
+
+36 15 U.S.C. §78o-3.
+
+37 15 U.S.C. §78 l (a).
+
+38 15 U.S.C. §78 l (g)(5).
+
+39 15 U.S.C. §77b(a)(3).
+
+40 As amended, Section 2(a)(3) provides "Any offer or sale of a security futures product by or on behalf of the issuer of the securities underlying the security futures product, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell the underlying securities."
+
+41 Securities Act Rule 238(a) and (b) [17 CFR 230.238(a) and (b)].
+
+42 Securities Act Rule 238(c) [17 CFR 230.238(c)]. Consequently, a transaction in a standardized option on the securities of an issuer by such persons also is a transaction in the issuer's securities that must be registered under the Securities Act unless an exemption from registration is available.
+
+43 Rule 12a-9 provides an exemption from Section 12(a) of the Exchange Act for standardized options.
+
+44 Rule 12h-1(d) [17 CFR 240.12h-1(d)] provides an exemption from Exchange Act Section 12(g) for standardized options. The exemption is necessary, even though standardized options currently are registered only pursuant to Section 12(b) of the Exchange Act, because standardized options issued by a registered clearing agency and traded on a national securities exchange will no longer qualify for the exemption in Section 12(g)(2)(A) [15 U.S.C. §78 l (g)(2)(A)], which exempts any security listed and registered on a national securities exchange from registration under Section 12(g). Pursuant to Rule 12g-2 [17 CFR 240.12g-2], a class of securities that no longer is entitled to the Section 12(g)(2)(A) exemption is deemed to automatically be registered under Section 12(g) if, at the time that its Section 12(b) registration terminates, the securities are not exempt from registration under Section 12 or rules thereunder, and are held of record by 300 or more persons. Even if standardized options were not held of record by 300 or more persons when their Section 12(b) registration terminated (OCC currently has only 126 clearing members that would be considered record holders for purposes of Rule 12g-2), standardized options nevertheless would be required to be registered under Section 12(g) if, at the end of any fiscal year, standardized options issued by the registered clearing agency were held of record by 500 or more persons. Rule 12h-1(d) exempts standardized options from Section 12(g), thereby avoiding the possibility that standardized options might automatically be registered or required to be registered under that section.
+
+45 Rule 12h-1(e) [17 CFR 240.12h-1(e)] eliminates any uncertainty concerning the application of the Section 12(g) registration requirements to security futures products. See note 44 above.
+
+46 See comment letters of OCC, CBOE, the Canadian Derivative Clearing Corporation ("CDCC"), and Mr. Bernard E. Klein. These letters are available in our Public Reference Room at 450 Fifth Street, NW, Washington, DC, 20549, in File No. S7-29-02. Public comments submitted by electronic mail also are available on our website, www.sec.gov.
+
+47 See comment letter of CDCC.
+
+48 We are not extending the new exemptions to standardized options issued by a foreign clearing agency and traded on a foreign exchange at this time. We believe that the issues involving standardized options that are not issued by a registered clearing agency or traded on a registered national securities exchange are sufficiently different to warrant separate study. Nevertheless, once we have gained experience with the new exemptions, we may consider the issue further.
+
+49 Presently, no foreign clearing agencies are registered under Section 17A. Securities Act Rule 153b prospectus delivery requirements currently apply and will continue to apply in connection with standardized option transactions registered on Form S-20.
+
+50 Rule 9b-1(a)(4) under the Exchange Act [17 CFR 240.9b-1(a)(4)] defines standardized options as "options contracts trading on a national securities exchange, an automated quotations system of a registered securities association, or a foreign securities exchange which relate to options classes the terms of which are limited to specific expiration dates and exercise prices, or such other securities as the Commission may, by order, designate."
+
+51 17 CFR 240.9b-1(d)(1).
+
+52 44 U.S.C. §3501 et seq .
+
+53 The PRA defines a "collection of information" as "the obtaining, causing to be obtained, soliciting or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons " The Form S-20 does not constitute a "collection of information" under the PRA because fewer than ten entities file Form S-20 registration statements.
+
+54 44 U.S.C. §3507(d) and 5 CFR 1320.11.
+
+55 See comment letters of CBOE and OCC. OCC estimates that Form 8-A filings, and amendments to Form 8-A, result in an annual compliance cost to it of $23,000. It further estimates that Form S-20 filings, and post-effective amendments to Form S-20, result in a total annual compliance cost to it of $50,538 which includes $17,500 of in-house costs and $33,038 in fees for outside counsel and other expenses.
+
+56 15 U.S.C. §78w(a)(2).
+
+57 15 U.S.C §77b(b).
+
+58 15 U.S.C. §78c(f).
+
+59 5 U.S.C. §553(d).
+
+60 5 U.S.C. §553(d)(1).  http://www.sec.gov/rules/final/33-8171.htm

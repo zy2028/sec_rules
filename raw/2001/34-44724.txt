@@ -1,0 +1,947 @@
+https://www.sec.gov/rules/final/34-44724.htm
+
+	I.0.0.0: I. BACKGROUND AND OVERVIEW OF NEW RULES
+
+		I.A.0.0: A. Statutory Provisions
+
+			I.A.1.0: 1. Definition of Narrow-Based Security Index
+
+			I.A.2.0: 2. Indexes Excluded from Definition of Narrow-Based Security Index
+
+		I.B.0.0: B. Proposing Release
+
+		I.C.0.0: C. Final Rules - An Overview
+
+	II.0.0.0: II. DISCUSSION OF JOINT FINAL RULES
+
+		II.A.0.0: A. CEA Rule 41.11 and Exchange Act Rule 3a55-1: Methods for Determining Market Capitalization and Dollar Value of Average Daily Trading Volume
+
+			II.A.1.0: 1. Determining the Market Capitalization of a Security
+
+			II.A.1.a: a. Proposed Rules
+
+			II.A.1.b: b. Comment Letters
+
+			II.A.1.c: c. Final Rules
+
+			II.A.2.0: 2. Determining Dollar Value of Average Daily Trading Volume of a Security
+
+			II.A.2.a: a. Proposed Rules
+
+			II.A.2.b: b. Comment Letters
+
+			II.A.2.c: c. Final Rules
+
+			II.A.2.i: i. Dollar Value of ADTV for Purposes of Section 1a(25)(A) of the CEA and Section 3(a)(55)(B) of the Exchange Act
+
+			II.A.3.0: 3. Use of the Top 750 and Top 675 Lists
+
+			II.A.4.0: 4. The Lowest Weighted 25% of an Index
+
+			II.A.5.0: 5. Determining "the Preceding 6 Full Calendar Months"
+
+			II.A.6.0: 6. Depositary Shares
+
+			II.A.7.0: 7. General Guidance in Application of the Rule
+
+		II.B.0.0: B. CEA Rule 41.12 and Exchange Act Rule 3a55-2: A Future on a Broad-Based Security Index that Becomes Narrow-Based During First 30 Days of Trading
+
+			II.B.1.0: 1. The Relevant Statutory Provision
+
+			II.B.2.0: 2. Proposed Rules
+
+			II.B.3.0: 3. Comment Letters
+
+			II.B.4.0: 4. Final Rules
+
+			II.B.5.0: 5. Other Issues Concerning a Broad-Based Index that Becomes Narrow-Based
+
+		II.C.0.0: C. CEA Rule 41.13 and Exchange Act Rule 3a55-3: A Future Traded on or Subject to the Rules of a Foreign Board of Trade
+
+			II.C.1.0: 1. Proposed Rules
+
+			II.C.2.0: 2. Comment Letters
+
+			II.C.3.0: 3. Final Rules
+
+		II.D.0.0: D. CEA Rule 41.14: A Future on a Narrow-Based Security Index that Becomes Broad-Based
+
+			II.D.1.0: 1. The Relevant Statutory Provision
+
+			II.D.2.0: 2. Proposed Rule
+
+			II.D.3.0: 3. Comment Letters
+
+			II.D.4.0: 4. Final Rule
+
+		II.E.0.0: E. Additional Comments
+
+	III.0.0.0: III. ADMINISTRATIVE PROCEDURE ACT
+
+	IV.0.0.0: IV. PAPERWORK REDUCTION ACT
+
+		IV.A.0.0: A. The Use and Disclosure of the Information Collected
+
+		IV.B.0.0: B. Total Annual Reporting and Recordkeeping Burden
+
+			IV.B.1.0: 1. Capital Costs
+
+			IV.B.2.0: 2. Burden Hours
+
+	V.0.0.0: V. COSTS AND BENEFITS OF THE FINAL RULES
+
+		V.A.0.0: A. Comments
+
+		V.B.0.0: B. Benefits
+
+		V.C.0.0: C. Costs
+
+	VI.0.0.0: VI. CONSIDERATION OF BURDEN ON COMPETITION, AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
+
+	VII.0.0.0: VII. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VIII.0.0.0: VIII. TEXT OF RULES
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Method for Determining Market Capitalization and Dollar Value of Average Daily Trading Volume; Application of the Definition of Narrow-Based Security Index COMMODITY FUTURES TRADING COMMISSION
+
+17 CFR Part 41
+
+RIN 3038-AB77
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Part 240
+
+[Release No. 34-44724; File No. S7-11-01]
+
+RIN 3235-AI13 
+
+Method for Determining Market Capitalization and Dollar Value of Average Daily Trading Volume; Application of the Definition of Narrow-Based Security Index 
+
+ AGENCIES: Commodity Futures Trading Commission and Securities and Exchange Commission.
+
+ ACTION: Joint Final Rules.
+
+ SUMMARY: The Commodity Futures Trading Commission ("CFTC") and Securities and Exchange Commission ("SEC") (collectively, "Commissions") are adopting joint final rules to implement new statutory provisions enacted by the Commodity Futures Modernization Act of 2000 ("CFMA"). Specifically, the CFMA directs the Commissions to jointly specify by rule or regulation the method to be used to determine "market capitalization" and "dollar value of average daily trading volume" for purposes of the new definition of "narrow-based security index," including exclusions from that definition, in the Commodity Exchange Act ("CEA") and the Securities Exchange Act of 1934 ("Exchange Act"). The CFMA also directs the Commissions to jointly adopt rules or regulations that set forth the requirements for an index underlying a contract of sale for future delivery traded on or subject to the rules of a foreign board of trade to be excluded from the definition of "narrow-based security index."
+
+ EFFECTIVE DATE: August 21, 2001.
+
+ FOR FURTHER INFORMATION CONTACT: 
+
+ CFTC: Elizabeth L.R. Fox, Acting Deputy General Counsel; Richard A. Shilts, Acting Director; or Thomas M. Leahy, Jr., Financial Instruments Unit Chief, Division of Economic Analysis, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, N.W., Washington, D.C. 20581. Telephone: (202) 418-5000. E-mail: (EFox@cftc.gov), (RShilts@cftc.gov), or (TLeahy@cftc.gov).
+
+ SEC: Nancy J. Sanow, Assistant Director, at (202) 942-0771; Ira L. Brandriss, Special Counsel, at (202) 942-0148; or Sapna C. Patel, Attorney, at (202) 942-0166, Office of Market Supervision, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001. 
+
+ SUPPLEMENTARY INFORMATION: The CFTC is adopting Subparts A and B of Part 41 (Rules 41.1 and 41.2, and Rules 41.11 through 41.14) under the CEA,<SUP> 1 </SUP> 17 CFR 41.<SUP> 2 </SUP> The SEC is adopting Rules 3a55-1 through 3a55-3 under the Exchange Act,<SUP> 3 </SUP> 17 CFR 240.3a55-1 through 3a55-3.
+
+<END HEADER>
+
+<h>I. BACKGROUND AND OVERVIEW OF NEW RULESA. Statutory Provisions </h><h>A. Statutory Provisions </h>
+
+The CFMA,<SUP> 4 </SUP> which became law on December 21, 2000, establishes a framework for the joint regulation by the CFTC and SEC of the trading of futures on single securities and on narrow-based security indexes (collectively, "security futures").<SUP> 5 </SUP> Previously, these products were statutorily prohibited from trading in the United States. Under the CFMA, designated contract markets and registered derivatives transaction execution facilities ("DTEFs") may trade security futures if they register with the SEC and comply with certain other requirements of the Exchange Act. Likewise, national securities exchanges and national securities associations may trade security futures if they register with the CFTC and comply with certain requirements of the CEA.
+
+To distinguish between security futures on narrow-based security indexes, which are jointly regulated by the Commissions, and futures on broad-based security indexes, which are under the exclusive jurisdiction of the CFTC,<SUP> 6 </SUP> the CFMA also amended the CEA and the Exchange Act by adding an objective definition of "narrow-based security index."<h>1. Definition of Narrow-Based Security Index </h>
+
+Under the CEA and Exchange Act, an index is a "narrow-based security index" if it has any one of the following four characteristics: (1) it has nine or fewer component securities; (2) any one of its component securities comprises more than 30% of its weighting; (3) the five highest weighted component securities together comprise more than 60% of its weighting; or (4) the lowest weighted component securities comprising, in the aggregate, 25% of the index's weighting ("lowest weighted 25%") have an aggregate dollar value of average daily trading volume ("ADTV") of less than $50 million (or in the case of an index with 15 or more component securities, $30 million).<SUP> 7 </SUP> 
+
+Any security index that does not have any of the four characteristics set forth above is, in effect, a broad-based security index. Accordingly, any future on such an index would not be a security future and thus would be subject to the sole jurisdiction of the CFTC.<SUP> 8 </SUP><h>2. Indexes Excluded from Definition of Narrow-Based Security Index </h>
+
+The definition of narrow-based security index in the CEA and Exchange Act also excludes from its scope certain security indexes that satisfy specified criteria. A future on an index that meets the criteria of any of the six categories of indexes that are so excluded from the definition is not a security future under the securities laws, and thus is subject solely to the jurisdiction of the CFTC. 
+
+The first and most fundamental exclusion applies to indexes comprised wholly of U.S.-registered securities that have high market capitalization and dollar value of ADTV, and meet certain other criteria. Specifically, a security index is not a narrow-based security index under this exclusion if it has all of the following characteristics: (1) it has at least nine component securities; (2) no component security comprises more than 30% of the index's weighting; (3) each of its component securities is registered under Section 12 of the Exchange Act; and (4) each component security is one of 750 securities with the largest market capitalization ("Top 750") and one of 675 securities with the largest dollar value of ADTV ("Top 675").<SUP> 9 </SUP>
+
+The second exclusion provides that a security index is not a narrow-based security index if a board of trade was designated by the CFTC as a contract market in a future on the index before the CFMA was enacted.<SUP> 10 </SUP> 
+
+The third exclusion provides that if a future was trading on an index that was not a narrow-based security index for at least 30 days, the index is excluded from the definition of a "narrow-based security index" as long as it does not assume the characteristics of narrow-based security index for more than 45 business days over three calendar months.<SUP> 11 </SUP> This exclusion, in effect, creates a tolerance period that permits a broad-based security index to retain its broad-based status if it becomes narrow-based for 45 or fewer business days in the three-month period.<SUP> 12 </SUP>
+
+The fourth exclusion provides that a security index is not a narrow-based security index if it is traded on or subject to the rules of a foreign board of trade and meets such requirements as are jointly established by rule or regulation by the CFTC and SEC.<SUP> 13 </SUP> 
+
+The fifth exclusion is essentially a temporary "grandfather" provision that permits the offer and sale in the United States of security index futures traded on or subject to the rules of foreign boards of trade that were authorized by the CFTC before the CFMA was enacted.<SUP> 14 </SUP> Specifically, the exclusion provides that, until June 21, 2002, a security index is not a narrow-based security index if: (1) a future on the index is traded on or subject to the rules of a foreign board of trade; (2) the offer and sale of such future in the United States was authorized before the date of enactment of the CFMA; and (3) the conditions of such authorization continue to apply.<SUP> 15 </SUP> 
+
+The sixth exclusion provides that an index is not a narrow-based security index if a future on the index is traded on or subject to the rules of a board of trade and meets such requirements as are established by rule, regulation, or order jointly by the two Commissions.<SUP> 16 </SUP> This exclusion grants the Commissions authority to jointly establish further exclusions from the definition of narrow-based security index.<h>B. Proposing Release </h>
+
+On May 17, 2001, the CFTC and SEC published for comment three proposed rules under the CEA and Exchange Act relating to this statutory definition of narrow-based security index and the exclusions from that definition.<SUP> 17 </SUP> The proposed rules contained methods for determining "market capitalization" and "dollar value of average daily trading volume," in fulfillment of the directive of the CFMA that the Commissions, by rule or regulation, jointly specify the methods to be used to determine these values.<SUP> 18 </SUP> 
+
+The proposed rules also set forth an additional exclusion from the definition of narrow-based security index with respect to the trading of a future on a broad-based index during the first 30 days of trading, and added a provision concerning security indexes traded on or subject to the rules of a foreign board of trade. The CFTC also published for comment an additional, related rule under the CEA to accommodate the trading of security futures on a narrow-based security index that became a broad-based index. 
+
+The Commissions received 16 comment letters on the proposals, which are discussed more fully below.<SUP> 19 </SUP> In large part, commenters favored the proposed rules, but offered various recommendations to refine the proposals or add new rules.<h>C. Final Rules - An Overview </h>
+
+The Commissions have considered the commenters' views and have modified the proposed rules in some respects to reflect these comments. A summary of the final rules follows. 
+
+ Rule 41.11 under the CEA and Rule 3a55-1 under the Exchange Act 
+
+Rules 41.11 under the CEA and 3a55-1 under the Exchange Act establish a method for determining the dollar value of ADTV of a security for purposes of the definition of narrow-based security index under the CEA and Exchange Act. This method requires the inclusion of reported transactions outside the United States in calculating dollar value of ADTV for purposes of Section 1a(25)(A) of the CEA and Section 3(a)(55)(B) of the Exchange Act.<SUP> 20 </SUP> It also requires aggregating the value of trading volume in a depositary share<SUP> 21 </SUP> that represents a security with trading volume in its underlying security. 
+
+In response to comments, the Commissions have incorporated into their rules a provision that allows for the designation by the Commissions of a list of the Top 750 securities and Top 675 securities for purposes of the first exclusion from the definition of narrow-based security index.<SUP> 22 </SUP> If, however, the Commissions do not designate a list of such securities, the final rules also establish how national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade themselves are to calculate the market capitalization and dollar value of ADTV of securities for purposes of determining whether a security is one of the Top 750 securities or Top 675 securities. Recognizing concerns about the accessibility of foreign trading volume data and to assure uniformity among markets, the final rules establish that only reported transactions in the United States are to be included in a market's calculations to determine whether a security is one of the Top 675 securities. The final rules also provide that the requirement that each component security of an index be registered under Section 12 of the Exchange Act for purposes of the first exclusion from the definition of narrow-based security index will be satisfied with respect to any security that is a depositary share, if the deposited securities underlying the depositary share are registered under Section 12, and the depositary shares are registered under the Securities Act of 1933 on Form F-6. 
+
+Finally, the rules define certain terms to add clarity to the definition of narrow-based security index.
+
+ Rule 41.12 under the CEA and Rule 3a55-2 under the Exchange Act 
+
+Rules 41.12 under the CEA and 3a55-2 under the Exchange Act address the circumstance when a broad-based security index underlying a future becomes narrow-based during the first 30 days of trading. In such case, the future does not meet the requirement of having traded for at least 30 days to qualify for the tolerance period granted by Section 1a(25)(B)(iii) of the CEA and Section 3(a)(55)(C)(iii) of the Exchange Act. The new rules provide that the index will nevertheless be excluded from the definition of narrow-based security index throughout that first 30 days if the index would not have been a narrow-based security index had it been in existence for an uninterrupted period of six months prior to the first day of trading. In response to comments, the rules as adopted provide additional criteria by which an index will be excluded from the definition of a narrow-based security index during the first 30 days that a future on such index is trading.
+
+ Rule 41.13 under the CEA and Rule 3a55-3 under the Exchange Act 
+
+Rule 41.13 under the CEA and Rule 3a55-3 under the Exchange Act clarify when a security index underlying a future that is traded on or subject to the rules of a foreign board of trade will be considered a broad-based security index. Specifically, these rules provide that when a future on a security index is traded on or subject to the rules of a foreign board of trade, it will not be considered a narrow-based security index if it would not be a narrow-based security index if a future on that same index were traded on a designated contract market or registered DTEF. 
+
+ Rule 41.14 under the CEA 
+
+Rule 41.14 under the CEA, which is adopted solely by the CFTC, addresses the circumstance where a future on a narrow-based security index was trading on a national securities exchange as a security future and the index subsequently became broad-based by the terms of the statutory definition-a circumstance not addressed by the statute. The rule provides that if the index becomes broad-based for no more than 45 business days over three consecutive calendar months, it will still be considered a narrow-based security index. 
+
+In addition to this 45-day tolerance provision, new Rule 41.14 under the CEA provides that if the index became broad-based for more than 45 days subsequent to the beginning of trading as a narrow-based security index, a transition period of three consecutive calendar months will be granted in which the index will continue to be a narrow-based security index. After the transition period is over, the exchange will be permitted to continue trading the product only in those months in the future that had open interest on the day the transition period ended.<h>II. DISCUSSION OF JOINT FINAL RULESA. CEA Rule 41.11 and Exchange Act Rule 3a55-1: Methods for Determining Market Capitalization and Dollar Value of Average Daily Trading Volume1. Determining the Market Capitalization of a Security </h><h>A. CEA Rule 41.11 and Exchange Act Rule 3a55-1: Methods for Determining Market Capitalization and Dollar Value of Average Daily Trading Volume1. Determining the Market Capitalization of a Security </h><h>1. Determining the Market Capitalization of a Security </h>
+
+The market capitalization of a security is relevant only to the determination of whether a security is one of the 750 securities with the largest market capitalization, permitting the index of which it is a component to qualify as broad-based under the first exclusion from the definition of narrow-based security index.<SUP> 23 </SUP><h>a. Proposed Rules </h>
+
+The proposed rules would have defined the market capitalization of a security for these purposes as the product of: (1) the number of outstanding shares of the security as reported in the most recent quarterly or annual report of the company; and (2) the average price of the security over the preceding 6 full calendar months. 
+
+The proposed rules defined outstanding shares as the number of outstanding shares as reported in the most recent quarterly or annual report of the company-i.e., Form 10-Q, 10-K, 10-QSB, 10-KSB, or 20-F<SUP> 24 </SUP>-filed with the SEC by the issuer of the security. The proposed rules included a method for determining the average price of a security over time that took into account the number of shares in each transaction over the 6-month period.<SUP> 25 </SUP> 
+
+The Commissions requested comment on the use of this method, and asked whether another method, such as using a security's daily closing price, would be more appropriate. In addition, the Commissions asked for comment on whether, in determining the average price of a security, the price of American Depositary Receipts ("ADRs") representing shares of such security should be included proportionally. Comment was also requested on whether the definition of outstanding shares should address corporate events that affect the number of shares outstanding of a security and that occur after the annual or quarterly report of the issuer, and whether, for example, updated information contained in any subsequent Form 8-K<SUP> 26 </SUP> filed by the issuer, or more current information submitted to the primary market center for the underlying security, should be included.
+
+The Proposing Release also included a request for comment on whether it would be difficult for market participants to determine the Top 750 securities, and whether the Commissions should themselves undertake to compile, on a regular basis, a Top 750 list.<h>b. Comment Letters </h>
+
+Several commenters objected to the use of average price as a factor to determine market capitalization.<SUP> 27 </SUP> Most commenters who addressed the Commissions' questions on this subject favored using the security's daily closing price in lieu of average price.<SUP> 28 </SUP> This method was seen as a way to simplify the calculation, to yield more verifiable results,<SUP> 29 </SUP> and to conform to common methods used in the industry.<SUP> 30 </SUP> Some commenters maintained that generally, in view of the number of calculations required to determine market capitalization on an ongoing basis, the least burdensome method should be required.<SUP> 31 </SUP> One commenter believed that the Commissions should allow flexibility in the methodologies used to calculate average price and market capitalization,<SUP> 32 </SUP> while another emphasized the importance of uniformity.<SUP> 33 </SUP> Several commenters favored the inclusion of transaction prices in ADRs in calculating the average price of the underlying security.<SUP> 34 </SUP> 
+
+Commenters on the definition of outstanding shares favored a rule that would permit taking into account corporate events that affect the number of shares outstanding at the time they become effective.<SUP> 35 </SUP> One commenter expressed the concern that vendors of market information routinely adjust the number of shares they use to calculate market capitalization between regular reporting periods in the case of corporate events that affect the number of shares outstanding.<SUP> 36 </SUP> 
+
+Several commenters indicated that it would indeed be difficult to constantly determine the Top 750 securities and endorsed the suggestion that the Commissions publish lists of the Top 750 securities for purposes of the statutory provision.<SUP> 37 </SUP> One exchange also argued that a list published by the Commissions was necessary so as to eliminate uncertainty and assure conformity among markets in determining the status of various security indexes.<SUP> 38 </SUP><h>c. Final Rules </h>
+
+In response to commenters' suggestions, the Commissions are adopting two alternative methods for markets to determine whether a security is one of the Top 750 securities. The Commissions expect to be able at some point in the near future to designate a list of such securities and have provided in the final rules for this possibility.<SUP> 39 </SUP> However, because a final determination has not been made regarding the Commissions' designation of a list, the Commissions are adopting rules setting forth the method for markets to use to calculate market capitalization and thereby to determine the securities that comprise the Top 750.<SUP> 40 </SUP>
+
+Specifically, in the absence of a designated list of these securities, paragraph (d)(6) of Rule 41.11 under the CEA and Rule 3a55-1 under the Exchange Act<SUP> 41 </SUP> defines the "market capitalization," on a particular day, of a security that is not a depositary share as the product of: (1) the number of outstanding shares of the security on that day; and (2) the closing price of the security on that day.<SUP> 42 </SUP>
+
+When a component security of an index is an ADR, market capitalization for a particular day is defined as the product of: (1) the closing price of the depositary share that day, divided by the number of deposited securities represented by the depositary share; and (2) the number of outstanding shares of the security represented by the depositary share that same day. 
+
+The "closing price" of a security is defined in paragraph (d)(2) of the rules<SUP> 43 </SUP> as the price at which the last reported transaction<SUP> 44 </SUP> in the security took place in the regular session of the principal market for the security<SUP> 45 </SUP> in the United States. This definition applies when reported transactions have taken place in the U.S. If no reported transactions in a particular security have taken place in the United States, but a depositary share in the security trades in the U.S., the closing price of the security is defined as the closing price of the depositary share representing the security divided by the number of shares of the underlying security that the depositary share represents. 
+
+If no reported transactions in the security or in a depositary share representing the security have taken place in the United States, the closing price of the security is defined as the price at which the last transaction in such security took place in the regular trading session of the principal market for the security. The price, if reported in non-U.S. currency, must be converted into U.S. dollars on the basis of a spot rate of exchange relevant for the time of the transaction obtained from at least one independent entity that provides or disseminates foreign exchange quotations in the ordinary course of its business.<SUP> 46 </SUP> 
+
+ The Commissions concur with the commenters that use of a security's closing price, rather than its average price as proposed, is reasonable in view of the purposes of the rule-determining which securities are among the 750 securities with the largest market capitalization. Relying on the closing price will also help assure uniformity among markets in applying the statutory definition. 
+
+For the same reason, the Commissions have defined closing price in the rules generally as the price of the last transaction in the regular trading session of the principal market for the security in the United States.<SUP> 47 </SUP> Although a security that is registered under Section 12 of the Exchange Act, and thereby eligible for inclusion among the 750 securities with the largest market capitalization, may trade on markets outside of the United States, the Commissions believe that, in this context, the interests of uniformity are served by defining the closing price in U.S. dollars as based on the last transaction for the security in the regular trading session of the principal U.S. market. When a foreign security that is registered under Section 12 trades in the United States only in the form of a depositary share, the rule establishes that the closing price of such share must be adjusted to reflect the ratio of shares represented by the depositary share to the number of outstanding shares in the underlying security. This is because the formula for market capitalization of the underlying security uses the number of outstanding shares in the underlying security as the multiplier with closing price.
+
+In addition, following the suggestion of commenters, the Commissions have modified the definition of outstanding shares from that proposed to include updated information on changes in the number of shares outstanding reflecting corporate events that occur after the annual or quarterly report, as contained in any Form 8-K filed by the issuer.<SUP> 48 </SUP> 
+
+The final rules provide that, once the market capitalization of a security is calculated for each day of the preceding 6 full calendar months, market capitalization of such security as of the preceding 6 full calendar months must be determined.<SUP> 49 </SUP> This determination requires: (1) summing the values of the market capitalization for each trading day in the U.S. during the preceding 6 full calendar months;<SUP> 50 </SUP> and (2) dividing this sum by the total number of such trading days.<SUP> 51 </SUP> 
+
+Finally, paragraph (a)(2)(ii) of these rules<SUP> 52 </SUP> provides that the 750 securities with the largest market capitalization shall be identified from the universe of all reported securities as defined in Rule 11Ac1-1 under the Exchange Act<SUP> 53 </SUP> that are common stock or depositary shares. The Commissions believe that this provision will ease the burden on markets in identifying the Top 750, by limiting the universe from which these securities must be identified to securities listed on a national securities exchange, the trades of which are reported to the Consolidated Tape Association ("CTA"), and securities that are Nasdaq National Market System ("Nasdaq NMS") securities.<h>2. Determining Dollar Value of Average Daily Trading Volume of a Security </h>
+
+The dollar value of ADTV of a security is relevant for purposes of: (1) determining whether an index is a narrow-based security index under the statutory definition, which requires an assessment of whether the dollar value of the ADTV of the lowest weighted 25% of the index is less than $50 million (or $30 million for indexes with 15 or more component securities);<SUP> 54 </SUP> and (2) determining whether a security is among the 675 securities with the largest dollar value of ADTV, permitting the index of which it is a component to qualify as broad-based under the first exclusion from the definition of narrow-based security index.<SUP> 55 </SUP><h>a. Proposed Rules </h>
+
+The proposed rules would have defined the dollar value of ADTV of a security for the purpose of the definition of narrow-based security index as the product of: (1) the average daily trading volume of the security over the preceding 6 full calendar months; and (2) the average price of the security over the preceding 6 full calendar months. 
+
+The definition of average price of a security over the preceding 6 full calendar months in the proposed rules took into account the number of shares in each transaction during the period. This method, often termed "volume-weighted average price," or "VWAP," would require a person calculating the average to first establish a value for each transaction by multiplying the price per share in U.S. dollars of the transaction by the number of shares traded in that transaction. Then, the sum of these values for all the transactions in the security during the 6-month period would be divided by the total number of shares traded during that period. 
+
+The proposed rules provided an alternative method for determining the dollar value of ADTV of a security using a non-volume-weighted average price under certain conditions. Specifically, for purposes of determining whether the dollar value of ADTV of the lowest weighted 25% of a security index exceeded the statutory thresholds of $50 million (or $30 million), national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade would have been permitted to use an average price for each component security defined as the average price level at which transactions in the security took place over the six-month period, irrespective of the number of shares traded in each transaction. 
+
+In addition, the proposed rules permitted data from non-U.S. markets to be included in determining the ADTV and average price of a security, provided that the information was reported to a foreign financial regulatory authority in the jurisdiction where the security is traded. To the extent that trades executed on non-U.S. markets were included in the calculation of ADTV, the proposed rules required the same trades to be included in calculating average price. The proposed rules also required that for non-U.S. transactions to be included in the calculation of average price, the price of each transaction would need to be translated into U.S. dollars at the trading date's noon buying rate in New York City as certified for customs purposes by the Federal Reserve Bank of New York ("noon buying rate"). Price and trading volume data for each security were to be included only for the trading days of the principal market for the security.
+
+The Commissions requested comment on the use of the proposed method for determining dollar value of ADTV, and inquired whether another method, such as using an average of a security's daily closing price, would be more appropriate. In addition, the Proposing Release solicited comment on whether, when determining average price of a security, the average price, on a proportional basis, of ADRs representing shares of such security should be considered. The Proposing Release also included a request for comment on whether it would be difficult for market participants to determine the Top 675 securities, and whether the Commissions should themselves undertake to compile, on a regular basis, a Top 675 list.<h>b. Comment Letters </h>
+
+Several commenters objected to the use of VWAP as a multiplier in determining dollar value of ADTV.<SUP> 56 </SUP> The commenters asserted that the calculations required by this method would be too numerous, complicated, and overly burdensome in light of the purposes of the statute and would not increase the reliability of the results. Moreover, they pointed out that, because the methodologies of calculating VWAP differ among market data vendors, the results would not be as consistent as using a method based on closing price. 
+
+There was a divergence of views, however, with respect to an appropriate alternative. One commenter believed that the Commissions should allow flexibility in the methodologies used to calculate average price and dollar value of ADTV.<SUP> 57 </SUP> Some commenters favored the use of the average daily closing price of a security as the multiplier to be used with the security's ADTV to determine dollar value of ADTV.<SUP> 58 </SUP> Another commenter maintained that while closing price is the standard multiplier used (with the number of outstanding shares) in calculating market capitalization, using an average closing price to determine dollar value of ADTV would be an "unconventional and less accurate measure of average value traded" than using VWAP as the multiplier, which, it argued, is "standard and intuitive."<SUP> 59 </SUP> This commenter pointed out, however, that the same result reached by using the proposed method could be reached by using a method that had been suggested as an alternative in the Proposing Release. This method involves calculating the actual dollar value of all transactions in a security for each trading day during the 6-month period, and then arriving at an average for the period by summing the values for each trading day and dividing the result by the number of such trading days. 
+
+Several commenters favored including the trading in ADRs in calculating the average price of their underlying securities.<SUP> 60 </SUP> With respect to the proposed rule permitting the limited use of a non-volume-weighted average price for purposes of determining whether the daily trading value of the lowest weighted 25% of an index exceeded the statutory thresholds, two commenters did not believe that it was likely to be helpful and one commenter did not favor the conditions imposed for use of this alternative.<SUP> 61 </SUP> 
+
+Three commenters expressed views on the proposed rules with respect to the inclusion of foreign trading data. One commenter generally agreed with the proposed rules,<SUP> 62 </SUP> while another believed that, for ADTV, only the volume reported on the principal listing exchange in the United States should be included.<SUP> 63 </SUP> A third commenter questioned the restriction limiting the use of foreign data to data reported to a foreign financial regulatory authority, suggesting, instead, that the rules permit the use of trading data derived from trading on foreign markets subject to surveillance by an appropriate foreign regulatory authority.<SUP> 64 </SUP> This commenter also sought clarification as to whether the inclusion of data from non-U.S. exchanges is optional or mandatory, noting that if the use of foreign data is merely optional, this could lead to inconsistent determinations as to whether an index is broad-based or narrow-based.<SUP> 65 </SUP> 
+
+Finally, several commenters indicated that it would indeed be difficult to constantly determine the Top 675 securities, and endorsed the suggestion that the Commissions should publish lists of the Top 675 securities for purposes of the statutory provision.<SUP> 66 </SUP> One exchange also argued that a list published by the Commissions was necessary to eliminate uncertainty and assure conformity among markets in determining the status of various security indexes.<SUP> 67 </SUP><h>c. Final Rules </h>
+
+The rules, as adopted, establish different methods to be used to determine the dollar value of a security's ADTV for purposes of the two provisions where this value is relevant, as noted above: the statutory definition of narrow-based security index (Section 1a(25)(A) of the CEA and Section 3(a)(55)(B) of the Exchange Act); and the first exclusion from that definition (Section 1a(25)(B)(i) of the CEA and Section 3(a)(55)(C)(i) of the Exchange Act). 
+
+As discussed further below, the final rules provide for the possibility that the Commissions will designate the Top 675 for purposes of the exclusion. The Commissions are actively investigating the possibility of designating this list with routine periodic updates. To the extent feasible, the Commissions are committed to include foreign volume data. The Commissions welcome suggestions at any time from interested parties regarding this matter. 
+
+In the event that no such list is designated by the Commissions, the rules provide a method for markets themselves to determine the Top 675 securities for this purpose. The Commissions agree with the view expressed by some commenters that it is important in such case that all markets use the same data. Accordingly, it is critical that the information used to determine these 675 securities is easily obtained by all markets and is identical. Because of limitations in the accessibility and uniformity of trading data from foreign markets, the Commissions have determined that, for purposes only of determining the Top 675 securities, only U.S. market volume data should be used. At this time, the Commissions believe that this simplification will not make a significant impact on the final list drawn from the intersection of the Top 750 and Top 675. 
+
+For purposes of determining whether the dollar value of the lowest weighted 25% of a particular index exceeds the $50 million (or $30 million) threshold established by the definition of narrow-based security index, the Commissions believe that small variations in the derived ADTV for component securities are not critical. Therefore, the Commissions have determined to require the inclusion of foreign market trading data in the calculation of a security's dollar value of ADTV. 
+
+The Commissions are adopting different methodologies for calculating the value of ADTV for purposes of the two provisions where the value is relevant, i.e. , requiring the use of foreign volume data for the definition but not for the first exclusion, for a practical reason. The Commissions believe that it is important to have a single list of the Top 675 securities for ascertaining compliance with the first exclusion to enhance certainty regarding eligible securities. In contrast, the Commissions believe that small variations in the derived ADTV that may result from the use of foreign volume data for component securities under the definition would be acceptable and would not undermine the statutory requirement that the lowest weighted 25% of an index exceed minimum volume thresholds to be a broad-based index.<h>i. Dollar Value of ADTV for Purposes of Section 1a(25)(A) of the CEA and Section 3(a)(55)(B) of the Exchange Act </h>
+
+First, paragraph (b)(1)(i)(A) of Rule 41.11 under the CEA and Rule 3a55-1 under the Exchange Act<SUP> 68 </SUP> provides the method to determine the dollar value of ADTV of a security for purposes of assessing whether the dollar value of ADTV of the lowest weighted 25% of a security index exceeds $50 million (or $30 million). The method entails calculating the dollar value of ADTV of a security separately for each jurisdiction in which it trades, and then summing the values for all jurisdictions.<SUP> 69 </SUP> Once the dollar value of ADTV of each component security comprising the lowest weighted 25% of an index<SUP> 70 </SUP> is calculated, those values are summed to determine the aggregate dollar value of ADTV of the lowest weighted 25% of an index.<SUP> 71 </SUP> 
+
+For trading in a security in the United States, paragraph (b)(1)(ii) of Rule 41.11 under the CEA and Rule 3a55-1<SUP> 72 </SUP> under the Exchange Act provides that the dollar value of ADTV of a security is the sum of the value of all reported transactions in the security for each U.S. trading day during the preceding 6 full calendar months, divided by the total number of trading days. For trading in a security in a jurisdiction other than the United States, paragraph (b)(1)(iii)<SUP> 73 </SUP> sets forth the same method for determining the dollar value of ADTV of a security in each jurisdiction in which it traded, but stipulates that the value of each day's trading must be translated into U.S. dollars on the basis of that day's exchange rate, as discussed further below. 
+
+Calculating a security's VWAP will not be necessary.<SUP> 74 </SUP> In response to the concerns raised by commenters, the method adopted for determining dollar value of ADTV requires a market to first compute the dollar value of a security's trading each day, and then to average the result over the 6-month period. This calculation yields the same result as proposed, without requiring the calculation of a security's VWAP.<SUP> 75 </SUP>
+
+The rule allows flexibility in the choice of an exchange rate.<SUP> 76 </SUP> The proposed rule would have required the use of the noon buying rate to assure conformity in the determination of whether a security is one of the 675 securities with the largest dollar value of ADTV. However, because the Commissions are adopting a different methodology for determining dollar value of ADTV of the lowest weighted 25% of an index than the methodology for determining whether a security is among the Top 675, the Commissions believe that permitting markets some flexibility in applying an exchange rate is acceptable, as long as the exchange rate used is a spot rate of exchange obtained from an independent entity that provides or disseminates foreign exchange quotations in the ordinary course of its business. Such entity must be active in the foreign currency markets as a source that quotes rates for the purpose of buying and selling foreign currencies. The Federal Reserve Bank, as in the proposed rules, would be an acceptable source. 
+
+As supported by commenters who favored the inclusion of ADR data, the rules also establish that the dollar value of ADTV of a security includes the value of all reported transactions in any depositary share that represents such security; and that the dollar value of ADTV of a depositary share includes the value of all reported transactions in its underlying security.<SUP> 77 </SUP> 
+
+The Commissions note that the inclusion of information from non-U.S. markets is mandatory in determining whether the lowest weighted 25% of an index is more than $50 million (or $30 million). The final rule retains the restriction of the proposed rules limiting data from non-U.S. markets to transactions reported to a foreign financial regulatory authority.<SUP> 78 </SUP> The Commissions believe that there is no way to assure that information on transactions that are not so reported is reliable or accurate.<h>ii. Dollar Value of ADTV for Purposes of Determining Whether a Security is One of the Top 675 </h>
+
+Second, in response to commenters, the Commissions are adopting two alternative methods for markets to determine whether a security is one of the 675 securities with the largest dollar value of ADTV. The Commissions expect to be able at some point in the near future to designate a list of such securities and have provided in the final rules for such possible designation.<SUP> 79 </SUP> However, because a final determination regarding the Commissions' designation of such list has not yet been made, the Commissions are adopting rules setting forth the method for markets themselves to use to calculate dollar value of ADTV and thereby to determine which securities are among the Top 675. 
+
+Specifically, in the absence of a designated list of such securities, paragraph (b)(2)(ii)(A) of CEA Rule 41.11 and Exchange Act Rule 3a55-1<SUP> 80 </SUP> defines the dollar value of ADTV of a security as of the preceding 6 full calendar months as the sum of the value of all reported transactions in such security in the United States for each trading day during the preceding 6 full calendar months, divided by total number of such trading days. 
+
+In considering a method for markets to use in compiling their own lists individually, the Commissions faced a concern about the variability in the way trading information from foreign markets currently may be accessed and compiled. After careful deliberation, the Commissions concluded that for the purposes of certainty and conformity, while the averaging method for determining dollar value of ADTV should remain the same, it is appropriate at this time to limit the data that is to be used by markets in identifying the Top 675 to U.S. trading information. The Commissions believe that this will help ensure that the Top 675 lists compiled individually by various markets, which is one of the bases for determining whether a security index is broad-based, will be uniform and verifiable. 
+
+Finally, paragraph (b)(2)(ii)(B) of these rules<SUP> 81 </SUP> provides that the 675 securities with the largest dollar value of ADTV shall be identified from the universe of all reported securities as defined in Rule 11Ac1-1 under the Exchange Act<SUP> 82 </SUP> that are common stock or depositary shares. The Commissions believe that this provision will ease the burden on markets in identifying the Top 675, by limiting the universe from which these securities must be identified to securities listed on a national securities exchange, the trades of which are reported to the CTA, and securities that are Nasdaq NMS securities.<h>3. Use of the Top 750 and Top 675 Lists </h>
+
+As noted above, commenters indicated that it would be difficult to constantly determine the Top 750 and Top 675 securities, and endorsed the idea that the Commissions publish a list of the Top 750 and Top 675 securities. The final rules accommodate the possibility of the Commissions designating a list of the Top 750 and of the Top 675 securities. The Commissions may either generate lists of such securities themselves, or designate lists compiled by a third party. Such designated lists would alleviate the burden on markets of calculating the lists, and help ensure uniformity in, and verifiability of, the information used by markets to determine that a security index is broad-based.
+
+Specifically, paragraph (a)(1) of Rule 41.11 under the CEA and Rule 3a55-1 under the Exchange Act provides that a security will be one of 750 securities with the largest market capitalization on any particular day when it is included on a list of such securities designated by the SEC and CFTC.<SUP> 83 </SUP> Similarly, paragraph (b)(2)(i) of these rules provides that a security will be one of the 675 securities with the largest dollar value of ADTV on any particular day when it is included on a list of such securities designated by the SEC and CFTC.<SUP> 84 </SUP> 
+
+The rules contemplate that the Commissions will prepare a list of the Top 750 and a list of the Top 675 that will be the sole source by which a market participant may determine whether a component security of an index fulfills the statutory requirements. The provision also allows for the possibility that the Commissions may choose to designate Top 750 and Top 675 lists that have been prepared by a third party. 
+
+The rule providing for the designation of lists is also intended to address another issue raised by the Commissions in the Proposing Release and remarked on by several commenters: How often must the Top 750 and Top 675 securities be identified in order to verify that component securities of an index still would be included on such lists? The final rules provide that a security will be one of 750 securities with the largest market capitalization and one of 675 securities with the largest dollar value of ADTV on any particular day when it is included on a list of such eligible securities designated by the Commissions as applicable for that day. Any security on such list designated by the Commissions would remain an eligible security until the next list is released. 
+
+In addition to easing the burden on exchanges, the Commissions note that this provision also has ramifications for the statutory tolerance period, which permits a broad-based security index to retain its broad-based status as long as it does not assume the characteristics of a narrow-based security index for more than 45 business days over three calendar months. The rule adopts a principle suggested in the discussion of the possibility of officially-designated lists in the Proposing Release. Any security that appears on both lists will be deemed to be one of the Top 750 and Top 675 securities every day during the period in which those lists are designated as applicable. Conversely, any security that does not appear on the lists will be deemed not to satisfy the statutory requirements every day those lists are designated as applicable.<h>4. The Lowest Weighted 25% of an Index </h>
+
+As discussed above, one of the factors that may render a security index narrow-based is if the aggregate dollar value of the ADTV of the lowest weighted 25% of its component securities is less than $50 million (or $30 million for an index of 15 component securities or more). 
+
+The Commissions are adopting as proposed a provision that addresses the situation when no group of the lowest weighted securities in an index equals exactly 25% of the index's weighting. Paragraph (d)(5) of CEA Rule 41.11 and Exchange Act Rule 3a55-1 establishes that the "lowest weighted 25% of an index" is comprised of those component securities that have the lowest weightings in the index such that, when their weightings are summed, they equal no more than 25% of the weight of the index.<SUP> 85 </SUP> 
+
+To identify these securities, the following method applies: (1) all component securities in an index are ranked from the lowest to highest weighting; and (2) beginning with the lowest weighted security and proceeding to the next lowest weighted security and continuing in this manner, the weightings are added to each other until they reach the sum that comes closest to, or equals 25%, but does not exceed 25%. Those securities comprise the lowest weighted 25% of the index.
+
+One commenter acknowledged that any application of the statute must account for the situation where no group of securities comprise exactly 25% of the index's weighting, but argued that the solution includes a paradoxical element: in some cases, when a new component security is added to an index-theoretically broadening the index-the result can be that the number of securities in the "lowest weighted 25%" is decreased, making it more difficult to clear the $50 million (or $30 million) hurdle.<SUP> 86 </SUP>
+
+The Commissions believe that the provision as proposed is consistent with the intent of Congress in fashioning the "lowest weighted 25%" test. The commenter's alternative solution is to prorate the dollar value of ADTV of the security that puts the lowest weighted group of securities "over the top" of the 25% line. In the Commissions' view, a pro rata approach does not accord with the concept implicit in the statute that the lowest weighted 25% comprises a whole number of component securities. 
+
+Paragraph (d)(5)(ii) of CEA Rule 41.11 and Exchange Act Rule 3a55-1, which is adopted today as proposed, addresses another issue in the calculation of dollar value of ADTV of the lowest weighted 25% of a security index. As explained in the Proposing Release, the calculation of dollar value of ADTV for any given moment in time must take into account trading volume and price data for the relevant securities over the preceding 6 months of trading. Yet the securities that comprise the lowest weighted 25% of an index may vary from day to day. The rule provides instruction as to how the dollar value of ADTV of the lowest weighted 25% of an index is to be determined on a particular day. 
+
+Paragraph (d)(5)(ii) of CEA Rule 41.11 and Exchange Act Rule 3a55-1 establishes that, for any particular day, the ADTV of the lowest weighted 25% of the index is calculated based on the price and trading data over the preceding 6 months for the securities that comprise the lowest weighted 25% of the index for that day . The Commissions believe that this method of taking a "snapshot" of the current lowest weighted 25% and then looking retroactively to determine the aggregate dollar value of the ADTV over the preceding 6 months of the securities in the snapshot is a reasonable approach for the purposes of the statute and will be considerably less burdensome than the alternative of requiring a calculation of the data for the lowest weighted 25% of the index for each day of the preceding 6 full calendar months.<SUP> 87 </SUP><h>5. Determining "the Preceding 6 Full Calendar Months" </h>
+
+As already noted, the CEA and Exchange Act specify that the dollar value of ADTV and market capitalization are to be calculated as of the "preceding 6 full calendar months."<SUP> 88 </SUP>
+
+Paragraph (d)(8) of CEA Rule 41.11 and Exchange Act Rule 3a55-1, being adopted today as proposed, defines "preceding 6 full calendar months," with respect to a particular day, as the period of time beginning on the same day of the month 6 months before such day, and ending on the day prior to such day.<SUP> 89 </SUP> For example, for August 16 of a particular year, the preceding 6 full calendar months means the period beginning February 16 and ending August 15. Similarly, for March 8 of a particular year, the preceding 6 full calendar months begins on September 8 of the previous year and ends on March 7. 
+
+The Commissions believe that this "rolling" 6-month approach is appropriate, particularly in light of issues that would arise if 6 full calendar months were measured from the first to the last day of each month on the calendar. If that approach were used, it would be difficult to apply the third exclusion from the definition of narrow-based security index in the CEA and Exchange Act, which excepts a broad-based security index from the definition of narrow-based security index if it has assumed narrow-based characteristics for 45 or fewer business days in a three-month period.<SUP> 90 </SUP> 
+
+For example, if a national securities exchange, designated contract market, registered DTEF, or foreign board of trade needed to assess the dollar value of ADTV of a security for the six months preceding July 20, and the measuring period were the 6-month period from January 1 through June 30, the dollar value of ADTV of such security would be static for each day in July. In this example, the calculation would not take into account any transactions that occurred during July. The Commissions believe that the tolerance provision of the third exclusion, which specifies 45 days of tolerance within a three-month period in which dollar value of ADTV levels may drop below the threshold, indicates that a "rolling month" approach is most appropriate. 
+
+One commenter agreed with this approach.<SUP> 91 </SUP> Another commenter, however, took issue, maintaining that Congress likely intended "calendar months" to mean the month-long periods referred to as January, February, etc., and that it is possible to read the statute's tolerance provisions compatibly with this interpretation.<SUP> 92 </SUP> This commenter's main contention in this connection, however, appeared to be that it would be advantageous to keep market capitalization values and dollar values of ADTV static for a month at a time. According to this commenter, a month-by-month compilation of the Top 750 and Top 675 lists-rather than a required daily compilation-would, among other things, "dramatically reduce the data gathering calculation, and paperwork burden on exchanges." 
+
+The Commissions note that in view of the new facet of the final rule providing for the designation of Top 750 and 675 lists that may be applicable for periods of some duration, this latter concern may to a large extent be alleviated. The Commissions also believe that a month-long, static dollar value of ADTV would not comport with the purposes of the statute's $50 million (or $30 million) hurdle for the lowest weighted 25% of an index to achieve broad-based status. Thus, the Commissions have adopted the proposed definition of "preceding 6 full calendar months" in the final rules.<h>6. Depositary Shares </h>
+
+In the Proposing Release, the Commissions requested comment on whether an ADR should be considered registered pursuant to Section 12 of the Exchange Act for purposes of the first exclusion from the definition of narrow-based security index, which is available for an index comprised solely of Top 750 and Top 675 securities registered under Section 12.<SUP> 93 </SUP> 
+
+Commenters responded favorably on this issue.<SUP> 94 </SUP> Because a depositary share is a security that represents a common stock, the Commissions believe that an instance where a depositary share is a component security of an index is fundamentally equivalent to the instance where the common stock is the component security. The Commissions, therefore, have provided in the final rules<SUP> 95 </SUP> that the requirement that each component security of an index be registered under Section 12 of the Exchange Act for purposes of the first exclusion will be satisfied with respect to any security that is a depositary share if the deposited securities underlying the depositary share is registered under Section 12. This allowance is granted on condition that the depositary share is registered under the Securities Act of 1933 on Form F-6.<SUP> 96 </SUP><h>7. General Guidance in Application of the Rule </h>
+
+As a general matter, the Commissions note that any national securities exchange, designated contract market, registered DTEF, or foreign board of trade that trades a future on a security index will be required to determine whether or not the future is a security future to assure that the market is in compliance with the CEA and the Exchange Act.<SUP> 97 </SUP> 
+
+The Proposing Release asked for comment on whether the Commissions should permit a national securities exchange, designated contract market, registered DTEF, or foreign board of trade to rely on independent calculations by a third party to determine market capitalization and dollar value of ADTV for purposes of these rules, and if so, whether any conditions should be imposed when a third party is used and whether the third party should be required to meet certain qualification standards. 
+
+Several commenters believed that markets should be permitted to rely on third parties,<SUP> 98 </SUP> and one added that no conditions should be imposed and third parties should not be required to meet qualification standards.<SUP> 99 </SUP> One commenter believed, however, that the Commissions should create or designate one official source for any data used for purposes of determining market capitalization and dollar value of ADTV, not only for the Top 750 and Top 675, but for all securities registered under Section 12.<SUP> 100 </SUP> 
+
+Upon careful consideration of the question, the Commissions have determined not to adopt any rules at this time that prohibit or place conditions on the use of third parties or impose qualifications standards on such third parties. 
+
+As such, a national securities exchange, designated contract market, registered DTEF, or foreign board of trade may contract with an outside party to supply the information and data analysis required to determine, for example, whether the dollar value of ADTV of the lowest weighted 25% of a security index exceeds the $50 million (or $30 million) threshold, thus demonstrating that the index falls outside the basic definition of narrow-based security index; or whether the market capitalization and dollar value of ADTV of all the component securities in an index are among the Top 750 and Top 675 securities for purposes of the first exclusion from that definition. For example, the market trading the future may have a contract with a data vendor that supplies transaction information through an electronic medium. However, in all circumstances the market will be responsible for assuring that the calculation by the outside party is consistent with the final rules. 
+
+One commenter maintained that an exchange "should be able to apply logical relationships to minimize the calculation burden."<SUP> 101 </SUP> The commenter supplied an example where the lowest traded price of a security over the 6-month period, multiplied by the ADTV of the security over the same period, yielded a value of more than $50 million. Because the dollar value of ADTV based on actual prices would necessarily be more than $50 million, the commenter argued, no further calculations should be necessary. Based on this example, the commenter recommended that flexibility be granted so that an exchange will have the ability to choose the least burdensome way of satisfying the statutory criteria. 
+
+The Commissions note the rules establish the methods by which market capitalization and dollar value of ADTV are determined. Any way that a market can minimize its calculations, yet still demonstrate with mathematical certainty that the statutory thresholds have been met, is acceptable. 
+
+One commenter believed that the rules should require only an annual determination as to whether an index is narrow-based or broad-based, and that if it is determined that an index has changed in status, a future on the index should be permitted to continue trading for an additional one-year grace period.<SUP> 102 </SUP> As the commenter recognized, this approach differs from the grace periods specified in the CEA and Exchange Act. At this time the Commissions do not believe such a substantial change from the statutory definition is appropriate.<h>B. CEA Rule 41.12 and Exchange Act Rule 3a55-2: A Future on a Broad-Based Security Index that Becomes Narrow-Based During First 30 Days of Trading1. The Relevant Statutory Provision </h><h>1. The Relevant Statutory Provision </h>
+
+As discussed above, the CEA and Exchange Act include a tolerance provision that allows, under certain conditions, a future on a security index to continue to trade as a broad-based index future-even when the index temporarily assumes characteristics that would render it a narrow-based security index under the statutory definition. An index qualifies for this tolerance and therefore is not a narrow-based security index if: (i) a future on the index traded for at least 30 days as an instrument that was not a security future before the index assumed the characteristics of a narrow-based security index; and (ii) the index does not retain the characteristics of a narrow-based security index for more than 45 business days over three consecutive calendar months.<SUP> 103 </SUP> 
+
+ Under these statutory provisions, if a future began trading on a security index that was broad-based, and, within fewer than 30 days, the index assumed the characteristics of a narrow-based security index, the future would become a security future immediately. A designated contract market, registered DTEF, or foreign board of trade that is not registered with the SEC would not be permitted to allow trading in the instrument to continue on its market, unless it were in compliance with relevant provisions of the Exchange Act.<h>2. Proposed Rules </h>
+
+To avert any dislocations that could potentially be created by such a sudden change in a product's status, the Commissions proposed new rules under the CEA and Exchange Act to create a temporary exclusion from the definition of narrow-based security index.<SUP> 104 </SUP> As proposed, that exclusion would have permitted a future on a broad-based index to continue to trade as such even if the index assumed narrow-based characteristics during the first 30 days of trading, provided that the index would not have been a narrow-based security index, had it been in existence, for an uninterrupted period of six months prior to the first day of trading. Put in other terms, if a future on an index would not have been deemed a security future, had the index been in existence, for six months prior to the beginning of trading, it could continue trading as a broad-based future even if, during the first 30 days, the index temporarily assumed the characteristics of a narrow-based index (so long as it did not retain those characteristics for more than 45 business days in three consecutive calendar months).<h>3. Comment Letters </h>
+
+The two commenters who addressed this subject generally favored the aim of the proposed rules, but were concerned about the six months of calculations that would be required to satisfy the condition for the temporary exclusion.<SUP> 105 </SUP> One of these commenters noted, in particular, that to determine that an index was not a narrow-based security index as of a date six months before trading begins, as required by the proposed rules, a market would actually be required to look at trading data from yet another six months prior to that date.<SUP> 106 </SUP> This is because the definition of narrow-based security index requires an assessment of dollar value of ADTV "as of the preceding 6 full calendar months." This commenter supported an approach that would require dollar value of ADTV of the lowest weighted 25% of an index to meet the $50 million (or $30 million) hurdle separately for each day of the six months prior to the beginning of trading to qualify for the exclusion. 
+
+The other commenter expressed the additional concern that under the rules as proposed, an exchange with plans to begin trading a future on a broad-based index would have no assurance, until the eve of the launch date, that in fact the index had been broad-based for every day during the preceding 6 months.<SUP> 107 </SUP> This commenter suggested that an exclusion instead should be granted if the index simply was narrow-based no more than 45 days over three months looking retroactively from the launch date.<h>4. Final Rules </h>
+
+After careful consideration of the comments, the Commissions have determined to adopt the temporary exclusion with slight modifications from the proposal. The final rules exclude from the definition of narrow-based security index an index that satisfies one of three alternative requirements. In addition, under the final rules, an index may qualify for the exclusion on the basis of data compiled as of a date up to a month prior to the beginning of trading of a future on the index. This provides exchanges with some certainty about the regulatory framework under which a product will trade. 
+
+Specifically, Rule 41.12 under the CEA and Rule 3a55-2 under the Exchange Act<SUP> 108 </SUP> provide that an index is not a narrow-based security index during the first 30 days of trading if: 
+
+ The index would not have been a narrow-based security index on each trading day of the six-month period<SUP> 109 </SUP> preceding a date up to 30 days prior to the launch of trading of a future on the index. This alternative requires that the index would have been a broad-based security index for an uninterrupted six months prior to trading to qualify for the exclusion for the first 30 days, as in the proposed rules. 
+
+ On each trading day of the six-month period preceding a date up to 30 days prior to the launch of trading of a future on the index, (i) the index had more than 9 component securities; (ii) no component security in the index comprised more than 30% of the index's weighting; (iii) the 5 highest weighted component securities in the index did not comprise, in the aggregate, more than 60% of the index's weighting; and (iv) the dollar value of the trading volume of the lowest weighted 25% of such index was not less than $50 million (or in the case of an index with 15 or more component securities, $30 million). This alternative requires an index not to be a narrow-based security index under Section 1a(25)(A) of the CEA and Section 3(a)(55)(B) of the Exchange Act, but permits a market to determine the dollar value of a security's trading volume on a daily basis without calculating an average using six months of data for each day.<SUP> 110 </SUP> 
+
+ On each trading day of the six-month period preceding a date up to 30 days prior to the launch of trading of a future on the index, (i) the index had at least 9 component securities; (ii) no component security in the index comprised more than 30% of the index's weighting; and (iii) each component security in such index was registered pursuant to Section 12 of the Act and was one of the Top 750 and Top 675 securities that day. This alternative requires an index to meet the requirements for the exclusion from the definition of narrow-based security index under Section 1a(25)(B) of the CEA and Section 3(a)(55)(C) of the Exchange Act, but permits a market to determine whether a component security is one of the Top 750 and one of the Top 675 on a daily basis without calculating an average using six months of data for each day. 
+
+The Commissions note that the statute by its own terms requires 30 days of trading as a broad-based index before changes in an index's characteristics may be tolerated. The Commissions believe that an index that is broad-based for six uninterrupted months, subject to the additional allowances permitted under the second and third alternatives noted above, is sufficient enough of an indication that a subsequent change in the index's character within the first 30 days of actual trading would be an anomaly and would warrant a temporary exclusion from the definition of narrow-based security index. On the other hand, the Commissions do not believe that it is reasonable, as suggested by one commenter, to provide an exclusion for an index that was still fluctuating from broad-based to narrow-based status (albeit for fewer than 46 days over three months) in the months immediately prior to trading. 
+
+Finally, the rules as adopted provide, as in their proposed version, that if an index that has qualified under the temporary exclusion subsequently assumes narrow-based characteristics for more than 45 business days over three consecutive calendar months, it becomes a narrow-based security index, and thus the future on it becomes a security future following an additional three-month grace period.<h>5. Other Issues Concerning a Broad-Based Index that Becomes Narrow-Based </h>
+
+If a security index on which a future is trading became narrow-based for more than 45 days over three consecutive months, and thus pursuant to Section 1a(25)(D) of the CEA and Section 3(a)(55)(E) of the Exchange Act becomes narrow-based, the Commissions believe that in order for trading to continue to be regulated exclusively by the CFTC, the designated contract market, registered DTEF, or foreign board of trade trading the contract would be required, before the temporary three-month grace period elapses, to change the composition of, or weightings of securities in, the index so that the index is not a narrow-based security index. Alternatively, the designated contract market, registered DTEF, or foreign board of trade trading a future on such index could comply with the requirements of the securities laws applicable to security futures. 
+
+The Proposing Release requested comment on whether the Commissions should expressly specify the extent of changes that would need to be made to the index in the event that the market does not wish to comply with the requirements of the securities laws. The three commenters who addressed this question generally responded in the negative.<SUP> 111 </SUP> The Commissions have determined not to undertake the adoption of specific rules for this situation at this time.
+
+One commenter suggested that even after the grace period has elapsed for a broad-based index that has become a narrow-based security index, liquidating trades in the future should still be permitted in months with open interest.<SUP> 112 </SUP> The Commissions note that the statute did not make allowances for such trades. In view of the fact that a three-month grace period already exists for such futures, in addition to the three-month tolerance period, the Commissions are not adopting any additional allowance at this time.<h>C. CEA Rule 41.13 and Exchange Act Rule 3a55-3: A Future Traded on or Subject to the Rules of a Foreign Board of Trade1. Proposed Rules </h><h>1. Proposed Rules </h>
+
+In the Proposing Release, the Commissions expressed the belief that security indexes underlying futures that are traded on or subject to the rules of foreign boards of trade should be considered broad-based security indexes if they qualify as such in light of the statutory definition of a narrow-based index, or the exclusions from that definition. The Commissions thus proposed Rule 41.13 under the CEA and Rule 3a55-3 under the Exchange Act to clarify and establish that when a future on an index is traded on or subject to the rules of a foreign board of trade, that index would not be a narrow-based security index if it would not be a narrow-based security index if a future on the same index were traded on a designated contract market or registered DTEF.<SUP> 113 </SUP> The Proposing Release also requested comment on how rules relating to foreign security indexes should address issues specific to indexes traded on or subject to the rules of a foreign board of trade.<h>2. Comment Letters </h>
+
+Most of the commenters who addressed the subject of indexes traded on or subject to the rules of a foreign board of trade did not appear to object to the proposed rule, but focused their comments on the question of an additional rule to create different standards for indexes traded on or subject to the rules of a foreign board of trade that would expand the types of indexes that would be considered broad-based indexes.<SUP> 114 </SUP> One commenter maintained that the public interest requires the Commissions to move forward and grant relief with respect to foreign security index contracts promptly.<SUP> 115 </SUP> 
+
+Commenters in favor of a different and more expansive standard for when a security index future traded on or subject to the rules of a foreign board of trade is broad-based made a number of arguments in support of their view. For example, commenters contended that Congress intended that different criteria be created for such indexes,<SUP> 116 </SUP> and that American investors, particularly institutional investors, need to be able to trade in futures on foreign indexes for risk management, asset allocation, "view-driven" strategies, and other purposes, and would suffer substantial adverse impact and competitive disadvantage with respect to non-U.S. investors if they could not trade such futures.<SUP> 117 </SUP> 
+
+In addition, commenters stated that the standards embodied in the statutory definition of narrow-based security index are of little value in evaluating foreign indexes because they were designed with U.S. markets in mind,<SUP> 118 </SUP> that standards for foreign-based indexes should be flexible and consistent with the realities of the local stock market and economy,<SUP> 119 </SUP> and that futures on foreign-based indexes are normally traded only among sophisticated investors and therefore need little or no regulation.<SUP> 120 </SUP> 
+
+Other arguments from commenters supporting a different standard for indexes underlying futures traded on foreign markets were that many foreign boards of trade operate under regulatory regimes comparable to that in the United States, that principles of international regulatory comity support reliance on such regimes, and that local stock market regulation should be sufficient to minimize the risk that a foreign index future or its underlying securities will be manipulated.<SUP> 121 </SUP> Finally, some commenters claimed that U.S. interest in the integrity of foreign securities trading is less than U.S. interest in the integrity of trading in U.S. securities.<SUP> 122 </SUP> 
+
+Some of these commenters proposed their own, or endorsed an alternative set of, criteria for indexes traded on or subject to the rules of a foreign board of trade.<SUP> 123 </SUP> Others, while not as specific, set forth the general principles by which they believed the Commissions should formulate rules for foreign-based indexes.<SUP> 124 </SUP> 
+
+Two commenters, on the other hand, believed that indexes traded on or subject to the rules of foreign boards of trade should be held to the same standards as indexes traded on U.S. markets.<SUP> 125 </SUP> In particular, one commenter argued, the susceptibility of the component securities of an index to manipulation-with a view to the depth of the market in those component securities, their liquidity, and their concentration in the index-should continue to guide the Commissions in determining the status of foreign-based indexes.<SUP> 126 </SUP> Another commenter argued that a rule that would create a distinction between an index future traded on or subject to the rules of a foreign board of trade would unfairly place domestic boards of trade at a competitive disadvantage and would contradict Congress's explicit intentions in enacting the CFMA.<SUP> 127 </SUP> 
+
+In connection with foreign-based indexes, some commenters also raised concerns relating to current statutory provisions that govern the trading of futures by "eligible contract participants," or "ECPs."<SUP> 128 </SUP> These commenters observed that ECPs may trade futures on securities-including futures on narrow-based security indexes and any type of foreign-based security index-in the over-the-counter market with little regulatory supervision either by the SEC or CFTC, and contended that futures exchanges are disadvantaged as a result. 
+
+Several of these commenters therefore advocated the adoption of a rule that would permit the trading of futures on such indexes on futures exchanges at least by ECPs, in the absence of a separately crafted standard for foreign based security indexes to qualify as broad-based indexes.<SUP> 129 </SUP> Otherwise, they argued, the trading of such futures would migrate to an unregulated arena.<SUP> 130 </SUP> Two commenters observed, on the other hand, that trading over-the-counter is more difficult and substantially more expensive than on an exchange, and cited this fact as an argument to permit trading in such indexes on a futures exchange.<SUP> 131 </SUP><h>3. Final Rules </h>
+
+The Commissions are adopting Rule 41.13 under the CEA and Rule 3a55-3 under the Exchange Act<SUP> 132 </SUP> as proposed. These rules provide that when a future on an index is traded on or subject to the rules of a foreign board of trade, such index is not a narrow-based security index if it would not be a narrow-based security index if a future on the same index were traded on a designated contract market or registered DTEF. The rules clarify and establish that an index underlying a future traded on or subject to the rules of a foreign board of trade will be considered broad-based if it qualifies as such pursuant to the statutory definition of narrow-based security index. 
+
+Because of the strong interest in the Commissions' adopting rules implementing the definition of narrow-based security index, as they are today doing, the Commissions believe that at this time it is prudent to adopt Rule 41.13 under the CEA and Rule 3a55-3 under the Exchange Act as proposed. Nevertheless, the Commissions recognize the need to address those foreign index futures that are currently trading as broad-based index futures under the exclusive jurisdiction of the CFTC and that would be considered narrow-based index futures under the rules being adopted today.<SUP> 133 </SUP> The Commissions recognize their obligation jointly to adopt rules or regulations that set forth the requirements that a future on a security index traded on or subject to the rules of a foreign board of trade must meet in order for the index to be excluded from the definition of narrow-based security index. The Commissions also acknowledge the requests of commenters that further rulemaking should be considered by the Commissions to address what commenters characterize as the unique nature of foreign stocks, foreign stock indexes and foreign markets. The Commissions jointly will consider further amendments to the rules regarding index futures trading on or subject to the rules of a foreign board of trade pursuant to their joint statutory rulemaking authority. As part of their considerations, the Commissions will weigh the competitive implications of treating a future on an index as a broad-based index future when traded on or subject to the rules of a foreign board of trade, but treating a future on the same index as a security future when it trades on a U.S. market. 
+
+The Commissions note at the same time that the CEA and Exchange Act grant them joint authority to exclude any security index from the definition of narrow-based security index by rule or by order that meets such requirements that they jointly establish. Because of ongoing business activities, the Commissions will consider using this authority in the case of foreign-based security indexes that are currently offered to U.S. investors pursuant to CFTC no-action letters, and may also consider using this authority as to foreign-based security indexes that may be developed in the future.<h>D. CEA Rule 41.14: A Future on a Narrow-Based Security Index that Becomes Broad-Based1. The Relevant Statutory Provision </h><h>1. The Relevant Statutory Provision </h>
+
+As discussed above, the statutory definition of narrow-based security index provides a temporary exclusion under certain conditions for a future trading on an index that was not narrow-based and subsequently became narrow-based for no more than 45 business days over three consecutive calendar months. If the index becomes narrow-based for more than 45 days over three consecutive calendar months, the statute then provides a grace period of three months during which the index is excluded from the definition of narrow-based security index.<SUP> 134 </SUP>
+
+The statute provides no such tolerance and grace period for a narrow-based security index that subsequently becomes broad-based.<h>2. Proposed Rule </h>
+
+Rule 41.14 under the CEA was proposed to fill this gap by providing a temporary exclusion and transitional grace period for a security futures product that was trading on a narrow-based security index that becomes a broad-based index. Paragraph (a) of the rule was proposed to establish a temporary exclusion for a security future that began trading on an index that was narrow-based and subsequently became broad-based for no more than 45 days in a three-month calendar period. In such case the index would continue to be treated for an interim grace period of three months as a narrow-based contract. 
+
+Paragraph (b) of the rule was proposed to provide a transition period for an index that was a narrow-based security index and became broad-based for more than 45 days over three consecutive calendar months, permitting it to continue to be a narrow-based security index for the three following calendar months.<SUP> 135 </SUP> 
+
+To minimize disruption, paragraph (c) of the rule also was proposed to provide that a national securities exchange may, following the transition period, continue to trade only in those months in which the contract had open interest on the date the transition period ended and shall limit trading to liquidating positions.<h>3. Comment Letters </h>
+
+Two commenters addressed proposed Rule 41.14. One of these commenters believed the rule was appropriate, but in regard to a narrow-based index that becomes a broad-based index, suggested that a designated contract market or registered DTEF be allowed to immediately treat the index as a broad-based security index, rather than wait through the three-month grace period, and be subject to the sole jurisdiction of the CFTC.<SUP> 136 </SUP> This would give the listing market the freedom to choose the course that is less disruptive to market participants.
+
+The other commenter suggested that if the underlying index had been narrow-based for at least six consecutive months prior to the initial trading of the security index futures contract, but later became a broad-based index, there should be a presumption that the contract was offered as a narrow-based contract in good faith.<SUP> 137 </SUP> As such, the rule should allow a grace period of nine months, instead of three, for purposes of unwinding the contract, or the rule should allow the listing market to seek qualification as a 
+
+designated contract market in order to continue trading the contract. This commenter also suggested that the CFTC should have the flexibility to extend the grace period or eliminate the "liquidating only" limitation, in order to foster liquidity and avoid harming traders.<h>4. Final Rule </h>
+
+After careful consideration of the comments, the CFTC has determined to adopt the rules in large measure as they were proposed, with one change resulting from the suggestion of a commenter.
+
+The CFTC has decided not to allow a designated contract market or registered DTEF to immediately treat an index that has switched from narrow-based to broad-based as a broad-based index. Instead, all markets must continue to treat former narrow-based indexes as narrow-based indexes during the three-month grace period provided for in 41.14(b). The CFTC notes that indexes that switch from being narrow-based to broad-based may still be in a transitioning period. The three-month grace period, which will continue to treat an index as a narrow-based index, will provide certainty to the market and investors that the index has indeed become broad-based, and is not in the midst of more fluctuation.
+
+Furthermore, when an index underlying a security index futures contract switches from being narrow-based to broad-based and does not return to narrow-based status during the grace period, the customers who trade that contract would need to switch regulatory regimes. A three-month grace period will prevent those who trade in such contracts from being taken by surprise by the switch in regulatory oversight.
+
+Regarding the comments of the second commenter, the CFTC agrees that only allowing liquidating trades as proposed under Rule 41.14(c) will reduce liquidity and may harm traders. As such, markets may continue trading security index futures contracts on narrow-based indexes that have become broad-based, without limiting trading to liquidating trades only. However, the CFTC has decided to keep the three-month grace period in Rule 41.14(b), instead of allowing a nine-month grace period or other extended grace period. The three-month grace period mirrors the time frame established by the CFMA governing broad-based indexes that become narrow-based. Comparable treatment for narrow-based indexes that become broad-based is equitable. Moreover, allowing flexible extended grace periods for certain contracts would create uncertainty in the market and for traders regarding the status of the product and their obligations. Further, allowing for an extension of the grace period on a case-by-case basis may be a lengthy process, leaving traders uncertain as to when trading in the particular contract may come to an end or when the new regulatory scheme becomes applicable. 
+
+The Commissions note that a national securities exchange that intends to trade an index following the end of the transition period, other than as specified in paragraph (b), will be required to take such action as may be necessary to trade the index as a broad-based index subject to the sole jurisdiction of the CFTC.<SUP> 138 </SUP> The CFTC has determined to adopt a "no-action" position with respect to a national securities exchange trading a contract based on a narrow-based security index that becomes a broad-based security index, so long as the national securities exchange administers the contract in accordance with Rule 41.14. Accordingly, the CFTC will not institute any enforcement action for violations of the CEA when a national securities exchange is in the midst of the 45-day tolerance provision of paragraph (a), the three-month grace period of paragraph (b), or the unwinding period of paragraph (c).<h>E. Additional Comments </h>
+
+One comment letter, submitted by the U.S. Securities Markets Coalition ("Coalition"),<SUP> 139 </SUP> raised concerns over certain tax implications that these markets believe result from the definition of narrow-based security index and the rules as proposed. Under new tax provisions that were enacted contemporaneously with the CFMA, futures and options on broad-based security indexes receive certain favorable treatment that futures and options on narrow-based security indexes do not. As to the determination of which indexes qualify as broad-based and which are treated as narrow-based, the tax laws incorporate by reference the definition of narrow-based security index in the Exchange Act.
+
+As discussed above, under the definition of narrow-based security index in the Exchange Act and the proposed rules, when a broad-based index suddenly becomes narrow-based, the status of the index as broad-based is preserved unless the index becomes narrow-based for more than 45 days over a three-month period. When this tolerance is exceeded, the index remains broad-based for another three months. These tolerance and grace period provisions by their own terms apply, however, only when a future is already trading on the index. As a result, if only an option (and not a future) is trading on a broad-based index, and the index suddenly becomes narrow-based, the option would be considered an option on a narrow-based security index immediately. The option would thus immediately lose its favorable tax treatment. 
+
+The Coalition further noted that, as a result of this statutory framework, if only an option, and not a future, is trading on a particular security index, that index may fluctuate back and forth in tax status from day to day. This result, the Coalition believes, will create uncertainty and confusion for investors, with a resulting disruption of the markets. The Coalition recommended that the Commissions modify their rules to the extent possible to address this issue. 
+
+Specifically, the Coalition observed that Rule 41.14 under the CEA, which creates tolerance and grace periods for a narrow-based security index that becomes broad-based, defines an index's status without regard to whether a future is trading on the index. The Coalition recommended, first, that the equivalent of CEA Rule 41.14 be adopted as a rule under the Exchange Act, so that it will be incorporated by reference by the tax laws. The Coalition further recommended that Rule 41.12 under the CEA and Rule 3a55-2 under the Exchange Act, which provide an exclusion for a broad-based security index that became narrow-based during the first 30 days of trading, be worded similarly to define such an index's status without regard to whether a future traded on the index. 
+
+The Commissions note, in consideration of these comments, that the CFMA itself, as incorporated in the CEA and Exchange Act, ties its tolerance and grace period provisions to indexes upon which a future has traded. The Commissions cannot alter these statutory provisions, and believe that their rules providing an additional temporary exclusion for a broad-based index that became narrow-based must conform to the statutory contours. In addition, the SEC believes that it is not empowered to adopt the equivalent of CEA Rule 41.14 under the Exchange Act, which provides relief for futures on indexes that become broad-based, because the SEC has no jurisdiction over broad-based security index futures. 
+
+Two commenters raised issues concerning the treatment of futures on Exchange Traded Funds.<SUP> 140 </SUP> The Commissions believe that these issues fall outside the scope of the current rulemaking and will not address them in this context. The Commissions expect to receive in the coming months questions about futures on other types of security products, as well, and for the foreseeable future will evaluate the status of such futures on a case-by-case basis.<h>III. ADMINISTRATIVE PROCEDURE ACT </h>
+
+ CFTC: 
+
+The Administrative Procedure Act (the "APA") generally requires that rules promulgated by an agency not be made effective less than thirty days after publication, except for, among other things, instances where the agency finds good cause to make a rule effective sooner, and has published that finding together with the rule.<SUP> 141 </SUP> Pursuant to the CFMA, beginning on August 21, 2001, eligible contract participants may trade security futures products on a principal-to-principal basis. The rules being published today directly affect the products that eligible contract participants may trade. The CFTC believes good cause exists for the rules to become effective on August 21, 2001, so that eligible contract participants may begin trading the new products as contemplated by the CFMA. 
+
+ SEC: 
+
+Section 553(d) of the Administrative Procedure Act<SUP> 142 </SUP> generally provides that, unless an exception applies, a substantive rule may not be made effective less than 30 days after notice of the rule has been published in the Federal Register . One exception to the 30-day requirement is an agency's finding of good cause for providing a shorter effective date.
+
+The CFMA provides that principal-to-principal transactions between certain eligible contract participants in security futures products may commence on August 21, 2001, or such date that a futures association registered under Section 17 of the CEA meets the requirements in Section 15A(k)(2) of the Exchange Act.<SUP> 143 </SUP> The CFMA lifted the ban on, and permits the trading of, futures contracts on single securities and on narrow-based security indexes. Furthermore, the CFMA amended the CEA and Exchange Act by adding an objective definition of "narrow-based security index" to provide guidance for markets to determine whether a security index is narrow-based.<SUP> 144 </SUP> Futures contracts on security indexes that are narrow-based security indexes will be jointly regulated by the CFTC and the SEC under the framework established by the CFMA. Futures contracts on indexes that are not narrow-based security indexes, on the other hand, will be under the sole jurisdiction of the CFTC, and therefore only a designated contract market, registered DTEF, or foreign board of trade may trade these products. 
+
+The CFMA became law on December 21, 2000. Since the passage of the CFMA, the SEC has moved quickly to propose and adopt rules that would provide markets with the method for determining market capitalization and dollar value of ADTV for purposes of ascertaining whether a security index is narrow-based. The SEC proposed these rules on May 17, 2001. The initial comment period for the rules expired on June 18, 2001. The comment period, however, was extended by the CFTC and the SEC until July 11, 2001. After reviewing and considering the comments received, the SEC is adopting the rules, which provide the methods for markets to determine whether a security index is narrow-based or broad-based as required by the Exchange Act, as amended by the CFMA. By allowing principal-to-principal transactions between certain eligible contract participants in security futures products to commence on August 21, 2001, Congress effectively established a statutory deadline for the adoption of these rules. If the effective date is delayed for 30 days, the SEC will not have rules in place for markets to determine market capitalization and dollar value of ADTV. Therefore, eligible contract participants will be unable to trade futures on security indexes on a principal-to-principal basis. 
+
+The primary purpose of the 30-day delayed effectiveness requirement is to give affected parties a reasonable period of time to adjust to the new rules. Here, the parties that must comply with the rules would not be harmed by immediate effectiveness of the rules. The affected entities are familiar with the proposed rules, which were published for comment, and the adopted rules are substantially similar to those proposed rules. Moreover, the 30-day delay in effectiveness could interfere with the goals established by Congress in adopting the CFMA. For these reasons, the SEC finds that good cause exists for the rules to be immediately effective upon publication.<h>IV. PAPERWORK REDUCTION ACT </h>
+
+ CFTC: 
+
+This rulemaking contains information collection requirements. As required by the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq. ), the CFTC submitted a copy of these rules to the Office of Management and Budget for its review. See 44 U.S.C. 3507(d)(1). 
+
+Collection of Information: Part 41, Relating to Security Futures Products, OMB Control Number 3038-0059. 
+
+The information collection requirements of this rulemaking will impact designated contract markets (including notice-registered contract markets) and registered DTEFs that wish to trade a futures contract on a security index. Designated contract markets and registered DTEFs that wish to trade futures contracts on a security index would use the methods specified in these rules to determine market capitalization and dollar value of ADTV of a security or a group of securities comprising the index. These determinations would enable these designated contract markets and registered DTEFs to ascertain whether a security index on which they propose to trade or are trading a futures contract is "narrow-based," and thus subject to the joint jurisdiction of the SEC and the CFTC, or is "broad-based," and thus subject to the exclusive jurisdiction of the CFTC.
+
+Furthermore, Rule 41.2 requires designated contract markets and registered DTEFs that trade a futures contract on a security index to maintain, in accordance with the requirements of Rule 1.31, books and records of all activities relating to the trading of such products. This rule restates the existing recordkeeping requirements of the CEA.<SUP> 145 </SUP> The rule also specifies that, in order to comply with these recordkeeping requirements, designated contract markets and registered DTEFs that trade futures contracts on security indexes are required to preserve records of any calculations used to determine whether an index is narrow-based or broad-based.
+
+The CFTC may not conduct or sponsor, and a person is not required to respond to an information collection unless it displays a currently valid OMB control number. No comments were received in response to the CFTC's invitation in the notice of proposed rulemaking to comment on any potential paperwork burden associated with these rules. See 44 U.S.C. 3507(d)(2). 
+
+ SEC: 
+
+Certain provisions of Rules 3a55-1 through 3a55-3 contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA"),<SUP> 146 </SUP> and the SEC submitted them to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. The SEC proposed, and OMB approved, an amendment to the collection of information entitled "Rule 17a-1: Recordkeeping rule for national securities exchanges, national securities associations, registered clearing agencies, and the Municipal Securities Rulemaking Board" (OMB Control Number 3235-0208). An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information, unless it displays a currently valid OMB control number.
+
+The Proposing Release solicited comments on this collection of information requirement.<SUP> 147 </SUP> Two comments were received implicitly addressing the PRA section of the Proposing Release. One commenter stated that it would be a heavy administrative burden to preserve the records documenting daily calculations of market capitalization and dollar value of ADTV of a security or group of securities comprising an index.<SUP> 148 </SUP> The same commenter, however, stated that the CFMA's statutory framework provides a "clear implication" that these calculations must be made daily.<SUP> 149 </SUP> The other commenter on PRA issues stated that Congress' intention when adopting the CFMA was to require monthly, rather than daily, calculations for purposes of the determining whether a security index is narrow-based.<SUP> 150 </SUP> According to the commenter, if monthly calculations were intended and required by the statute, the paperwork burden on the exchanges, as well as the paperwork and review burden on the Commissions, would be reduced.<SUP> 151 </SUP> 
+
+Because the final rules are substantially similar to the proposed rules, the SEC continues to believe that the estimates published in the Proposing Release regarding the proposed collection of information with respect to recordkeeping burdens associated with the final rules, as discussed below, are appropriate. The Commissions, however, have amended the proposed rules to establish methods for determining the market capitalization and dollar value of ADTV for purposes of ascertaining whether a security-index is narrow-based that are responsive to commenters' suggestions. In this regard, the Commissions have incorporated revisions to the proposed rules to reflect what commenters view as simpler methods of calculating these values. These modifications to the rules change somewhat the methodology used to determine whether a security index is narrow-based or broad-based but do not, in any way, alter the recordkeeping burden associated with the preservation of the records of these calculations, i.e. , the collection of information required pursuant to Rule 17a-1 under the Exchange Act.<SUP> 152 </SUP> 
+
+Any collection of information pursuant to the new rules is mandatory and will need to be retained by the national securities exchanges, including national securities exchanges registered pursuant to Section 6(g) of the Exchange Act ("notice-registered national securities exchanges"), for no less than five years; for the first two years, the information must be kept in an easily accessible place, as required under Exchange Act Rule 17a-1.<h>A. The Use and Disclosure of the Information Collected </h>
+
+The information collected to comply with the methods to determine market capitalization and dollar value of ADTV that are set forth in the final rules is required by the CFMA. The CFMA lifted the ban on the trading of futures on single securities and on narrow-based security indexes and established a framework for the joint regulation of these products by the CFTC and the SEC. In addition, the CFMA amended the CEA and the Exchange Act by adding a definition of "narrow-based security index," which establishes an objective test of whether a security index is narrow-based.<SUP> 153 </SUP> Futures on security indexes that meet the statutory definition of narrow-based security index are jointly regulated by the CFTC and the SEC. Futures on indexes that do not meet the 
+
+statutory definition of narrow-based security index remain under the sole jurisdiction of the CFTC. To implement the definition of a narrow-based security index, the Commissions are required to jointly specify by rule or regulation the method to determine market capitalization and dollar value of ADTV of securities comprising an index.<SUP> 154 </SUP> The rules adopted in this release fulfill this statutory directive. 
+
+In addition, the CFMA amended the Exchange Act by adding new Section 6(g), which requires an exchange that is a designated contract market or a registered DTEF that lists or trades security futures products to register as a national securities exchange-by filing written notice with the SEC-solely for the purpose of trading security futures products.<SUP> 155 </SUP>
+
+A national securities exchange, designated contract market, registered DTEF, or foreign board of trade that trades or proposes to trade futures on a security index must ascertain whether the security index falls within or outside of the definition of narrow-based security index to determine if the futures contract is jointly regulated by the CFTC and SEC or solely by the CFTC. This is necessary because, to comply with the applicable laws and carry out their regulatory functions, the markets must know which set or sets of statutes and rules apply to a particular futures contract. This process entails, among other things, a collection of the information necessary to make the requisite determination under the provisions of the CEA and Exchange Act regarding the market capitalization and dollar value of ADTV of component securities comprising a security index. 
+
+Rule 3a55-1 under the Exchange Act specifies the method to determine market capitalization and dollar value of ADTV with respect to the definition of narrow-based security index.<SUP> 156 </SUP> Thus, the final rule provides the methods by which a market trading a futures contract on a security index must determine the market capitalization and dollar value of ADTV to ascertain whether a security index on which it proposes to trade, or is trading, a futures contract is narrow-based, and thus is subject to the joint jurisdiction of the CFTC and the SEC. If the security index is determined to be broad-based, the trading of futures on that index is subject to the sole jurisdiction of the CFTC. 
+
+The SEC will use the collected information to monitor whether the calculations are being made in compliance with the rules. The SEC will obtain access to the information upon request. Any collection of information received by the SEC will not be made public.
+
+Rule 17a-1, among other things, requires national securities exchanges, which by definition include entities registered under the new notice registration provisions of the Exchange Act,<SUP> 157 </SUP> to retain copies of all documents, including all correspondence, memoranda, papers, books, notices, accounts, and other records made or received by them in the course of their business and in the conduct of their self-regulatory activities for a period of not less than five years; for the first two years, these documents must be kept in an easily accessible place. Any exchange that lists or trades a futures contract on a narrow-based security index must be registered with the SEC pursuant to Section 6 of the Exchange Act and, as a registered national securities exchange, will be subject to the recordkeeping requirements of Rule 17a-1. Rule 17a-1 thus applies to any notice-registered national securities exchange. Accordingly, to comply with these recordkeeping requirements, a national securities exchange, including a notice-registered national securities exchange, that lists or trades futures contracts on narrow-based security indexes will be required to preserve records of any calculations used to determine whether an index is narrow-based.<SUP> 158 </SUP><h>B. Total Annual Reporting and Recordkeeping Burden1. Capital Costs </h><h>1. Capital Costs </h>
+
+Rule 17a-1 under the Exchange Act requires a national securities exchange, including any notice-registered national securities exchange, that trades futures contracts on a narrow-based security index to keep on file for a period of no less than five years, the first two years in an easily accessible place, all records concerning their determinations that such indexes were narrow-based. In the Proposing Release, the SEC estimated that any additional costs of retaining and storing the collected information discussed above would be nominal because national securities exchanges, including notice-registered national securities exchanges that have been designated as contract markets by, or registered as DTEFs with, the CFTC, are currently required to have recordkeeping systems in place.<SUP> 159 </SUP> 
+
+The SEC received no direct comments on the costs of data retention and storage. Based on information provided by an industry source, the SEC anticipates that retaining and storing the determinations made under the new rules may require the use of one or two compact discs on a daily basis or setting up servers to preserve the information. The SEC believes, however, that because exchanges already have data storage facilities in place, it will not be burdensome or costly for exchanges to modify their existing recordkeeping systems to accommodate the storage of the records of calculations made pursuant to the new rules. In addition, it should be noted that the new rules simply provide the methodologies for determining market capitalization and dollar value of ADTV, as mandated by the CFMA. The CFMA requires that the determinations as to market capitalization and dollar value of ADTV, and thus the status of a securities index as narrow-based or broad-based, be made, while Exchange Act Rule 17a-1 simply requires that such determinations be retained.<h>2. Burden Hours </h>
+
+National securities exchanges, including notice-registered national securities exchanges, that trade futures contacts on security indexes will be required to comply with the recordkeeping requirements under Rule 17a-1. National securities exchanges, including notice-registered national securities exchanges, will be required to retain and store any documents related to determinations made using the definitions in Exchange Act Rule 3a55-1 for no less than five years, the first two years in an easily accessible place. The current burden hour estimate for Rule 17a-1, as of July 20, 1998, is 50 hours per year for each exchange.<SUP> 160 </SUP> In the Proposing Release, the SEC estimated that it would take each of the 11 national securities exchanges, including notice-registered national securities exchanges, expected to trade futures contracts on security indexes one hour annually to retain any documents made or received by it in determining whether an index is a narrow-based security index. No comments were received on this particular estimate. The total burden in complying with Rule 17a-1 for each national securities exchange, including notice registered national securities exchanges, under new Rule 3a55-1 is therefore estimated to be 11 hours.<h>V. COSTS AND BENEFITS OF THE FINAL RULES </h>
+
+ CFTC: 
+
+Section 15 of the CEA, as amended by section 119 of the CFMA, requires the CFTC to consider the costs and benefits of its action before issuing a new regulation under the CEA. The CFTC understands that, by its terms, section 15 does not require the CFTC to quantify the costs and benefits of a new regulation or to determine whether the benefits of the proposed regulation outweigh its costs. 
+
+Section 15 further specifies that costs and benefits shall be evaluated in light of five broad areas of market and public concern: (1) Protection of market participants and the public; (2) efficiency, competitiveness, and financial integrity of futures markets; (3) price discovery; (4) sound risk management practices; and (5) other public interest considerations. Accordingly, the CFTC could in its discretion give greater weight to any one of the five enumerated areas of concern and could in its discretion determine that, notwithstanding its costs, a particular rule was necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the Act. 
+
+The CFTC considered the costs and benefits of this rule package in light of the specific areas of concern identified in section 15 of the CEA,<SUP> 161 </SUP> and concluded that these rules would have no effect on the financial integrity or price discovery function of the markets, or on the risk management practices of trading facilities. The CFTC also concluded that these rules would have no material effect on the protection of market participants and the public, and should not impact the efficiency and competition of the markets. The CFTC solicited comments about its consideration of these costs and benefits.<SUP> 162 </SUP> The CFTC received no comments.
+
+The CFTC further notes that the CFMA specifically mandates that the CFTC and the SEC jointly adopt rules or regulations specifying the method to be used to determine market capitalization and dollar value of average daily trading volume.<SUP> 163 </SUP> Accordingly, the CFTC has determined to adopt the regulations discussed above. 
+
+ SEC: 
+
+ New Rule 3a55-1 under the Exchange Act provides the methods of determining market capitalization and dollar value of ADTV, respectively, for purposes of ascertaining whether a security index is narrow-based within the meaning of the Exchange Act. New Rule 3a55-2 under the Exchange Act excludes from the definition of narrow-based security index those security indexes on which futures contracts have traded on a designated contract market, a registered DTEF, or foreign board of trade for fewer than 30 days and become narrow-based, provided that they meet certain criteria. New Rule 3a55-3 under the Exchange Act establishes that when a futures contract on a security index is traded on or subject to the rules of a foreign board of trade, that index will not be considered a narrow-based security index if a futures contract on such index were traded on a designated contract market or registered DTEF. These rules provide methods of calculation and guidance for national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade in determining whether a security index is narrow-based under the Exchange Act.<h>A. Comments </h>
+
+In the Proposing Release, the SEC requested comments on all aspects of the costs and benefits of the proposed rules, including identification of additional costs and benefits of the proposals. None of the commenters provided dollar-based estimates regarding the overall costs and benefits of the proposed rules. However, several commenters discussed certain aspects of the joint CFTC-SEC proposal that addressed the costs and benefits of the proposed rules, and one commenter provided an estimate regarding staffing needs to comply with the proposed rules.<SUP> 164 </SUP> 
+
+In particular, two commenters stated that the rules as proposed would impose a heavy administrative burden and that performing lengthy calculations to determine the status of a security index on a daily basis would be cumbersome and resource intensive.<SUP> 165 </SUP> One of these commenters also stated that calculations would be pointless for indexes that were not "close calls."<SUP> 166 </SUP> Both commenters suggested that, to ease the computational burden imposed by the proposed rules, markets trading these products should be permitted to use and rely on third-party vendors for information and calculations.<SUP> 167 </SUP> 
+
+Another commenter specifically remarked about the consistency and accuracy of data available through third-party vendors.<SUP> 168 </SUP> The commenter stated that there should be one official source that compiles the lists of Top 750 and Top 675 securities.<SUP> 169 </SUP> The commenter suggested that having an official source for such lists will reduce the overall costs to all markets otherwise required to make these calculations. This commenter noted that a single compiler of the lists will result in consistent treatment of futures on security indexes. Furthermore, this commenter indicated that it will need to hire two additional staff personnel to calculate market capitalization and dollar value of ADTV for securities comprising an index on which future contracts trade. 
+
+The SEC also received several comments regarding potential costs that might be incurred unless different criteria for the definition of narrow-based security index are adopted to accommodate indexes comprised of foreign securities.<SUP> 170 </SUP> The SEC notes that the Commissions have adopted Rules 41.13 under the CEA and 3a55-3 under the Exchange Act, which establish that when a futures contract on a security index is traded on or subject to the rules of a foreign board of trade, that index will not be considered a narrow-based security index if it would not be a narrow-based security index if a futures contract on such index were traded on a designated contract market or registered DTEF. The Commissions will continue to consider the views and suggestions of the commenters regarding futures contracts on security indexes comprised of foreign securities. 
+
+In response to the commenters' concerns and suggestions, the SEC has amended the proposed rules with respect to the methods for determining market capitalization and dollar value of ADTV to assess whether a security index is narrow-based or broad-based. Where possible, estimated costs and benefits are provided below, as well as the SEC's response to these comments.<h>B. Benefits </h>
+
+In the Proposing Release, the SEC noted that the benefits of Rules 3a55-1 through 3a55-3 under the Exchange Act are related to the benefits that will accrue as a result of the enactment of the CFMA. By repealing the ban on the trading of futures on single securities and on narrow-based security indexes, the CFMA enables a greater variety of financial products to be traded that potentially could facilitate price discovery and the ability to hedge. Investors will benefit by having a wider choice of financial products to buy and sell, and markets and market participants will benefit by having the ability to trade these products. The benefits are likely to relate to the volume of trading in these new security futures. 
+
+ Furthermore, the CFMA clarifies the jurisdiction of the CFTC and the SEC over futures contracts on security indexes, and alleviates the regulatory burden of dual CFTC and SEC jurisdiction where it is appropriate to do so. Under the new provisions of the CEA and Exchange Act, the CFTC and SEC will jointly regulate futures contracts on narrow-based security indexes. The trading of futures contracts on broad-based security indexes will be under the sole jurisdiction of the CFTC and may be traded only on designated contract markets, and registered DTEFs. The CFMA provides objective criteria for determining whether or not a security index is narrow-based, and the newly-adopted rules provide assistance in applying those criteria. 
+
+New Rule 3a55-1 under the Exchange Act provides methodologies for determining market capitalization and dollar value of ADTV for purposes of ascertaining whether or not a security index is narrow-based as defined in the Section 3(a)(55) of the Exchange Act. The adopted rule provides the benefit of clear, objective standards for determining both market capitalization and dollar value of ADTV. In the Proposing Release, the proposed rules used "average price" to compute market capitalization and dollar value of ADTV. Based on the suggestions of commenters, the Commissions have amended the methods to determine market capitalization and dollar value of ADTV. In particular, the new rule uses the "closing price" for a security for a particular day for purposes of determining its market capitalization. Also, unlike the proposed rule, Rule 3a55-1 does not mandate using a volume-weighted average price to determine dollar value of ADTV. 
+
+Under the Rule 3a55-1, market capitalization of a security on a particular day is defined as the product of the closing price of such security on that same day and the number of outstanding shares of such security on that same day. Rule 3a55-1 provides an objective definition for the "closing price" of a security based on whether reported transactions in the security have taken place in the United States or only in other jurisdictions for purposes of calculating market capitalization. Market capitalization is relevant in determining whether an index qualifies for an exclusion from the definition of narrow-based security index. If each component security is one of 750 securities with the largest market capitalization and one of 675 securities with the largest dollar value of ADTV, among other criteria, the index is broad-based. 
+
+Market capitalization of a security for purposes of Rule 3a55-1 can be determined in the following manner. If, on a particular day, each component security of an index is on the list of the Top 750 securities with the largest market capitalization that is designated by the CFTC and SEC as applicable for that day, then the market capitalization criterion is satisfied. If the CFTC and SEC have not designated such a list, the method to be used to determine market capitalization for a security as of the preceding 6 full calendar months is to sum the values of the market capitalization of such security for each U.S. trading day of the preceding 6 full calendar months, and then divide that sum by the total number of such trading days. 
+
+New Rule 3a55-1 also provides two separate methods for determining dollar value of ADTV. For purposes of Section 3(a)(55)(B) of the Exchange Act,<SUP> 171 </SUP> dollar value of ADTV of a security is the sum of dollar value of ADTV of all reported transactions in such security, in each jurisdiction where the security trades, including transactions in the United States and transactions in jurisdictions other than the United States. In addition, Rule 3a55-1 sets forth the method to determine dollar value of ADTV for trading in a security in the United States and in jurisdictions other than the United States over a period of the preceding 6 full calendar months. The new rule also establishes how to calculate dollar value of ADTV for the lowest weighted 25% of an index and clarifies that all reported transactions for any depositary share that represents a security be included in the calculation of dollar value of ADTV of the underlying security, and that all reported transactions for a security underlying a depository share be included in the calculation of dollar value of ADTV of the depository share. 
+
+For purposes of Section 3(a)(55)(C)(i)(III)(cc) of the Exchange Act,<SUP> 172 </SUP> if a component security of the index is on the list of Top 675 securities with the largest dollar value of ADTV by the SEC and the CFTC as applicable for that day, the dollar value of ADTV criterion is satisfied. If the Commissions do not designate such a list, then the method to be used to determine dollar value of ADTV for a single security as of the preceding 6 full calendar months is to sum the value of all reported transactions in such security in the United States for each U.S. trading day during the preceding 6 full calendar months, and then divide the sum by the total number of such trading days. 
+
+Under the statutory definition of narrow-based security index, the market capitalization and dollar value of ADTV must be calculated "as of the preceding 6 full calendar months." Rule 3a55-1 specifies a "rolling" 6 month period, i.e. , with respect to a particular day, the "preceding 6 full calendar months" will mean the period of time beginning on the same calendar date 6 months before and ending on the day prior to that day. 
+
+The SEC believes new Rule 3a55-1 under the Exchange Act provides an additional benefit to national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade by permitting use of foreign trading data for the calculation of dollar value of ADTV for the lowest weighted 25% of the index when component securities of an index are also traded on markets outside of the United States. The new rule clarifies that such foreign transaction data may be used only if it has been reported to a foreign financial regulatory authority in the jurisdiction in which the security is traded, and that, if the price information is reported in a foreign currency, it must be converted into U.S. dollars on the basis of a rate of exchange for that day obtained from at least one independent entity that provides or disseminates foreign exchange quotations in the ordinary course of its business. 
+
+In addition, the SEC adopted Rule 3a55-2 under the Exchange Act. The new rule provides a limited exclusion from the definition of "narrow-based security index" for an index underlying a futures contract that has traded for less than 30 days, as long as the index meets certain specified criteria. This exclusion is beneficial because it will allow futures contracts to continue to trade during this 30 day period without triggering Exchange Act provisions requiring registration by the market trading the futures. 
+
+Finally, new Rule 3a55-3 under the Exchange Act establishes that when a futures contract on a security index is traded on or subject to the rules of a foreign board of trade, that index will not be considered a narrow-based security index if it would not be a narrow-based security index if a futures contract on such index were traded on a designated contract market or registered DTEF. This rule is beneficial because it aids markets in assessing whether a futures contract trading on a security index comprised of foreign securities will be subject to sole CFTC jurisdiction or joint CFTC-SEC jurisdiction.<h>C. Costs </h>
+
+In complying with new Rules 3a55-1 through 3a55-3 under the Exchange Act, a national securities exchange, designated contract market, registered DTEF, or foreign board of trade will incur certain costs. Under the CFMA, national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade must use the methods provided by the new rules to determine whether or not a security index is narrow-based and thus whether the futures contract is subject solely to the CFTC's jurisdiction or subject to the joint jurisdiction of the CFTC and SEC. Thus, the costs of complying with the new rules primarily are attributable to the implementation of the new provisions of the Exchange Act pertaining to the definition of narrow-based security index. National securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade trading these products are responsible for assuring their own compliance with the newly-adopted rules and thus will incur various costs in determining the market capitalization and dollar value of ADTV for component securities of a security index. 
+
+The new rules require national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade to gather information to ascertain the market capitalization and dollar value of ADTV for component securities of an index with respect to each day, in certain cases taking into account data for the preceding 6 full calendar months. To compute dollar value of ADTV for a single security that is a component of an index, Rule 3a55-1 requires a market in certain circumstances to tally the sum of dollar value of ADTV of all reported transactions in such security in each jurisdiction where the security trades for the preceding 6 full calendar months, using the method described in the rule. An additional calculation will be required to determine dollar value of ADTV of the lowest weighted 25% of an index. 
+
+In addition, an exclusion from the definition of narrow-based security index is available when all component securities are among both the Top 750 securities (by market capitalization) and Top 675 securities (by dollar value of ADTV). To compute market capitalization in the event the Commissions do not designate a list of the Top 750 securities, the final rules require a market to determine the number of outstanding shares of a security on a particular day as reported on the issuer's most recent annual or periodic report filed with the SEC and each security's closing price for that same day for a period comprising the preceding 6 full calendar months. A designated contract market, registered DTEF, or foreign board of trade will be charged with identifying these Top 750 and Top 675 securities to determine whether a security index qualifies for this exclusion by using the calculations specified in the new rules. Rule 3a55-1, however, allows the CFTC and the SEC to designate lists providing the Top 750 securities with respect to market capitalization and the Top 675 securities with respect to dollar value of ADTV. 
+
+A market may incur costs if it contracts with an outside party to perform the calculations. In addition, a national securities exchange, designated contract market, registered DTEF, or foreign board of trade may incur the costs associated with obtaining and accessing appropriate data from an independent third party vendor. For example, national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade may be required to pay certain fees to a vendor to acquire the necessary information. Furthermore, if the market capitalization and dollar value of ADTV calculations require data that is not readily available, particularly if foreign data is used, national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade possibly will incur additional costs to obtain such data.
+
+The commenters did not provide the SEC with actual estimates of the costs that they would incur to compile the data and make the computations with respect to market capitalization and dollar value of ADTV. The SEC therefore contacted several exchanges regarding cost assessments; however, these exchanges did not provide dollar-based estimates. Consequently, the SEC is using estimates provided by third-party vendors in assessing the start-up and maintenance costs to perform and retain the calculations required by the new rules. The SEC estimates the cost of obtaining a third-party vendor's terminal to be $1,650 per month for the first terminal and $1,300 per month per terminal if two or more terminals are used. The SEC estimates a cost of $500 per month to maintain communication lines to obtain the data feed. In addition, it is anticipated that there will be a one-time installation fee of $300 per terminal. The total cost for each of the 11 exchanges expected to trade futures on security indexes to install and maintain one terminal for the first year is estimated to be $26,100, which includes the one-time installation fee. The total cost for each of the 11 exchanges to maintain one terminal on an annual basis thereafter is estimated to be $25,800. The total cost for all of the 11 exchanges to install and maintain one terminal for the first year is estimated to be $287,100, which includes the one-time installation fee. The total cost for all of the 11 exchanges to maintain one terminal on an annual basis thereafter is estimated to be $283,800. The SEC notes, however, that for those exchanges that already have such third-party vendor terminals in place, there should be no additional costs associated with obtaining the required data to comply with the new rules. 
+
+The calculations required under the new rules for market capitalization and dollar value of ADTV may require additional data storage.<SUP> 173 </SUP> A national securities exchange, designated contract market, or registered DTEF will need to consider how to store the data-whether to maintain hard copies or electronic copies of all the computations. The national securities exchange, designated contract market, or registered DTEF will also have to take into consideration the time period for which the data will have to be stored and the costs associated with such storage and maintenance. Taking into account that exchanges already have recordkeeping systems in place, the SEC believes that any new or additional data storage costs will be minimal. In addition, the SEC understands that data storage may be minimized if markets rely on third-party vendors as a source for data because those vendors' terminals generally are linked to PC terminals that can readily store the information. 
+
+A national securities exchange, designated contract market, registered DTEF, or foreign board of trade may also incur resource costs to carry out the computations required under the new rules. As noted above, one commenter indicated that it would need two additional staff personnel to comply with the new rules.<SUP> 174 </SUP> While not necessarily agreeing with that estimate, using the assessment that two full-time staff persons would be required, the SEC estimates that the total annual cost of employing a staff person in a clerical position to perform the computations based on the new rules will be approximately $42,520 plus 35% for overhead costs ( i.e. , costs of supervision, space and administrative support), for a total of approximately $57,600 ($32 per hour per market).<SUP> 175 </SUP> The SEC estimates that the total annual cost of employing a staff person in a supervisory position to oversee the clerical staff person will be approximately $135,001 plus 35% for overhead costs, for a total of approximately $180,000 ($100 per hour per market).<SUP> 176 </SUP> Therefore, the SEC estimates the total cost that each of the 11 exchanges expected to trade futures on security indexes will incur in engaging staff to make the required computations to be $237,600 annually. The total cost that all of the 11 exchanges will incur in engaging staff to comply with the final rules is estimated to be $2,613,600 annually.
+
+The SEC therefore anticipates that the total cost that will be incurred by each of the 11 exchanges expected to trade futures on security indexes to comply with the new rules will be $263,700 for the first year with the one-time installation fee. The SEC anticipates that the total cost that will be incurred by each of the 11 exchanges thereafter will be $263,400 annually. The total cost anticipated for all 11 exchanges will therefore be $2,900,700 for the first year and $2,897,400 annually thereafter. The SEC anticipates that, in fact, the actual costs that will be incurred by the 11 markets expected to trade futures on security indexes will be significantly less than this total estimated cost because most of these markets currently have access to the requisite data. Additionally, costs will be reduced if the Commissions disseminate the lists of Top 750 securities (by market capitalization) and Top 675 securities (by dollar value of ADTV).<h>VI. CONSIDERATION OF BURDEN ON COMPETITION, AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION </h>
+
+ SEC: 
+
+Section 3(f) of the Exchange Act requires the SEC, when engaged in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action would promote efficiency, competition, and capital formation.<SUP> 177 </SUP> Section 23(a)(2) requires the SEC, in adopting rules under the Exchange Act, to consider the impact any rule would have on competition.<SUP> 178 </SUP> In the Proposing Release, the SEC requested comments on these statutory considerations.
+
+The SEC believes that new Rule 3a55-1 under the Exchange Act will promote efficiency by setting forth clear methods and guidelines for national securities exchanges, designated contract markets, registered DTEFs, and foreign boards of trade in applying the statutory definition of narrow-based security index. The SEC further believes that new Rule 3a55-2 under the Exchange Act will promote efficiency by providing designated contract markets, registered DTEFs, and foreign boards of trade a way to ensure that a futures contract trading solely under the jurisdiction of the CFTC does not suddenly become a security future within the first 30 days of trading and subject, as a result, to a new regulatory regime. The SEC also believes that new Rule 3a55-3 under the Exchange Act will promote efficiency by clarifying and establishing that when a 
+
+futures contract on an index is traded on or subject to the rules of a foreign board of trade, such index will not be a narrow-based security index if it would not be a narrow-based security index if a futures contract on such index were traded on a designated contract market or registered DTEF. 
+
+The SEC believes that the final rules may enhance capital formation, because the new rules will provide clarity with respect to the method for determining whether a particular security index is narrow-based or broad-based. In this way, market participants will have certainty as to whether a futures contract on a particular index falls within the sole jurisdiction of the CFTC or will be under the joint jurisdiction of the SEC and CFTC. The benefits to the capital formation process, however, principally flow from the CFMA itself, which lifts the ban on the trading of futures on single securities and narrow-based security indexes. 
+
+The SEC believes that the adopted rules will not impose any significant burdens on competition. The statutory definition of narrow-based security index and the exclusions from that definition contained in Section 1a(25)(A) and (B) of the CEA and Section 3(a)(55)(B) and (C) of the Exchange Act set forth the criteria that a market trading a futures contract on a stock index must use to determine whether the SEC and CFTC jointly, or the CFTC alone, will have regulatory authority over that futures contract. The statutory definition of a narrow-based security index and the exclusions from that definition substantively are identical in both the CEA and the Exchange Act, and the joint CFTC-SEC rules adopted in this release also are substantively identical. 
+
+Several commenters addressed the issue of competition with respect to the proposed rules. In particular, the SEC received a few comments stating that exchanges will face unregulated competition because eligible contract participants trading futures over-the-counter will not be subject to these new rules.<SUP> 179 </SUP> The SEC points out that the Congress, in adopting the CFMA, provided for a differing scheme of regulation for eligible contract participants. The SEC also received several comments stating that foreign boards of trade should be subject to different criteria with respect to the definition of narrow-based security index.<SUP> 180 </SUP> Two other commenters, however, stated that foreign boards of trade should be held to the same standards as national securities exchanges, designated contract markets, and registered DTEFs.<SUP> 181 </SUP> The SEC notes that the new rules are even-handed in their application with respect to domestic and foreign markets that propose to trade futures on a particular security index and thus should not impose any burden on competition with respect to how particular security indexes are treated under the final rules. 
+
+The CFMA directed the SEC and CFTC to jointly specify the methods for determining market capitalization and dollar value of ADTV, as those terms are used in the aforementioned statutory definition and exclusion. The SEC believes that new Rule 3a55-1, developed jointly with the CFTC, sets forth objective methods in fulfillment of the CFMA directive and further clarifies the application of the statutory provisions. The SEC believes that new Rule 3a55-2 is necessary in the public interest to prevent potential dislocations for market participants trading a futures contract on an index that becomes narrow-based during the first 30 days of trading and should impose no burden on 
+
+competition. This rule is important because, to qualify for the statutory tolerance period of 45 days over 3 consecutive calendar months, a future on a security index must have been traded on a designated contract market or a registered DTEF for at least 30 days. In addition, the SEC believes that new Rule 3a55-3 is necessary in the public interest and should impose no burden on competition because it serves to clarify and establish that when a futures contract on a security index is traded on or subject to the rules of a foreign board of trade, that index shall not be considered a narrow-based security index if it would not be a narrow-based security index if a futures contract on such index were traded on a designated contract market or registered DTEF. This means that a foreign board of trade can look to the same criteria to determine whether a security index is broad-based as a designated contract market or registered DTEF.<h>VII. REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+<END MAIN TEXT>
+
+1 All references to the CEA are to 7 U.S.C. 1 et seq.
+
+2 Subpart A of Part 41 under the CEA consists of general provisions for purposes of the rules included in this Part, including definitions (Rule 41.1) and recordkeeping requirements (Rule 41.2). Subpart B of Rule 41, "Narrow-Based Security Indexes," begins with Rule 41.11 on purpose and scope. Rules 41.11, 41.12, and 41.13 of Subpart B correspond to Rules 3a55-1, 3a55-2, and 3a55-3 under the Exchange Act, respectively. Rule 41.14 of Subpart B parallels provisions incorporated in the CEA and the Exchange Act by the CFMA.
+
+3 All references to the Exchange Act are to 15 U.S.C. 78a et seq.
+
+4 Pub. L. No. 106-554, 114 Stat. 2763 (2000).
+
+5 No person may execute or trade a security futures product until the later of December 21, 2001, or such date that a futures association registered under Section 17 of the CEA meets the requirements in Section 15A(k)(2) of the Exchange Act, except that on the later of August 21, 2001, or such date that a futures association registered under Section 17 of the CEA meets the requirements in Section 15A(k)(2) of the Exchange Act, eligible contract participants may enter into transactions with each other on a principal-to-principal basis. Section 2(a)(1)(D)(iii)(II) of the CEA and Section 6(h)(6) of the Exchange Act provide that options on security futures may not be traded for at least three years after the enactment of the CFMA.
+
+6 Prior to the enactment of the CFMA, futures on broad-based indexes were subject to the sole jurisdiction of the CFTC, with the SEC having a limited right of review, to ensure compliance with the provisions of the Shad-Johnson Accord as implemented in former Section 2(a)(1)(B) of the CEA. This 1982 jurisdictional accord (signed into law in 1983) permitted futures exchanges to trade futures on security indexes if they were cash-settled and were not readily susceptible to manipulation and if the indexes traded measured and reflected a market segment. See Futures Trading Act of 1982 Section 101, Pub. L. No. 97-444, 96 Stat 2294 [codified at 7 U.S.C. Section 2(a)], repealed by the Commodity Futures Modernization Act of 2000, Pub. L. No. 106-554, 114 Stat. 2763 (2000).
+
+7 Section 1a(25)(A)(i) - (iv) of the CEA and Section 3(a)(55)(B)(i) - (iv) of the Exchange Act.
+
+8 See Section 2(a)(1)(C)(ii) of the CEA. A future on a security index that is not a narrow-based security index under this definition may include component securities that are not registered under Section 12 of the Exchange Act.
+
+9 Section 1a(25)(B)(i) of the CEA and Section 3(a)(55)(C)(i) of the Exchange Act.
+
+10 Section 1a(25)(B)(ii) of the CEA and Section 3(a)(55)(C)(ii) of the Exchange Act.
+
+11 Section 1a(25)(B)(iii) of the CEA and Section 3(a)(55)(C)(iii) of the Exchange Act.
+
+12 If the index becomes narrow-based for more than 45 days over three consecutive calendar months, the statute then provides an additional grace period of three months during which the index is excluded from the definition of narrow-based security index. See Section 1a(25)(D) of the CEA and Section 3(a)(55)(E) of the Exchange Act.
+
+13 Section 1a(25)(B)(iv) of the CEA and Section 3(a)(55)(C)(iv) of the Exchange Act.
+
+14 Certain of these futures are currently offered to U.S. customers pursuant to no-action letters issued by the CFTC staff, to which the SEC has not objected.
+
+15 Section 1a(25)(B)(v) of the CEA and Section 3(a)(55)(C)(v) of the Exchange Act.
+
+16 Section 1a(25)(B)(vi) of the CEA and Section 3(a)(55)(C)(vi) of the Exchange Act.
+
+17 Securities Exchange Act Release No. 44288 (May 9, 2001), 66 FR 27560 ("Proposing Release"). See also Securities Exchange Act Release No. 44475 (June 26, 2001), 66 FR 34864 (July 2, 2001), which extended the comment period on the proposed rules.
+
+18 See Section 1a(25)(E)(ii) of the CEA and Section 3(a)(55)(F)(ii) of the Exchange Act.
+
+19 See letters to Jean A. Webb, Secretary, CFTC, and Jonathan G. Katz, Secretary, SEC, from, or on behalf of: Philip McBride Johnson, dated May 29, 2001 ("Johnson Letter"); Hong Kong Futures Exchange Limited, dated June 8, 2001 ("HKFE Letter"); General Motors Investment Management Corporation, dated June 11, 2001 ("GMIMCo Letter"); American Stock Exchange LLC, dated June 14, 2001 ("Amex Letter"); Bourse de Montreal (The Montreal Exchange, Inc.), dated June 14, 2001 ("ME Letter"); Chicago Board Options Exchange, Inc., dated June 18, 2001 ("CBOE Letter"); Chicago Mercantile Exchange Inc., dated June 18, 2001 ("CME Letter I"); SFE Corporation Limited, dated June 18, 2001 ("SFE Letter"); The Board of Trade of the City of Chicago, Inc., dated June 25, 2001 ("CBOT Letter"); Managed Funds Association, dated July 11, 2001 ("MFA Letter"); Barclays Global Investors, N.A., dated July 17, 2001 ("Barclays Letter"); Futures Industry Association, Inc., dated July 18, 2001 ("FIA Letter"); The Goldman Sachs Group, Inc. and its subsidiaries, dated July 18, 2001 ("GS Letter"); U.S. Securities Markets Coalition, dated July 18, 2001 ("Securities Markets Coalition Letter"); Chicago Mercantile Exchange Inc., dated July 30, 2001 ("CME Letter II"); Securities Industry Association, dated August 3, 2001 ("SIA Letter").
+
+20 See supra note 7 and accompanying text.
+
+21 Depositary shares are generally evidenced by American Depositary Receipts, or "ADRs."
+
+22 See supra note 9 and accompanying text.
+
+23 See supra note 9 and accompanying text.
+
+24 17 CFR 249.310, 249.308a, 249.310b, 249.308b, or 249.220f.
+
+25 The proposed method, which involved a calculation of the security's volume-weighed average price, is discussed below. See infra Part II.A.2.
+
+26 17 CFR 249.308.
+
+27 See CBOE Letter; CBOT Letter; CME Letter I; GS Letter.
+
+28 See CBOE Letter; CBOT Letter; GS Letter; SIA Letter. See also CME Letter I.
+
+29 See GS Letter.
+
+30 See CBOT Letter.
+
+31 See CBOE Letter; CBOT Letter; SIA Letter.
+
+32 See CME Letter I.
+
+33 See CBOE Letter.
+
+34 See CBOE Letter; CBOT Letter; CME Letter I.
+
+35 See , e.g. , SIA Letter.
+
+36 See CBOT Letter. See also CME Letter I.
+
+37 See CBOE Letter; CBOT Letter; CME Letter I; SIA Letter.
+
+38 See CBOE Letter.
+
+39 Rule 41.11(a)(1) under the CEA and Rule 3a55-1(a)(1) under the Exchange Act, 17 CFR 41.11(a)(1) and 17 CFR 240.3a55-1(a)(1). See also infra notes 83-84 and accompanying text.
+
+40 Rule 41.11(a)(2) under the CEA and Rule 3a55-1(a)(2) under the Exchange Act, 17 CFR 41.11(a)(2) and 17 CFR 240.3a55-1(a)(2).
+
+41 17 CFR 41.11(d)(6) and 17 CFR 240.3a55-1(d)(6).
+
+42 This definition of market capitalization is for purposes only of the Commissions' rules for calculating market capitalization of a security to determine whether it is a Top 750 security. The sponsor or compiler of an index otherwise categorized as a market capitalization-weighted index is not required to use this definition to determine the relative weightings of the index's component securities.
+
+43 17 CFR 41.11(d)(2) and 17 CFR 240.3a55-1(d)(2).
+
+44 As defined in paragraph (d)(10) of the rules, "reported transaction" means: (i) with respect to securities transactions in the United States, any transaction for which a transaction report is collected, processed, and made available pursuant to an effective transaction reporting plan, or for which a transaction report, last sale data, or quotation information is disseminated through an automated quotation system as described in Section 3(a)(51)(A)(ii) of the Act (15 U.S.C. 78c(a)(51)(A)(ii)); and (ii) with respect to securities transactions outside the United States, any transaction that has been reported to a foreign financial regulatory authority in the jurisdiction where such transaction has taken place. 17 CFR 41.11(d)(10) and 17 CFR 240.3a55-1(d)(10). "Foreign financial regulatory authority" is defined, as in the proposed rule, to have the same meaning as in Section 3(a)(52) of the Exchange Act, 15 U.S.C. 78c(a)(52). 17 CFR 41.11(d)(4) and 17 CFR 240.3a55-1(d)(4).
+
+45 The principal market of a security is defined in paragraph (d)(9) of the rules as the single securities market with the largest reported trading volume for the security during the preceding 6 full calendar months. 17 CFR 41.11(d)(9) and 17 CFR 240.3a55-1(d)(9).
+
+46 See infra note 76 and accompanying text for a more detailed discussion of foreign currency conversions under these rules.
+
+47 See CBOE Letter and GS Letter, suggesting a similar definition.
+
+48 See 17 CFR 41.11(d)(7) and 17 CFR 240.3a55-1(d)(7). The definition does not include, however, information submitted by the issuer to the primary market center for the underlying security, but not filed on a Form 8-K. The Commissions believe that a requirement to include such information could impose an unreasonable burden on markets in terms of monitoring for such changes and could lead to a lack of uniformity in the data used by different markets.
+
+49 Rule 41.11(a)(2)(i) under the CEA and Rule 3a55-1(a)(2)(i) under the Exchange Act.
+
+50 The definition of "preceding 6 full calendar months" is in paragraph (d)(8) of CEA Rule 41.11 and Exchange Act Rule 3a55-1 and is discussed, infra notes 88-92 and accompanying text.
+
+51 Some commenters suggested that the market capitalization of a security over the preceding 6 full calendar months be determined by first calculating the security's average closing price for the entire 6-month period, and then multiplying such average closing price by the number of outstanding shares of such security for each day in the 6-month period. See , e.g. , CBOT Letter. The method adopted by the Commissions, however, requires calculating the market capitalization of a security for each day in the 6-month period, and then averaging those daily market capitalization values over the 6-month period. This method takes into account any change in the number of outstanding shares of the security that may have occurred during the 6-month period.
+
+52 17 CFR 41.11(a)(2)(ii) and 17 CFR 3a55-1(a)(2)(ii).
+
+53 A reported security is a security for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan. See 17 CFR 240.11Ac1-1(a)(20).
+
+54 See supra note 7 and accompanying text.
+
+55 See supra note 9 and accompanying text.
+
+56 See CBOE Letter; CME Letter I; GS Letter. See also CBOT Letter.
+
+57 See CME Letter I.
+
+58 See CBOE Letter; GS Letter. See also CME Letter I.
+
+59 See CBOT Letter.
+
+60 See CBOE Letter; CBOT Letter; CME Letter I; SIA Letter.
+
+61 See CBOT; CME Letter I; SIA Letter.
+
+62 See CME Letter I.
+
+63 See CBOE Letter.
+
+64 See SIA Letter. The SIA stated that it was not clear that all relevant jurisdictions require reporting to a financial regulatory authority.
+
+65 Id.
+
+66 See CBOE Letter; CBOT Letter; CME Letter I; SIA Letter.
+
+67 See CBOE Letter.
+
+68 17 CFR 41.11(b)(1)(i)(A) and 17 CFR 240.3a55-1(b)(1)(i)(A).
+
+69 A separate calculation is required for each jurisdiction because the value of foreign trading, which is reported in local currency, must be converted into U.S. dollars each day on the basis of a spot exchange rate valid for that particular day, see infra note 76, and then averaged over the 6-month period. Under the rule as proposed, the overall VWAP in U.S. dollars for all markets could have been calculated together, but that calculation, too, required the value of each day's transactions in each foreign market to have been originally translated from the local currency into U.S. dollars on the basis of a rate valid for that particular day.
+
+70 See infra notes 85-86 and accompanying text for a discussion of the definition of "lowest weighted 25% of an index."
+
+71 17 CFR 41.11(b)(1)(iv) and 17 CFR 240.3a55-1(b)(1)(iv).
+
+72 17 CFR 41.11(b)(1)(ii) and 17 CFR 240.3a55-1(b)(1)(ii).
+
+73 17 CFR 41.11(b)(1)(iii) and 17 CFR 240.3a55-1(b)(1)(iii).
+
+74 Both the volume-weighted average price and non-volume-weighted average price definitions of "average price" in the proposed rules have thus been eliminated.
+
+75 This method also does not require the separate calculation of ADTV. Thus, the proposed definition of ADTV is not being adopted.
+
+76 See paragraph (b)(1)(iii)(B) of the rules, 17 CFR 41.11(b)(1)(iii)(B) and 17 CFR 3a55-1(b)(1)(iii)(B) .
+
+77 See paragraph 41.11(b)(1)(i)(B) - (C) of the rules, 17 CFR 41.11(b)(1)(i)(B) - (C) and 17 CFR 240.3a55-1(b)(1)(i)(B) - (C).
+
+78 See supra note 44.
+
+79 See infra notes 83-84 and accompanying text.
+
+80 17 CFR 41.11(b)(2)(ii)(A) and 17 CFR 240.3a55-1(b)(2)(ii)(A).
+
+81 17 CFR 41.11(b)(2)(ii)(B) and 17 CFR 3a55-1(b)(2)(ii)(B).
+
+82 A reported security is a security for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan. See 17 CFR 240.11Ac1-1(a)(20).
+
+83 17 CFR 41.11(a)(1) and 17 CFR 240.3a55-1(a)(1).
+
+84 17 CFR 41.11(b)(2)(i) and 17 CFR 240.3a55-1(b)(2)(i).
+
+85 17 CFR 41.11(d)(5) and 17 CFR 240.3a55-1(d)(5). See also paragraph (d)(12) of the rule, which clarifies that "weighting" of a component security of an index means the percentage of the index's value represented or accounted for by that component security.
+
+86 See CME Letter I. For further explanation, see id. , at pages 4-5.
+
+87 See also SIA Letter, endorsing this approach.
+
+88 Section 1a(25)(E)(i) of the CEA and Section 3(a)(55)(F)(i) of the Exchange Act.
+
+89 17 CFR 41.11(d)(8) and 17 CFR 240.3a55-1(d)(8).
+
+90 Sections 1a(25)(B)(iii) and (D) of the CEA and Sections 3(a)(55)(C)(iii) and (E) of the Exchange Act. See supra notes 11-12 and accompanying text.
+
+91 See CBOE Letter.
+
+92 See CME Letter I.
+
+93 As explained in the Proposing Release, while the security of an issuer that underlies an ADR must be registered pursuant to Section 12, the ADR itself is deemed to be a separate security and is exempt from Section 12 registration.
+
+94 See CBOE Letter; CBOT Letter; CME Letter I; SIA Letter.
+
+95 See paragraph (c) of CEA Rule 41-11 and Exchange Act Rule 3a55-1, 17 CFR 41.11(c) and 17 CFR 240.3a55-1(c).
+
+96 17 CFR 239.36.
+
+97 The Commissions further note that national securities exchanges, designated contract markets, or registered DTEFs that trade security index futures will need to preserve records of all their determinations with respect to whether a security index is narrow-based or broad-based to comply with their recordkeeping requirements under Sections 5(d)(17) and 5a(d)(8) of the CEA and new Rule 41.2 under the CEA, 17 CFR 41.2, and Rule 17a-1 under the Exchange Act, 17 CFR 240.17a-1.
+
+98 See CBOT Letter; CME Letter I; SIA Letter.
+
+99 See CME Letter I. See also SIA Letter, maintaining that notification to the CFTC or SEC on the use of third-party data should not be required.
+
+100 See CBOE Letter. With respect to components of a security index that are not registered under Section 12, the CBOE believed that it is the responsibility of the self-regulatory organization on which the index is listed to determine and monitor dollar value of ADTV.
+
+101 CME Letter I.
+
+102 See SIA Letter.
+
+103 Section 1a(25)(B)(iii) of the CEA and Section 3(a)(55)(C)(iii) of the Exchange Act.
+
+104 As discussed supra note 16 and accompanying text, Section 1a(25)(B)(vi) of the CEA and Section 3(a)(55)(C)(vi) of the Exchange Act grant the Commissions authority to create additional exclusions from the statutory definition of narrow-based security index for indexes underlying futures that meet such requirements that they may establish.
+
+105 See CBOT Letter; CME Letter I. Another comment letter, relating to the tax ramifications of these proposed rules, is discussed infra note 139 and accompanying text.
+
+106 See CME Letter I.
+
+107 See CBOT Letter.
+
+108 17 CFR 41.12 and 17 CFR 3a55-2.
+
+109 The rules identify this six-month period as the "preceding 6 full calendar months with respect to a date no earlier than 30 days prior to the commencement of trading" of a future on the index. Id.
+
+110 The second and third alternative may ease the burden on markets, as suggested by one of the commenters, by allowing a market to calculate the relevant values for each day separately, without averaging in data for the previous 6 full calendar months.
+
+111 See CBOE Letter; CBOT Letter; CME Letter I.
+
+112 See CBOT Letter.
+
+113 Section 1a(25)(B)(iv) of the CEA and Section 3(a)(55)(C)(iv) of the Exchange Act grant the Commissions joint authority to exclude an index underlying a futures contract from the definition of narrow-based security index when that index is traded on or subject to the rules of a foreign board of trade and meets such requirements that are established by rule or regulation jointly by the Commissions.
+
+114 See Barclays Letter; CBOE Letter; CBOT Letter; CME Letter I; FIA Letter; GMIMCo Letter; GS Letter; HFKE Letter; Johnson Letter; ME Letter; MFA Letter; SFE Letter; SIA Letter.
+
+115 See FIA Letter. On the other hand, the CME Letter I suggested that, in view of the controversy surrounding standards for foreign indexes, proposed rules in this area be separated from the rest of the proposed rules so as not to disrupt and prolong the rulemaking process.
+
+116 See Barclays Letter; FIA Letter; GMIMCo Letter; GS Letter.
+
+117 See Barclays Letter; FIA Letter; GMIMCo Letter; GS Letter; ME Letter.
+
+118 See FIA Letter.
+
+119 See FIA Letter; GS Letter; HKFE Letter; ME Letter; SIA Letter.
+
+120 See GMIMCo Letter.
+
+121 See HKFE Letter; ME Letter; SFE Letter; SIA Letter.
+
+122 See GMIMCo Letter.
+
+123 See Barclays Letter; FIA Letter; GMIMCo Letter; GS Letter; SIA Letter.
+
+124 See HKFE Letter; ME Letter; SFE Letter.
+
+125 See CBOE Letter; CME Letter I.
+
+126 See CBOE Letter.
+
+127 See CME Letter II.
+
+128 See HKFE Letter.
+
+129 See GS Letter; HKFE Letter; ME Letter; MFA Letter.
+
+130 See CBOT Letter; GMIMCo Letter.
+
+131 See FIA Letter; GS Letter. The FIA, however, did not suggest limiting the trading of futures on foreign indexes to ECPs.
+
+132 17 CFR 41.13 and 17 CFR 240.3a55-3.
+
+133 See supra note 15 and accompanying text.
+
+134 See supra note 12 and accompanying text.
+
+135 Rule 41.1(a) as proposed defined "broad-based security index" as "a group or index of securities that does not constitute a narrow-based security index."
+
+136 See CME Letter I.
+
+137 See Amex Letter.
+
+138 See Section 2(a)(1)(C)(ii) of the CEA.
+
+139 Securities Markets Coalition Letter.
+
+140 See Amex Letter; CBOT Letter.
+
+141 5 U.S.C. 553(d)(3).
+
+142 5 U.S.C. 553(d).
+
+143 See Section 6(g)(5)(B)(ii) of the Exchange Act, 15 U.S.C. 78f(g)(5)(B)(ii).
+
+144 See Section 1a(25) of the CEA and Section 3(a)(55) of the Exchange Act.
+
+145 See Sections 5(d)(17) and 5a(d)(8) of the CEA.
+
+146 44 U.S.C. 3501 et seq.
+
+147 See Proposing Release, supra note 17.
+
+148 See CBOT Letter.
+
+149 Id.
+
+150 See CME Letter I.
+
+151 Id.
+
+152 17 CFR 240.17a-1.
+
+153 See Section 1a(25)(A) of the CEA and Section 3(a)(55)(B) of the Exchange Act.
+
+154 Section 1a(25)(E) of the CEA and Section 3(a)(55)(F) of the Exchange Act.
+
+155 See Section 6(g) of the Exchange Act, 15 U.S.C. 78f(g).
+
+156 Rule 41.11 under the CEA parallels Rule 3a55-1.
+
+157 See Section 6 of the Exchange Act, 15 U.S.C. 78f.
+
+158 This PRA analysis does not include any collection of information and recordkeeping requirements that will apply to designated contract markets, registered DTEFs, and foreign boards of trade that trade futures contracts on security indexes that are not narrow-based because the trading of these products is not subject to the SEC's jurisdiction. Therefore, such information and recordkeeping will not be subject to Rule 17a-1 under the Exchange Act. The CFTC has adopted Rule 41.2, which contains recordkeeping requirements for designated contract markets and registered DTEFs.
+
+159 See Rule 17a-1 under the Exchange Act, 17 CFR 240.17a-1, and Sections 5(d)(17) and 5a(d)(8) of the CEA.
+
+160 See 63 FR 38865 (July 20, 1998) (SEC File No. 270-244, OMB Control No. 3235-0208) (seeking an extension of OMB approval of Rule17a-1 under the Exchange Act).
+
+161 66 FR 27559, 27572 (May 17, 2001).
+
+162 66 FR at 27571.
+
+163 Section 1a(25)(E)(ii) of the CEA; 7 U.S.C. 1a(25)(E)(ii).
+
+164 One commenter raised concerns about certain implications that it believed could result from the statutory definition of narrow-based security index and certain proposed rules. See Securities Markets Coalition Letter. The commenter pointed to the differing tax treatment that may result if an option (not a future) is traded on a broad-based security index that becomes narrow-based. In addition, the commenter suggested that the proposed rules under the CEA creating tolerance and grace periods for a narrow-based security index that becomes broad-based also be adopted under the Exchange Act. The SEC notes that this commenter's concerns result from the provisions of the CFMA itself, which the Congress, and not the Commissions, is empowered to change. Accordingly, the SEC has not incorporated this comment letter into its analysis of the costs and benefits of the final rules.
+
+165 See CBOT Letter and CME Letter I.
+
+166 See CME Letter I.
+
+167 See CBOT Letter and CME Letter I.
+
+168 See CBOE Letter.
+
+169 See Section II.A.3. above for a description of Top 750 and Top 675 securities.
+
+170 Several commenters supported the adoption of different standards for security indexes underlying futures traded on or subject to the rules of a foreign board of trade. See ME Letter, HKFE Letter, and SFE Letter. Two commenters, however, stated that security indexes underlying futures traded on or subject to the rules of a foreign board of trade should be held to the same standards as security indexes underlying futures traded in U.S. markets. See CBOE Letter; CME Letter II. Some of the commenters favoring separate criteria for the indexes comprised of foreign securities mentioned the perceived costs that could be incurred by investors, unless separate standards are adopted. See ME Letter; HKFE Letter; SFE Letter. The SEC points out that the definition of narrow-based security index as contained in the CEA and Exchange Act, and not the rules adopted in this release, set forth the criteria regarding whether a security index is narrow-based. Consequently, the perceived costs result from the statute's provisions and not the final rules.
+
+171 15 U.S.C. 78c(a)(55)(B).
+
+172 15 U.S.C. 78c(a)(55)(C)(i)(III)(cc).
+
+173 Under Rule 17a-1 under the Exchange Act, 17 CFR 240.17a-1, and Sections 5(d)(17) and 5a(d)(8) of the CEA, and new Rule 41.2 under the CEA, respectively, national securities exchanges, designated contract markets, and registered DTEFs will need to preserve records of all their determinations with respect to the narrow-based or non-narrow-based status of security indexes.
+
+174 See CBOE Letter.
+
+175 See Report on Office Salaries In The Securities Industry 2000, prepared by the Securities Industry Association (September 2000).
+
+176 See Report on Management & Professional Earnings In The Securities Industry 2000, prepared by the Securities Industry Association (September 2000).
+
+177 Section 3(f) of the Exchange Act, 15 U.S.C. 78c(f).
+
+178 Section 23(a)(2) of the Exchange Act, 15 U.S.C. 78w(a)(2).
+
+179 See HKFE Letter; SFE Letter; ME Letter.
+
+180 See FIA Letter; GMIMCo Letter; Barclays Letter; ME Letter; HKFE Letter; SFE Letter; MFA Letter.
+
+181 See CBOE Letter; CME Letter II.
+
+182 47 FR 18618-21 (April 30, 1982).
+
+183 47 FR 18618, 18619 (discussing contract markets).
+
+184 66 FR 42256, 42268 (August 10, 2001).
+
+185 See 5 U.S.C. 605(b).
+
+186 5 U.S.C. 605(b).
+
+187 See Proposing Release, supra note 17.
+
+188 Chairman Pitt did not participate in this matter.  http://www.sec.gov/rules/final/34-44724.htm

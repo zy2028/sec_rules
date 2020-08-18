@@ -1,0 +1,833 @@
+https://www.sec.gov/rules/final/2018/ic-33142.pdf
+
+I.0.0.0 BACKGROUND
+
+II.0.0.0 DISCUSSION
+
+	II.A.0.0 Amendments to Liquidity Public Reporting and Disclosure Requirements
+
+		II.A.1.0 Public Aggregate Liquidity Profile
+
+		II.A.2.0 Shareholder Report Liquidity Risk Disclosure
+
+	II.B.0.0 Amendments to Liquidity Reporting Requirements
+
+		II.B.1.0 Multiple Classification Categories
+
+		II.B.2.0 Disclosure of Cash and Cash Equivalents
+
+	II.C.0.0 Treasury Asset Management Report and Evaluation of Other Approaches
+
+	II.D.0.0 Compliance Dates
+
+III.0.0.0 ECONOMIC ANALYSIS
+
+	III.A.0.0 Introduction
+
+	III.B.0.0 Economic Baseline
+
+	III.C.0.0 Economic Impacts
+
+	III.D.0.0 Reasonable Alternatives
+
+IV.0.0.0 PAPERWORK REDUCTION ACT
+
+	IV.A.0.0 Introduction
+
+	IV.B.0.0 Form N-PORT
+
+	IV.C.0.0 Form N-1A
+
+V.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+	V.A.0.0 Need for the Amendments
+
+	V.B.0.0 Significant Issues Raised by Public Comment
+
+	V.C.0.0 Small Entities Subject to the Amendments
+
+	V.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+	V.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+VI.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+Conformed to Federal Register version
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 274
+
+[Release No. IC-33142; File No. S7-04-18]
+
+RIN 3235-AM30
+
+Investment Company Liquidity Disclosure AGENCY: Securities and Exchange Commission. ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to its forms designed to improve the reporting and disclosure of liquidity information by registered open-end investment companies. The Commission is adopting a new requirement that funds disclose information about the operation and effectiveness of their liquidity risk management program in their reports to shareholders. The Commission in turn is rescinding the requirement in Form N-PORT under the Investment Company Act of 1940 that funds publicly disclose aggregate liquidity classification information about their portfolios. In addition, the Commission is adopting amendments to Form N-PORT that will allow funds classifying the liquidity of their investments pursuant to their liquidity risk management programs to report multiple liquidity classification categories for a single position under specified circumstances. The Commission also is adding a new requirement to Form N-PORT that funds and other registrants report their holdings of cash and cash equivalents.
+
+DATES: Effective Date : This rule is effective September 10, 2018.
+
+Compliance Dates : The applicable compliance dates are discussed in section II.D of this final rule.
+
+FOR FURTHER INFORMATION CONTACT: Zeena Abdul-Rahman, Senior Counsel, or Thoreau Bartmann, Senior Special Counsel, at (202) 551-6792, Division of Investment Management, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549- 8549.
+
+SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to Form N-PORT [referenced in 17 CFR 274.150] under the Investment Company Act of 1940 [15
+
+U.S.C. 80a-1 et seq. ] (“Investment Company Act” or “Act”) and amendments to Form N-1A [referenced in 17 CFR 274.11A] under the Investment Company Act and the Securities Act of 1933 (“Securities Act”) [15 U.S.C. 77a et seq .].
+
+CONTENTS
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+On October 13, 2016, the Commission adopted new rules and forms as well as amendments to its rules and forms to modernize the reporting and disclosure of information by registered investment companies (“funds”) , <sup>1</sup> including information about the liquidity of funds’ portfolios . <sup>2</sup> In particular, the Commission adopted new Form N-PORT, which requires mutual funds and ETFs to report monthly portfolio investment information to the Commission in a structured data format. <sup>3</sup> The Commission also adopted 17 CFR 270.22e-4 (“rule 22e-4”) and related reforms to enhance the regulatory framework for liquidity risk management of funds. <sup>4</sup> Among other things, rule 22e-4 requires a fund to classify each portfolio investment into one of four defined liquidity categories, sometimes referred to as “buckets.” <sup>5</sup>
+
+In connection with the liquidity classification requirement of rule 22e-4, a fund is required to report confidentially to the Commission the liquidity classification assigned to each(Oct. 13, 2016) [81 FR 81870 (Nov. 18, 2016)] (“Reporting Modernization Adopting Release”). See also Investment Company Liquidity Risk Management Programs, Investment Company Act Release No. 32315 (Oct. 13, 2016) [81 FR 82142 (Nov. 18, 2016)] (“Liquidity Adopting Release”).of the fund’s portfolio investments on Form N-PORT. <sup>6</sup> As originally adopted, Form N-PORT requires a fund to assign each portfolio holding to a single classification bucket and publicly disclose the aggregate percentage of its portfolio investments falling into each of the four liquidity classification categories noted above. <sup>7</sup> Form N-PORT did not require funds to report the cash they hold . <sup>8</sup>
+
+Rule 22e-4 and the related rules and forms were designed to promote effective liquidity risk management throughout the fund industry and to enhance disclosure regarding fund liquidity and redemption practices. <sup>9</sup> However, since we adopted these requirements, interested parties have raised concerns that the public disclosure of a fund’s aggregate liquidity classification information on Form N-PORT may not achieve our intended purpose and may confuse and mislead investors . <sup>10</sup>
+
+In light of these concerns, <sup>11</sup> we proposed to replace the Form N-PORT requirement for a fund to publicly report aggregate liquidity portfolio classification information on a quarterlybasis with new disclosure in the fund’s annual shareholder report that provides a narrative discussion of the operation and effectiveness of the fund’s liquidity risk management program over the most recently completed fiscal year. <sup>12</sup> We also proposed additional amendments to Form N-PORT that would allow a fund to report a single portfolio holding in multiple classification buckets under defined circumstances where splitting the holding into multiple buckets would provide the Commission with more or equally accurate information at lower cost to funds (and thus, to fund shareholders). Finally, we proposed additional amendments to Form N-PORT designed to help us monitor trends in the use of cash and cash equivalents and more accurately assess the composition of a fund’s highly liquid investment minimum (“HLIM”). <sup>13</sup>
+
+We received 24 comment letters on the proposal. A significant majority of commenters generally supported replacing public disclosure of aggregate liquidity classification information on Form N-PORT with a new narrative discussion of a fund’s liquidity risk management program in its report to shareholders. <sup>14</sup> Some expressed concerns, however, about the placement and content of the discussion regarding the operation and effectiveness of the fund’s liquidity risk management program in the annual report, and provided alternatives for us to consider. <sup>15</sup> A few commenters objected to the proposed rescission of public aggregate liquidity reporting onthe SEC not to publicly disclose the liquidity classification information submitted via Form N-PORT); Letter from the Investment Company Institute to The Honorable Jay Clayton (July 20, 2017) (“ICI Pre- proposal Letter I”).
+
+Form N-PORT, arguing that classification information would be useful and understandable to investors, and would not result in the potential negative consequences suggested in the proposal. <sup>16</sup> Commenters generally supported the other proposed changes to Form N-PORT. <sup>17</sup> In addition, the majority of commenters urged us to re-examine more broadly the classification requirements and related elements of rule 22e-4. <sup>18</sup> We discuss in Section II.C below additional efforts the Commission and its staff will take in relation to rule 22e-4 and its requirements.
+
+Today, after considering comments we received, we are adopting amendments to Forms N-PORT and N-1A largely as proposed. <sup>19</sup> The amendments will replace the requirement in Form N-PORT that a fund publicly disclose on an aggregate basis the percentage of its investments allocated to each liquidity classification category with a new narrative discussion in the fund’s shareholder report regarding its liquidity risk management program. <sup>20</sup>
+
+The Commission also is adopting amendments to Form N-PORT that will provide funds the flexibility to split a fund’s portfolio holdings into more than one classification category in three specified circumstances when split reporting equally or more accurately reflects the liquidity of the investment or eases cost burdens. Finally, we are adopting as proposed a Form N-PORT requirement that funds, and other registrants, disclose their holdings of cash and cash equivalents not reported in Parts C and D of the Form . <sup>21</sup> We discuss the comments and changes from the proposal below.
+
+<h>II. DISCUSSION</h>
+
+<h>A. Amendments to Liquidity Public Reporting and Disclosure Requirements</h>
+
+Today we are replacing the requirement in Form N-PORT that a fund publicly disclose on an aggregate basis the percentage of its investments that it has allocated to each liquidity classification category with new narrative discussion in the fund’s shareholder report regarding its liquidity risk management program. <sup>22</sup> Funds already are required to disclose a summary of the principal risks of investing in the fund, including liquidity risk if applicable, in its prospectus. <sup>23</sup>
+
+The new narrative discussion will include disclosure about the operation and effectiveness of the fund’s implementation of its required liquidity risk management program. Additionally, we are clarifying how funds should discuss liquidity events that materially affectedperformance in the management’s discussion of fund performance (“MDFP”) section of the annual shareholder report. <sup>24</sup> We expect that the clarity we are providing and the shareholder report disclosure we are adopting will improve funds’ disclosure about liquidity events that materially affect fund performance as well as the operation and effectiveness of their liquidity risk management programs. <sup>25</sup> These disclosures will provide new and existing investors with a holistic view of the liquidity risks of the fund and how effectively the fund’s liquidity risk management program managed those risks on an ongoing basis over the reporting period. This revised approach is designed to provide accessible and useful disclosure about liquidity risks and risk management to investors, with appropriate context, so that investors have a more comprehensive picture of the fund’s liquidity risks and their management and may understand the nature and relevance of these risks to their investments.
+
+<h>1. Public Aggregate Liquidity Profile</h>
+
+As noted in the Proposing Release, since the Commission adopted rule 22e-4 and the related reforms, Commission staff has engaged extensively with interested parties and we have received letters from industry participants discussing the complexities of the classification process. These letters raised three general types of concerns that informed our revised approach to public fund liquidity-related disclosure. First, the commenters described how variations in methodologies and assumptions used to conduct liquidity classification can significantly affect the classification information reported on Form N-PORT in ways that investors may not understand (“subjectivity”). <sup>26</sup> Second, they suggested that Form N-PORT may not be the mostaccessible and useful way to communicate information about liquidity risk and may not provide the necessary context for investors to understand how the fund’s classification results relate to its liquidity risk and risk management (“lack of context”) . <sup>27</sup> Third, they argued that because this reporting item on Form N-PORT singles out liquidity risk, and does not place it in a broader context of the risks and factors affecting a fund’s risk, returns, and performance, it may inappropriately focus investors on one investing risk over others (“liquidity risk in isolation”). <sup>28</sup>
+
+As we discussed in the Proposing Release, these concerns led us to propose a new approach to liquidity-related disclosure. Most commenters on the proposal agreed with our approach, and supported replacing quarterly public disclosure of aggregate liquidity classification information on Form N-PORT with a new requirement that funds discuss the operation and effectiveness of their liquidity risk management program in their shareholder reports. <sup>29</sup> These commenters generally reiterated the concerns that led us to propose these changes, stating that the new approach would be less likely to confuse or mislead investors. <sup>30</sup> These commenters emphasized that classification data is inherently subject to variability due to model design and the assumptions used, and that this model risk introduces yet another element of subjectivity to the classification process. <sup>31</sup> Several commenters also argued that the forward-looking nature of classification data, which is based on assumptions about how fast a fund could sell securities, makes the data inappropriate for public consumption. <sup>32</sup>
+
+However, a few commenters objected to the proposed amendments, arguing that investors would benefit from being able to access the aggregated liquidity bucketing information of the funds in which they invest . <sup>33</sup> They argued that the Commission should err on the side of providing more information to investors about their funds, rather than less. <sup>34</sup> While these commenters acknowledged that there may be subjectivity in funds’ classification decisions, they argued that subjectivity is inherent in finance and the use of subjective judgments was an intended consequence of the rule. <sup>35</sup> One commenter stated that replacing a “quantitative measure with a qualitative discussion is an inherently more subjective approach.” <sup>36</sup> One commenter also suggested that investors are capable of understanding the aggregate liquidity classification data and weighing its value in the context of other types of disclosure and information available to them. <sup>37</sup> Finally, one commenter asserted that, because the Commission had not engaged in investor testing of classification data, any conclusions as to its utility or the potential confusion to investors would not have an empirical basis. <sup>38</sup>
+
+We continue to believe that it is important for investors to understand the liquidity risks of the funds they hold and how those risks are managed. We appreciate commenters’ concerns regarding the elimination of public disclosure of aggregate liquidity classification reporting. We also recognize that subjectivity is inherent in many financial decisions and is in fact desirable to some extent in the classification information that is reported to us. <sup>39</sup> However, the subjectivity of the classification process when applied to this public disclosure concerns us for several specific reasons.
+
+First, the quantitative presentation of the aggregate liquidity information may imply precision and uniformity in a way that obscures its subjectivity. When disclosure is clearly subjective, we believe investors are likely better able to understand and appreciate its nature. In this case, however, we believe the presentation of quantitative data may pose a significant risk of confusing and misleading investors. <sup>40</sup> Second, we continue to share the concern expressed by many commenters that public dissemination of the aggregate classification information, without an accompanying full explanation to investors of the underlying subjectivity, model risk, methodological decisions, and assumptions that shape this information, may potentially be misleading to investors . <sup>41</sup> Absent that kind of detailed contextual explanation, we believe that such aggregate classification data may not be useful for investors, as it would not result in an “apples to apples” comparison between funds, and may result in investor confusion if theybelieve it does . <sup>42</sup> Additionally, we continue to believe that public dissemination of the aggregate classification information could create perverse incentives to classify investments as more liquid, and may inappropriately highlight liquidity risk compared to other, potentially more salient risks of the f und . <sup>43</sup> Finally, we are concerned that disclosing funds’ aggregate liquidity profile may potentially create risks of coordinated investment behavior, if funds were to create more correlated portfolios by purchasing investments that they believed third parties, such as investors or regulators, may view as “more liquid.” <sup>44</sup>
+
+Additionally, we do not believe it is appropriate to adapt Form N-PORT to add the level of detail and narrative context that we believe would be necessary for investors to appreciate better the fund’s liquidity risk profile and the subjective nature of classification. The commenters who addressed potentially adapting Form N-PORT generally agreed that it may take significant detailed disclosure and nuanced explanation to effectively inform investors about the subjectivity and limitations of aggregate liquidity classification information so as to allow them to properly make use of the information. <sup>45</sup> Such a long narrative discussion would not be consistent with the nature of, and could undermine the purpose of, Form N-PORT. <sup>46</sup> Also, to theextent that such disclosure would need to be granular and detailed to effectively explain the process of compiling the liquidity information, it is not consistent with the careful balancing of investor interests that the Commission performed in determining to require disclosure of sensitive granular information, including position-level data, only on a non-public basis.
+
+For these reasons, and in light of the concerns above, it is our judgment that effective disclosure of liquidity risks and their management would be better achieved through prospectus and shareholder report disclosure rather than Form N-PORT. Most commenters agreed, suggesting that shareholder report disclosure would have the benefit of allowing funds to produce tailored disclosure suited to the particular liquidity risks and management practices of the specific fund. <sup>47</sup> This would avoid use of a one-size-fits-all approach when providing liquidity risk information to investors, and would avoid giving investors the “false impression that they can rely on the sole results of time bucketing for comparing liquidity of different funds in making their investment decisions.” <sup>48</sup> Accordingly, we are adopting the amendments to Form N-PORT eliminating public disclosure of aggregate liquidity classification information as proposed.
+
+<h>2. Shareholder Report Liquidity Risk Disclosure</h>
+
+We also are adopting, largely as proposed, a new requirement for funds to discuss briefly the operation and effectiveness of a fund’s liquidity risk management program in the fund’s report to shareholders. In response to commenters, we are moving this discussion of the operation and
+
+Absent this information, however, investors may reasonably believe that they are looking at an objective assessment of a fund’s liquidity profile.”).effectiveness of a fund’s liquidity risk management program from the MDFP section of the annual report to a new section of the shareholder report (annual or semi-annual) following the discussion of board approval of advisory contracts. <sup>49</sup> As proposed, this subsection will require funds to discuss the operation and effectiveness of their liquidity risk management program over the period covered. However, funds will have flexibility to cover an annual period that does not coincide with the fund’s most recently completed fiscal year. <sup>50</sup>
+
+The majority of commenters generally agreed with our proposed requirement that funds provide a narrative discussion of the operation and effectiveness of a fund’s liquidity risk management program, noting that such disclosure is a better way to provide investors with useful and accessible liquidity information and reduces the risk of investor confusion. <sup>51</sup> However, some commenters suggested certain modifications to our proposed disclosure, largely focused on its placement . <sup>52</sup> These commenters objected to including the narrative disclosure in the MDFP, arguing that, in many cases, the required liquidity disclosures would not concern primary drivers of fund performance. Commenters had a variety of ideas on where disclosure on the operation and effectiveness of the liquidity risk management program should be placed, with somesuggesting that it be in its own subsection within the annual report, <sup>53</sup> in the fund’s Statement of Additional Information (“SAI”), <sup>54</sup> or in the section of the shareholder report discussing the bases for the board’s approval of the advisory contract. <sup>55</sup> Several commenters also suggested that allowing funds to include the new disclosure in either the fund’s annual or semiannual report would ease some of the cost burdens of compliance with the new requirement by allowing funds to synchronize the new shareholder report disclosure with liquidity reporting to the board. <sup>56</sup>
+
+We believe the approach to shareholder report liquidity disclosure that we are adopting addresses commenters’ concerns. Funds are required to discuss in their MDFP factors that materially affected performance of the fund during the most recently completed fiscal year. <sup>57</sup> Liquidity events are factors that may materially affect a fund’s performance. Accordingly, to the extent a liquidity event has such an effect, this event must be discussed in the MDFP. <sup>58</sup> This discussion of liquidity events in the MDFP should include sufficient specificity that investors can understand the liquidity event, how it affected performance, and any other relevant market conditions.
+
+This is consistent with the views of the commenters who asked that we clarify that factors that affected performance would include liquidity events and that such events should still be discussed in the MDFP section, even if we were to move the required new disclosure to a new section . <sup>59</sup>
+
+At the same time, we agree with those commenters who argued for moving the more operational disclosure outside of the MDFP because this information does not directly relate to performance results. M oving disclosure about the operation and effectiveness of the liquidity risk management program to a new subsection would be more effective and would avoid concerns about unduly focusing investors on liquidity risk and diluting the MDFP. Moving this disclosure to Item 27(d)(7) of Form N-1A may have several other benefits. The MDFP is included only in annual reports, not semi-annual reports. By moving this disclosure to a new subsection that may be included in either a fund’s annual or semi-annual report, <sup>60</sup> it will allow funds to synchronize the required annual board review of liquidity risk management programs with the production of this discussion in the shareholder report, reducing costs and allowing funds to provide more effective disclosure. <sup>61</sup> We believe that this new narrative disclosure will complement existingprogram. Thus, for example, if the board reviews the operation of the fund’s liquidity risk management program during the first half of a fund’s fiscal year, the disclosure will be required in the semi-annual report for that period. However, if a board reviews the liquidity program more frequently than annually, the disclosure need only be included in the annual or semi-annual report, not both. See new Instruction to Item 27(d)(7)(b) of Form N-1A (clarifying that “[i]f the board reviews the liquidity risk management program more frequently than annually, a fund may choose to include the discussion of the program’s operation and effectiveness over the past year in one of either the fund’s annual or semi-annual reports, but does not need to include it in both reports).liquidity risk disclosure that funds already provide in their prospectus (if it is a principal investment risk of the fund) and as part of their discussion of the factors that materially affected performance in the MDFP. It also should keep more operational disclosure separate from the performance-related disclosure required in the MDFP section.
+
+Several commenters suggested that we exempt funds that primarily hold assets that are highly liquid investments (“highly liquid funds”) and In-Kind ETFs from including this new narrative disclosure about liquidity risk management programs in their shareholder reports. <sup>62</sup> They explained that because such funds face significantly lower liquidity risks, and are already treated differently and subject to less stringent requirements under rule 22e-4, it would be appropriate to exempt them from the requirement. <sup>63</sup> We are not providing such an exemption. Highly liquid funds and In-Kind ETFs are exempt from certain requirements under the liquidity rule, but both still must have a liquidity risk management program. We believe that investors would benefit from a discussion of the operation and effectiveness of the liquidity risk management program of these funds, much like any other fund. <sup>64</sup> However, we note that allto the risk that some investors may not review this data if they read only one of these shareholder reports and the narrative disclosure is in the other. Nonetheless, we believe that the benefits of the flexibility we are providing today (both in cost savings and potentially in better disclosure) justify this risk.funds may include tailored and proportionate discussion appropriate to the liquidity risks they face and the scale of their program. Highly liquid funds or In-Kind ETFs may face fewer, or different, liquidity risks than other funds, and thus the discussion in their shareholder reports may be proportionate or different than for other funds.
+
+To satisfy this new disclosure requirement, a fund generally may provide information that was provided to the board about the operation and effectiveness of the program, and insight into how the program functioned over the past year . <sup>65</sup> This discussion should provide investors with enough detail to appreciate the manner in which a fund manages its liquidity risk, and could, but is not required to, include discussion of the role of the classification process, the 15% illiquid investment limit, and the HLIM in the fund’s liquidity risk management process.
+
+As part of this new disclosure, a fund might opt to discuss the particular liquidity risks that it faced over the past year, such as significant redemptions, changes in the overall market liquidity of the investments the fund holds, or other liquidity risks, and explain how those risks were managed and addressed. If the fund faced any significant liquidity challenges in the past year, it would discuss how those challenges affected the fund and how they were addressed (recognizing that this discussion may occur in the new sub-section or the MDFP, as appropriate). In the new sub-section, funds also may wish to provide context and other supplemental information about how liquidity risk is managed in relation to other investment risks of the fund. Additionally, one commenter suggested that funds can provide investors with useful empiricaldata metrics that would be informative of the fund’s liquidity profile. <sup>66</sup> We agree and believe that funds may include, as part of this new sub-section, a discussion of other empirical data metrics such as the fund’s bid-ask spreads, portfolio turnover, or shareholder concentration issues (if any) and their effect on the fund’s liquidity risk management. <sup>67</sup> Overall, we believe that this disclosure will provide context and an accessible and useful explanation of the fund’s liquidity risk in relation to its management practices and other investment risks as appropriate.
+
+We continue to believe, and commenters generally agreed, that this new disclosure will better inform investors about the fund’s liquidity risk management practices than aggregate liquidity classification data on Form N-PORT. <sup>68</sup> The shareholder report disclosure provides funds the opportunity to tailor the disclosure to their specific liquidity risks, explain the level of subjectivity involved in liquidity assessment, and give a narrative description of these risks and how they are managed within the context of the fund’s investment strategy. Accordingly, we are adopting these changes substantially as proposed with the modifications discussed above.
+
+<h>B. Amendments to Liquidity Reporting Requirements</h>
+
+We also are adopting certain changes to Form N-PORT related to liquidity data. As discussed in the Proposing Release, we believe these changes may enhance the liquidity data reported to us. <sup>69</sup> In addition, for some funds, these changes also may reduce cost burdens as they comply with the rule.
+
+<h>1. Multiple Classification Categories</h>
+
+We are adopting as proposed amendments to Form N-PORT to allow funds the option of splitting a fund’s holding into more than one classification category in certain specified circumstances. <sup>70</sup> The requirement to classify each entire position into a single classification category poses difficulties for certain holdings and may not accurately reflect the liquidity of that holding, or be reflective of the liquidity risk management practices of the fund. Commenters generally supported these proposed amendments to Form N-PORT, noting that they appreciated the flexibility and better accuracy that may result. <sup>71</sup> However, as discussed below, three commenters raised questions or suggested amendments related to the third circumstance (“full liquidation”) <sup>72</sup> and one questioned the utility of the first two circumstances (“differences in liquidity characteristics” and “differences in sub-adviser classifications”). <sup>73</sup>
+
+Other commenters suggested that we not allow funds to classify portions of a portfolio holding separately because it would “reduce the utility of the entire bucketing exercise.” <sup>74</sup> Similarly, a few commenters suggested that allowing funds to classify portions of a portfolio holding for some of their holdings could lead to inconsistent interpretations of the fund’s classifications, and that we should instead require a fund to apply a uniform approach across all of its holdings. <sup>75</sup> We believe that allowing funds to split classification in these circumstances will actually enhance, rather than reduce the utility of the process. Because funds will be required to indicate which circumstance led to their choice to split a classification, we will beable to identify which positions are split and why. This will allow us a more fine-grained understanding of funds’ views of a position’s liquidity. We also do not believe that we should require a fund to consistently use a single classification splitting approach for all its positions, as different positions may have different but equally valid circumstances justifying a split classification. <sup>76</sup>
+
+In the first circumstance, even though a holding may nominally be a single security, different liquidity-affecting features may justify treating the holding as two or more separate investments for liquidity classification purposes. For example, a fund might hold an asset that includes a put option on a percentage (but not all) of the fund’s holding of the asset. <sup>77</sup> Such a feature may significantly affect the liquidity characteristics of the portion of the asset subject to the feature, such that the fund believes that the two portions of the asset should be classified into different buckets. <sup>78</sup>
+
+As discussed above, commenters generally agreed that such an amendment would allow funds to more accurately reflect their liquidity profile and report their holdings in a manner more consistent with internal liquidity risk management programs. <sup>79</sup> However, one commentersuggested that this amendment would not be necessary, as such differences in liquidity characteristics should already result in the position being labeled as separate positions on Form N-PORT. <sup>80</sup> Form N-PORT requires positions to be categorized based on CUSIP or other identifier, and in many circumstances, positions with differences in liquidity characteristics may have identical identifiers. Accordingly, we continue to believe that offering this flexibility is appropriate and providing clarity that a position can be split in such a circumstance would be useful. Therefore, we are adopting this amendment as proposed.
+
+Second, it is our understanding that when sub-advisers manage different portions or “sleeves” of a fund’s portfolio, sub-advisers may have different views of the liquidity classification of a single holding that is held in multiple sleeves. <sup>81</sup> We believe that allowing a fund to report each sub-adviser’s classification of the proportional holding it manages, instead of putting the entire holding into a single category, will avoid the need for costly reconciliation and may provide useful information to the Commission on each sub-adviser’s determination about the investment’s liquidity. <sup>82</sup>
+
+Commenters generally agreed that this flexibility would allow for these benefits. <sup>83</sup> However, one commenter suggested that splitting positions in this circumstance would merely signal an inconsistency between sub-adviser models and would not provide useful information. <sup>84</sup> We disagree, and believe that getting more granular insight into sub-advisers’ views on liquidity
+
+Comment Letter; ICI Comment Letter.positions may be informative in some circumstances. We also believe it is appropriate to allow this flexibility to avoid unnecessary costs associated with the reconciliation process. Therefore, we are adopting this amendment as proposed. <sup>85</sup>
+
+Third, it is our understanding that for internal risk management purposes some funds may currently classify their holdings proportionally across buckets, based on an assumed sale of the entire position. <sup>86</sup> In such cases, it is our understanding that allowing a fund to have the option of reporting the position assuming a full liquidation on Form N-PORT would be more efficient and less costly than using a single classification category. <sup>87</sup> We believe that in such cases, this form of reporting will not impair the Commission’s monitoring and oversight efforts as compared to our approach of classifying based on “sizes that the fund would reasonably anticipate trading.” <sup>88</sup> Further, we believe the approach, which allows, but does not require, funds to use the full liquidation/proportional approach, will maintain the quality of the information reported to us and potentially be less costly than the approach we adopted. <sup>89</sup> Commenters generally agreed thatpermitting the option to use such a full liquidation approach would be useful, <sup>90</sup> though one cautioned that it would not use such an approach in practice. <sup>91</sup> This approach is optional, and therefore, if it could have negative consequences such as inflating the fund’s illiquid investment bucket, a fund could choose not to use it. We are adopting this third circumstance as proposed.
+
+In the proposal, we also requested comment on other circumstances where classification splitting might be appropriate. Commenters suggested that we also allow certain methods of classification splitting when a fund’s reasonably anticipated trade size falls across multiple liquidity buckets. <sup>92</sup> As discussed in the Liquidity Adopting Release, the reasonably anticipated trade size method for analyzing positions replaced the full liquidation approach that we originally proposed. <sup>93</sup> Classifying liquidity based on reasonably anticipated trading sizes allows for a simpler analytic process in some respects and avoids certain issues where a full liquidation analysis may create disparate results between funds of different sizes. <sup>94</sup> However, it also is an imperfect proxy for the actual liquidity characteristics of fund investments, potentially skewing classifications to more liquid “buckets . ” <sup>95</sup>
+
+We believe that allowing funds to split the reasonably anticipated trade size and use such a split in classifying the rest of a fund’s position could further exacerbate these imperfections, leading to more distorted liquidity profiles for funds. The staff will continue to evaluate potential other approaches to liquidity risk management, including other approaches to classifying fund liquidity. Interested parties may provide feedback on the use of reasonably anticipated trade size as part of classification, and whether we should consider any further modifications.
+
+Two commenters asked us to clarify that funds may use these classification-splitting approaches not just for Form N-PORT reporting, but for all classification purposes under rule 22e-4. <sup>96</sup> The requirement to assign a position into a single bucket is specific to Form N-PORT. <sup>97</sup> Rule 22e-4(b)(ii) requires funds to classify their positions among four categories for liquidity risk management purposes, but does not require positions to be put into a single category.
+
+Accordingly, we clarify that funds following the classification splitting approaches delineated on Form N-PORT may apply such splitting more generally in their classification processes under rule 22e-4.
+
+While we believe that we should permit funds to report liquidity classifications in the three ways discussed above, we also continue to believe it is necessary to limit split reporting to these circumstances in order to maintain the effectiveness of our monitoring efforts. As we stated in the Proposing Release, we believe that allowing funds to engage in such split reporting under these circumstances will allow for a more precise view of the liquidity of thesein 1-3 days, the fund would be permitted to bucket the entire position in the highly liquid category potentially skewing the classification to a more liquid bucket.securities. <sup>98</sup> Because funds that choose to classify across multiple categories under this approach will be required to indicate which of the circumstances led to the split classification, we will be able to monitor more effectively the liquidity of a fund’s portfolio and determine the circumstances leading to the classification. Therefore, we are amending Item C.7 of Form N- PORT to provide funds the option of splitting the classification categories reported for their investments on a percentage basis in these specified circumstances. <sup>99</sup> We are also adopting new Instructions to Item C.7 that explain the specified circumstances where a fund may split classification categories. <sup>100</sup> In addition, we are adopting new Item C.7.b, which will require funds taking advantage of the option to attribute multiple classifications to a holding to note which of the circumstances led the fund to split the classifications of the holdings. <sup>101</sup>
+
+<h>2. Disclosure of Cash and Cash Equivalents</h>
+
+We also are adopting as proposed amendments to Form N-PORT to require additional disclosure relating to a registrant’s holdings of cash and cash equivalents not reported in Parts C and D of the Form. <sup>102</sup> This disclosure will be made publicly available each quarter. <sup>103</sup> Form N- PORT currently does not require registrants to specifically report the amount of cash and cash equivalents held by the registrant. As we noted in the Reporting Modernization Adopting
+
+Release, Part C of Form N-PORT was designed to require registrants to report certain information on an investment-by-investment basis about each investment held by the registrant. <sup>104</sup> However, cash and certain cash equivalents are not considered an investment on Form N-PORT, and therefore registrants are not required to report them in Part C of the Form as an investment. Similarly, Part B.1 of Form N-PORT (assets and liabilities) will require information about a registrant’s assets and liabilities, but does not require specific disclosure of a registrant’s holdings of cash and cash equivalents. <sup>105</sup>
+
+Cash held by a fund is a highly liquid investment under rule 22e-4 and would have been included in the aggregate liquidity profile that we are eliminating. Without the aggregate liquidity profile, we may not be able to effectively monitor whether a fund is compliant with its HLIM unless we know the amount of cash held by the fund. The additional disclosure of cash and certain cash equivalents by funds also will provide more complete information to be used in analyzing a fund’s HLIM, as well as trends regarding the amount of cash being held, which also correlates to other activities the fund is experiencing, including net inflows and outflows.
+
+Most commenters who discussed this addition supported it. They agreed that providing this information is necessary for the Commission’s monitoring of a fund’s HLIM, and that this information would help provide a more complete picture of a fund’s holdings. <sup>106</sup> However, two commenters were concerned about potential investor confusion if they interpreted this item asthe totality of a fund’s highly liquid investments. <sup>107</sup> They were concerned that investors could mistakenly believe that a fund’s ability to meet redemption requests depended only on these cash holdings. <sup>108</sup> One such commenter asked that the Commission make this item non-public to avoid these concerns, <sup>109</sup> while another suggested changing the title of the item to further clarify that a fund may report cash equivalents in response to other items on the form. <sup>110</sup>
+
+While we appreciate the concerns for investor confusion, we believe that the title of the item makes clear that it covers only cash and cash equivalents not reported in other parts of the form, and therefore investors would be on notice that this item does not necessarily include all cash or cash equivalents held by the fund. We also note that funds may provide further public explanations about their cash holdings as part of the explanatory notes associated with the item.
+
+We are therefore adopting as proposed amendments to Item B.2 of Form N-PORT (certain assets and liabilities) to include a new Item B.2.f, which will require registrants to report “cash and cash equivalents not reported in Parts C and D.” Current U.S. Generally Accepted Accounting Principles (“GAAP”) define cash equivalents as “short-term, highly liquid investments that . . . are . . . [r]eadily convertible to known amounts of cash . . . [ and that are] [s]o near their maturity that they present insignificant risk of changes in value because of changes in interest rates.” <sup>111</sup> However, we understand that certain categories of investments currently reported on Part C of Form N-PORT (schedule of portfolio investments) could be reasonably considered by some registrants as cash equivalents. For example, Item C.4 of Form
+
+N-PORT requires registrants to identify asset type, including “short-term investment vehicle ( e.g. , money market fund, liquidity pool, or other cash management vehicle),” which could reasonably be categorized by some registrants as a cash equivalent. In order to ensure the amount reported under Item B.2.f is accurate and does not double count items that are more appropriately reported in Parts C (Schedule of portfolio investments) and D (Miscellaneous securities) of Form N-PORT, we are requiring registrants to only include the cash and cash equivalents not reported in those sections. <sup>112</sup>
+
+<h>C. Treasury Asset Management Report and Evaluation of Other Approaches</h>
+
+In its 2017 Asset Management and Insurance Report, the Department of Treasury highlighted the importance of robust liquidity risk management programs, but recommended that the Commission embrace a “principles-based approach to liquidity risk management rulemaking and any associated bucketing requirements.” <sup>113</sup> The proposal requested comment on whether there were advantages to the Treasury report’s suggested approach and, if so, what additional steps should be taken to shift towards a more principles-based approach. <sup>114</sup>
+
+We received many comments that suggested alternative approaches to liquidity risk management regulation. <sup>115</sup> Most of these commenters saw little benefit in the classificationprovisions of rule 22e-4, and associated requirements such as the HLIM. <sup>116</sup> Some stated that if requirements related to classification were removed or if we allowed funds to design their own classification systems, the funds could define what qualifies as a highly liquid asset and an illiquid asset. <sup>117</sup> Several of these commenters noted that they already have liquidity risk management practices in place that differ from the specific classification requirements of rule 22e-4, and that they expected to maintain their own processes alongside those required by the rule. <sup>118</sup> They stated that this results in duplication of effort and wasted resources, and suggested that replacing the classification provisions with a principles-based approach would reduce burdens on funds and investors while still ensuring effective liquidity risk management practices by funds. <sup>119</sup> We note that funds that believe they would have to maintain dual liquidity classification programs as part of their liquidity risk management may choose to seek an exemption from the Commission from the classification requirements of rule 22e-4 if they believe that their existing systems would effectively accomplish the Commission’s stated goals. <sup>120</sup>
+
+One commenter acknowledged that moving to a principles based approach would come at a cost, for example, because it would limit the Commission’s ability to compare fund reporting in an “apples-to-apples” manner. <sup>121</sup> However, that commenter stated that such a cost would beworthwhile in light of the benefits and cost savings associated with allowing funds to continue to manage liquidity in the way they believed was most appropriate for their funds. <sup>122</sup> Another commenter disagreed that moving to a principles-based approach was appropriate. <sup>123</sup> One commenter also pointed to additional costs associated with moving to such a principles based approach in light of the expense and effort incurred already to comply with the rule. <sup>124</sup>
+
+Today, we are modifying certain aspects of our liquidity framework, largely as proposed.
+
+However, we recognize that a broad range of commenters continue to believe that alternative approaches to classification would better achieve the Commission’s goals. Accordingly, during and following the implementation of the rule and reporting requirements, the staff will continue its efforts to monitor and solicit feedback on implementation. As part of this monitoring, the staff will analyze the extent to which the liquidity classification process and data are achieving the Commission’s goals and any other feedback provided from interested parties to the Commission. <sup>125</sup> The staff will then inform the Commission what steps, if any, the staff recommends in light of this monitoring.
+
+We expect that this evaluation will include, at a minimum: (i) the costs and benefits of rule 22e-4 and its associated classification requirements; (ii) whether there should be publicdissemination of fund-specific liquidity classification information; (iii) whether the Commission should propose amendments to rule 22e-4 to move to a more principles-based approach in light of this evaluation; (iv) and whether the Commission should propose to require certain empirical data metrics be disclosed. <sup>126</sup>
+
+To properly engage in such an evaluation and to ground it on an empirical basis, we believe it is important for funds and the Commission to gain experience with the classification process, to allow analysis of its benefits and costs based on actual practice. <sup>127</sup> Accordingly, we expect that this staff evaluation will take into account at least one full year’s worth of liquidity classification data from large and small entities. <sup>128</sup>
+
+We welcome public feedback as part of this evaluation, and have set up an email inbox where funds, investors, or other interested parties may submit information, now and during the first year of reporting, to help assist the staff and the Commission . <sup>129</sup> In particular, we would appreciate information about the following subjects.
+
+To what extent will funds continue to maintain separate liquidity risk management processes and practices alongside those required by the classification provisions of rule 22e-4? What costs are associated with maintaining such dual systems? Are there synergies or other benefits that would result? Do fundsexpect to eventually combine existing systems and rule 22e-4 classification programs over time, or do they expect to keep them separate?
+
+Were the implementation and ongoing cost estimates and assumptions made in adopting rule 22e-4 and rule and form amendments accurate? In particular, were the assumptions made about vendor usage and associated costs correct considering the widespread use of vendors (as opposed to in-house systems) that we understand has taken place?
+
+What benefits have investors, funds, and the markets gained from liquidity classification, including matters associated with classification such as the HLIM and the illiquid investment limit? Is there a way to retain these benefits while moving to a more principles-based system? Do certain aspects of the classification process, such as the classification of illiquid investments and/or the classification of highly liquid investments, generate greater benefits than others?
+
+To what extent would investors and others benefit from public liquidity classification information? Are there other types of information that may allow investors to better understand the liquidity of their funds? For example, instead of classification information, would investors (or the Commission) be better able to evaluate fund liquidity through public disclosure of empirical data such as bid-ask spreads of portfolio securities, portfolio turnover, or shareholder concentration measures?
+
+If we were to propose amendments to rule 22e-4 to move to a more principles- based approach, would the benefits of such a new approach outweigh the costs of implementation? On what principles should we base such an approach?
+
+Finally, as we discussed in the proposal, our staff anticipates publishing a periodic report containing aggregated and anonymized information about the fund industry’s liquidity may be beneficial. One commenter objected, arguing that even aggregated and anonymized classification data would still be derived from the same disparate and subjective inputs, and accordingly may be of limited value to the Commission or the public. <sup>130</sup> As part of the staff evaluation noted in the proposal and discussed above, we expect that our staff will consider whether publishing such aggregated and anonymized classification data would be useful, and include a recommendation as part of that evaluation as to whether the staff should publish such a periodic report. <sup>131</sup>
+
+<h>D. Compliance Dates</h>
+
+As proposed, we are providing a tiered set of compliance dates based on asset siz e . <sup>132</sup> However, in a change from the proposal, we are not aligning the compliance date for the amendments to Form N-1A we are adopting today with the revised compliance dates we previously adopted for the liquidity-related portions of Form N-PORT. <sup>133</sup> Instead, we are providing additional time so that funds have at least a full year’s experience with the liquidity risk management program before including the new narrative disclosure in their shareholder report.
+
+A number of commenters argued that the first time a fund includes the new narrative disclosure on the operation of a fund’s liquidity risk management program, it should have at least a year’s experience operating a liquidity risk management program under the rule. <sup>134</sup> We agree. Therefore, we are providing additional time so that funds would not need to comply with the new shareholder report amendments to Form N-1A until they have had their liquidity risk management programs in effect for a full year. We have provided additional time for funds to comply with certain aspects of the liquidity risk management program (classification and related elements). <sup>135</sup> As result, we expect that only the aspects of the liquidity risk management program operation and effectiveness that are legally required to be in place need be discussed during the first reporting cycle.
+
+However, we are not changing the compliance date for the Form N-PORT amendments from the proposal. Most commenters did not object to the proposed Form N-PORT compliance dates, although a few asked that funds be provided at least one year from adoption to implement the changes to Form N-PORT. <sup>136</sup> We believe that we are adopting this change sufficiently in advance that funds should be able to implement this change without difficulty, and accordingly are not amending the proposed compliance dates for Form N-PORT.
+
+Below is a chart that describes the compliance dates for the Form N-PORT and Form N-1A amendments that we are adopting today.
+
+<h>III. ECONOMIC ANALYSIS</h>
+
+<h>A. Introduction</h>
+
+The Commission is sensitive to the potential economic effects of the amendments to Form N-PORT and Form N-1A that we are adopting. These effects include the benefits and costs to funds, their investors and investment advisers, issuers of the portfolio securities in which funds invest, and other market participants potentially affected by fund and investor behavior as well as any effects on efficiency, competition, and capital formation.
+
+<h>B. Economic Baseline</h>
+
+The costs and benefits of the amendments as well as any impact on efficiency, competition, and capital formation are considered relative to an economic baseline. For the purposes of this economic analysis, the baseline is the regulatory framework and liquidity risk management practices currently in effect, and any expected changes to liquidity risk management practices, including any systems and processes that funds have already implemented in order to comply with the liquidity rule and related requirements as anticipated in the Liquidity Adopting Release and the Liquidity Extension Release. <sup>138</sup>
+
+The economic baseline’s regulatory framework consists of the rule requirements adopted by the Commission on October 13, 2016 in the Liquidity Adopting Release. Under the baseline,larger entities must comply with some of the liquidity rule’s requirements, such as the establishment of a liquidity risk management program, by December 1, 2018 and must comply with other requirements, such as the classification of portfolio holdings, by June 1, 2019. <sup>139</sup> Smaller entities must comply with some of the liquidity rule’s requirements by June 1, 2019 and other requirements by December 1, 2019. <sup>140</sup> Because these compliance dates have not yet occurred, the Commission has not yet received portfolio classification data and investors have not yet received aggregate portfolio classification disclosures from funds. Accordingly, the baseline does not include experience on the part of the Commission or investors with interpreting or analyzing the quantitative data that will be reported on Form N-PORT.
+
+The primary SEC-regulated entities affected by these amendments are mutual funds and ETFs. As of the end of 2017, there were 9,154 mutual funds managing assets of approximately$19 trillion , <sup>141</sup> and there were 1,832 ETFs managing assets of approximately $3.4 trillion . <sup>142</sup> Other potentially affected parties include investors, investment advisers that advise funds, issuers of the securities in which these funds invest, and other market participants that could be affected by fund and investor behavior.
+
+<h>C. Economic Impacts</h>
+
+We are mindful of the costs and benefits of the amendments to Form N-PORT and Form N-1A we are adopting. The Commission, where possible, has sought to quantify the benefits and costs, and effects on efficiency, competition and capital formation expected to result from these amendments. However, as discussed below, the Commission is unable to quantify certain of the economic effects because it lacks information necessary to provide reasonable estimates. The economic effects of the amendments fall into two categories: (1) effects stemming from changes to public disclosure on Form N-PORT and Form N-1A; (2) effects stemming from changes to non-public disclosure on Form N-PORT.
+
+Changes to Public Disclosure
+
+The amendments to Form N-PORT and Form N-1A we are adopting alter the public disclosure of information about fund liquidity in three ways. First, the amendments rescind the requirement that funds publicly disclose their aggregate liquidity profile on a quarterly basis with a 60-day delay in structured format on Form N-PORT. <sup>143</sup> Second, the amendments require funds and other registrants to report to the Commission, on a non-public basis, the amount of cash and cash equivalents in their portfolio on Form N-PORT on a monthly basis and to publicly disclose this amount on a quarterly basis with a 60-day delay through EDGAR. Finally, the amendments require a fund to provide a narrative description of the fund’s liquidity risk management program’s operation and effectiveness in an unstructured format in the fund’s shareholder report. <sup>144</sup> Most commenters generally supported rescinding the requirement for quarterly publicdisclosure of aggregate liquidity classification information on Form N-PORT, adopting the requirement for funds to disclose their cash and cash equivalents on Form N-PORT, and requiring funds to provide a narrative discussion in the shareholder report. <sup>145</sup>
+
+Funds and other registrants will experience benefits and costs associated with the amendments to public disclosure requirements on Form N-PORT. Funds will no longer incur the one-time and ongoing costs associated with preparing the portion of Form N-PORT associated with the aggregate liquidity profile. These costs likely would have constituted a small portion of the aggregate one-time costs of $158 million and the ongoing costs of $3.9 million for Form N- PORT that we estimated in the Liquidity Adopting Release. <sup>146</sup> At the same time, funds and other registrants will also incur additional costs, relative to the baseline, associated with the adoption of the requirement that they report their holdings of cash and cash equivalents on Form N-PORT. Because funds and other registrants are already preparing Form N-PORT and already need to keep track of their cash and cash equivalents for valuation purposes, we expect that these additional costs will not be significant.
+
+In aggregate, we expect any additional costs associated with the requirement that funds and other registrants disclose their holdings of cash and cash equivalents to be offset by the savings associated with funds no longer having to report an aggregate liquidity profile.$55 million for funds that will file reports on Form N-PORT in house and approximately $103 million for funds that will use a third-party service provider. Similarly, we estimated the total ongoing annual costs as being approximately $1.6 million for funds filing reports in house and $2.3 million for funds that will use a third-party service provider.
+
+Therefore, we expect that funds and other registrants will not experience a significant net economic effect associated with the direct costs of filing Form N-PORT . <sup>147</sup> Additionally, to the extent that any risk of herding or correlated trading would exist if funds executed trades in order to make their aggregate liquidity profiles appear more liquid to investors, rescinding the requirement that funds publicly disclose an aggregate liquidity profile will mitigate such risk. <sup>148</sup>
+
+Relative to the baseline, funds will incur costs associated with preparing an annual narrative discussion of their liquidity risk management programs in the fund’s shareholder report. We estimate that funds will incur aggregate one-time costs of approximately $18 million and aggregate ongoing costs of approximately $9 million in preparing this narrative discussion. <sup>149</sup> Several commenters suggested excluding funds that primarily hold highly liquid investments from providing the narrative discussion, <sup>150</sup> and that the benefits of the narrative disclosure to investors that hold these funds would be outweighed by the costs of including the narrative in the shareholder report. <sup>151</sup> We disagree because, even for funds that predominantly hold highly liquid investments, such discussion can benefit investors to the extent that such disclosures may enhance their understanding of liquidity risk management for individual funds and when comparing funds.$9,029,405 = 27,445 x $329.
+
+As discussed above, and in response to comments, the Commission is not adopting the requirement that the narrative disclosure be part of the MDFP and instead is requiring that the narrative disclosure of the operation and effectiveness of a fund’s liquidity management programs be part of the fund’s shareholder report (annual or semi-annual) in the section following the discussion of board approval of advisory contracts. <sup>152</sup> Moving the narrative disclosure from the MDFP to this section of the shareholder report will allow funds to align the production of the narrative disclosure with the review of the liquidity risk management practices by the fund’s board of directors, which may reduce costs to funds relative to the proposal by allowing funds to avail themselves of any efficiencies from the overlap between these requirements. <sup>153</sup>
+
+Investors will also experience costs and benefits as a result of the changes to public disclosure requirements on Form N-PORT and Form N-1A that we are adopting. <sup>154</sup> To the extent that aggregate liquidity profiles within the structured format of Form N-PORT could have helped certain investors make more informed investment choices that match their liquidity risk preferences, rescinding the aggregate liquidity profile requirement will reduce those investors’ability to make more informed investment choices. <sup>155</sup> However, to the extent that portfolio holding classifications incorporate subjective factors that may be interpreted differently by different funds, aggregate liquidity profiles may not have been comparable across funds.
+
+Therefore, rescinding the aggregate liquidity profile requirement may reduce the likelihood that investors make investment choices based on any confusion about how the fund’s liquidity risk profile should be interpreted. <sup>156</sup> Further, the narrative discussion in shareholder reports may mitigate any reduction in investors’ ability to make more informed investment choices, though this disclosure will be less frequent than the quarterly public disclosure of aggregate liquidity profiles that was previously adopted and will provide information about a fund’s liquidity risk management rather than the aggregate liquidity profile of the fund’s investments . <sup>157</sup>
+
+As discussed above, the compliance date for rule 22e-4 and related reporting on Form N- PORT has not yet occurred and the Commission has not yet received portfolio classification data from funds, nor is aggregated liquidity classification information currently being made public.
+
+As a result, the Commission’s assessment of the costs and benefits of these changes is, necessarily, informed by qualitative concerns, together with what we know about the subjectivity of inputs, assumptions, and methods that funds are likely to utilize in classifying portfolio assetsand the nature of the information to be reported. The liquidity classifications that funds would have used to construct an aggregate liquidity profile are based on several factors that are subjective and fund specific. Such factors include a fund’s determination of the reasonably anticipated trade size for a given holding and its determination of what constitutes significant market impact. <sup>158</sup> As a result of these subjective factors, aggregate liquidity profiles are likely to vary across otherwise similar funds, diminishing their comparability. <sup>159</sup> However, without yet receiving and evaluating liquidity classification data, we cannot anticipate with any quantitative precision the extent to which they will vary across otherwise similar funds as a result of the above factors. <sup>160</sup> As a result, the adopted approach will enable the Commission to evaluate and consider how the quantitative data from funds’ N-PORT filings might be fashioned into common quantitative metrics. This approach will also enable the Commission to assess the potential costs and benefits of future public dissemination of quantitative metrics derived from data contained in N-PORT filings and whether such metrics would be comparable across funds.
+
+The overall impact of the amendments on an investor’s use of data for informing investment choices will likely depend on how the investor accesses and processes information about fund liquidity. If certain investors prefer to base their investment decisions on information that is accessible to them in an unstructured document, those investors will be more likely to use the narrative discussion of a fund’s liquidity risk management program in shareholder reports than they would have been to use the aggregate liquidity profile within the structured format of Form N-PORT to inform their investment decisions. However, certain other investors mayprefer to access, reuse, and compare the information about a fund’s liquidity risk if included within a structured format on Form N-PORT. These investors will have a reduced ability to make as timely and accurate an analysis within an entity’s filings, perform text analysis of an entity’s narrative disclosures, and potentially combine narrative and numeric information when the narrative disclosures related to their liquidity risk management programs are provided to them in the unstructured format of an annual report. Further, there may be an increased burden on these third-party providers to search, parse, and assess the quality of the unstructured information in funds’ annual reports. To the extent that certain investors rely on third parties to provide them with information for analysis, this increased burden may be partially or fully passed on to these investors in the form of higher costs.
+
+One commenter recommended that narrative disclosures, as well as all financial data, be reported in a consistent, structured format to promote comparison across filings and filers. <sup>161</sup> While for some retail investors, an unstructured narrative disclosure will be useful and accessible, standardized, structured, machine-readable disclosures facilitate timely access and accurate identification and parsing of information for other investors and market participants relative to unstructured disclosures. As discussed in the Proposing Release, while we acknowledge that there are costs to our amendments for investors, filers, and third party platforms that prefer to access and use financial information in a structured format, we believe there are also benefits to investors that prefer the narrative discussion of a fund’s liquidity risk management programaccessible to them in an unstructured shareholder report. <sup>162</sup> We are currently soliciting feedback on the use of structured data in fund investor disclosure generally. <sup>163</sup>
+
+Finally, the amendment to Form N-PORT that requires funds and other registrants to publicly disclose their holdings of cash and cash equivalents that are not reported in Parts C and D of the Form on a quarterly basis with a 60-day delay will give investors some potentially useful information about the most liquid assets that a fund previously had available to, for example, meet its redemption obligations. <sup>164</sup>
+
+Changes to Non-Public Disclosure
+
+In addition to the amendments to public disclosures of liquidity information discussed above, the amendments to Form N-PORT give funds the option to split a given holding into portions that may have different liquidity classifications on their non-public reports on Form N- PORT. Funds may benefit from the amendment because it gives them the option to either include an entire holding within a classification bucket or to allocate portions of the holding across classification buckets. This could benefit a fund and the fund’s investors if a more granular approach to classification that assigns portions of a portfolio holding to separate classification buckets is more consistent with the fund’s preferred approach to liquidity risk management. This approach also reduces the need for funds to develop systems and processes to allocate each holding to exactly one classification bucket for the purposes of regulatory compliance. <sup>165</sup> In addition, to the extent that providing the option to choose the positionclassification method most suitable to a given fund results in disclosures on Form N-PORT that more accurately reflect the fund’s liquidity profile, the amendments may improve the Commission’s ability to monitor liquidity risks in markets and protect investors from liquidity- related developments. However, we acknowledge that providing funds with this option does add an additional subjective decision to the portfolio holding classification process. Thus, the amendments could result in classifications that are less comparable across funds relative to the baseline. <sup>166</sup>
+
+Several commenters supported the amendments to Form N-PORT that will give funds the option to split a given holding into portions that may have different liquidity classifications on their non-public reports on Form N-PORT, noting that this option will allow funds increased flexibility and higher precision when classifying the liquidity of an investment. <sup>167</sup> One commenter, however, stated that this option is unlikely to reduce burdens or costs to funds, and is likely to be incompatible with the 15% illiquid asset restriction. <sup>168</sup> We note that this approach is optional, and therefore funds could choose not to use it if it had negative consequences, such as inflating the fund’s illiquid investment bucket. Several commenters recommended that the proportionality option be revised to include categories based on reasonably anticipated trade size, which would allow increased flexibility and potential increased efficiency for funds that chooseas originally adopted. The ability to split a portfolio holding across multiple classification buckets provides funds with a straightforward way of combining the classifications of different sub-advisers.to implement this classification option. <sup>169</sup> We note that, while in some circumstances classifying liquidity based on reasonably anticipated trade size may be a simpler analytic approach and avoids certain issues related to full liquidation, as discussed above in section II.B.1, it also is an imperfect proxy for the actual liquidity characteristics of fund investments, potentially skewing classifications to more liquid “buckets.” <sup>170</sup>
+
+Other commenters suggested that we should not allow funds to classify portions of a portfolio holding separately because it would reduce the value of the information and would “reduce the utility of the entire bucketing exercise.” <sup>171</sup> However, the Commission does not consider allowing portfolio splitting to affect its ability to monitor liquidity risks, an ability that ultimately benefits investors. The Commission is adopting amendments to Form N-PORT to allow funds the option of splitting a fund’s holding into more than one classification category in certain specified circumstances as proposed.
+
+Efficiency, Competition, and Capital Formation
+
+The amendments we are adopting have several potential effects on efficiency, competition, and capital formation. First, if publicly disclosed aggregate liquidity profiles may have created an incentive for a fund to classify its holdings in a manner that led to a relatively more liquid aggregate liquidity profile in order to attract investors, the amendments remove any such incentive and potentially reduce the likelihood that funds compete based on their aggregate liquidity profiles. To the extent that a fund or other registrant’s cash and cash equivalentholdings are interpreted by investors as being associated with lower liquidity risk, funds and other registrants may still have some incentive to compete based on their holdings of cash and cash equivalents as a result of the amendments. <sup>172</sup> We do not expect the proposed amendments to require narrative discussions in shareholder reports to have a significant competitive effect.
+
+Second, to the extent that those publicly disclosed aggregate liquidity profiles would have helped investors more accurately evaluate fund liquidity risk and make more informed investment decisions, the amendments could reduce allocative efficiency. The annual discussion of a fund’s liquidity risk management program in shareholder reports and the requirement that funds and other registrants publicly disclose their holdings of cash and cash equivalents on Form N-PORT could mitigate this reduction in allocative efficiency if these requirements provide information that helps investors evaluate fund liquidity risk. Furthermore, to the extent that aggregate liquidity profiles on Form N-PORT would have increased the likelihood of investors making investment choices based on any confusion about a fund’s liquidity risk profile, which would have harmed the efficient allocation of capital, the amendments could increase allocative efficiency.
+
+Lastly, to the extent that the information provided by aggregate liquidity profiles would have promoted increased investment in certain funds, and the assets those funds invest in, rescinding the aggregate liquidity profile requirement could reduce capital formation. At the same time, we note that the new public disclosure requirements we are adopting could offset any reduction in capital formation.
+
+In summary, we note that all of the effects described above are conditioned upon the usefulness to investors of information that we will no longer require relative to the usefulness of additional disclosure requirements we are adopting. We cannot estimate the aggregate effect on efficiency, competition, or capital formation that will result from the new amendments because we do not know the extent to which aggregate liquidity risk profiles, narrative discussion of a fund’s liquidity risk management program, or the amount of cash and cash equivalents held by a fund and other registrants are useful to investors in making more informed investment choices. <sup>173</sup>
+
+<h>D. Reasonable Alternatives</h>
+
+The Commission considered several alternatives to the amendments to funds public and non-public disclosure requirements that we are adopting. <sup>174</sup>
+
+First, in order to address any potential issues with the interpretation of a fund’s aggregate liquidity profile by investors, we could have maintained the public disclosure of this profile on Form N-PORT and added a requirement that funds publicly disclose on Form N-PORT additional information providing context and clarification regarding how their aggregate liquidity profiles were generated and should be interpreted. This alternative would have provided investors with some of the benefits of the additional context provided by the narrative discussion on Form N-1A that we are adopting, and, to the extent that it increased investors’ understanding of a fund’s aggregate liquidity profile, could have allowed them to make more informed investment choices relative to the baseline. However, some investors may believe that they can more easily obtain information in a fund’s annual report compared to information in the fund’s
+
+Form N-PORT filings if they are not as interested in being able to access, reuse, and compare the information if included in a structured format on Form N-PORT. This alternative would have required these investors to seek out this additional information on EDGAR.
+
+Second, instead of requiring a fund to briefly discuss the operation and effectiveness of its liquidity risk management program in a shareholder report, we could have required a more specific discussion of the fund’s exposure to liquidity risk over the preceding year, how the fund managed that risk, and how the fund’s returns were affected over the preceding year. This alternative could have helped investors understand both a fund’s liquidity risk and the fund’s approach to managing that risk, which might lead to more informed investment decisions than a discussion of the fund’s liquidity risk management program. However, this alternative could have been more costly for some funds to implement than the proposed narrative discussion in the shareholder report, and funds still have the flexibility to provide this information in the course of complying with the final rule if they think it will benefit their investors. <sup>175</sup> Further, as discussed above, a fund should discuss, with specificity, as part of its MDFP , any factor such as liquidity events that the fund experienced that materially affected the fund’s performance during the past fiscal year. <sup>176</sup>
+
+Third, we could have required funds to disclose an aggregate liquidity profile in their annual report along with additional information providing context and clarification regarding how its aggregate liquidity profile was generated and should be interpreted. If such disclosure increased investors’ understanding of a fund’s aggregate liquidity profile, this would have allowed them to make more informed investment choices relative to the baseline, though theywould have received this information at an annual rather than quarterly frequency. However, such disclosures still may not be able to fully explain how the subjective factors inherent in the classification process affect aggregate fund liquidity profiles, so they still may not be comparable across funds. Therefore, investors’ ability to make more informed investment choices based on the inclusion of this information may be limited.
+
+Fourth, we could have amended both Form N-PORT and rule 22e-4 to prescribe an objective approach to classification in which the Commission would specify more precise criteria and guidance regarding how funds should classify different categories of investments. Such an approach could permit consistent comparisons of different funds’ aggregate liquidity profiles, allowing investors to make more informed investment decisions without requiring funds to provide additional contextual discussion of their liquidity risk management programs. However, as discussed in the Liquidity Adopting Release, the Commission may not be able to respond as quickly as market participants to dynamic market conditions that might necessitate changes to such criteria and guidance.
+
+Fifth, we could have required that if funds chose to split the classification of any of their portfolio holdings across liquidity buckets when reporting them on the non-public portion of Form N-PORT, they do so for all of their portfolio holdings. This would have ensured that all of the portfolio holdings within a given fund could be interpreted more consistently for any monitoring purposes by the Commission. However, to the extent that being able to choose the classification approach appropriate to each portfolio holding more accurately reflects a manager’s judgment of that portfolio holding’s liquidity, any reduction in the consistency of portfolio classifications under the amendments we are adopting could be offset by a more accurate description of the manager’s assessment of fund liquidity risk.
+
+<h>IV. PAPERWORK REDUCTION ACT</h>
+
+<h>A. Introduction</h>
+
+The amendments to Form N-PORT and Form N-1A contain “collections of information” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>177</sup>
+
+The title for the existing collections of information are: “Rule 30b1-9 and Form N- PORT” (OMB Control No. 3235-0730); and “Form N-1A under the Securities Act of 1933 and under the Investment Company Act of 1940, Registration Statement of Open-End Management Investment Companies” (OMB Control No. 3235-0307). The Commission is submitting these collections of information to the Office of Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The Commission is amending Form N-PORT and Form N-1A. The amendments are designed to improve the reporting and disclosure of liquidity information by funds. We discuss below the collection of information burdens associated with these amendments. In the Proposing Release, the Commission solicited comment on the collection of information requirements and the accuracy of the Commission’s statements in the Proposing Release.
+
+<h>B. Form N-PORT</h>
+
+As discussed above, on October 13, 2016, the Commission adopted new Form N-PORT, which requires mutual funds and ETFs <sup>178</sup> to report monthly portfolio investment information tothe Commission in a structured data format. <sup>179</sup> The Commission also adopted amendments to Form N-PORT requiring a fund to publicly report on Form N-PORT the aggregate percentage of its portfolio investments that falls into each of the four liquidity classification categories noted above. <sup>180</sup> Today, the Commission is rescinding the requirement that funds publicly disclose their aggregate liquidity profile on a quarterly basis with a 60-day delay. The Commission also is amending Form N-PORT to require funds and other registrants to report to the Commission on a non-public basis the amount of cash and cash equivalents in their portfolio on Form N-PORT on a monthly basis and to publicly disclose this amount on a quarterly basis with a 60 day delay. <sup>181</sup> Finally, the Commission is amending Form N-PORT to allow funds the option of splitting a fund’s holding into more than one liquidity classification category in certain specified circumstances. <sup>182</sup> As of the end of 2017, there were 9,154 mutual funds managing assets of approximately $19 trillion, and there were 1,832 ETFs managing assets of approximately $3.4 trillion. <sup>183</sup> Preparing a report on Form N-PORT is mandatory and is a collection of information under the PRA, and the information required by Form N-PORT will be data-tagged in XML format. Except for certain reporting items specified in the form, <sup>184</sup> responses to the reportingrequirements will be kept confidential for reports filed with respect to the first two months of each quarter; the third month of the quarter will not be kept confidential, but made public sixty days after the quarter end.
+
+In the Liquidity Adopting Release, we estimate that, for the 35% of funds that would file reports on Form N-PORT in house, the per fund average aggregate annual hour burden will be 144 hours per fund, and the average cost to license a third-party software solution will be $4,805 per fund per year. <sup>185</sup> For the remaining 65% of funds that would retain the services of a third party to prepare and file reports on Form N-PORT on the fund’s behalf, we estimate that the average aggregate annual hour burden will be 125 hours per fund, and each fund will pay an average fee of $11,440 per fund per year for the services of third-party service provider. In sum, we estimate that filing liquidity-related information on Form N-PORT will impose an average total annual hour burden of 144 hours on applicable funds, and all applicable funds will incur on average, in the aggregate, external annual costs of $103,787,680, or $9,118 per fund. <sup>186</sup>
+
+We are adopting, substantially as proposed, amendments to Form N-PORT to rescind the requirement that a fund report the aggregate percentage of the fund’s portfolio representing each of the four liquidity categories. As discussed above, we are rescinding this requirement because we believe, and commenters generally agree, <sup>187</sup> that Form N-PORT may not be the most accessible and useful way to convey to the public information about a fund’s liquidity risks and the fund’s approach to liquidity risk management. Because there would no longer be publicmiscellaneous securities (Part D), or explanatory notes related to any of those topics (Part E) that is identifiable to any particular fund or adviser. See new General Instruction F of Form N-PORT.disclosure of a fund’s aggregate liquidity classification information, we also will re-designate reporting about the amount of a fund’s highly liquid investments that are segregated or pledged to cover less liquid derivatives transactions to the non-public portion of the form. Finally, we are adopting amendments to Form N-PORT to add an additional disclosure requirement relating to a fund’s or other registrant’s holdings of cash and cash equivalents not reported in Parts C and D of the For m <sup>188</sup> and to allow funds the option of splitting a fund’s holding into more than one classification category in three specified circumstances. <sup>189</sup> We believe these additional amendments enhance the liquidity data reported to the Commission . <sup>190</sup> In addition, for some funds, these changes may also reduce cost burdens as they comply with the rule.
+
+Based on Commission staff experience, we believe that rescinding the requirement that funds publicly report the aggregate classification information on Form N-PORT will reduce the estimated burden hours and costs associated with Form N-PORT by approximately one hour.
+
+We believe, however, that this reduction in cost will be offset by the increase in cost associated with the other amendments to Form N-PORT, which we also estimate to be one hour. Therefore, we believe that there will be no substantive modification to the existing collection of information for Form N-PORT. Commenters did not provide comment on our estimated reduction in burden hours and costs associated with Form N-PORT. As a result, the Commission believes that the current PRA burden estimates for the existing collection of information requirements remain appropriate .
+
+<h>C. Form N-1A</h>
+
+Form N-1A is the registration form used by open-end investment companies. The respondents to the amendments to Form N-1A adopted today are open-end management investment companies registered or registering with the Commission. Compliance with the disclosure requirements of Form N-1A is mandatory, and the responses to the disclosure requirements are not confidential. In our most recent Paperwork Reduction Act submission for Form N-1A, we estimated for Form N-1A a total hour burden of 1,602,751 hours, and the total annual external cost burden is$ 131,139,208 . <sup>191</sup>
+
+We are adopting, largely as proposed, amendments to Form N-1A to require funds disclose information about the operation and effectiveness of their liquidity risk management program in their reports to shareholders. Specifically, in response to commenters, we are moving the discussion of the operation and effectiveness of a fund’s liquidity risk management program to the section of the shareholder report (annual or semi-annual) following the discussion of board approval of advisory contracts. <sup>192</sup> As proposed, this subsection will require funds to discuss the operation and effectiveness of their liquidity risk management program over the period covered. However, funds will have flexibility to cover either the most recently completed fiscal year or the most recently completed calendar year.
+
+Form N-1A generally imposes two types of reporting burdens on investment companies:(i) the burden of preparing and filing the initial registration statement; and (ii) the burden of preparing and filing post-effective amendments to a previously effective registration statement (including post-effective amendments filed pursuant to 17 CFR 230.485(a) or (b) (“rule 485(a) or(b)”) under the Securities Act, as applicable). As in the proposal, we estimate that each fund will incur a one-time burden of an additional five hour s <sup>193</sup> to draft and finalize the required disclosure. In aggregate, we estimate that funds will incur a one-time burden of an additional 54,890 hours , <sup>194</sup> to comply with the new Form N-1A disclosure requirements. Amortizing the one-time burden over a three-year period results in an average annual burden of an additional 18,296.7 hours. <sup>195</sup>
+
+Based on Commission staff expertise and experience, we estimate that each fund will incur an ongoing burden of an additional 2.5 hours each year to review and update the required disclosure . <sup>196</sup> In aggregate, we estimate that funds will incur an annual burden of an additional 27,445 hours , <sup>197</sup> to comply with the new shareholder report disclosure requirements in Form N- 1A. <sup>198</sup> Amortizing these one-time and ongoing hour and cost burdens over three years results inan average annual increased burden of approximately 3.3 hours per fund, as in the proposal. <sup>199</sup> In total, we estimate that funds will incur an average annual increased burden of approximately 45,741.7 hours, <sup>200</sup> to comply with the shareholder report disclosure requirements.
+
+<h>V. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
+
+The Commission has prepared the following Final Regulatory Flexibility Analysis in accordance with section 3(a) of the Regulatory Flexibility Act (“RFA”). <sup>201</sup> It relates to new amendments to Form N-PORT and new amendments to Form N-1A. We prepared an Initial Regulatory Flexibility Analysis (“IRFA”) in conjunction with the Proposing Release in March 2018. <sup>202</sup> The Proposing Release included, and solicited comment, on the IRFA.
+
+<h>A. Need for the Amendments</h>
+
+The Commission adopted rule 22e-4 and related rule and form amendments to enhance the regulatory framework for liquidity risk management of funds. <sup>203</sup> In connection with rule 22e-4, a fund is required to publicly report on Form N-PORT the aggregate percentage of its portfolio investments that falls into each of the liquidity categories enumerated in rule 22e-4. This requirement was designed to enhance public disclosure regarding fund liquidity and redemption practices. However, since we adopted these requirements, we have received letters raising concerns that the public disclosure of a fund’s aggregate liquidity classification information on Form N-PORT may not achieve our intended purpose and may confuse and mislead investors. As we discuss further in section II.A above, these letters have led us to2.5 burden hours (year 3)) ÷ 3 = 3.3believe that the approach of disclosing liquidity information to the public through Form N-PORT may not be the most accessible and useful way to convey fund liquidity information to the public, given that only the Commission, and not the public, would have access to the more granular information and can request information regarding the fund’s methodologies and assumptions that would provide needed context to understand this reporting. <sup>204</sup>
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+In the Proposing Release, we requested comment on the IRFA, requesting in particular comment on the number of small entities that would be subject to the proposed amendments to Form N-1A and Form N-PORT and whether these proposed amendments would have any effects that have not been discussed. We requested that commenters describe the nature of any effects on small entities subject to the proposed amendments to Form N-1A and Form N-PORT and provide empirical data to support the nature and extent of such effects. We also requested comment on the estimated compliance burdens of the proposed amendments to Form N-1A and Form N-PORT and how they would affect small entities. We did not receive comments regarding the impact of our proposal on small entities.
+
+<h>C. Small Entities Subject to the Amendments</h>
+
+An investment company is a small entity if, together with other investment companies in the same group of related investment companies, it has net assets of $50 million or less as of the end of its most recent fiscal year. <sup>205</sup> Commission staff estimates that, as of December 31, 2017,there were 54 open-end investment companies that would be considered small entities. This number includes open-end ETFs. <sup>206</sup>
+
+<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements</h>
+
+We are adopting amendments to Form N-1A and Form N-PORT to enhance fund disclosure regarding a fund’s liquidity risk management practices. Specifically, the amendments to Form N-PORT <sup>207</sup> will rescind the requirement that funds publicly disclose aggregate liquidity classification information about their portfolios and amendments to Form N-1A will require funds to discuss certain aspects of their liquidity risk management program as part of their reports to shareholders. <sup>208</sup> In addition, we are adopting amendments to Form N-PORT to allow funds to report multiple classification categories for a single position in certain cases <sup>209</sup> and require funds and other registrants to report their holdings of cash and cash equivalents. <sup>210</sup>
+
+All funds will be subject to the new disclosure and reporting requirements, including funds that are small entities. We estimate that 54 funds are small entities that will be required to comply with the disclosure and reporting requirements. As discussed above, we do not believe that our amendments will change Form N-PORT’s estimated burden hours and costs. <sup>211</sup> We estimate that each fund will incur a one-time burden of an additional five hours, <sup>212</sup> at a time costof $1,645 <sup>213</sup> each year to draft and finalize the required shareholder report disclosure required in Form N-1A. For purposes of this analysis, Commission staff estimates, based on outreach conducted with a variety of funds, that small fund groups will incur approximately the same initial and ongoing costs as large fund groups. Therefore, in the aggregate, we estimate that funds that are small entities will incur a one-time burden of an additional 270 hours, <sup>214</sup> at a time cost of $88,830, <sup>215</sup> to comply with the new Form N-1A disclosure requirements. Amortizing the one-time burden over a three-year period results in an average annual burden of an additional 90 hours, <sup>216</sup> at a time cost of $29,610. <sup>217</sup> We estimate that each fund will incur an ongoing burden of an additional 2.5 hours, <sup>218</sup> at a time cost of $822.50, <sup>219</sup> each year to review and update the required Form N-1A disclosure. Therefore, we estimate that funds that are small entities will incur an ongoing burden of an additional 135 hours, <sup>220</sup> at a time cost of $44,415, <sup>221</sup> to comply with the new Form N-1A disclosure requirements.compliance attorney to consult with the liquidity risk management program administrator and other investment personnel in order to produce an initial draft of the shareholder report disclosure as well as the time it takes for senior officers to familiarize themselves with the new disclosure and review the report).other investment personnel in order to produce an initial draft of the shareholder report disclosure as well as the time it takes for senior officers to review the report).
+
+Amortizing these one-time and ongoing hour and cost burdens over three years results in an average annual increased burden of approximately 4.2 hours, <sup>222</sup> at a time cost of $1,370.83, <sup>223</sup> per fund. In total, we estimate that funds that are small entities will incur an average annual increased burden of approximately 226.8 hours, at a time cost of $74,617.20, <sup>224</sup> to comply with the new Form N-1A disclosure requirements.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The RFA directs the Commission to consider significant alternatives that would accomplish our stated objectives, while minimizing any significant economic impact on small entities.
+
+Alternatives in this category include: (i) exempting funds that are small entities from the disclosure requirements on Form N-1A, or establishing different disclosure or reporting requirements, or different disclosure frequency, to account for resources available to small entities; (ii) clarifying, consolidating, or simplifying the compliance requirements under the amendments for small entities;(iii) using performance rather than design standards; and (iv) exempting funds that are small entities from other amendments to Form N-PORT.
+
+The Commission does not believe that exempting any subset of funds, including funds that are small entities, from the amendments would permit us to achieve our stated objectives. Nor do we believe that clarifying, consolidating, or simplifying the amendments for small entities would satisfy those objectives. In particular, we do not believe that the interest of investors would be served by these alternatives. We believe that all fund investors, including investors in funds that are small entities, would benefit from accessible and useful disclosureabout liquidity risk, with appropriate context, so that investors may understand its nature and relevance to their investments. <sup>225</sup> The changes we are making will allow funds of all sizes to more accurately reflect their liquidity. <sup>226</sup> The current disclosure requirements for reports on Forms N-1A and N-PORT do not distinguish between small entities and other funds. Finally, we determined to use performance rather than design standards for all funds, regardless of size, because we believe that providing funds with the flexibility to determine how to design their shareholder report disclosures allows them the opportunity to tailor their disclosure to their specific risk profile. By contrast, we determined to use design standards for our amendments to Form N-PORT because we believe information reported to the Commission on the Form must be uniform to the extent practicable in order for the Commission to carry out its oversight and monitoring responsibilities.
+
+<h>VI. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 The term “funds” used in this release includes open-end management companies, including exchange- traded funds (“ETFs”), and excludes money market funds.
+
+2 Investment Company Reporting Modernization, Investment Company Act Release No. 32314
+
+3 Registered money market funds and small business investment companies are exempt from Form N-PORT reporting requirements.
+
+4 Specifically, we adopted rule 22e-4 and 17 CFR 270.30b1-10 (“rule 30b1-10”), new Form N-LIQUID, as well as amendments to Forms N-1A, N-PORT, and N-CEN. See Liquidity Adopting Release, supra footnote
+
+5 Rule 22e-4 requires each fund to adopt and implement a written liquidity risk management program reasonably designed to assess and manage the fund’s liquidity risk. A fund’s liquidity risk management program must incorporate certain specified elements, including the requirement that a fund classify the liquidity of each of the fund’s portfolio investments into one of four defined liquidity categories: highly liquid investments, moderately liquid investments, less liquid investments, and illiquid investments (“classification”). This classification is based on the number of days in which a fund reasonably expects an investment would be convertible to cash (or, in the case of the less-liquid and illiquid categories, sold or disposed of) without the conversion significantly changing the market value of the investment. Rule 22e-4 requires funds to establish a highly liquid investment minimum, and includes requirements related to policies and procedures on redemptions in kind and evaluation of the liquidity of new unit investment trusts (“UITs”). Rule 22e-4 also includes other required elements, such as limits on purchases of illiquid investments, reporting to the board, and recordkeeping.
+
+6 Item C.7 of Form N-PORT.
+
+7 Item B.8.a of Form N-PORT. This information would be disclosed to the public only for the third month of each fiscal quarter with a 60-day delay. Form N-PORT also required public reporting of the percentage of a fund’s highly liquid investments that it has segregated to cover, or pledged to satisfy margin requirements in connection with, derivatives transactions that are classified as moderately liquid, less liquid, or illiquid investments. Item B.8.b of Form N-PORT.
+
+8 Although the requirements of rule 22e-4 and Form N-PORT discussed above are in effect, the compliance date has not yet occurred. Accordingly, no funds are yet reporting this liquidity-related information on Form N-PORT. We previously extended the compliance date for certain classification-related provisions of rule 22e-4 and their associated Form N-PORT reporting requirements by six months. See Investment Company Liquidity Risk Management Programs; Commission Guidance for In-Kind ETFs, Investment Company Act Release No. 33010 (Feb. 22, 2018) [83 FR 8342 (Feb. 27, 2018)] (“Liquidity Extension Release”).
+
+9 See Liquidity Adopting Release, supra footnote at n.112 and accompanying text.
+
+10 See Investment Company Liquidity Disclosure, Investment Company Act Release No. 33046 (Mar. 14, 2018) [83 FR 11905 (Mar. 19, 2018)] (“Proposing Release”).
+
+11 Letters detailing these concerns, as well as letters on the Proposing Release, are available at(File No. S7-04-18). See, e.g., Letter from SIFMA AMG to Chairman Jay Clayton, Commissioner Stein, and Commissioner Piwowar (Sept. 12, 2017) (urging
+
+12 See Proposing Release, supra footnote
+
+13 See id.
+
+14 See e.g., Comment Letter of Investment Company Institute (May 18, 2018) (“ICI Comment Letter”); Comment Letter of SIFMA AMG (May 18, 2018) (“SIFMA AMG Comment Letter”); Comment Letter of BlackRock Inc. (May 17, 2018) (“BlackRock Comment Letter”).
+
+15 See e.g., Comment Letter of the Capital Group Companies (May 18, 2018) (“Capital Group Comment Letter”); Comment Letter of Fidelity Investments (May 18, 2018) (“Fidelity Comment Letter”); ICI Comment Letter; Comment Letter of the Investment Adviser Association (May 18, 2018) (“IAA Comment Letter”).
+
+16 See Comment Letter of Better Markets (May 18, 2018) (“Better Markets Comment Letter”); Comment Letter of Americans for Financial Reform Education Fund (“AFR Comment Letter”); See Comment Letter of Ya Li, J.D. Candidate, Boston College of Law (May 1, 2018) (“Ya Li Comment Letter”).
+
+17 See, e.g., Comment Letter of the Independent Directors Council (May 17, 2018) (“IDC Comment Letter”), Fidelity Comment Letter, and IAA Comment Letter (supporting our proposal to provide funds with the option to split a holding into more than one classification category in certain circumstances); ICI Comment Letter and Comment Letter of State Street Corporation (May 18, 2018) (“State Street Comment Letter”) (supporting our proposal to require additional disclosure relating to holdings of cash and cash equivalents not otherwise reported on Form N-PORT); SIFMA AMG Comment Letter and BlackRock Comment Letter (supporting our proposal to keep the percentage of the fund’s highly liquid investments segregated to cover, or pledged to satisfy margin requirements in connection with, certain derivatives transactions non-public).
+
+18 See e.g., Comment Letter of Federated Investors, Inc. (May 15, 2018) (“Federated Comment Letter”); IAA Comment Letter; Comment Letter of the Vanguard Group, Inc. (May 17, 2018) (“Vanguard Comment Letter”).
+
+19 If any provision of rule 22e-4 or the related rules and forms, including the amendments adopted today, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or the application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
+
+20 We also are adopting, as proposed, a related change to make non-public (but not eliminate) the disclosure required under Item B.8 of Form N-PORT about the percentage of a fund’s highly liquid investments segregated to cover, or pledged to satisfy margin requirements in connection with, certain derivatives transactions, given that this information is only relevant when viewed together with full liquidity classification information. See Item B.8.b of Form N-PORT. The commenters that discussed this change supported keeping it non-public. See, e.g., ICI Comment Letter.
+
+21 See Proposing Release, supra footnote at n.15 (noting that the term “registrant” refers to entities required to file Form N-PORT, including all registered management investment companies, other than money market funds and small business investment companies, and all ETFs (regardless of whether they operate as UITs or management investment companies)).
+
+22 See revised Item B.8 of Form N-PORT and new Item 27(d)(7)(b) of Form N-1A.
+
+23 See Item 4(b) of Form N-1A. In addition, Item 9(c) of Form N-1A requires a fund to disclose all principal risks of investing in the fund, including the risks to which the fund’s particular portfolio as a whole is expected to be subject and the circumstances reasonably likely to affect adversely the fund’s net asset value, yield, or total return.
+
+24 See infra footnote and accompanying text.
+
+25 See new Item 27(d)(7)(b) of Form N-1A.
+
+26 See Proposing Release, supra footnote at nn.20-27 and accompanying text.
+
+27 See id., at nn.28-30 and accompanying text.
+
+28 See id., at n.31 and accompanying text.
+
+29 See, e.g., IDC Comment Letter; BlackRock Comment Letter; SIFMA AMG Comment Letter.
+
+30 See, e.g., IDC Comment Letter (“A narrative discussion about a fund’s liquidity risk management program would provide shareholders with clearer, more understandable, and more useful information about the fund—in plain English.”).
+
+31 See Comment Letter of MSCI (May 18, 2018) (“MSCI Comment Letter”).
+
+32 See, e.g., ICI Comment Letter; SIFMA Comment Letter.
+
+33 See Ya Li Comment Letter; Better Markets Comment Letter; AFR Comment Letter; Comment Letter of Bondview (May 17, 2018) (“Bondview Comment Letter”).
+
+34 See Better Markets Comment Letter.
+
+35 See Better Markets Comment Letter; Bondview Comment Letter.
+
+36 See AFR Comment Letter.
+
+37 See Better Markets Comment Letter (arguing that investors “can and do read and digest a broad range of information when making investment decisions” and stating that the aggregated liquidity classification data “can easily be understood as it simply states the percentages of liquid-to-illiquid holdings a fund has in its portfolio. Investors and those who serve them then can add this liquidity classification information to their total mix of information and make better and more informed investment decisions.”).
+
+38 See Better Markets Comment Letter.
+
+39 Liquidity Adopting Release, supra footnote at text accompanying n.597.
+
+40 For example, because the aggregate liquidity profile would be a backward looking review of a fund’s liquidity presented only quarterly, with a 60-day delay, it may be misleading if investors were to base investing decisions on this information without being provided a significant amount of additional context about its staleness.
+
+41 See Proposing Release, supra footnote at n.32.
+
+42 See Proposing Release, supra footnote at text following n.13.
+
+43 See Proposing Release, supra footnote
+
+44 See ICI Pre-proposal Letter I. These risks may both increase the possibility of correlated market movements in times of stress and may potentially reduce the utility of the classification data reported to us.
+
+45 See, e.g., MSCI Comment Letter (“While we are generally in favor of promoting public transparency about fund liquidity, we agree with [the proposal]. The classification involves a high level of model risk… which does not allow a direct comparison of results obtained from different funds unless more and more technical information is provided on the nature of the models and the parameters used to generate the result.”).
+
+46 See Proposing Release, supra footnote at n.33 (noting that “due to the variability and subjective inputs required to engage in liquidity classification under rule 22e-4, providing effective information about liquidity classifications under that rule to investors poses more difficult and different challenges than the other data that is publicly disclosed on Form N-PORT, which is more objective and less likely to vary between funds based on their particular facts and circumstances”). See also Comment Letter of J.P. Morgan Asset Management (May 18, 2018) (“J.P. Morgan Comment Letter”) (“It would not be practical to provide an investor-friendly explanation of each input, and associated effect on the classification output.
+
+47 See, e.g., SIFMA AMG Comment Letter (“AMG believes the proposal strikes the right balance and appropriately provides funds the flexibility to tailor their disclosure in the most meaningful way for their investors.”); IDC Comment Letter.
+
+48 See MSCI Comment Letter.
+
+49 New Item 27(d)(7)(b) of Form N-1A.
+
+50 The item will require a discussion of the operation and effectiveness of the fund’s liquidity risk management program during the period covered as part of the board’s annual review of the funds’ liquidity risk management program. Rule 22e-4(b)(2)(iii) requires a fund board to review, no less frequently than annually, a report prepared by the program administrator that addresses the operation of the program and its adequacy and effectiveness.
+
+51 See e.g., SIFMA AMG Comment Letter; Comment Letter of Wellington Management Company LLP (May 18, 2018) (“Wellington Comment Letter”); Fidelity Comment Letter; State Street Comment Letter.
+
+52 One commenter suggested that the new narrative disclosure included in the shareholder report be reported in a structured format. See Comment Letter of XBRL US, Inc. (May 18, 2018) (“XBRL US Comment Letter”). We are not creating an obligation to use a structured format at this time, but will consider the issue in connection with other Commission initiatives. See Fund Retail Investor Experience and Disclosure Request for Comment, Investment Company Act Release No. 33113 (June 5, 2018) [83 FR 26891 (June 11, 2018)].
+
+53 See e.g., J.P. Morgan Comment Letter; BlackRock Comment Letter.
+
+54 See Comment Letter of T. Rowe Price Associates, Inc. (May 18, 2018) (“T. Rowe Comment Letter”).
+
+55 See e.g., IAA Comment Letter (stating that, because a fund’s liquidity risk management program is within the purview of the fund’s board, the new disclosure should “recognize the board’s governance function and such disclosure should be included in the section of the form that covers the process of fund operations and factors considered by the board in its review of the liquidity risk management program”).
+
+56 See, e.g., ICI Comment Letter (arguing that, if the required liquidity risk management disclosure must be included in the annual report, fund complexes offering multiple funds with fiscal year-ends spread throughout the year will be frustrated in their ability to leverage their board reporting for this new shareholder report requirement); Capital Group Comment Letter (noting that many fund families are expected to provide the annual liquidity risk management report to the board of all their funds at the same time once a year without regard to fiscal year ends).
+
+57 See Disclosure of Mutual Fund Performance and Portfolio Managers, Investment Company Act Release No. 19382 (Apr. 6, 1993) [58 FR 21927 (Apr. 26, 1993)] (noting that the MDFP requires funds to “explain what happened during the previous fiscal year and why it happened”).
+
+58 See Item 27(b)(7)(i) of Form N-1A. See also Shareholder Reports and Quarterly Portfolio Disclosure of Registered Management Investment Companies, Investment Company Act Release No. 26372 (Aug. 9, 2004) [69 FR 49805 (Aug. 12, 2004)] (noting that “investors rely on MDFP to explain the investment operations and performance of a mutual fund”). We understand that because liquidity events can materially affect fund performance during a fiscal year, funds currently discuss such events in their MDFP.
+
+59 See, e.g., T. Rowe Comment Letter (suggesting that discussion of the overall structure and operations of the liquidity risk management program should be in the fund’s SAI, but that the MDFP section could still contain disclosure of liquidity events and the use of liquidity risk management tools that had a material effect on the investment operations and performance of a fund); Vanguard Comment Letter (suggesting that focusing the MDFP narrative disclosure on material liquidity risks faced during the relevant period would help ensure that this disclosure does not become boilerplate).
+
+60 See new Item 27(d)(7)(b) of Form N-1A. The discussion required by Item 27(d)(7)(b) will be included in the shareholder report following the board’s review of the fund’s liquidity risk management
+
+61 Allowing this flexibility may result in the narrative disclosure potentially not consistently being in a single document (the annual report), but instead being in either the annual or semi-annual report. This may lead
+
+62 See e.g., IDC Comment Letter; Vanguard Comment Letter; ICI Comment Letter; Capital Group Comment Letter. Rule 22e-4, in relevant part, defines a “highly liquid investment” as any cash held by a fund and any investment that the fund reasonably expects to be convertible to cash in current market conditions in three business days or less without the conversion to cash significantly changing the market value of the investment. Rule 22e-4(a)(6). The rule defines an “In-Kind ETF” as an ETF that meets redemptions through in-kind transfers of securities, positions and assets other than a de minimis amount of cash and that publishes its portfolio holdings daily. Rule 22e-4(a)(9).
+
+63 For example, highly liquid funds and In-Kind ETFs are not required to determine an HLIM. See rule 22e- 4(b)(1)(iii).
+
+64 Highly liquid funds and In-Kind ETFs must consider a variety of factors specific to their operations as part of their liquidity risk management program, which may be relevant to investors. For example, both types of funds must analyze issues such as shareholder or portfolio concentration, holdings of cash and cash equivalents, and other factors. In-Kind ETFs must consider factors specific to ETFs, such as the operation of the arbitrage function and the level of active participation by market participants. See rule 22e-4(b)(1).
+
+65 The disclosure included in new Item 27(d)(7)(b) of Form N-1A generally should provide a high level summary of the report that must be provided to the fund’s board under rule 22e-4(b)(2)(iii) addressing the operation of the fund’s liquidity risk management program and the adequacy and effectiveness of its implementation. We believe that the conclusions in this report may be largely consistent with the overall conclusions disclosed to investors in the shareholder report. Therefore, because funds will already need to prepare a report on the program for purposes of board reporting, we believe that the disclosure requirement we are adopting today would be unlikely to create significant additional burdens.
+
+66 See MSCI Comment Letter.
+
+67 Id.
+
+68 See e.g., SIFMA AMG Comment Letter; Wellington Comment Letter; Fidelity Comment Letter; State Street Comment Letter.
+
+69 See Proposing Release, supra footnote at text accompanying n.50.
+
+70 See new Item C.7.b of Form N-PORT and Instructions to Item C.7 of Form N-PORT. As discussed above, Form N-PORT required a fund to classify each holding into a single liquidity bucket.
+
+71 See IDC Comment Letter; Fidelity Comment Letter; IAA Comment Letter.
+
+72 SIFMA AMG Comment Letter; ICI Comment Letter; J.P Morgan Comment Letter.
+
+73 MSCI Comment Letter.
+
+74 See MSCI Comment Letter.
+
+75 See State Street Comment Letter; MSCI Comment Letter.
+
+76 For example, a fund may have multiple sub-advisers that differ on position A’s classification, and also have a different position that has differential liquidity characteristics for part of the position. We believe that requiring a fund to only use one of the circumstances in such a situation could result in worse, not better, data reported to us.
+
+77 For example, if 30% of a holding is subject to a liquidity feature such as a put, and the other 70% is not, pursuant to the new Instructions to Item C.7 of Form N-PORT, a fund may split the position, evaluate the sizes it reasonably anticipates trading for each portion of the holding that is subject to the different liquidity characteristics, and classify each separate portion differently, as appropriate. The fund in such a case would use the classification process laid out in rule 22e-4, but would apply it separately to each portion of the holding that exhibits different liquidity characteristics.
+
+78 As another example, a fund might have purchased a portion of an equity position through a private placement that makes those shares restricted (and therefore illiquid) while also purchasing additional shares of the same security on the open market. In that case, certain shares of the same holding may have very different liquidity characteristics.
+
+79 See, e.g., Comment Letter of ICE Data Services (May 18, 2018) (“ICE Comment Letter”); Fidelity
+
+80 MSCI Comment Letter.
+
+81 See Proposing Release, supra footnote at text preceding n.53.
+
+82 Similar to the “differences in liquidity characteristics” examples discussed above, the fund effectively will be treating the portions of the holding managed by different sub-advisers as if they were two separate and distinct investments, and bucketing them accordingly. See new Instructions to Item C.7 of Form N-PORT.
+
+83 See, e.g., J.P. Morgan Comment Letter, ICE Comment Letter.
+
+84 MSCI Comment Letter.
+
+85 These amendments also would have the effect of making inapplicable staff FAQ 8 on the liquidity rule for funds that choose to rely on this option. See Liquidity Staff FAQs, available at FAQ 8 provides guidance for funds on the process of reconciling classifications for sub-advisers when reporting on Form N-PORT. As this is an option, not a requirement, the FAQ would still be relevant for those funds that choose not to rely on the optional reporting method. The staff will amend the FAQ accordingly.
+
+86 See Proposing Release, supra footnote at n.54.
+
+87 See id., at n.55.
+
+88 For example, a fund using the full liquidation approach and holding $100 million in Asset A could determine that it would be able to convert to cash $30 million of it in 1-3 days, but could only convert the remaining $70 million to cash in 3-7 days. This fund could choose to split the liquidity classification of the holding on Form N-PORT and report an allocation of 30% of Asset A in the Highly Liquid category and 70% of Asset A in the Moderately Liquid category. Such a fund would not use sizes that it reasonably anticipates trading when engaging in this analysis, but instead would assume liquidation of the whole position. See Proposing Release, supra footnote at n.56.
+
+89 As discussed in the economic analysis below, allowing classification in multiple categories may be less costly if it better aligns with current fund systems or allows funds to avoid incurring costs related to the need to develop systems and processes to allocate each holding to exactly one classification bucket.
+
+90 ICI Comment Letter; State Street Comment Letter; MSCI Comment Letter.
+
+91 J.P. Morgan Comment Letter (explaining that a full liquidation approach may result in negative consequences, by for example, inflating the amount of illiquid assets in a fund based solely on the calculation method used).
+
+92 SIFMA Comment Letter; ICI Comment Letter. For example, if a fund had a $100 million position, and a reasonably anticipated trade size of $10 million, the fund might determine that $4 million of that trade size would fall in the highly liquid asset bucket, and $6 million would fall in the moderately liquid asset bucket. Commenters differed on how funds should classify the remainder of the position ($90 million) in this circumstance.
+
+93 Liquidity Adopting Release, supra footnote
+
+94 Id. (discussing commenters’ concerns that the full liquidation method “could result in large funds’ portfolio liquidity appearing artificially low compared to smaller funds because large funds are more likely to hold larger positions and determine that they could not quickly liquidate these positions entirely without a value impact”).
+
+95 For example, a fund with a $100 million position might determine that it could sell $10 million in 1-3 days and the rest in 4-7 days using the full liquidation approach. However, using the reasonably anticipated trade size proxy, it might determine $10 million was a reasonable trade size, and because it could sell that
+
+96 SIFMA Comment Letter; ICI Comment Letter.
+
+97 See Item C.7 of Form N-PORT.
+
+98 See Proposing Release, supra footnote at text accompanying n.58.
+
+99 Revised Item C.7 of Form N-PORT and new Instructions to Item C.7 of Form N-PORT. Funds that choose not to take advantage of these options may continue to use the approach laid out in the final rule of bucketing an entire position based on the liquidity of the sizes the fund would reasonably anticipate trading.
+
+100 Revised Item C.7 of Form N-PORT and new Instructions to Item C.7 of Form N-PORT. These instructions provide an explanation for how funds that choose to take advantage of split reporting should implement it.
+
+101 New Item C.7.b of Form N-PORT. A fund may also choose to provide (but is not required to) additional context on its process for classifying portions of the same holding differently in the explanatory notes section of Form N-PORT. See Part E of Form N-PORT.
+
+102 See supra footnote
+
+103 See new Item B.2.f of Form N-PORT.
+
+104 See Reporting Modernization Adopting Release, supra footnote Part D of Form N-PORT requires the disclosure of miscellaneous securities.
+
+105 In addition to cash, a registrant’s disclosure of total assets on Part B.1.a. also could include certain non-cash assets that are not investments of the registrant, such as receivables for portfolio investments sold, interest receivable on portfolio investments, and receivables for shares of the registrant.
+
+106 ICI Comment Letter; State Street Comment Letter; IDC Comment Letter.
+
+107 See, e.g., Fidelity Comment Letter.
+
+108 SIFMA AMG Comment Letter; Fidelity Comment Letter.
+
+109 SIFMA AMG Comment Letter.
+
+110 Fidelity Comment Letter.
+
+111 See FASB Accounting Standards Codification Master Glossary.
+
+112 We also are adopting other amendments to Form N-PORT as proposed. In particular, we are amending General Instruction F (Public Availability) to remove the phrase “of this form” from parenthetical references to Item B.7 and Part D for consistency with other parenthetical cross references in the Form. We also are amending Part F (Exhibits) to fix a typographical error in the citation to Regulation S-X. In addition, for consistency with the amendments we are adopting, we are adding Item B.8 (Derivative Transactions) to General Instruction F.
+
+113 See A FINANCIAL SYSTEM THAT CREATES ECONOMIC OPPORTUNITIES; ASSET MANAGEMENT AND INSURANCE, U.S. Department of the Treasury (Oct. 2017) available at
+
+114 See Proposing Release, supra footnote at n.49.
+
+115 See, e.g., Federated Comment Letter; Fidelity Comment Letter; Vanguard Comment Letter.
+
+116 See, e.g., Fidelity Comment Letter; Vanguard Comment Letter.
+
+117 See, e.g., J.P. Morgan Comment Letter; Vanguard Comment Letter.
+
+118 See, e.g., T. Rowe Comment Letter; Vanguard Comment Letter.
+
+119 See, e.g., T. Rowe Comment Letter (“We believe that the bucketing requirement goes beyond what is necessary for a robust risk management regime, and will ultimately prove to be of limited additional utility to fund managers, fund boards, and fund shareholders.”).
+
+120 The Commission would evaluate appropriate terms and conditions for any exemption under the standard set forth in Section 6(c) of the Investment Company Act.
+
+121 See ICI Comment Letter.
+
+122 Id.
+
+123 AFR Comment Letter (“[W]e continue to believe the Commission should require granular information about the liquidity classifications of individual assets; provide strong oversight of fund liquidity classifications; or strengthen and enforce the 15 percent illiquid investments limit.”).
+
+124 See BlackRock Comment Letter (“Any material changes to the requirements of fund managers under rule 22e-4 at this point in time would have a cost of its own that would need to be factored in. We believe the proposed refinements to the disclosure associated with rule 22e-4 would be sufficient to address the material concerns raised by the industry, which were reflected in the Treasury report recommendation, without materially altering the rule at this late stage (a development that would be counterproductive at this time.”)). Conversely, one commenter cautioned the Commission from falling victim to the “sunk cost fallacy” arguing that the costs incurred already in complying with rule 22e-4 should not deter the Commission from moving to a principles-based approach. See Vanguard Comment Letter.
+
+125 See infra footnote and accompanying text.
+
+126 See supra section
+
+127 Retrospective review of regulations is often viewed as a best practice in federal agency rulemaking. See e.g., Government Accountability Office, OPPORTUNITIES REMAIN FOR OMB TO IMPROVE THE TRANSPARENCY OF RULEMAKING PROCESSES (Mar. 2016), available at https://(“We have long advocated the potential usefulness to Congress, agencies, and the public of conducting retrospective regulatory analyses.”).
+
+128 One commenter argued that any such review of liquidity data should take into account a full year’s worth of data at a minimum, and preferably more, to ensure that the data includes stressed periods and other fund outflows. See ICI Comment Letter.
+
+129 Email:
+
+130 ICI Comment Letter.
+
+131 Staff from the Division of Investment Management as well as staff from the Division of Economic and Risk Analysis also may publish ad hoc papers on fund liquidity based on Form N-PORT liquidity data.
+
+132 “Larger entities” are defined as funds that, together with other investment companies in the same “group of related investment companies,” have net assets of $1 billion or more as of the end of the most recent fiscal year of the fund. “Smaller entities” are defined as funds that, together with other investment companies in the same group of related investment companies, have net assets of less than $1 billion as of the end of its most recent fiscal year. See Liquidity Adopting Release, supra footnote at n.997.
+
+133 See Liquidity Extension Release, supra footnote
+
+134 See, e.g., ICI Comment Letter.
+
+135 Liquidity Extension Release, supra footnote
+
+136 ICI Comment Letter; State Street Comment Letter.
+
+137 Funds that distribute annual or semi-annual shareholder reports after the compliance dates discussed above would be subject to the new requirement.
+
+138 See supra footnotes and
+
+139 See supra footnote for a detailed description of larger and smaller entities. The compliance date for some of the requirements related to portfolio holding classification was delayed. See the Liquidity Extension Release, supra footnote for a more detailed discussion of the requirements that were delayed.
+
+140 In a change from the proposal, we are not aligning the compliance dates for the amendments to Form N-1A with those for Form N-PORT, as discussed above in section As a result, funds would not need to comply with the new Form N-1A amendments until they have had their liquidity risk management program in effect for a full year. Moving the compliance date could provide benefits to funds relative to the proposal as they should be able to implement changes to shareholder reports with less difficulty.
+
+141 See ICI, 2018 ICI Fact Book (58th ed., 2018) (“2018 ICI Fact Book”), available at at nn.52, 208, 212. The number of mutual funds includes funds that primarily invest in other mutual funds but excludes 382 money-market funds.
+
+142 See 2018 ICI Fact Book, supra footnote at nn.218, 219.
+
+143 See supra footnote for a definition of “funds.” The requirement to publicly disclose aggregate liquidity profiles does not apply to funds that are In-Kind ETFs under the baseline, so it is only rescinded for funds that are not In-Kind ETFs. In-Kind ETFs are included as funds that provide a narrative description of their liquidity risk management program pursuant to Form N-1A.
+
+144 The Commission will continue to receive non-public position level liquidity information on Form N-PORT.
+
+145 See Fidelity Comment Letter; J.P. Morgan Comment Letter; State Street Comment Letter; ICI Comment Letter; SIFMA Comment Letter; Vanguard Comment Letter. One commenter recommended a delay in compliance to any changes to Form N-PORT or the reporting requirement of cash and cash equivalents. See State Street Comment Letter. The Commission changed the compliance dates for the Form N-1A requirements from what it proposed, as discussed above in section II.D above.
+
+146 See Liquidity Adopting Release, supra footnote at nn.1188-1191. We estimated the total one-time costs associated with the rule’s disclosure and reporting requirements on Form N-PORT as being approximately
+
+147 See infra paragraph following footnote
+
+148 See supra footnote
+
+149 We estimate funds will incur an additional aggregate one-time burden of 54,890 hours and an additional aggregate annual burden of 27,445 hours. See infra footnotes and Assuming a blended hourly rate of $329 for a compliance attorney ($345) and a senior officer ($313), that translates to an additional aggregate one-time burden of $18,058,810 = 54,890 x $329 and an additional aggregate annual burden of
+
+150 See ICI Comment Letter; Capital Group Comment Letter.
+
+151 See Capital Group Comment Letter.
+
+152 However, as discussed in section II.A.2 above, funds should include in the MDFP a discussion of any events relating to a fund’s liquidity that materially affected the fund’s performance during the most recently completed fiscal year. One commenter stated that although such a disclosure would increase “administrative and compliance burden on funds that face material liquidity risks, it may be eased by relevant disclosure that may already be included in the management discussion as a material factor that impacts fund performance. In order to ensure that investors receive proportionate liquidity risk disclosure relative to the risks within a particular fund, we believe the modest additional expense would be warranted.” See Vanguard Comment Letter. Because we understand that funds often already discuss such events in their MDFP today, we agree with the commenter that increases in costs would be limited and that the disclosure would benefit investors in promoting informed decision-making.
+
+153 See ICI Comment Letter. See also Capital Group Comment Letter. Further, another commenter suggested that moving the narrative disclosure from the MDFP would also benefit investors by reducing confusion for investors. See Blackrock Comment Letter.
+
+154 See ICE Comment Letter (discussing the benefits to the "investing public" by "injecting additional rigor and discipline into funds' liquidity assessment procedures.").
+
+155 See Better Markets Comment Letter (stating that the aggregated public reports in N-PORT would have benefited investors by empowering them to make more informed investment decisions through the analysis provided by third-party analysts). Another commenter stated that the removal of the aggregate liquidity profiles will reduce the information offered to the public and opposed the elimination of the public disclosure of funds’ aggregate liquidity profiles. AFR Comment Letter.
+
+156 Even if aggregate liquidity profiles are not comparable across funds, they might be comparable across time for a given fund, which might provide useful information to investors. This would be the case if a fund maintains a consistent position classification process over time. Funds, however, may change their classification processes over time.
+
+157 See Comment Letter of Mutual Fund Directors Forum (May 18, 2018) (“MFDF Comment Letter”) (discussing that the narrative disclosure will benefit investors by providing "information on a fund's management of liquidity risk … in a format that will allow those investors to assess the importance of the information").
+
+158 See Liquidity Adopting Release, supra footnote at section III.C.3.
+
+159 See supra footnotes and
+
+160 A few commenters objected to the proposed changes, arguing that the Commission should err on the side of providing more information and that investors would understand and use the aggregated liquidity information. See supra footnote and accompanying text.
+
+161 See XBRL US Comment Letter.
+
+162 See Proposing Release, supra footnote at section III.C.
+
+163 See supra footnote
+
+164 See supra section II.B.2.
+
+165 For example, funds that use multiple sub-advisers to manage different sleeves of a portfolio might have had to establish more complex systems and processes for combining the classifications of individual sub- advisers into a single classification for the portfolio’s aggregate holding of a given security under the rule
+
+166 Portfolio classifications on Form N-PORT will include CUSIPs or other identifiers that allow Commission staff to identify when different funds classify the same investment using different classification methods. However, comparing such classifications will require some method of adjustment between classifications based on, for example, reasonably anticipated trade size and those based on splitting a position into proportions that are assigned to different classification buckets.
+
+167 See Fidelity Comment Letter; IAA Comment Letter; State Street Comment Letter; ICE Comment Letter; and J.P. Morgan Comment Letter.
+
+168 See J.P. Morgan Comment Letter.
+
+169 See SIFMA Comment Letter and ICI Comment Letter.
+
+170 See supra footnote
+
+171 See MSCI Comment Letter. Several commenters stated that allowing funds to classify portions of a portfolio holding for some of their holdings could lead to inconsistent interpretations of the funds classifications, and that we should instead require a fund to apply a uniform approach across all of its holdings. See State Street Comment Letter and MSCI Comment Letter.
+
+172 However, because cash and cash equivalent holdings do not generate significant returns relative to other holdings, funds and other registrants may have an incentive to shift to non-cash or cash equivalent holdings that generate higher returns.
+
+173 See supra paragraph following footnote
+
+174 Several commenters also addressed potential costs associated with modifying the bucketing requirements of rule 22e-4. As discussed above, in section II.C, we are not adopting modifications to the rule 22e-4 bucketing requirements today.
+
+175 See supra paragraph following footnote
+
+176 See supra section II.A.2.
+
+177 44 U.S.C. 3501 through 3521.
+
+178 Registered money market funds and small business investment companies are exempt from Form N-PORT reporting requirements.
+
+179 Reporting Modernization Adopting Release, supra footnote
+
+180 Item B.8.a of Form N-PORT. Form N-PORT also requires public reporting of the percentage of a fund’s highly liquid investments that it has segregated to cover, or pledged to satisfy margin requirements in connection with, derivatives transactions that are classified as moderately liquid, less liquid, or illiquid investments. Item B.8.b of Form N-PORT.
+
+181 See supra footnote (noting that the term “registrant” refers to entities required to file Form N-PORT, including all registered management investment companies, other than money market funds and small business investment companies, and all ETFs (regardless of whether they operate as UITs or management investment companies)).
+
+182 See new Item C.7.b of Form N-PORT and Instructions to Item C.7 of Form N-PORT.
+
+183 See supra footnote and accompanying text.
+
+184 These items include information reported with respect to a fund’s Highly Liquid Investment Minimum (Item B.7), derivatives transactions (Item B.8), country of risk and economic exposure (Item C.5.b), delta (Items C.9.f.v, C.11.c.vii, or C.11.g.iv), liquidity classification for portfolio investments (Item C.7), or
+
+185 See Liquidity Adopting Release, supra footnote at n.1237 and accompanying text.
+
+186 See Liquidity Adopting Release, supra footnote at n.1238 and accompanying text.
+
+187 See, e.g., IDC Comment Letter; BlackRock Comment Letter; SIFMA AMG Comment Letter.
+
+188 See new Item B.2.f. of Form N-PORT.
+
+189 See new Instructions to Item C.7 of Form N-PORT.
+
+190 See Liquidity Adopting Release, supra footnote at n.293 and accompanying text (discussing the Commission’s need for the information reported on Form N-PORT).
+
+191 This estimate is based on the last time the rule’s information collection was submitted for PRA renewal in 2018.
+
+192 New Item 27(d)(7)(b) of Form N-1A.
+
+193 This estimate is based on the following calculation: 5 hours (3 hours for the compliance attorney to consult with the liquidity risk management program administrator and other investment personnel in order to produce an initial draft of the shareholder report disclosure + 2 hours for senior officers to familiarize themselves with the new disclosure and review the report). These calculations stem from the Commission’s understanding of the time it takes to draft and review shareholder report disclosure.
+
+194 This estimate is based on the following calculations: 5 hours x 10,978 open-end funds (excluding money market funds and ETFs organized as UITs, and including ETFs that are management investment companies) = 54,890 hours. We estimate that there are 8 ETFs organized as UITs as of December 31, 2017.
+
+195 This estimate is based on the following calculation: 54,890 hours ÷ 3 = 18,296.7 average annual burden hours.
+
+196 This estimate is based on the following calculation: 2.5 hours (2 hours for the compliance attorney to consult with the liquidity risk management program administrator and other investment personnel in order to produce an initial draft of the shareholder report disclosure + .5 hours for senior officers to review the shareholder report).
+
+197 This estimate is based on the following calculation: 2.5 hours x 10,978 open-end funds (excluding money market funds and ETFs organized as UITs, and including ETFs that are management investment companies) = 27,445 hours.
+
+198 The calculations included in this PRA have been modified from the Proposing Release to reflect updated estimates for the number of entities that the Commission believes will be required to comply with the new shareholder report amendments on Form N-1A. The estimated cost burdens per fund remain the same.
+
+199 This estimate is based on the following calculation: (5 burden hours (year 1) + 2.5 burden hours (year 2) +
+
+200 This estimate is based on the following calculation: 18,296.7 hours + 27,445 hours = 45,741.7 hours.
+
+201 5 U.S.C. 603(a).
+
+202 See Proposing Release, supra footnote at section V.
+
+203 See supra section I.
+
+204 See supra section at text accompanying footnote
+
+205 See 17 CFR 270.0-10(a) (“rule 0-10(a)”) under the Investment Company Act.
+
+206 This estimate is derived from an analysis of data obtained from Morningstar Direct as well as data reported on Form N-SAR filed with the Commission for the period ending December 31, 2017. This estimate has been modified from the Proposing Release to reflect updated estimates for the number of small entities that the Commission believes will be required to comply with the new shareholder report amendments on Form N-1A.
+
+207 See revised Item B.8 of Form N-PORT.
+
+208 See new Item 27(d)(7)(b) of Form N-1A.
+
+209 See new Item C.7.b of Form N-PORT and Instructions to Item C.7 of Form N-PORT.
+
+210 See new Item B.2.f. of Form N-PORT.
+
+211 See supra text accompanying footnote
+
+212 See supra footnote (noting that this estimate is based on the Commission staff’s understanding of the time it takes it takes to draft and review shareholder report disclosure, including the time it takes for the
+
+213 This estimate is based on the following calculations: 5 hours x $329 (blended rate for a compliance attorney ($345) and a senior officer ($313)) = $1,645.
+
+214 This estimate is based on the following calculations: 5 hours x 54 = 270 hours.
+
+215 This estimate is based on the following calculations: $1,645 x 54 = $88,830.
+
+216 This estimate is based on the following calculations: 270 hours ÷ 3 = 90 average annual burden hours.
+
+217 This estimate is based on the following calculations: $88,830 ÷ 3 = $29,610.
+
+218 See supra footnote and accompanying text (noting that this estimate is based on the Commission staff’s understanding of the time it takes it takes to review shareholder report disclosure, including the time it takes for the compliance attorney to consult with the liquidity risk management program administrator and
+
+219 This estimate is based on the following calculations: 2.5 hours x $329 (blended rate for a compliance attorney ($345) and a senior officer ($313)) = $822.50.
+
+220 This estimate is based on the following calculations: 2.5 hours x 54 = 135 hours.
+
+221 This estimate is based on the following calculations: $822.50 x 54 = $44,415.
+
+222 This estimate is based on the following calculations: (135 hours + 90 hours) ÷ 54 funds = 4.2 hours.
+
+223 This estimate is based on the following calculations: ($44,415 + $29,610) ÷ 54 funds = $1,370.83.
+
+224 This estimate is based on the following calculations: 226.8 hours x $329 (blended rate for a compliance attorney ($345) and a senior officer ($313)) = $74,617.20.
+
+225 See supra text accompanying footnote
+
+226 See supra section at text accompanying footnote

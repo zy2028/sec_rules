@@ -1,0 +1,1087 @@
+https://www.sec.gov/rules/final/33-8099.htm
+
+	I.0.0.0: I. EXECUTIVE SUMMARY AND BACKGROUND
+
+		I.B.0.0: B. Comments Received
+
+		I.C.0.0: C. Summary of the Amendments
+
+	II.0.0.0: II. DISCUSSION
+
+		II.A.0.0: A. Amendments to Regulation S-T Sections 100 and 601
+
+		II.B.0.0: B. Foreign Issuer Forms and Documents Under the Amendments
+
+			II.B.2.0: 2. Form 6-K Reports
+
+			II.B.4.0: 4. Multijurisdictional Disclosure System ("MJDS") Forms
+
+			II.B.5.0: 5. Schedules 13D and 13G and Tender Offer Schedules
+
+			II.B.6.0: 6. Form CB
+
+			II.B.7.0: 7. Forms F-X and F-N
+
+			II.B.8.0: 8. Trust Indenture Act Forms
+
+			II.B.9.0: 9. Reports of Supranational Entities
+
+		II.C.0.0: C. Treatment of Foreign Language Documents
+
+			II.C.1.0: 1. The Adopted "English Summary" Option
+
+			II.C.2.0: 2. The Amended Form 6-K
+
+			II.C.3.0: 3. Submission of Unabridged Foreign Language Documents
+
+			II.C.4.0: 4. Elimination of Written Representation Requirement
+
+			II.C.5.0: 5. Submission of a Foreign Government's Annual Budget
+
+			II.C.6.0: 6. Permitted Inclusion of French and English Text in MJDS Forms
+
+			II.C.7.0: 7. Conforming Amendments to Securities Act and Exchange Act Forms
+
+		II.D.0.0: D. Transition Period
+
+		II.E.0.0: E. The Commission's Electronic Filing Hours
+
+		II.F.0.0: F. Elimination of the Paper Filing Requirement for First-Time EDGAR Filers
+
+	III.0.0.0: III. PAPERWORK REDUCTION ACT ANALYSIS
+
+	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
+
+		IV.A.0.0: A. Background
+
+		IV.B.0.0: B. Benefits
+
+		IV.C.0.0: C. Costs
+
+	VI.0.0.0: VI. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VII.0.0.0: VII. STATUTORY BASIS AND TEXT OF RULE AMENDMENTS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION
+
+ 17 CFR Parts 230, 232, 239, 240, 249, and 269
+
+[Release Nos. 33-8099, 34-45922, International Series Release No. 1259; File No. S7-18-01]
+
+RIN 3235-AI08
+
+MANDATED EDGAR FILING FOR FOREIGN ISSUERS 
+
+AGENCY: Securities and Exchange Commission 
+
+ACTION: Final rule 
+
+SUMMARY: We are adopting amendments to the rules that govern our Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. These amendments will require foreign private issuers and foreign governments to file electronically through the EDGAR system most of their securities documents, including registration statements under the Securities Act of 1933 and registration statements, reports and other documents under the Securities Exchange Act of 1934. By mandating the electronic filing of foreign issuers' securities documents on EDGAR, we hope to realize the same investor benefits and the same efficiencies in information transmission, dissemination, retrieval and analysis achieved since we mandated EDGAR filing for domestic issuers in 1993. We also are adopting rule amendments to clarify when an electronic or paper filer may submit an English summary instead of an English translation of a foreign language document. We are further eliminating the current requirement that any first-time EDGAR filer, domestic or foreign, submit a paper copy of its electronic filing to the Commission. Finally, we are permitting a national securities exchange to file voluntarily on EDGAR a Form 25, which reports the delisting of a class of a company's securities.
+
+ DATES: 
+
+ Effective Date: November 4, 2002, except for §232.101(d), §232.101(b)(10), and §232.101(c)(9), which are effective May 24, 2002.
+
+ Comments Due: Comments on the "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 should be received by June 24, 2002. 
+
+ADDRESSES: Please submit three copies of your comments to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609. You also may submit your comments electronically at the following e-mail address: rule-comments@sec.gov. Your comment letter should refer to File No. S7-18-01; include this file number in the subject line if you use electronic mail. We will make comment letters available for public inspection and copying in our Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549. We will post electronically submitted comment letters on our Internet web site (http://www.sec.gov).<SUP> 1 </SUP> 
+
+FOR FURTHER INFORMATION CONTACT: Elliot B. Staffin, Special Counsel, Office of International Corporate Finance, Division of Corporation Finance, by telephone at (202) 942-2990, or in writing at U.S. Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549.
+
+ SUPPLEMENTARY INFORMATION: We are adopting rule amendments that will rescind Rule 601<SUP> 2 </SUP> under Regulation S-T<SUP> 3 </SUP> and revise the following rules and forms: Rules 403 and 493<SUP> 4 </SUP> under the Securities Act of 1933 ("Securities Act");<SUP> 5 </SUP> Rules 100, 101, 303, 306, and 311<SUP> 6 </SUP> under Regulation S-T; Rule 12b-12<SUP> 7 </SUP> under the Securities Exchange Act of 1934 ("Exchange Act");<SUP> 8 </SUP> and Forms F-1, F-2, F-3, F-4, F-6, F-7, F-8, F-9, F-10, F-80, F-X, and CB under the Securities Act;<SUP> 9 </SUP> and Forms 20-F, 40-F, and 6-K,<SUP> 10 </SUP> and Schedules 13E-4F, 14D-1F, and 14D-9F<SUP> 11 </SUP> under the Exchange Act.
+
+<END HEADER>
+
+<h>I. EXECUTIVE SUMMARY AND BACKGROUND </h>
+
+ EDGAR is the electronic data gathering, analysis and retrieval system<SUP> 12 </SUP> of the Securities and Exchange Commission ("Commission") that enables registered companies and other persons to file their securities documents with the Commission in electronic format.<SUP> 13 </SUP> Filings submitted on EDGAR are available to the public on our web site as well as through many other information providers. Registrants and other persons submitted over 326,600 filings on EDGAR in fiscal 2001 and 305,000 filings in fiscal 2000. 
+
+ When we launched the operational phase of EDGAR in 1993,<SUP> 14 </SUP> we imposed electronic filing requirements only on domestic issuers.<SUP> 15 </SUP> We based the initial exclusion of foreign issuers from the mandated EDGAR regime in part on our belief that foreign issuers would incur higher costs from the implementation of EDGAR than those faced by domestic filers.<SUP> 16 </SUP> While we encouraged foreign issuers to file their securities documents on EDGAR,<SUP> </SUP>we have not generally required these issuers to file electronically until now, although many foreign issuers file their securities documents on EDGAR on a voluntary basis.<SUP> 17 </SUP> A. Our Reasons for Adopting Mandated EDGAR Filing for Foreign Issuers 
+
+We expect <SUP></SUP>EDGAR filing requirements for foreign issuers to result in the following benefits: 
+
+ 
+
+ more rapid dissemination of, and easier access to, financial and other material information about foreign issuers than under our current paper filing system, which will facilitate the following of foreign filers' securities by investors, analysts and others while enhancing market exposure for these securities;
+
+ 
+
+ increased efficiencies in the filing process, which will significantly reduce the filing time required under traditional methods of paper delivery, while offering foreign filers a secure and reliable method of delivery; and
+
+ 
+
+ more efficient storage, retrieval, and analysis of financial and other material information about foreign filers than under the current paper and microfiche regime, which will not only facilitate staff review of a particular foreign issuer's registration statement or report but also enhance the Commission's ability to study and address issues that confront foreign issuers. 
+
+ In the initial operational phase of EDGAR, with the Internet relatively undeveloped compared to today, electronic filers could only transmit their documents directly to the Commission over long distance telephone lines and not over the Internet.<SUP> 18 </SUP> As a result, foreign filers that attempted to transmit directly their electronic documents to the Commission faced higher long distance transmission costs than those borne by domestic companies. Depending on their location, foreign filers also faced potential shortages of long distance lines and proper telecommunications equipment, such as compatible modems. Foreign filers also faced the widespread local unavailability of necessary computer hardware and software and trained personnel capable of transforming their documents into EDGAR compatible files. 
+
+ Since that time, many advances in information and telecommunications technology have occurred that have dramatically increased Internet use by businesses, consumers, investors, and government agencies. These advances have transformed the Internet into one of the principal means for the rapid dissemination and retrieval of information. Because of these advances, most foreign private issuers that are Exchange Act reporting companies already have electronically formatted their financial statements and other material information either for presentation on their web sites or to comply with the requirements of their home country securities commissions.<SUP> 19 </SUP> These advances in information technology also have increased the number of foreign private issuers that have chosen to file voluntarily their securities documents with the Commission on EDGAR.<SUP> 20 </SUP> 
+
+ In addition, today a foreign issuer that seeks to file electronically with the Commission is likely to be able to transmit its electronically formatted documents to us over the Internet through the use of an Internet service provider, thereby saving in long distance telecommunications transmission costs. Moreover, a foreign issuer wanting filing assistance is now more likely to be able to use a local filing agent, thanks to the global expansion of financial printers and consulting firms that are knowledgeable about the Commission's EDGAR requirements. 
+
+ Furthermore, many foreign filers should today experience reduced EDGAR start-up costs because they have already achieved a level of technological proficiency. These initial costs include the costs associated with hiring an information technology team or training existing employees to be technologically proficient, hiring a filing agent, hiring an Internet service provider, and preparing the documents for electronic formatting. Many foreign companies have already assembled an information technology team to present their financial and business information on their web sites. Many of these employees or agents are likely to be familiar with HTML, which is a dominant language of the Internet. Because EDGAR now accepts documents formatted in a version of HTML as well as in ASCII, this familiarity with HTML should reduce the time it takes for the information technology teams of many foreign issuers to learn the EDGAR system.<SUP> 21 </SUP>
+
+ Investors have also come to expect electronic access to financial and business information about public companies, regardless of their country of origin, and to financial information about foreign governments.<SUP> 22 </SUP> Because of these developments, we believe that the time is right to adopt rules mandating EDGAR filing for foreign issuers.<h>B. Comments Received </h>
+
+ On September 28, 2001, we proposed rule amendments that would require foreign private issuers<SUP> 23 </SUP> and foreign governments<SUP> 24 </SUP> to file their securities documents with the Commission on EDGAR.<SUP> 25 </SUP> We received 32 comment letters in response to our proposed rule amendments mandating EDGAR filing for foreign issuers.<SUP> 26 </SUP> Many commenters expressed general approval of the proposal. Several of these commenters agreed that foreign issuers, investors, and members of the financial community would reap the same benefits from these rules as those achieved by mandated filing for domestic issuers. The benefits cited were the more rapid dissemination of information about, facilitation of research and data analysis concerning, and increased market exposure for the securities of foreign issuers. 
+
+ However, a number of commenters also expressed concern about one or more aspects of the proposed amendments. The issues that generated the most discussion were: 
+
+ 
+
+ the proposed elimination of the option to provide an English summary or version in lieu of a full English translation of a foreign language document required as an exhibit or other attachment to a filing; 
+
+ the requirement that an officer or official of an issuer, whether foreign or domestic, certify in writing that an English translation is a fair and accurate one; 
+
+ the proposed mandated EDGAR filing of Form 6-K reports except for Form 6-K reports submitted to furnish a foreign issuer's annual report to security holders;
+
+ 
+
+ the proposed four month transition period; and
+
+ 
+
+ whether the Commission should expand its EDGAR filing hours beyond the current 8:00 A.M. to 10:00 P.M. ET period.<SUP> 27 </SUP><h>C. Summary of the Amendments </h>
+
+ Most of the rule amendments are adopted as proposed. For example, most of the same Securities Act and Exchange Act forms that were the subject of mandated EDGAR filing under the proposed rules will be the subject of mandated EDGAR filing under the adopted rules as well. However, we have responded to a number of comments and made significant changes to the proposed requirements. 
+
+ The adopted amendments will require the electronic filing of: 
+
+ 
+
+ foreign private issuers' Securities Act registration statements and Exchange Act registration statements and reports, including Form 6-K except as discussed below;<SUP> 28 </SUP> 
+
+ foreign governments' Securities Act registration statements and Exchange Act registration statements and reports;
+
+ 
+
+ Multijurisdictional Disclosure System ("MJDS") forms and schedules filed by Canadian issuers; 
+
+ statements of beneficial ownership on Schedules 13D and 13G and tender offer schedules that pertain to the securities of a foreign issuer, whether filed by a foreign or domestic person;
+
+ 
+
+ Form CB, the form used for cross-border rights offers, exchange offers and business combinations that are exempt from the tender offer rules or Securities Act registration, if the filer is an Exchange Act reporting company;<SUP> 29 </SUP> and
+
+ 
+
+ most Trust Indenture Act forms. 
+
+ The adopted amendments will permit either the electronic or paper filing of: 
+
+ 
+
+ a Form 6-K report if the sole purpose of the Form 6-K is to submit the foreign private issuer's attached annual report to security holders, or an attached "statutory" report under specified circumstances, as discussed below;<SUP> 30 </SUP>
+
+ 
+
+ Form CB if the filer is not an Exchange Act reporting company;<SUP> 31 </SUP> and 
+
+ reports that specified supranational entities, such as the World Bank, must file with the Commission.<SUP> 32 </SUP> 
+
+ The adopted amendments will also:<SUP> 33 </SUP> 
+
+ 
+
+ continue to require documents submitted under Exchange Act Rule 12g3-2(b) to be in paper only; and
+
+ 
+
+ eliminate the requirement that a domestic or foreign filer must submit a paper copy of its first electronic filing.<SUP> 34 </SUP> 
+
+ We adopted the following principal changes to the proposed rules at the request of commenters: 
+
+ 
+
+ We have amended both the electronic and paper filing rules to permit the use of an English summary for specified categories of foreign language documents included in Division of Corporation Finance filings and submissions instead of requiring an English translation for all foreign language documents.<SUP> 35 </SUP>
+
+ 
+
+ We have adopted a rule that provides guidance regarding what constitutes an acceptable English summary.<SUP> 36 </SUP> 
+
+ We have eliminated the proposed written certification requirement regarding the fairness and accuracy of an English translation for both foreign and domestic filers.<SUP> 37 </SUP> 
+
+ 
+
+ We are permitting the submission of the unabridged foreign language document in paper to accompany an English summary or translation or when permitted by the applicable form; 
+
+ 
+
+ We are permitting either the electronic or paper submission of a "statutory" report, as discussed below, or other document by a foreign private issuer under cover of Form 6-K as long as the report or other document is not a press release, is not required to be and has not been distributed to the foreign private issuer's security holders, and, if discussing a material event, including the disclosure of annual audited or interim consolidated financial results, has already been the subject of a Form 6-K submission or other Commission filing on EDGAR.<SUP> 38 </SUP>
+
+ 
+
+ We have amended Form 6-K to clarify that a foreign private issuer is not required to submit under cover of Form 6-K an offering circular or prospectus that pertains solely to a foreign offering, even when an English translation or English summary is available, if the issuer has already submitted on EDGAR a Form 6-K, Form 20-F, or other Commission filing that reported material information disclosed in the offering circular or prospectus.<SUP> 39 </SUP>
+
+ 
+
+ We are permitting an MJDS filer to include in an electronic filing that is an HTML document both French and English text in an exhibit to or part of a registration statement, annual report, or tender offer schedule if the filer included the French text to comply with the requirements of the Canadian securities administrator or other Canadian authority.<SUP> 40 </SUP> 
+
+ In addition, in response to commenters who urged a transition period longer than the proposed four months, we are providing a transition period of almost six months. The rules will take effect on Monday, November 4, 2002.<h>II. DISCUSSIONA. Amendments to Regulation S-T Sections 100 and 601 </h><h>A. Amendments to Regulation S-T Sections 100 and 601 </h>
+
+ We are adopting as proposed the amendments to Regulation S-T that will generally require foreign private issuers and foreign governments to file their Securities Act and Exchange Act documents with us on EDGAR.<SUP> 41 </SUP> Currently Regulation S-T Rules 100 and 601 are the provisions that exclude foreign private issuers and foreign governments from the Commission's electronic filing requirements. The amendments will eliminate the foreign issuer exception primarily by revising Rules 100(a) and (c) and removing Rule 601 in its entirety. The amendments will: 
+
+ 
+
+ revise Rule 100(a) by removing the phrase "except for foreign private issuers and foreign governments" to state that Regulation S-T applies to all registrants whose filings are subject to review by the Division of Corporation Finance;<SUP> 42 </SUP> 
+
+ eliminate the phrase "foreign private issuers and foreign governments" in Rule 100(c) to clarify that mandated electronic filing applies to any party that files a document jointly with, or as a third party filer with respect to, a registrant that is subject to mandated electronic filing;<SUP> 43 </SUP> and
+
+ 
+
+ eliminate as unnecessary Rule 601 in its entirety since the adopted amendments will generally extend electronic filing requirements to foreign private issuers and foreign governments, and since we have programmed the EDGAR system to provide an electronic form type for any foreign form that currently lacks one.<SUP> 44 </SUP> 
+
+ Upon the effectiveness of these amendments, mandated EDGAR filing will apply to a foreign issuer's documents filed or submitted under the Securities Act and Exchange Act unless otherwise provided by Regulation S-T. Moreover, because these amendments will generally subject foreign private issuers and foreign governments to Regulation S-T's electronic filing requirements, both domestic and foreign entities will have to file on EDGAR any joint or third party filing that relates to a foreign issuer.<SUP> 45 </SUP><h>B. Foreign Issuer Forms and Documents Under the Amendments 1. Securities Act Registration Statements and Exchange Act Registration Statements and Annual Reports of Foreign Private Issuers </h>
+
+ As proposed, the adopted amendments will require foreign private issuers<SUP> 46 </SUP> to file electronically their Securities Act registration statements on Forms F-1, F-2, F-3, and F-4,<SUP> 47 </SUP>and their Exchange Act registration statements and annual reports on Form 20-F. The amendments also will mandate the filing on EDGAR, as proposed, of Form F-6,<SUP> 48 </SUP> the Securities Act registration statement pertaining to depositary shares evidenced by American Depositary Receipts ("ADRs"). 
+
+ Two commenters opposed extending EDGAR filing requirements to Form F-6 registration statements. Both stated that the Form F-6 registration statement contains little issuer information and principally consists of the attached depositary agreement, which tends to be fairly standard from one registration statement to the next. Consequently, according to these commenters, mandated EDGAR filing would increase the preparation costs of depositaries and foreign private issuers while yielding little benefit to investors. 
+
+ We disagree with this conclusion. While the Form F-6 registration statement may principally consist of the depositary agreement, this document is the governing instrument that sets forth the rights of ADR holders concerning voting, receipt of dividends and other distributions, and deposit and withdrawal of shares, and other material information such as the ratio of ordinary shares to ADRs and the amount of depositary fees. Mandated EDGAR filing of the Form F-6 registration statement will ensure the expeditious dissemination of this material information to investors and other interested parties. 
+
+ We are revising the General Instructions to the Securities Act forms and Form 20-F to reference Regulation S-T and provide Commission telephone numbers that a foreign private issuer may call to obtain EDGAR access codes or to obtain assistance with EDGAR technical concerns or EDGAR rules.<SUP> 49 </SUP> 
+
+ The Division of Corporation Finance ("Division") currently permits first-time foreign registrants, upon request, to submit paper drafts of their initial Securities Act or Exchange Act registration statements for staff review on a non-public basis.<SUP> 50 </SUP> Although we did not discuss this policy in the Proposing Release, we received four comment letters that addressed the issue. All four urged the Division to continue its policy following the new rules' effective date. 
+
+ In response to the above comments, the mandated electronic filing rules for foreign issuers will not affect the Division's confidential submission policy. Confidential submissions under the policy must be in paper format. When a foreign issuer later publicly files its registration statement under the Securities Act or the Exchange Act, the public filing must be in electronic format. At that time, the Division also will require a foreign issuer to file in electronic format as correspondence all letters in response to staff comments on the draft materials and other related correspondence.<SUP> 51 </SUP> The electronic filing of this correspondence with Division staff will facilitate further staff analysis and review of the foreign issuer's registration statements and reports filed with the Commission.<h>2. Form 6-K Reports </h>
+
+ The adopted rule amendments will require the electronic submission of most reports on Form 6-K,<SUP> 52 </SUP> the Exchange Act form used by foreign issuers to submit periodic and current reports with the Commission.<SUP> 53 </SUP> As proposed, a foreign issuer will be able to submit in paper a Form 6-K with its annual report to security holders attached as an exhibit if the sole purpose of the Form 6-K was to deposit a copy of this report with the Commission.<SUP> 54 </SUP> We are also adopting another exception to mandated EDGAR filing of Form 6-K in response to comments received on this issue.
+
+ We have amended Form 6-K to permit a foreign issuer to submit a home country report or other document in paper under cover of a Form 6-K as long as the report or other document: 
+
+ 
+
+ is not a press release;
+
+ 
+
+ is not required to be and has not been distributed to the foreign issuer's security holders; and 
+
+ if discussing a material event, including disclosure of annual audited or interim consolidated financial results, has already been the subject of a Form 6-K submission or other Commission filing on EDGAR.<SUP> 55 </SUP> 
+
+ We added this exception in response to comments noting that a foreign issuer must submit a Form 6-K to report material information that the foreign issuer: 
+
+ 
+
+ makes public or is required to make public under the laws of its home country;
+
+ 
+
+ files or is required to file with its home country stock exchange and which is made public by that exchange; or
+
+ 
+
+ distributes or is required to distribute to its security holders.<SUP> 56 </SUP> 
+
+ According to these commenters, because of their home country regulations and customs, during any given year, most foreign issuers submit numerous Form 6-K reports, only some of which are the equivalent of the domestic company Form 10-Q reports that disclose interim financial information. Because foreign issuers must submit these home country "statutory" reports and other documents on Form 6-K promptly after they are made public in the home country,<SUP> 57 </SUP> these commenters believe that there is not enough preparation or "lead" time to translate these documents into English or prepare them for EDGAR submission. We believe that the additional exception described above will substantially address this concern and assist in reducing a foreign issuer's EDGAR costs while ensuring the rapid dissemination of all material information about a foreign issuer in U.S. capital markets.
+
+ We are also amending Form 6-K to provide a box for each of the permitted paper filing rules that a foreign issuer must check in order to facilitate the processing of the paper Form 6-K. The amended Form 6-K further references the requirements of Regulation S-T and provides telephone numbers that a foreign issuer may call for assistance concerning EDGAR.<SUP> 58 </SUP> 3. Securities Act Registration Statements and Exchange Act Registration Statements and Reports of Foreign Governments 
+
+ The amendments will require foreign governments to file on EDGAR their Securities Act registration statements on Schedule B.<SUP> 59 </SUP> Foreign governments will further have to file electronically their Exchange Act registration statements on Form 18, their annual reports on Form 18-K, and any amendments to these Forms.<SUP> 60 </SUP>
+
+ Two commenters opposed extending mandated EDGAR filing to foreign governments primarily on the grounds that, because of language barriers, time zone differences, and cumbersome internal approval procedures, foreign governments face logistical and other difficulties in meeting their disclosure and reporting obligations under the U.S. federal securities laws. One of the commenters also noted that foreign governments have no experience in filing on EDGAR since they have not been able to do so even voluntarily. Accordingly, these two commenters urged the Commission to permit but not require foreign governments to file their securities documents on EDGAR.<SUP> </SUP>
+
+ After considering these comments, we have determined to adopt mandated EDGAR filing for foreign governments as proposed. We do not believe that the cited difficulties faced by foreign governments are significantly different than those that foreign private issuers may face when preparing their Securities Act and Exchange Act documents for filing with the Commission. Moreover, the same technological advances discussed above should serve to reduce the costs of EDGAR as much for foreign governments as for foreign private issuers. In addition, other accommodations for foreign issuers adopted or discussed in this release should further serve to diminish any difficulties confronted by foreign governments. 
+
+ We are also adopting, as proposed, a requirement that a foreign government provide the following "electronic filing" information in its Schedule B registration statement:<SUP> 61 </SUP> 
+
+ 
+
+ the foreign filer must state that the SEC maintains an Internet site that contains reports, statements and other information regarding issuers that file electronically with the SEC; and
+
+ 
+
+ the foreign filer must disclose the address for the SEC Internet site at (http://www.sec.gov).<SUP> 62 </SUP> 
+
+The instruction will also encourage the foreign filer to provide its own Internet address, if available.<SUP> 63 </SUP><h>4. Multijurisdictional Disclosure System ("MJDS") Forms </h>
+
+ The adopted amendments will apply to MJDS filers as proposed. Under the new rule amendments, Canadian issuers that choose to use the MJDS must file electronically: 
+
+ 
+
+ their Securities Act registration statements on Forms F-7, F-8, F-9, F-10, and F-80; 
+
+ 
+
+ their Exchange Act registration statements and annual reports on Form 40-F; and 
+
+ Schedules 13E-4F, 14D-1F and 14D-9F, the tender offer forms under the MJDS.<SUP> 64 </SUP><h>5. Schedules 13D and 13G and Tender Offer Schedules </h>
+
+ Adopted as proposed, the amendments will mandate the filing on EDGAR of third party forms, whether filed by a domestic or foreign company, that pertain to a foreign private issuer, since a third party filer will no longer be able to claim an EDGAR exemption based on the underlying EDGAR exemption for foreign private issuers. Thus, domestic or foreign persons will have to file on EDGAR their Schedules 13D or 13G that pertain to the securities of foreign private issuers. Similarly, domestic and foreign bidders will have to file on EDGAR their Schedules TO<SUP> 65 </SUP> with respect to tender offers for securities of foreign private issuers. Foreign private issuers that are subject to tender offers, whether by domestic or foreign companies, will have to file their Schedules 14D-9<SUP> 66 </SUP> on EDGAR.<h>6. Form CB </h>
+
+ Form CB is an exemptive form that both foreign and domestic persons must file when engaging in specified rights offerings, exchange offers or business combinations with respect to a foreign private issuer.<SUP> 67 </SUP> We proposed to require the EDGAR submission of Form CB<SUP> 68 </SUP> in two instances: 
+
+ 
+
+ if the party filing or submitting the Form CB is an Exchange Act reporting company; or 
+
+ 
+
+ if the foreign company that is the subject of the Form CB transaction is an Exchange Act reporting company.<SUP> 69 </SUP> 
+
+ Most commenters that addressed this proposal urged that we generally permit rather than require the EDGAR filing of Form CB in order to encourage the use of the Form CB and the consequent participation of U.S. security holders in a cross-border transaction. After considering these comments, we have determined to require EDGAR filing for Form CB only when the party filing or submitting the Form CB is an Exchange Act reporting company. In most instances the party filing or submitting the Form CB will be the issuer, acquiror or bidder in the Form CB transaction. In some instances, however, the subject company of an exchange offer, business combination, or tender offer may elect to file or submit the Form CB in conjunction with or on behalf of the acquiror or bidder. In any of these instances, because the filer will already be familiar with EDGAR filing requirements, mandating the filing or submission of the Form CB on EDGAR should not pose an undue burden. 
+
+ The amendments, as adopted, will also provide that a party that is not an Exchange Act reporting company may at its option file or submit the Form CB on EDGAR.<SUP> 70 </SUP> A company that electronically files a Form CB, whether as a voluntary or mandated electronic filer, must file on EDGAR the home jurisdiction documents that are attached to the Form CB as well.
+
+ We are amending the cover page of Form CB to require a filer to indicate whether it is filing the Form CB in paper as permitted by the newly adopted rule. This will facilitate the proper processing of Form CB.<SUP> 71 </SUP><h>7. Forms F-X and F-N </h>
+
+ The amendments also will require that foreign private issuers file electronically, as proposed, two auxiliary forms, Forms F-X and F-N. Form F-X is the form for designating a U.S. agent for service of process that is required for an MJDS filer and specified other foreign filers.<SUP> 72 </SUP> Form F-N is the form for designating a U.S. agent for service of process by foreign banks and foreign insurance companies when they file registration statements under the Securities Act.<SUP> 73 </SUP> 
+
+ There are two exceptions to the electronic filing requirement adopted for Form F-X. The first pertains to foreign issuers that must file Form F-X because they are Form CB filers. Since the amendments only require the filing or submission of Form CB on EDGAR when the filer is an Exchange Act reporting company, we have adopted the same requirement for the Form F-X that a foreign company must file along with a Form CB.<SUP> 74 </SUP> The amendments permit, but do not require, the filing or submission of Form F-X on EDGAR by a party that is not an Exchange Act company.<SUP> 75 </SUP> 
+
+ The second Form F-X exception pertains to the requirement that a Canadian issuer submit a Form F-X when qualifying an offering statement pursuant to the provisions of Regulation A.<SUP> 76 </SUP> Because Regulation S-T currently requires the submission of Regulation A filings in paper only, the adopted amendments will permit a Canadian Regulation A filer to submit the required Form F-X in paper.<SUP> 77 </SUP> 
+
+As with Form CB, we are amending Form F-X to require the filer to indicate whether it is filing the Form F-X in paper as permitted by the new rule amendments. This will facilitate the proper processing of the Form F-X.<h>8. Trust Indenture Act Forms </h>
+
+ The amendments, adopted as proposed, will require the filing on EDGAR of the following statements and applications regarding trustee eligibility and indenture qualification<SUP> 78 </SUP> under the Trust Indenture Act:<SUP> 79 </SUP> 
+
+ 
+
+ Forms T-1 and T-2<SUP> 80 </SUP> statements of trustee eligibility if submitted in connection with an indenture for which a foreign issuer is the obligor;
+
+ 
+
+ Form T-3<SUP> 81 </SUP> to qualify an indenture covering a foreign issuer's securities sold in offerings that are exempt from registration under the Securities Act;<SUP> 82 </SUP> and
+
+ 
+
+ Form T-6<SUP> 83 </SUP> used by foreign corporations and other foreign business entities to obtain authorization to act as a sole trustee under an indenture qualified or to be qualified under the Trust Indenture Act.<h>9. Reports of Supranational Entities </h>
+
+ We proposed to permit, but not require, the submission on EDGAR of the reports that designated supranational entities are required to file with the Commission. Currently Regulation S-T permits only one of the supranational entities, the International Bank for Reconstruction and Development ("World Bank"), to file on EDGAR its annual and periodic reports and its reports concerning proposed distributions of its primary obligations.<SUP> 84 </SUP> As proposed, we are extending permissive electronic filing to the following five additional supranational entities that are also required to file reports with the Commission:<SUP> 85 </SUP> 
+
+ 
+
+ the Inter-American Development Bank;<SUP> 86 </SUP>
+
+ 
+
+ the Asian Development Bank;<SUP> 87 </SUP>
+
+ 
+
+ the African Development Bank;<SUP> 88 </SUP> 
+
+ 
+
+ the International Finance Corporation;<SUP> 89 </SUP> and
+
+ 
+
+ the European Bank for Reconstruction and Development.<SUP> 90 </SUP> 10. Exhibits Incorporated By Reference 
+
+ As proposed, the adopted amendments will afford to foreign filers the same treatment given to domestic filers regarding exhibits under Rule 102 of Regulation S-T.<SUP> 91 </SUP> We currently do not require a domestic filer to file electronically an exhibit previously filed in paper that is being incorporated by reference into the electronically filed document. As under the current rules, a foreign filer may voluntarily refile the exhibit on EDGAR.<SUP> 92 </SUP> Upon amending its articles of incorporation or bylaws, a foreign filer will have to restate these documents in electronic format.<SUP> 93 </SUP> 
+
+ We are also adopting the amendment to Regulation S-T Rule 303(b),<SUP> 94 </SUP> which provides that if a foreign private issuer incorporates by reference into an electronic filing any portion of an annual or other report to security holders, or of a paper Form 6-K, it must file the incorporated portion in electronic format as an exhibit to the filing. Again, this comports with the treatment afforded to domestic companies.<SUP> 95 </SUP> A foreign private issuer should consider this provision when determining whether to submit a Form 6-K report in paper. 11. Hardship Exemptions 
+
+ The adopted amendments do not alter the provisions governing the availability of hardship exemptions under Regulation S-T, as proposed. A foreign issuer that meets the requirements of Section 201 or 202 of Regulation S-T<SUP> 96 </SUP> may obtain a temporary or continuing hardship exemption from the EDGAR filing requirements.<SUP> 97 </SUP> 
+
+ As is the case with domestic filers, we expect to grant hardship exemptions for foreign issuers infrequently.<SUP> 98 </SUP> Moreover, as is the case with domestic filers, our filing desk will not accept in paper format any filing submitted by a foreign issuer that must be filed electronically pursuant to Regulation S-T Items 100 and 101 unless the filing satisfies the requirements for a temporary or continuing hardship exemption under Regulation S-T.<SUP> 99 </SUP> 12. Documents Submitted Pursuant to Exchange Act Rule 12g3-2(b) 
+
+ We proposed to continue our current practice of requiring foreign private issuers to submit on paper their applications and supporting documents for the exemption pursuant to Exchange Act Rule 12g3-2(b).<SUP> 100 </SUP> While two commenters favored either permissive or mandated EDGAR filing of these documents, we continue to believe that a "paper filing only" rule for Exchange Act Rule 12g3-2(b) documents is the correct approach. A foreign company that has received a Rule 12g3-2(b) exemption is afforded only limited access to U.S. capital markets. It also is not subject to the Commission's disclosure requirements for Exchange Act reporting companies. Consequently, there is less need for electronic access to the submissions that a Rule 12g3-2(b) company must make to the Commission in order to maintain its exempt status. This treatment is consistent with, and analogous to, our current treatment of applications for an exemption from Exchange Act reporting obligations filed pursuant to Exchange Act Section 12(h).<SUP> 101 </SUP> Accordingly, the adopted amendments, as proposed, will not affect Exchange Act Rule 12g3-2(b) submissions.<h>C. Treatment of Foreign Language Documents </h>
+
+ Regulation S-T Rule 306 governs the treatment of foreign language documents for electronic filings. This rule currently prohibits the filing of foreign language documents in electronic format. It also requires the electronic submission of a fair and accurate English translation of any document, required as an exhibit or attachment to a filing, that is in a foreign language.<SUP> 102 </SUP> Thus, under Rule 306, an electronic filer currently does not have the option afforded to paper filers of submitting an English summary or "version" of a foreign language document instead of an English translation.<SUP> 103 </SUP> The proposed amendments would have subjected foreign issuers filing or submitting their securities documents on EDGAR to Rule 306's English translation requirement and prohibition against foreign language documents. We further proposed to eliminate the option of providing an English summary or version instead of an English translation of a foreign language document under the paper filing rules in order to keep the electronic and paper requirements consistent.<SUP> 104 </SUP>
+
+ We received the largest number of comments on this proposed treatment of foreign language documents of all the issues raised by the proposing release. Nineteen commenters generally opposed the elimination of the English summary or version option on the grounds that the costs of translating into English every foreign language document required as an exhibit or attachment to a filing would be excessive and constitute an undue burden on foreign issuers. Several of these commenters also stated that the elimination of the English summary or version option would cause delays in the completion, and preclude the timely filing, of registration statements and reports.
+
+ However, many of these commenters also agreed with our position that, as reflected in current Commission practice, some exhibits are too important to be the subject of an English summary or version. Most of these commenters urged us to adopt a rule that would codify this position by specifying those documents that could and could not be the subject of an English summary or version. Several of these commenters also agreed with our examples of exhibit categories that are too important to be the subject of an English summary or version.<h>1. The Adopted "English Summary" Option </h>
+
+ After consideration of the above comments, we have determined to adopt a limited English summary option for Division of Corporation Finance filings and submissions that is the same for both electronic and paper filers and provides guidance on which exhibits may be summarized. We are amending Regulation S-T Rule 306(a) to provide that all electronic filings or submissions must be in the English language, except as otherwise provided by this rule.<SUP> 105 </SUP> We are further amending this rule to provide that if a filing or submission requires the inclusion of a document that is in a foreign language, a party must submit a fair and accurate English translation of the foreign language document in accordance with the rules governing the treatment of foreign language documents.<SUP> 106 </SUP> The amended rule further provides that, alternatively, if the foreign language document is an exhibit or attachment to a filing or submission to the Division of Corporation Finance, a party may provide a fair and accurate English summary of the foreign language document if permitted by the foreign language rules.<SUP> 107 </SUP> 
+
+ We also are amending the foreign language rules to provide that a Division of Corporation Finance filer must not summarize the following documents (and their amendments):<SUP> 108 </SUP> 
+
+ 
+
+ articles of incorporation, memoranda of association, bylaws, and other comparable documents, whether original or restated;
+
+ 
+
+ instruments defining the rights of security holders, including indentures qualified or to be qualified under the Trust Indenture Act of 1939; 
+
+ voting agreements, including voting trust agreements; 
+
+ contracts to which directors, officers, promoters, voting trustees or security holders named in a registration statement are parties; 
+
+ contracts upon which a filer's business is substantially dependent; 
+
+ audited annual and interim consolidated financial information; and 
+
+ any document that is or will be the subject of a confidential treatment request under Securities Act Rule 406<SUP> 109 </SUP> or Exchange Act Rule 24b-2.<SUP> 110 </SUP> 
+
+ This list largely comprises the examples of important foreign language documents mentioned in the proposing release. However, we have added to this list two categories of material contract exhibits: contracts upon which a filer's business is substantially dependent and related party contracts.<SUP> 111 </SUP> We believe that agreements falling into these categories should not be summarized. While a filer may provide a detailed summary of these contracts in the body of the registration statement or report, their importance requires the filing or submission of a corresponding full English translation as an exhibit to which an investor or other interested party can refer for further information.
+
+ We have narrowed the scope of one exhibit category on the "mandatory English translation" list in response to comments. In the proposing release, we included exhibits containing financial statements on this list.<SUP> 112 </SUP> Although some commenters agreed with us, others pointed out that some "statutory report" exhibits may contain unconsolidated financial information about a parent company that is of questionable materiality. These comments have persuaded us to require the English translation only of exhibits disclosing annual audited or interim consolidated financial information. This requirement will ensure that investors have electronic access to full English translations of financial information about foreign issuers that is comparable to the financial information required by domestic issuers in their periodic reports.
+
+ We are further amending the foreign language rules to provide that a Division of Corporation Finance filer may submit an English summary instead of an English translation of a foreign language document as an exhibit or attachment to a filing as long as the foreign language document does not consist of any of the proscribed subject matter enumerated in these rules<SUP> 113 </SUP> or the applicable form permits the use of an English summary.<SUP> 114 </SUP> These rules will also provide that any English summary submitted must: 
+
+ fairly and accurately summarize the terms of each material provision of the foreign language document; and 
+
+ fairly and accurately describe the terms that have been omitted or abridged.<SUP> 115 </SUP>These conditions are consistent with current staff practice.<SUP> 116 </SUP> 
+
+Under these amendments, electronic and paper filers must provide either an English translation or English summary, if permitted, of a foreign language document.A filer will no longer be able to provide an English "version" or something that falls short of being a fair and accurate English summary as required by the above rules. Although some commenters requested that we retain the English "version" option, we have decided to eliminate it because of the vagueness of the term "version" and the general lack of utility that has characterized those abbreviated English "versions" of foreign language documents that foreign issuers have occasionally submitted.<SUP> 117 </SUP><h>2. The Amended Form 6-K </h>
+
+ Under the proposed amendments, a foreign private issuer would have to provide an English translation of any report or other document that was in a foreign language and required to be submitted under Form 6-K whether in electronic or paper format. Some commenters objected to this proposal because it would eliminate a foreign issuer's ability to submit under Form 6-K: 
+
+ an English summary or version of a foreign language press release or communication distributed directly to shareholders; and 
+
+ a brief description of any other foreign language report or document, such as a statutory report or an offering circular or prospectus relating solely to an offering outside the United States (a "foreign" offering), if no English language translation, summary or version is available.<SUP> 118 </SUP> 
+
+Noting that a foreign issuer typically submits several Form 6-Ks annually, these commenters expressed concern that an "English translation only" requirement would cause a foreign issuer to incur excessive translation expenses and delay the filing of a Form 6-K. Accordingly, these commenters requested that we retain the current version of Form 6-K's instructions regarding the treatment of foreign language documents in their entirety. 
+
+However, we received other comments that distinguished between types of documents regularly submitted under Form 6-K. For example, one foreign firm stated that, because press releases are typically short and are already made available in English by many foreign private issuers as a matter of course, it would not object to a requirement to provide a full English translation for a press release submitted under Form 6-K. Another commenter noted the important distinction that General Instruction D made between press releases and direct shareholder communications on the one hand, and statutory reports and other "public information" documents on the other, when urging us to require the EDGAR submission of the former but not the latter category of documents. 
+
+ After considering these comments, we have determined to retain the English summary option for some of the documents submitted under Form 6-K. Therefore, we are amending Form 6-K General Instruction D to provide that a foreign private issuer must submit a full English translation of the following documents under Form 6-K whether submitted electronically or in paper:<SUP> 119 </SUP> 
+
+ press releases; 
+
+communications and other documents distributed directly to security holders for each class of securities for which a reporting obligation under the Exchange Act exists, except for offering circulars and prospectuses that relate entirely to foreign offerings; and
+
+documents disclosing annual audited or interim consolidated financial information.<SUP> 120 </SUP> 
+
+ We have included direct shareholder communications in the "English translation only" group of documents because when a foreign company determines to communicate with its shareholders, the communication is presumably of sufficient importance to warrant requiring electronic access to that document. Moreover, like press releases, a foreign private issuer will more likely than not prepare an English translation of direct shareholder communications for its U.S. shareholders as a matter of course. 
+
+ New Instruction D to Form 6-K further permits an issuer to furnish under cover of a Form 6-K,<SUP> 121 </SUP> whether submitted electronically or in paper, an English summary instead of a full English translation of a report required to be furnished and made public under the laws of the issuer's home country or the rules of the issuer's home country stock exchange, so long as it is not a press release and is not required to be and has not been distributed to the issuer's security holders. Such a document may include a report disclosing unconsolidated financial information about a parent company.<SUP> 122 </SUP> 
+
+A few commenters expressed their concern that, by eliminating the "English summary, version or brief description" option, we would be requiring the full English translation of offering circulars or prospectuses that pertained solely to foreign offerings. In response to these comments, we are further amending Form 6-K General Instruction D to clarify that a foreign private issuer is not required to submit under cover of Form 6-K an offering circular or prospectus that pertains solely to a foreign offering, even when an English translation or English summary is available, if the issuer has already submitted a Form 6-K, Form 20-F or other Commission filing on EDGAR that reported material information disclosed in the offering circular or prospectus. If an issuer has not previously submitted such a filing, the issuer may submit in electronic format under a Form 6-K an English translation or English summary of the portion of the foreign offering circular or prospectus that discloses new material information.<SUP> 123 </SUP>
+
+ Under the adopted amendments, a foreign private issuer may no longer submit a brief description of a foreign language document under cover of Form 6-K. We have determined to eliminate the "brief description" option for the same reasons that we are eliminating the "English version" option.<SUP> 124 </SUP> Moreover, the above revisions to Form 6-K should eliminate much of the previous need for the "brief description" option while providing useful information, since a foreign private issuer will only have to submitan English summary of that portion of a foreign offering circular or statutory report that contains new material information instead of the entire document.<h>3. Submission of Unabridged Foreign Language Documents </h>
+
+ We solicited comment on whether we should enable a foreign issuer to submit a paper copy of the unabridged foreign language document under cover of Form SE when electronically filing an English summary of the document. Several commenters supported this option, noting the legal importance of the unabridged foreign language version. 
+
+ Accordingly, we are amending Regulation S-T Rule 306 to provide that a party may at its option submit a paper copy of the unabridged foreign language document under cover of Form SE when electronically submitting an English summary or English translation of that document.<SUP> 125 </SUP> We also encourage filers to put these foreign language documents on their own corporate web sites in order for this information to be readily available to public investors. However, the filing or submission of an unabridged foreign language document with the Commission or the posting of this document on a company's web site will not correct an incomplete or inaccurate English summary or translation included in an EDGAR filing or submission.<h>4. Elimination of Written Representation Requirement </h>
+
+ Regulation S-T Rule 306 currently requires a designated officer of an electronic filer to certify in writing that a filed English translation is a fair and accurate translation of a foreign language document.<SUP> 126 </SUP> We proposed to extend this written representation requirement to foreign issuers filing electronically as well as to any paper filing that included an English translation exhibit or attachment. 
+
+ Ten commenters opposed this proposal, primarily on the grounds that the written representation requirement is unnecessary because of the signature requirements and liability provisions under the Securities Act and the Exchange Act. We generally agree with these commenters and are eliminating the written representation requirement for both foreign and domestic issuers, whether filing electronically or in paper.<SUP> 127 </SUP> The antifraud and signature provisions of the Securities Act and Exchange Act should afford sufficient deterrence and protection against the making of misleading and fraudulent misrepresentations in securities documents as a result of false or misleadingly incomplete translations or summaries of foreign language documents.<SUP> 128 </SUP> Of course, we expect foreign and domestic issuers and their advisors to continue to be responsible for translations and to take adequate steps to assure the accuracy of translations to their satisfaction.<h>5. Submission of a Foreign Government's Annual Budget </h>
+
+ As proposed, newly adopted Regulation S-T Rule 306 will continue to require a foreign government or its political subdivision to file electronically a fair and accurate English translation of its latest annual budget as Exhibit B in Form 18 or Exhibit (c) in Form 18-K, but only if an English translation is available. If an English translation is not available, the adopted amendment will require a foreign government or political subdivision to submit a copy of the foreign language version of its latest annual budget in paper under cover of Form SE,<SUP> 129 </SUP> so that any interested party may examine it, as proposed.<SUP> 130 </SUP><h>6. Permitted Inclusion of French and English Text in MJDS Forms </h>
+
+ Some commenters generally expressed their interest in being able to file foreign language documents on EDGAR.<SUP> 131 </SUP> One commenter requested that we at least permit the filing on EDGAR of a document that contains provisions in both English and a foreign language when the home country requires a document to be prepared in both languages. 
+
+ Currently EDGAR official filings can only use foreign language characters that are recognized by HTML version 3.2.<SUP> 132 </SUP> At this time we have determined to permit the use of a foreign language in an electronic filing only when a Canadian issuer includes in an MJDS filing that is electronically formatted as an HTML document both French and English text because this dual language use is necessary to comply with the requirements of the Canadian securities administrator or other Canadian authority. This limited acceptance of foreign language text in EDGAR documents meets the demands of the MJDS system, which permits qualified Canadian issuers to use their home country securities documents to meet U.S. disclosure and reporting requirements. Accordingly, we are adopting an amendment to Regulation S-T Rule 306 to permit the electronic filing of a document containing both French and English text in this case.<SUP> 133 </SUP><h>7. Conforming Amendments to Securities Act and Exchange Act Forms </h>
+
+ In order to reflect the amended treatment of foreign language documents, we are amending the Securities Act and Exchange Act forms by adding explanatory paragraphs stating that: 
+
+ the registration statement or report must be in the English language, as required by the foreign language rules discussed above; 
+
+ if the registration statement or report requires the inclusion, as an exhibit or attachment, of a document that is in a foreign language, the issuer must provide instead either an English translation or an English summary of the foreign language document in accordance with the foreign language rules; and 
+
+ the issuer may submit a copy of the unabridged foreign language document along with the English translation or English summary as permitted by the foreign language rules.<SUP> 134 </SUP> 
+
+We are similarly amending the MJDS forms and schedules<SUP> 135 </SUP> by inserting comparable explanatory paragraphs.<SUP> 136 </SUP> 
+
+ Form CB currently permits the submission of English summaries of documents that, under the home jurisdiction requirements, must be made public but need not be disseminated to security holders.<SUP> 137 </SUP> It also requires the furnishing to the Commission of any documents incorporated by reference into the home jurisdiction documents.<SUP> 138 </SUP> The issuer, acquiror, bidder or subject company submitting the Form CB need not publicly disseminate the incorporated documents to security holders.<SUP> 139 </SUP> While the home jurisdiction documents that are disseminated to security holders must be in English, documents that are incorporated by reference into the home jurisdiction documents may be in a foreign language.<SUP> 140 </SUP> 
+
+ We are amending Form CB to conform it to the adopted rules concerning the treatment of foreign language documents. We are also amending Regulation S-T Rule 311 to provide that a party may submit a copy of an unabridged foreign language document under cover of Form SE if permitted by the applicable form as well as when submitting an English translation or summary.<SUP> 141 </SUP> This amendment will enable the paper submission of a foreign language document that has been incorporated by reference into an electronically submitted Form CB or that is the subject of an English summary permitted by Form CB.<SUP> 142 </SUP><h>D. Transition Period </h>
+
+ We proposed that the amendments would become effective for filings or submissions made four months from their date of adoption. Eleven commenters responded that this four month transition period was too short. In response to these comments, we have determined to adopt an effective date of Monday, November 4, 2002. The new rule amendments will apply to any securities documents filed or submitted on or after November 4, 2002. We believe that approximately six months is a more than sufficient period to enable a foreign issuer to prepare itself to use the EDGAR system and electronically format a document for the foreign issuer's first EDGAR submission or hire a filing agent to conduct or assist in the EDGAR submission.<SUP> 143 </SUP> We encourage foreign issuers to file their securities documents voluntarily during the transition period or to submit test filings during this period.<SUP> 144 </SUP>
+
+ We also proposed to permit registrants that have filed their registration statements in paper before the proposed rules' effective date to continue to file their pre-effective amendments in paper for a limited period of time, for example, one month, following the proposed rules' effective date until their registration statements are effective.<SUP> 145 </SUP> One commenter opposed this proposal on the grounds that a registrant filing in paper before the rules' effective date should have an indefinite period in which to complete its paper filing. While we do not believe that an indefinite period of time is justified, we have determined to permit a registrant filing its registration statement in paper before the rules' effective date to complete its filing in paper through Tuesday, December 31, 2002. If the registration statement becomes effective before then, a filer could also file in paper its prospectus submitted pursuant to Securities Act Rule 430A<SUP> 146 </SUP> or Rule 424<SUP> 147 </SUP> through December 31, 2002. However, on or after Wednesday, January 1, 2003, a registrant will have to file any amendment, whether pre-effective or post-effective, or prospectus supplement in electronic format.<h>E. The Commission's Electronic Filing Hours </h>
+
+ The Commission currently accepts EDGAR filings by direct transmission from 8:00 a.m. until 10:00 p.m. Eastern Standard Time or Eastern Daylight Saving Time, whichever is in effect, every day except for Saturdays, Sundays and federal holidays.<SUP> 148 </SUP> In contrast, paper and magnetic cartridge filings must be submitted by 5:30 p.m.<SUP> 149 </SUP> Most EDGAR filings submitted by direct transmission after 5:30 p.m. receive the next day's date as the official date of filing.<SUP> 150 </SUP>
+
+ Although we did not propose to change the Commission's filing hours for electronic filings made by direct transmission, we solicited comment regarding the adequacy of the Commission's EDGAR filing hours.<SUP> 151 </SUP> We received eleven comment letters that requested us to extend EDGAR's filing hours. Eight of these commenters requested that we extend the EDGAR filing hours either to 24 hours a day, seven days a week, or to 24 hours a day, Monday through Friday. Other commenters requested that we extend EDGAR's filing hours by at least a few hours. Most of these commenters justified extended EDGAR filing hours on the grounds that the business hours of many foreign issuers overlap minimally or not at all with the EDGAR filing hours. 
+
+ In consideration of these comments, we are currently assessing the feasibility of extending the EDGAR filing hours for direct transmission filings. While we are aware that many foreign issuers use the assistance of filing agents based in the United States to submit their filings in a timely fashion, we also understand that this option may not be as readily available to other foreign issuers. We hope in the future to address further the issue of extending the EDGAR filing hours as part of our ongoing efforts to improve the EDGAR system.<h>F. Elimination of the Paper Filing Requirement for First-Time EDGAR Filers </h>
+
+ As part of an ongoing assessment of some technical aspects of the EDGAR rules and the EDGAR system, we have determined to eliminate the requirement that an EDGAR filer must submit a paper copy of its first electronic filing to the Commission.<SUP> 152 </SUP> It appears that this requirement imposes an expense upon EDGAR filers without yielding any tangible benefits. Therefore, upon the publication of the rule amendments in the Federal Register, a first-time EDGAR filer, whether domestic or foreign, will not have to submit a paper copy of its EDGAR filing.<SUP> 153 </SUP><h>III. PAPERWORK REDUCTION ACT ANALYSIS </h>
+
+ The amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<SUP> 154 </SUP> We published a notice requesting comment on the collection of information requirements in the Proposing Release, and submitted these requirements to the Office of Management and Budget ("OMB") for review.<SUP> 155 </SUP> Subsequently, OMB approved the proposed information collection requirements.
+
+ As discussed in Part II. above, we received several comment letters regarding the proposed amendments. We have revised the amendments in response to these comments. In particular, the adopted amendments permit the submission of an English summary of specified foreign language documents whereas the proposed amendments would have required a full English translation of any foreign language document required to be submitted as an exhibit or attachment to Securities Act and Exchange Act forms.<SUP> 156 </SUP> We are revising our previous burden estimates primarily because of this change. We are submitting the revised estimates to the OMB for approval. 
+
+ The titles of the information collections affected by the proposed amendments were the EDGAR Forms ID, ET, SE and TH,<SUP> 157 </SUP> Securities Act Form F-1,<SUP> 158 </SUP> and Exchange Act Form 20-F.<SUP> 159 </SUP> The changes made to the proposed amendments do not alter the burden estimates for Forms ID, ET, SE and TH previously submitted to and approved by the OMB.<SUP> 160 </SUP> The changes do affect the burden estimates for Securities Act Form F-1 and Exchange Act Form 20-F. In addition, because several commenters stated that the elimination of the "English version or brief description" requirement would increase their burdens when submitting statutory reports and other documents under cover of Form 6-K, we have prepared and are submitting burden estimates for this information collection to the OMB as well. 
+
+ We have based our estimates of the effects that the amendments will have on these information collections primarily on our review of actual filings of these forms, the forms' requirements, and on the most recently completed Paperwork Reduction Act submissions for these forms. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. 
+
+ Form F-1 (OMB Control No. 3235-0258) is used by a foreign private issuer to register its initial public offering or a subsequent offering of securities under the Securities Act. In addition to requiring the disclosure of material information about the registrant, Form F-1 also requires the attachment of numerous exhibits, including copies of the registrant's memoranda of association, articles of incorporation, and material contracts.
+
+ Form 20-F (OMB Control No. 3235-0288) is used by a foreign private issuer both to register a class of securities under the Exchange Act as well as to provide its annual report required under the Exchange Act. Like the Form F-1, Form 20-F also requires the filing of numerous exhibits.
+
+ Form 6-K (OMB Control No. 3235-0116) is used by a foreign private issuer to report material information that it: 
+
+ makes or is required to make public under the laws of the jurisdiction of its incorporation, domicile or organization (its "home country"); 
+
+ files or is required to file with its home country stock exchange that is made public by that exchange; or 
+
+ distributes or is required to distribute to its security holders. 
+
+A foreign private issuer may attach annual reports to security holders, statutory reports, press releases and other documents as exhibits or attachments to the Form 6-K. 
+
+ As a result of the adopted English summary provision described above, the reporting and cost burden estimates for Forms F-1 and 20-F have changed. Accordingly, we have revised the estimated information collection requirements that we initially submitted to the OMB. Regarding Form F-1, we have decreased by 39 hours our estimate of the total annual burden incurred by registrants in the preparation of a Form F-1 to 65,880 hours (from the previously estimated 65,919 hours). We also have decreased by $3435 the total annual costs attributed to the preparation of a Form F-1 by outside firms to $34,567,031 (from the previously estimated $34,570,466).
+
+ We have derived these estimates from the following revised assumptions. First, we have decreased by two our estimate of the number of registrants (five from the previously estimated seven) that will incur additional burden hours and costs for services pertaining to translating into English either all or some of a foreign language document for submission as either an English translation or English summary exhibit instead of an English "version" or "brief description." Second, we have decreased by 12 our estimate of the number of additional burden hours (36 hours from the previously estimated 48 hours) that each of the five registrants will incur when preparing English translations or English summaries in accordance with the adopted amendments (for a total of 180 additional burden hours instead of the 336 hours previously estimated). We continue to expect that registrants will incur 25% of these additional burden hours (45 hours instead of the previously estimated 84 hours). Third, we have decreased by 5 the number of additional pages per filing (13 pages compared to the previously estimated 18 pages) that each registrant must translate at a cost of $75 per page. We continue to expect that outside firms will account for 75% of the translation costs resulting in $3656 of costs attributable to outside firms (rather than the previously estimated $7,091).
+
+ Regarding Form 20-F, we have decreased by 174 hours the total annual burden incurred by foreign private issuers in the preparation of a Form 20-F to 501,763 hours (from the previously estimated 501,937 hours). We further have decreased by $16,341 the total annual costs attributed to the preparation of the Form 20-F by outside firms to $263,194,113 (from the previously estimated $263,210,454).
+
+ We have derived these estimates from the following revised assumptions. First, while our estimate of the number (58) of foreign private issuers affected by the amendments remains the same, we have decreased by 12 our estimate of the number of additional burden hours (36 hours from the previously estimated 48 hours) that each of the affected issuers will incur when preparing English translations or English summaries in accordance with the adopted amendments (for a total of 2088 additional burden hours instead of the 2784 hours previously estimated). We continue to expect that foreign private issuers will incur 25% of these additional burden hours (522 hours instead of the previously estimated 696 hours). Second, we have decreased by five the number of additional pages per filing (13 pages compared to the previously estimated 18 pages) that each issuer must translate at a cost of $75 per page. We continue to expect that outside firms will account for 75% of the translation costs resulting in $42,413 of costs attributable to outside firms (rather than the previously estimated $58,754).
+
+ Regarding Form 6-K, we estimate that the amendments will cause an increase of 2477 burden hours resulting in a total of 25,477 hours (from the previous 23,000 hours). We further estimate that the adopted amendments will cause foreign private issuers to incur an aggregate increase of $165,150 in translation costs when preparing an English translation or summary exhibit for a Form 6-K, resulting in total costs of $12,240,150 (compared to the previous $12,075,000).
+
+ We have based our Form 6-K estimates on the following assumptions. First, we have increased the number of Form 6-K responses by 3161 to 14,661 (from the previous 11,500).<SUP> 161 </SUP> Second, we estimate that 367 of the total number of Form 6-Ks filed or submitted would incur additional English translation expenses as a result of the amendments. Third, we estimate that for each of the affected Form 6-K filings or submissions, there will occur an additional 27 burden hours. We continue to expect that issuers will incur 25% of these additional burden hours, resulting in 2477 additional burden hours for the Form 6-K respondents. Finally, we expect that each affected issuer will have to translate an additional 8 pages at a cost of $75 per page. We continue to expect outside firms to incur 75% of these English translation costs, resulting in an additional $165,150 of costs attributable to outside firms. 
+
+ We are soliciting comment on the expected Paperwork Reduction Act effects of the adopted amendments. In particular, we solicit comment on the accuracy of our additional burden hour and cost estimates expected to result from the adopted amendments. We further request comment on whether the expected effects of the amendments discussed in this section are necessary for the proper performance of the Commission's functions, including whether the additional information garnered will have practical utility. In addition, we solicit comment on whether there are ways to enhance the quality, utility, and clarity of the information to be collected. We further solicit comment on whether there are ways to minimize the burden of information collection on those foreign filers who will file the above forms, including through the use of automated collection techniques or other forms of information technology. Finally, we solicit comment on whether the amendments will have any effects on any other collection of information not previously identified in this section.
+
+ If you would like to submit comments on the collection of information requirements and expected effects, please direct them to the Office of Management and Budget, Attention: Desk Officer for the Securities and Exchange Commission, Office of Information and Regulatory Affairs, Washington, D.C. 20503. You should also send a copy of the comments to Jonathan G. Katz, Secretary, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609, with reference to File No. S7-18-01. Requests for materials submitted to OMB by the Commission with regard to these collections of information should be in writing, refer to File No. S7-18-01, and be submitted to the Securities and Exchange Commission, Records Management, Office of Filings and Information Services, 450 Fifth Street NW, Washington, DC 20549. OMB must make a decision concerning the affected collections of information between 30 and 60 days after publication of this release. Consequently, in order to ensure that your comments achieve their fullest effect, you should submit comments to OMB within 30 days of this release's publication.<h>IV. COST-BENEFIT ANALYSISA. Background </h><h>A. Background </h>
+
+ In the Proposing Release, we stated our expectation that the proposal would achieve the same benefits for investors, foreign issuers and others realized when we adopted the mandated EDGAR filing system for domestic filers in 1993. We further noted that we excluded foreign filers from mandated EDGAR filing in 1993 because we believed that they would incur higher costs from the implementation of EDGAR than those faced by domestic filers. As we explained, since then significant technological advances have occurred that, together with the recent modernization of EDGAR, should reduce EDGAR costs for foreign filers. Because of these developments, we believe that it is now appropriate to include foreign filers in our mandated EDGAR system.<SUP> 162 </SUP>
+
+ We solicited comment on the expected benefits and costs and on any others that could result from adoption of EDGAR filing requirements for foreign issuers. We also requested data to quantify the costs and value of the benefits identified.<SUP> 163 </SUP> We received 19 comment letters that expressed general approval of the proposed amendments because of the benefits expected to result from them. Several of these commenters agreed that the expected benefits would be the same as those achieved by mandated EDGAR filing for domestic issuers as described in the Proposing Release. None of these commenters provided data to quantify the value of the benefits identified. 
+
+ Most of the commenters expressed concern about specific aspects of the proposed amendments because of their expected costs that, according to these commenters, would pose an undue burden on foreign issuers.<SUP> 164 </SUP> The aspects that received the most expressions of concern were: 
+
+ the proposed elimination of the "English summary or version" option that would require both an electronic and paper filer to provide a full English translation of a foreign language document required as an exhibit or other attachment to a filing or submission; and 
+
+ the proposed mandated EDGAR submission of all Form 6-K reports other than the Form 6-K submitted to deposit a foreign private issuer's attached annual report to security holders. 
+
+ Only three of these commenters provided data to quantify the costs identified.<SUP> 165 </SUP> All of the data provided concerned the expected costs that would result from the proposed elimination of the option to provide an English summary or version of a foreign language document. One commenter noted that the elimination of this option would cause a foreign issuer to incur additional English translation costs ranging from $2,250 to $4,375 for each 50 page document, such as a material contract, depending on the level of difficulty of the foreign language required to be translated.<SUP> 166 </SUP> Another commenter stated that elimination of the "English summary" option would cause it to incur $5,800 to translate each quarterly or annual report to security holders and an additional $100,000 to translate a foreign offering circular. One other commenter stated that it would incur approximately $200,000 and take two to three months to obtain English translations of Japanese language statutory reports and other documents that it currently does not translate.
+
+ In response to these comments, we have reconsidered and revised the aspects of our rule proposal that have generated the most concern. In particular, we have: 
+
+ amended both the electronic and paper filing rules to permit the use of an English summary for some foreign language documents instead of requiring an English translation for all foreign language documents;<SUP> 167 </SUP> 
+
+ eliminated the written certification requirement regarding the fairness and accuracy of an English translation for both domestic and foreign filers;<SUP> 168 </SUP> 
+
+ amended the electronic filing rules to permit either the electronic or paper submission of a foreign issuer's "statutory" report under Form 6-K in specified circumstances;<SUP> 169 </SUP> 
+
+ amended Form 6-K to permit the submission of an English summary of a statutory report or other foreign language document in specified circumstances in addition to those specified in the electronic and paper filing rules;<SUP> 170 </SUP> and 
+
+ amended Form 6-K to clarify that a foreign private issuer is not required to submit under cover of Form 6-K an offering circular or prospectus that pertains solely to a foreign offering, even when an English translation or English summary is available, if the issuer has already submitted a Form 6-K that reported material information disclosed in the offering circular or prospectus.<SUP> 171 </SUP> 
+
+ Several commenters also expressed concern regarding our proposed mandated EDGAR filing of Form CB when either the filer or the subject company of the Form CB transaction is an Exchange Act reporting company. These commenters noted that, because this proposal would require the EDGAR submission of a Form CB by a foreign filer that was not an Exchange Act reporting company if the subject company was an Exchange Act reporting company, it would discourage the use of the Form CB. Because we found merit in these comments, we have revised our rule amendment to require the electronic filing of a Form CB only when the filer is an Exchange Act reporting company, regardless of the reporting status of the subject company.<SUP> 172 </SUP>
+
+ The above revisions address most of the cost concerns expressed by the commenters. Consequently, while some foreign issuers will incur costs as a result of the adopted amendments, these costs will be less than those that would have resulted under the rule proposal. We further expect that the benefits of the adopted amendments will justify the resulting costs.<h>B. Benefits </h>
+
+ We expect that the adopted amendments will benefit investors, financial analysts and others by increasing the efficiency of retrieving and disseminating information about foreign issuers that file registration statements, periodic reports and other documents with the Commission, to the extent that these documents are not currently available through EDGAR.<SUP> 173 </SUP> The mandated electronic transmission of foreign issuers' securities documents will enable investors to access more quickly registration statements, annual and periodic reports and other filings containing detailed information about foreign issuers. Instead of having to come in person or through an agent to the Commission's public reference room<SUP> 174 </SUP> to conduct a search for a particular foreign issuer filing that is in paper or microfiche, an investor will be able to find and review a foreign issuer filing on any computer with an Internet connection by accessing the EDGAR system through the Commission's web site or through a third party web site that links to EDGAR. The adopted amendments will also enable financial analysts and others to retrieve, analyze and disseminate more rapidly information about reporting foreign issuers. As a result, not only should an investor be able to form more efficient investment decisions about particular foreign issuers, but foreign issuers should benefit from increased market exposure for their securities in the United States. 
+
+ Foreign issuers should further benefit from the increased efficiencies in the filing process resulting from the adopted amendments. By electronically transmitting their securities documents directly to the Commission, foreign issuers will avoid the uncertainties and delays that can occur with the manual delivery of paper filings. Foreign issuers also will benefit from no longer having to submit multiple copies of paper documents to the Commission. Foreign issuers will further benefit from the Commission's longer filing hours for the direct electronic transmission of documents, which will enable foreign issuers to file their securities documents directly via EDGAR until 10 p.m. Eastern Standard Time or Eastern Daylight Saving Time, whichever is in effect. 
+
+ Both foreign issuers and investors should benefit from increased efficiencies in the Commission's storage, retrieval, and analysis of foreign issuer filings, which are expected to result from the adopted amendments. Because the Commission's staff will be able to retrieve and analyze information about foreign filers more readily than under our current paper system, mandated electronic filing for foreign issuers should facilitate both the staff's review of a particular foreign issuer's registration statement or report and its study of issues affecting most foreign filers. For example, the adopted amendments should enable Commission staff to access quickly a foreign registrant's Exchange Act reports that have been incorporated by reference into a Securities Act registration statement that is the subject of review. Because Commission staff must review these incorporated reports when conducting a full review of the Securities Act document, electronic access to all relevant reports should facilitate the timely completion of the review process for a foreign registrant. 
+
+ The adopted amendments will also enable Commission staff to access rapidly registration statements, reports and related correspondence pertaining to other foreign issuers that are in the same geographic region or industry group as a foreign registrant. This electronic access should foster the development of consistent comments on issues that are common to foreign registrants. This should result in better disclosure to the benefit of foreign issuers and the investing public alike.
+
+ Investors and members of the financial community will also benefit from the adopted amendments' requirement that foreign issuers provide full English translations of specified documents because of their importance in understanding the business and financial condition of, and corporate governance matters pertaining to, an issuer. Investors and others will also benefit from the adopted amendments' requirement that a foreign issuer disclose under cover of a Form 6-K new material information mentioned also in a statutory report, foreign offering circular, or other foreign language document before it may submit an English summary of the statutory report or offering circular. This requirement will serve to ensure the prompt dissemination of all material information about a foreign issuer in U.S. capital markets. 
+
+ We are aware that many foreign issuers already post their financial statements in electronic format on their web sites. Nevertheless, we believe that mandated EDGAR filing for foreign issuers is beneficial to investors for the following reasons. 
+
+ Mandated EDGAR filing for foreign issuers will result in the Commission's creation of a central electronic repository for foreign filings that is free to anyone that has access to a computer linked to the Internet. 
+
+ Some foreign issuers have only posted on their web sites financial statements that meet their home country requirements and not the Commission's requirements. 
+
+ Many foreign issuers have electronically formatted their financial statements only in PDF for viewing on their web sites. PDF's search capabilities are not as extensive as those provided by the version of HTML that EDGAR filers may use to format electronically their documents.<SUP> 175 </SUP> Moreover, since HTML is a dominant language of the Internet, Commission staff will be able to upgrade EDGAR data formatting requirements to keep current with Internet standards and to take advantage of improvements in Internet data formats.<h>C. Costs </h>
+
+ We expect that the adopted amendments will result in some costs to foreign issuers. However, for the following reasons, we also expect that only a minority of foreign issuers will bear the full range of costs resulting from adoption of the amendments. 
+
+ The expected costs consist of both initial and ongoing costs. Initial costs are those associated with the purchase of compatible computer equipment and software, including EDGAR software if obtained from a third-party vendor and not from the Commission's web site.<SUP> 176 </SUP> Initial costs also include those resulting from the training of existing employees to be EDGAR proficient or the hiring of additional employees or agents that are already skilled in EDGAR processing. Initial costs further include those associated with the formatting and transmission of a foreign issuer's first document filed on EDGAR. These transmission costs may include those related to subscribing to an Internet service provider. 
+
+ Ongoing costs are those associated with the electronic formatting and transmission of subsequent EDGAR filings, including amendments to a foreign issuer's initial EDGAR filing. An issuer may also incur future costs resulting from the training or hiring of employees regarding updated EDGAR filing requirements. 
+
+ The magnitude of these costs for a foreign issuer will depend on its level of technological proficiency and its previous familiarity with EDGAR filing requirements. For example, of the 1,310 foreign private issuers that were Exchange Act reporting companies as of December 31, 2000,<SUP> 177 </SUP> 244 (approximately 19%) not only did not voluntarily file on EDGAR, but also did not electronically present their financial statements on their web sites or otherwise for public use. Similarly, of the 161 foreign private issuers that became Exchange Act reporting companies during calendar year 2001, 36 (approximately 22%) lacked an informational web site in addition to not filing on EDGAR. These foreign private issuers will incur the full range of initial and other costs associated with electronic filing. Some may have to purchase compatible computer equipment. Some may also have to upgrade their operating and word processing software in addition to obtaining the EDGARLink software. They all will have to hire information technology employees or agents that are knowledgeable about the EDGAR process. Then they will incur the costs associated with formatting and transmitting their documents on EDGAR, which may include the cost of subscribing to an Internet service provider.
+
+ A much larger segment of Exchange Act reporting foreign private issuers already currently electronically format their financial statements in some fashion for public use. Of the total number of Exchange Act reporting companies as of December 31, 2000, 1,066 (approximately 81%) had electronically formatted their financial statements and other material information either for posting on their web site or to meet the requirements of their sovereign securities commission.<SUP> 178 </SUP> Similarly, of the 161 foreign private issuers that became Exchange Act reporting companies in calendar year 2001, 125 (approximately 78%) had electronically formatted their financial statements and other material information for public consumption.<SUP> 179 </SUP> 
+
+ These foreign issuers have already incurred initial costs associated with the preparation of disclosure materials in an electronic format. They have already trained their employees or hired an in-house information technology team or a third party agent, such as an Internet services company or financial printer, to format electronically their financial statements and other documents of interest to investors. After obtaining the EDGAR software,<SUP> 180 </SUP> these persons should be capable of electronically processing reporting foreign issuers' securities documents for the EDGAR system. Consequently, for approximately four-fifths of Exchange Act reporting foreign issuers, the mandated EDGAR requirements should result only in costs related primarily to the electronic formatting of their securities documents in a format compatible with EDGAR and transmission of the EDGAR formatted documents to the Commission.
+
+ Currently EDGAR only accepts documents formatted in HTML 3.2 or in ASCII. Many Exchange Act reporting foreign issuers have formatted their financial statements only in PDF for presentation on their web sites or for submission to foreign securities commissions.<SUP> 181 </SUP> These foreign issuers may incur both initial and ongoing costs associated with presenting their financial statements in an EDGAR-compatible format. 
+
+ However, other reporting foreign issuers have presented their financial statements in some version of HTML on their web sites. These foreign issuers have already trained employees or an agent familiar with formatting in HTML. This previous familiarity with HTML should help to reduce the initial EDGAR costs for these reporting foreign private issuers.<SUP> 182 </SUP> This previous expertise in HTML may also help to lessen the ongoing costs related to updated EDGAR training that incorporates improvements in HTML. 
+
+ Moreover, since HTML is a dominant language used to present information on Internet web sites, reporting foreign issuers that have formatted their financial statements thus far only in PDF may already have trained employees or an agent familiar with formatting in HTML. If so, these foreign issuers should also face reduced initial and ongoing EDGAR costs.<SUP> 183 </SUP> 
+
+ During the calendar year ended December 31, 2000, 232 (approximately 18%) of reporting foreign private issuers voluntarily chose to file their annual reports, registration statements and other securities documents on EDGAR. This segment of voluntary EDGAR filers increased to 269 (approximately 20%) during the calendar year ended December 31, 2001.<SUP> 184 </SUP> For these reporting foreign private issuers, the adopted amendments should result in no initial costs and little or no ongoing costs in addition to those that the foreign issuer had already decided to expend.
+
+ For the minority of foreign issuers that have not yet electronically presented their financial statements for public use,<SUP> 185 </SUP> as well as for other foreign issuers affected by the adopted amendments, we expect that technological advances regarding the Internet and recent modernization of the EDGAR system will help reduce the initial and ongoing costs resulting from mandated EDGAR filing for foreign issuers. For example, today foreign issuers are able to transmit directly their securities documents to the Commission through the Internet with the assistance of an Internet services provider. A foreign issuer should find that this method is less expensive than using a direct dial modem to connect to the EDGAR system with the resultant long distance charges.
+
+ Today there also are numerous financial printers and other information technology specialists that are capable of electronic document processing, including for the EDGAR system, and available on an international basis.<SUP> 186 </SUP> No longer must a foreign issuer rely on a filing agent located in a major city in the United States for its EDGAR needs. This closer proximity of EDGAR knowledgeable agents should reduce the travel, long distance and other initial and ongoing costs shouldered by reporting foreign issuers when preparing their documents for the EDGAR system.
+
+ The adopted amendments require that both electronic and paper filers obtain full English translations for specified foreign language documents while permitting the submission of English summaries for other documents. We do not expect these provisions to increase materially the costs of document preparation and filing for foreign issuers and other affected persons, since the adopted amendments largely codify existing Commission practice regarding the treatment of foreign language documents. Moreover, in response to commenters' concerns, we have adopted amendments that permit the submission of an English summary instead of a full English translation of a statutory report or other foreign language document in specified circumstances. We also have adopted amendments that permit the filing of a statutory report in paper and eliminate the need to submit a foreign offering circular in specified circumstances. These amendments should prevent the incurrence of excessive costs that many commenters feared would result from the proposed requirement to provide a full English translation of all foreign language documents.
+
+ Nevertheless, some foreign issuers may incur costs from our requirement to provide an English translation instead of an English summary of some of the specified documents. Some foreign issuers may also incur costs from our elimination of the option to file a "version" or "brief description" of a foreign language document instead of an English summary or translation for both electronic and paper filings.<SUP> 187 </SUP> Because there has been only limited use of the summary, version or brief description option, we do not expect the above amendments to affect many filers.<SUP> 188 </SUP> Moreover, many agents, including some with EDGAR expertise, provide translation services. The globalization of these agents in recent years should serve to lessen the costs of obtaining their translation services.<SUP> 189 </SUP> 
+
+ The amendments will cause some domestic persons to file on EDGAR their Schedule TOs, Form CBs and Schedule 13D/Gs in connection with tender offers, exchange offers and other transactions involving the securities of foreign private issuers.However, we expect the number of affected domestic persons to be small. During calendar years 2000 and 2001, out of a total number of 245 and 599 Schedule TOs filed, respectively, with the Commission, only 11 (approximately 4%) and 15 (approximately 2.5%) were filed in paper. Of these 11 and 15 paper Schedule TOs filed, respectively, in 2000 and 2001, none and only three (approximately 0.5% out of the total filed) were filed by domestic entities. 
+
+ Similarly, for calendar years 2000 and 2001, out of a total of 13,282 and 12,439 Schedule 13Ds and 13Gs filed, only 279 (approximately 2%) and 284 (approximately 2%) were filed in paper. Of these Schedule 13D/G paper filings, only 7 (approximately .1% of the total filed) and 9 (approximately .1% of the total filed) were filed by domestic companies and pertained to the securities of foreign issuers.<SUP> 190 </SUP> 
+
+ Furthermore, during calendar years 2000 and 2001, of the 95 and 32 Form CBs filed with the Commission, 32 (approximately 34%) and 13 (approximately 41%) were filed by Exchange Act reporting companies. Only four (4%) and five (16%) out of the total number of Form CBs filed, respectively, in calendar years 2000 and 2001 were filed by domestic Exchange Act reporting companies. 
+
+ Some domestic persons may incur costs resulting from the electronic formatting of their securities documents as a result of the amendments. Since domestic persons are already subject to mandated EDGAR filing, they already have trained employees or agents capable of readily electronically formatting their Form TOs, Form CBs or Schedule 13D/Gs for the EDGAR system. This previous familiarity with EDGAR should reduce the costs incurred by these domestic persons as a result of the adopted amendments.
+
+ Based on the foregoing, and as further explained below, we expect that the amendments will result in total costs for foreign issuers of between $8,037,005 to $23,070,333. We have derived this range of costs based on the following assumptions and estimates.
+
+ First, we expect that the amendments will affect 81% of foreign private issuers filing Exchange Act reports because these foreign private issuers have not already voluntarily filed their reports on EDGAR. Conversely, for the 19% of reporting foreign private issuers that already are EDGAR filers, the amendments should result in no additional costs.<SUP> 191 </SUP> 
+
+ Second, we expect that all of the 81% of affected reporting foreign private issuers will incur costs associated with the electronic formatting and electronic transmission of their Exchange Act reports. We also expect that many of these foreign private issuers will also incur similar costs regarding the electronic formatting and filing of their Securities Act documents. 
+
+ Third, we expect that, for 62% of reporting foreign private issuers (or 77% of those affected), the amendments will result primarily in electronic formatting and filing costs. This segment already has achieved technical proficiency based on their past experience electronically formatting their financial and other documents for presentation on their web sites or to meet the requirements of their sovereign securities commissions.<SUP> 192 </SUP> 
+
+ Fourth, for the remaining 19% of reporting foreign private issuers (or 23% of those affected) that have little to no computer, Internet or related technical experience, if they choose to outsource to a financial printer or other filing agent all of the work associated with producing an EDGAR compatible document, we do not expect any significant costs to result other than the electronic formatting and filing costs.<SUP> 193 </SUP> However, if these foreign private issuers attempt to perform much of the EDGAR preparation, filing, and related tasks themselves, the amendments may result in the incurrence of additional, significant costs associated with the purchase or upgrading of computer hardware and software, the subscribing to an Internet service provider, and the hiring of at least one technically proficient employee.
+
+ Fifth, we expect that all of the foreign governments that have Exchange Act reporting obligations will incur electronic formatting and filing costs.
+
+ Sixth, we expect the cost of electronic formatting for all of the affected foreign issuers to be $15 a page regardless of the particular filing. We also expect a filing agent to charge an electronic filing fee of $150 per filing.<SUP> 194 </SUP>
+
+ Seventh, we expect that the elimination of the "English version and brief description" option and adoption of a limited English summary option will result in additional costs to between 2-5% of foreign private issuers when filing their Form 20-Fs, Form 6-Ks, and Form F-1s, depending on the particular form.<SUP> 195 </SUP> 
+
+ Based on these assumptions, we expect the amendments to result in the following costs for the following forms:<SUP> 196 </SUP>
+
+ Form 20-F Annual Reports 81% of 1327 foreign private issuers<SUP> 197 </SUP> = 1075 240 pages (including exhibits)<SUP> 198 </SUP> x $15 per page x 1075 = $3,870,000 $150 (filing fee) x 1075 = + 161,250 $4,031,250 Form 6-K Reports 1075 foreign private issuers x 10 Form 6-Ks per issuer = 10,750 Form 6-Ks 10,750 x 10 pages per Form 6-K x $15 = $1,612,500 Filing fees = + 161,250 $1,773,750 Form F-1 71% x 96 filings<SUP> 199 </SUP> = 68 filings affected 450 pages (including exhibits) per filing x $15 x 68 = $ 459,000 Filing fees = + 10,200 $ 469,200 Form F-2 71% x 4 filings<SUP> 200 </SUP> = 3 filings affected 125 pages (including exhibits) per filing x 3 x $15 = $ 5,625 Filing fees = + 450 $ 6,075 Form F-3 77% x 158 filings<SUP> 201 </SUP> = 122 filings affected 70 pages (including exhibits) per filing x 122 x $15 = $ 128,100 Filing fees = + 18,300 $ 146,400 Form F-4 78% x 238 filings<SUP> 202 </SUP> = 186 filings affected 375 pages (including exhibits) per filing x 186 x $15 = $1,046,250 Filing fees = + 27,900 $1,074,150 Schedule B 28 foreign governments x 150 pages (including exhibits) per filing x $15 = $ 63,000 Filing fees = + 4,200 $ 67,200 Form 18-K 24 filings x 500 pages (including exhibits) per filing x $15 = $ 180,000 Filing fees = + 3,600 $ 183,600 Total above electronic formatting and filing costs = $7,751,625 
+
+ We also expect the elimination of the "English version or brief description" option and the adoption of a limited English summary option to result in the following additional translation costs for a small percentage of foreign private issuers when filing their Form 20-Fs, Form 6-Ks, and Form F-1s:
+
+ Form 20-F 13 additional pages to be translated per filing x $76 per page<SUP> 203 </SUP> = $988 per filing 58 affected filings x $988 = $ 57,304 Form 6-K 8 additional pages to be translated per filing x $76 per page = $608 367 affected filings x $608 = $223,136 Form F-1 13 additional pages to be translated per filing x $76 per page = $988 5 affected filings x $988 = $ 4,940 Total above additional "English translation" costs = $ 285,380 
+
+Based on the foregoing, we expect the amendments to result in approximately $8,037,005 of costs for most reporting foreign issuers.<SUP> 204 </SUP> However, 19% of reporting foreign private issuers expected to be affected by the amendments may incur additional costs because of their lack of technical proficiency. If these foreign private issuers outsource most or all of the work required to prepare a document for EDGAR formatting to a financial printer or other filing agent, we expect that little to no additional costs will result.<SUP> 205 </SUP> 
+
+ However, many of these foreign private issuers may decide to perform some or all of the work required for preparing a document for EDGAR formatting and filing. These filers may also eventually choose to perform some of the tasks related to document printing and distribution. If so, they may incur significant additional charges associated with purchasing or upgrading computer hardware and software, subscribing to an Internet service provider, and hiring at least one technically proficient employee to assist in word processing, Internet, and EDGAR preparation tasks, as follows:
+
+ Additional Costs for the Less Technically Proficient 244 affected foreign private issuers x $1,000 to purchase or upgradea computer system<SUP> 206 </SUP> = $ 244,000 244 x $240<SUP> 207 </SUP> to subscribe to an Internet service provider per year = $ 58,560 244 x $60,372<SUP> 208 </SUP> the annual cost of employing a computer operator = $14,730,768 $15,033,328 
+
+We do not expect each of the 244 affected foreign private issuers to incur all of the above additional costs. It is likely that many filers will choose to hire outside firms to handle some or most of the EDGAR preparation, formatting, transmission, and related tasks. Therefore, we expect the total costs of the amendments to be within the range of $8,037,005<SUP> 209 </SUP> to $23,070,333.<SUP> 210 </SUP> V. PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS 
+
+ Section 23(a)(2) of the Exchange Act requires the Commission, when adopting rules under the Exchange Act, to consider the anti-competitive effects of any rules it adopts. Furthermore, Section 2(b) of the Securities Act and Section 3(f) of the Exchange Act require the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition and capital formation.
+
+ In the Proposing Release, we considered the amendments in light of the standards set forth in the above statutory sections. We solicited comment on whether, if adopted, the proposed amendments would result in any anti-competitive effects or promote efficiency, competition and capital formation. We further encouraged commenters to provide empirical data or other facts to support their views on any anti-competitive effects or any burdens on efficiency, competition or capital formation that might result from adoption of the proposed amendments.<SUP> 211 </SUP>
+
+ While several commenters stated that various aspects of the proposed amendments would result in excessive costs and impose undue burdens on foreign issuers, only one commenter specifically addressed whether the proposed rules would cause anti-competitive effects in the U.S. economy and its capital markets. According to this commenter, the proposed elimination of the English summary option and the proposed mandated EDGAR filing of most Form 6-K reports would result in additional costs for foreign issuers. Given the increased competitiveness among global capital markets, these additional costs could cause foreign issuers to avoid obtaining financing and listing in U.S. capital markets. Consequently, participants in the U.S. financial community and U.S. investors would respectively lose financing and investment opportunities in these foreign companies.
+
+ In response to this concern and others raised by commenters, we have revised the proposed rules to permit the use of an English summary for specified foreign language documents and the paper submission of a statutory report under cover of a Form 6-K in specified circumstances. Because of these changes, among others, the adopted amendments should not result in excessive costs or undue burdens on foreign issuers or cause them to avoid U.S. capital markets. 
+
+ The adopted amendments will enable investors and other interested parties to have the same access to financial and other material information about foreign issuers that have registered securities with the Commission as they currently enjoy with domestic reporting companies. By facilitating the more efficient transmission, retrieval, analysis and dissemination of information contained in foreign issuers' and related third party securities filings with the Commission, the adopted amendments will enhance an investor's ability to make an informed investment decision about a foreign issuer's securities. They also should increase the market access of a reporting foreign issuer's securities in the United States. 
+
+ In addition, the adopted amendments will subject foreign issuers to the same or substantially similar electronic filing costs shouldered by domestic issuers, thereby placing foreign issuers on a more equal footing, and encouraging competition with domestic issuers. We recognize that the adopted amendments may disparately impact some foreign issuers depending on their level of technological proficiency.<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+Under Section 605(b) of the Regulatory Flexibility Act,<SUP> 212 </SUP> our Chairman certified that, when adopted, the proposed amendments would not have a significant economic impact on a substantial number of small entities. We attached this certification as Appendix A to the Proposing Release. While we encouraged written comments regarding this certification, none of the commenters responded to this request.Since the changes made to the proposed amendments will reduce the costs of the amendments for foreign issuers, the adopted amendments should lessen any economic impact on small entities.<h>VII. STATUTORY BASIS AND TEXT OF RULE AMENDMENTS </h>
+
+<END MAIN TEXT>
+
+1 We do not edit personal, identifying information, such as names or electronic mail addresses, from electronic submissions. Submit only information that you wish to make publicly available.
+
+2 17 CFR 232.601.
+
+3 17 CFR 232.10 et seq .
+
+4 17 CFR 230.403 and 230.493.
+
+5 15 U.S.C. 77a et seq .
+
+6 17 CFR 232.100, 232.101, 232.303, 232.306 and 232.311.
+
+7 17 CFR 240.12b-12.
+
+8 15 U.S.C. 78a et seq .
+
+9 17 CFR 239.31, 239.32, 239.33, 239.34, 239.36, 239.37, 239.38, 239.39, 239.40, 239.41, 239.42, and 239.800. Forms F-X and CB are also authorized as Exchange Act forms under 17 CFR 249.250 and 249.480. Form F-X is further authorized under the Trust Indenture Act of 1939 ("Trust Indenture Act") [15 U.S.C. 77aaa et seq .] under Trust Indenture Act Rule 269.5 [17 CFR 269.5].
+
+10 17 CFR 249.220f, 249.240f, and 249.306.
+
+11 17 CFR 240.13e-102, 240.14d-102, and 240.14d-103.
+
+12 We encourage foreign issuers and others who are unfamiliar with our EDGAR system to review the document entitled Electronic Filing and the EDGAR System: A Regulatory Overview (" EDGAR Overview "), which is available on our web site located at www.sec.gov/info/edgar/shtml. The EDGAR Filer Manual, v. 8.2, which contains recently updated instructions for electronic filing, is also available on this web site.
+
+13 Filers can currently submit documents in electronic format by direct transmission, either by using a dial-up modem or Internet service provider, or on magnetic cartridge. EDGAR filers may submit documents formatted either in American Standard Code for Information Interchange ("ASCII") or a version of HyperText Markup Language ("HTML"). Filers also may choose to provide an unofficial copy of a filing in Portable Document Format ("PDF").
+
+14 We initially launched EDGAR as a pilot program in 1984, which enabled companies to participate voluntarily in the EDGAR system until 1993. Release No. 33-6977 (February 23, 1993) [58 FR 14628].
+
+15 Following adoption of the operational EDGAR rules in 1993, we phased in the electronic filing requirements for domestic issuers in discrete groups. The last group of domestic issuers became mandated EDGAR filers in May 1996. Release No. 33-7369 (December 6, 1996) [61 FR 65440].
+
+16 Currently, we require a foreign issuer or person to file a document on EDGAR only if it jointly files a registration statement or some other document with a domestic issuer or if it files a document, such as a Schedule 13D or tender offer schedule, that pertains to a registered domestic issuer. See Rules 101(c) [17 CFR 232.101(c)] and 601(a) of Regulation S-T [17 CFR 232.601(a)].
+
+17 Regulation S-T currently provides for the voluntary participation of foreign issuers in the EDGAR system under Rules 100(a) [17 CFR 232.100(a)] and 601(a) and (b) [17 CFR 232.601(a) and (b)]. However, until recently, some foreign issuer filings could not be made on EDGAR due to the lack of corresponding electronic form types. As of April 8, 2002, programming for these form types has been completed so that foreign issuers may now voluntarily file these forms electronically.
+
+18 Following amendments in 2000, EDGAR filers have been able to use direct transmission by either dial-up modem or the Internet as well as magnetic cartridges as means of transmitting filings electronically to the Commission. Release No. 33-7855 (April 24, 2000) [65 FR 24788].
+
+19 Approximately 81% of the foreign private issuers that were Exchange Act reporting companies as of December 31, 2000, and nearly 78% of the foreign private issuers that became Exchange Act reporting companies in calendar year 2001, had electronically formatted their financial statements and other material information for posting on their web sites or for their sovereign securities commissions or other authorities. See Part IV of this release for further discussion.
+
+20 Approximately 18% and 20% of the foreign private issuers that were Exchange Act reporting companies at the end of, respectively, calendar years 2000 and 2001 elected to file their securities documents on EDGAR. See Part IV below for further discussion. See also Foreign Companies Registered and Reporting With the U.S. Securities and Exchange Commission December 31, 2001 , published by the Office of International Corporate Finance, Division of Corporation Finance (" Reporting Foreign Issuers List "), which is available on our web site at www.sec.gov/divisions/corpfin/internatl/companies.shtml. The comparable list of Exchange Act reporting foreign private issuers as of December 31, 2000 is also available on our web site.
+
+21 As part of an ongoing modernization of the EDGAR system, in addition to enabling issuers to transmit their electronic filings directly via the Internet, we have sought to expand the range of electronic languages recognized by the EDGAR system. Since June 28, 1999, electronic filers have been able to submit their securities documents in either HTML or ASCII. See Release No. 33-7684 (May 17, 1999) [64 FR 27888]. Since May 30, 2000, EDGAR filers have been able to submit HTML documents that include graphic and image files and expanded use of hyperlinks. See Release No. 33-7855 (April 24, 2000) [65 FR 24788].
+
+22 See Release No. 33-8016, 34-44868 (September 28, 2001) [66 FR 50744] ("Proposing Release"), Part I.B, the text surrounding n. 34, for further discussion of information about foreign governments that is currently available on the Internet.
+
+23 "Foreign private issuer" is defined in Securities Act Rule 405 [17 CFR 230.405] and Exchange Act Rule 3b-4 [17 CFR 240.3b-4].
+
+24 "Foreign government" refers to any issuer that is eligible to register securities under Schedule B of the Securities Act, including political subdivisions and some quasi-governmental entities.
+
+25 See Proposing Release.
+
+26 Because three of the letters each represented multiple entities, the 32 comment letters represented a total of 57 distinct entities, including 24 corporations, 12 financial printers and filing agents, 10 law firms and one individual attorney, four accounting and consulting firms, three banks, and three professional associations. These comment letters and a summary of comments ("Comment Summary") prepared by our staff are available for public inspection in our Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549, in File No. S7-18-01. Public comments submitted electronically are also available on our web site located at http:/www.sec.gov/rules/proposed/s71801/shtml. The Comment Summary is also available on our web site.
+
+27 We solicited comment on the adequacy of the current EDGAR filing hours without making a specific proposal about them. See the Proposing Release at Part II.C.
+
+28 New Regulation S-T Rule 100(a) and (c) [17 CFR 232.100(a) and (c)].
+
+29 New Regulation S-T Rule 101(a)(vi) [17 CFR 232.101(a)(vi)].
+
+30 New Regulation S-T Rules 101(b)(1) and 101(b)(7) [17 CFR 232.101(b)(1) and 101(b)(7)]. See also Part II.B.2, below.
+
+31 New Regulation S-T Rule 101(b)(8) [17 CFR 232.101(b)(8)].
+
+32 New Regulation S-T Rule 101(b)(6) [17 CFR 232.101(b)(6)].
+
+33 To lessen paperwork burdens for national securities exchanges, the amendments will also permit national securities exchanges to file Form 25 ("Notification of the Removal From Listing and Registration of Matured, Redeemed or Retired Securities") [17 CFR 249.25] via the EDGAR system on a voluntary basis. See new Regulation S-T Rule 101(b)(10) [17 CFR 232.101(b)(10)] and new Regulation S-T Rule 101(c)(9) [17 CFR 232.101(c)(9)]. Currently, Regulation S-T requires the filing of Form 25 with the Commission in paper format only. See the current version of Regulation S-T Rule 101(c)(9).
+
+34 Regulation S-T Rule 101(d) [17 CFR 232.101(d)] currently codifies this paper filing requirement for first-time EDGAR filers. The adopted amendments will remove this provision in its entirety.
+
+35 New Regulation S-T Rule 306(a) [17 CFR 232.306(a)], new Securities Act Rule 403(c)(3) [17 CFR 230.403(c)(3)], and new Exchange Act Rule 12b-12(d)(3) [17 CFR 240.12b-12(d)(3)]. We have also amended Form 6-K to specify further which foreign language documents require the submission of an English translation and which may be the subject of an English summary. New paragraph D of the General Instructions to Form 6-K.
+
+36 New Regulation S-T Rule 306(a), new Securities Act Rule 403(c)(3)(ii) [17 CFR 230.403(c)(3)(ii)], and new Exchange Act Rule 12b-12(d)(3)(ii)[17 CFR 240.12b-12(d)(3)(ii)].
+
+37 Regulation S-T Rule 306(a) currently provides for this written certification requirement.
+
+38 New Regulation S-T Rule 101(b)(7).
+
+39 New paragraph D of the General Instructions to Form 6-K.
+
+40 New Regulation S-T Rule 306(a), new Securities Act Rule 403(c)(5) [17 CFR 230.403(c)(5)], and new Exchange Act Rule 12b-12(d)(6) [17 CFR 240.12b-12(d)(6)].
+
+41 Regulation S-T also requires the electronic filing of any related correspondence and supplemental information pertaining to a document that is the subject of mandated EDGAR. Regulation S-T Rule 101(a)(1) [17 CFR 232.101(a)(1)]. These materials are not disseminated publicly but are available to the Commission staff.
+
+42 Rule 100(a) currently provides that the electronic filing requirements of Regulation S-T apply to "[r]egistrants whose filings are subject to review by the Division of Corporation Finance except for foreign private issuers and foreign governments."
+
+43 17 CFR 232.100(c). Rule 100(c) currently provides that the electronic filing requirements of Regulation S-T apply to "[a]ny party (including natural persons, foreign private issuers and foreign governments) that files a document jointly with, or as a third party filer with respect to a registrant that is subject to mandated electronic filing requirements." For example, a foreign issuer named as a guarantor and co-registrant on a registration statement that pertains to a domestic issuer must currently file the registration statement and related documents on EDGAR.
+
+44 Rule 601(a) currently excepts foreign private issuers and foreign governments from the mandated EDGAR filing rules unless the foreign issuer is filing a document jointly with, or with respect to, a party that is the subject of mandated electronic filing. Rule 601(b) [17 CFR 232.601(b)] provides that a foreign private issuer or foreign government may choose to file electronically any document not required to be filed under Regulation S-T as long as the EDGAR Filer Manual contains an appropriate electronic form type. Rule 601(c) [17 CFR 232.601(c)] provides that if a foreign private issuer engages in an exchange offer, merger or other business combination with a domestic registrant, and the foreign private issuer files a Securities Act registration statement regarding this transaction, the foreign private issuer may file this registration statement in paper as long as the domestic registrant will not be subject to Exchange Act reporting requirements following the transaction.
+
+45 See Part II.B.5 below.
+
+46 See Part II.B.4 below for a discussion of MJDS forms.
+
+47 Foreign persons may also register securities on Form S-8 [17 CFR 239.16b] andS-11 [17 CFR 239.18] as well as on other registration statement forms normally used by U.S. issuers. Mandated EDGAR filing applies to these registration statements when filed by foreign issuers.
+
+48 Because Regulation S-T Rule 101(c)(15) [17 CFR 232.101(c)(15)] currently lists Form F-6 as a form to be filed in paper only, the adopted amendments will remove this provision and renumber the remaining provisions in Rule 101(c) accordingly.
+
+49 See the new General Instruction II.C to Forms F-1 and F-2, new General Instruction II.D to Form F-3, new General Instruction II.4 to Form F-4, new General Instruction III.C to Form F-6, and new General Instruction D to Form 20-F. We have also slightly modified the General Instructions to Forms F-6 and 20-F to clarify that the pre-existing paragraphs that outline requirements concerning number of copies, paper, printing, or pagination, pertain solely to paper filings under hardship exemptions or as otherwise permitted. See also Regulation S-T Rule 309(a) [17 CFR 232.309(a)]. We have referenced the signature requirements for both electronic and paper filings in General Instruction D to Form 20-F. We also have revised each of the above forms to include a new instruction regarding the treatment of foreign language documents. See Part II.C.7, below.
+
+50 See the Division of Corporation Finance's ("Division's") Current Issues and Rulemaking Projects Quarterly Update , Section V (March 31, 2001), which is located at www. sec.gov/divisions/corpfin/cfcrq032001.htm. See also the Division's International Financial Reporting and Disclosure Issues , Section III(B) (May 1, 2001), which is available at www.sec.gov./divisions/corpfin/internatl/issues0501.htm.
+
+51 Domestic issuers submit responses to comment letters electronically on an ongoing basis. Materials electronically furnished as correspondence become part of a non-public database to which only the Commission's staff has access unless the materials become subject to a successful request under the Freedom of Information Act. See 17 CFR 200.80.
+
+52 We have added a note to Regulation S-T Rule 101(a)(1)(iii) [17 CFR 101(a)(1)(iii)], which generally mandates EDGAR filing for Exchange Act documents, to clarify that foreign private issuers must file or submit their Form 6-K reports in electronic format, except as otherwise permitted by new Regulation S-T Rules 101(b)(1) and 101(b)(7).
+
+53 In addition to an annual report, Exchange Act reporting foreign companies must submit to the SEC on an ongoing basis, under cover of a Form 6-K, press releases, shareholder reports and other materials that contain information that is material to an investment decision. See Form 6-K, General Instruction B. Foreign companies publish these materials in their home countries in accordance with home market law or custom. By requiring foreign companies to file most Form 6-Ks on EDGAR, we will improve public access to these home market materials as well as all SEC-mandated reports, prospectuses and other documents.
+
+54 See new Regulation S-T Rule 101(b)(1).
+
+55 See new Regulation S-T Rule 101(b)(7) and the revised General Instruction C to Form 6-K.
+
+56 See General Instruction B to Form 6-K.
+
+57 See the third paragraph of the current Form 6-K General Instruction B.
+
+58 As discussed in Part II.C.2 below, we are further amending Form 6-K to explain the newly amended rules concerning the treatment of foreign language documents. We also are amending Form 6-K to provide that an issuer that is or will be incorporating by reference all or part of an annual or other report to security holders, or of a paper Form 6-K, into an electronic filing must file the incorporated portion in electronic format as an exhibit to the filing in accordance with new Regulation S-T Rule 303(b) [17 CFR 232.303(b)]. See Part II.B.10, below.
+
+59 15 U.S.C. 77a et seq ., Schedule B.
+
+60 17 CFR 249.218 and 249.318.
+
+61 The required electronic filing instruction serves to inform an investor about the location of a foreign issuer's electronic filings with the Commission and possibly of a foreign issuer's web address as well. This information is particularly useful when a filer incorporates documents by reference into a registration statement. Because there is no form for a Schedule B registration statement, Division staff has outlined procedures for a Schedule B filer that seeks to incorporate by reference. A Schedule B filer that seeks to incorporate by reference must follow the staff's procedures outlined in a no-action letter that relates specifically to that filer. See, for example, the following no-action letters: Province of Nova Scotia (November 1, 1999); Republic of Turkey (October 19, 1999); and Republic of South Africa (October 4, 1999).
+
+62 New Securities Act Rule 493(b) and (c) [17 CFR 230.493(b) and (c)]. As discussed in greater detail in the Proposing Release, Part II.E, the adopted electronic filing instruction is substantially similar to that on Forms F-2, F-3, and F-4, each of which permits a filer to incorporate by reference other securities documents or exhibits into the registration statement. Regulation S-K Rule 101(e) [17 CFR 229.101(e)] further requires a registrant to provide this electronic filing information in any Securities Act registration statement. Since Regulation S-K [17 CFR 229.10-229.1016] generally does not apply to foreign issuers, and since there is no form that corresponds to the Schedule B registration statement, we have revised Rule 493 to provide for this electronic filing instruction. The adopted rule will also reference Regulation S-T's electronic filing requirements.
+
+63 New Securities Act Rule 493(c). See the Commission's interpretive release entitled "Use of Electronic Media," Release No. 33-7856 (April 28, 2000) [65 FR 25843] for guidance on matters arising from the use of hyperlinks in connection with securities documents posted on an issuer's web site.
+
+64 We have amended the MJDS forms to reference Regulation S-T and to add conforming instructions similar to those added to the other Securities Act registration statements and Exchange Act Form 20-F. See also Parts II.C.6 and 7 below for revisions to the MJDS forms concerning the treatment of foreign language documents.
+
+65 17 CFR 240.14d-100.
+
+66 17 CFR 240.14d-101.
+
+67 See Securities Act Rules 801(a)(4) and 802(a)(3) [17 CFR 230.801(a)(4) and 230.802(a)(3)] and Exchange Act Rules 13e-4(h)(8)(iii), 14d-1(c)(3)(iii), and 14e-2(d)[17 CFR 240.13e-4(h)(8)(iii), 240.14d-1(c)(3)(iii), and 240.14e-2(d)].
+
+68 Similar to our treatment of Form 6-K reports (see Form 6-K General Instruction B), our rules currently treat information and documents furnished under Form CB as not "filed" with the Commission or otherwise subject to the liabilities of Exchange Act Section 18 [15 U.S.C. 78r]. See Form CB General Instructions I.B. The proposed amendments would not alter this treatment.
+
+69 See Proposing Release, Part II.B.4, discussing proposed Regulation S-T Rule 101(a)(1)(vi).
+
+70 New Regulation S-T Rule 101(b)(8) [17 CFR 232.101(b)(8)].
+
+71 Similar to our amendments of other Securities Act and Exchange Act forms, we also are amending Form CB to reflect the new EDGAR filing rules. The revisions to Form CB include clarifying that the instructions pertaining to number of copies, printing, pagination, and manual signatures apply solely to paper filings. For additional revisions to Form CB concerning the treatment of foreign language documents, see Part II.C.7 below.
+
+72 In addition to an MJDS filer, the following persons must file a Form F-X: a non-U.S. person filing tender offer documents on Schedule 13E-4F, 14D-1F, or 14D-9F; a foreign trustee regarding securities registered on an MJDS Securities Act registration statement; a Canadian issuer filing an offering statement under Regulation A [17 CFR 230.251-230.263] or a Form SB-2 registration statement [17 CFR 239.10]; and a foreign issuer or other non-U.S. person filing Form CB in connection with a tender offer, rights offering or business combination. See 17 CFR 239.42(d), (e), (f), and (g). In addition, under the Trust Indenture Act, specified Canadian trust companies acting as trustees under an indenture qualified or to be qualified under the Trust Indenture Act must file a Form F-X with the Commission. Trust Indenture Act Rule 260.10a-5(b) [17 CFR 260.10a-5(b)].
+
+73 Securities Act Rule 489 [17 CFR 230.489].
+
+74 New Regulation S-T Rules 101(a)(vii) [17 CFR 232.101(a)(vii)] and 101(b)(9)[17 CFR 232.101(b)(9)].
+
+75 New Regulation S-T Rule 101(b)(9)(i) [17 CFR 232.101(b)(9)(i).]
+
+76 17 CFR 239.42(f) and 17 CFR 230.263(a).
+
+77 New Regulation S-T Rule 101(b)(9)(ii) [17 CFR 232.101(b)(9)(ii)].
+
+78 Regulation S-T Rule 101(a)(1)(ii) [17 CFR 232.101(a)(1)(ii)].
+
+79 15 U.S.C. 77aaa et seq . In contrast, Regulation S-T Rule 101(c)(5) [17 CFR 232.101(c)(5)] currently requires the filing on paper of applications for exemptive relief pursuant to Sections 304 and 310 of the Trust Indenture Act [15 U.S.C. 77ddd and 77jjj, respectively]. This provision applies to both domestic and foreign filers and will remain the same under the adopted amendments.
+
+80 17 CFR 269.1 and 269.2.
+
+81 17 CFR 269.3.
+
+82 Rule 7a-1 [17 CFR 260.7a-1] under Trust Indenture Act Section 307(a)[15 U.S.C. 77ggg] authorizes the use of Form T-3.
+
+83 17 CFR 269.9.
+
+84 Regulation S-T Rule 101(b)(6) [17 CFR 232.101(b)(6)]. The World Bank must submit these reports under the Rules and Regulations Pursuant to Section 15(a) of the Bretton Woods Agreements Act [17 CFR 285] and, in particular, 17 CFR 285.2 and 285.3.
+
+85 New Regulation S-T Rule 232.101(b)(6)(i) through (vi) [17 CFR 232.101(b)(6)(i) through 232.101(b)(6)(vi)].
+
+86 See General Rules and Regulations Pursuant to Section 11(a) of the Inter-American Development Bank Act [17 CFR 286].
+
+87 See General Rules and Regulations Pursuant to Section 11(a) of the Asian Development Bank Act [17 CFR 287].
+
+88 See General Rules and Regulations Pursuant to Section 9(a) of the African Development Bank Act [17 CFR 288].
+
+89 See General Rules and Regulations Pursuant to Section 13(a) of the International Finance Corporation Act [17 CFR 289].
+
+90 See General Rules and Regulations Pursuant to Section 9(a) of the European Bank for Reconstruction and Development Act [17 CFR 290].
+
+91 17 CFR 232.102.
+
+92 Rule 102(a) of Regulation S-T [17 CFR 232.102(a)].
+
+93 This is consistent with the treatment of domestic issuers. Regulation S-T Rule 102(c) [17 CFR 232.102(c)].
+
+94 New Regulation S-T Rule 303(b) [17 CFR 232.303(b)].
+
+95 See the current version of Regulation S-T Rule 303(b) and Note 2 of General Instruction G to the Form 10-K annual report. We are adding a similar Note to Form 6-K.
+
+96 17 CFR 232.201 or 232.202. An EDGAR filer may obtain a temporary hardship exemption if it experiences unanticipated technical difficulties that prevent the timely preparation and submission of an electronic filing. See 17 CFR 232.201(a). An EDGAR filer may apply for a continuing hardship exemption if it cannot file all or part of a filing without undue burden or expense. See 17 CFR 232.202(a).
+
+97 A filer obtains a temporary hardship exemption by filing a properly legended paper copy of the filing under cover of Form TH pursuant to Regulation S-T Rule 201. In contrast to this self-executing process, a filer can only obtain a continuing hardship exemption by submitting a written application pursuant to Regulation S-T Rule 202, upon which the Commission staff must then act pursuant to delegated authority.
+
+98 In addition to pursuing a hardship exemption, a filer that has in good faith attempted to submit a filing in a timely manner but has experienced a delay due to technical conditions beyond its control may request a filing date adjustment pursuant to Regulation S-T Rule 13(b) [17 CFR 232.13(b)].
+
+99 Rule 14 of Regulation S-T [17 CFR 232.14]. We have amended Forms 6-K, CB, and F-X to state that if filing the form under a hardship exemption, the filer must include the legend required by Regulation S-T Rule 201 or 202 on the form's cover page.
+
+100 17 CFR 240.12g3-2(b). This rule provides an exemption from Section 12(g) of the Exchange Act [15 U.S.C. 78 l (g)] for foreign private issuers that have not chosen to access the U.S. capital markets. After providing the Commission with information about its home country disclosure requirements and U.S. shareholder information, a qualifying applicant receives an exemption from Exchange Act reporting upon the condition that it furnish to the Commission on an ongoing basis its securities documents required to be furnished or that it furnishes voluntarily in its home country.
+
+101 15 U.S.C. 78 l (h). We require the filing of Section 12(h) exemptive applications in paper pursuant to Regulation S-T Rule 101(c)(17) [17 CFR 232.101(c)(17)]. Although the basis for Exchange Act Rule 12g3-2(b) is Exchange Act Section 12(g)(3) [15 U.S.C. 78 l (g)(3)], this statutory section is analogous to Exchange Act Section 12(h).
+
+102 Regulation S-T Rule 306(a) [17 CFR 232.306(a)].
+
+103 See current Securities Act Rule 403(c) and Exchange Act Rule 12b-12(d).
+
+104 See Proposing Release, Parts II.D.1 and 2 for a discussion of, and reasons for, this proposal.
+
+105 New Regulation S-T Rule 306(a).
+
+106 Securities Act Rule 403(c) and Exchange Act Rule 12b-12(d) (referred to as the"foreign language rules"). The sole exception relates to the treatment of a foreign government's annual budget. See new Regulation S-T Rule 306(c) and Part II.C.5, below, for further discussion.
+
+107 Accordingly, we will continue to require investment companies and other persons making filings or submissions to the Division of Investment Management to submit full English translations of foreign language prospectuses or other foreign language documents included in their filings or submissions.
+
+108 New Securities Act Rule 403(c)(2) [17 CFR 230.403(c)(1)] and new Exchange Act Rule 12b-12(d)(2) [17 CFR 240.12b-12(d)(1)].
+
+109 17 CFR 230.406.
+
+110 17 CFR 240.24b-2.
+
+111 See Form 20-F Exhibit Instructions 4(b)(i) and (ii), respectively, for a description of related party contracts and substantial dependency contracts. As used in the foreign language rules, these two categories of contracts have the same meaning as the contracts described in the above Form 20-F exhibit instructions.
+
+112 See Proposing Release, Part II.D.2., the text following n.111.
+
+113 New Securities Act Rule 403(c)(2) and Exchange Act Rule 12b-12(d)(2).
+
+114 New Securities Act Rule 403(c)(3)(i) [17 CFR 230.403(c)(2)(i)] and new Exchange Act Rule 12b-12(d)(3)(i) [17 CFR 240.12b-12(d)(2)(i)].
+
+115 New Securities Act Rule 403(c)(3)(ii) and new Exchange Act Rule 12b-12(d)(3)(ii). A filer will also have to identify a submission as either an English summary or English translation of a foreign language document. New Securities Act Rule 403(c)(4) [17 CFR 230.403(c)(4)] and new Exchange Act Rule 12b-12(d)(4) [17 CFR 240.12b-12(d)(4)].
+
+116 See, for example, Telephone Interpretation No. M.6. in the Division of Corporation Finance Manual of Publicly Available Telephone Interpretations (July 1997), which is available on our web site located at http://www.sec.gov/interps/telephone/1997manual.txt. This telephone interpretation provides that an English summary must summarize each section of an exhibit just as an English translation must translate each section.
+
+117 We discussed these reasons in Proposing Release, Part II.D.2, the text following n.110.
+
+118 Current General Instruction D to Form 6-K.
+
+119 This is in addition to the list of documents specified in Exchange Act Rule 12b-12(d)(2).
+
+120 See the new General Instruction D to the Form 6-K attached to this release. We have listed annual audited and interim consolidated financial information on Form 6-K even though it is also listed under Exchange Act Rule 12b-12(d)(2) for ease of use.
+
+121 This is in addition to the documents specified in Exchange Act Rule 12b-12(d)(2)[17 CFR 240.12b-12(d)(2)].
+
+122 Under the newly revised Form 6-K, a parent foreign private issuer will be able to submit in paper an English summary of a statutory report that contains, for example, unconsolidated financial information, as long as it has already electronically submitted a press release disclosing any new, material information contained in the statutory report. See new Regulation S-T Rule 101(b)(7) and new General Instruction C to Form 6-K.
+
+123 New General Instruction D to Form 6-K. For example, if a foreign issuer making a foreign offering that is material uses an offering circular containing material information about the issuer that is reflected in an already filed Form 20-F or Form 6-K, the issuer could submit on Form 6-K a summary of the offering. This instruction further provides that any submitted English summary under Form 6-K must meet the requirements of Exchange Act Rule 12b-12(d)(3)(ii).
+
+124 See Part II.C.1 above, the text preceding n. 117.
+
+125 New Regulation S-T Rule 306(b) [17 CFR 232.306(b)]. We are also amending Regulation S-T Rule 311, which governs the use of Form SE, to reflect this amendment. New Regulation S-T Rule 311(f) [17 CFR 232.311(f)]. We are further amending Securities Act Rule 403(c) and Exchange Act Rule 12b-12(d) to permit a paper filer to submit a copy of the unabridged foreign language document along with an English summary or English translation. New Securities Act Rule 403(c)(4) [17 CFR 230.403(c)(4)] and new Exchange Act Rule 12b-12(d)(4) [17 CFR 240.12b-12(d)(4)]. Finally, as proposed, we are amending the above paper filing rules and Regulation S-T Rule 306 to state that a filer must provide a copy of any foreign language document upon the request of Commission staff.
+
+126 Current Regulation S-T Rule 306(a).
+
+127 New Regulation S-T Rule 306(a), new Securities Act Rule 403(c), and new Exchange Act Rule 12b-12(d).
+
+128 The primary antifraud provisions are in Securities Act Sections 11, 12(a)(2), 15, and 17 [15 U.S.C. 77k, 77 l (a)(2), 77o, and 77q] and Exchange Act Sections 10, 18, and 20 [15 U.S.C. 78j, 78r, and 78t]. The primary signature provisions are in Securities Act Section 6(a) [15 U.S.C. 77f(a)] and in Securities Act Rule 402(e), Exchange Act Rule 12b-11(d), and Regulation S-T Rule 302.
+
+129 Accordingly, we are amending Rule 311 to allow the paper filing of the foreign language annual budget exhibit under cover of Form SE. New Regulation S-T Rule 311(h) [17 CFR 232.311(h)]. We are further amending Exchange Act Rule 12b-12(d)(5) to require the submission of the foreign language annual budget exhibit with a paper filing when no English translation is available. New Exchange Act Rule 12b-12(d)(5) [17 CFR 240.12b-12(d)(4)].
+
+130 New Regulation S-T Rule 306(c). As explained in the Proposing Release, Form 18-K instructs a foreign government to submit its annual budget in the foreign language if no English translation is available. Form 18-K, Exhibit Instructions, paragraph (c) as discussed in Proposing Release, Part II.D.1., the text accompanying n. 104.
+
+131 For the most part, these commenters urged us to permit the filing of foreign language documents in PDF. Others requested that we permit the submission of unabridged foreign language documents in paper under specified circumstances. See Part II.C.3 above.
+
+132 See current Regulation S-T Rule 306(b). See also Release No. 33-7855.
+
+133 New Regulation S-T Rule 306(d) [17 CFR 230.306(d)]. We also are adopting conforming amendments to the corresponding Securities Act and Exchange Act rules in order to permit the same dual language use in MJDS documents filed in paper. New Securities Act Rule 403(c)(5) [17 CFR 230.403(c)(5)] and new Exchange Act Rule 12b-12(d)(6) [17 CFR 240.12b-12(d)(6)].
+
+134 See new General Instructions II.D. to Forms F-1 and F-2, new General Instruction II.E. to Form F-3, new General Instruction D.5. to Form F-4, new General Instruction D. and Instructions as to Exhibits to Form 20-F, and General Instruction D to Form 6-K.
+
+135 See new General Instruction II.G. to Form F-7, new General Instruction IV.I. to Form F-8, new General Instructions II. I to Forms F-9 and F-80, new General Instruction II.J. to Form F-10, new General Instruction II.E. to Schedules 13E-4F and 14D-1F, and new General Instruction II.C. to Schedule 14D-9F.
+
+136 Unlike the other Securities Act and Exchange Act documents, the MJDS instructions state that a filer may provide an English translation or summary of a foreign language document if permitted by the rules of the applicable Canadian securities adminsitrator. Since the Canadian requirements govern most of the form and content of the MJDS documents, we have determined that the Canadian rules should govern the treatment of foreign language documents as well.
+
+137 Form CB, Part II(1).
+
+138 Form CB, Part II (2).
+
+139 Form CB, Part I, Item 1(a).
+
+140 Compare Part I, Item 1(a) with Part II (2).
+
+141 New Regulation S-T Rule 311(f).
+
+142 See the New Note following Part II (2) of Form CB and new Part II(1) of Form CB.
+
+143 The effective date of the new rules will occur over one year and one month from the date that we first proposed them on September 28, 2001. Foreign issuers have had since the proposing date to begin learning about the EDGAR requirements. The length of time that will have elapsed between the dates of the proposing and adopting releases reinforces our view that the six month transition period is sufficient.
+
+144 See Section 5.11.4 of the EDGAR Filer Manual (Release 8.2), Volume I for further information about test filings on EDGAR.
+
+145 See Proposing Release, Part II.H.
+
+146 17 CFR 230.430A.
+
+147 17 CFR 230.424.
+
+148 Regulation S-T Rule 12(c) [17 CFR 232.12(c)]. See also Securities Act Rule 110(c) [17 CFR 230.110(c)] and Exchange Act Rule 0-2(c) [17 CFR 240.0-2(c)].
+
+149 Regulation S-T Rule 12(b) [17 CFR 232.12(b)]. See also Securities Act Rule 110(b) [17 CFR 230.110(b)] and Exchange Act Rule 0-2(b) [17 CFR 240.0-2(b)].
+
+150 Regulation S-T Rule 13(a)(2) [17 CFR 232.13(a)(2)]. The one exception pertains to filings made pursuant to Securities Act Rule 462(b) [17 CFR 230.462(b)], which automatically become effective upon filing. If made between 5:30 p.m. and 10 p.m., these Rule 462(b) filings are deemed filed on the same business day. See Regulation S-T Rule 13(a)(3) [17 CFR 232.13(a)(3)].
+
+151 Proposing Release, Part II.C.
+
+152 This requirement is set forth in Regulation S-T Rule 101(d) [17 CFR 232.101(d)].
+
+153 The rule amendments will remove Regulation S-T Rule 101(d) in its entirety. This amendment will become effective on the date of publication in the Federal Register.Under the Administrative Procedure Act ("APA"), notice of proposed rulemaking is not required for "rules of agency. . .procedure." 5 U.S.C. 553(b)(A). The requirement that an EDGAR filer submit a paper copy of its first electronic filing to the Commission was solely for the Commission's benefit. Under the APA, the Commission may establish an effective date of less than 30 days after the publication of the amendments if the amendment "relieves a restriction." 5 U.S.C. 553(d)(1). Since eliminating the requirement of a paper filing "relieves a restriction," the amendment is effective upon publication in the Federal Register. For similar reasons, we are adopting newRegulation S-T Rules 101(b)(10) and 101(c)(9), which concern the voluntary EDGAR filing of Form 25, without notice and comment. These rules are also effective upon publication in the Federal Register.
+
+154 44 U.S.C. 3501 et seq .
+
+155 Publication and submission were in accordance with 44 U.S.C. §3507(d) and 5 CFR 1320.11.
+
+156 The adopted amendments still eliminate the "English version" option under Securities Act Rule 403(c) and Exchange Act Rule 12b-12(d), as proposed. They also still eliminate the "brief description" option in General Instruction D to Form 6-K, as proposed.
+
+157 17 CFR 239.63, 239.62, 239.64 and 239.65. These forms are also promulgated as Exchange Act forms under 17 CFR 249.446, 249.444, 249.445, and 249.447.
+
+158 17 CFR 239.31.
+
+159 17 CFR 249.220f.
+
+160 See Proposing Release, Part V for a description of and the burden estimates for Forms ID, ET, SE and TH.
+
+161 14,661 is the number of Form 6-Ks filed in calendar 2001.
+
+162 Proposing Release, Part III.
+
+163 Proposing Release, Part III.C.
+
+164 Of the 26 commenters that expressed such concerns, 14 also noted the benefits that would result from the adoption of the proposal.
+
+165 Comment Summary at Part III.B.3.
+
+166 This commenter further stated that, for each foreign language document required to be translated because of the proposed amendments, a foreign issuer would have to pay a bilingual attorney to proofread the translated document since professional translators generally lack the legal or technical expertise to understand much of the text that they are asked to translate. Although we believe that many foreign companies rely on in-house counsel to perform at least some of this review, according to this commenter, the cost of this legal layer of review would exceed the cost of the translation services themselves in most cases.
+
+167 New Regulation S-T Rule 306(a), new Securities Act Rule 403(c)(1) and (3), and new Exchange Act Rule 12b-12(d)(1) and (3).
+
+168 Ten commenters specifically objected to this written certification requirement, which is currently codified at Regulation S-T Rule 306(a).
+
+169 New Regulation S-T Rule 101(b)(7). The specified circumstances are that the report cannot be a press release, cannot have been or required to be circulated to the foreign private issuer's security holders, and, if discussing a material event, must have already been the subject of a Form 6-K filed on EDGAR.
+
+170 New paragraph D of the General Instructions to Form 6-K. The specified circumstances are that the report cannot be a press release and cannot have been or required to be circulated to the foreign private issuer's security holders. At the request of commenters, we have further amended Form 6-K to clarify that a statutory report that discloses only unconsolidated financial information of a parent company may be the subject of an English summary.
+
+171 New paragraph D of the General Instructions to Form 6-K.
+
+172 New Regulation S-T Rule 101(a)(1)(vi).
+
+173 Approximately 20% of Exchange Act reporting foreign issuers voluntarily filed their securities documents on EDGAR in calendar 2001.
+
+174 The Commission's public reference room is located in its Washington, D.C. headquarters.
+
+175 PDF is based on a proprietary data format for which only a few software programs with search capabilities are commercially available. In contrast, there are a variety of methods, languages and software available for searching a HTML document.
+
+176 Once a first-time EDGAR filer has filed a Form ID to obtain its EDGAR access codes, it can download for free the EDGARLink software from the Commission's web site. The EDGAR filing manual is also available for downloading at our web site. Filers may also purchase the EDGARLink software and filer manual through the Commission's Public Reference Room and from certain third party vendors. See the EDGAR Overview at Section C(1).
+
+177 See Reporting Foreign Issuers List .
+
+178 This amount includes the 481 Canadian public companies (approximately 37% of reporting foreign private issuers as of December 31, 2000) that are required by the Canadian Securities Administrators to file their securities documents electronically on Canada's System for Electronic Document Analysis and Retrieval ("SEDAR"). This amount further includes 585 non-Canadian foreign private issuers (approximately 45% of reporting foreign private issuers as of calendar year 2000 year end) that have chosen to post on their web sites their most recent and historical financial statements either as part of their annual or periodic reports or standing alone. The 80% figure also includes the foreign private issuers that were Exchange Act reporting companies as of December 31, 2000 and had filed their securities documents on EDGAR.
+
+179 Approximately 56% of the 125 reporting foreign issuers were Canadian.
+
+180 As previously mentioned, since the EDGARLink software is now available on the Commission's web site, for most new EDGAR filers, the cost of obtaining the EDGAR software will be insignificant.
+
+181 For example, the Canadian Securities Administrators require that Canadian public companies file their securities documents in PDF on SEDAR. See Canada's National Instrument 13-101 (September 7, 1999).
+
+182 Even if foreign issuers are unfamiliar with HTML, there are many software packages available that will translate their documents into ASCII or HTML.
+
+183 Furthermore, since under Regulation S-T Rule 104 [17 CFR 232.104], we allow EDGAR filers to file a PDF version of a document as an unofficial copy, foreign issuers that present their financial statements in PDF for non-EDGAR purposes will not incur additional formatting costs when exercising the option to file an unofficial PDF version on EDGAR.
+
+184 The total number of foreign private issuers that were Exchange Act reporting companies as of December 31, 2001 was 1344.
+
+185 This minority would include foreign individuals who only file Schedules 13D or 13G.
+
+186 The web sites of each of three large financial printers reveal that, either directly or through affiliates, these financial printers maintain offices in 20-40 different countries.
+
+187 The brief description option appears in the current version of General Instruction D to Form 6-K.
+
+188 During calendar years 2000 and 2001, out of 940 filings by non-English speaking, reporting foreign issuers examined, depending on the type of filing, only 2%-5% used the English summary, version or brief description option.
+
+189 For example, the web sites of the three large financial printers referred to in the preceding footnote advertise their translation services as an integral part of their businesses.
+
+190 We also expect that the amendments will not have a significant impact on affected domestic entities. According to two large financial printers, the average cost of electronically formatting and transmitting a Schedule 13D or 13G on EDGAR is $250.
+
+191 These figures are based on the averages of the percentages of foreign private issuers filing on EDGAR in calendar years 2000 and 2001.
+
+192 This segment increases to 81% of foreign private issuers when including those reporting foreign private issuers that already file their securities documents on EDGAR.
+
+193 According to a representative of a large financial printer, most companies elect to hire a filing agent to perform most or all of the work required to produce a Securities Act or Exchange Act document, including typesetting the initial document, EDGAR formatting and filing, and related tasks such as printing and document distribution. For these companies, the cost of preparing a document for EDGAR filing is included in the amount charged for EDGAR formatting.
+
+194 According to a representative of a large financial printer, $15 per page is the typical rate charged for most companies. These companies have elected to hire the filing agent to perform most of the document production tasks, including EDGAR formatting. This representative further stated that $150 was the typical EDGAR filing fee charged for most types of Securities Act and Exchange Act documents.
+
+195 Based on an examination of 940 documents filed by non-English speaking issuers in 2000 and 2001, 5.0% of Form 20-F filers, 3.5% of Form F-1 filers, and 2.5% of Form 6-K filers used the "English summary, version or brief description" option.
+
+196 We expect these forms to generate most of the EDGAR costs for foreign issuers. We have not included Schedules TO, 13D and 13G in this list because, as discussed above, based on the small percentage of these documents filed in paper in calendar years 2000 and 2001, we expect the costs incurred in electronically formatting and filing these documents to be relatively insignificant. We also have not included Form CB in this list since a majority of the Form CBs filed in 2000 and 2001 were by non-Exchange Act reporting companies, which are not subject to mandated EDGAR filing. Similarly, we have not quantified the EDGAR costs that domestic issuers are expected to incur as a result of the amendments due to the insignificant number of domestic filings expected to be affected.
+
+197 1327 is the average of the number of reporting foreign private issuers in calendar years 2000 and 2001.
+
+198 This estimate of the average number of pages of a Form 20-F annual report, as well as the average page estimates of Forms 6-K, F-1, F-2, F-3, F-4, Schedule B, and Form 18-K, are based on an examination of actual filings.
+
+199 96 is the average of the number of Form F-1s filed in 2000 and 2001. 71% of these Form F-1s were paper filings.
+
+200 Four is the average of the number of Form F-2s filed in 2000 and 2001. 71% of these Form F-1s were paper filings.
+
+201 158 is the average of the Form F-3s filed in 2000 and 2001. 77% of these Form F-3s were paper filings.
+
+202 238 is the average of the Form F-4s filed in 2000 and 2001. 78% of these Form F-4s were paper filings.
+
+203 The rate of $76 per page assumes that an outside firm performs 75% of the English translation work at a rate of $75 per page. The $75 per page rate is an average of English translation rates for different foreign language documents that attorneys representing foreign clients have stated are typical. The $76 per page rate also assumes that a company's in-house counsel performs 25% of the English translation work at a rate of $80 per hour. The $80 per hour rate derives from a median salary of $106,500 for a company associate or assistant general counsel in the New York City metropolitan area, according to the Report On Management & Professional Earnings in the Securities Industry , published by the SIA, October 2001. We have multiplied $106,500 by 1.35 to derive the annual cost to a company of employing an associate or assistant general counsel. We then have divided this annual cost ($143,775) by 1800 to derive a per hour cost of $80. Finally, we have added .75 x $75 and .25 x $80 to derive a blended rate of $76 per page.
+
+204 This figure ($7,751,625 + $285,380) applies to the 81% of reporting foreign private issuers and all of the reporting foreign governments expected to be affected.
+
+205 See n. 193, above.
+
+206 The $1,000 cost is based on suggested prices for basic computer systems stated in computer publications.
+
+207 The $240 rate derives from a monthly rate of $20 for one year, which is typical of the subscription fees quoted for Internet service providers in computer publications.
+
+208 According to the Report on Office Salaries in the Securities Industry , published by the SIA, in October 2001, the mean annual salary for a senior computer operator in the New York City metropolitan area is $44,720. We have multiplied this amount by 1.35 to derive the cost to a company of employing a senior computer operator for a year.
+
+209 This amount assumes that the 19% of foreign private issuers lacking technical proficiency will outsource most or all of the EDGAR preparation, formatting, filing, and related tasks.
+
+210 This amount assumes that, in addition to the $8,037,005 of costs, the 19% of foreign private issuers lacking technical proficiency will incur the maximum of estimated additional costs of $15,033,328.
+
+211 We also requested empirical information regarding the potential impact of the proposed amendments on the economy on an annual basis for purposes of the Small Business Regulatory Enforcement Fairness Act of 1996. We received no comment letters that addressed this issue.
+
+212 5 U.S.C. 605(b).
+
+213 15 U.S.C. 77f, 77g, 77h, 77j, and 77s(a).
+
+214 15 U.S.C. 78c, 78 l , 78m, 78n, 78o(d), 78w, and 78 ll .
+
+215 15 U.S.C. 77ddd, 77eee, 77ggg, 77jjj and 77sss.  http://www.sec.gov/rules/final/33-8099.htm

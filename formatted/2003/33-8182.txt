@@ -1,0 +1,865 @@
+https://www.sec.gov/rules/final/33-8182.htm
+
+	I.0.0.0: I. Background
+
+	II.0.0.0: II. Overview of Proposals, Comments and Amendments
+
+		II.A.0.0: A. Proposing Release
+
+		II.B.0.0: B. Overview of Comments and Amendments
+
+			II.B.1.0: 1. Proposed Definition of "Off-Balance Sheet Arrangements"
+
+			II.B.2.0: 2. Proposed Disclosure Threshold
+
+			II.B.3.0: 3. Proposed Disclosure Requirements
+
+			II.B.4.0: 4. Proposed Tabular and Textual Disclosure
+
+	III.0.0.0: III. Discussion Of Amendments
+
+		III.A.0.0: A. Definition of "Off-Balance Sheet Arrangement"
+
+			III.A.1.0: 1. Guarantees
+
+			III.A.2.0: 2. Retained or Contingent Interests
+
+			III.A.3.0: 3. Certain Derivative Instruments
+
+			III.A.4.0: 4. Variable Interests
+
+		III.B.0.0: B. Disclosure Threshold
+
+		III.C.0.0: C. Disclosure about Off-Balance Sheet Arrangements
+
+		III.D.0.0: D. Tabular Disclosure of Contractual Obligations
+
+		III.E.0.0: E. Presentation of Disclosure
+
+			III.E.1.0: 1. Separate Disclosure Sections
+
+			III.E.2.0: 2. Language and Format
+
+			III.E.3.0: 3. Cross-Referencing to the Financial Statements
+
+		III.F.0.0: F. Effect of Amendments on Commission Statement
+
+		III.G.0.0: G. Application to Foreign Private Issuers
+
+		III.H.0.0: H. Safe Harbor for Forward-Looking Information
+
+	IV.0.0.0: IV. Paperwork Reduction Act
+
+		IV.A.0.0: A. Background
+
+		IV.B.0.0: B. Paperwork Burden Estimates
+
+		IV.C.0.0: C. Responses to Request for Comments
+
+	V.0.0.0: V. Cost-Benefit Analysis
+
+		V.A.0.0: A. Background
+
+		V.B.0.0: B. Objectives of Amendments
+
+		V.C.0.0: C. Regulatory Approach
+
+		V.D.0.0: D. Benefits of the Amendments
+
+		V.E.0.0: E. Costs of Amendments
+
+		V.F.0.0: F. Foreign Private Issuers
+
+		V.G.0.0: G. Small Business Issuers
+
+	VI.0.0.0: VI. Effects on Efficiency, Competition and Capital Formation
+
+	VII.0.0.0: VII. Final Regulatory Flexibility Analysis
+
+		VII.A.0.0: A. Need for the Amendments
+
+		VII.B.0.0: B. Significant Issues Raised by Public Comment
+
+		VII.C.0.0: C. Small Entities Subject to the Amendments
+
+		VII.D.0.0: D. Projected Reporting, Recordkeeping and Other Compliance Requirements
+
+		VII.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VIII.0.0.0: VIII. Statutory Authority and Text of Rule Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Disclosure in Management's Discussion and Analysis about Off-Balance Sheet Arrangements and Aggregate Contractual Obligations Securities And Exchange Commission 17 CFR Parts 228, 229 and 249 [Release Nos. 33-8182; 34-47264; FR-67
+
+International Series Release No. 1266
+
+File No. S7-42-02] RIN 3235-AI70 Disclosure in Management's Discussion and Analysis about Off-Balance Sheet Arrangements and Aggregate Contractual Obligations 
+
+ Agency : Securities and Exchange Commission.
+
+ Action : Final rule.
+
+ Summary : As directed by new Section 13(j) of the Securities Exchange Act of 1934, added by Section 401(a) of the Sarbanes-Oxley Act of 2002, we are adopting amendments to our rules to require disclosure of off-balance sheet arrangements. The amendments require a registrant to provide an explanation of its off-balance sheet arrangements in a separately captioned subsection of the "Management's Discussion and Analysis" ("MD&A") section of a registrant's disclosure documents. The amendments also require registrants (other than small business issuers) to provide an overview of certain known contractual obligations in a tabular format. 
+
+ Dates : Effective Date : April 7, 2003. Compliance Date : Registrants must comply with the off-balance sheet arrangement disclosure requirements in registration statements, annual reports and proxy or information statements that are required to include financial statements for their fiscal years ending on or after June 15, 2003. Registrants (other than small business issuers) must include the table of contractual obligations in registration statements, annual reports, and proxy or information statements that are required to include financial statements for the fiscal years ending on or after December 15, 2003. Registrants may voluntarily comply with the new disclosure requirements before the compliance dates. 
+
+ For Further Information Contact : Questions about this release should be referred to Andrew Thorpe, Special Counsel, Division of Corporation Finance (202-942-2910), Jenifer Minke-Girard, Associate Chief Accountant, or Eric Schuppenhauer, Professional Accounting Fellow, Office of the Chief Accountant (202-942-4400), Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549.
+
+ Supplementary Information : 
+
+We are adopting amendments to Item 303<sup> 1 </sup> of Regulation S-K,<sup> 2 </sup> Item 303<sup> 3 </sup> of Regulation S-B,<sup> 4 </sup> Item 5 of Form 20-F<sup> 5 </sup> and General Instruction B of Form 40-F<sup> 6 </sup> under the Securities Exchange Act of 1934.<sup> 7 </sup>
+
+<END HEADER>
+
+<h>I. Background </h>
+
+On July 30, 2002, the Sarbanes-Oxley Act of 2002 was enacted.<sup> 8 </sup> Section 401(a) of the Sarbanes-Oxley Act added Section 13(j) to the Securities Exchange Act of 1934,<sup> 9 </sup> which requires the Commission to adopt final rules by January 26, 2003 (180 days after the date of enactment) to require each annual and quarterly financial report required to be filed with the Commission, to disclose "all material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the issuer with unconsolidated entities or other persons, that may have a material current or future effect on financial condition, changes in financial condition, results of operations, liquidity, capital expenditures, capital resources, or significant components of revenues or expenses."<sup> 10 </sup> In November 2002, we published for comment a proposed rulemaking to implement Section 401(a)<sup> 11 </sup> and to codify interpretive guidance set forth in our January 2002 Commission Statement.<sup> 12 </sup> 
+
+The Commission has long recognized the need for a narrative explanation of financial statements and accompanying footnotes and has developed MD&A over the years to fulfill this need.<sup> 13 </sup> The disclosure in MD&A is of paramount importance in increasing the transparency of a company's financial performance and providing investors with the disclosure necessary to evaluate a company and to make informed investment decisions. MD&A also provides a unique opportunity for management to provide investors with an understanding of its view of the financial performance and condition of the company, an appreciation of what the financial statements show and do not show, as well as important trends and risks that have shaped the past or are reasonably likely to shape the future.
+
+The MD&A rules already require disclosure regarding off-balance sheet arrangements and other contingencies. They are designed to cover a wide range of corporate events, including events, variables and uncertainties not otherwise required to be disclosed under U.S. generally accepted accounting principles ("GAAP").<sup> 14 </sup> For example, the current MD&A rules require disclosure of:
+
+ 
+
+Information necessary to an understanding of the registrant's financial condition, changes in financial condition and results of operations;<sup> 15 </sup>
+
+Any known trends, demands, commitments, events or uncertainties that will result in, or that are reasonably likely to result in, the registrant's liquidity increasing or decreasing in any material way;<sup> 16 </sup>
+
+The registrant's internal and external sources of liquidity, and any material unused sources of liquid assets;<sup> 17 </sup>
+
+The registrant's material commitments for capital expenditures as of the end of the latest fiscal period;<sup> 18 </sup>
+
+Any known material trends, favorable or unfavorable, in the registrant's capital resources, including any expected material changes in the mix and relative cost of capital resources, considering changes between debt, equity and any off-balance sheet financing arrangements.<sup> 19 </sup>
+
+Any unusual or infrequent events or transactions or any significant economic changes that materially affected the amount of reported income from continuing operations and, in each case, the extent to which income was so affected.<sup> 20 </sup>
+
+Significant components of revenues or expenses that should, in the company's judgment, be described in order to understand the registrant's results of operations;<sup> 21 </sup>
+
+Known trends or uncertainties that have had, or that the registrant reasonably expects will have, a material favorable or unfavorable impact on net sales or revenues or income from continuing operations.<sup> 22 </sup>
+
+Matters that will have an impact on future operations and have not had an impact in the past;<sup> 23 </sup> and
+
+Matters that have had an impact on reported operations and are not expected to have an impact upon future operations.<sup> 24 </sup>
+
+ 
+
+Accordingly, while only one item in our current MD&A rules specifically identifies off-balance sheet arrangements,<sup> 25 </sup> the other items clearly require disclosure of off-balance sheet arrangements if necessary to an understanding of a registrant's financial condition, changes in financial condition or results of operations. As discussed below, the amendments clarify disclosures that registrants must make with regard to off-balance sheet arrangements, require registrants to set apart disclosure relating to off-balance sheet arrangements in a designated section of MD&A and (except in the case of small business issuers) require tabular disclosure of aggregate contractual obligations.<sup> 26 </sup><h>II. Overview of Proposals, Comments and AmendmentsA. Proposing Release </h><h>A. Proposing Release </h>
+
+In November 2002, we published for comment proposals to require disclosure of a registrant's off-balance sheet arrangements in its MD&A.<sup> 27 </sup> To address the scope of the disclosure contemplated by the Sarbanes-Oxley Act, the proposals included a definition of the term "off-balance sheet arrangement" that covered a wide variety of arrangements. The proposed rules defined the term "off-balance sheet arrangement" as any transaction, agreement or other contractual arrangement to which an entity that is not consolidated with the registrant is a party, under which the registrant, whether or not a party to the arrangement, has, or in the future may have:
+
+ 
+
+Any obligation under a direct or indirect guarantee or similar arrangement; 
+
+A retained or contingent interest in assets transferred to an unconsolidated entity or similar arrangement;
+
+Derivatives, to the extent that the fair value thereof is not fully reflected as a liability or asset in the financial statements; or
+
+Any obligation or liability, including a contingent obligation or liability, to the extent that it is not fully reflected in the financial statements (excluding the footnotes thereto).
+
+ 
+
+Because the Sarbanes-Oxley Act refers to off-balance sheet arrangements that "may" have a material future effect on the registrant, the proposed rules included a threshold for determining which off-balance sheet arrangements would have such an effect. In particular, the proposals would have required disclosure where the likelihood of either the occurrence of a future event implicating an off-balance sheet arrangement, or its material effect, was higher than remote. The proposed disclosure threshold departed from the existing MD&A threshold, under which a company must disclose information that is "reasonably likely" to have a material effect on financial condition, changes in financial condition or results of operations.<sup> 28 </sup>
+
+The proposals contained specific items designed to elicit comprehensive information about a registrant's off-balance sheet arrangements that would provide investors with a clear understanding of the registrant's business activities, financial arrangements and financial statements. To filter out disclosure of insignificant details, the proposals would have required disclosure of enumerated items only "to the extent necessary to an understanding of the registrant's off-balance sheet arrangements and their effect on financial condition, changes in financial condition and results of operations." The proposals would have required a registrant to disclose:
+
+ 
+
+The nature and business purpose of the registrant's off-balance sheet arrangements;
+
+The significant terms and conditions of the arrangements;
+
+The nature and amount of the total assets and of the total obligations and liabilities of an unconsolidated entity that conducts off-balance sheet activities;
+
+The amounts of revenues, expenses and cash flows, the nature and amount of any retained interests, securities issued or other indebtedness incurred, or any other obligations or liabilities (including contingent obligations or liabilities) of the registrant arising from the arrangements that are, or may become, material and the circumstances under which they could arise;
+
+Management's analysis of the material effects of the above items, including an analysis of the degree to which the registrant relies on off-balance sheet arrangements for its liquidity and capital resources or market risk or credit risk support or other benefits; and
+
+A reasonably likely termination or material reduction in the benefits of an off-balance sheet arrangement and any material effects.
+
+ 
+
+We also proposed to require registrants to provide tabular disclosure of contractual obligations and either tabular or textual disclosure of contingent liabilities and commitments. With regard to the proposed table of contractual obligations, the proposed disclosure included amounts of a registrant's known contractual obligations, aggregated by type of obligation and by time period in which payments are due. The proposed disclosure of contingent liabilities and commitments required registrants to disclose, either in text or in tabular format, the expected amount, range of amounts or maximum amount of contingent liabilities and commitments, aggregated by type and by time period of the expiration of the commitment.<h>B. Overview of Comments and Amendments </h>
+
+We received responses to our proposals from 48 commenters.<sup> 29 </sup> Generally, the major issues raised by the responses fell into four categories: (1) the scope of the proposed definition of "off-balance sheet arrangements;" (2) the proposed disclosure threshold; (3) the proposed disclosure requirements for off-balance sheet arrangements; and (4) the scope of the proposed disclosure of contractual obligations and contingent liabilities and commitments. The commentary provided useful perspective on the practical issues that registrants would face in applying the proposed rules.<h>1. Proposed Definition of "Off-Balance Sheet Arrangements" </h>
+
+While some commenters expressed general support for the proposed definition of "off-balance sheet arrangements,"<sup> 30 </sup> the majority expressed the view that the definition was too broad and in need of further clarification.<sup> 31 </sup> In particular, several commenters believed that the proposed definition included routine transactions that would not typically be considered to be "off-balance sheet arrangements" ( e.g. , executory contracts, employment agreements, consulting agreements, leases, licenses, royalty contracts, minimum purchase commitments, guarantees under customer contracts, and employee pension plan and postretirement benefit arrangements).<sup> 32 </sup> Eight commenters suggested that the definition should focus on the types of unconsolidated entities that are typically used to conduct off-balance sheet activities, such as structured finance entities or special purpose entities ("SPEs").<sup> 33 </sup> One commenter suggested that the definition should focus on off-balance sheet arrangements used as a financing, liquidity or risk-sharing technique.<sup> 34 </sup> Six commenters either were confused by, or opposed to, our proposal to include obligations or liabilities "not fully reflected in the financial statements."<sup> 35 </sup> Finally, eight commenters recommended that we should reconcile apparent discrepancies between the elements of the proposed definition and the corollary accounting concepts embodied in GAAP.<sup> 36 </sup>
+
+At the commenters' suggestion, we are adopting a revised definition of "off-balance sheet arrangement" to clarify its scope. We agree that certain modifications of the proposed definition are necessary to eliminate disclosure of routine arrangements that could obscure more meaningful information. Accordingly, we have revised the definition to incorporate concepts from U.S. GAAP.<sup> 37 </sup> We believe that the inclusion of references in the definition to U.S. GAAP help narrow the scope of arrangements that require more transparent disclosure under the amendments. The same types of off-balance sheet arrangements covered by the definition must be discussed in the MD&A regardless of the particular GAAP under which a registrant presents its primary financial statements. We are not imposing U.S. GAAP on foreign private issuers with respect to the preparation of their primary financial statements.<h>2. Proposed Disclosure Threshold </h>
+
+The proposed rules would have required disclosure of off-balance sheet arrangements that "may have a material current or future effect." The proposed rules stated that disclosure of an arrangement was not necessary "if the likelihood of either the occurrence of an event implicating an off-balance sheet arrangement, or the materiality of its effect, is remote." We indicated that the proposed threshold of disclosure would have been lower than the current MD&A standard of "reasonably likely to have a material effect." We requested commentary on whether the proposed threshold was consistent under Section 401(a) or whether a "reasonably likely" threshold was appropriate. Most commenters suggested that the final rule should incorporate the "reasonably likely" disclosure threshold that is currently found in MD&A rules,<sup> 38 </sup> while three commenters supported the disclosure threshold as proposed.<sup> 39 </sup> In addition, many commenters stated that the "reasonably likely" threshold is an appropriate interpretation of the Sarbanes-Oxley Act.<sup> 40 </sup> Many commenters opposed the proposed threshold because they thought that it would: be difficult for management to apply; yield voluminous disclosures; attribute undue prominence to information that is not important to investors; confuse or mislead investors; and elicit information that would not be comparable among firms.<sup> 41 </sup> Some commenters indicated that the "reasonably likely" threshold is preferable because it would provide investors with the information that management considers important, as opposed to more speculative information that registrants would disclose under a lower threshold.<sup> 42 </sup> Several commenters believed that it would be preferable to have consistency throughout MD&A by adopting the "reasonably likely" standard.<sup> 43 </sup> 
+
+After considering the comments, we are adopting the "reasonably likely" disclosure threshold that we currently apply to other portions of MD&A disclosure.<sup> 44 </sup> We believe that the "reasonably likely" threshold best promotes the utility of the disclosure requirements by reducing the possibility that investors will be overwhelmed by voluminous disclosure of insignificant and possibly unnecessarily speculative information.<sup> 45 </sup> We have found no express reference in the legislative history conclusively demonstrating Congress' intent in using the word "may." After considering the comments, we conclude that the "reasonably likely" standard focuses on the information most important to an understanding of a registrant's off-balance sheet arrangements and their material effects on the registrant's financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. In addition, we are mindful of the potential difficulty that registrants would have faced in attempting to comply with the "remote" disclosure threshold set forth in the Proposing Release. We also believe that our use of a consistent disclosure threshold throughout MD&A will preclude the potential confusion that could result from disparate thresholds.<h>3. Proposed Disclosure Requirements </h>
+
+While some commenters supported the proposed disclosure requirements,<sup> 46 </sup> others believed the proposals to be overly prescriptive and detail-oriented.<sup> 47 </sup> Eight commenters stated that the proposed disclosure would be voluminous, would not be useful or would be confusing to investors.<sup> 48 </sup> Three commenters expressed concerns about the sensitivity and potential competitive harm of the required disclosures.<sup> 49 </sup> In addition, seven commenters suggested that we should adopt a more flexible, principles-based approach to the MD&A disclosures.<sup> 50 </sup> 
+
+Another area of concern was whether it is feasible to expect a registrant to be able to obtain information about the activities of unconsolidated entities over which it may not have control.<sup> 51 </sup> For example, some commenters believed that companies might be unable to obtain, monitor or evaluate certain information about unconsolidated entities that conduct off-balance sheet activities ( e.g. , certain multi-party conduits or third parties that benefit from a pre-existing guarantee of the registrant).<sup> 52 </sup>
+
+After carefully evaluating the comments, we are adopting disclosure requirements that are more consistent with the principles-based approach found in current MD&A rules. The principle throughout the amendments is that the registrant should disclose information to the extent that it is necessary to an understanding of a registrant's material off-balance sheet arrangements and their material effects on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. Consistent with traditional MD&A disclosure, management has the responsibility to identify and address the key variables and other qualitative and quantitative factors that are peculiar to, and necessary for, an understanding and evaluation of the company.<sup> 53 </sup> The amendments contain the following four specific items to bolster the principles-based approach. These items require disclosure of the following information to the extent necessary for an understanding of a registrant's off-balance sheet arrangements and their effects:
+
+ 
+
+The nature and business purpose of the registrant's off-balance sheet arrangements;<sup> 54 </sup>
+
+The importance of the off-balance sheet arrangements to the registrant for liquidity, capital resources, market risk or credit risk support or other benefits;<sup> 55 </sup>
+
+The financial impact of the arrangements on the registrant ( e.g. , revenues, expenses, cash flows or securities issued) and the registrant's exposure to risk as a result of the arrangements ( e.g. , retained interests or contingent liabilities);<sup> 56 </sup> and 
+
+Known events, demands, commitments, trends or uncertainties that affect the availability or benefits to the registrant of material off-balance sheet arrangements.<sup> 57 </sup>
+
+ 
+
+In addition, the amendments contain another principles-based requirement, similar to that used elsewhere in MD&A, that the registrant provide other information that it believes to be necessary for an understanding of its off-balance sheet arrangements and their material effects on the registrant's financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.<sup> 58 </sup> 
+
+We have eliminated one aspect of the proposed disclosure requirements after considering the public commentary. The amendments do not require a registrant to disclose the nature and amount of the total assets and total obligations of an unconsolidated entity that conducts off-balance sheet activities on behalf of the registrant. Commenters indicated that it might be impracticable to obtain, monitor or evaluate information about unconsolidated entities that are unaffiliated with the registrant.<sup> 59 </sup> We believe that information regarding the nature and amount of assets transferred to an unconsolidated entity is more pertinent than a listing of the total assets and liabilities of that entity. We also believe that it may be necessary for a registrant to disclose the nature and amount of assets transferred to an unconsolidated entity in fulfilling its requirement to explain the nature and business purpose of an off-balance sheet arrangement.<h>4. Proposed Tabular and Textual Disclosure </h>
+
+Six commenters generally supported the proposed disclosure of contractual obligations and contingent liabilities and commitments,<sup> 60 </sup> while four commenters opposed it.<sup> 61 </sup> Two commenters expressed support for the proposed table of contractual obligations, but not for contingent liabilities and commitments.<sup> 62 </sup> Four commenters believed that the disclosure would not improve transparency,<sup> 63 </sup> and at least 13 commenters requested guidance or clarification on how to implement the disclosure requirements.<sup> 64 </sup> 
+
+Many of the commenters urged us to further limit and define the types of contractual obligations and contingent liabilities and commitments that would be subject to the new disclosure requirements.<sup> 65 </sup> For example, some commenters believed that the disclosure should exclude purchase orders and contracts for goods and services in the ordinary course of business, as well as items for which GAAP would not require any disclosure in the financial statements and footnotes.<sup> 66 </sup> In addition, some commenters suggested that we limit the disclosure of contractual obligations and commitments to contracts requiring cash payment.<sup> 67 </sup> Some commenters suggested that the disclosure of contingent liabilities should cover only "commercial commitments," to be defined by the rule<sup> 68 </sup> and should exclude loss contingencies from litigation, arbitration or regulatory proceedings.<sup> 69 </sup> 
+
+In addition, many commenters believed that the disclosure would impose a large, new compliance burden on registrants by requiring them to aggregate and assess multiple contracts and commitments.<sup> 70 </sup> Three commenters suggested that the disclosure should include a materiality threshold to help a registrant avoid the burden of identifying and evaluating insignificant contracts, contingencies or commitments.<sup> 71 </sup> Finally, five commenters believed that the rule should exclude notes, drafts, acceptances, bills of exchange or other commercial instruments with a maturity of one year or less issued in the ordinary course of business.<sup> 72 </sup>
+
+After evaluating the comments received, we have modified the required table of contractual obligations. Contrary to the proposed rules, which only suggested the categories of contractual obligations to be included, the amendments specify that the following categories of contractual obligations must be included within the table:
+
+ 
+
+Long-term debt obligations;
+
+Capital lease obligations;
+
+Operating lease obligations;
+
+Purchase obligations; and
+
+Other long-term liabilities reflected on the registrant's balance sheet under GAAP.
+
+ 
+
+The preparation of financial statements in accordance with GAAP already requires registrants to assess payments under all of the above categories of contractual obligations, except for purchase obligations. To aid registrants in preparing the table, the amendments define the first four categories of contractual obligations.<sup> 73 </sup> For issuers that present their primary financial statements in accordance with U.S. GAAP, we have defined the first three categories by referencing the relevant U.S. GAAP accounting pronouncements that require disclosure of these obligations in a registrant's financial statements or footnotes. The definition of "purchase obligations" is designed to capture the registrant's capital expenditures for purchases of goods or services over a five-year period. The fifth category captures all other long-term liabilities that are reflected on the registrant's balance sheet under the registrant's applicable GAAP. 
+
+The amendments require disclosure of the amounts of a registrant's purchase obligations without regard to whether notes, drafts, acceptances, bills of exchange or other commercial instruments will be used to satisfy such obligations because those instruments could have a significant effect on the registrant's liquidity. The purpose of this new disclosure requirement is to obtain enhanced disclosure concerning a registrant's contractual payment obligations, and the exclusion of commercial instruments would be inconsistent with that objective. Adoption of certain other suggestions of commenters, such as an exclusion of ordinary course items, a limitation to items reflected in financial statements or notes under GAAP or a materiality threshold would also be inconsistent with the objective.
+
+We are not adopting a disclosure requirement for contingent liabilities and commitments. We believe that meaningful disclosure of contingent liabilities and commitments is not necessarily best accomplished by an aggregated disclosure format (either tabular or textual) because such a format would inevitably omit important information about the operative facts and circumstances of contingent liabilities and commitments ( e.g. , triggering events, probability of occurrence or recourse provisions). In addition, we note that a number of new accounting<sup> 74 </sup> and disclosure requirements, including these amendments, address a registrant's contingent liabilities and commitments and may obviate the need for this additional disclosure requirement. We will, however, continue to assess the costs and benefits of an MD&A disclosure requirement for aggregate contingent liabilities and commitments in connection with our ongoing review of MD&A.<sup> 75 </sup> Pending future Commission action on the subject, registrants should refer to the existing guidance in our Commission Statement to consider whether it would be beneficial to investors to include tabular disclosure of aggregate commercial commitments.<sup> 76 </sup><h>III. Discussion Of AmendmentsA. Definition of "Off-Balance Sheet Arrangement" </h><h>A. Definition of "Off-Balance Sheet Arrangement" </h>
+
+The definition of "off-balance sheet arrangement" primarily targets the means through which companies typically structure off-balance sheet transactions or otherwise incur risks of loss that are not fully transparent to investors. For example, in many cases, in order to facilitate a transfer of assets or otherwise finance the activities of an unconsolidated entity, a company must provide financial support designed to reduce risks to the entity or other third parties. That financial support may assume many different forms, such as financial guarantees, subordinated retained interests, keepwell agreements,<sup> 77 </sup> derivative instruments or other contingent arrangements that expose the registrant to continuing risks or material contingent liabilities.<sup> 78 </sup> To appropriately capture these transactions, the definition of "off-balance sheet arrangement" includes any contractual arrangement to which an unconsolidated entity is a party, under which the registrant has:
+
+ 
+
+Any obligation under certain guarantee contracts;<sup> 79 </sup>
+
+A retained or contingent interest in assets transferred to an unconsolidated entity or similar arrangement that serves as credit, liquidity or market risk support to that entity for such assets;
+
+Any obligation under certain derivative instruments;<sup> 80 </sup>
+
+Any obligation under a material variable interest<sup> 81 </sup> held by the registrant in an unconsolidated entity that provides financing, liquidity, market risk or credit risk support to the registrant, or engages in leasing, hedging or research and development services with the registrant.<h>1. Guarantees </h>
+
+The definition of "off-balance sheet arrangements" addresses certain guarantees that may be a source of potential risk to a registrant's future liquidity, capital resources and results of operations, regardless of whether or not they are recorded as liabilities. The definition borrows concepts from U.S. GAAP in order to identify the types of guarantee contracts for which disclosure is required. The references to U.S. GAAP apply regardless of the particular GAAP under which a registrant presents its primary financial statements. 
+
+The first element of the definition refers to any obligation under a guarantee contract that has any of the characteristics identified in paragraph 3 of FIN 45, and that is not excluded from the initial recognition and measurement provisions of FIN 45.<sup> 82 </sup> Paragraph 3 of FIN 45 includes within its scope any contract with one or more of the following four characteristics:
+
+ 
+
+Contracts that contingently require the guarantor to make payments to the guaranteed party based on changes in an "underlying"<sup> 83 </sup> that is related to an asset, a liability or an equity security of the guaranteed party ( e.g. , a financial standby letter of credit, a market value guarantee, a guarantee of the market price of the common stock of the guaranteed party or a guarantee of the collection of the scheduled contractual cash flows from individual financial assets held by an SPE);<sup> 84 </sup>
+
+Contracts that contingently require the guarantor to make payments to the guaranteed party based on another entity's failure to perform under an obligating agreement ( e.g. , a performance guarantee);<sup> 85 </sup>
+
+Indemnification agreements (contracts) that contingently require the indemnifying party (guarantor) to make payments to the indemnified party (guaranteed party) based on changes in an underlying that is related to an asset, a liability or an equity security of the indemnified party ( e.g. , an adverse judgment in a lawsuit or the imposition of additional taxes due to either a change in the tax law or an adverse interpretation of the tax law);<sup> 86 </sup> or
+
+Indirect guarantees of the indebtedness of others, which arise under an agreement that obligates one entity to transfer funds to a second entity upon the occurrence of specified events, under conditions whereby (a) the funds become legally available to creditors of the second entity and (b) those creditors may enforce the second entity's claims against the first entity under the agreement ( e.g. , keepwell agreements).<sup> 87 </sup>
+
+ 
+
+The definition of "off-balance sheet arrangement" is designed so that a registrant's application of FIN 45 will provide the basis for determining the guarantee contracts that are subject to disclosure under the amendments.<sup> 88 </sup> Paragraphs 6 and 7 of FIN 45 exclude certain guarantee contracts from the recognition and measurements provisions of FIN 45.<sup> 89 </sup> These exclusions also will apply to the definition of "off-balance sheet arrangements" in the amendments.<h>2. Retained or Contingent Interests </h>
+
+As an alternative to guarantee contracts, companies may structure and facilitate off-balance sheet arrangements by retaining an interest in assets transferred to an unconsolidated entity. For example, a subordinated retained interest in a pool of receivables transferred to an unconsolidated entity can provide credit support to the entity by cushioning the senior interests in the event that a portion of the receivables becomes uncollectible. In this event, the value of the retained interest can decline and can therefore have a material effect on a registrant's financial condition. Accordingly, the second element of the definition of "off-balance sheet arrangements" includes retained or contingent interests in assets transferred to an unconsolidated entity or similar arrangements that serve as credit, liquidity or market risk support to such entity for such assets.<sup> 90 </sup><h>3. Certain Derivative Instruments </h>
+
+Similar to guarantees or retained interests, certain derivative instruments have been used in structuring off-balance sheet arrangements. For example, a registrant may issue or hold derivative instruments that are indexed to its stock and classified as stockholders' equity under GAAP.<sup> 91 </sup> The impact of those derivative instruments often is not transparent to investors because those derivative instruments are classified as equity and subsequent changes in fair value may not be periodically recognized in the financial statements. Therefore, the third element of the definition includes those derivative instruments to better apprise investors of their impact. The definition for registrants whose financial statements are prepared in accordance with U.S. GAAP includes derivative instruments that are excluded from SFAS No. 133 pursuant to paragraph 11a of that Statement.<sup> 92 </sup> Similarly, the definition for registrants whose financial statements are prepared in accordance with a non-U.S. GAAP includes any obligation under a derivative instrument that is both indexed to the registrant's own stock and classified in stockholders' equity, or not reflected, in the registrant's statement of financial position.<sup> 93 </sup><h>4. Variable Interests </h>
+
+The fourth element of the definition includes any obligation, including a contingent obligation, arising out of a material variable interest held by the registrant in an unconsolidated entity, where such entity provides financing, liquidity, market risk or credit risk support to, or engages in leasing, hedging or research and development services with, the registrant.<sup> 94 </sup> We intend for this element of the definition to be consistent with the concept of a "variable interest" that is included in the recently issued FASB Interpretation No. 46 ("FIN 46"). The term "variable interest" is defined in FIN 46 as "contractual, ownership, or other pecuniary interests in an entity that change with changes in the entity's net asset value."<sup> 95 </sup> In other words, variable interests are investments or other interests that will absorb a portion of an entity's expected losses if they occur or receive portions of the entity's expected residual returns if they occur.<sup> 96 </sup> To apply this element of the definition, a registrant must assess the variable interests it holds in the specified unconsolidated entities regardless of whether the entity is deemed to be a "variable interest entity" pursuant to paragraph 5 of FIN 46. To focus the disclosure on the most crucial off-balance sheet arrangements, however, the definition only applies to variable interests, that are material to the registrant, in entities that provide financing, liquidity, market risk or credit risk support to the registrant, or engage in leasing, hedging or research and development services with the registrant.<sup> 97 </sup><h>B. Disclosure Threshold </h>
+
+The amendments require disclosure of off-balance sheet arrangements that either have, or are reasonably likely to have, a current or future effect on the registrant's financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.<sup> 98 </sup> That disclosure threshold is consistent with the existing disclosure threshold under which information that could have a material effect on financial condition, changes in financial condition or results of operations must be included in MD&A.<sup> 99 </sup> 
+
+To apply the disclosure threshold, management first must identify and critically analyze the registrant's off-balance sheet arrangements, including its guarantee contracts, retained or contingent interests, derivative instruments and variable interests. Second, management must assess the likelihood of the occurrence of any known trend, demand, commitment, event or uncertainty that could affect an off-balance sheet arrangement ( e.g. , performance under a guarantee; an obligation under a variable interest or equity-linked or indexed derivative instrument; or recognition of an impairment). If management concludes that the known trend, demand, commitment, event or uncertainty is not reasonably likely to occur, then no disclosure is required in MD&A.<sup> 100 </sup> If management cannot make that determination, it must evaluate objectively the consequences of the known trend, demand, commitment, event or uncertainty on the assumption that it will come to fruition. Disclosure is then required unless management determines that a material effect on the registrant's financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources is not reasonably likely to occur. Consistent with other disclosure threshold determinations that management must make in drafting MD&A, the assessment must be objectively reasonable, viewed as of the time the determination is made.<sup> 101 </sup><h>C. Disclosure about Off-Balance Sheet Arrangements </h>
+
+The amendments require a registrant to disclose the material facts and circumstances that provide investors with a clear understanding of a registrant's off-balance sheet arrangements and their material effects. To provide flexibility to registrants and to filter out disclosure of insignificant details, the amendments require disclosure of enumerated information only to the extent necessary to an understanding of a registrant's off-balance sheet arrangements and their material effects on financial condition, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures and capital resources. In addition to the enumerated information, the discussion must include such other information that the registrant believes is necessary for an understanding of its off-balance sheet arrangements and the specified material effects.<sup> 102 </sup> The disclosure shall generally cover the most recent fiscal year, but it also should address changes from the previous year where such discussion is necessary to an understanding of the disclosure.<sup> 103 </sup>
+
+Under the amendments, a registrant must disclose the nature and business purpose of the off-balance sheet arrangements.<sup> 104 </sup> This disclosure should explain to investors why a registrant engages in off-balance sheet arrangements and should provide the information that investors need to understand the business activities advanced through a registrant's off-balance sheet arrangements. For example, a registrant may indicate that the arrangements enable the company to lease certain facilities rather than acquire them, where the latter would require the registrant to recognize a liability for the financing. Other possible disclosure under this requirement may indicate that the off-balance sheet arrangement enables the registrant to readily obtain cash through sales of groups of loans to a trust; to finance inventory, transportation or research and development costs without recognizing a liability; or to lower borrowing costs of unconsolidated affiliates by extending guarantees to their creditors.
+
+Under the amendments, a registrant must discuss the importance of its off-balance sheet arrangements to its liquidity, capital resources, market risk support, credit risk support or other benefits.<sup> 105 </sup> This disclosure should provide investors with an understanding of the importance of off-balance sheet arrangements to the registrant as a financial matter. For example, if a registrant materially relies on off-balance sheet arrangements for its liquidity and capital resources, a registrant may be required to disclose how often it securitizes financial assets, to what degree its securitizations are a material source of liquidity, whether it has materially increased or decreased securitizations from past periods and to explain such increase or decrease. Together with the other disclosure requirements, registrants should provide information sufficient for investors to assess the extent of the risks that have been transferred and retained as a result of the arrangements. 
+
+In addition, the disclosure should provide investors with insight into the overall magnitude of a registrant's off-balance sheet activities, the specific material impact of the arrangements on a registrant and the circumstances that could cause material contingent obligations or liabilities to come to fruition. Disclosure is required to the extent material and necessary to investors' understanding of:
+
+ 
+
+The amounts of revenues, expenses, and cash flows of the registrant arising from the arrangements;
+
+The nature and total amount of any interests retained, securities issued and other indebtedness incurred by the registrant in connection with such arrangements; and 
+
+The nature and amount of any other obligations or liabilities (including contingent obligations or liabilities) of the registrant arising from the arrangements that are, or are reasonably likely to become, material and the triggering events or circumstances that could cause them to arise.<sup> 106 </sup>
+
+ 
+
+The discussion also must identify any known event, demand, commitment, trend or uncertainty that will, or is reasonably likely to, result in the termination, or material reduction in availability to the registrant, of its off-balance sheet arrangements that provide the registrant with material benefits.<sup> 107 </sup> Under this requirement, a registrant must disclose, for example, any material contractual provisions calling for the termination or material reduction of an off-balance sheet arrangement. The disclosure also should address factors that are reasonably likely to affect the registrant's ability to continue using off-balance sheet arrangements that provide it with material benefits. For example, if a registrant's credit rating were to fall below a certain level, some off-balance sheet arrangements may require the registrant to purchase the assets or assume the liabilities of an unconsolidated entity. In addition, a change in a registrant's credit rating could either preclude or materially reduce the benefits to the registrant of engaging in off-balance sheet arrangements. In such cases, the registrant will have to disclose known circumstances that are reasonably likely to cause its credit rating to fall to the specified level and discuss the material consequences of the drop in ratings. In addition, the registrant must discuss the course of action that it has taken or proposes to take in response to a termination or material reduction in the availability of an off-balance sheet arrangement that provides material benefits. 
+
+The amendments contain a principles-based requirement stating that a registrant must provide other information that it believes to be necessary for an understanding of its off-balance sheet arrangements and the material effects of these arrangements on its financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.<sup> 108 </sup> The disclosure should provide investors with management's insight into the impact and proximity of the potential material risks that are reasonably likely to arise from material off-balance sheet arrangements. 
+
+The amendments instruct registrants to aggregate off-balance sheet arrangements in groups or categories that provide information in an efficient and understandable manner and avoid repetition and disclosure of immaterial information.<sup> 109 </sup> Common or similar effects that may result from a number of different off-balance sheet arrangements must be analyzed in the aggregate to the extent that the aggregation increases understanding. For example, if particular triggering events or circumstances would either require a registrant to become directly obligated, or accelerate its obligations, under a number of off-balance sheet arrangements, and the overall obligations would be material, then the amendments will require an analysis of the circumstances and their aggregate effect to the extent it increases understanding. Registrants should discuss distinctions among aggregated off-balance sheet arrangements if such distinctions are material, but the discussion should avoid repetition and disclosure of immaterial information. 
+
+In light of the fact that the off-balance sheet arrangements covered under the amendments are contractual, it is appropriate to apply the Commission's policy regarding MD&A disclosure of preliminary negotiations. Therefore, the amendments include an instruction that no obligation to make disclosure of an off-balance sheet arrangement will arise until an unconditionally binding definitive agreement, subject only to customary closing conditions exists or, if there is no such agreement, when settlement of the transaction occurs.<sup> 110 </sup> That instruction is consistent with the Commission policy set forth in its 1989 Interpretive Release on disclosure of preliminary negotiations for the acquisition or disposition of assets not in the ordinary course of business.<sup> 111 </sup> In the 1989 Interpretive Release, the Commission stated that, "where disclosure is not otherwise required, and has not otherwise been made, the MD&A need not contain a discussion of the impact of [preliminary negotiations for the acquisition or disposition of assets not in the ordinary course of business] where, in the registrant's view, inclusion of such information would jeopardize completion of the transaction."<sup> 112 </sup><h>D. Tabular Disclosure of Contractual Obligations </h>
+
+Some accounting standards require disclosure concerning a registrant's obligations and commitments to make future payments under contracts, such as debt and lease agreements.<sup> 113 </sup> Information about other obligations, such as purchase contracts, may or may not be disclosed, but if disclosed, it is usually dispersed throughout a filing and may not be presented in a consistent manner among registrants. Aggregated information about a registrant's contractual obligations in a single location will provide useful context for investors to assess a registrant's short- and long-term liquidity and capital resource needs and demands. In addition, it will improve an investor's ability to compare registrants. Therefore, we are requiring registrants to disclose in a tabular format the amounts of payments due under specified contractual obligations, aggregated by category of contractual obligation, for specified time periods.<sup> 114 </sup> We are not adopting this requirement for small business issuers that file small business reporting forms.<sup> 115 </sup> The registrant must provide the information as of the latest fiscal year end balance sheet date,<sup> 116 </sup> and the table should be in substantially the same form as follows: 
+
+ Contractual Obligations Payments due by period Total Less than 1 year 1-3 years 3-5 years More than 5 years [Long-Term Debt] [Capital Lease Obligations] [Operating Leases] [Purchase Obligations] [Other Long-Term Liabilities Reflected on the Registrant's Balance Sheet under GAAP] Total 
+
+To provide flexibility for company-specific disclosure, the amendments allow a registrant to disaggregate the specified categories by using other categories suitable to its business, but the table must include all of the obligations that fall within specified categories.<sup> 117 </sup> In addition, the table should be accompanied by footnotes necessary to describe material contractual provisions or other material information to the extent necessary for an understanding of the timing and amount of the contractual obligations in the table.
+
+U.S. GAAP already requires registrants to aggregate and assess all of the specified categories, except for purchase obligations. Accordingly, the first three categories of contractual obligations are defined by reference to the relevant U.S. GAAP accounting pronouncements.<sup> 118 </sup> A registrant that prepares financial statements in accordance with a non-U.S. GAAP should include contractual obligations in the table that are consistent with the classifications used in the GAAP under which its primary financial statements are prepared.<sup> 119 </sup> 
+
+Some purchase obligations are executory contracts, and therefore are not recognized as liabilities in accordance with GAAP.<sup> 120 </sup> Because purchase obligations may have a significant effect on the registrant's liquidity, they are included in the table. The amendments provide a definition of "purchase obligations." A "purchase obligation" is defined as an agreement to purchase goods or services that is enforceable and legally binding on the registrant and that specifies all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction.<sup> 121 </sup> If the purchase obligations are subject to variable price provisions, then the registrant must provide estimates of the payments due. In that case, the table should include footnotes to inform investors of the payments that are subject to market risk, if that information is material to investors. In addition, the footnotes should discuss any material termination or renewal provisions to the extent necessary for an understanding of the timing and amount of the registrant's payments under its purchase obligations.<h>E. Presentation of Disclosure1. Separate Disclosure Sections </h><h>1. Separate Disclosure Sections </h>
+
+The amendments require a registrant to present the disclosure about off-balance sheet arrangements in a separately-captioned section of MD&A. In contrast, a registrant may place the tabular disclosure of known contractual obligations in an MD&A location that it deems to be appropriate. In response to the request for comments in the Proposing Release, five commenters suggested that the issuer should be able to determine the placement of the off-balance sheet disclosures within the MD&A,<sup> 122 </sup> and two commenters supported a separate disclosure section for off-balance sheet disclosures.<sup> 123 </sup> After evaluating the comments, we are adopting a requirement for a separate section for two reasons. First, a distinct presentation of the information will highlight it for readers and enable investors to more easily compare disclosure of different companies. Second, a distinct presentation will layer the MD&A, and thereby enable investors with varying levels of interest and financial acumen to easily obtain desired information.<h>2. Language and Format </h>
+
+The MD&A discussion should be presented in language and a format that is clear, concise and understandable. For example, a registrant may choose to include the financial impact of its off-balance sheet arrangements ( e.g. , revenues, expenses, gains or losses) aggregated by type of arrangement in a tabular format. The information should not be presented in such a manner that only an accountant or financial analyst or an expert on a particular industry would be able to fully understand it. Boilerplate disclosures that do not specifically address the registrant's particular circumstances and operations will not satisfy the MD&A requirements. Disclosure that can easily be transferred from year to year, or from company to company, with no change will neither inform investors adequately nor reflect the independent thinking that must precede the assessment by management that is intended for MD&A disclosure.<h>3. Cross-Referencing to the Financial Statements </h>
+
+In response to the Proposing Release, eight commenters noted that some of the disclosures appear to be redundant with GAAP disclosure requirements.<sup> 124 </sup> To eliminate unnecessary repetition, the amendments allow a registrant to include within its MD&A section a cross-reference to information in the footnotes to the financial statements.<sup> 125 </sup> The cross-reference must clearly identify specific information in the footnotes and must integrate the substance of the footnotes into the MD&A discussion in a manner designed to inform readers of the significance of the information that is not included within the body of the MD&A. Registrants should ensure that the quality of the discussion of off-balance sheet arrangements has not diminished as a result of including a cross-reference. In addition, the disclosure in the referenced footnotes should comply with the language and format requirements discussed above.<h>F. Effect of Amendments on Commission Statement </h>
+
+In an effort to provide guidance to public companies, our January 2002 Commission Statement presented a number of factors that management should consider regarding the MD&A disclosure requirements for liquidity and capital resources, off-balance sheet arrangements, certain trading activities that include non-exchange traded contracts accounted for at fair value, and transactions with persons or entities that derive benefits from their non-independent relationships with the registrant or the registrant's related parties.<sup> 126 </sup> The amendments relating to disclosures that are the subject of this release will supersede the guidance in the Commission Statement on disclosure of off-balance sheet arrangements<sup> 127 </sup> as of the Compliance Date for the amendments. On the Compliance Date for the amendments relating to disclosure of the table of contractual obligations, the guidance in the Commission Statement on disclosure of the table of contractual obligations<sup> 128 </sup> also will be superseded by the amendments. All other guidance issued in the Commission Statement will remain in effect. While the Compliance Dates for the amendments applies to annual reports, registration statements and proxy or information statements that are required to include financial statements for the fiscal years ending on or after June 15, 2003 for disclosure about off-balance sheet arrangements and December 15, 2003 for the table of contractual obligations, we assume that registrants with fiscal years ending before the Compliance Dates will continue to follow the guidance in the Commission Statement. Registrants may voluntarily comply with the new disclosure requirements before the Compliance Dates.<h>G. Application to Foreign Private Issuers </h>
+
+The amendments apply to foreign private issuers that file annual reports on Form 20-F<sup> 129 </sup> or on Form 40-F.<sup> 130 </sup> Because Section 401(a) of the Sarbanes-Oxley Act does not distinguish between foreign private issuers<sup> 131 </sup> and U.S. companies, we interpret Congress' directive to the Commission to adopt rules requiring expanded disclosure about off-balance sheet transactions in annual reports filed with the Commission to apply equally to Form 20-F or 40-F annual reports filed by foreign private issuers and to Form 10-K or 10-KSB annual reports filed by domestic issuers. In response to the Proposing Release, three commenters believed that the rules should apply to foreign private issuers,<sup> 132 </sup> five commenters believed that the rules should not apply to MJDS filers,<sup> 133 </sup> and four commenters believed that the Sarbanes-Oxley Act does not, and should not, require the proposals to be applied to foreign private issuers and MJDS filers.<sup> 134 </sup> We do not believe that it is appropriate to exempt foreign private issuers or MJDS filers because, as discussed below, the disclosure requirements do not represent a fundamental change in our approach with respect to the financial disclosure provided by foreign private issuers and MJDS filers.
+
+There are two additional reasons for applying the amendments to foreign private issuers' annual reports filed with the Commission. First, investors and others would enjoy the same benefits from expanded off-balance sheet disclosure in foreign private issuers' annual reports as they would from this disclosure in domestic issuers' annual reports. Second, for Form 20-F annual reports, the existing MD&A-equivalent requirements for foreign private issuers currently mirror the substantive MD&A requirements for U.S. companies. We believe this desirable policy should continue.<sup> 135 </sup>
+
+The disclosure provided by Canadian issuers that file Form 40-F is generally that required under Canadian law. We have, however, supplemented these disclosure requirements with specific required items of information.<sup> 136 </sup> We have adopted additional disclosure requirements under Form 40-F as a result of the Sarbanes-Oxley Act.<sup> 137 </sup> Although an issuer prepares its MD&A discussion contained in a Form 40-F registration statement or annual report in accordance with Canadian disclosure standards, we believe that requiring disclosure of off-balance sheet arrangements and a table of contractual obligations in accordance with SEC rules is not inconsistent with the principles of the MJDS, is consistent with the Sarbanes-Oxley Act and, most importantly, will provide investors with useful information that is comparable to that provided by U.S. and other foreign companies that file reports under the Exchange Act.
+
+Section 401(a) of the Sarbanes-Oxley Act also requires the Commission to adopt off-balance sheet disclosure rules that apply to "each quarterly financial report required to be filed with the Commission."<sup> 138 </sup> Foreign private issuers are not required to file "quarterly" reports with the Commission, and therefore the amendments do not apply to Form 6-K reports submitted by foreign private issuers to provide copies of materials required to be made public in their home jurisdictions.<sup> 139 </sup> Thus, unless a foreign private issuer files a Securities Act registration statement that must include interim period financial statements and related MD&A disclosure, it will not be required to update its MD&A disclosure more frequently than annually.<sup> 140 </sup>
+
+The MD&A disclosure<sup> </sup>that foreign private issuers currently provide in documents filed with the Commission<sup> </sup>must focus on the primary financial statements, whether those are prepared in accordance with U.S. GAAP or a non-U.S. GAAP.<sup> 141 </sup> Foreign private issuers whose primary financial statements are prepared in accordance with a non-U.S. GAAP should include in their MD&A a discussion of the reconciliation to U.S. GAAP, and any differences between foreign and U.S. GAAP, if it would be necessary for an understanding of the financial statements as a whole.<sup> 142 </sup> Consistent with that existing MD&A requirement for foreign private issuers, the disclosure about off-balance sheet arrangements and the table of contractual obligations must focus on the primary financial statements presented in the document, while taking the reconciliation into account.
+
+The definition of "off-balance sheet arrangements" covers the same types of arrangements regardless of whether a registrant is a foreign private issuer or a domestic issuer. We believe that the references to U.S. GAAP in the definition best achieve the appropriate scope of arrangements that require more transparent disclosure, regardless of any particular accounting treatment. To identify the types of arrangements that are subject to disclosure under the amendments, a foreign private issuer must assess its guarantee contracts and variable interests pursuant to U.S. GAAP. Foreign private issuers must already make this assessment when they reconcile or prepare their financial statements in accordance with U.S. GAAP. A foreign private issuer's MD&A disclosure should continue to focus on its primary financial statements despite the fact that its various "off-balance sheet arrangements" have been defined by reference to U.S. GAAP.<h>H. Safe Harbor for Forward-Looking Information </h>
+
+Some of the disclosure required by the amendments would require disclosure of forward-looking information.<sup> 143 </sup> To encourage the type of information and analysis necessary for investors to understand the impact of off-balance sheet arrangements and to reduce the burden of estimating the payments due under contractual obligations, the amendments include a safe harbor for forward-looking information.<sup> 144 </sup> The safe harbor explicitly applies the statutory safe harbor protections (Sections 27A of the Securities Act and 21E of the Exchange Act)<sup> 145 </sup> to forward-looking information that is required to be disclosed. 
+
+The statutory safe harbors contain provisions to protect forward-looking statements against private legal actions that are based on allegations of a material misstatement or omission.<sup> 146 </sup> The statutory safe harbors provide three separate bases for a registrant to claim the protection against liability for forward-looking statements made in the registrant's MD&A. First, a forward-looking statement will fall within the safe harbors if identified as forward-looking and accompanied by meaningful cautionary statements that identify important factors that could cause actual results to differ materially from those in the forward-looking statement. Second, the safe harbors protect from private liability any forward-looking statement that is not material. Finally, the safe harbors preclude private liability if a plaintiff fails to prove that the forward-looking statement was made by or with the approval of an executive officer of the registrant who had actual knowledge that it was false or misleading. The statutory safe harbors cover statements by reporting companies, persons acting on their behalf, outside reviewers retained by them, and their underwriters (when using information from, or derived from, the companies).
+
+Because we believe that it would promote more meaningful disclosure, we are invoking rulemaking authority under Sections 27A and 21E to create a new safe harbor to ensure the application of the statutory safe harbors to the forward-looking statements required under the amendments. The safe harbor is designed to remove possible ambiguity about whether the statutory safe harbors would apply to the forward-looking statements made in response to the amendments. The safe harbor specifies that, except for historical facts, the disclosure would be deemed to be a "forward looking statement" as that term is defined in the statutory safe harbors.<sup> 147 </sup> In addition, with respect to the MD&A discussion of off-balance sheet arrangements, we are adopting a provision that the "meaningful cautionary statements" element of the statutory safe harbors will be satisfied if a registrant satisfies all of its off-balance sheet arrangements disclosure requirements.<sup> 148 </sup> Because the new MD&A safe harbor is closely linked to the statutory safe harbors, we urge companies preparing their disclosure to consider the terms, conditions and scope of the statutory safe harbors in drafting their disclosure.<h>IV. Paperwork Reduction ActA. Background </h><h>A. Background </h>
+
+The amendments to Regulations S-B, S-K,<sup> 149 </sup> Form 20-F and Form 40-F contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<sup> 150 </sup> We published a notice requesting comment on the collection of information requirements in the Proposing Release, and we submitted these requirements to the Office of Management and Budget ("OMB") for review in accordance with the PRA.<sup> 151 </sup> The titles for the collections of information are: 
+
+(1) "Form S-1" (OMB Control No. 3235-0065);
+
+(2) "Form F-1" (OMB Control No. 3235-0258); 
+
+(3) "Form SB-2" (OMB Control No. 3235-0418); 
+
+(4) "Form S-4" (OMB Control No. 3235-0324); 
+
+(5) "Form F-4" (OMB Control No. 3235-0325);
+
+(6) "Form 10" (OMB Control No. 3235-0064);
+
+(7) "Form 10-SB" (OMB Control No. 3235-0419);
+
+(8) "Form 20-F" (OMB Control No. 3235-0288);
+
+(9) "Form 40-F" (OMB Control No. 3235-0381);
+
+(10) "Form 10-K" (OMB Control No. 3235-0063); 
+
+(11) "Form 10-KSB" (OMB Control No. 3235-0420);
+
+(12) "Proxy Statements -- Regulation 14A (Commission Rules 14a-1 through 14a-15) and Schedule 14A" (OMB Control No. 3235-0059); 
+
+(13) "Information Statements -- Regulation 14C (Commission Rules 14c-1 through 14c-7 and Schedule 14C)" (OMB Control No. 3235-0057); 
+
+(14) "Form 10-Q" (OMB Control No. 3235-0070); 
+
+(15) "Form 10-QSB" (OMB Control No. 3235-0416); 
+
+(16) "Regulation S-K" (OMB Control No. 3235-0071); and
+
+(17) "Regulation S-B" (OMB Control No. 3235-0417).
+
+These regulations and forms were adopted pursuant to the Securities Act and the Exchange Act and set forth the disclosure requirements for annual and quarterly reports, registration statements and proxy and information statements filed by companies to ensure that investors are informed. The hours and costs associated with preparing, filing, and sending these forms constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. 
+
+The amendments require public companies to include a discussion of material off-balance sheet arrangements and a table of certain contractual obligations in the MD&A section of their filings with the Commission. We are adopting these rules pursuant to the legislative mandate in Section 401(a) of the Sarbanes-Oxley Act of 2002.<sup> 152 </sup> Compliance with the revised disclosure requirements is mandatory. There is no mandatory retention period for the information disclosed, and responses to the disclosure requirements will not be kept confidential.<h>B. Paperwork Burden Estimates </h>
+
+For purposes of the Paperwork Reduction Act, we estimated the annual incremental paperwork burden for all companies to prepare the disclosure required under the amendments to be approximately 366,337 hours of company personnel time and the incremental cost to be approximately $44,795,000 for the services of outside professionals.<sup> 153 </sup> That estimate includes the time and the cost of in-house preparation of the disclosure, reviews by executive officers, in-house counsel, outside counsel, independent auditors and members of the audit committee.<sup> 154 </sup> It does not include the full cost of establishing systems to collect and monitor the information because a registrant must already do so to prepare its financial statements, comply with current disclosure requirements and maintain adequate internal controls. 
+
+ We derived the paperwork burden estimates by estimating the total amount of time it will take a company to prepare each item of the disclosure. We estimate that in the first year, the off-balance sheet disclosure will take 14.5 hours for annual reports and proxy statements (11 hours in-house personnel time and a cost of approximately $1100 for professional services), 16 hours for registration statements (4 hours in-house personnel time and a cost of approximately $3600 for professional services) and 10 hours for quarterly reports (7.5 hours in-house personnel time and a cost of approximately $750 for professional services). We estimate that in the first year, the disclosure of contractual obligations will take 7.5 hours for annual reports and proxy statements (5.5 hours in-house personnel time and a cost of approximately $600 for professional services), 8.5 hours for registration statements (2 hours in-house personnel time and a cost of approximately $1900 for professional services) and 3 hours for each quarterly report (2.25 hours in-house personnel time and a cost of approximately $225 for professional services). Our estimates for the preparation time for all of the disclosure items in the first year are 22 hours for annual reports and proxy statements (16.5 hours in-house personnel time and a cost of approximately $1650 for professional services), 24.5 hours for registration statements (6 hours in-house personnel time and a cost of approximately $5500 for professional services) and 13 hours for quarterly reports (9.75 hours in-house personnel time and a cost of approximately $975 for professional services). The paperwork burden estimate for preparing one annual report and three quarterly reports is 61 hours (46 hours in-house personnel time and a cost of approximately $4600 for professional services). 
+
+Because the paperwork burden estimates reflect a three-year period, we averaged the first year estimates with later year estimates to account for the fact that registrants would become accustomed to the disclosure requirements after the first year and therefore spend less time preparing the disclosure over the two subsequent years. The submission to OMB also reduced the burden to account for issuers that do not engage in off-balance sheet arrangements and for issuers that include identical MD&A sections in more than one filing covering the same period ( e.g. , Form 10-K and Form S-1).<h>C. Responses to Request for Comments </h>
+
+We requested comment on the PRA analysis contained in the Proposing Release and received the following responses. Two commenters believed that the average estimate of 37 hours per registrant underestimated the compliance burden.<sup> 155 </sup> One commenter provided an estimated burden of approximately 150 to 190 hours to implement the rule.<sup> 156 </sup> Another commenter believed that compliance with the proposed requirement to include a tabular or textual disclosure of contractual obligations and contingent liabilities and commitments would require most companies to implement tracking and monitoring systems for contractual obligations and commitments (which would cost approximately $75,000 to $125,000 for software, with annual personnel costs of $90,000 to $125,000, plus an additional $25,000 for other costs).<sup> 157 </sup>
+
+We believe that registrants already must collect the information required by the amendments in order to prepare their financial statements, meet their existing disclosure requirements and to maintain adequate internal controls. For example, U.S. GAAP currently requires registrants to disclose information about guarantees, contractual obligations under leases and long-term debt.<sup> 158 </sup> Current MD&A rules require disclosure of the registrant's material commitments for capital expenditures as of the end of the latest fiscal period.<sup> 159 </sup> We also believe that the treasury functions of most registrants track and monitor payments due under purchase obligations for internal control and budgeting purposes. Therefore, the paperwork burden in our estimate reflects the time it will take to draft and review the required disclosures, but not to initially collect the information. 
+
+Accordingly, we are not changing our initial estimates that have been submitted to OMB. In response to the commenters' concerns that the Proposing Release underestimated the paperwork burden, we are not reducing our estimates even though we have refined the definition of "off-balance sheet arrangements," specified the particular contractual obligations to be included in the table and eliminated the table or text of contingent liabilities or commitments.<h>V. Cost-Benefit AnalysisA. Background </h><h>A. Background </h>
+
+In accordance with the directive in Section 401(a) of the Sarbanes-Oxley Act,<sup> 160 </sup> the Commission is adopting amendments to disclosure rules regarding a company's off-balance sheet arrangements. The amendments require disclosure to improve investors' understanding of a company's overall financial condition, changes in financial condition and results of operations. The amendments require companies that are reporting, raising capital in the registered public markets or asking shareholders for their votes to provide information about their off-balance sheet arrangements and an aggregate overview of their known contractual obligations in tabular format.<h>B. Objectives of Amendments </h>
+
+The amendments seek to improve transparency of disclosure regarding a company's off-balance sheet arrangements and to provide an overview of aggregate contractual obligations. We believe that improvement in the quality of information in these areas is necessary for investors to better understand a company's current and future financial position and current and future sources of liquidity. Moreover, because management is in the best position to monitor and assess those aspects of its business, it also is in the best position to provide clear explanations and analysis to investors. Our objectives are:
+
+ 
+
+To implement the legislative mandate in Section 401(a) of the Sarbanes-Oxley Act;
+
+To provide investors with the information and analysis necessary to gain a more comprehensive understanding of the implications of a company's obligations and contingencies from off-balance sheet arrangements that are neither readily apparent, nor easily understood, from a reading of the financial statements alone; and
+
+To better inform investors of the short- and long-term impact of payments due under contractual obligations, from both on- and off-balance sheet activities, by presenting a complete picture in a single location.
+
+ 
+
+With a greater understanding of off-balance sheet arrangements and contractual obligations, investors should be better able to understand how a company conducts significant aspects of its business (including financing), to assess the quality of earnings and to understand the risks that are not apparent on the face of the financial statements.<h>C. Regulatory Approach </h>
+
+We are adopting principles-based disclosure requirements that are bolstered by four specific disclosure items to provide basic information about off-balance sheet arrangements. The principle governing our regulatory approach is that registrants should disclose information to the extent that it is necessary to an understanding of its off-balance sheet arrangements and their effect on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. To militate against obscure disclosure, the amendments include four disclosure items that are designed to result in a focused and descriptive discussion of the registrant's material off-balance sheet arrangements. This approach attempts to balance the need for registrants to have flexibility when drafting financial disclosure with investors' needs for more transparency. While the amendments could be considered less prescriptive than the proposed rules, we believe that we have preserved the benefits to investors of the disclosure requirements for off-balance sheet arrangements.
+
+Certain disclosures required by this amendment are already required by generally accepted accounting principles.<sup> 161 </sup> The amendments are designed to work in concert with the disclosures required by generally accepted accounting principles to provide investors with a deeper, more comprehensive understanding of off-balance sheet arrangements employed by the registrant. Management is afforded the flexibility under the amendments to enhance the factual content contained in the financial statements with its perspective of how off-balance sheet arrangements are used in the context of the registrant's business.<h>D. Benefits of the Amendments </h>
+
+The primary anticipated benefit of the amendments is to increase transparency of a registrant's financial disclosure. Current market events have evidenced a need to provide investors with a clearer understanding of how a company's off-balance sheet arrangements materially affect the financial statements and company performance.<sup> 162 </sup> The amendments are intended to enhance the utility of the disclosure in the MD&A section by providing more information, including management's analysis, of off-balance sheet arrangements. In addition, the tabular disclosure of contractual obligations is designed to provide investors with an understanding of the liquidity and capital resource need and demands in short- and long-term time horizons.
+
+By making information about off-balance sheet arrangements and contractual obligations available and more understandable, the amendments will benefit investors both directly and indirectly through the financial analysts and the credit rating agencies whose analyses investors consider.<sup> 163 </sup> In addition, the amendments should benefit investors because the enumerated disclosure will likely be more comparable across all firms and consistent over time. Greater transparency will thus enable investors to make more informed investment decisions and to allocate capital on a more efficient basis.<h>E. Costs of Amendments </h>
+
+We estimate that the amendments will impose a disclosure requirement on approximately 9,850 public companies.<sup> 164 </sup> We estimate that the disclosure will involve multiple parties, including in-house preparers, senior management, in-house counsel, outside counsel, outside auditors, and audit committee members. One commenter, commenting on the types of expenses, believed that companies would incur significant legal, accounting and internal costs (including collection and monitoring systems) in order to comply with the proposed disclosure.<sup> 165 </sup> For purposes of the Paperwork Reduction Act,<sup> 166 </sup> we estimated that company personnel would spend approximately 366,337 hours per year (37 hours per company) to prepare, review and file the proposed disclosure. Based on our estimated cost of in-house staff time, we estimated that the PRA hour-burden would translate into an approximate cost of $45,792,000 ($5,000 per company).<sup> 167 </sup> We also estimated that companies would spend approximately $44,795,000 ($5,000 per company) on outside professionals to comply with the disclosure.<sup> 168 </sup> In response to our request for comment, one commenter estimated the annual cost for a large multinational company to be about $2 million.<sup> 169 </sup> One commenter noted that, in view of the limited number of public companies that may have failed to provide disclosures, it had significant reservations about whether the additional cost of regulation is justified.<sup> 170 </sup> 
+
+We believe the amendments will not substantially increase the costs to collect the information necessary to prepare the disclosure. This information should largely be readily available from each company's books and records. Since management should be fully apprised of off-balance sheet arrangements and contractual obligations in the ordinary course of managing the company, maintaining adequate internal controls and preparing the financial statements, the amendments may not impose significant incremental costs for the collection and c alculation of data. 
+
+In assessing the cost of the amendments, we have considered possible unintended consequences. One possible unintended consequence of the amendments is that a registrant's competitors may be able to infer proprietary information from the disclosure. For example, a registrant's competitors may infer that the registrant has adopted a particular strategy based on disclosure about its off-balance sheet arrangements. In addition, a registrant may be discouraged from developing innovative financing techniques if a competitor may be able to copy the technique at little cost. The amendments could impose additional costs to the extent that the disclosure would deter legitimate uses of off-balance sheet arrangements.<h>F. Foreign Private Issuers </h>
+
+The amendments apply to foreign private issuers the same MD&A disclosure requirements that apply to U.S. companies. Foreign private issuers, however, are not required to file quarterly reports with the Commission. Thus, unless a foreign private issuer files a registration statement that must include interim period financial statements and related MD&A disclosure, it generally will not be required to update the MD&A disclosure more frequently than annually. Therefore, the cost of compliance could be lower for foreign private issuers than for U.S. companies. It is possible, however, that foreign private issuers will incur greater expenses in connection with the required reconciliation to U.S. GAAP, but only if a discussion of the differences in accounting is necessary for an understanding of the financial statements as a whole.<h>G. Small Business Issuers </h>
+
+The amendments do not require that small businesses provide tabular disclosure about contractual obligations. This information is currently required to be disclosed in various locations in filings. While it would be useful to investors if this information were disclosed in a single location, we believe that excluding small business issuers from this requirement is consistent with the policies underlying the small business issuer disclosure system. Although a small business issuer is not required to provide the table of contractual obligations in its MD&A, we encourage small business issuers to identify for investors the relevant financial footnotes that contain information about certain contractual obligations.<h>VI. Effects on Efficiency, Competition and Capital Formation </h>
+
+Section 23(a)(2) of the Exchange Act<sup> 171 </sup> requires us, when adopting rules under the Exchange Act, to consider the anti-competitive effects. In addition, Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. We have considered the amendments in accordance with the standards in Section 23(a)(2).
+
+The amendments require disclosure of information that is essential to an understanding of the ways that a company conducts its business and the potential material risks that the company may face as a result. The amendments also enhance the transparency of financial information that is neither readily apparent, nor easily understood, from a reading of the financial statements alone. The amendments are intended to make information about off-balance sheet arrangements and their impact on a public company's financial condition, changes in financial condition and operating results more understandable to investors. The amendments also will provide an overview of a company's known contractual obligations, which will improve an investors' ability to assess the liquidity and capital resource needs of a company over short- and long-term time periods.
+
+In the Proposing Release, we identified two possible areas where the rules could potentially place a burden on competition. First, the amendments could burden competition to the extent that the disclosure may deter legitimate uses of off-balance sheet arrangements. Second, there is a possibility that a company's competitors could be able to infer proprietary or sensitive information from the company's disclosure about its off-balance sheet arrangements. We requested comment regarding the degree to which the proposed disclosure requirements would create competitively harmful effects upon public companies and how to minimize those effects. Three commenters on the Proposing Release expressed concerns about the sensitivity and potential competitive harm that could result from the disclosure.<sup> 172 </sup> The likelihood that competitors could infer proprietary information must be weighed against investors' needs for transparency of financial arrangements and resultant risk exposures. The amendments attempt to mitigate competitive harm by requiring disclosure to the extent necessary for an understanding of a registrant's off-balance sheet arrangements and their financial effects. Seven commenters believed that the proposal to require tabular or textual disclosure of contingent liabilities would cause competitive harm to the extent that such disclosure could negatively influence the outcome of the contingency.<sup> 173 </sup> We are not adopting that proposal at this time.
+
+Section 2(b) of the Securities Act<sup> 174 </sup> and Section 3(f) of the Exchange Act<sup> 175 </sup> require us, when engaging in rulemaking that requires us to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition and capital formation. We believe the amendments will promote market efficiency by making information about off-balance sheet arrangements, and their impact on the presentation of the company's financial position, more understandable. In addition, information about payments under known contractual obligations will be aggregated and presented in a single location. As a result, we believe that investors may be able to make more informed investment decisions and capital may be allocated on a more efficient basis.<h>VII. Final Regulatory Flexibility Analysis </h>
+
+This Final Regulatory Flexibility Analysis ("FRFA") has been prepared in accordance with the Regulatory Flexibility Act.<sup> 176 </sup> This FRFA relates to amendments to Item 303 of Regulation S-K,<sup> 177 </sup> Item 303 of Regulation S-B,<sup> 178 </sup> Item 5 of Form 20-F<sup> 179 </sup> and General Instruction B of Form 40-F.<sup> 180 </sup> The amendments require public companies to discuss off-balance sheet arrangements and to provide a table of aggregate contractual obligations as of the latest fiscal year end balance sheet date. The disclosure will be included in the MD&A section of a public company's annual reports, quarterly reports, registration statements and proxy and information statements.<h>A. Need for the Amendments </h>
+
+On July 30, 2002, the Sarbanes-Oxley Act of 2002 was enacted.<sup> 181 </sup> Section 401 of the Sarbanes-Oxley Act, entitled "Disclosures in Periodic Reports," requires the Commission to adopt final rules by January 26, 2003 (180 days after the date of enactment) that require a company, in each annual and quarterly financial report that it files with the Commission, to disclose "all material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the issuer with unconsolidated entities or other persons, that may have a material current or future effect on financial condition, changes in financial condition, results of operations, liquidity, capital expenditures, capital resources, or significant components of revenues or expenses."<sup> 182 </sup> The Commission is adopting the amendments to fulfill that legislative mandate. The amendments address the lack of transparency of off-balance sheet arrangements in a public company's financial disclosure. The amendments address this problem by requiring a discussion of off-balance sheet arrangements in a public company's MD&A. The potential consequences of not taking this action to require disclosure regarding the off-balance sheet arrangements are: (a) less transparency in the presentation of companies' financial statements and, correspondingly, a lesser understanding of companies' financial condition, changes in financial condition and results of operations when making investment decisions; and (b) a potential decrease in investor confidence in the full and fair disclosure system that is the hallmark of the U.S. capital markets. 
+
+The amendments seek to improve transparency of a company's off-balance sheet arrangements and aggregate contractual obligations. We believe that improvements in the quality of information in these areas will promote investor understanding of a company's current and future financial position. Our objectives are:
+
+ 
+
+To implement the legislative mandate in Section 401(a) of the Sarbanes-Oxley Act;
+
+To provide investors with the information and analysis necessary to gain a more comprehensive understanding of the implications of a company's obligations and contingencies from off-balance sheet arrangements that are neither readily apparent, nor easily understood, from a reading of the financial statements alone; and
+
+To better inform investors of the aggregate impact of short- and long-term contractual obligations, from both on- and off-balance sheet activities, by presenting a complete picture in a single location.
+
+ 
+
+With a greater understanding of a company's off-balance sheet arrangements and contractual obligations, investors will be better able to understand how a company conducts significant aspects of its business and to assess the quality of a company's earnings and the risks that are not apparent on the face of the financial statements.<h>B. Significant Issues Raised by Public Comment </h>
+
+The Initial Regulatory Flexibility Analysis ("IRFA") appeared in the Proposing Release. We requested comment on any aspect of the IRFA, including the number of small entities that would be affected by the proposals, the nature of the impact, how to quantify the number of small entities that would be affected and how to quantify the impact of the proposals. We received no comment letters responding to that request.<h>C. Small Entities Subject to the Amendments </h>
+
+The amendments would affect companies that are small entities. Securities Act Rule 157<sup> 183 </sup> and Exchange Act Rule 0-10(a)<sup> 184 </sup> define a company, other than an investment company, to be a "small business" or "small organization" if it had total assets of $5 million or less on the last day of its most recent fiscal year. We estimate that there are approximately 2,500 companies, other than investment companies, that may be considered small entities. The amendments would apply to any small entity that fulfills its disclosure obligations by complying with our standard disclosure requirements<sup> 185 </sup> or with our optional disclosure system available only to small businesses.<sup> 186 </sup> 
+
+We believe that off-balance sheet arrangements involving small entities are most likely to be operating leases, but we did not receive any comments substantiating that belief. In our Paperwork Reduction Act analysis, we estimated that the cost of in-house staff time would translate into an approximate cost of $4,000 per company.<sup> 187 </sup> This figure may be lower for a small entity if its average hourly cost for its personnel were lower than $125, but we did not receive any specific data regarding these estimates. We also estimated that companies would spend approximately $5,000 per company on outside professionals to comply with the disclosure.<sup> 188 </sup> This figure may be lower for a small entity if its average hourly cost of outside professionals were lower than $300, but we did not receive any substantiating data.<h>D. Projected Reporting, Recordkeeping and Other Compliance Requirements </h>
+
+The amendments will impose reporting and recordkeeping requirements on the class of small entities subject to our reporting requirements, either due to Securities Act registration or by the Exchange Act reporting requirements. The amendments will subject this class of small entities to reporting and recordkeeping requirements in connection with drafting, reviewing, filing, printing and disseminating disclosure in annual reports, registration statements, proxy or information statements and quarterly reports. The data underlying the disclosure about off-balance sheet transactions should be readily available from a company's books and records. Since management should be fully apprised of material off-balance sheet arrangements to fulfill its existing disclosure requirements and to maintain proper internal controls, the amendments may not impose significant incremental costs related to the collection and calculation of data. Small entities will either utilize existing personnel or hire an outside professional to provide the required disclosure.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+Because Section 401(a) of the Sarbanes-Oxley Act does not distinguish between small entities and other companies, we interpret Congress' directive to the Commission to adopt rules requiring expanded disclosure about off-balance sheet transactions to apply equally to small entities and to other public companies. However, we were able to further ease the regulatory burden on small entities by excluding small business issuers from the tabular disclosure requirement about contractual obligations. Tabular disclosure of contractual obligations was not mandated by the Sarbanes-Oxley Act. That information is currently required to be disclosed in various locations in filings. While it would be useful to investors if this information were disclosed in a single location, we believe that excluding small business issuers from this requirement would reduce their regulatory burden. 
+
+As required by the Regulatory Flexibility Act, we have considered alternatives that would accomplish our stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered the following alternatives: 
+
+(a) The establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; 
+
+(b) The clarification, consolidation, or simplification of disclosure for small entities; 
+
+(c) The use of performance rather than design standards; and 
+
+(d) An exemption for small entities from all or part of the amendments. 
+
+We have drafted the amendments to require clear and straightforward disclosure of off-balance sheet arrangements in MD&A. Separate disclosure requirements regarding off-balance sheet arrangements for small entities will not yield the disclosure that we believe is necessary to achieve our objectives. In addition, the informational needs of investors in small entities are typically as great as the needs of investors in larger companies. Therefore, it does not seem appropriate to develop separate requirements with regard to off-balance sheet arrangements for small entities that clarify, consolidate or simplify the amendments. We have, however, excluded small business issuers from the requirement to provide tabular disclosure of contractual obligations. 
+
+We have used design rather than performance standards in connection with the amendments for three reasons. First, we believe the disclosure will be easier to implement and more useful to investors with enumerated informational requirements. The required disclosures may be likely to result in a more focused and comprehensive discussion of the company's off-balance sheet arrangements. Second, mandated disclosures regarding off-balance sheet arrangements may benefit investors in small entities because the enumerated disclosure under the amendments likely will be more comparable across all firms and consistent over time. Third, a mandated discussion of a company's off-balance sheet arrangements is uniquely suited to the MD&A disclosure in light of MD&A's emphasis on the identification of significant uncertainties and events and favorable or unfavorable trends. Therefore, adding a disclosure requirement to the existing MD&A appears to be the most effective method of eliciting the disclosure. 
+
+Because Section 401(a) of the Sarbanes-Oxley Act does not distinguish between small entities and other companies, we do not believe it is appropriate to exempt small entities from the requirement to discuss off-balance sheet arrangements. We have, however, excluded small business issuers from the requirement to provide tabular disclosure of contractual obligations.<h>VIII. Statutory Authority and Text of Rule Amendments </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 229.303.
+
+2 17 CFR 229.10 et seq.
+
+3 17 CFR 228.303.
+
+4 17 CFR 228.10 et seq.
+
+5 17 CFR 249.220f.
+
+6 17 CFR 249.240f.
+
+7 15 U.S.C. §78a et seq.
+
+8 Pub. L. 107-204, 116 Stat. 745 (2002).
+
+9 15 U.S.C. §78m(j).
+
+10 Pub. L. 107-204 Sec. 401(a).
+
+11 See Release No. 33-8144 (Nov. 4, 2002) [67 FR 68054] (the "Proposing Release").
+
+12 See Release No. 33-8056, FR-61 (Jan. 22, 2002) [67 FR 3746] (the "Commission Statement"). That statement was issued in response to a petition from Arthur Andersen LLP, Deloitte and Touche LLP, Ernst & Young LLP, KPMG LLP, and PricewaterhouseCoopers LLP, with the endorsement of the American Institute of Certified Public Accountants, for an interpretive release to facilitate enhanced MD&A disclosures. See Rulemaking Petition No. 4-450 (Dec. 31, 2001).
+
+13 See, e.g. , Release No. 33-5443 (Dec. 12, 1973) [39 FR 829].
+
+14 In In the Matter of Caterpillar Inc . , Release No. 34-30532 (March 31, 1992), the Commission found that Caterpillar had violated Section 13(a) of the Exchange Act [15 USC §78m(a)] by failing to have disclosed the magnitude of its Brazilian subsidiary's contribution to Caterpillar's overall earnings. Disclosure of the extent of that contribution was required under the MD&A disclosure requirements, even though disclosure was not required under GAAP, because the subsidiary's earnings materially affected Caterpillar's reported income from continuing operations. See Item 303(a)(3)(i) of Regulation S-K [17 CFR 229.303(a)(3)(i)]. Furthermore, Caterpillar's MD&A should have discussed various factors which contributed to the subsidiary's earnings, such as currency translation gains, export subsidies, interest income, and Brazilian tax loss carry-forwards, because such items were significant components of its revenues that should have been identified and addressed in order for a reader of the company's financial statements to understand Caterpillar's results of operations. Id .
+
+15 See Item 303(a) of Regulation S-K [17 CFR 229.303(a)].
+
+16 See Item 303(a)(1) of Regulation S-K [17 CFR 229.303(a)(1)].
+
+17 Id .
+
+18 See Item 303(a)(2)(i) of Regulation S-K [17 CFR 229.303(a)(2)(i)].
+
+19 See Item 303(a)(2)(ii) of Regulation S-K [17 CFR 229.303(a)(2)(ii)].
+
+20 See Item 303(a)(3)(i) of Regulation S-K [17 CFR 229.303(a)(3)(i)].
+
+21 Id .
+
+22 See Item 303(a)(3)(iii) of Regulation S-K [17 CFR 229.303(a)(3)(iii)].
+
+23 See Instruction 3(A) to Item 303(a) of Regulation S-K [17 CFR 229.303(a)].
+
+24 See Instruction 3(B) to Item 303(a) of Regulation S-K [17 CFR 229.303(a)].
+
+25 See Item 303(a)(2)(ii) of Regulation S-K [17 CFR 229.303(a)(2)(ii)].
+
+26 The Sarbanes-Oxley Act exempts from Section 401 investment companies registered under Section 8 of the Investment Company Act of 1940 (15 USC §80a-8). See Pub. L. 107-204 Sec. 405 [15 U.S.C. §7263]. Therefore, registered investment companies are excluded from the scope of the amendments. The amendments apply, however, to business development companies. Business development companies are defined in Section 2(a)(48) of the Investment Company Act of 1940. See 15 U.S.C. § 80a-2(a)(48). Business development companies are a category of closed-end investment companies that are not required to register under the Investment Company Act, but file Forms 10-K and 10-Q, and also include MD&A in their annual reports to shareholders.
+
+27 See Release No. 33-8144 (Nov. 4, 2002) [67 FR 68054].
+
+28 In a January 2002 Commission Statement, we indicated our view that "reasonably likely" is a lower disclosure threshold than "more likely than not." See Release No. 33-8056, FR-61 (Jan. 22, 2002) [67 FR 3746] (the "Commission Statement").
+
+29 The commenters are as follows: Accounting Firms : BDO Seidman LLP ("BDO"); Deloitte & Touche LLP ("D&T"); Ernst & Young LLP ("E&Y"); KPMG LLP ("KPMG"); PricewaterhouseCoopers LLP ("PwC"). Law Firms : Cleary, Gottlieb, Steen & Hamilton ("Cleary"); Fried, Frank, Harris, Shriver & Jacobson ("Fried Frank"); Sullivan & Cromwell ("S&C"); Troutman Sanders LLP ("Troutman"). Associations : American Bar Association ("ABA"); American Institute of Certified Public Accountants ("AICPA"); American Society of Corporate Secretaries ("ASCS"); America's Community Bankers ("ACB"); Association for Financial Professionals ("AFP"); Association of the Bar of the City of New York ("NY City Bar"); Edison Electric Institute ("EEI"); Financial Executives International ("FEI"); Interfaith Council on Corporate Accountability ("CANICCOR"); Investment Company Institute ("ICI"); Investment Counsel Association of America ("ICAA"); National Association of Real Estate Investment Trusts ("NAREIT"); New York County Lawyer's Association ("NYCLA"); New York State Bar Association ("NYBA"); Organization for International Investment ("OFII"); Rose Foundation for Communities & Environment ("Rose"); Securities Industry Association ("SIA"). Corporations : Boeing Company ("Boeing"); Centex Corporation; ("Centex"); Compass Bancshares, Inc. ("Compass"); Computer Sciences Corporation ("CSC"); Constellation Energy Group ("CEG"); Eaton Corporation ("Eaton"); Eli Lilly and Company ("Lilly"); Emerson Electric Corporation ("Emerson"); First Tennessee National Corporation ("FTNC"); Ford Motor Company ("Ford"); IMC Global Inc. ("IMC"); Intel Corporation ("Intel"); Kellogg Company ("Kellogg"); Pfizer Inc. ("Pfizer"). Individuals : Barbara Barry ("Barry"); Robert Beard, C.P.A. ("Beard"); Kevin Bronner, Ph.D. ("Bronner"); Dave Henseler ("Henseler"); Timothy O'Keefe ("O'Keefe"); Ralph Saul ("Saul"). Governmental Bodies : European Commission ("EC").
+
+30 See , e.g. , the letters of Compass, Emerson, Fried Frank, ICAA, IMC and PwC.
+
+31 See , e.g. , the letters of ABA, ACB, AICPA, Boeing, CEG, CSC, D&T, Eaton, EEI, E&Y, FTNC, Kellogg, KPMG, Pfizer and S&C.
+
+32 See , e.g. , the letters of ABA, ACB, AICPA, CEG, Centex, CSC, D&T, Eaton, EEI, E&Y, Kellogg, KPMG, NY City Bar and PwC.
+
+33 See , e.g. , the letters of ABA, ACB, Centex, CSC, D&T, E&Y, KPMG and NY City Bar.
+
+34 See the letter of ABA.
+
+35 See , e.g. , the letters of BDO, Compass, D&T, FTNC, Intel and S&C.
+
+36 See , e.g. , the letters of ACB, AICPA, Boeing, CEG, D&T, EEI, E&Y and Pfizer.
+
+37 See Discussion in Section III.A.
+
+38 See , e.g. , the letters of ABA, ACB, AICPA, ASCS, Boeing, CEG, Cleary, Compass, CSC, D&T, Eaton, EEI, E&Y, Fried Frank, ICAA, IMC, Intel, KPMG, Lilly, NAREIT, NYBA, NY City Bar, Pfizer, PwC and S&C.
+
+39 See , e.g. , the letters of Beard, CANICCOR and IMC.
+
+40 See , e.g. , the letters of ABA, ACB, AICPA, CEG, Cleary, Compass, CSC, D&T, EEI, E&Y, Fried Frank, Lilly, NYBA, NY City Bar, Pfizer, PwC and S&C.
+
+41 See , e.g. , the letters of ACB, AICPA, ASCS, Boeing, CEG, Cleary, Compass, CSC, D&T, EEI, FEI, Fried Frank, ICAA, KPMG, Lilly, NAREIT, NYBA, NY City Bar, Pfizer, PwC and S&C.
+
+42 See , e.g. , the letters of Fried Frank, KPMG and Pfizer.
+
+43 See , e.g. , the letters of ABA, ACB, AICPA, ASCS, CEG, CSC, D&T, Eaton, EEI, Fried Frank, FTNC, ICAA, Intel, KPMG, Lilly, NAREIT, NYBA, NY City Bar, Pfizer, PwC and S&C.
+
+44 See Discussion in Section III.B.
+
+45 In June 2002, we proposed amendments to require registrants to file current reports on Form 8-K in the event of the creation of a direct or contingent material financial obligation or the occurrence of an event triggering a direct or contingent material financial obligation. See Release No. 33-8106 (June 17, 2002) [67 FR 42914]. If adopted, those current reporting requirements will keep investors apprised of material contingent obligations arising from off-balance sheet arrangements even if these fall below the "reasonably likely" threshold that we are adopting for MD&A disclosure.
+
+46 See , e.g. , the letters of ICI, IMC, D&T, NYBA, Pfizer and PwC.
+
+47 See , e.g. , the letters of Cleary, CSC, FTNC, NY City Bar and S&C.
+
+48 See , e.g. , the letters of ACB, AFP, Boeing, CSC, FTNC, Cleary, NY City Bar and S&C.
+
+49 See , e.g. , the letters of AFP, Boeing and Pfizer.
+
+50 See , e.g. , the letters of BDO, Cleary, CSC, FTNC, NY City Bar, Pfizer and S&C.
+
+51 See , e.g. , the letters of ABA, ACB, AICPA, Boeing, CSC, IMC, KPMG and Pfizer.
+
+52 Id.
+
+53 See Release No. 33-6349 (Sept. 28, 1981).
+
+54 See , e.g. , Item 303(a)(4)(i)(A) of Regulation S-K [17 CFR 229.303(a)(4)(i)(A)].
+
+55 See , e.g. , Item 303(a)(4)(i)(B) of Regulation S-K [17 CFR 229.303(a)(4)(i)(B)].
+
+56 See , e.g. , Item 303(a)(4)(i)(C) of Regulation S-K [17 CFR 229.303(a)(4)(i)(C)].
+
+57 See , e.g. , Item 303(a)(4)(i)(D) of Regulation S-K [17 CFR 229.303(a)(4)(i)(D)].
+
+58 See , e.g. , Item 303(a)(4)(i) of Regulation S-K [17 CFR 229.303(a)(4)(i)].
+
+59 See , e.g. , the letters of ABA, ACB, AICPA, Boeing, CSC, IMC, KPMG and Pfizer.
+
+60 See , e.g. , the letters of ACB, Compass, CSC, ICAA, IMC and Pfizer.
+
+61 See , e.g. , the letters of ABA, Eaton, Emerson and NY City Bar.
+
+62 See , e.g. , the letters of AICPA and E&Y.
+
+63 See , e.g. , the letters of Eaton, Emerson, NY City Bar and Troutman.
+
+64 See , e.g. , the letters of ABA, ACB, BDO, Centex, D&T, Eaton, Emerson, ICAA, Kellogg, NYBA, NY City Bar, Rose and Troutman.
+
+65 See , e.g. , the letters of Centex, D&T, Eaton, Ford, FTNC, ICAA, IMC, Intel, Kellogg, NY City Bar and Pfizer.
+
+66 See , e.g. , the letters of BDO, Centex, D&T, Emerson, Kellogg and NY City Bar.
+
+67 See , e.g. , the letters of Centex and D&T.
+
+68 See , e.g. , the letters of AICPA, E&Y, D&T, NYBA and PwC.
+
+69 See , e.g. , the letters of AICPA, Eaton, E&Y, D&T, Intel, Troutman and PwC.
+
+70 See , e.g. , the letters of ABA, Centex, Eaton, Ford and NY City Bar.
+
+71 See , e.g. , the letters of Centex, IMC and NY City Bar.
+
+72 See , e.g. , the letters of Beard, CSC, IMC, NYBA and Pfizer.
+
+73 See , e.g. , Item 303(a)(5)(ii) of Regulation S-K [17 CFR 229.303(a)(5)(ii)]. We are unable to follow a similar approach for registrants whose financial statements are prepared in accordance with a non-U.S. GAAP. An instruction, however, makes clear that such a registrant should base the categories of contractual obligations (except "purchase obligations") on the classifications used in the GAAP under which its primary financial statements are prepared. See , e.g. , Instruction 2 to Item 5.F of Form 20-F [17 CFR 249.220f].
+
+74 See , e.g. , Financial Accounting Standards Board ("FASB") Interpretation No. 45, Guarantor's Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others (Nov. 2002), ("FIN 45"); and FASB Interpretation No. 46, Consolidation of Variable Interest Entities (Jan. 2003), ("FIN 46").
+
+75 We are considering future rule proposals or interpretive releases to improve MD&A disclosure, such as requiring an overview about a company's situation and information about the trends that its management follows and evaluates in making decisions about how to guide the company's business.
+
+76 See Commission Statement, Release No. 33-8056, FR-61 (Jan. 22, 2002) [67 FR 3746] at Section II.A.3.
+
+77 A "keepwell agreement" includes any agreement or undertaking under which a company is, or would be, obligated to provide or arrange for the provision of funds or property to an affiliate or third party.
+
+78 For purposes of the amendments, contingent liabilities arising out of litigation, arbitration or regulatory actions are not considered to be off-balance sheet arrangements. See , e.g. , Instruction 3 to Paragraph 303(a)(4) of Regulation S-K [17 CFR 229.303].
+
+79 The guarantee contracts covered by the definition are consistent with the scope of the recently issued FIN 45.
+
+80 For registrants whose financial statements are prepared in accordance with U.S. GAAP, the definition includes a contract that would be accounted for as a derivative instrument, except that it is both indexed to the registrant's own stock and classified in the registrant's statement of stockholders' equity. See FASB Statement of Financial Accounting Standards ("SFAS") No. 133, Accounting for Derivative Instruments and Hedging Activities (June 1998), ("SFAS No. 133"), paragraph 11a. For other registrants, the definition includes derivative instruments that are both indexed to the registrant's own stock and classified in stockholders' equity, or not reflected, in the company's statement of financial position.
+
+81 See FIN 46.
+
+82 See , e.g. , Item 303(a)(4)(ii)(A) of Regulation S-K [17 CFR 229.303(a)(4)(ii)(A)].
+
+83 An "underlying" is defined as "a specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable." See FIN 45 at fn. 2.
+
+84 See FIN 45, paragraph 3a.
+
+85 Id ., paragraph 3b.
+
+86 Id ., paragraph 3c.
+
+87 Id ., paragraphs 3d and 17.
+
+88 A registrant that prepares its financial statements in accordance with a non-U.S. GAAP must apply FIN 45 to reconcile its financial statements with U.S. GAAP.
+
+89 Paragraph 6 of FIN 45 excludes: guarantees issued by insurance and reinsurance companies and accounted for under specialized accounting principles for those companies; a lessee's guarantee of the residual value of leased property in a capital lease; contingent rents; vendor rebates; and guarantees whose existence prevents the guarantor from recognizing a sale or the earnings from a sale. Paragraph 7 of FIN 45 excludes: product warranties; guarantees that are accounted for as derivatives; contingent consideration in a business combination; guarantees for which the guarantor's obligations would be reported as an equity item (rather than a liability); certain guarantees in connection with a lease restructuring; guarantees issued between either parents and their subsidiaries or corporations under common control; a parent's guarantee of a subsidiary's debt to a third party; and a subsidiary's guarantee of the debt owed to a third party by either its parent or another subsidiary of that parent.
+
+90 See , e.g. , Item 303(a)(4)(ii)(B) of Regulation S-K [17 CFR 229.303(a)(4)(ii)(B)].
+
+91 See FASB Emerging Issues Task Force Issue ("EITF") No. 00-19 Accounting for Derivative Financial Instruments Indexed to, and Potentially Settled in, a Company's Own Stock (Jan. 2001). The FASB has been reevaluating the accounting treatment for such financial instruments and is expected to issue SFAS No. 149 Accounting for Financial Instruments with Characteristics of Liabilities or Equity in February 2003.
+
+92 See SFAS No. 133, paragraph 11a. In particular, paragraph 11a excludes contracts issued or held by a registrant that are both: (1) indexed to its own stock and (2) classified in stockholder's equity in its statement of financial position.
+
+93 See , e.g. , Item 5.E.2(c) of Form 20-F [17 CFR 249.220f].
+
+94 See , e.g. , Item 303(a)(4)(ii)(D) of Regulation S-K [17 CFR 229.303(a)(4)(ii)(D)].
+
+95 See FIN 46 at paragraph 2c.
+
+96 See FIN 46 at paragraph 6. The definition of "off-balance sheet arrangement" only addresses obligations arising out of a variable interest held by a registrant, and not residual returns.
+
+97 We identified the need for improved disclosures about entities that conduct these activities in the January 2002 Commission Statement. See Commission Statement, Release No. 33-8056, FR-61 (Jan. 22, 2002) [67 FR 3746] at Section II.A.2.
+
+98 See , e.g. , Item 303(a)(4)(i) of Regulation S-K [17 CFR 229.303(a)(4)(i)].
+
+99 See Release No. 33-6835 (May 18, 1989) [54 FR 22427] (the "1989 Interpretive Release"). The January 2002 Commission Statement indicated that "reasonably likely" is a lower disclosure threshold than "more likely than not." See Release No. 33-8056, FR-61 (Jan. 22, 2002) [67 FR 3746].
+
+100 Even if management determines that the likelihood of a material effect is not reasonably likely, disclosure may still be required in the footnotes to the financial statements. See , e.g. , FIN 45, paragraph 13.
+
+101 See Release No. 33-6835 (May 18, 1989) [54 FR 22427].
+
+102 See , e.g. , Item 303(a)(4)(i) of Regulation S-K [17 CFR 229.303(a)(4)(i)].
+
+103 See , e.g. , Instruction 4 to paragraph 303(a)(4) of Regulation S-K [17 CFR 229.303]. Compare Instruction 1 to Item 303(a) of Regulation S-K [17 CFR 229.303].
+
+104 See , e.g. , Item 303(a)(4)(i)(A) of Regulation S-K [17 CFR 229.303(a)(4)(i)(A)].
+
+105 See , e.g. , Item 303(a)(4)(i)(B) of Regulation S-K [17 CFR 229.303(a)(4)(i)(B)].
+
+106 See , e.g. , Item 303(a)(4)(i)(C) of Regulation S-K [17 CFR 229.303(a)(4)(i)(C)].
+
+107 See , e.g. , Item 303(a)(4)(i)(D) of Regulation S-K [17 CFR 229.303(a)(4)(i)(D)].
+
+108 See , e.g. , Item 303(a)(4)(i) of Regulation S-K [17 CFR 229.303(a)(4)(i)].
+
+109 See , e.g. , Instruction 2 to paragraph 303(a)(4) of Regulation S-K [17 CFR 229.303].
+
+110 See , e.g. , Instruction 1 to paragraph 303(a)(4) of Regulation S-K [17 CFR 229.303].
+
+111 See Release No. 33-6835 (May 18, 1989) [54 FR 22427].
+
+112 Id . at 22436.
+
+113 See , e.g. , FASB SFAS No. 13, Accounting for Leases (Nov. 1976); SFAS No. 47, Disclosure of Long-Term Obligations (March 1981); and SFAS No. 129, Disclosure of Information about Capital Structure (Feb. 1997).
+
+114 See , e.g. , Item 303(a)(5)(i) of Regulation S-K [17 CFR 229.303(a)(5)(i)].
+
+115 "Small business issuer" is defined to mean any entity that (1) has revenues of less than $25,000,000; (2) is a U.S. or Canadian issuer; (3) is not an investment company; and (4) if a majority-owned subsidiary, has a parent corporation that also is a small business issuer. An entity is not a small business issuer, however, if it has a public float (the aggregate market value of the outstanding equity securities held by non-affiliates) of $25,000,000 or more. See 17 CFR 228.10.
+
+116 Registrants are not required to include the table for interim periods. Instead, a registrant should update the table from its annual report by disclosing only material changes outside of the ordinary course of business. See , e.g. , Instruction 7 to paragraph 303(b) of Regulation S-K [17 CFR 229.303].
+
+117 See , e.g. , Item 303(a)(5)(i) of Regulation S-K [17 CFR 229.303(a)(5)(i)].
+
+118 See , e.g. , Item 303(a)(5)(ii) of Regulation S-K [17 CFR 229.303(a)(5)(ii)].
+
+119 See , e.g. , Instruction 2 to Item 5.F of Form 20-F [17 CFR 249.220f].
+
+120 See FASB, Statement of Financial Accounting Concepts No. 6, Elements of Financial Statements (Dec. 1985), paragraphs 35-40.
+
+121 See , e.g. , Item 303(a)(5)(ii)(D) of Regulation S-K [17 CFR 229.303(a)(5)(ii)(D)].
+
+122 See , e.g. , the letters of ACB, CSC, D&T, IMC and Pfizer.
+
+123 See , e.g. , the letters of Beard and PwC.
+
+124 See , e.g. , the letters of ACB, Boeing, Eaton, E&Y, Ford, KPMG, NAREIT and NY City Bar.
+
+125 See , e.g. , Instruction 5 to paragraph 303(a)(4) of Regulation S-K [17 CFR 229.303(a)(4)].
+
+126 See Commission Statement, Release No. 33-8056, FR-61 (Jan. 22, 2002)[67 FR 3746].
+
+127 See Commission Statement, Section II.A.2.
+
+128 See Commission Statement, Section II.A.3.
+
+129 17 CFR 249.220f.
+
+130 17 CFR 249.240f. Form 40-F is the form used by qualified Canadian issuers to file their Exchange Act registration statements and annual reports with the Commission in accordance with Canadian disclosure requirements under the U.S.-Canadian Multijurisdictional Disclosure System ("MJDS").
+
+131 A foreign private issuer is a non-U.S. company except for a company that has more than 50% of its outstanding voting securities owned by U.S. investors and has a majority of its officers and directors residing in or being citizens of the U.S., has a majority of its assets located in the U.S., or has its business principally administered in the U.S. See Exchange Act Rule 3b-4 [17 CFR 240.3b-4].
+
+132 See , e.g. , the letters of AICPA, D&T and Pfizer.
+
+133 See , e.g. , the letters of AICPA, D&T, Fried Frank, Pfizer and PwC.
+
+134 See , e.g. , the letters of ABA, OFII, NY City Bar and S&C.
+
+135 Although we revised the wording of the MD&A Item in Form 20-F in 1999, the adopting release noted that we interpret that Item as requiring the same disclosure as Item 303 of Regulation S-K. See Release No. 33-7745 (September 28, 1999) [64 FR 53900 at 59304]. In addition, Instruction 1 to Item 5 in Form 20-F provides that issuers should refer to the Commission's 1989 interpretive release on MD&A disclosure under Item 303 of Regulation S-K for guidance in preparing the discussion and analysis by management of the company's financial condition and results of operations required in Form 20-F. See Release No. 33-6835 (May 18, 1989) [54 FR 22427].
+
+136 For example, under General Instruction C.2 of Form 40-F, the issuer must usually include financial information that is reconciled to U.S. generally accepted accounting principles.
+
+137 We have recently adopted amendments in Form 40-F to require disclosure concerning whether the issuer has adopted a code of ethics applicable to certain officers and whether it has a financial expert on its audit committee. See Release No. 33-8177 (January 23, 2003) [Not yet published in Federal Register ].
+
+138 Exchange Act Section 13(j) [15 U.S.C. 78m(j)].
+
+139 A foreign private issuer must furnish under cover of Form 6-K material information that it makes public or is required to make public under its home country laws or the rules of its home country stock exchange or that it distributes to security holders. While foreign private issuers may submit interim financial information under cover of Form 6-K, they do so pursuant to their home country requirements and not because of a Commission requirement to submit updated financial information for specified periods and according to specified standards. Therefore, we do not believe that a Form 6-K constitutes a "periodic" or "quarterly" report analogous to a Form 10-Q or 10-QSB for which expanded disclosure is required. We similarly clarified that Form 6-K reports are not subject to the recently adopted Section 302 certification requirements. See Release No. 33-8124 at n. 50.
+
+140 Similar to our treatment of Securities Act registration statements filed by domestic issuers, we are including within the scope of the amendments Securities Act registration statements filed by foreign private issuers on Forms F-1, F-2, F-3 and F-4 [17 CFR 239.31-239.34]. Each of these registration statements references Form 20-F's disclosure requirements. The amendments would not, however, apply to Securities Act registration statements filed by Canadian issuers under the MJDS because we believe them to be outside the scope of the directive in Section 401(a) of the Sarbanes-Oxley Act. These MJDS registration statements are based on Canadian disclosure requirements.
+
+141 See Instruction 2 to Item 5 of Form 20-F [17 CFR 249.220f].
+
+142 Id .
+
+143 We are therefore eliminating a portion of the instructions in the MD&A rules that state that registrants are not required to provide forward-looking information. See , e.g. , Instruction 7 to Item 303(a) and 6 to Item 303(b) of Regulation S-K [17 CFR 229.303]. Deleting that portion of the instructions does not in any way reduce the availability of any existing safe harbor for forward-looking information.
+
+144 See , e.g. , Item 303(c) of Regulation S-K [17 CFR 229.303(c)].
+
+145 See 15 U.S.C. § 77z-2 and § 78u-5.
+
+146 While the statutory safe harbors by their terms do not apply to forward-looking statements included in financial statements prepared in accordance with U.S. GAAP, they do cover MD&A disclosures. The statutory safe harbors would not apply, however, if the MD&A forward-looking statement were made in connection with: an initial public offering, a tender offer, an offering by a partnership or a limited liability company, a roll-up transaction, a going private transaction, an offering by a blank check company or a penny stock issuer, or an offering by an issuer convicted of specified securities violations or subject to certain injunctive or cease and desist actions. See 15 U.S.C. § 77z-2(b) and § 78u-5(b).
+
+147 See , e.g. , Item 303(c)(2)(i) of Regulation S-K [17 CFR 229.303(c)(2)(i)].
+
+148 See , e.g. , Item 303(c)(2)(ii) of Regulation S-K [17 CFR 229.303(c)(2)(ii)]. Because this provision does not apply to the required table of contractual obligations, registrants should tailor the required cautionary language to the specific forward-looking statements being made.
+
+149 Although we are proposing amendments to Regulations S-B and S-K, the burden is imposed through the forms that refer to the disclosure regulations. To avoid a Paperwork Reduction Act inventory reflecting duplicative burdens, we estimate the burdens imposed by Regulations S-B and S-K to be one hour.
+
+150 44 U.S.C. §3501 et seq .
+
+151 44 U.S.C. §3507(d) and 5 CFR 1320.11.
+
+152 Pub. L. 107-204 Sec. 401(a) [15 U.S.C. §78m(j)].
+
+153 For convenience, the estimated PRA hour burdens have been rounded to the nearest whole number, and the estimated PRA cost burdens have been rounded to the nearest $1,000.
+
+154 In connection with other recent rulemakings, we have had discussions with several private law firms to estimate an hourly rate of $300 as the cost of outside professionals that assist companies in preparing these disclosures. For Securities Act registration statements, we also consider additional reviews of the disclosure by underwriters' counsel and underwriters.
+
+155 See , e.g. , the letters of CSC and Eaton.
+
+156 See , e.g. , the letter of FTNC.
+
+157 See , e.g. , the letter of Troutman.
+
+158 See , FASB SFAS No. 5, Accounting for Contingencies (Mar. 1975), paragraph 12 and FASB Interpretation No. 45, paragraph 13. See also , FASB SFAS No. 13, Accounting for Leases (Nov. 1976); SFAS No. 47, Disclosure of Long-Term Obligations (March 1981); and SFAS No. 129, Disclosure of Information about Capital Structure (Feb. 1997).
+
+159 See Item 303(a)(2)(i) of Regulation S-K [17 CFR 229.303(a)(2)(i)].
+
+160 Pub. L. 107-204 Sec. 401(a) [15 U.S.C. §78m(j)].
+
+161 See FASB Interpretation No. 45, Guarantor's Accounting and Disclosure Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of Others (Nov. 2002); FASB Interpretation No. 46, Consolidation of Variable Interest Entities (Jan. 2003); and FASB SFAS No. 129, Disclosure of Information about Capital Structure (Feb. 1997).
+
+162 See , e.g. , Paquita Y. Davis-Friday et . al ., The Value Relevance of Financial Statement Recognition vs. Disclosure: Evidence from SFAS No. 106 , 74 The Accounting Review 403 (Oct. 1999).
+
+163 See , e.g. , Kent L. Womack, Do Brokerage Analysts' Recommendations have Investment Value ? 51 Journal of Finance 137 (1996). See also , R. Mear and M. Firth, Risk Perceptions of Financial Analysts and the Use of Market and Accounting Data , 18 Accounting and Business Research 335 (1988).
+
+164 We estimate that about 80% of the number of registrants who filed annual reports last year will provide the disclosure.
+
+165 See , e.g. , the letter of Pfizer.
+
+166 44 U.S.C. §3501 et seq .
+
+167 We estimate the average hourly cost of in-house personnel to be $125. This cost estimate is based on data obtained from The SIA Report on Management and Professional Earnings in the Securities Industry (Oct. 2001).
+
+168 To derive our estimates for the Paperwork Reduction Act, we multiplied the number of filers for each form by the incremental hours per form. The portion of the product carried by the company is reflected in hours and the portion carried by outside professionals is reflected as a cost.
+
+169 See , e.g. , the letter of Pfizer.
+
+170 See , e.g. , the letter of KPMG.
+
+171 15 U.S.C. § 78w(a)(2).
+
+172 See , e.g. , the letters of AFP, Boeing and Pfizer.
+
+173 See , e.g. , the letters of AICPA, Eaton, E&Y, D&T, Intel, Troutman and PwC.
+
+174 15 U.S.C. § 77b(b).
+
+175 15 U.S.C. § 78c(f).
+
+176 5 U.S.C. 603.
+
+177 17 CFR 229.303.
+
+178 17 CFR 228.303.
+
+179 17 CFR 249.220f.
+
+180 17 CFR 249.240f.
+
+181 Pub. L. 107-204, 116 Stat. 745 (2002).
+
+182 Pub. L. 107-204 Sec. 401 [15 U.S.C. §78m(j)].
+
+183 17 CFR 230.157.
+
+184 17 CFR 270.0-10(a).
+
+185 Regulation S-K, 17 CFR 229.10-229.1016.
+
+186 Regulation S-B, 17 CFR 228.10-228.701.
+
+187 We estimate the average hourly cost of in-house personnel to be $125. This cost estimate is based on data obtained from The SIA Report on Management and Professional Earnings in the Securities Industry (Oct. 2001).
+
+188 To derive our estimates for the Paperwork Reduction Act, we multiplied the number of filers for each form by the incremental hours per form. The portion of the product carried by the company is reflected in hours and the portion carried by outside professionals is reflected as a cost.

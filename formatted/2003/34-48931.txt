@@ -1,0 +1,547 @@
+https://www.sec.gov/rules/final/34-48931.htm
+
+	I.0.0.0: I. Introduction
+
+		I.A.0.0: A. The Proposal
+
+		I.B.0.0: B. The Commission's Goals
+
+		I.C.0.0: C. Comment Letters
+
+	II.0.0.0: II. Background
+
+		II.A.0.0: A. History
+
+		II.B.0.0: B. The Commission's Authority
+
+	III.0.0.0: III. Final Rules
+
+		III.A.0.0: A. Rule 17Ad-19: Processing of Cancelled Certificates
+
+			III.A.1.0: 1. Discussion of Text
+
+			III.A.2.0: 2. Comment letters
+
+		III.B.0.0: B. Rule 17f-1: Lost and Stolen Securities Program
+
+			III.B.1.0: 1. Background of Lost and Stolen Securities Program
+
+			III.B.3.0: 3. LSSP Reports of Cancelled Certificates
+
+			III.B.4.0: 4. LSSP Inquiries
+
+			III.B.5.0: 5. Securities Shipments
+
+		III.C.0.0: C. Rule 17Ad-12: Safeguarding of Funds and Securities
+
+		III.D.0.0: D. Other Comments
+
+			III.D.1.0: 1. Exceptions for Certain Transfer Agents
+
+			III.D.2.0: 2. Cancelled-in-Error Notations
+
+			III.D.3.0: 3. Data Retention
+
+			III.D.4.0: 4. Consideration of Additional Reporting Obligations
+
+			III.D.5.0: 5. Perforations and the Word "Cancelled"
+
+			III.D.6.0: 6. Maintaining Certificates as Collectors' Items
+
+			III.D.7.0: 7. Destruction of Certificates by Transfer Agents
+
+	IV.0.0.0: IV. Paperwork Reduction Act
+
+	V.0.0.0: V. Costs and Benefits of Proposed Amendments
+
+		V.A.0.0: A. Benefits
+
+		V.B.0.0: B. Costs
+
+	VII.0.0.0: VII. Summary of Final Regulatory Flexibility Analysis
+
+		VII.A.0.0: A. Need for Rule and Rule Amendments
+
+		VII.B.0.0: B. Significant Issues Raised by Public Comment
+
+		VII.C.0.0: C. Small Entities Subject to the Rule
+
+		VII.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VIII.0.0.0: VIII. Statutory Basis and Text of Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Processing Requirements for Cancelled Security Certificates 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+
+ 17 CFR Part 240 
+
+ 
+
+ [Release No. 34-48931; File No. S7-18-00] 
+
+ 
+
+ RIN 3235-AH94 
+
+ 
+
+ Processing Requirements for Cancelled Security Certificates 
+
+ 
+
+ Agency: Securities and Exchange Commission ("Commission").
+
+ 
+
+ Action: Final rule.
+
+ 
+
+ Summary: The Commission is revising its rules governing cancelled securities certificates to improve the processing of securities certificates by transfer agents. The Commission is adopting a new rule under the Securities Exchange Act of 1934 that will require every transfer agent to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificates. This rule will require transfer agents to: mark each cancelled securities certificate with the word "cancelled"; maintain a secure storage area for cancelled certificates; maintain a retrievable database of all of its cancelled, destroyed, or otherwise disposed of certificates; and have specific procedures for the destruction of cancelled certificates. Additionally, the Commission is amending its lost and stolen securities rule and its transfer agent safekeeping rule to make it clear that these rules apply to unissued and cancelled certificates.
+
+ 
+
+ Effective Date: The amendments will become effective on January 22, 2004.
+
+ 
+
+ For Further Information Contact: Jerry W. Carpenter, Assistant Director, or Thomas C. Etter, Jr., Special Counsel, at (202) 942-0178, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+ 
+
+ Supplementary Information: The Commission is today adopting new Rule 17Ad-19 and adopting amendments to existing Rules 17f-1, 17Ad-7, and 17Ad-12.
+
+<END HEADER>
+
+<h>I. IntroductionA. The Proposal </h><h>A. The Proposal </h>
+
+On October 2, 2000, the Commission published for comment a release ("Proposing Release") that proposed Rule 17Ad-19 under the Securities Exchange Act of 1934 ("Exchange Act")<SUP> 1 </SUP> and proposed amendments to Exchange Act Rules 17f-1 and 17Ad-12.<SUP> 2 </SUP> The proposed rule and rule amendments principally were designed to address problems associated with cancelled securities certificates. Rule 17Ad-19 as proposed would have required every transfer agent that handles, processes, or stores securities certificates to establish and implement written procedures for the cancellation, storage, transportation, and destruction of retired securities certificates. The rule would require transfer agents to: mark each cancelled securities certificate with the word "cancelled;" maintain a secure storage area for cancelled certificates; maintain a retrievable database of all of its cancelled and destroyed certificates; and have specific procedures for the destruction of cancelled certificates. Additionally, proposed amendments to Rule 17f-1 (the lost and stolen securities rule) would have: required the tracking of securities certificates, cancelled or otherwise, in transit between reporting institutions; established time frames for making required "inquiries" about lost, stolen, missing, or counterfeit securities under Rule17f-1; and defined certain terms for purposes of the rules. Finally, proposed amendments to Rule 17f-1 and Rule 17Ad-12 (the transfer agent safekeeping rule) would have made clear that unissued and cancelled securities certificates must be safeguarded under Rule 17Ad-12 and that they fall within the Commission's Lost and Stolen Securities Program under Rule 17f-1.
+
+ 
+
+We are adopting the proposed new rule and rule amendments, with minor modifications as discussed below, substantially as they were proposed. Further, as discussed below, we have modified Rule 17Ad-19 from the proposal in response to comments to address situations where cancelled securities are "otherwise disposed of."<h>B. The Commission's Goals </h>
+
+The new rule and rule amendments promote several fundamental Commission goals: improving the safety and efficiency in processing and transferring securities; reducing or eliminating the physical movement of securities certificates; and reducing the potential for fraudulent use of cancelled securities certificates.<SUP> 3 </SUP> The rules primarily relate to problems and costs associated with cancelled securities certificates.
+
+ 
+
+In particular, we address the problem that, until properly destroyed or disposed of, cancelled securities certificates can resurface in the marketplace and can be and have been used to defraud members of the public or financial institutions. Requiring better procedures for processing and destroying cancelled certificates will reduce this potential for harm.<h>C. Comment Letters </h>
+
+The Commission received 13 comment letters on the proposed rule and proposed rule amendments.<SUP> 4 </SUP> Ten commenters generally expressed support for proposed Rule 17Ad-19 and the proposed amendments to Rules 17f-1 and 17Ad-12 and for the Commission's efforts to address cancelled certificate fraud, and offered suggestions for modification or requests for clarification with respect to specific provisions of the proposal. As discussed below, we have adopted some of the suggestions . The remaining three commenters addressed only the issue of certificate destruction, arguing that because securities certificates are culturally important due to their historical, aesthetic, and collectors' values, they should be preserved and not destroyed.
+
+ 
+
+We discuss these comments below.<h>II. BackgroundA. History </h><h>A. History </h>
+
+When a security certificate is retired, such as when a bond is redeemed or ownership of stock is transferred, the certificate is cancelled by the transfer agent. Cancellation normally involves both an accounting entry on the books of the transfer agent and an alteration of the certificate itself, though either by itself is an act of cancellation. After cancellation of a registered certificate,<SUP> 5 </SUP> the Exchange Act's record retention rules for transfer agents require that the certificate or appropriate record of the certificate be retained for not less than six years.<SUP> 6 </SUP> In recent years, many corporate bond issues have been called for redemption and cancelled decades before their maturities.<SUP> 7 </SUP> These bond redemptions and an active stock market have generated vast amounts of cancelled securities certificates that must be processed, stored, and safeguarded. Certificate processing of retired certificates can involve significant costs and risks. The following examples illustrate some of these risks.
+
+ 
+
+In a 1992 case, cancelled bond certificates with a face amount of approximately $111 billion disappeared after being delivered from a transfer agent's warehouse to a certificate destruction vendor. The certificates, issued by many well-known public companies, later began to resurface worldwide. A number of banks and brokers as well as individuals were defrauded through sales of the cancelled certificates for cash or through use of the cancelled certificates as loan collateral. The bulk of these cancelled certificates still remain unaccounted for and continue to resurface in the marketplace.<SUP> 8 </SUP>
+
+ 
+
+In a similar case in 1994, cancelled bonds with a face amount of approximately $6 billion disappeared after being delivered from a transfer agent's record center to two certificate destruction vendors. The cancelled certificates, issued by well-known companies, later began to resurface worldwide. Again, the bulk of these cancelled certificates remain unaccounted for and continue to resurface in the marketplace.<SUP> 9 </SUP>
+
+ 
+
+In another instance, a transfer agent's shipping bags filled with cancelled certificates were stolen while in commercial air transit. The transfer agent regularly shipped cancelled certificates from the West Coast to a New York bank for processing. The transfer agent, however, did not record the contents of its shipments and, in effect, relied on its New York bank processing agent to do its bookkeeping. When the shipping bags were stolen, neither the transfer agent nor its bank processing agent realized that the certificates were missing. A number of the certificates later resurfaced in off-market transactions.<SUP> 10 </SUP>
+
+ 
+
+Other instances have involved bulk thefts of cancelled certificates from warehouses. In some cases, the records of the certificate numbers of the stored certificates also were stolen because they were stored with the certificates. Even in cases where certificate records for stolen securities were available, they generally were of limited value in identifying the stolen securities because the records were organized chronologically by cancellation dates rather than by certificate numbers. As a result, the necessary information was not easily retrievable from the records.
+
+ 
+
+A common transfer agent practice contributed to this widespread problem. In physically cancelling certificates, many transfer agents marked the certificates only with pinhole-sized perforations. These tiny perforations were intended to indicate cancelled status without defacing the certificates and impairing their usefulness as records. The pinholes, which usually show the cancellation date and the initials of the transfer agent within a space about the size of a quarter, often have been barely noticeable. In some cases, they have been mistaken for notary or authentication markings. Even more problematic has been the practice by some transfer agents of not marking certificates at all to indicate that the certificates have been cancelled.
+
+ 
+
+In many cases, the stolen certificates have reentered the marketplace either through sales or as collateral for loans, resulting in substantial fraud on public investors, public companies, creditors, broker-dealers, and transfer agents. Not only do situations such as these present potential liability for the transfer agents responsible, but they consume the resources of regulatory and criminal law enforcement agencies.
+
+ 
+
+As discussed below, the Commission hopes that these unfortunate practices have been or are being eliminated by the transfer agents themselves through improved trade practices. But without standards and verification, there is no way to be certain. The new rule and rule amendments address these practices and will permit the Commission's examiners to verify compliance as a routine part of their examination schedules.<h>B. The Commission's Authority </h>
+
+Sections 17(f) and 17A of the Exchange Act provide the Commission with authority and responsibility to protect investors and securities industry participants from the dangers associated with the fraudulent use of cancelled certificates.<SUP> 11 </SUP> Section 17(f)(1), in fact, is designed to curtail the profitability of and the unlawful trafficking in lost and stolen securities certificates.<SUP> 12 </SUP> Section 17(a)(3) of the Act expressly provides the Commission with rulemaking authority over transfer agent recordkeeping matters.<SUP> 13 </SUP> In Section 17A(a), Congress directs the Commission to carry out certain objectives including the safeguarding of securities and funds that are related to securities transfers and the elimination of inefficient securities processing that imposes unnecessary costs on investors.<SUP> 14 </SUP> The Commission has broad discretion in carrying out these mandates.<SUP> 15 </SUP> We believe that most situations where cancelled securities certificates resurfaced in the marketplace have resulted from a lack of good internal control systems for the processing, storage, transportation, or destruction of the certificates. The rules that we adopt today are intended to provide for more efficient and secure certificate processing, particularly of cancelled certificates.<h>III. Final RulesA. Rule 17Ad-19: Processing of Cancelled Certificates </h><h>A. Rule 17Ad-19: Processing of Cancelled Certificates </h>
+
+Currently, the processing of cancelled certificates is largely governed by industry practices. For example, in 1994, the Securities Transfer Association ("STA"), the largest transfer agent trade association,<SUP> 16 </SUP> adopted guidelines for its members which, among other things, called for marking cancelled certificates with the word "cancelled" and for greater security measures in certificate storage and destruction.<SUP> 17 </SUP> However, these guidelines are not mandatory, and not all transfer agents follow them. Therefore, because cancellation is the critical first step in the processing of retired securities certificates, we believe that rulemaking is necessary to strengthen and standardize this process.<h>1. Discussion of Text </h>
+
+Rule 17Ad-19 requires each transfer agent to have and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificates. At a minimum, the written procedures must provide: (1) for controlled access to any cancelled certificate facility; (2) that the transfer agent clearly apply to the face of each cancelled certificate the word "cancelled" unless the transfer agent's procedures will cause the certificate to be destroyed in accordance with other Commission rules within three business days of its cancellation; (3) that the transfer agent keep a readily retrievable record of each cancelled certificate with identifying data consisting of CUSIP number, certificate number including prefix or suffix, denomination, registration, issue date, and cancellation date; (4) that the transportation of cancelled certificates be made in a secure manner with a record of the certificates in transit kept separately; (5) that the transfer agent keep a readily retrievable record of each destroyed certificate or certificate otherwise disposed of;<SUP> 18 </SUP> and (6) that authorized personnel of the transfer agent, supervise, witness and document the destruction of certificates.
+
+ 
+
+We are modifying proposed Rule 17Ad-19 to require that transfer agents maintain records not only of the certificates that they or their agents destroy but also of those certificates that they dispose of by any other means and which may, for example, become the property of collectors or dealers in collectibles. In this regard, we note that cancelled certificates, after a period in transfer agent storage, are generally destroyed by the transfer agent or destroyed by some other party acting at the direction of the transfer agent or the issuer. However, a small amount of cancelled certificates may find their way from transfer agents to collectors or perhaps to other places currently unknown to us. Accordingly, to make the rule as complete as possible, we are inserting in paragraph (b) the words "or other disposition" into the phrase "destruction of securities certificates." The term "otherwise disposed of" requires that a record be maintained of how (as by sale or gift) and to whom (with name and address) the certificates were disposed of and the date of disposition. In the text of Rule 17Ad-19, minor changes have been made to paragraphs (a)(2) and (a)(4) for clarification and specificity. Rule 17Ad-19 also includes procedures for the Commission to provide conditional or unconditional exemptions from any of these provisions of the rule in appropriate cases upon written request or upon its own motion. A related amendment to Rule 17Ad-7(i) requires transfer agents to maintain records to demonstrate compliance with the requirements of Rule 17Ad-19 for not less than three years, the first year in an easily accessible place.<SUP> 19 </SUP><h>2. Comment letters </h>
+
+Many comments received in reply to the Proposing Release addressed particular aspects of proposed Rule 17Ad-19.
+
+ 
+
+Three commenters,<SUP> 20 </SUP> objected to the proposed requirement that certificates must be "cancelled" unless existing procedures would cause their destruction "within 72 hours of their cancellation." They each recommended that "72 hours" be changed to "three business days" to avoid problems with weekends and holidays. We agreed that this change would achieve our goal, while avoiding problems with weekends and holidays and, therefore, we made this modification.
+
+ 
+
+ChaseMellon asked for clarification whether the provision in the rule concerning certificates in transit would apply to shipments between a transfer agent's own offices and affiliates or only to shipments between unaffiliated reporting institutions, vendors, and others. The transportation provision of the rule is intended to apply only to shipments between a reporting institution and unaffiliated parties. We have modified the rule to reflect this point.<SUP> 21 </SUP>
+
+ 
+
+ChaseMellon asked whether having written procedures that are consistent with STA's recommended guidelines would constitute compliance with Rule 17Ad-19. Because some requirements of Rule 17Ad-19 may differ from those of the STA's guidelines, transfer agents must be sure they are in compliance with the requirements of Rule 17Ad-19.
+
+ 
+
+ChaseMellon also requested clarification whether the records required by Rule 17Ad-19 for cancelled certificates require retrievable information both for certificates that are (1) cancelled but not destroyed and (2) cancelled and destroyed. The rule requires that the applicable information be kept for both types of cancelled certificates.
+
+ 
+
+ChaseMellon asked whether maintaining cancelled certificate data based solely on cancellation dates would be adequate under Rule 17Ad-19. Cancellation date recordkeeping has led to identification problems in the past when cancelled certificates were lost or stolen. Data organized by cancellation date, rather than by CUSIP and certificate number, has proved to be of little value when there is a need for prompt identification of lost, missing, or stolen certificates. It is important that CUSIP numbers and certificate numbers are readily available for the prompt reporting of lost, missing, or stolen certificates to the Lost and Stolen Securities Program and for the prompt alerting of law enforcement authorities and other financial institutions. Accordingly, this requirement is contained in Rule 17Ad-19.
+
+ 
+
+ICI asked whether the new recordkeeping provisions applicable to cancelled certificates would apply retroactively ( i.e. , apply to certificates previously cancelled), in which case ICI suggested the provisions would be burdensome on transfer agents. The new recordkeeping provisions will apply only prospectively, becoming effective sixty days after the date of adoption of the rule.<h>B. Rule 17f-1: Lost and Stolen Securities Program1. Background of Lost and Stolen Securities Program </h><h>1. Background of Lost and Stolen Securities Program </h>
+
+Section 17(f)(1) of the Exchange Act requires the Commission to operate a Lost and Stolen Securities Program ("LSSP" or "Program").<SUP> 22 </SUP> Congress directed the establishment of the Program in 1975 to curtail trafficking in lost, stolen, missing, and counterfeit securities certificates.<SUP> 23 </SUP> Rule 17f-1 under the Exchange Act governs LSSP operations. The Program consists mainly of a database for securities that have been reported lost, stolen, missing, or counterfeit. Operationally, the Program has two essential parts: "reports" and "inquiries." Most financial institutions (including exchanges, banks, brokers, clearing agencies, and transfer agents), which Rule 17f-1 designates "reporting institutions,"<SUP> 24 </SUP> are required to report any certificates that they discover to be lost, stolen, missing, or counterfeit.<SUP> 25 </SUP> These institutions also must inquire of the Program about any securities certificate valued at more than $10,000 that comes into their "possession or keeping."<SUP> 26 </SUP> These financial institutions also may voluntarily report or inquire about other certificates.<SUP> 27 </SUP>
+
+ 
+
+The Program is operated by the Securities Information Center ("SIC") as the Commission's designee pursuant to a contract. SIC receives all reports and inquiries, responds to inquiries, and maintains the Program's database. As of December 31, 2002, the Program's database reflected securities with a value of approximately $672 billion. There were 26,011 reporting institutions.<SUP> 28 </SUP> During the year 2002, reports were made on 926,475 certificates (an average of 3,676 certificates per business day); inquiries were made on 5,231,310 certificates (an average of 20,759 certificates per business day); and matches or "hits" resulting from inquiries occurred on 224,338 certificates, which had a value of approximately $36.5 billion.<SUP> 29 </SUP> The hits essentially warned the inquirers that the certificates had been reported as lost, stolen, missing, or counterfeit and were not eligible for transfer.
+
+ 2. Rule 17f-1 "Requirements for reporting and inquiry with respect to missing, lost, counterfeit or stolen securities" a. "Securities Certificate" 
+
+We have amended Rule 17f-1 by adding subparagraph (a)(6), which defines "securities certificate" to clarify that the scope of Rule 17f-1 covers the life span of a certificate from the time it is printed until the time it is destroyed. Accordingly, the rule covers: (1) certificates that have been printed but not issued; (2) certificates that have been issued and remain outstanding; (3) certificates that have been issued and reacquired by the issuer; and (4) certificates that have been cancelled.<SUP> 30 </SUP> It likewise includes certificates that are counterfeit or reasonably believed to be counterfeit. As discussed below, we also have incorporated this definition of "securities certificate" into Rules 17Ad-12(b) and 17Ad-19(a)(8).<SUP> 31 </SUP>
+
+ 
+
+We received several comments on this proposal. ICI and Otter Tail requested clarification of the term "printed but not issued." Specifically, they asked what identifying information must be included on certificates to qualify such certificates for reporting to LSSP. Under Rule 17f-1, as amended, a securities certificate is "printed but not issued" when it sets forth: the name of the issuer, the CUSIP number, the certificate number, and the authenticating signatures of the issuer. Therefore, a securities certificate to be considered "printed but not issued" does not have to set forth: the name of the registrant, the number of units, or the countersignature of the transfer agent.
+
+ 
+
+U.S. Bank asked whether the proposed definition of "securities certificate" would include both registered and bearer certificates, noting that including bearers and their coupons would be burdensome on transfer agents. U.S. Bank suggested that if coupons are to be included, they should be subject to cancellation practices at the transfer agent's discretion which could include such methods as "hole punching" of coupons as an acceptable means of cancellation. In the rule as amended, the definition of "securities certificate" in subparagraph (a)(6) of Rule 17f-1 includes both registered and bearer certificates. Although processing bearer certificates may in some ways be more onerous to transfer agents than processing registered certificates, we do not believe that bearer certificates can reasonably be excluded from a definition of securities certificates. We note, too, that any burden caused by bearer certificates is diminishing year-by-year due to the Tax Equity and Fiscal Responsibility Act of 1982, which essentially eliminated the issuance of bearer certificates.<SUP> 32 </SUP>
+
+ 
+
+Moreover, the definition of "securities certificate" of Rule 17f-1(a)(6) does not contemplate bond coupons, which are expressly exempted from the reporting and inquiry provisions of Rule 17f-1 by its subparagraph (f)(2). We note, however, that while, due to the exemption, coupons are not securities certificates or reportable within the meaning of Rule 17f-1, they are not exempted from Rule 17Ad-12 and, accordingly, they do come within the "funds and securities" safeguarding provisions of Rule 17Ad-12(a). In any case, Rule 17Ad-19 does not establish specific cancellation practices for coupons. We believe that it is appropriate for coupon cancellation to be governed by accepted, reasonable industry practices at this time.
+
+ b. "Missing" Securities Certificates 
+
+The term "missing" is used in Section 17(f)(1) of the Exchange Act and in Rule 17f-1 thereunder, but until now it was not defined.<SUP> 33 </SUP> The term generally has been used to describe certificates that cannot be located, such as certificates that are not found during a count or audit, but that are thought to be misfiled rather than lost or stolen.
+
+ 
+
+There are other circumstances, however, where a transfer agent does not have possession of a certificate though it believes, but cannot be certain, that it knows what happened to the certificate, i.e. , that it was destroyed. Some would claim that such a certificate is not "missing" but is more accurately described as "destroyed," and that accordingly a reporting institution is not required to report the certificate under Rule 17f-1 as being missing, lost, or stolen. For example, if cancelled certificates are stored by a transfer agent in a warehouse that is destroyed by a fire, the transfer agent may reasonably believe but cannot be certain ( i.e. , to the point of providing a guarantee) that all the stored certificates were destroyed.<SUP> 34 </SUP> In such a situation, especially where arson is found, there is a risk that some of the certificates may not have been destroyed and may resurface in the marketplace.
+
+ 
+
+We are amending Rule 17f-1(a)(7), as proposed, to define the term "missing" for purposes of Rule 17f-1 as any certificate that: (1) cannot be located but which is not believed to be lost or stolen or (2) the transfer agent believes was destroyed but was not destroyed according to the certificate destruction procedures required by Rule 17Ad-19. We received no comments on this proposal.
+
+ 
+
+As a result, it will be clear that reporting institutions are required to report the above-described types of missing certificates to LSSP. Then, if such certificates later resurface, there will be a high degree of likelihood that they will be promptly identified and interdicted through LSSP.<h>3. LSSP Reports of Cancelled Certificates </h>
+
+The Commission has brought enforcement actions for violations of Rule 17f-1 where cancelled securities certificates that were lost or stolen were not reported to LSSP.<SUP> 35 </SUP> Nevertheless, there appears to be some uncertainty about whether this rule applies to cancelled certificates.<SUP> 36 </SUP> We believe clarification would be useful.
+
+ 
+
+We believe that cancelled certificates are within the meaning and purpose of Rule 17f-1. Like counterfeit certificates, cancelled certificates have no investment value, but they can be used to defraud.<SUP> 37 </SUP> The inclusion of the definition of "securities certificate" in Rule 17f-1(a)(6) as discussed above clarifies that cancelled certificates are reportable to LSSP.<h>4. LSSP Inquiries </h>
+
+In Rule 17f-1, paragraph (c) governs reports and paragraph (d) governs inquiries about lost, stolen, missing, and counterfeit securities. While the rule specifies time frames for making reports, it specifies no time frames for making the inquiries.<SUP> 38 </SUP>
+
+ 
+
+When Rule 17f-1 was adopted in 1976, requirements for making inquiries were intended to accommodate business practices and to avoid commercial disruptions.<SUP> 39 </SUP> The time frames for making inquiries were left to the business judgment of inquiring companies.<SUP> 40 </SUP> Since then, business conditions have changed substantially, in large part due to improvements in automation and communications. Inquiries to LSSP by financial institutions have become quite routine and automated. In addition, the lack of any time limit for making required inquiries has made compliance with the rule difficult to monitor, and it has produced judicial comment.<SUP> 41 </SUP> No public comment was received in response to our Proposing Release concerning the time frames for inquiries.
+
+ 
+
+Accordingly, we are adding subparagraph (d)(3), as proposed, to Rule 17f-1 which provides that inquiries must be made by the end of the fifth business day after a certificate comes into the "possession or keeping" of a reporting institution.<SUP> 42 </SUP> The amendment also provides that inquiries shall be made before the certificate is sold, used as collateral, or sent to another reporting institution if occurring sooner than the end of the fifth business day.<h>5. Securities Shipments </h>
+
+We proposed to add to Rule 17f-1(c)(2)(ii) a requirement that transfer agents track shipments of securities certificates, including cancelled certificates, between reporting institutions. When such a shipment becomes unaccounted for (for example, when the delivering institution fails to receive notice of receipt of the shipment), the delivering institution would be required to investigate to determine the facts. If the certificates cannot be located, under the proposed amendment, the delivering institution would be required to report to LSSP that the certificates are missing, stolen, or lost within a reasonable time not exceeding ten business days after the shipment was sent.
+
+ 
+
+We received five comments on this proposal.<SUP> 43 </SUP> The commenters said that the proposed time frame of ten business days was too short a period for transfer agents to verify the non-delivery, to investigate the cause, and to report such matters to LSSP. Alternative suggestions were 15, 20, and 30 business days. In response to these suggestions, and upon consideration of the time we believe is reasonably needed to verify and investigate such non-deliveries, we have increased the time frame to 20 business days.
+
+ 
+
+EquiServe also commented that inasmuch as the overall purpose of the rule package is to address problems with retired or cancelled certificates, the securities shipment proposal in question should not apply to "live" certificates.<SUP> 44 </SUP> EquiServe noted that, as proposed, the rule would appear to apply to all shipments of securities certificates, both live certificates and retired certificates, but it noted that live certificates tend to be shipped (1) in small amounts and perhaps only as single certificates and (2) in protected ways, such as by certified mail, that reflect their asset value. It also commented that it would be expensive for transfer agents to monitor the receipt of each such small mailing. EquiServe stated that retired certificates, however, tend to be shipped in bulk, and since they have no investment value there is less economic incentive to record and track such certificates. Thus, EquiServe suggests, the coverage of the rule proposal could be limited to retired certificates.
+
+ 
+
+We agree with EquiServe's reasoning on this matter. The proposed rule appears unnecessary for live certificates, which generally are carefully safeguarded by the securities industry and where the rule would impose higher expenses due to the small shipments usually involved.<SUP> 45 </SUP> But we believe the proposal is necessary with respect to retired certificates where there is less financial incentive for the industry to safeguard the certificates and where shipments tend to be fewer and in bulk amounts so that the tracking expenses per certificate would be less. Accordingly, the proposed rule has been modified to apply only to shipments containing retired certificates.<h>C. Rule 17Ad-12: Safeguarding of Funds and Securities </h>
+
+Rule 17Ad-12 governs the safekeeping of funds and securities by transfer agents.
+
+ 
+
+It requires that securities be handled in a manner that is reasonably free from the risk of destruction, theft, or other loss. We proposed an amendment to Rule 17Ad-12 to make clear that cancelled certificates come within the meaning and purpose of Rule 17Ad-12.<SUP> 46 </SUP> As we observed earlier, a cancelled certificate has no intrinsic value but, like a counterfeit certificate, it can be used to defraud. Accordingly, we have amended Rule 17Ad-12 as proposed to provide that the term "securities" used in that rule will have the same meaning as the term "securities certificate" defined in Rule 17f-1. As such, cancelled certificates will be expressly included in the coverage of Rule 17Ad-12, and transfer agents will be responsible for safeguarding cancelled certificates under their control.<SUP> 47 </SUP><h>D. Other Comments </h>
+
+Discussed below are other comments we received in response to the Proposing Release.<h>1. Exceptions for Certain Transfer Agents </h>
+
+Paragraph (b) of proposed Rule 17Ad-19 would have applied only to those transfer agents involved in the "keeping, handling, or processing of securities certificates." We requested comment on whether the proposal should apply to all registered transfer agents (approximately 900) or only to the approximately 800 registered transfer agents that maintain securityholder records for one or more securities issues and are directly involved with the keeping, handling, or processing of securities certificates. Excluded from the larger group would be "named transfer agents" (transfer agents that contract their transfer agent functions to transfer agent "service Companies") and transfer agents that conduct a specialty business not involving securities certificates.<SUP> 48 </SUP> We received two comments.
+
+ 
+
+CTA recommended that proposed Rule 17Ad-19 apply only to the transfer agents that maintain securityholder records, with an exception for issuers registered as transfer agents that act only for their own issues ("issuer-only transfer agents") with average monthly volumes of 100 transfer items or less. Secondly, Otter Tail, an issuer-only transfer agent, said it averages only 30 certificates per month and that maintaining retrievable records and witnessing the destruction of certificates would require more staff and equipment and would be unduly expensive.
+
+ 
+
+As Rule 17Ad-19 is written, it is applicable only to transfer agents that are involved in the handling, processing, or storage of securities certificates.<SUP> 49 </SUP> Therefore, a number of transfer agents, such as named transfer agents, are not subject to the provisions of Rule 17Ad-19, which includes the requirement to prepare written procedures. Nevertheless, a transfer agent that outsources its transfer agent work, which consists of handling, processing, or storage of securities certificates, to another transfer agent ( i.e. , a service company transfer agent) is legally responsible for ensuring that the provisions of Rule 17Ad-19 are followed with respect to the securities for which it is the named transfer agent. Therefore, both named transfer agents and service company transfer agents have responsibilities for complying with Rule 17Ad-19.
+
+ 
+
+Regarding the provisions of Rule 17Ad-19 dealing with the recordkeeping of the destruction of retired securities certificates, we do not believe that these requirements become burdensome simply because the number of certificates being destroyed is small. Even a small transfer agent, for example, can designate a person to destroy certificates under specific procedures. We also believe that these limited burdens are justified by the rule's value as an antifraud measure. We do not think it is prudent, with recordkeeping rules that are linked to antifraud rules, to establish different standards based on the number of certificates processed, the number of transfers made, or the number of issuers serviced. We believe that the requirements of Rule 17Ad-19 are appropriate for all transfer agents that process certificates, regardless of their size or volume.<h>2. Cancelled-in-Error Notations </h>
+
+We requested comments in the Proposing Release on whether we should prohibit the use of "cancelled-in-error" notations,<SUP> 50 </SUP>as some members of the securities industry previously had suggested. PFPC Inc. commented that such notations should be permitted provided they are used with a medallion signature guarantee.<SUP> 51 </SUP>PFPC Inc. observed that cancelled-in-error notations can be useful when a certificate is mistakenly cancelled, especially when quick processing is essential or where resubmission is impossible because the endorsing party has died or is otherwise unable to act. U.S. Bank, however, recommended that transfer agents be prohibited from using cancelled-in-error stamps for registered certificates but be permitted to use them for bearer certificates, especially bearer bonds with coupons attached, because such certificates are not usually available in transfer agents' inventories. Inasmuch as these comment letters have specified uses for the practice that were not previously identified, the Commission has decided not to adopt any rule amendments with respect to prohibiting the use of "cancelled-in-error" notations until there is further study of the matter.<h>3. Data Retention </h>
+
+CTA and PFPC Inc. commented that transfer agents should be given leeway concerning the data that they choose to maintain for the purpose of identifying securities certificates. CTA noted that instead of CUSIP numbers some transfer agents may prefer to use, for example, issuer identification numbers. We believe, however, that the use of CUSIP numbers, which is currently the most widely-used securities issue identification system, provides for uniformity and that it substantially aids the Commission, LSSP, and law enforcement programs. We also note that since 1979, Rule 17f-1(c)(6) has expressly required the inclusion of CUSIP numbers for purposes of securities certificate identification when making a report to LSSP.<h>4. Consideration of Additional Reporting Obligations </h>
+
+Raymond James & Associates recommended that Rule 17f-1 be amended to include the additional reporting category of escheated securities (in addition to lost, stolen, missing, and counterfeit securities). The commenter also recommended that the reporting time frames under paragraph (c) of Rule 17f-1 be shortened.
+
+ 
+
+We note that Section 17(f)(1) expressly addresses only lost, stolen, missing, and counterfeit securities. From time to time, we have received recommendations to add to the reporting categories of Rule 17f-1, including among others: securities certificates that have escheated, have been called for redemption, are restricted, are the subject of litigation, or whose issuers are in bankruptcy. The subject of adding reporting categories to Rule 17f-1 has been studied periodically by securities industry groups, but no clear consensus has developed concerning either the scope of or the support for such a rule proposal. Therefore, at this time we are not expanding the number of reporting categories. However, there is nothing to prevent voluntary reporting of more categories if individual reporting companies choose to do so.<SUP> 52 </SUP> Regarding the recommendation to shorten the reporting time frames in paragraph (c) of Rule 17f-1, the Commission believes that this issue requires further study.<h>5. Perforations and the Word "Cancelled" </h>
+
+Regarding Rule 17Ad-19(b)(2), which requires that cancelled certificates be marked "cancelled" by stamp or perforation, PFPC Inc. recommended that the Commission specifically set forth the dimensions for the word "cancelled" and where it should be placed on a certificate. EquiServe questioned the Commission's criticism in the Proposing Release of the use of pin-hole sized perforation markings, which were previously used to indicate cancelled status, and asked "the what type of perforation" would be deemed sufficient.<SUP> 53 </SUP> At least for the present, we are leaving to securities industry practices,<SUP> 54 </SUP> rather than to Commission action, the details of size of the word "cancelled" and how it should be marked on securities certificates ( e.g. , by stamp or by perforation). For the present, we believe it is sufficient to state that the term "cancelled" should be "clear and conspicuous." But if it should appear at a later time that further rulemaking or interpretations are necessary or appropriate to clarify these matters, we will provide them.<h>6. Maintaining Certificates as Collectors' Items </h>
+
+The Proposing Release requested comments on whether the Commission should mandate the destruction of cancelled certificates within thirty days of their cancellation. Three commenters, a finance professor, a non-public corporation, and the president of a securities certificate collectors' organization,<SUP> 55 </SUP> argued against destroying old securities certificates because of their importance to financial history, their aesthetic merits, and their value to collectors in a field known as scripophily.
+
+ 
+
+We are sensitive to these interests. We believe that the adoption of sound recordkeeping, safeguarding, and destruction procedures will greatly reduce the risk of improper use of cancelled certificates. Therefore, we do not believe it is necessary at this time to mandate destruction.
+
+ 
+
+In this regard, we note that cancelled securities certificates, after a period in transfer agent storage, are generally destroyed by the transfer agent or destroyed by some other party at the direction of the transfer agent or the issuer. However, a small amount of cancelled securities certificates find their way from transfer agents into collectors' markets. Accordingly, to make the rule as complete as possible, we are modifying proposed Rule 17Ad-19 to require that transfer agents maintain records not only of the certificates that they or their agents destroy but also of those certificates that they dispose of by any other means, such as by sale to collectors or to dealers for collectors. For certificates disposed of by such other means, transfer agents are required to maintain records of how the certificates were disposed and to whom, with such party's name and address, and the date of disposition.<h>7. Destruction of Certificates by Transfer Agents </h>
+
+One transfer agent, PFPC Inc., recommended that questions of certificate retention or destruction be discretionary matters for individual transfer agents, and that transfer agents be given the option to destroy certificates within 72 hours of their cancellation, which it said would reduce fraud and storage expenses. Another transfer agent, Otter Tail, took a different position and said that the Commission should mandate certificate destruction at the end of the required six-year retention period. ICI and Mellon recommended that the Commission explore new overall requirements for cancelled securities certificates including (1) the use of electronic media and microfiche for recordkeeping purposes, and (2) the destruction of cancelled certificates, perhaps after they are scanned, imaged, and electronically stored.<SUP> 56 </SUP> As noted above in footnote 6, the Commission is proposing amendments to Exchange Act Rule 17Ad-7, 17 CFR 240.17Ad-7, which if adopted would make clear that transfer agents could use certain alternative means to store cancelled securities certificates provided that the cancelled certificates first were electronically preserved in conformity with the terms of that rule.<h>IV. Paperwork Reduction Act </h>
+
+Certain provisions of the proposed rule and proposed amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<SUP> 57 </SUP> The Commission published a notice soliciting comments on the collection of information requirements in the proposing release and submitted them to the Office of Management and Budget ("OMB") for review in accordance with 44 USC 3507(d) and 5 CFR 1320.11. The title for the collection of information is: "Record Retention Requirements for Registered Transfer Agents." OMB approved the collection and assigned it OMB Control No. 3235-0136. The collection requirements are necessary to ensure the integrity of transfer agents' records and the safeguarding of securities certificates.
+
+ 
+
+Rule 17Ad-19 contains collection of information requirements that are intended to ensure the integrity and completeness of transfer agents' records regarding physical securities certificates, in particular, cancelled securities certificates. Rule 17Ad-19 requires each registered transfer agent to: (1) have a written statement setting forth its procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificates; (2) mark each cancelled certificate with the word "cancelled" on the face of the certificate; (3) supervise, witness and document the destruction of certificates; an (4) keep an easily retrievable record of each cancelled, destroyed, or otherwise disposed of certificate with identifying certificate data. The amendments to Rules 17f-1 and 17Ad-12 involve no additional paperwork requirements.
+
+ 
+
+Rule 17Ad-19 incorporates the three-year record retention requirement of Rule 17Ad-7(i), but the amendments to Rules 17f-1 and 17Ad-12 do not add any retention periods for recordkeeping requirements. The maintenance of written procedures by transfer agents under Rule 17Ad-19 would be mandatory. The written procedures are confidential and will not be available to the public, although they will be subject to examination by the Commission or other appropriate regulatory agencies. We note that an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.
+
+ 
+
+When the Commission proposed the rule and rule amendment, approximately 1,100 transfer agents were registered with the Commission. The Commission staff estimated that the average amount of time per transfer agent needed to comply with the collection of information requirements of proposed Rule 17Ad-19 would be 40 hours per transfer agent for developing the written procedures. The Commission staff further estimated that the average amount of time per transfer agent per year to comply with the collection of information associated with recording and tracking cancelled securities certificates would be 50 hours per transfer agent per year, a figure that would vary greatly depending on the size of an entity and the volume of its business. Thus, assuming 1,100 registered transfer agents, it was estimated that the start-up collection of information requirements would require about 44,000 hours (40 1,100), and the annual collection of information requirements would be about 55,000 hours (50 1,100). Thus, in October of 2000, the Commission staff estimated that the combined total during the first year would be about 99,000 hours.
+
+ 
+
+At this time, in contrast with the 1,100 transfer agents at the proposing stage, approximately 900 transfer agents are registered with the Commission, of which about 800 are actively involved in transfer agent activities.<SUP> 58 </SUP> After further review and staff conversations with representative transfer agents, as discussed below in Section V, the Commission staff has lowered its estimate of the amount of time per transfer agent needed to comply with the collection of information requirements of Rule 17Ad-19. The lower staff estimates, as compared with the higher estimates in the Proposing Release, result from (1) lower than anticipated cost estimates in a survey of small transfer agents and (2) reports from both small transfer agents and large transfer agents (the latter group as represented by the Securities Transfer Association) that most of the proposed rule changes have already been put into effect over the past few years at most transfer agents. The Commission staff now estimates the time needed will range from about two hours for the smallest transfer agents to about 40 hours for the largest transfer agents. The staff believes that the average time per transfer agent to develop written procedures will be about 20 hours. The Commission staff further estimates that the average amount of time per transfer agent per year to comply with the collection of information associated with recording and tracking cancelled securities certificates will be 20 hours per transfer agent per year, a combined 40 hours for the first year, all of which are figures that would vary greatly depending on the size of an entity and the volume of its business. Thus, assuming 800 registered transfer agents actively involved in transfer agent activities, the start-up collection of information requirements will require about 16,000 hours (20 800), and the annual collection of information requirements will be about 16,000 hours (20 800). Thus, the estimated combined total during the first year will be about 32,000 hours.
+
+ 
+
+Additionally, as discussed above in Sections III.A and III.D.7, the Commission is modifying proposed Rule 17Ad-19 to include securities certificates that are disposed of in some way other than by destruction as, for example, by sale to collectors. The purpose of this modification is to make the rule complete with respect to all dispositions of cancelled securities certificates, but we believe that the number of certificates disposed of by transfer agents by means other than by destruction will be de minimis and will not affect the PRA numbers.<h>V. Costs and Benefits of Proposed Amendments </h>
+
+The Commission has considered the costs and benefits of Rule 17Ad-19 and the amendments to Rules 17f-1 and 17Ad-12. The Commission identified certain costs and benefits relating to the proposals, which are discussed below. We requested public comment in our Proposing Release. In particular, we requested comment on the potential costs for any necessary modifications to information gathering, management, and record-keeping systems or procedures, as well as any potential benefits resulting from the proposals for issuers, transfer agents, banks, brokers, regulators, or others.
+
+ 
+
+In general, the comment letters did not address costs or benefits in financial terms, and none provided cost or benefit data. One transfer agent, Otter Tail, commented that because of its small size it would be burdensome to witness the destruction of its cancelled certificates and to keep automated records of its cancelled certificates. This comment letter was discussed above in Section III.D.2,<SUP> 59 </SUP> where we stated that it would be imprudent to exempt certain transfer agents from recordkeeping rules linked to antifraud rules simply because their volume of business is small. Additionally, Otter Tail has provided us with no financial or other information to support its claim that the new requirements would be unduly burdensome on itself or on other small transfer agents.
+
+ 
+
+To supplement our information on small transfer agents for cost and benefit purposes, Commission staff conducted a survey of six small transfer agents. Staff provided them with a written summary of the rule proposals and later contacted them by telephone to discuss in detail the costs and benefits of the proposals. The small transfer agents reported that, in general, they already were in compliance with the proposed rules. That is, they generally were already marking retired securities certificates with the word "cancelled;" they were already maintaining the certificates in a secure environment; and they were destroying the certificates on-premises and witnessing their destruction. All but one transfer agent reported that they already had their data on certificate cancellation and destruction available in electronically retrievable format, and the one remaining transfer agent said it had plans to modify its computer to provide such data. As discussed in the PRA analysis, the one item in the rule proposal that would generally involve an added expense is the requirement to draft "written procedures" for processing cancelled securities. The transfer agents estimated that drafting written procedures would involve a one-time outlay of between 15 minutes and four hours, costs they variously estimated (based on the number of hours times their relevant expenses per hour) at between $15 and $500. Two of the small transfer agents suggested that it is the larger transfer agents that would tend to have problems with these rules because the large transfer agents are more apt to engage outside vendors for the transportation, warehousing, and destruction of cancelled certificates whereas the small transfer agents tend to perform these services within their own premises. One small transfer agent questioned the need for certain of the recordkeeping requirements, but another described the rule proposals as "nice and clean, with no problems."
+
+ 
+
+Commission staff also surveyed the Securities Transfer Association ("STA") as a proxy for large transfer agents. The STA, at the staff's request, reviewed the rule proposals and later reported that its review had revealed "no problems" with the proposals and that it would not be submitting formal comments on the proposals. The STA advised that the large transfer agents are already in compliance with the rule proposals and that, in its opinion, the rule proposals in large part codify existing STA rules. As discussed in the PRA analysis, the STA further reported that the one new item in the rule proposals that would involve new costs is the requirement to have "written procedures" for cancellation procedures, which would take a large transfer agent about 40 work hours to draft the procedures or about $3,000. The STA emphasized its view that most of the proposed rule changes are already in effect at transfer agents.<h>A. Benefits </h>
+
+The new rule and rule amendments will provide specific benefits to U.S. investors, issuers, transfer agents, and other financial intermediaries. Some of these benefits are not readily quantifiable in terms of dollar value. However, the proposals are designed to reduce the fraudulent use of securities certificates, particularly cancelled certificates, by requiring improved safeguarding and recordkeeping by transfer agents. In recent years, the fraudulent resale and fraudulent collateralization of cancelled certificates (certificates with no investment value) cost private individuals and financial institutions many millions of dollars. We expect the costs of the described forms of certificate fraud on public investors and on market participants to be substantially reduced by the requirements related to adequate safeguarding, recordkeeping, and destruction procedures for these certificates by transfer agents.<h>B. Costs </h>
+
+The rule changes require transfer agents to have written procedures for the cancellation, storage, transportation, destruction, or other disposition of retired securities certificates; to mark cancelled securities certificates as "cancelled;" to supervise, witness, and document the destruction of certificates; and to keep an easily retrievable record of each cancelled, destroyed, or otherwise disposed of certificate. The preparation of these written procedures required by the new rules will be a cost to transfer agents, and we have discussed the paperwork costs above in Section IV, estimating the combined total paperwork burden during the first year will be about 32,000 hours.
+
+ 
+
+Regarding the required use of the word "cancelled" on cancelled certificates, we reiterate that, with the encouragement of the STA's published guidelines,<SUP> 60 </SUP> most transfer agents already are marking their cancelled certificates with the word "cancelled" to designate their cancelled status.<SUP> 61 </SUP> We believe the new requirement to use the word "cancelled" to a large extent codifies existing business practices with little additional cost to the industry.
+
+ 
+
+As noted, the requirements to supervise, witness, and record the destruction of certificates and to keep easily retrievable records of the cancelled certificates will mean additional costs to some transfer agents. However, the additional costs are justified. As the Commission discussed above, its experience has been that securities certificates records that are not easily retrievable are not appropriate for investor protection, securities processing, or law enforcement purposes. In addition, the existing rules of the Exchange Act have since 1983 required registered transfer agents to maintain "appropriate certificate detail"<SUP> 62 </SUP> for purposes of their master securityholder files concerning "every security transferred, purchased, redeemed, or issued,"<SUP> 63 </SUP> which includes records of cancelled certificates.<SUP> 64 </SUP> These new requirements also will apply only on a going forward basis, i.e. , no transfer agent will have to provide easily retrievable records for certificates cancelled prior to the Rule's effective date. Moreover, the newly-adopted recordkeeping requirements are consistent with good business practices, such as the STA guidelines.
+
+ VI. Consideration of the Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation 
+
+Section 3(f) of the Exchange Act requires the Commission, when engaged in rulemaking and required to consider whether an action is necessary or appropriate in the public interest, to consider whether the action would promote efficiency, competition, and capital formation.<SUP> 65 </SUP> In adopting rules under the Exchange Act, Section 23(a)(2) requires the Commission to consider the impact any rule would have on competition.<SUP> 66 </SUP> Further, the law requires that the Commission not adopt any rule that would impose a burden on competition not necessary or appropriate in furtherance of the Exchange Act. We believe the new rule and amendments should improve market efficiency by reducing a source of fraud and its associated costs ( i.e. , the fraudulent introduction of cancelled and worthless securities into the marketplace). In addition, the new rule and amendments should have no material anticompetitive effects because they would apply equally to all transfer agents and should have no material effect on capital formation.<h>VII. Summary of Final Regulatory Flexibility Analysis </h>
+
+A Final Regulatory Flexibility Analysis ("FRFA") has been prepared in accordance with the Regulatory Flexibility Act ("RFA").<SUP> 67 </SUP> This analysis relates to a rule and two rule amendments adopted under the Exchange Act that primarily address the processing of cancelled securities certificates by transfer agents. New Rule 17Ad-19 under the Exchange Act requires every transfer agent to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificates. The rule requires transfer agents to mark each cancelled securities certificate with the word "cancelled;" maintain a secure storage area for cancelled certificates; maintain an easily retrievable database of all of its cancelled certificates, including cancelled, destroyed, or otherwise disposed of certificates; and have specific procedures for the destruction of cancelled certificates. Additionally, the Commission has amended Rules 17f-1 (the lost and stolen securities rule) and 17Ad-12 (the transfer agent safekeeping rule) to make it clear that these rules apply to unissued and cancelled certificates.<h>A. Need for Rule and Rule Amendments </h>
+
+The rule and rule amendments address problems involving cancelled securities certificates. In particular, they address the problem that, until properly destroyed, or properly disposed of, cancelled securities certificates can resurface in the marketplace where they can and have been used to defraud public investors and financial institutions. The rule and rule amendments provide better procedures for processing and destroying cancelled certificates that will reduce this potential for harm.
+
+ 
+
+The case history of fraud involving cancelled certificates includes several major cases. In one case, approximately $111 billion of cancelled bond certificates were stolen after being delivered from a transfer agent's warehouse to a certificate destruction vendor. Many of these stolen certificates resurfaced worldwide where they were reintroduced into the marketplace or were used as loan collateral at financial institutions. In many cases, even security professionals were misled because the certificates appeared to be in pristine condition with little or no evidence of having been cancelled. While a number of trade practices have since been formulated by transfer agents to help address these problems, Commission rulemaking will require universal compliance among all transfer agents concerning the proper processing of cancelled certificates.<h>B. Significant Issues Raised by Public Comment </h>
+
+One commenter, CTA, a trade association, suggested that Rule 17Ad-19 should apply only to transfer agents that maintain securityholder records and suggested an exemption from the rule for transfer agents that act only for their own issuers ( i.e. , issuer-only transfer agents) and have average monthly volumes of 100 transfer items or less. Another commenter, Otter Tail Power Co., a transfer agent, noted that it processes less than 30 certificates per month and that maintaining retrievable records and witnessing the destruction of certificates would be unduly expensive.
+
+ 
+
+We note that Rule 17Ad-19 does, in fact, exempt certain registered transfer agents (about 100 out of a total transfer agent population of about 900) that do not maintain securityholder records. These are "named transfer agents" that outsource their transfer agent functions to other transfer agents known as "service company" transfer agents.<SUP> 68 </SUP> But we do not believe that the requirements of Rule 17Ad-19, which deal with recordkeeping and the cancellation, storage, transportation, destruction, or other disposition of retired certificates, are inappropriately burdensome simply because the number of certificates that a transfer agent is processing or destroying is small. Even a small transfer agent can designate a person to destroy certificates under specific procedures. Moreover, we also believe that these limited burdens are justified by the rule's value as an antifraud measure. We do not believe it would be prudent, especially in an antifraud provision, to establish different standards for transfer agents based on the number of certificates they process or the number of transfers they make within a given period, particularly when, as noted below in Section VII.C, approximately one-half of the transfer agents may be viewed as small entities. Considering that the underlying concern here is the protection of public investors from certificate fraud, we believe that the requirements of Rule 17Ad-19 are appropriate for all transfer agents that are in the business of processing securities certificates.<h>C. Small Entities Subject to the Rule </h>
+
+A transfer agent is a small entity if it: (1) received less than 500 items for transfer and less than 500 items for processing during the preceding six months (or in the time that it has been in business, if shorter); (2) transferred items only of issuers that would be deemed "small business" or "small organizations" as defined in Exchange Act Rule 0-10; (3) maintained master shareholder files that in the aggregate contained less than 1,000 shareholder accounts or was the named transfer agent for less than 1,000 shareholder accounts at all times during the preceding fiscal year (or the time that it has been in business, if shorter); and (4) is not affiliated with any person (other than a natural person) that is not a small business or small organization under Exchange Act Rule 0-10.<SUP> 69 </SUP> We note that approximately 470 registered transfer agents out of a population of about 900 apparently qualify as "small entities" for purposes of the RFA and will be subject to the requirements of Rule 17Ad-19.
+
+ 
+
+In the Proposing Release, the Commission summarized, and requested comment on, the Initial Regulatory Flexibility Analysis ("IRFA"). We did not receive any comments specifically responding to the IRFA. However, we did receive comments related to small business, which are summarized above in Section VII.B.
+
+ D. Projected Reporting, Recordkeeping, and Other Compliance Requirements 
+
+Rule 17Ad-19 requires all transfer agents to establish and implement written procedures for the cancellation, storage, transportation, destruction, or other disposition of securities certificates. Such written procedures and their implementation are subject to examination by each transfer agent's appropriate regulatory agency. Additionally, the amendments to Rules 17f-1 and 17Ad-12 clarify that these two rules apply broadly to securities certificates, including cancelled securities certificates.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+As required by Section 603 of the RFA, the Commission has considered the following alternatives to minimize impact of the proposed rules and rule amendments on small entities: (1) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (2) the clarification, consolidation, or simplification of compliance and reporting requirements under the rules for small entities; (3) the use of performance rather than design standards; and (4) an exemption from coverage of the rule, or any part thereof, for small entities.<SUP> 70 </SUP> As part of our consideration of the proposed rules, the staff conducted a survey of a few small transfer agents. The consensus among small transfer agents is that Rule 17Ad-19 will essentially codify their existing practices (based to some extent on trade association guidelines in effect since the mid-1990s) and will have minimal effect on them as transfer agents. We also considered alternatives that would exempt small transfer agents from some portions of the rule, but given that the rule is designed in large measure to protect public investors from certificate fraud, we do not believe a size exemption for transfer agents would be appropriate.
+
+ 
+
+The Commission has considered significant alternatives to the proposed rules that would adequately address the problem posed by cancelled securities certificates. The Commission believes that the establishment of different requirements for small entities is neither necessary nor practical because the proposal is designed to provide general standards that will protect the public and members of the financial community from certain types of securities fraud, and the proposal will include an exemption procedure that will be available to small entities on a case by case basis. Moreover, the FRFA concludes that the Commission believes that the proposal, if adopted, will not adversely affect small entities. Finally, the FRFA addresses each of the other requirements set forth under 5 USC 603. A copy of the FRFA may be obtained by contacting Jerry W. Carpenter or Thomas C. Etter, Jr., at (202) 942-0178, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.<h>VIII. Statutory Basis and Text of Amendments Statutory Basis </h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 78a et seq .
+
+2 17 CFR 240.17f-1 and 240.17Ad-12; Securities Exchange Act Release No. 43401 (October 2, 2000), 65 FR 59766 (October 6, 2000).
+
+3 See , generally , Exchange Act Section 17A(a), 15 U.S.C. 78q-1(a); Section 17(f)(1), 15 U.S.C. 78q(f)(1); Securities Act Amendments of 1975 , Senate Comm. on Banking, housing & Urban Affairs, S. Rep. 94 to accompany S.249, 58-59 (1975); Securities Industry Study , H.R. Report of the Subcom. on Commerce & Finance, House Rep. No. 92-1519, pp. 68-70, 75-76 (1972).
+
+4 The Commission received comment letters from five transfer agents, one broker-dealer, one bank, one business corporation, one trade group representing transfer agents, one trade group representing investment companies, the president of an organization representing collectors of securities certificates, a finance professor, and a group of business students at Florida State University. Letters from James J. Angel, Ph.D., George Washington University (October 19, 2000); Loren Hanson, Manager, Shareholder Relations, Otter Tail Power Co. (October 24, 2000); Frank Hammelbacher, Norrico, Inc. (October 30, 2000); John E. Nolan, Senior Vice President, Raymond James & Associates, Inc. (November 2, 2000); Charles V. Rossi, Division President, EquiServe (December 4, 2000); Steven Turowski, Senior Regulatory Counsel, PFPC Inc. (December 4, 2000); Kathleen C. Joaquin, Director, Transfer Agency & International Operations, Investment Company Institute ("ICI")(December 5, 2000); Daniel M. Hill, Assistant Vice President, U.S. Bank Trust National Association (December 6, 2000); John F. Kuntz, Vice President and Assistant General Counsel, Chase-Mellon Shareholder Services (December 14, 2000); Keith G. Berkheimer, President, CTA (December 14, 2000); Robert A. Kerstein, President, Scripophily.com (March 5, 2001); and Robert Serrano et al , business students at Florida State University (dated November 29, 2000, received at the Commission February 19, 2002). These comment letters are available for inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549.
+
+5 The term "registered" as used in 17 CFR 240.17Ad-6(c) with reference to cancelled certificates means certificates registered in the name of an owner, as distinct from bearer certificates that were in wide circulation when this rule was promulgated in 1977.
+
+6 17 CFR 240.17Ad-6(c) and 240.17Ad-7(d). See also 17 CFR 240.17Ad-7(f). It has been suggested that transfer agents should have the option to destroy cancelled certificates shortly after cancellation. See comment letter from Steven Turowski, Chief Regulatory Counsel, PFPC, Inc, (December 4, 2000). While current practices are changing and some transfer agents may want to select alternative means, such as electronic imaging, to satisfy the recordkeeping requirements for cancelled certificates, many transfer agents may prefer to satisfy these recordkeeping requirements by maintaining the physical certificates themselves. Nevertheless, in the Proposing Release, we invited commenters to address this issue, and their comments are summarized below.We note that we have also proposed amendments to Securities Exchange Act Rule 17Ad-7, 17 CFR240.17Ad-7, which if adopted would make clear that transfer agents may use certain alternative means to store cancelled securities certificates provided that the certificates are electronically stored in conformity with the terms of Rule 17Ad-7. Because these electronic records satisfy the recordkeeping obligations, the paper certificates would not be required to be kept by Rule 17Ad-7. Securities Exchange Act Release No. 48036 (June 16, 2003), 68 FR 36951.
+
+7 Among the reasons for these bond redemptions has been the decline in long-term interest rates since the early 1980s.
+
+8 The Commission brought an action against this transfer agent for its failure to report stolen certificates pursuant to Rule 17f-1, 17 CFR 240.17f-1, and for its failure to safeguard securities in its possession pursuant to Rule 17Ad-12, 17 CFR 240.17Ad-12. The transfer agent agreed to pay a civil penalty of $750,000 and to cease and desist from future violations of Sections 17(f)(1) and 17A of the Exchange Act and Rules 17f-1 and 17Ad-12 thereunder. SEC v. Citibank, N.A. , Civil Action No. 92-2833 (USDC, DC, 1992). See also Securities Exchange Act Release No. 31612 (December 17, 1992).
+
+9 The Commission and the Comptroller of the Currency brought a joint action against this transfer agent for its failure to report as stolen the cancelled certificates pursuant to Rule 17f-1 and its failure to safeguard securities in its possession pursuant to Rule 17Ad-12. The transfer agent agreed to pay a civil penalty of $100,000 and to cease and desist from future violations of Sections 17(f)(1) and 17A of the Exchange Act and Rules 17f-1 and 17Ad-12 thereunder. As remedial measures, the transfer agent also agreed to mark cancelled certificates with the word "cancelled" and to adopt other safeguards. The Chase Manhattan Bank , Securities Exchange Act Release No. 34784 (October 4, 1994)
+
+10 Seattle-First National Bank , Securities Exchange Act Release No. 34293 (July 1, 1994).
+
+11 15 U.S.C. 78q(f) and 78q-1.
+
+12 Section 17(f)(1), 15 U.S.C. 78q(f)(1).
+
+13 15 U.S.C. 78q(a)(3).
+
+14 15 U.S.C. 78q-1(a). See Securities Acts Amendments of 1975, Comm. on Banking, Housing and Urban Affairs, Sen. Rep. No. 75 to Accompany S.249, 56-58 (1975).
+
+15 "The Commission is empowered with broad rulemaking authority over all aspects of a transfer agent's activities as a transfer agent." Id. at 57.
+
+16 STA has over 400 members, the majority of whom are registered transfer agents. For STA's website, see www.stai.org.
+
+17 Rules of the STA, Section 1.26 (Recommended Procedures for Cancelled Securities).
+
+18 Required certificate detail is: CUSIP number, certificate number including prefix or suffix, denomination, registration, issue date, and cancellation date. See 17 CFR 240.17Ad-9(a) and 240.17f-1(c)(6). The term "certificate otherwise disposed of" is intended to include the small minority of certificates that are not destroyed by transfer agents or other agents and may, for example, become the property of collectors or of dealers in collectibles.
+
+19 17 CFR 240.17Ad-7(i).
+
+20 EquiServe, ICI, and PFPC, Inc. PFPC, Inc. is a member of the PFPC Financial Services Group, Inc.
+
+21 This provision is intended to address shipments between unaffiliated financial institutions. We believe that less risk of this type of loss exists in intrafirm shipments where the same firm controls both the sending and receiving offices. We note, however, that a transfer agent's general obligation to safeguard funds and securities applies to intrafirm shipments. See Exchange Act Rule 17Ad-12, 15 CFR 240.17Ad-12.
+
+22 17 U.S.C. 78q(f)(1).
+
+23 See Lost and Stolen Securities Program, Hearings before the Permanent Subcommittee on Investigations of the Senate Committee on Government Operations, 93d Cong., 1st Sess. (1973), 2d Sess. (1974). S.249, which became the Securities Acts Amendments of 1975, was amended on the floor of the Senate to add legislation concerning lost, stolen, missing, and counterfeit securities. 121 Cong. Rec. 6186 (April 17, 1975). See also Conference Report to Accompany S.249, 94th Cong., 1st Sess. 103-104 (1975).
+
+24 The term "reporting institution" is defined in 17 CFR 240.17f-1(a)(1).
+
+25 CFR 240.17f-1(c) and (d).
+
+26 CFR 240.17f-1(d)(iv). The rule's inquiry requirement applies to any securities certificate received as part of a transaction whose aggregate value (face value in the case of debt or market value in the case of stocks) exceeds $10,000. Required inquiries under existing Rule 17f-1(d) would not be changed by the amendment.
+
+27 E.g. , inquiries on securities certificates valued at less than $10,000. 17 CFR 17f-1(e).
+
+28 Reporting instructions were comprised of 13,948 banks, 11,116 securities organizations, and 947 non-bank transfer agents. "Securities organizations" are: (1) national securities exchanges, (2) national securities exchange members, (3) national securities exchange member firms, (4) registered securities associations, (5) registered securities association members, (6) securities brokers, (7) securities dealers, and (8) municipal securities dealers.
+
+29 Securities Information Center, "Annual Statistics for the Period January 1, 2002, through December 31, 2002."
+
+30 For purposes of market value under the inquiry requirements of Rule 17f-1(d), the cancelled certificates would be given the market value of "live" securities of the same issue.
+
+31 17 CFR 240.17Ad-12(b) and 240.17Ad-19(a)(8).
+
+32 Pub.L. 97-248 (September 9, 1982), 26 U.S.C. 309 et seq. While not prohibiting bearer securities, TEFRA imposes financial disadvantages on both their issuers and their holders. See , e.g. , 26 U.S.C. 6049.
+
+33 While parallel terms (lost, stolen, and counterfeit) also are not defined by the statute or the rule, we believe that their meanings are clear from the context.
+
+34 On March 9, 1997, a major warehouse fire, believed to have been caused by arson, apparently destroyed a large number of cancelled securities certificates held in storage by a transfer agent. See "A Burning Question: How Safe Are Your Records," Business Week , June 23, 1997, at page 130E4.
+
+35 Supra notes 8, 9 and 10.
+
+36 For example, one court has found that because "cancelled securities" were not expressly included in Rule 17f-1, they were not subject to the reporting requirements of that rule. A.G. Edwards & Sons, Inc. v. Centocor, Inc. , Civil Action No. 91-6133 (E.D. PA, 1992).
+
+37 In United States v. Jackson , 576 F.2d. 749, 757 (8th Cir. 1978), the court recognized that stolen blank stock certificates have no intrinsic value as investments but that they have a "thieves' market value" as demonstrated by an FBI undercover operation, which was part of the case, where the certificates were purchased at 40% of their apparent market value.
+
+38 See Section III.B.1 above for description of inquiries.
+
+39 When enacting the underlying statute, Congress stated that the Commission should carefully weigh the benefits of mandating inquiries against the costs and effects on efficient business practices. Conference Report on S.249, Securities Acts Amendments of 1975, 94th Cong., 1st Sess. 104 (1975). In 1976, the Commission observed that the system for inquiries should avoid undue disruptions to commercial transactions and chose not to set time limits for inquiries. Securities Exchange Act Release No. 12030 (January 20, 1976), 41 FR 04834.
+
+40 In 1979, when the Commission asked for comments from the industry, reporting institutions said they favored a policy of leaving to their own business judgment the time frames for valuing and inquiring of LSSP about securities that came into their possession. The Commission accepted that position. See "Inquiry Time Frames," Securities Exchange Act Release No. 15683 (March 29, 1979), 44 FR 20614.
+
+41 The Seventh Circuit Court of Appeals observed that the addition of a precise time frame for making required inquiries would improve the operation of the rule. First National Bank of Cicero v. Lewco Securities Corp. , 860 F.2d 1407, 1416, n.14 (7th Cir. 1988). The court also said that whether an institution meets the test of "good faith" required for bona fide purchaser status with respect to securities certificates may depend on whether it has met the inquiry requirements of Rule 17f-1. Id. at 1413-1415. See also Yadley and Ilkson, "Bona Fide Purchasers of Lost and Stolen Securities: Meeting the 'Good Faith' and 'Notice' Requirements," 5 George Mason U.L. Rev. 101, 127-133 (1982).
+
+42 The term "reporting institution" is defined in 17 CFR 240.17f-1(a)(1).
+
+43 The five commenters were: CTA, EquiServe, ICI, PFPC, Inc., and U.S. Bank.
+
+44 We are using the term "retired certificate" in a slightly broader sense that the term "cancelled certificate." A certificate is "retired" at the time it is taken out of circulation, often by transfer or redemption, regardless of whether it has yet been cancelled.
+
+45 See Rule 17Ad-12, 17 CFR 240.17Ad-12.
+
+46 We have brought enforcement actions for violations of Rule 17Ad-12 that involved cancelled securities certificates. See, e.g., SEC v. Citibank, N.A. , supra at note 8.
+
+47 The only comment received concerning Rule 17Ad-12 concerned the new definition of "securities certificate" of Rule 17f1-(a)(6), which is being incorporated by reference into Rule 17Ad-12. See Section III.B.2.a above.
+
+48 For the definitions of "named transfer agent" and "service company" refer to 17 CFR 240.17Ad-9(j) and (k).
+
+49 The new language of "handling, processing, or storage of securities certificates" more appropriately describes the procedure in question than the previously proposed language of "keeping, handling, and processing of securities certificates."
+
+50 This refers to an industry practice of using hand stamps that state "cancelled in error" or similar language to avoid the time and expense of replacing certificates that are marked "cancelled" by mistake.
+
+51 The use of a medallion signature guarantee would mean that the "cancelled-in-error" notation is guaranteed by a guarantor financial institution under a signature guarantee program pursuant to Exchange Act Rule 17Ad-15, 17 CFR 240.17Ad-15. Accordingly, the financial risk of the cancelled-in-error procedure would not be imposed on the transfer agent but on the guarantor or the surety for the guarantor.
+
+52 </SUP> See paragraph (e) of 17 CFR 240.17f-1, which permits "permissive reports and inquiries."
+
+53 The cancellation pinholes, as used by some major transfer agents, usually spelled out a certificate's cancellation date and the transfer agent's initials in a small circle. Such markings were intended to indicate that the certificates no longer had value as a security while preserving the certificates' form as a record. Except for the small circle of pin-holes, the certificates usually appeared entirely presentable. The pinholes, however, often were not noticed by subsequent recipients of the certificates and, if noticed, their meaning was not necessarily clear.
+
+54 Some transfer agents have advised that they currently are stamping or perforating certificates with an abbreviation of the word "cancelled." This is because they use older equipment that lacks the necessary space for nine letters. Typically, in these cases, one or two apostrophes or similar characters are used in place of up to four letters. To avoid the need for immediate purchase of new equipment, the Commission will interpret the use of such abbreviations as consistent with the requirement in Rule 17Ad-12(c) that written procedures shall "[r]equire that each cancelled certificate be marked with the work `cancelled'...." However, this interpretation shall apply only until a transfer agent using such older equipment acquires new equipment by purchase or other means that replaces the older equipment in question. Thereafter, the transfer agent must use all nine letters of the word "cancelled" in cancelling securities certificates.
+
+55 James J. Angel, Ph.D., Georgetown Univ.; Frank Hammelbacher, Norrico Inc.; and Robert A. Kerstein, President, Scripology, Inc.
+
+56 For a recent Commission rule that authorized the use of optical storage, refer to 15 CFR 240.17Ad-7(f). See Securities Exchange Act Release No. 44227 (April 27, 2001), 66 FR 21648 (May 1, 2001).
+
+57 44 U.S.C. 3501 et seq .
+
+58 The Commission notes that there is relative ease of entrance into and exit out of the transfer agent business, and the numbers of transfer agents at a given time are affected by the circumstances of the securities industry and the general economy.
+
+59 See , supra , in text accompanying notes 48-50.
+
+60 Supra , note 17.
+
+61 We believe that most transfer agents are properly marking their retired certificates with the word "cancelled," as STA has recommended. However, because doing so is not a Commission requirement, it currently is not a part of the Commission's examination module for transfer agents. Thus, we have no systematic data on the subject.
+
+62 17 CFR 240.17Ad-9(a). The existing requirements for "certificate detail" include the certificate number, number of units, owner's name and address, the issue date, the cancellation date, etc.
+
+63 17 CFR 240.17Ad-10(a).
+
+64 See 17 CFR 240.17Ad-6(c) and 240.17Ad-9(a).
+
+65 15 U.S.C. 78c(f).
+
+66 15 U.S.C. 78w.
+
+67 15 U.S.C. 601 et sec .
+
+68 17 CFR 240.17Ad-9 (j)-(k).
+
+69 17 CFR 240.0-10.
+
+70 5 U.S.C. 603(c).   http://www.sec.gov/rules/final/34-48931.htm

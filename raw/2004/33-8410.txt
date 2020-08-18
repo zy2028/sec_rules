@@ -1,0 +1,391 @@
+https://www.sec.gov/rules/final/33-8410.htm
+
+	I.0.0.0: I. BACKGROUND AND NEW FILING SYSTEM
+
+	II.0.0.0: II. THE AMENDMENTS
+
+		II.A.0.0: A. Required Electronic Filing of Form ID
+
+		II.B.0.0: B. Required Faxing of Document Authenticating Form ID
+
+		II.C.0.0: C. Form ID
+
+	III.0.0.0: III. PAPERWORK REDUCTION ACT
+
+	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
+
+		IV.A.0.0: A. Benefits
+
+		IV.B.0.0: B. Expected Costs
+
+	V.0.0.0: V. EFFECT ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+	VI.0.0.0: VI. FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+		VI.A.0.0: A. Reasons for the Proposed Action
+
+		VI.B.0.0: B. Significant Issues Raised by Public Comment
+
+		VI.C.0.0: C. Small Entities Subject to the Proposed Revisions
+
+		VI.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		VI.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VII.0.0.0: VII. ADMINISTRATIVE PROCEDURE ACT
+
+	VIII.0.0.0: VIII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+Webmaster's Note: See also Rel. No. 33-8410A 
+
+ Securities and Exchange Commission 17 CFR Parts 232, 239, 249, 259, 269 and 274 [Release Nos. 33-8410, 34-49585, 35-27837, 39-2420, IC-26241; File No. S7-14-04] RIN 3235-AJ09 Mandated Electronic Filing for Form ID 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule.
+
+ SUMMARY: We are adopting rule and form amendments to mandate the electronic filing of Form ID on a new on-line system. Form ID is the application for access codes to file on EDGAR. The intended effect of the amendments is to facilitate the more efficient transmission and processing of the information Form ID requires in a manner that will benefit investors, filers and the Commission.
+
+ DATES: Effective Date: April 26, 2004.
+
+ FOR FURTHER INFORMATION CONTACT: For assistance with questions about the rule and form amendments in general, contact Mark W. Green, Senior Special Counsel (Regulatory Policy), at (202) 942-1940, Division of Corporation Finance, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20459-0301. For assistance with technical questions about EDGAR, call the EDGAR Filer Support Office at (202) 942-8900.
+
+ SUPPLEMENTARY INFORMATION: We are adopting<sup> 1 </sup> amendments that will revise Rules 10<sup> 2 </sup>, 101<sup> 3 </sup>, 104<sup> 4 </sup>, 201<sup> 5 </sup> and 202<sup> 6 </sup> under Regulation S-T<sup> 7 </sup> and Form ID<sup> 8 </sup>.
+
+<END HEADER>
+
+<h>I. BACKGROUND AND NEW FILING SYSTEM </h>
+
+Before the effective date of the amendments adopted by this release, new issuers and other applicants applying for access codes to file on the Commission's Electronic Data Gathering, Analysis and Retrieval System ("EDGAR") must file a Form ID in paper<sup> 9 </sup> by fax.<sup> 10 </sup> When we initially launched the EDGAR system, we required applicants<sup> 11 </sup> to file Form ID in paper by mail. In November 2001, however, we began to require that applicants file Form ID solely by fax.<sup> 12 </sup> The electronic filing of Form ID will facilitate the more efficient transmission and processing of the information Form ID requires in a manner that will benefit investors, filers and the Commission. The information will be transmitted in a speedy, secure and reliable manner and will directly enter the Commission's records rather than having to be keyed in by Commission personnel.<sup> </sup>
+
+By the time the rules requiring electronic filing of Forms ID are effective, a related new on-line filing system accessed through an EDGAR Filer Management website will be completed.<sup> 13 </sup> 
+
+New issuers and other applicants who are new filers will be required to file Forms ID.<sup> 14 </sup> Applicants will be required to access the EDGAR Filer Management website to fill out and submit the forms, as EDGARLink filing will not be available for submission of these forms.<sup> </sup> Other types of filers ( i.e. , those who are not new filers) that wish to obtain access codes will be able to do so through the EDGAR Filer Management website or, in generally the same manner as available today, the current EDGAR Filer or Online Forms websites, in all cases without filing a Form ID. 
+
+To access and file Forms ID through our EDGAR Filer Management website, each applicant must have available all the information Form ID requires when the applicant accesses the website because the system will not provide a way to save an incomplete form on-line from session to session. A time-out that ends the session will occur one hour following the user's last activity on the system. We expect that there will be more than enough time to prepare, review and submit a Form ID given the nature and quantity of information required. Unlike the current system, only one applicant per Form ID will be permitted. The system will validate for data type and required fields as many fields as possible during the submission process. Applicants will have the chance to correct errors and verify the accuracy of the information before submission. An on-line help function will be available. The applicant will be able to add attachments before submission and print the information submitted after submission.
+
+Modifications to EDGAR in connection with establishing the EDGAR Filer Management website will require not only applicants who file Form ID, but also users who log onto EDGAR for filing for the first time on or after April 26, to choose a passphrase.<sup> 15 </sup> A passphrase will enable a user to change its access codes easily.<sup> 16 </sup><h>II. THE AMENDMENTSA. Required Electronic Filing of Form ID </h><h>A. Required Electronic Filing of Form ID </h>
+
+We are adopting with minor revisions the proposed amendments to Regulation S-T<sup> 17 </sup> to require applicants who are new filers to file Forms ID with us electronically. As noted above, Rule 10 of Regulation S-T currently requires Forms ID to be filed in paper.<sup> 18 </sup> The amendments revise subparagraph (b) of Rule 10 by replacing the paper filing requirement with an electronic filing requirement.<sup> 19 </sup> For clarity and ease of reference, the amendments also revise subparagraph (a)(1) of Rule 101 of Regulation S-T<sup> 20 </sup> to add a new subparagraph (ix) to add Form ID to the rule's list of documents required to be filed electronically.<sup> 21 </sup>
+
+The commenters generally expressed support for requiring Forms ID to be filed electronically. Two commenters, however, expressed the view that not all persons and entities required to file have access to computers and the Internet and one commenter asserted that not all natural person filers have the computer skills to fill out on-line forms.<sup> 22 </sup> 
+
+We are adopting as proposed the amendments to Regulation S-T to make hardship exemptions unavailable to Forms ID. The amendments revise subparagraph (a) of Rules 201<sup> 23 </sup> and 202<sup> 24 </sup> by excluding Form ID from the filings for which hardship exemptions are available. Several commenters suggested that we retain a hardship exemption for circumstances in which a filer cannot immediately file electronically. They cited, among other circumstances, situations where Internet access is unavailable.
+
+Having considered these comments, we continue to believe, however, that hardship exemptions should not be available to Forms ID because a filer unable to file electronically a Form ID also, presumably, would be unable to file on EDGAR even with the access codes obtained in response to a Form ID filing. Even if the EDGAR Filer Management website is unavailable but EDGAR itself is functioning, providing a hardship exemption would not speed up the receipt of codes because the new system will not enable the staff to generate EDGAR access codes manually.<sup> 25 </sup> Consequently it appears that there would be no practical need for a hardship exemption, and granting the exemption could undermine the purposes of mandated electronic filing of Forms ID.<sup> 26 </sup><h>B. Required Faxing of Document Authenticating Form ID </h>
+
+In the Proposing Release, we stated that "[b]ecause only new filers will file the electronic Form ID, we believe the form should be supplemented with additional verification to help ensure the security of the system." Accordingly, we proposed an amendment to Regulation S-T to require these applicants to file in paper by fax within two business days before or after electronically filing Form ID a notarized document, manually signed by the applicant over its typed signature, that includes the information contained in the Form ID filed or to be filed and confirms the authenticity<sup> 27 </sup> of the Form ID.<sup> 28 </sup> We also stated that "[t]he purpose of this requirement is to help assure that the Form ID is authentic." Finally, we stated that "[w]e expect that eventually we will replace this procedure with a requirement that applicants use a certificate from a certification authority to authenticate their Form ID filings."<sup> 29 </sup>
+
+The commenters opposed the requirement to fax a notarized authenticating document and urged us to streamline the process by eliminating this requirement. More than one commenter objected to the notarization requirement as inconsistent with past practice, ineffective and time-consuming. Several commenters claimed that the notarization requirement would be especially problematic for foreign applicants. One of these commenters suggested that if we keep the notarization requirement for foreign applicants we clarify that, as to those persons, notarization "is limited to verifying the signature and identity of the signatory and that any method sufficient to authenticate a signature in the home jurisdiction should be sufficient." The staff will apply this approach as an interpretive matter subject to adjustment in the future should our experience so require. 
+
+After considering these comments, we have nonetheless decided to amend Regulation S-T to require new filers to file an authenticating fax substantially as proposed.<sup> 30 </sup> While our rules do not currently require notarization, human intervention in the current non-automated process helps to assure authenticity. The degree and type of human intervention and the related procedures involved in the current process will change with electronic Form ID filing in a way that could offer less assurance of authenticity.<sup> 31 </sup> Based on our prior experience with the application of human intervention and verification procedures, we believe the fax filing requirement will provide a degree of assurance the benefits of which will justify the costs of a less streamlined process that requires applicants to spend the time needed to obtain notarization.<h>C. Form ID </h>
+
+We are adopting with minor revisions the proposed amendments to Form ID to facilitate the electronic filing provisions, as follows:
+
+1. Amend the section immediately above the heading for Part I to delete the phrase "Applicant's CIK (if known)", the checkboxes and the checkboxes' related labels "Initial Application" and "Amendment." A new filer would not have a CIK or have filed a Form ID to amend. Information previously reported on Form ID will continue to be able to be corrected or updated through the EDGAR Filer or EDGAR Online Forms website. As a result, applicants will not need to amend Forms ID.
+
+2. Amend Part I of Form ID to
+
+ 
+
+refer consistently to "applicant" rather than "registrant";
+
+clarify how to present an individual's name;
+
+delete the subsection regarding former name as unnecessary;
+
+clarify that a foreign address must include the name of the foreign country rather than the name of a state;
+
+clarify that a foreign telephone number must include a country code in addition to an area code; <sup> 32 </sup>
+
+add an applicant type checkbox for individual applicants that is to be marked by applicants, as applicable, in addition to one of the three types (filer, filing agent and training agent) currently on the form;<sup> 33 </sup> and
+
+delete the last three subsections of the part relating to the superseded concepts of initial and amended applications.
+
+ 
+
+3. Amend Part II of Form ID to
+
+ 
+
+revise the heading of the part to clarify that it applies only to filers that are not individuals;
+
+delete the subsection asking whether the applicant currently files with the Commission and, if so, what at least one of the applicant's Commission file numbers is (this information no longer is necessary);
+
+refer consistently to "filer" rather than "registrant";
+
+add subsections for the name under which the filer does business and, for foreign issuer<sup> 34 </sup> filers, the name of the filer in any language other than English, if applicable;<sup> 35 </sup> and
+
+clarify that a Social Security number must not be entered as the filer's tax or federal identification number.
+
+ 
+
+4. Amend Part III of Form ID to delete the subsection regarding the EDGAR Private Mail system that no longer exists.
+
+5. Amend Part V of Form ID to add a warning regarding federal criminal liability for misstatements or omissions.
+
+6. Amend the statutory authority section immediately below Part V of Form ID to make two authority citations more precise and to correct a typographical error in another citation.
+
+7. Amend the introductory section of the General Instructions to Form ID to 
+
+delete the superseded reference to amendments;
+
+delete the language cautioning that an incomplete form may delay codes because a complete form will be necessary to obtain codes;
+
+add descriptions of the requirements to file Form ID electronically and fax to the Commission a notarized document, manually signed by the applicant over a typed signature, that confirms the authenticity of the Form ID<sup> 36 </sup>; and
+
+add contact information for questions. 
+
+ 
+
+8. Amend Part I of the General Instructions to Form ID to
+
+ 
+
+add and define the applicant type "Individual";
+
+place the applicant type definitions in bullet format;
+
+add the requirement that the applicant's individual status be indicated, as applicable; and
+
+delete all the text after the applicant type definitions because that text addresses the superseded notions of initial and amended Form ID filings.
+
+ 
+
+9. Amend Part II of the General Instructions to Form ID to
+
+ 
+
+clarify in the parenthetical in the heading that Part II of Form ID only should be completed by filers that are not individuals;
+
+refer consistently to "filer" rather than "registrant";
+
+clarify in the text that Part II of Form ID does not apply to individuals and that, accordingly, a Social Security number must not be entered as a tax or federal identification number;
+
+clarify that if an investment company filer is organized as a series company, the investment company may use the tax or federal identification number of any one of its constituent series;
+
+clarify that issuers that have applied for but not yet received their tax or federal identification number must include all zeroes;
+
+provide that foreign issuers that do not have a tax or federal identification number must include all zeroes;
+
+define the term "foreign issuer";
+
+provide that foreign issuers should include their country of organization;
+
+provide that a foreign issuer must provide its "doing business as" name in the language of the name under which it does business and must provide its foreign language name, if any;
+
+provide that if the filer's fiscal year does not end on the same date each year ( e.g. , falls on the last Saturday in December), the filer must enter the date the current fiscal year will end; and
+
+delete the sentence regarding individuals' providing state of incorporation or organization information or fiscal year end since individuals no longer will be filling in Part II of Form ID. 
+
+ 
+
+10. Amend Part III of the General Instructions to Form ID to replace all the text, after the first sentence, regarding the EDGAR Private Mail system and Internet e-mail with text that omits reference to the now defunct EDGAR Private Mail system and instead provides guidance regarding default and additional per filing e-mail contact addresses.
+
+11. Amend Part IV of the General Instructions to Form ID to add a sentence directing applicants to advise us through the EDGAR filing website of changed address information to help assure that account statements reach the specified contact person.
+
+12. Amend Part V of the General Instructions to Form ID to add guidance on how to sign the form.<h>III. PAPERWORK REDUCTION ACT </h>
+
+The amendments will affect one form, Form ID, that contains "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995.<sup> 37 </sup> We published a notice requesting comment on the collection of information requirements relating to the Proposing Release in general. We solicited comment on, in particular, the accuracy of our estimate that no additional burden would result from the proposed amendments. We did not receive any comments on the Paperwork Reduction Act analysis contained in the Proposing Release.<sup> 38 </sup>
+
+Compliance with the adopted amendments will be mandatory. The information required by the amendments will be kept confidential by the Commission, subject to a request under the Freedom of Information Act.<sup> 39 </sup> 
+
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The title of the affected information collection is the EDGAR Form ID. We expect that the adopted amendments will obligate applicants to disclose on Form ID essentially the same information they are required to disclose today.<sup> 40 </sup> <sup> </sup><h>IV. COST-BENEFIT ANALYSIS </h>
+
+We expect that the adopted amendments will benefit investors, applicants and the Commission.<h>A. Benefits </h>
+
+The adopted amendments should benefit investors, applicants and the Commission because the information contained in Form ID should be transmitted in a speedy, secure and reliable manner and would directly enter the Commission's records rather than be keyed in by Commission personnel, which currently must be done. This should improve the speed and accuracy of the process that leads to applicants' receipt of the codes needed to file on EDGAR. This improvement should enable applicants to disseminate information sooner to investors.<h>B. Expected Costs </h>
+
+We expect that the adopted amendments will result in some costs to applicants. However, we expect that many applicants will not bear the full range of costs resulting from the adoption of these amendments for the reasons described below.
+
+As noted above, we expect that, the adopted amendments will obligate applicants to disclose on Form ID essentially the same information that they are required to disclose today. We therefore believe that the overall information collection burden of Form ID will remain approximately the same. As a result, the cost of collecting the information will remain approximately the same.
+
+The expected costs of mandated electronic filing of Form ID consist of both initial and ongoing costs. Initial costs include those associated with learning about the electronic filing system, obtaining access to a computer, placing the filing data in electronic format for the initial electronic filing and subscribing to an Internet service provider. Ongoing costs are those associated with maintaining the framework developed through the initial costs by updating information required by Form ID.
+
+We expect that most applicants will need to incur few, if any, additional costs from electronic filing. Applicants who are new filers likely will be prepared to become electronic filers and, accordingly, will be prepared to access the EDGAR Filer Management website.
+
+To the extent applicants who file Forms ID are officers or directors, we understand that many issuers will help them or make their filings for them. To the extent officers and directors do not receive this help, we believe many already will have the computer equipment and Internet access to enable them to file using the EDGAR Filer Management website. 
+
+Even issuers that file Form ID electronically on their own behalf or help their officers or directors, whether to a greater or lesser extent, to file electronically are not likely to incur additional costs. Issuers are required to file on EDGAR and generally have the needed computer equipment and Internet service provider access to enable them to file or facilitate filing using the EDGAR Filer Management website.
+
+Finally, we believe that faxing a notarized authenticating document will result in negligible additional costs. An applicant currently must incur the cost of faxing a Form ID, and the information in the authenticating document would be no more extensive than would be needed for the Form ID itself.<sup> 41 </sup> Based on what appear to be common practices at Washington, D.C. area banks, we believe that banks generally will notarize customer documents for no additional fee and that those banks that notarize for non-customers generally will notarize a document for less than ten dollars.
+
+As noted above, two commenters expressed the view that not all persons and entities required to file have access to computers and the Internet and one commenter asserted that not all natural person filers have the computer skills to fill out on-line forms. All persons and entities required to file will need direct or indirect access to computers and the Internet regardless whether Form ID must be filed electronically in order to file on EDGAR. As to natural persons in particular, we believe many will have help from issuers, and those who do not will find it relatively easy and straightforward to fill in the few simple fields required to complete Form ID. 
+
+Also as noted above, some commenters objected to the notarization requirement as time consuming and costly (at least insofar as the value of the time required) especially for foreign applicants. We acknowledge these objections but believe the vast majority of applicants will have ready access to a notary and will be able to make arrangements in advance of signing to minimize the time required for notarization.<h>V. EFFECT ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION </h>
+
+Section 23(a)(2) of the Exchange Act<sup> 42 </sup> requires us, when adopting rules under the Exchange Act, to consider the impact that any new rule would have on competition. In addition, Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Furthermore, Section 2(b) of the Securities Act<sup> 43 </sup> and Section 3(f) of the Exchange Act<sup> 44 </sup> require us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. 
+
+The adopted amendments regarding mandated electronic filing of Form ID are intended to facilitate the more efficient transmission and processing of the information that Form ID requires. This should improve the speed and accuracy of the process that leads to applicants' receipt of the codes needed to file on EDGAR. This improvement would enable applicants to disseminate information sooner to investors. As a result, the amendments should improve investors' ability to make informed investment and voting decisions. Informed investor decisions generally promote market efficiency and capital formation. We believe the adopted amendments will not impose a burden on competition.
+
+In the Proposing Release, we considered the amendments in light of the standards set forth in the above statutory sections. We solicited comment on whether, if adopted, the proposed amendments would impose a burden on competition. We also requested comment on whether, if adopted, the proposed amendments would promote efficiency, competition and capital formation. Finally, we requested commenters to provide empirical data and other factual support for their views if possible. No commenter addressed anti-competitive effects.<sup> 45 </sup><h>VI. FINAL REGULATORY FLEXIBILITY ANALYSIS </h>
+
+This Final Regulatory Flexibility Analysis or FRFA has been prepared in accordance with the Regulatory Flexibility Act.<sup> 46 </sup> This FRFA relates to amendments regarding mandated electronic filing of Form ID.<h>A. Reasons for the Proposed Action </h>
+
+An applicant uses Form ID to apply for the access codes required to file electronically on EDGAR. We believe the adopted amendments will benefit investors, applicants and the Commission.<h>B. Significant Issues Raised by Public Comment </h>
+
+The Initial Regulatory Flexibility Analysis ("IRFA") appeared in the Proposing 
+
+Release. We requested comment on any aspect of the IRFA, including the number of small entities that would be effected by the proposals, the nature of the impact, and how to quantify the impact of the proposals. We received no comment letters specifically responding to the request.<h>C. Small Entities Subject to the Proposed Revisions </h>
+
+The amendments will affect small entities that are applicants that are not natural persons. Exchange Act Rule 0-10(a)<sup> 47 </sup> defines an entity, other than an investment company, to be a "small business" or "small organization" if it had total assets of $5 million or less on the last day of its most recent fiscal year. For purposes of the Regulatory Flexibility Act, an investment company is a small entity if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less as of the end of its most recent fiscal year. The adopted amendments will apply to all small entities that are new issuers or other applicants.<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+Before the effective date of the rule and form amendments adopted in this release, applicants must file Forms ID in paper by fax. The adopted amendments will require applicants to file these forms electronically and fax to the Commission a notarized authenticating document containing at least the information the Form ID contains. Because applicants already file Forms ID in paper by fax, the only additional professional skills applicants will need will be those required to file electronically. We expect that filing electronically will increase costs incurred by some small entities. However, we expect that many small entities will not bear the full range of costs resulting from the adoption of these amendments for the reasons described below.
+
+The expected costs of mandated electronic filing consist of both initial and ongoing costs. Initial costs include those associated with learning about the electronic filing system, obtaining access to a computer, placing the filing data in electronic format for the initial electronic filing and subscribing to an Internet service provider. Ongoing costs are those associated with maintaining the framework developed through the initial costs by updating information required by Form ID.
+
+We expect that many small entity applicants will need to incur few, if any, additional costs for electronic filing. Some issuers may help related small entity applicants (such as subsidiaries) or make the related small entity applicants' filings for them. To the extent small entity applicants do not receive this help, we believe many already will have the computer equipment and Internet access to enable them to file using the EDGAR Filer Management website.
+
+Even small entity issuers that file Form ID electronically on their own behalf or help other small entity applicants, whether to a greater or lesser extent, to file electronically are not likely to incur additional costs. Small entity issuers are required to file on EDGAR and generally have the needed computer equipment and Internet service provider access to enable them to file or facilitate filing using the EDGAR Filer Management website.
+
+Finally, we believe that faxing a notarized authenticating document will result in negligible additional costs. A small entity applicant currently must incur the cost of faxing a Form ID and the information in the authenticating document would be no more extensive than would be needed for the Form ID itself.<sup> 48 </sup> Based on what appear to be common practices at Washington, D.C. area banks, we believe that banks generally will notarize customer documents for no additional fee and that those banks that notarize for non-customers generally will notarize a document for less than ten dollars.<sup> 49 </sup><h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+The Regulatory Flexibility Act directs the Commission to consider significant alternatives that would accomplish our stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered the following alternatives: 
+
+ 
+
+the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;
+
+the clarification, consolidation, or simplification of filing requirements;
+
+the use of performance rather than design standards; and
+
+an exemption from the electronic filing requirements, or any part of them, for small entities.
+
+ 
+
+We believe that differing compliance or reporting requirements or timetables for small entities (or a partial or complete exemption) would be inconsistent with the more efficient transmission and processing of the information Form ID requires in a manner that will benefit investors, applicants and the Commission. We did not receive any response to our solicitation of comment on whether differing compliance or reporting requirements or timetables for small entities would be consistent with the described goals. We believe that the adopted electronic filing requirements are clear and straightforward. We have attempted to design an electronic filing system for Forms ID that will be simple for all filers to use. Therefore, it does not seem necessary to develop separate requirements for small entities. We have used design rather than performance standards in connection with the electronic filing requirements because we want the Commission to be able to process readily the information involved. We do not believe that performance standards for small entities would be consistent with the purpose of the amendments.<h>VII. ADMINISTRATIVE PROCEDURE ACT </h>
+
+The Administrative Procedure Act generally requires that an agency publish an adopted rule in the Federal Register 30 days before it becomes effective.<sup> 50 </sup> This requirement, however, does not apply if the agency finds good cause for making the rule effective sooner.<sup> 51 </sup>
+
+The Commission finds good cause to make the changes to Form ID effective on April 26, 2004.<sup> 52 </sup> The changes to Form ID are interrelated with other programming changes being made to EDGAR. These other programming changes must be implemented by April 26, 2004 to avoid significant system operating problems and cost overruns. Moreover, the Form ID changes are not voluminous or substantive and should not create any hardship for those who seek to access the new system.
+
+Finally, we stated in the Proposing Release that the changes would likely be effective in late April possibly without much notice, and no commenter suggested there would be any hardship associated with this time frame. In the unlikely event that an applicant experiences any unanticipated hardship caused by the shortened notice period, the Commission staff will use reasonable efforts to assist the applicant to obtain access codes on a timely basis.<h>VIII. STATUTORY BASIS </h>
+
+<END MAIN TEXT>
+
+1 The amendments were proposed in Release No. 33-8399 (Mar. 15, 2004) [69 FR 13426 (Mar. 22, 2004)] ("Proposing Release"). The Commission has posted comments on the Proposing Release on the Commission's internet website ( http://www.sec.gov ). Comments also are available for public inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549.
+
+2 17 CFR 232.10.
+
+3 17 CFR 232.101.
+
+4 17 CFR 232.104.
+
+5 17 CFR 232.201.
+
+6 17 CFR 232.202.
+
+7 17 CFR 232.10 et seq .
+
+8 17 CFR 239.63, 249.446, 259.602, 269.7 and 274.402.
+
+9 Rule 10(b) of Regulation S-T [17 CFR 232.10(b)].
+
+10 Section 1.3.1 of EDGAR Release 8.6 EDGARLink Filer Manual (Volume I) and Onlineforms Filer Manual (Volume III). In some instances, applicants can acquire replacement codes through our EDGAR website without use of a Form ID. Applicants will be able to continue this practice under specified circumstances.
+
+11 The three categories of individuals or entities that apply for access codes are "filers", "filing agents" and "training agents" (collectively, "applicants"). A filer is an individual or entity on whose behalf an electronic filing is made. A filing agent is an individual or entity that uses access codes to send all or part of a filing on behalf of a filer. A training agent is an individual or entity that will be sending only test filings in connection with training others.
+
+12 The former requirement to file by mail still is reflected in Part V of the General Instructions to Form ID. This requirement, however, has been superseded by the fax requirement in the Filer Manual.
+
+13 An on-line filing system currently is available for Forms 3 [17 CFR 249.103 and 274.202], 4 [17 CFR 249.104 and 274.203] and 5 [249.105] filed under Section 16(a) of the Securities Exchange Act of 1934 ("Exchange Act") [15 U.S.C. 78p(a)].
+
+14 "New filers" fall within two categories. The first category contains applicants that have not previously filed with the Commission or have filed only paper Forms 3, 4 or 5 (all required to be filed electronically since June 30, 2003) or paper Forms 144 [17 CFR 239.144], under the Securities Act of 1933 ("Securities Act") [15 U.S.C. 77a et seq .], and, as a result, have not been assigned by the Commission a Central Index Key (CIK) code. The CIK code is a unique publicly available identifier and EDGAR access code. The second category consists of applicants that have received a CIK code for use in connection with their activities as one type of applicant (filer, filing agent or training agent) but wish to act as another type of applicant. A person or entity should have and use a separate CIK code as to each capacity (filer, filing agent or training agent) in which it acts.
+
+15 Because only users that log onto EDGAR are required to select a passphrase, a filing agent that logs onto EDGAR in order to file on behalf of a client would be required to select a passphrase only for itself. The filing agent could file on behalf of the client regardless of whether the client had a passphrase.
+
+16 The passphrase system will provide advantages over the current system for changing access codes. In the current system, users often forget the access code needed to change another access code and have greater difficulty changing a code that has expired. Under the new system, users should remember their passphrase more easily since they choose it. An access code's expiration will not affect the passphrase. A passphrase remains valid unless and until the user changes it. Further details about passphrases and access codes are being provided in revisions to the EDGAR Filer Manual.
+
+17 Regulation S-T is the general regulation governing electronic filing. In addition to complying with Regulation S-T, filers must submit electronic documents in accordance with the instructions in the EDGAR Filer Manual. We also are amending the EDGAR Filer Manual to reflect the new electronic filing system.
+
+18 As also noted above, currently, the EDGAR Filer Manual requires Form ID to be filed by fax and Form ID contains a superseded instruction to file Form ID by mail.
+
+19 We are adopting as proposed the amendment to Rule 104(a) of Regulation S-T that makes it clear that unofficial PDF copy submissions are unavailable to Form ID.
+
+20 17 CFR 232.101(a)(1).
+
+21 Rule 101(a)(1) also requires the electronic submission of any related correspondence and supplemental information pertaining to a document that is the subject of mandated electronic filing "except as otherwise provided." As proposed, adopted Rule 101(a)(1)(ix) will prohibit electronic submission of the notarized authenticating document described in Section II.B of this release. As proposed, the rule also would have prohibited electronic submission of related correspondence and supplemental information submitted after electronic filing of Form ID and before the Commission assigns access codes to the applicant to file on EDGAR. As adopted, however, to facilitate Commission processing, the rule prohibits indefinitely electronic submission of related correspondence and supplemental information submitted after electronic filing of Form ID. This material should be provided by fax if submitted after electronic filing of Form ID. Otherwise, it should be submitted as an attachment to the electronically filed Form ID.
+
+22 All persons and entities required to file will need direct or indirect access to computers and the Internet regardless of whether Form ID must be filed electronically in order to file on EDGAR. Natural persons will, we expect, predominantly consist of filers of Forms 3, 4 and 5. As to those natural persons in particular, we believe many will have help from issuers, and those who do not will find it relatively easy and straightforward to fill in the few simple fields required to complete Form ID. See Section IV.B of this release for a discussion of expected costs.
+
+23 17 CFR 232.201(a).
+
+24 17 CFR 232.202(a).
+
+25 If a filer is unable to receive access codes timely because of technical difficulties with the EDGAR Filer Management website, and as a result the filing for which the access codes are needed is made late, generally a filing date adjustment would be available. See Rule 13 of Regulation S-T [17 CFR 232.13].
+
+26 See the note to Rule 10 of Regulation S-T [17 CFR 232.10] ("The Commission strongly urges any person or entity about to become subject to the disclosure and filing requirements of the federal securities laws to submit a Form ID well in advance of the first required filing, including a registration statement relating to an initial public offering, in order to facilitate electronic filing on a timely basis.").
+
+27 An applicant could confirm the authenticity of a Form ID by, for example, stating that "I [name of applicant] hereby confirm the authenticity of the Form ID [filed on] [to be filed on] [specify date] containing the information contained in this document."
+
+28 The proposed amendment also would revise subparagraph (b) of Rule 10 of Regulation S-T to add this requirement. One way to satisfy the authenticating document requirement, although only after electronic filing, would be to use a print-out of the Form ID application acknowledgment generated by the EDGAR Filer Management website. To use the print-out to satisfy the requirement, the applicant must notarize the print-out and add an authenticity confirming statement. Before faxing the print-out, the applicant also should make illegible the passphrase that appears on it. The passphrase should be made illegible because, as a code that enables the acquisition of new EDGAR access codes, it should be kept highly confidential.
+
+29 A certification authority issues a certificate that works like an electronic "pass card" that verifies the holder's identity when filing. The certification authority's digital signature would allow us to verify that the certificate is authentic. Certificates currently are optional for filing on EDGAR. They may be purchased from Verisign, the current certification authority for EDGAR.
+
+30 The adopted amendment, unlike the proposed, also includes a requirement to place in the notarized authenticating document the accession number of the related electronic Form ID filing when electronic filing occurs first.
+
+31 Some of the commenters suggested that the authenticating document appear as a PDF (Portable Document Format) attachment to the electronic Form ID. We believe a PDF attachment approach would not provide a level of assurance materially greater than that provided with no authenticating document and would not provide a level of assurance as high as that provided by the fax requirement coupled with our planned related procedures. In addition, it will not be possible to upload a PDF attachment to a Form ID at the time the new on-line system becomes operative. Other authentication devices suggested involved e-mail or internet address tracing or verification, use of signature guarantees or certificates or identity vouching by regular participants in the filing process. As noted above, we plan to replace the fax procedure with a certificate requirement. We believe, however, that neither the certificate device, nor the other devices suggested are both effective and feasible at the present time.
+
+32 The described amendments to clarify what foreign addresses and telephone numbers must include also are proposed as to Parts II, III and IV of Form ID.
+
+33 Unlike the proposed amendments relating directly to applicant type, the adopted amendments to Part I of Form ID and Part I of the General Instructions do not include a checkbox for, or reference to, foreign private issuers, respectively. We believe that we do not currently need that type of information.
+
+34 The term "foreign issuer" as used in this release is defined in Securities Act Rule 405 [17 CFR 230.405] and Exchange Act Rule 3b-4(b) [17 CFR 240.3b-4(b)].
+
+35 Unlike the proposed amendments to Part II of Form ID and Part II of the General Instructions, the adopted amendments refer to foreign issuers rather than foreign private issuers to cover additional types of filers that may have foreign language names. Also unlike the proposed amendments, the adopted amendments clarify that a foreign name entry is required only where applicable.
+
+36 The adopted amendment, unlike the proposal, also includes in the description the requirement to place in the notarized authenticating document the accession number of the related electronic Form ID filing when electronic filing occurs first. This will assist in processing.
+
+37 44 U.S.C. 3501 et seq .
+
+38 We estimate that a total of 196,800 respondents file Form ID (OMB Control Number 3235-0328) each year at an estimated .15 hours per response for a total annual burden of 29,520 hours.
+
+39 5 U.S.C. 552. The Commission's regulations that implement the Act are at 17 CFR 200.80 et seq .
+
+40 The addition of a requirement to provide in an authenticating document the accession number of the related electronic Form ID filing, where applicable, creates an additional burden so small it is not quantifiable. The other changes related to Form ID are minor and do not add any collection of information burden.
+
+41 A minor exception is that the notarized authenticating document would need to include the accession number of the related electronic Form ID filing when electronic filing occurs first.
+
+42 15 U.S.C. 78w(a)(2).
+
+43 15 U.S.C. 77b(b).
+
+44 15 U.S.C. 78c(f).
+
+45 We note and address comments regarding streamlining and the cost of the Form ID filing process in Sections II.B and IV.B of this release.
+
+46 5 U.S.C. 603.
+
+47 17 CFR 240.0-10(a).
+
+48 A minor exception is that the notarized authenticating document would need to include the accession number of the related electronic Form ID filing when electronic filing occurs first.
+
+49 One commenter claimed that the time required for notarization would be especially burdensome for small businesses because they are less likely to have a notary on the premises. We acknowledge this concern, but believe the vast majority of small business applicants will have reasonable access to a notary and will be able to make arrangements in advance of signing to minimize the time required for notarization.
+
+50 See 5 U.S.C. 553(d).
+
+51 See 5 U.S.C. 553(d).
+
+52 This finding also satisfies the requirements of 5 U.S.C. 808(2), allowing rules to become effective "at such time as the Federal agency promulgating the rule determines" if the agency "for good cause" finds that notice is impractical, unnecessary, or contrary to the public interest.
+
+53 15 U.S.C. 77s(a).
+
+54 15 U.S.C. 78c(b).
+
+55 15 U.S.C. 78m(a).
+
+56 15 U.S.C. 78w(a).
+
+57 15 U.S.C. 78ll.
+
+58 15 U.S.C. 79t.
+
+59 15 U.S.C. 77sss.
+
+60 15 U.S.C. 80a-29.
+
+61 15 U.S.C. 80a-37.

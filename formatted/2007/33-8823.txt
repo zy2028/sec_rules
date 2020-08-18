@@ -1,0 +1,503 @@
+https://www.sec.gov/rules/final/2007/33-8823.pdf
+
+I.0.0.0 BACKGROUND
+
+	I.A.0.0 Interactive Data and XBRL
+
+	I.B.0.0 The Voluntary Program and Tagging of Mutual Fund Information
+
+II.0.0.0 DISCUSSION
+
+	II.A.0.0 Expansion of Voluntary Program Content
+
+	II.B.0.0 Required Disclosure
+
+	II.C.0.0 Liability Issues
+
+	II.D.0.0 The Risk/Return Summary Taxonomy and Software Tools
+
+	II.E.0.0 Effective Date
+
+III.0.0.0 PAPERWORK REDUCTION ACT
+
+IV.0.0.0 COST/BENEFIT ANALYSIS
+
+	IV.A.0.0 Benefits
+
+	IV.B.0.0 Costs
+
+V.0.0.0 PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
+
+VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+	VI.A.0.0 Need for the Amendments
+
+	VI.B.0.0 Significant Issues Raised by Public Comment
+
+	VI.C.0.0 Small Entities Subject to the Rules
+
+	VI.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+VII.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 232, 239, 270 and 274
+
+[Release Nos. 33-8823 ; IC-27884; File Number S7-05-07] RIN 3235-AJ59
+
+EXTENSION OF INTERACTIVE DATA VOLUNTARY REPORTING PROGRAM ON THE EDGAR SYSTEM TO INCLUDE MUTUAL FUND RISK/RETURN SUMMARY INFORMATION
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: We are adopting rule amendments to extend the current interactive data voluntary reporting program to enable mutual funds voluntarily to submit supplemental tagged information contained in the risk/return summary section of their prospectuses. A mutual fund choosing to tag its risk/return summary information also would continue to file this information in HTML or ASCII format, as currently required. This extension of the voluntary program is intended to help us evaluate the usefulness to investors, third- party analysts, registrants, the Commission, and the marketplace of data tagging and, in particular, of tagging mutual fund information.
+
+EFFECTIVE DATE: August 20, 2007.
+
+FOR FURTHER INFORMATION CONTACT: Alberto H. Zapata, Senior Counsel, or Brent J. Fields, Assistant Director, Office of Disclosure Regulation, Division of Investment Management, at (202) 551-6784, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-5720. If you have questions about the EDGAR system, contact Richard Heroux, EDGAR Program Manager, at (202) 551-8800, in the Office of Information Technology.
+
+SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission (“Commission”) is adopting amendments to rules 401 <sup>1</sup> and 402 <sup>2</sup> of Regulation S-T <sup>3</sup> , rule 8b-33 <sup>4</sup> under the Investment Company Act of 1940 (“Investment Company Act”), and Form N-1A <sup>5</sup> under the Investment Company Act and the Securities Act of 1933 (“Securities Act”). <sup>6</sup>
+
+Table of Contents
+
+BACKGROUND
+
+Interactive Data and XBRL
+
+The Voluntary Program and Tagging of Mutual Fund Information
+
+DISCUSSION
+
+Expansion of Voluntary Program Content
+
+Required Disclosure
+
+Liability Issues
+
+The Risk/Return Summary Taxonomy and Software Tools
+
+Effective Date
+
+PAPERWORK REDUCTION ACT
+
+COST/BENEFIT ANALYSIS
+
+PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
+
+FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+STATUTORY AUTHORITY
+
+TEXT OF RULE AND FORM AMENDMENTS
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+<h>A. Interactive Data and XBRL</h>
+
+For the past several years, the Commission has been evaluating the use of interactive data tagging as a tool to improve the timeliness and accessibility of the information contained in filings with the Commission under the federal securities laws. <sup>7</sup> Data tagging uses standard definitions (or data tags) to translate text-based information into data that is interactive, that is, data that can be retrieved, searched, and analyzed through automated means. <sup>8</sup>
+
+Interactive data has enormous potential to enable investors and other market participants to analyze and compare data from different sources more efficiently and effectively and to exchange information across various platforms automatically. Through interactive data, static text-based information can be transformed into dynamic databases that can readily be searched and analyzed, facilitating the comparison of information
+
+Incentives for Companies to File Financial Reports with Interactive Data , Securities and Exchange Commission Press Release, Jan. 11 2006, available at: http://www.sec.gov/news/press/2006-7.htm (“January 11 Press Release”); SEC Announces Initiative to Assess Benefits of Tagged Data in Commission Filings , Securities and Exchange Commission Press Release, July 22, 2004, available at: http://www.sec.gov/news/press/2004-97.htm .across companies, reporting periods, and industries. Interactive data also provides a significant opportunity to automate information processing throughout the business and reporting cycle, with the potential to increase accuracy and reduce costs. By ensuring that information is classified properly at each step of the cycle, and minimizing the need for human intervention and, therefore, human error, interactive data may improve the quality of information at decreased cost.
+
+Tags are defined in taxonomies, which are essentially data dictionaries that describe individual items of information and mathematical and definitional relationships among the items. As tagging has continued to gain prominence in recent years, there has been substantial progress in developing data tagging taxonomies related to a language for the electronic communication of business and financial data known as eXtensible Business Reporting Language (“XBRL”). XBRL was developed as an open source specification that describes a standard format for tagging financial and other information to facilitate the preparation, publication, and analysis of that information by software applications. <sup>9</sup> XBRL was developed and continues to be supported by XBRL International, a collaborative consortium of approximately 450 organizations representing many perspectives in the financial reporting community. <sup>10</sup> XBRL International and its related entities have been developing standard taxonomies that are designed to classify and define financial information in accordance with U.S. Generally Accepted Accounting Principles (“GAAP”) and Commission regulations. The Commission has contracted with
+
+XBRL US, Inc., the U.S. based jurisdiction of XBRL International, to help complete the writing of XBRL taxonomies that would enable companies in all industries to file financial reports with the Commission using XBRL. <sup>11</sup>
+
+<h>B. The Voluntary Program and Tagging of Mutual Fund Information</h>
+
+As part of our evaluation of the potential of interactive data tagging technology, the Commission adopted rules in 2005 instituting a program that permits filers, on a voluntary basis, to submit financial information tagged in XBRL format as an exhibit to certain filings on the Commission’s Electronic Data Gathering, Analysis and Retrieval System (“EDGAR”). <sup>12</sup> The Commission adopted the voluntary program to help evaluate the usefulness of data tagging and XBRL to registrants, investors, the Commission, and the marketplace. <sup>13</sup> In 2006, the Commission initiated an interactive data test program, in which companies, including investment companies, voluntarily agree to furnish financial data in XBRL format for at least one year and provide feedback on their experiences, including the costs and benefits. <sup>14</sup> The data currently permitted in XBRL exhibits is limited to financial information.
+
+The current voluntary program extends to financial information for investment companies, including open-end management investment companies (“mutual funds”). <sup>15</sup> In February of this year, we proposed amendments to the voluntary program that would permit mutual funds to tag the information in the risk/return summary section of their prospectuses using a taxonomy developed by the Investment Company Institute (“ICI”). <sup>16</sup>
+
+The risk/return summary section of the mutual fund prospectus contains important information about investment objectives and strategies, risks, and costs, <sup>17</sup> and tagging this information could provide powerful tools for investors. With almost half of all U.S. households owning mutual funds, <sup>18</sup> typically to fund their education, retirement, and other basic needs, improving the quality of mutual fund disclosure is important to millions of Americans. Tagging of key mutual fund information could help to streamline
+
+In a letter to the Commission staff, dated May 18, 2007, the ICI advised that the risk/return summary taxonomy is ready for use and described its response to comments received regarding the taxonomy development. See Letter from Donald J. Boteler, Vice President – Operations and Continuing Education, ICI, to Andrew J. Donohue, Director, Division of Investment Management (May 18, 2007) (“Boteler Letter”), available at: http://www.sec.gov/comments/s7-05-07/s70507-21.pdf . The ICI also indicated that the schema files and reference materials for the taxonomy are available at: http://xbrl.ici.org .the delivery of mutual fund information and provide investors, analysts, and others with improved tools to compare funds based upon, among other things, costs, investment objectives, strategies, and risks. In addition, the risk/return summary information is largely narrative in format, and exploring the viability of tagging this information will provide us with valuable insights as we assess the potential for tagging other primarily narrative information.
+
+The Commission received eight comment letters on the proposed rule amendments, including comments from software vendors, an accounting firm, a trade association, and several individuals. <sup>19</sup> These commenters generally supported the proposed rules to extend the interactive data voluntary reporting program to the risk/return summary section of mutual fund prospectuses. We are adopting the proposed amendments, with minor modifications to address commenters’ recommendations. The rule amendments are intended to help us evaluate the usefulness to investors, third-party analysts, registrants, the Commission, and the marketplace of data tagging and, in particular, of tagging mutual fund information.
+
+<h>II. DISCUSSION</h>
+
+As part of our ongoing effort to evaluate the usefulness of data tagging, we are adopting amendments to extend the voluntary program to enable mutual funds to submit exhibits containing tagged risk/return summary information attached to EDGARfilings. <sup>20</sup> Any mutual fund may participate, without pre-approval, merely by submitting the risk/return summary information in the required manner. As we continue to gain experience with interactive data, we will evaluate the benefits of data tagging to investors, analysts, and others. If, in the future, we consider requiring filers to tag the risk/return summary information, that would be the subject of a separate rulemaking proposal.
+
+<h>A. Expansion of Voluntary Program Content</h>
+
+Currently, the XBRL data furnished under the voluntary program must consist of at least one item from a list of enumerated mandatory content (“Mandatory Content”), including financial statements, earnings information, and, for registered management investment companies, financial highlights or condensed financial information. <sup>21</sup> We are adding the risk/return summary information set forth in Items 2 and 3 of Form N-1A as a new item of Mandatory Content, with two modifications to our proposal that address commenters’ recommendations.
+
+Our proposal, like the current voluntary program, would have required that Mandatory Content “consist of a complete set of information for all periods presented in the corresponding official EDGAR filing.” <sup>22</sup> First, the adopted amendments clarify that, in the case of a Form N-1A filing that includes more than one series, <sup>23</sup> a filer may tag acomplete set of risk/return summary information for any one or more series. <sup>24</sup> For example, if a filing contains information about four series, a filer could tag information for one, two, three, or four series. Filers who choose to tag the information for a particular series would be required to tag all the information for that series, including the information for each class of the series. <sup>25</sup> Second, we have modified the proposed amendments, which would have required the information for each class to be separately identified, to clarify, as suggested by a commenter, <sup>26</sup> that this requirement applies only to information that does not relate to all of the classes in a series. <sup>27</sup> Thus, class-specific information, such as expenses and performance, would be required to be separately identified by class. Information that is not class-specific, such as investment objectives, would not be required to be separately identified by class.
+
+Three commenters stated that if a mutual fund’s official filing contains information for more than one series or class, the fund should be permitted to submit tagged risk/return summary information for one or more, but fewer than all, series or classes. <sup>28</sup> One of these commenters indicated that this approach would provide the broadest possible participation in the voluntary program. <sup>29</sup> We agree with these commenters that mutual funds volunteering to participate in the reporting program thatinclude more than one series in an official filing should not be required to tag the information for all series in the filing. A mutual fund’s series represent separate portfolios of securities, each with its own discrete investment objectives and strategies. Each series of a registered investment company is a distinct mutual fund though they are organized as part of a single legal entity. As a result, we have concluded that tagging one or more series should not require tagging all the series of a fund. Therefore, our rule amendments permit mutual funds to submit tagged risk/return summary information for one or more series in an official filing. <sup>30</sup> This flexibility should encourage participation in the voluntary program. <sup>31</sup>
+
+We disagree, however, with commenters’ recommendations <sup>32</sup> that volunteers be permitted to tag the risk/return summary information for less than all classes for any mutual fund or series selected. Permitting tagged submissions for less than all the classes of a fund or series would significantly impair the Commission’s and users’ ability to evaluate the effectiveness of the ICI’s risk/return summary taxonomy in tagging class- specific information. In addition, it would limit the ability to assess the usefulness of the taxonomy in facilitating the comparison of class-specific information, such as expenses and performance, within a fund.
+
+As with all tagged exhibits under the voluntary program, submissions of tagged exhibits containing risk/return summary information will be supplemental and will not replace the required HTML or ASCII version of the information called for in Form N-1A. Volunteers will be required to file their complete official registration statements to ensure that all investors have access to information upon which to base their investment decisions. <sup>33</sup> While tagged exhibits will be required to reflect the same information contained in the risk/return summary section of the related official Form N-1A filing, we emphasize that investors and others should continue to rely on the official filing rather than the tagged exhibit.
+
+We are adopting, as proposed, the requirement that mutual funds submitting tagged risk/return summary information must include this information as an exhibit to an amendment to a previous filing on Form N-1A. <sup>34</sup> Form N-1A filings, which contain mutual fund registration statements (or amendments thereto), are often subject to revision prior to effectiveness. For this reason, the rules do not permit the submission of a tagged
+
+N-1A to add rule 8b-33 to the list of general provisions that apply to the filing of registration statements on Form N-1A.exhibit that is related to a registration statement or an amendment that is not yet effective. More specifically, the rules provide that a tagged exhibit to a Form N-1A filing, whether the filing is an initial registration statement or an amendment thereto, may be submitted only as an amendment to the filing to which the tagged exhibit relates and only after the effective date of such filing. <sup>35</sup> An exhibit containing tagged risk/return summary information may be submitted under rule 485(b) of the Securities Act, which provides for immediate effectiveness of amendments that make non-material changes, and will only need to contain the new exhibit, a facing page, a signature page, a cover letter explaining the nature of the amendment, and a revised exhibit index.
+
+The voluntary program requires all volunteers to use the appropriate version of a standard taxonomy, supplemented with extension taxonomies as specified by the EDGAR Filer Manual. Filers submitting tagged risk/return summary information should not include the risk/return summary taxonomy in their submissions as this taxonomy will be stored as a part of the EDGAR system. Section 5.2.4 of the EDGARLink Filer Manual (Volume II): “EDGAR Filing” will provide instructions and guidance on the preparation, submission, and validation of EDGAR-acceptable electronic filings with attached tagged risk/return summary information. <sup>36</sup> The EDGAR system upgrade to Release 9.7 is scheduled to become available on August 20, 2007, to, among other things,enable EDGAR to process tagged risk/return summary information when the expanded voluntary program becomes effective.
+
+Similar to the current voluntary program, volunteers will be free to submit tagged risk/return summary information regularly or from time to time, and volunteers may stop and start as they choose. Participating in the voluntary program will not create a continuing obligation for a volunteer to submit tagged risk/return summary information as an exhibit to a subsequent post-effective amendment. A volunteer will, however, be required to amend any tagged risk/return summary exhibits that do not comply with the content and format requirements of rule 401, e.g. , because they do not reflect the same information as the corresponding official filing. <sup>37</sup>
+
+One commenter, while agreeing that participation in the voluntary program should not create a continuing obligation to submit tagged risk/return summary information as an exhibit to a subsequent post-effective amendment, noted that rendering tools may not be able to detect that tagged data is no longer current. <sup>38</sup> The commenter encouraged the Commission to consider whether additional safeguards, such as the option to withdraw tagged exhibits, should be made available to ensure that there is no liability to funds or harm to investors if rendering tools utilize outdated information. As we noted in response to similar comments when the voluntary program rules were initially adopted, submissions to EDGAR cannot, as a practical matter, be withdrawn after publicdissemination. <sup>39</sup> In order to address questions of potential harm to investors and liability to mutual funds, the rules provide for cautionary disclosures <sup>40</sup> and liability protections. <sup>41</sup>
+
+The amendments we are adopting will, as proposed, provide mutual funds with the option to submit tagged financial highlights or condensed financial information as a tagged exhibit to an amendment to the Form N-1A filing to which the information relates. <sup>42</sup> Mutual funds also may continue to submit this information as an exhibit to Form N-CSR, as currently permitted, whether or not they submit tagged risk/return summary information. <sup>43</sup> A mutual fund submitting tagged risk/return summary information may, but is not required to, submit tagged financial highlights or condensed financial information. Similarly, a mutual fund that submits tagged financial highlights or condensed financial information may, but is not required to, submit tagged risk/return summary information.
+
+<h>B. Required Disclosure</h>
+
+The Commission is adopting, as proposed, a requirement that the exhibit index of any Form N-1A filing that includes a tagged exhibit disclose that the purpose of submitting the tagged exhibit is to test the related format and technology and, as a result, investors should not rely on the exhibit in making investment decisions. <sup>44</sup> In addition, we are requiring this disclosure to appear within a tagged exhibit, as recommended by some commenters. <sup>45</sup>
+
+We believe that the inclusion of the cautionary disclosure within tagged risk/return summary exhibits may help to alert investors and other users that the exhibits should not be relied on in making investment decisions. We are modifying the proposed rule to require that the disclosure be included within the exhibits as a tagged data element. <sup>46</sup> The ICI indicated in its comment letter that an element could be added to the risk/return summary taxonomy for the display of this disclosure and has now done so.
+
+We encourage parties that are developing rendering tools for the risk/return summary taxonomy to make use of this data tag in order to display the cautionary disclosure in rendered versions of funds’ risk/return summary information.
+
+The adopted rules, like the proposed rules and consistent with one commenter’s recommendation, <sup>47</sup> do not require a Form N-1A filing that includes tagged exhibitscontaining only risk/return summary information to disclose that the information in the exhibits is “unaudited” or “unreviewed.” This disclosure will be required in a Form
+
+N-1A filing with which tagged financial highlights or condensed financial information is submitted. <sup>48</sup>
+
+<h>C. Liability Issues</h>
+
+The two commenters who addressed liability issues supported the proposal to extend to tagged risk/return summary information limited protection from liability that is similar to the protection provided under the current voluntary program, <sup>49</sup> and we are adopting the liability protection as proposed. We are providing this protection because liability remains for the official filing, and because the program is experimental, it contains certain safeguards, and the program should not unnecessarily deter volunteers from participating.
+
+Under the current voluntary program, tagged exhibits are not deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934 (“Exchange Act”) <sup>50</sup> or Section 34(b) of the Investment Company Act, <sup>51</sup> or otherwise subject to the liability of these sections. <sup>52</sup> In addition, the current rules also provide more general relief from liability under the securities laws, including the Securities Act, the Exchange Act, the
+
+Trust Indenture Act of 1939, and the Investment Company Act, for information in a tagged exhibit that complies with the content and format requirements of the voluntary program to the extent that the information in the corresponding portion of the official EDGAR filing was not materially false or misleading. <sup>53</sup>
+
+The amendments we are adopting, as proposed, extend the liability protection under the voluntary program to include Section 11 of the Securities Act. <sup>54</sup> Specifically, we are amending rule 402(a) to provide that tagged exhibits are not deemed filed for purposes of Section 11 or otherwise subject to the liabilities of that section. In addition, we are amending rule 402(a) to state explicitly that tagged exhibits are not part of any registration statement to which they relate. <sup>55</sup> Finally, the provision in the current rules that affords volunteers general relief from liability under the federal securities laws to the extent that the information in the corresponding portion of the official EDGAR filing was not materially false or misleading includes liability protections under the Securities Act,and it will apply to tagged documents submitted as exhibits on Form N-1A. <sup>56</sup> We will continue to caution users on the Commission’s Web site that documents submitted under the voluntary program should not be relied upon for making investment decisions, and users should continue to rely on the company’s official filing. <sup>57</sup>
+
+<h>D. The Risk/Return Summary Taxonomy and Software Tools</h>
+
+The taxonomy for tagging the risk/return summary information was developed by the ICI. Mutual funds will be permitted to submit documents containing risk/return summary information that is tagged using the ICI’s taxonomy commencing on the effective date of the rules that we are adopting. In January 2007, the ICI released a draft risk/return summary taxonomy for public review and comment. <sup>58</sup> The final taxonomy was submitted for acknowledgement by the ICI to XBRL International on May 16, 2007, <sup>59</sup> in accordance with XBRL International procedures. <sup>60</sup> The taxonomy receivedacknowledgement in June 2007. <sup>61</sup> The ICI also intends to seek approval of the taxonomy in accordance with the procedures of XBRL International, but has indicated that requiring the taxonomy to be approved prior to use in the voluntary program could introduce delay, the length of which is unpredictable. <sup>62</sup>
+
+We have concluded that the ICI’s taxonomy is sufficiently developed to permit its use in the voluntary program. Three commenters involved in the taxonomy development process stated that the risk/return summary taxonomy is sufficiently developed for use in the voluntary program, noting that the taxonomy was developed through the use of a broad working group that was given the opportunity to review and comment on the taxonomy as it was developed and that the taxonomy was subjected to a public review and comment period. <sup>63</sup> While some commenters suggested changes to the taxonomy, such as reducing the number of elements in the taxonomy <sup>64</sup> or avoiding the use of complex structures, <sup>65</sup> these commenters did not suggest that the voluntary program should be delayed unless the taxonomy is modified. The ICI has considered the comments it received on the taxonomy, as well as the comments on the taxonomy submitted to the Commission, and has submitted a letter to the Commission’s staff summarizing its response to the commenters and the taxonomy changes that weretaxonomy recognition process, see “Taxonomy Recognition Process” on the XBRL International Web site available at: http://www.xbrl.org/TaxonomyRecognition/ .made. <sup>66</sup> In its letter, the ICI asserts that the taxonomy is ready for use with the Commission’s interactive data voluntary reporting program. In light of the ICI’s consideration of comments related to the taxonomy, and the comments that we received favoring the expansion of the voluntary program to the risk/return summary, <sup>67</sup> we have concluded that it is appropriate to permit use of the taxonomy in its present state of development. Further, the purpose of the voluntary program is to test and evaluate tagging technology, and, as a result, we agree with commenters’ recommendations that it is not necessary for approval of the taxonomy to be obtained before permitting volunteers to submit tagged documents.
+
+As in the current voluntary program, filers will be permitted to use extensions to the risk/return summary taxonomy, which are additional tags created by a particular user that further refine the tags contained in a standard taxonomy. Some commenters supported permitting the use of at least some extensions with the risk/return summary taxonomy, <sup>68</sup> but one commenter opposed the use of extensions to the risk/return summary taxonomy, stating that the extensions would introduce complexity. <sup>69</sup> While we recognize that permitting the use of extensions to the risk/return summary taxonomy may affect the ability to compare or render tagged submissions, we believe that it will be helpful to permit extensions on an unrestricted basis at this time. Experimentation with extensions will permit the Commission, filers, and users of tagged filings to better assessthe need for extensions to the risk/return summary taxonomy and the impact that extensions may have on tagged documents.
+
+One commenter recommended that the Commission impose validity testing on tagged risk/return summary exhibits in addition to the tests currently performed under the voluntary program, but we have determined not to impose additional testing at this time. <sup>70</sup> The commenter stated that additional validity testing would improve the quality of tagged exhibits submitted. Currently, under the voluntary program, validity testing of tagged exhibits consists of testing for: (1) content validation ( i.e. , validating for invalid ASCII characters); (2) document-type validation ( e.g. , ensuring that EX-100.INS documents have .xml extensions and “<XBRL tags>”); and (3) XBRL validation ( e.g. , ensuring that exhibits follow appropriate XBRL standards and are structured according to the taxonomy). We agree that increased validity testing of tagged submissions might improve their quality. The purpose of the voluntary program, however, is to test the technology and the taxonomy. We, therefore, believe that it is premature to impose additional validity testing upon tagged risk/return summary documents.
+
+The Commission’s Web site currently provides access to a prototype XBRL Web application that converts tagged financial information submitted in the voluntary program into a rendered, or human readable, format. <sup>71</sup> At present, our Web site does not provide access to any rendering or analytical tools for use with tagged risk/return summary information. Some commenters favored a tool on the Commission’s Web site that wouldrender tagged risk/return summary documents. <sup>72</sup> One commenter noted that such a tool could help both investors and mutual funds to better understand and explore the benefits of tagging and could stimulate the development of other, more sophisticated tools for rendering tagged data. <sup>73</sup> We agree that the availability of rendering and analysis tools will help investors and mutual funds, as well as third party users, to evaluate the benefits of tagged risk/return summary data.
+
+We will continue to analyze rendering and other capabilities specifically developed for the risk/return summary taxonomy, and we may add these features to our Web site in the future. The Commission also encourages funds and third parties to develop these tools. Users of EDGAR data on the Commission’s Web site will be able to download the tagged risk/return summary information to perform their own analysis if they have appropriate software. Users will continue to be able to view the official filing in ASCII or HTML format, as they can today.
+
+<h>E. Effective Date</h>
+
+The effective date of these amendments is August 20, 2007, in order to provide sufficient time to implement EDGAR system changes necessary to provide for risk/return summary functionality.
+
+<h>III. PAPERWORK REDUCTION ACT</h>
+
+The rule and form amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>74</sup> Provision of information under the amendments would be voluntary and would not be keptconfidential. An agency may not conduct or sponsor, and a person is not required to respond to, an information collection unless it displays a currently valid Office of Management and Budget (“OMB”) control number.
+
+The title for the collection of information is “Voluntary XBRL-Related Documents” (OMB Control No. 3235-0611). The rule and form amendments expand the current interactive data voluntary reporting program to enable mutual funds voluntarily to submit tagged information contained in the risk/return summary section of their prospectuses on EDGAR as exhibits to Form N-1A filings. We published notice soliciting comments on the collection of information requirements in the release proposing the amendments and submitted the proposed collection of information to OMB for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. <sup>75</sup> OMB pre- approved these collection requirements. We received no comments on the collection of information requirements.
+
+The Voluntary Program
+
+The amendments, which will expand the current interactive data voluntary reporting program to enable mutual funds voluntarily to submit tagged information contained in the risk/return summary section of their prospectuses on EDGAR as exhibits to Form N-1A filings, will increase the burden associated with the existing collection of information for Voluntary XBRL-Related Documents. The expansion of the voluntary program will be open to any mutual fund choosing to participate. We estimate that 10% of the approximately 545 fund complexes that have mutual funds, or 55 fund complexes, will each submit documents containing tagged risk/return summary information for onemutual fund. <sup>76</sup> This estimate is higher than the number of mutual funds participating in the current voluntary program. However, we believe that additional mutual funds will participate in the expanded voluntary program. <sup>77</sup>
+
+Submission of tagged risk/return summary information will not directly affect the burden of preparing the mutual funds’ registration statements or the registrants' official EDGAR filings. In order to provide tagged risk/return summary information, a participating mutual fund will have to tag the risk/return summary section of its prospectus using the risk/return summary taxonomy and potentially develop taxonomy extensions and will submit an exhibit to its filing. Based on our previous estimates and our experience with registrants who have submitted tagged financial information in the current voluntary program, we estimate that the initial creation of tagged documents containing risk/return summary information will require, on average, approximately 110
+
+One commenter suggested that the Commission offer incentives to encourage volunteers to participate in the expanded voluntary program. See letter from ICI, supra note 19.
+
+Specifically, the commenter suggested that the Commission: (1) offer expedited review of mutual fund exemptive applications; or (2) offer expedited review of an initial registration statement on Form N-1A or an amendment to a registration statement to add a new fund or series. Id . The Commission did not initially offer incentives for volunteers to submit tagged information as part of the current voluntary program. The Commission subsequently offered expedited review of registration statements and annual reports to volunteers agreeing to participate in a test group. See January 11 Press Release, supra note 7. Volunteers that participate in the test group agree to furnish financial data contained in their periodic and investment company reports in XBRL format for at least one year and provide feedback on their experiences. Id . At this time, we are not offering specific incentives to encourage volunteers to participate in the expanded voluntary program, however, we will continue to assess the need for incentives going forward.burden hours per mutual fund, <sup>78</sup> and the creation of such tagged documents in subsequent years will require an average 10 burden hours per mutual fund. <sup>79</sup> Because the PRA estimates represent the average burden over a three-year period, we estimate the average hour burden for the submission of tagged documents containing risk/return summary information for one mutual fund to be approximately 43 hours. <sup>80</sup>
+
+Based on the estimates of 55 participants submitting tagged documents containing risk/return summary information for one mutual fund per year and incurring 43 hours per submission, we estimate that, in the aggregate, the industry will incur an additional 2,365burden hours associated with the amendments. <sup>81</sup> We further estimate that 75% of this burden increase, or approximately 1,774 hours, will be borne internally by the mutual fund complex. We estimate that this internal burden increase converted to dollars will amount to approximately $393,828. <sup>82</sup>
+
+We also estimate that 25% of the burden, or approximately 591 hours, will be outsourced to external professionals and consultants retained by the mutual fund complex at an average cost of $256.00 per hour for a total annual increase of approximately$151,296. <sup>83</sup> In addition, it is our understanding that many participants will also have annual software licensing costs. We estimate that the cost of licensing software will be1800-hour work-year and multiplied by 5.35 to account for bonuses, firm size, employee benefits, and overhead, yielding effective hourly rates of $292 and $244, respectively.
+
+See SIA Report, supra note 82. The estimated wage rate is further based on the estimate that attorneys will account for one quarter of the hours worked and senior programmers will account for the remaining three quarters, resulting in a weighted wage rate of$256.00 (($292 x .25) + ($244 x .75)).$333 per participant per year, for a total annual increase of $18,315. <sup>84</sup> Altogether, the total annual increase in external costs related to the amendments will be $169,611. <sup>85</sup>
+
+Our cost estimates are intended to reflect both initial and ongoing costs over a three-year period. In calculating these costs, we have tried to take into account, among other things, the current state of reporting process automation, automation that likely will be introduced in connection with the initial cost incurred, and the efficiencies that likely will be realized over the course of three years.
+
+Regulation S-T
+
+Regulation S-T (OMB Control No. 3235-0424) specifies the requirements that govern the electronic submission of documents. The amendments will revise rules under Regulation S-T, but the associated increase in burden is reflected in the “Voluntary XBRL-Related Documents” collection of information as described above.
+
+<h>IV. COST/BENEFIT ANALYSIS</h>
+
+The Commission is sensitive to the costs and benefits imposed by its rules. The goal of the voluntary program is to increase EDGAR's efficiency and utility and to enhance the usefulness to investors of the information collected through EDGAR. Inorder to evaluate data tagging further, we are adopting amendments to extend the current interactive data voluntary reporting program to enable mutual funds voluntarily to submit tagged information contained in the risk/return summary section of their prospectuses on EDGAR as exhibits to Form N-1A filings.
+
+<h>A. Benefits</h>
+
+We believe that tagged information may allow more efficient and effective retrieval, research, and analysis of company information through automated means. The expansion of the voluntary program will assist us in assessing whether using interactive data tags enhances users’ ability to analyze and compare mutual fund risk/return summary information included in mutual funds’ filings with the Commission. The expansion of the voluntary program to include narrative, non-financial information, such as that contained in the risk/return summary, also will facilitate our ability to assess further the technical requirements of processing tagged documents using EDGAR.
+
+Currently, a number of companies use computers and data entry staff to mine risk/return summary information provided by mutual funds on EDGAR in order to populate databases that are used to package information for sale to analysts, funds, investors, and others. Permitting funds to tag risk/return summary information in Commission filings will aid this data-mining process in that it will identify points of data at the source, which could reduce the cost to populate databases and improve the accuracy of that data. Additionally, the expanded voluntary program may benefit funds and the public by permitting experimentation with data tagged using the risk/return summary taxonomy.
+
+In the future, the availability of potentially more accurate tagged information about mutual funds could also reduce the cost of research and analysis and create new opportunities for companies that compile, provide, and analyze data to produce more value added services. Enhanced access to tagged information also has the potential to allow retail investors (or financial advisers assisting such investors) to perform more personalized and sophisticated analyses and comparisons of mutual funds, which could result in investors making better informed investment decisions, and therefore in a more efficient distribution of assets by investors among different funds. This may, in turn, also contribute to increased competition among mutual funds and result in a more efficient allocation of resources among competing investment products. Although it is not possible to quantify precisely the beneficial effects of more efficient allocation of investors’ assets and increased competition, they may be significant, given the size of the mutual fund industry.
+
+In the Proposing Release, we sought comments on our cost-benefit analysis, <sup>86</sup> and several commenters discussed the potential benefits resulting from the expansion of the interactive data voluntary reporting program and from interactive data in general. Two commenters stated that interactive data will increase the accuracy of information. <sup>87</sup> One commenter also noted the potential for increased timeliness of critical data that investors require to make informed investment decisions. <sup>88</sup> Another commenter stated that a prospectus tagged using the risk/return summary taxonomy will allow automated,instantaneous extraction of every fact disclosed in the risk/return summary. <sup>89</sup> Further, commenters stated that allowing funds to file tagged risk/return summary information would serve the objective of providing investors with more user-friendly access to key fund information. <sup>90</sup> Commenters also noted potential cost savings of interactive data which would benefit investors. <sup>91</sup> Finally, one commenter noted that the investment analysis process would become more efficient and effective through the increased use of automation and reduced human intervention that would result from the use of interactive data. <sup>92</sup>
+
+<h>B. Costs</h>
+
+The expansion of the voluntary program will lead to some additional costs for funds choosing to submit tagged documents containing risk/return summary information as exhibits to their Form N-1A filings. For purposes of the PRA, we estimated that the increase in annual internal burden hours to the industry will be 1,774 hours, which will amount to approximately $393,828 and that the increase in annual external costs will amount to approximately $169,611 for a total estimated increase of $563,439 on an annual basis. <sup>93</sup>
+
+We based these cost estimates upon, among other things, experience with filers who have submitted tagged financial information in the current voluntary program. <sup>94</sup>
+
+Due to the ongoing nature of the project to develop the risk/return summary taxonomy, however, we have limited data to quantify the cost of implementing the use of interactive data tags applied to risk/return summary information. In the Proposing Release, we sought comments and supporting data on our cost estimates with regard to the proposed amendments. <sup>95</sup> We did not receive any comments or supporting data specific to our cost estimates. <sup>96</sup>
+
+In the future, there may be additional costs to current users of EDGAR data. For example, companies that currently provide tagging and dissemination of EDGAR data may experience decreased demand for their services. These entities have developed certain products and services based on data in EDGAR; many entities disseminate, repackage, analyze, and sell the information. Allowing mutual funds to submit tagged risk/return summary information, even voluntarily, may have an impact on entities providing EDGAR-based services and products. Because the Commission does not regulate all these entities, it is currently not feasible to accurately estimate the number or size of these potentially affected entities. The limited, voluntary nature of the program will help the Commission assess the effect, if any, on these entities. In addition, the availability of mutual fund tagged data on EDGAR may provide these companies with alternative business opportunities.
+
+<h>V. PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION</h>
+
+Section 2(c) of the Investment Company Act <sup>97</sup> and section 2(b) of the Securities Act <sup>98</sup> require the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+The amendments will extend the interactive data voluntary reporting program to enable mutual funds voluntarily to submit tagged information contained in the risk/return summary section of their prospectuses on EDGAR as exhibits to Form N-1A filings. The expansion of the voluntary program is intended to help us evaluate the usefulness to investors, third-party analysts, mutual funds, the Commission, and the marketplace of data tagging and, in particular, of tagging mutual fund information. Because compliance with the amendments will be voluntary, the Commission estimates that the impact of the amendments will be limited. However, because the tagging of risk/return summary information has the potential to facilitate analysis of that information, we believe that the amendments could promote efficiency by allowing us and others to gain experience with tagged mutual fund information in Commission filings.
+
+Further, tagging of the risk/return summary information has the potential to help streamline the delivery of mutual fund information, and provide investors and others with improved tools to compare funds based upon, among other things, costs, investment objectives, strategies, and risks. We believe that the potential to streamline the deliveryof mutual fund information and to provide investors and others with improved mutual fund comparison tools could promote efficiency and competition through more efficient allocation of investments by investors and more efficient allocation of assets among competing funds. In the future, companies that currently provide tagging and dissemination of EDGAR data may experience decreased demand for their services. The availability of mutual fund tagged data on EDGAR, however, may provide these companies with alternative business opportunities. We do not anticipate that the amendments will have a significant impact on capital formation. Finally, because the amendments are designed to permit mutual funds to provide information in a format that we believe will be more useful to investors, we believe that the amendments are appropriate in the public interest and for the protection of investors.
+
+We requested comment on whether the proposed amendments would promote efficiency, competition, and capital formation. We received no comment on this issue.
+
+<h>VI. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
+
+This Final Regulatory Flexibility Analysis was prepared in accordance with 5
+
+U.S.C. 604 and relates to the amendments we are adopting that will expand the current interactive data voluntary reporting program to enable mutual funds voluntarily to submit tagged information contained in the risk/return summary section of their prospectuses on EDGAR as exhibits to Form N-1A filings. An Initial Regulatory Flexibility Analysis (“IRFA”), which was prepared in accordance with the 5 U.S.C. 603, was published in the release proposing the amendments.
+
+<h>A. Need for the Amendments</h>
+
+The purpose of the amendments is to help us evaluate the usefulness to investors, third-party analysts, mutual funds, the Commission, and the marketplace of data tagging and, in particular, of tagging mutual fund information. We believe that the expanded voluntary program will enable us to study further the extent to which interactive data tags enhance the comparability of that data, the usefulness of data tags for dissemination, and our staff's ability to review and assess the accuracy and adequacy of that data. The expanded voluntary program will also help us assess the effect of interactive data tags on the quality and transparency of risk/return summary information, as well as the compatibility of data tagging with the Commission's disclosure requirements.
+
+More specifically, we believe that the expanded voluntary program will better enable us to study the extent to which interactive data enhances the:search capability of the EDGAR database to allow more efficient and effective extraction and analysis of specific data,capability to perform comparisons among mutual funds, andability to perform analyses of mutual fund data and whether it would reduce the resources needed for data analysis.
+
+In addition, we believe that the expanded voluntary program will enhance our ability to evaluate the:impact on the staff's ability to review filings on a more timely and efficient basis,use of tagged data for risk assessment and surveillance procedures, andcompatibility of interactive data with reporting quality, transparency, and other Commission reporting requirements.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+In the IRFA for the proposed amendments, we requested comment on the number of small entities that would be affected by the proposed amendments, the existence or nature of the potential effect of the proposals on small entities, how to quantify the effect of the proposals, how different procedures could be provided for small entities, and we asked commenters to provide any empirical data supporting the extent of the impact. We received no comment letters specifically addressing the IRFA in the Proposing Release; however, one commenter suggested that the Commission could lower the barrier for participation for small funds by providing a “literal” or structured form using some commonly used software applications. <sup>99</sup>
+
+<h>C. Small Entities Subject to the Rules</h>
+
+The expansion of the voluntary program may have an effect on mutual fund participants in the voluntary program. Under Rule 0-10 under the Investment Company Act, an investment company is a small entity if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less as of the end of its most recent fiscal year. <sup>100</sup> We estimate that there are approximately 131 mutual funds that meet this definition. A smaller subset of those issuers may voluntarily submit tagged risk/return summary information under the voluntary program, but, because submitting risk/return summary information will be voluntary, we anticipate that only complexes with sufficient resources will elect toparticipate. To date, no small entity mutual funds have elected to participate in the current voluntary program.
+
+<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements</h>
+
+The voluntary program is designed to assist us in assessing the feasibility of using interactive data on a broader basis. Experience with the current voluntary program indicates that the cost of participating in the expanded program, the associated burden on the EDGAR system, and the possible effect of the expanded voluntary program on those entities that use the EDGAR data will be minimal. Nevertheless, the impact of the amendments remains somewhat speculative at this point.
+
+No registrant will be required to submit tagged documents under the expansion of the voluntary program. The submission of tagged risk/return summary information will require a participating mutual fund to tag the risk/return summary section of its prospectus using the risk/return summary taxonomy and potentially develop extensions and to submit exhibits to its filing. Volunteers may also need to purchase software or retain a consultant to assist in tagging data. For purposes of the PRA, we estimated that each volunteer, including small entities, would incur approximately 43 burden hours and$333 in software costs annually.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. The purpose of the amendments is to help us evaluate the usefulness to investors, third-party analysts, mutual funds, the Commission, and the marketplace of data tagging and, in particular, of tagging mutual fund information. Submittingdocuments containing tagged risk/return summary information is entirely voluntary. We have considered different or simpler procedures for small entities, including:
+
+The establishment of different compliance or reporting requirements or timetables;
+
+The clarification, consolidation, or simplification of the proposed requirements;
+
+The use of performance rather than design standards; and
+
+Exemption from coverage.
+
+For tagged data to provide benefits such as ready comparability, however, the data tagging system cannot have alternative procedures. Similarly, in order to achieve the benefits of interactive data tagging, use of a single data tagging technology is necessary. Additionally, providing structured input forms, as suggested by one commenter, <sup>101</sup> is not appropriate at this time given the cost of deploying and maintaining such forms and the difficulty of permitting extensions to be used with a structured input form. If we determine to require data tagging in the future, we will look to the results of the voluntary program, including those of the expansion of the program to risk/return summary information, in considering alternatives to minimize any burden on small entities.
+
+<h>VII. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 232.401.
+
+2 17 CFR 232.402.
+
+3 17 CFR 232.10 et seq.
+
+4 17 CFR 270.8b-33.
+
+5 17 CFR 239.15A and 274.11A.
+
+6 The Commission proposed these amendments in February 2007. Securities Act Release No. 8781 (Feb. 6, 2007) [72 FR 6676 (Feb. 12, 2007)] (“Proposing Release”).
+
+7 See SEC to Rebuild Public Disclosure System to Make It ‘Interactive,’ Securities and Exchange Commission Press Release, Sept. 25, 2006, available at: (“September 25 Press Release”); Commission Announces Roundtable Series Giving Investors and Analysts Better Financial Data via Internet, Securities and Exchange Commission Press Release, Mar. 9, 2006, available at: SEC Offers
+
+8 The Commission’s Electronic Data Gathering, Analysis, and Retrieval System (“EDGAR”) has allowed certain tagged data since its inception, for example, by using Standard Generalized Markup Language and Extensible Markup Language (“XML”) to tag form-specific information (such as the form type, central index key, and file number) that accompanies electronic documents submitted on EDGAR. More recently, EDGAR has employed HyperText Markup Language (“HTML”) to format documents and made limited use of XML related to financial and business information contained within certain EDGAR submissions.
+
+9 “Open Source” means that the software can be used by anyone without charge and is being developed in an open and collaborative setting. For a more detailed discussion about XBRL, see “How XBRL Works” on the XBRL International Web site available at: .
+
+10 See “About the Organisation” page and subpages on the XBRL International Web site, available at: .
+
+11 September 25 Press Release, supra note 7.
+
+12 See Securities Act Release No. 8529 (Feb. 3, 2005) [70 FR 6556 (Feb. 8, 2005)] (“XBRL Adopting Release”); Securities Act Release No. 8496 (Sept. 27, 2004) [69 FR 59094 (Oct. 1, 2004)] (“XBRL Proposing Release”). See also Securities Act Release No. 8497 (Sept. 27, 2004) [69 FR 59111 (Oct. 1, 2004)] (concept release soliciting comment on data tagging).
+
+13 XBRL Adopting Release, supra note 12, 70 FR at 6556-57.
+
+14 January 11 Press Release, supra note 7. For more information about the Commission’s interactive data initiatives, see the Commission Web page “Spotlight On: Interactive Data and XBRL Initiatives,” available at:
+
+15 See SEC XBRL Voluntary Program Extends to Investment Companies, Securities and Exchange Commission Press Release, Aug. 8, 2005, available at:
+
+16 The ICI is a national association of the American investment company industry. In March 2006, the ICI announced an initiative to create a taxonomy to cover the risk/return summary information. See Stevens Calls for Greater Use of Internet; Announces Initiative to Develop XBRL Data Tagging Technology, ICI Press Release, Mar. 20, 2006, available at: ICI Unveils Draft XBRL Taxonomy For Public Review, ICI Press Release, Jan. 4, 2007, available at:
+
+17 Items 2 and 3 of Form N-1A [17 CFR 239.15A and 274.11A].
+
+18 2007 Investment Company Fact Book, at 57-58, Investment Company Institute (2007), available at:
+
+19 See comment letters of Confluence (Mar. 14, 2007); Walter S. Hamscher (“Hamscher”) (Mar. 2, 2007); Charles S. Hoffman (“Hoffman”) (Feb. 10, 2007); ICI (Mar. 14, 2007); NewRiver, Inc. (“NewRiver”) (Mar. 14, 2007); PricewaterhouseCoopers LLP (“PWC”) (Mar. 14, 2007); Rivet Software, Inc. (“Rivet”) (Mar. 14, 2007); Ayal Rosenthal (“Rosenthal”) (Mar. 6, 2007). The ICI contracted with PWC to design and construct the risk/return taxonomy, and Hamscher was a subcontractor to PWC. The comment letters are available on the Commission’s Web site at: 07/s70507.shtml.
+
+20 The amendments do not alter the current voluntary program as it applies to the furnishing of XBRL information by non-investment companies.
+
+21 Rule 401(b)(1) of Regulation S-T [17 CFR 232.401(b)(1)].
+
+22 Rule 401(b)(1)(i) of Regulation S-T [17 CFR 232.401(b)(1)(i)].
+
+23 A mutual fund may issue multiple “series” of shares, each of which is preferred over all other series in respect of assets specifically allocated to that series. Rule 18f-2 under the Investment Company Act [17 CFR 270.18f-2]. Each series is, in effect, a separate investment portfolio.
+
+24 Rule 401(b)(1)(iv) of Regulation S-T [17 CFR 232.401(b)(1)(iv)].
+
+25 A mutual fund may issue more than one class of shares that represent interests in the same portfolio of securities with each class, among other things, having a different arrangement for shareholder services or the distribution of securities, or both. Rule 18f-3 under the Investment Company Act [17 CFR 270.18f-3].
+
+26 See letter from ICI, supra note 19.
+
+27 Rule 8b-33 under the Investment Company Act [17 CFR 270.8b-33].
+
+28 See letters from Hamscher, ICI, and PWC, supra note 19.
+
+29 See letter from ICI, supra note 19.
+
+30 Rule 401(b)(1)(iv).
+
+31 We have previously indicated that rule 8b-33 would require investment companies to submit tagged XBRL documents separately for each series of an investment company registrant. See XBRL Proposing Release, supra note 12, 69 FR at 59097 n. 49. Under amended rule 8b-33, a mutual fund will not be required to submit tagged risk/return summary information in separate documents for each series or class, provided that the information is tagged in such a manner that the information may be separately identified by series and class.
+
+32 See letters from Hamscher, ICI, and PWC, supra note 19.
+
+33 Consistent with the current voluntary program, once received by the Commission, the official filing and the tagged risk/return summary information submitted as exhibits to the official filing will undergo technical validations. The official filing will continue to follow the normal process for receipt and acceptance. That is, it will be suspended if it fails its validation criteria. If the official filing meets its validation criteria, but any tagged risk/return summary document submitted as an exhibit to the official filing fails its own validation criteria, all tagged documents will be removed and the official filing will be accepted and disseminated without the tagged documents. The volunteer will be notified of the submission problem with the tagged documents. If the official filing fails to meet the required receipt and acceptance process and is suspended for any reason, any tagged risk/return summary information submitted with the official filing will also be suspended.
+
+34 See Rule 401(a) of Regulation S-T [17 CFR 232.401(a)]; rule 8b-33. A mutual fund submitting tagged risk/return summary information as an exhibit to Form N-1A will be required to name each document “EX-100” as specified in the EDGAR Filer Manual. We also are adopting a technical amendment to General Instruction B.4.(b) of Form
+
+35 Rule 401(a); rule 8b-33.
+
+36 Rule 301 of Regulation S-T, the regulation that governs the preparation and transmission of electronic filings on the Commission's EDGAR system, requires electronic filings to be prepared in accordance with the provisions of the EDGAR Filer Manual. The Filer Manual contains the technical formatting requirements for electronic submissions. Filers must comply with those requirements to ensure the timely receipt and acceptance of documents submitted to the Commission in an electronic format. The Commission’s EDGAR Filer Manual is available at:
+
+37 See rule 401(c)(1) of Regulation S-T [17 CFR 232.401(c)(1)] (requires tagged exhibits to reflect the same information as corresponding official filing); XBRL Adopting Release, supra note 12, 70 FR at 6559 n. 48.
+
+38 See letter from ICI, supra note 19.
+
+39 XBRL Adopting Release, supra note 12, 70 FR at 6559.
+
+40 See infra Section II.B.
+
+41 See infra Section II.C.
+
+42 Rule 8b-33 (permitting tagged exhibits under the voluntary program to be submitted on Form N-1A); Item 8(a) of Form N-1A (requiring mutual funds to provide financial highlights information); rule 401(a) and (b)(1)(iii) of Regulation S-T [17 CFR 232.401(a) and (b)(1)(iii)] (permitting information set forth in Item 8(a) of Form N-1A as Mandatory Content under the voluntary program).
+
+43 Rule 401(a) and (b)(1)(iii) (permitting financial highlights or condensed financial information set forth in Item 8(a) of Form N-1A to be submitted as Mandatory Content); rule 8b-33. Mutual funds must include their financial highlights or condensed financial information in every annual and semi-annual report transmitted to shareholders. Items 22(b)(2) and (c)(2) of Form N-1A (requiring annual or semi-annual reports to include the information required by Item 8(a) of Form N-1A). Mutual funds must include a copy of their annual or semi-annual report transmitted to shareholders with their Form N-CSR filed with the Commission. Item 1 of Form N-CSR.
+
+44 Rule 401(d)(1)(ii) and (d)(2)(i) of Regulation S-T [17 CFR 232.401(d)(1)(ii) and (d)(2)(i)]. Rule 483(a) of Regulation C [17 CFR 230.483(a)] requires, among other things, that a registration statement of a registered investment company “contain an exhibit index, which should immediately precede the exhibits filed with such registration statement.”
+
+45 See letters from ICI and PWC, supra note 19.
+
+46 Rule 401(d)(2)(i).
+
+47 See letter from ICI, supra note 19.
+
+48 Rule 401(d)(1)(i) of Regulation S-T [17 CFR 232.401(d)(1)(i)].
+
+49 See letters from ICI and PWC, supra note 19.
+
+50 15 U.S.C. 78r.
+
+51 15 U.S.C. 80a-33(b).
+
+52 Rule 402(a)(1) under Regulation S-T [17 CFR 232.402(a)(1)]. Further, because the tagged documents are not filed under the Exchange Act, they are not incorporated by reference into registration statements filed under the Securities Act or prospectuses they contain. These protections apply regardless of whether the documents are exhibits to a document otherwise incorporated by reference into a filing.
+
+53 Rule 402(b) of Regulation S-T [17 CFR 232.402(b)].
+
+54 In addition, the current provisions of rule 402(a) will apply to tagged risk/return summary information. In particular, a tagged exhibit on Form N-1A will not be deemed incorporated by reference into another filing, regardless of whether the tagged exhibit is an exhibit to a document otherwise incorporated by reference into another filing. Rule 402(a)(2) under Regulation S-T [17 CFR 232.402(a)(2)]. All other liability and antifraud provisions of the Securities Act, Exchange Act, and Investment Company Act will apply. Rule 402(a)(3) under Regulation S-T [17 CFR 232.402(a)(3)]. For example, material misstatements or omissions in a tagged submission will continue to be subject to liability under Section 10(b) [15 U.S.C. 78j(b)] and rule 10b-5 [17 CFR 240.10b-5] under the Exchange Act.
+
+55 Section 11 of the Securities Act applies to “any part of the registration statement, when such part became effective.” The Commission takes a similar approach with unofficial PDF copies contained in electronic submissions. See Rule 104(d) of Regulation S-T [17 CFR 232.104(d)]. Similar to the other protections in the voluntary program, Section 11 liability relief will not extend to the information that the official filing contains.
+
+56 Rule 402(b). We are adopting technical amendments to rule 402(b) to replace each reference to “Item 401” with “Rule 401.”
+
+57 See “XBRL Data Submitted in the XBRL Voluntary Program on EDGAR” page on the Commission Web site, available at:
+
+58 See ICI Unveils Draft XBRL Taxonomy For Public Review, Investment Company Institute Press Release, Jan. 4, 2007, available at: See also Statements of SEC Chairman Christopher Cox and Division of Investment Management Director Andrew Donohue Regarding the Investment Company Institute’s Mutual Fund Interactive Data Taxonomy, Securities and Exchange Commission Press Release, Jan. 4, 2007, available at:
+
+59 See Boteler Letter, supra note 16.
+
+60 XBRL US, Inc., represents the United States to XBRL International. XBRL US, Inc., is responsible for organizing and sponsoring taxonomies from the United States, including the main accounting standards for United States business reporting. There are two levels of XBRL taxonomy recognition: (1) “acknowledgement” is formal recognition that a taxonomy complies with XBRL specifications, including testing by a defined set of validation tools; and (2) “approval” is a formal recognition requiring more detailed quality assurance and testing, including compliance with official XBRL guidelines for the type of taxonomy under review, creation of a number of instance documents, and an open review period after acknowledgement. For more information regarding the XBRL
+
+61 The taxonomy is available on XBRL International’s Web site at: acknowledged.htm.
+
+62 See letter from ICI, supra note 19. See also letter from Hamscher, supra note 19.
+
+63 See letters from Hamscher, ICI, and PWC, supra note 19.
+
+64 See letter from NewRiver, supra note 19.
+
+65 See letter from Rivet, supra note 19.
+
+66 See Boteler Letter, supra note 16.
+
+67 See letters from Confluence, Hamscher, Hoffman, ICI, NewRiver, PWC, and Rosenthal, supra note 19.
+
+68 See letters from ICI, PWC, and Rivet, supra note 19.
+
+69 See letter from Confluence, supra note 19.
+
+70 See comment letter from Hoffman, supra note 19.
+
+71 See “Interactive Financial Report Viewer — Preview Release” Web page on the Commission Web site, available at:
+
+72 See letters from Hamscher, ICI, and PWC, supra note 19.
+
+73 See letter from ICI, supra note 19.
+
+74 44 U.S.C. 3501 et seq.
+
+75 See Proposing Release, supra note 6, 72 FR at 6682-83.
+
+76 In the case of a mutual fund with multiple series, our estimate treats each series as a separate mutual fund.
+
+77 The ICI is undertaking an educational effort to encourage mutual funds to use the risk/return summary taxonomy to tag the information in their EDGAR filings. ICI Details Project to Extend XBRL to Key Investor Information, Investment Company Institute Press Release, June 12, 2006, available at: .
+
+78 In the current voluntary program, we estimated that an initial set of submissions would require an average of 130 burden hours, 75% of which (or 97.5 hours) represents the internal burden hour estimate. See XBRL Adopting Release, supra note 12, 70 FR at 6563; XBRL Proposing Release, supra note 12, 69 FR at 59101. Based upon our experience with filers who have submitted tagged financial information in the current voluntary program, we believe that this burden estimate for submitting an initial set of submissions may have been too high. See, e.g., Indra K. Nooyi, Chief Executive Officer, PepsiCo, Inc., Webcast Archive of October 3 Interactive Data Roundtable, Oct. 3, 2006, available at: (initial submission in voluntary program required approximately 60 to 80 total labor hours); John Stantial, Director of Financial Reporting, United Technologies Corporation, Transcript of June 12 Interactive Data Roundtable, June 12, 2006, available at: at 160 (initial submission in voluntary program required about 80 hours of effort). We, therefore, estimate that the initial creation of tagged documents containing risk/return summary information will require, on average, approximately 110 burden hours per mutual fund, 75% of which (or 82.5 hours) represents the internal burden hour estimate. These estimates more closely approximate the experience of filers in the current voluntary program.
+
+79 In the current voluntary program, we estimated that each set of submissions, after the initial set, would take 10 burden hours. See XBRL Adopting Release, supra note 12, 70 FR at 6563; XBRL Proposing Release, supra note 12, 69 FR at 59101. We continue to believe that this estimate is appropriate.
+
+80 (110 hours in the first year + 10 hours in the second year + 10 hours in the third year) ÷ 3 years = 43 hours. While the PRA requires an estimate based on a hypothetical three years of participation, a registrant, as noted earlier, could participate in the expanded voluntary program by submitting tagged risk/return summary information over a shorter period or even just once as the registrant chooses.
+
+81 55 documents per year x 43 hours per submission = 2,365 hours.
+
+82 This cost increase is estimated by multiplying the increase in annual internal hour burden (1,774) by the estimated hourly wage rate of $222.00. The estimated wage figure is based on published rates for compliance attorneys and programmer analysts, modified to account for an 1800-hour work-year and multiplied by 5.35 to account for bonuses, firm size, employee benefits, and overhead, yielding effective hourly rates of $261 and $209, respectively. See Securities Industry Association, Report on Management & Professional Earnings in the Securities Industry 2006 (Sept. 2006) (“SIA Report”). The estimated wage rate is further based on the estimate that compliance attorneys would account for one quarter of the hours worked and programmer analysts would account for the remaining three quarters, resulting in a weighted wage rate of $222.00 (($261 x .25) + ($209 x .75)). The wage rates used in the Proposing Release were based upon the Securities Industry Association, Report on Management & Professional Earnings in the Securities Industry 2005 (Sept. 2005), and the total internal and external burden increases converted to dollars differs from the estimates in the Proposing Release due to changes in wage rates in the 2006 SIA Report.
+
+83 591 hours x $256.00 per hour = $151,296. The estimated wage figure is based on published rates for attorneys and senior programmers, modified to account for an
+
+84 $333 per participant x 55 participants = $18,315. The estimated annual cost of the software comes from our previous PRA estimate for the current voluntary program. See XBRL Adopting Release, supra note 12, 70 FR at 6563 and n. 113. That estimate was based on our discussions with software providers and others familiar with XBRL. We estimated that the cost of licensing software will range from $200 to $3,000 each year, with the majority of companies licensing less complex software in the $200 to $500 range. We set our software cost estimate at $500, which is the highest cost for the simpler XBRL software license, and we assumed that the first year license fee will be waived (based upon our understanding that software providers indicated that they will provide these products for free in the initial stages of the voluntary program). Because the PRA estimates represent the average burden over a three-year period, we estimated the average burden for software license costs to be $333 per year. Id.
+
+85 This annual total consists of $151,296 in outside professional costs plus $18,315 in software costs.
+
+86 See Proposing Release, supra note 6, 72 FR at 6684.
+
+87 See letters from Confluence and Hamscher, supra note 19.
+
+88 See letter from PWC, supra note 19.
+
+89 See letter from Hamscher, supra note 19.
+
+90 See letters from ICI and PWC, supra note 19.
+
+91 See letters from Confluence and PWC, supra note 19.
+
+92 See letter from PWC, supra note 19.
+
+93 See supra Section III.
+
+94 See supra note 78.
+
+95 See Proposing Release, supra note 6, 72 FR at 6684.
+
+96 One commenter noted that it is difficult to estimate the likely cost of participation in the voluntary program at this time but noted that it may wish to provide cost data to the Commission in the future. See letter from ICI, supra note 19.
+
+97 15 U.S.C. 80a-2(c).
+
+98 15 U.S.C. 77b(b).
+
+99 See letter from Hamscher, supra note 19.
+
+100 17 CFR 270.0-10.
+
+101 See supra note 99.

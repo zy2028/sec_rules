@@ -1,0 +1,219 @@
+https://www.sec.gov/rules/final/34-48949.htm
+
+	I.0.0.0: I. Discussion of Amendments to Rule 17Ad-7(f)
+
+		I.A.0.0: A. Background
+
+		I.B.0.0: B. Discussion of Rule Amendments
+
+	II.0.0.0: II. Discussion of Comment Letters
+
+	III.0.0.0: III. Paperwork Reduction Act
+
+	IV.0.0.0: IV. Costs and Benefits of the Proposed Rule Amendments
+
+		IV.A.0.0: A. Benefits
+
+		IV.B.0.0: B. Costs
+
+	V.0.0.0: V. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+	VI.0.0.0: VI. Final Regulatory Flexibility Analysis
+
+		VI.A.0.0: A. Need for the Rule
+
+		VI.B.0.0: B. Significant Issues Raised by Public Comment
+
+		VI.C.0.0: C. Small Entities Subject To The Rule
+
+		VI.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		VI.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VII.0.0.0: VII. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Securities and Exchange Commission 17 CFR Part 240 [Release No. 34-48949; File No. S7-13-03] RIN 3235-AI87 Recordkeeping Requirements for Registered Transfer Agents 
+
+ Agency: Securities and Exchange Commission ("Commission").
+
+ Action: Final rule.
+
+ Summary: The Commission is amending its rule concerning recordkeeping requirements for registered transfer agents. The amendments will make clear that registered transfer agents may use electronic, microfilm, and microfiche media as a substitute for hard copy records, including cancelled stock certificates, for purposes of complying with the Commission's transfer agent recordkeeping rules and that a third party on behalf of a registered transfer agent may place into escrow the required software information. 
+
+ Effective Date: January 28, 2004.
+
+ For Further Information Contact: Jerry W. Carpenter, Assistant Director, or David Karasik, Special Counsel, at 202-942-4187, Office of Risk Management and Control, Division of Market Regulation, Securities and Exchange Commission, 450 5th Street, NW, Washington, DC 20549-1001.
+
+<END HEADER>
+
+<h>I. Discussion of Amendments to Rule 17Ad-7(f)A. Background </h><h>A. Background </h>
+
+Rule 17Ad-6<sup> 1 </sup> sets forth the records that transfer agents must make and preserve and Rule 17Ad-7 describes how and for how long the required records must be maintained. On April 27, 2001, the Commission adopted amendments<sup> 2 </sup> to Rule 17Ad-7, that (1) allows registered transfer agents to use electronic storage media<sup> 3 </sup> to maintain records that they are required by Rule 17Ad-6 to retain and (2) modified the requirements for using micrographic media<sup> 4 </sup> as a method of record storage. Specifically, Rule 17Ad-7(f) requires transfer agents that use electronic or micrographic media to store records to:
+
+ 
+
+Use electronic or micrographic storage mechanisms that are designed to ensure the accessibility, security, and integrity of the records, detect attempts to alter or remove the records, and provide means to recover altered, damaged, or lost records;
+
+Create an index of the records that are electronically or micrographically stored and store the index with the underlying records;
+
+Keep a duplicate of all records and indexes that are stored using electronic or micrographic storage media;
+
+Be able to promptly download electronically or micrographically stored records to an alternate medium such as paper, microfilm, or microfiche; and
+
+Keep in escrow an updated copy of the software or other information that is necessary to access and download electronically stored records. 
+
+ 
+
+Rule 17Ad-7 does not require transfer agents that wish to continue to maintain their records in hard copy format to maintain their records any differently from the way they stored them prior to the rule change. The purpose of those amendments was to increase the flexibility and efficiency of transfer agent recordkeeping while maintaining necessary controls over accuracy, integrity, and access to transfer agent records.<h>B. Discussion of Rule Amendments </h>
+
+Since the amendments to Rule 17Ad-7(f) were adopted in April 2001, we have learned that there is some uncertainty whether (1) Rule 17Ad-7(f) allows transfer agents to rely exclusively on electronic or micrographic records for purposes of the Commission's transfer agent recordkeeping rules and to no longer maintain hard copy records, including cancelled certificates and (2) a third party on behalf of the transfer agent may deposit with an independent escrow agent a copy of all the documentation required under Rule 17Ad-7(f)(5)(ii) for the purpose of complying with Rule 17Ad-7(f)(5)(ii).<sup> 5 </sup> In order to eliminate this uncertainty, the Commission issued a release requesting comment on proposed textual changes to Rule 17Ad-7(f) ("Proposing Release").<sup> 6 </sup>
+
+We proposed to amend paragraph (f) of Rule 17Ad-7 to clarify that records, including cancelled securities certificates, stored electronicallyor micrographically in accordance with the provisions of Rule 17Ad-7 may serve as a substitute for hard copy records required to be maintained pursuant to Rule 17Ad-6. Accordingly, this "substitution" provision would allow, but not mandate, the destruction of hard copy records, including securities certificates, if electronic or micrographic records have been created in conformity with Rule 17Ad-7(f).<sup> 7 </sup> 
+
+In addition, we proposed to amend paragraph (f)(5)(ii) of Rule 17Ad-7 to clarify that a transfer agent may fulfill its software escrow obligation by having a third party deposit with an independent escrow agent a copy of all the documentation required under Rule 17Ad-7(f)(5)(ii) on behalf of the transfer agent.<sup> 8 </sup> A transfer agent using a third party vendor to maintain its records would be allowed to have the third party vendor place in escrow a copy of the vendor's proprietary source code on behalf of the transfer agent using the vendor's services. This amendment also would allow a third party vendor maintaining the records of more than one transfer agent to place in escrow one copy of the vendor's proprietary source code for all the transfer agents for which it acts.<sup> 9 </sup><h>II. Discussion of Comment Letters </h>
+
+We received three comment letters in response to the Proposing Release.<sup> 10 </sup> Integrated Fund Services ("IFS") argued that the general requirement that an escrow agent be independent of both the transfer agent and the third party software provider is overly burdensome to transfer agents and software developers and that sufficient legal and regulatory remedies exist that provide the Commission access to the software should the transfer agent fail to do so. IFS believes that these factors discourage transfer agents from using electronic records management systems. 
+
+The Records Management Division of the Nebraska Secretary of State contended that (1) electronic documents are not as widely accepted as evidence in state and federal judicial proceedings compared to paper and microfilm records, (2) in addition to the software, the hardware (including printers and ink cartridges) necessary to retrieve and reproduce hard copy images of the records should also be kept in escrow, (3) paper and microfilm are easier to access than electronic records, and (4) paper and microfilm records should be subject to the same performance requirements as electronic records, specifically that they should be indexed, kept in duplicate, and kept safe and secure ( e.g. , from heat and sunlight). 
+
+While we will consider these two commenters' observations and suggestions as we continue to assess the effectiveness of the transfer agent recordkeeping rules, their comments do not address the issues presented in the Proposing Release, which was to clarify that (1) electronic records may be maintained in lieu of paper records and (2) a third party may escrow the required software on behalf of a transfer agent. These comments relate more to the previously adopted amendments to Rule 17Ad-7 that allow transfer agents to use electronic storage media to maintain their records.<sup> 11 </sup> 
+
+EquiServe supported the proposed amendments. EquiServe stated that the proposed amendments will resolve an ambiguity, especially with respect to cancelled certificates, whether hard copy records need to be maintained if they are also stored electronically pursuant to the requirements set forth in Rule 17Ad-7. In addition, EquiServe agreed with the need to make clear that third parties may escrow the source code on behalf of transfer agents.
+
+After careful consideration of the comment letters, we are adopting the proposed amendments to Rule 17Ad-7(f) as proposed.<h>III. Paperwork Reduction Act </h>
+
+The amendments to Rule 17Ad-7(f) do not contain new "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA")<sup> 12 </sup> and therefore do not impose any new collection of information requirements that would require approval of the Office of Management and Budget ("OMB"). OMB initially approved the paperwork burden for Rule 17Ad-7(f) (OMB Control No. 3235-0136) when the Commission proposed amendments for Rule 17Ad-7(f) in 1999.<sup> 13 </sup><h>IV. Costs and Benefits of the Proposed Rule Amendments </h>
+
+The Commission has identified certain costs and the benefits of the amendments to Rule 17Ad-7(f) as described below. Commenters did not provide any quantitative or other specific data relating to the costs or benefits of the proposed rule. We expect that registered transfer agents will choose to adopt electronic or micrographic recordkeeping if it is cost effective for them to do so.<h>A. Benefits </h>
+
+The amendments to Rule 17Ad-7(f) should also provide specific benefits to U.S. investors, issuers, transfer agents, and other financial intermediaries. The proposed software escrow provision should enable transfer agents to more conveniently comply with the current Rule 17Ad-7(f)(5)(ii) requirement that a copy of the electronic storage system the transfer agent utilizes to store its records be placed in escrow with an independent third party. Transfer agents that choose to exclusively adopt electronic or micrographic-based records systems in lieu of paper records may realize cost-savings and reduce certain risks associated with paper-based recordkeeping. While these benefits are not readily quantifiable in terms of dollar value, the use of electronic and storage media should reduce storage burdens ( e.g. , the need for storage space) that transfer agents currently face in maintaining paper records. By further clarifying the ramifications of each records format system, transfer agents might now choose to use a broader range of storage methods. In addition, transfer agents that decide to store records electronically or micrographically will no longer have the facility or operational costs of a traditional paper based system. Transfer agents could then pass the cost savings to issuers who can, in turn, see a similar reduction in their transfer agent service fees. Also, by eliminating any legal uncertainty whether electronically and micrographically-retained records may serve as a substitute for hard copy records, registered transfer agents will be free to assess which storage method will best suits their business needs. Should they choose to benefit from advances in electronic recordkeeping technology, the time and labor in maintaining and accessing records should be reduced, resulting in operational and financial efficiencies. Other benefits include: 
+
+ 
+
+increased efficiency of recordkeeping operations by reducing the need to maintain records in hard copy format;
+
+reduced likelihood that documents will be lost or misfiled;
+
+ability to retrieve documents more quickly;
+
+audit trails can be automated;
+
+reduction of risk for natural disasters;
+
+file centralization is automatic (file and records need not be removed from their storage in order to reference them);
+
+ multiple persons can view the same document simultaneously;
+
+access authorization can be automated;
+
+space required for document storage is drastically reduced;
+
+document indexing and cross-referencing can be automatic; and
+
+documents can be copied, faxed, printed, and e-mailed without the paper originals.<h>B. Costs </h>
+
+The amendments to Rule 17Ad-7(f) should not impose costs on any particular person or entity because compliance with this provision would apply only to those transfer agents that choose to store any of their records exclusively in electronic form. Nevertheless, transfer agents that elect to use micrographic media or electronic storage media may incur some costs in destroying or otherwise disposing hard copy records that they elect to dispose or destroy. Any costs related to the use of micrographic or electronic storage media should be at least partly offset by the resulting elimination of the need to maintain and store records in hard copy format. This cost is likely to depend upon the volume of hard copy records needed to be disposed. We expect these costs to be relatively minimal.<sup> 14 </sup> 
+
+We estimate that approximately 60 transfer agents will use a third party to escrow the required source code.<sup> 15 </sup> Each transfer agent will evaluate the risk and cost effectiveness of its records management solution differently based upon the solution that is best for its business model, such as its business practices and volume, and that assures its ability to comply with Rule 17Ad-7. Moreover, we cannot predict the effect of future market competition and innovation on the technologies that transfer agents might employ for their recordkeeping. 
+
+In addition, there will be some cost associated with the escrow requirement amendment. However, the Commission the Commission considered these costs in the April 2001 adopting release and any new costs associated with the escrow amendment ( i.e. , having a third party escrow the source code on the transfer agent's behalf) would likely be included in the software contract between the parties.<h>V. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation </h>
+
+Section 3(f) of the Act<sup> 16 </sup> requires the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation.
+
+Section 23(a)(2) of the Act requires us to consider the anti-competitive effects of any rules that we adopt under the Act. This section prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Act. 
+
+In the Proposing Release, the Commission solicited comments on whether the amendments to Rule 17Ad-7 would have any effects on competition, efficiency and capital formation. We received no comments in response to this solicitation. 
+
+The Commission believes the amendments should improve efficiency, competition, and capital formation. The amendments should promote efficiency by allowing registered transfer agents to benefit from advances in recordkeeping technology. The amendments should promote competition between the vendors who create and manufacture the new storage technologies and between the transfer agents who use the new methods. Vendors can compete with each other to develop systems that can allow transfer agents to manage their records on a more economical basis. The improvement in storage technologies would allow transfer agents to compete among one another in offering to companies a more cost-effective and efficient service. Finally, the amendments should not adversely affect capital formation because the amendments relate solely to post-issuance activity. 
+
+The Commission does not anticipate that the amendments will impose any burden on competition that is not necessary or appropriate in furtherance of the Act. The amended rule permits, but does not require, registered transfer agents to use electronic or micrographic media to retain their records in lieu of hard copies and a third party to place the required software code into escrow on behalf of a registered transfer agent. The amendments are intended to remove legal uncertainties facing transfer agents who decide to store records in an electronic or micrographic form. The Commission believes that by adopting these amendments, transfer agents will have greater certainty to assess which storage method will best suits their business needs.<h>VI. Final Regulatory Flexibility Analysis </h>
+
+This Final Regulatory Flexibility Analysis ("FRFA") has been prepared in accordance with the Regulatory Flexibility Act ("RFA").<sup> 17 </sup> This analysis relates to amendments to Rule 17Ad-7(f) under the Securities Exchange Act of 1934("Act")<sup> 18 </sup> to determine whether the rule amendments will have a significant economic impact on a substantial number of small entities. The amendments will allow registered transfer agents to take advantage of improvements in electronic recordkeeping technology by being able to store their records exclusively using electronic storage technology and by being able to have a third party place in escrow the source code on behalf of the transfer agent.<h>A. Need for the Rule </h>
+
+Notwithstanding recent amendments to Rule 17Ad-7,<sup> 19 </sup> there appeared to be some uncertainty whether (1) Rule 17Ad-7(f) allows transfer agents to rely exclusively on electronic or micrographic records for purposes of the Commission's transfer agent recordkeeping rules and to no longer maintain hard copy records, including cancelled certificates, and (2) a third party may deposit with an independent escrow agent a copy of all the documentation required under Rule 17Ad-7(f)(5)(ii) on behalf of the transfer agent for the purpose of complying with Rule 17Ad-7(f)(5)(ii).<sup> 20 </sup> 
+
+In order to eliminate this uncertainty, the Commission is amending Rule 17Ad-7(f) to clarify that records, including cancelled securities certificates, required to be maintained pursuant to Rule 17Ad-6 may be retained electronicallyor micrographically andmay serve as a substitute for hard copy records required to be maintained pursuant to Rule 17Ad-6. Accordingly, this substitution provision allows, but would not mandate, the destruction of hard copy records, including securities certificates, after electronic or micrographic records have been created in conformity with Rule 17Ad-7(f).<sup> 21 </sup> 
+
+The amendments make it clear that transfer agents may use electronically and micrographically retained records to comply with the Commission's transfer agent recordkeeping requirements. We note that the Commission did not take a position on whether transfer agents should store their records using electronically or micrographically instead of in paper. 
+
+In addition, we are amending paragraph (f)(5)(ii) of Rule 17Ad-7 to clarify that a transfer agent may fulfill its software escrow obligation by having a third party deposit with an independent escrow agent a copy of all the documentation required under Rule 17Ad-7(f)(5)(ii) on behalf of the transfer agent.<sup> 22 </sup>
+
+Amendments to Rule 17Ad-7 are adopted under the Commission's authority set forth in Sections 17, 17A, and 23 of the Act.<h>B. Significant Issues Raised by Public Comment </h>
+
+We received three comment letters in response to the Proposing Release.<sup> 23 </sup> Integrated Fund Services ("IFS") argued that the general requirement that an escrow agent be independent of both the transfer agent and the third party software provider is overly burdensome to transfer agents and software developers and that sufficient legal and regulatory remedies exist that provide the Commission access to the software should the transfer agent fail to do so. IFS believes that these factors discourage transfer agents from using electronic records management systems. 
+
+The Records Management Division of the Nebraska Secretary of State contended that (1) electronic documents are not as widely accepted as evidence in state and federal judicial proceedings compared to paper and microfilm records, (2) in addition to the software, the hardware, including printers and ink cartridges, necessary to retrieve and reproduce hard copy images of the records should also be kept in escrow, (3) paper and microfilm are easier to access than electronic records, and (4) paper and microfilm records should be subject to the same performance requirements as electronic records, specifically that they should be indexed, kept in duplicate, and kept safe and secure ( e.g . from heat and sunlight). 
+
+While we will consider these two commenters' observations and suggestions as we continue to assess the effectiveness of the transfer agent recordkeeping rules, such comments do not address the issues presented in the Proposing Release, which was to clarify that (1) electronic records may be maintained in lieu of paper records and (2) a third party may escrow the required software on behalf of a transfer agent. Their comments relate more to the issues raised when we adopted amendments to Rule 17Ad-7 that allowed transfer agents to use electronic storage media to maintain their records. 
+
+EquiServe supported the proposed amendments. EquiServe stated that the proposed amendment will resolve an ambiguity, especially with respect to cancelled certificates, whether hard copy records need to be maintained if they are also stored electronically pursuant to the requirements set forth in Rule 17Ad-7. In addition, EquiServe agreed with the need to make clear that third parties may escrow the source code on behalf of transfer agents.
+
+Accordingly, we are adopting the proposed amendments to Rule 17Ad-7(f) entirely as proposed.<h>C. Small Entities Subject To The Rule </h>
+
+The rule amendments should not affect registered transfer agents that are small entities. Rule 0-10(h) under the Act defines the term "small business" or "small organization" to include any transfer agent that: (1) received less than 500 items for transfer and less than 500 items for processing during the preceding six months (or in the time that it has been in business, if shorter); (2) transferred items only of issuers that would be deemed "small business" or "small organizations" as defined in Rule 0-10 under the Exchange Act; (3) maintained master shareholder files that in the aggregate contained less than 1,000 shareholder accounts or was the named transfer agent for less than 1,000 shareholder accounts at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (4) is not affiliated with any person (other than a natural person) that is not a small business or small organization under Rule 0-10.<sup> 24 </sup> We estimate that 180 registered transfer agents qualify as small entities and would be subject to the amendment to Rule 17Ad-7(f).<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+The amendments do not impose any new reporting, recordkeeping, or other compliance costs or requirements on any particular person or entity. First, the amendments do not in any way change the manner that transfer agents are currently maintaining their records today. Second, compliance with this provision is purely voluntary depending on whether registered transfer agents choose to exclusively use electronic or micrographic media to store the required records. While transfer agents that elect to exclusively use micrographic media or electronic storage media may incur some costs in destroying or otherwise disposing hard copy records. However, the Commission believes that this cost is minimal. Finally, while there will be some cost imposed by the proposed escrow requirement provision, these costs were contemplated by the Commission in the Adopting Release and any new costs associated with the escrow amendment ( i.e. , having a third party escrow the source code on the transfer agent's behalf) would likely be included in the software contract between the parties. 
+
+Accordingly, we believe that amendments to Rule 17Ad-7(f) should not have a significant economic impact on a substantial number of small entities.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+The Regulatory Flexibility Act directs the Commission to consider significant alternatives that would accomplish the stated objective while minimizing any significant adverse impact on small entities. In connection with the adopted amendments, the Commission considered the following alternatives: (a) the establishment of differing compliance or reporting requirements or timetables that take into account the resources of small entities; (b) the clarification, consolidation, or simplification of compliance and reporting requirements under the rule for small entities; (c) the use of performance standards rather than design standards; and (d) an exemption from coverage of the proposed amendment or any part thereof for small entities. 
+
+The adopted amendments are designed to enable registered transfer agents to take advantage of improvements in electronic recordkeeping technology by being able to store their records exclusively using electronic storage technology and by being able to have a third party place in escrow the source code on behalf of the transfer agent. The Commission believes that different compliance or reporting requirements for small entities are not necessary because the amendments do not establish any new reporting, recordkeeping, or compliance requirements for small entities. In addition, the Commission has concluded that it is not feasible to further clarify, consolidate, or simplify the proposed amendments for small entities. The Commission also believes that creating an exemption from the requirements of the amendments would not reduce the impact of the proposed amendments on small entities. We note that Rule 17Ad-4(b) under the Exchange Act<sup> 25 </sup> already exempts small transfer agents from many of the recordkeeping requirements of Rules 17Ad-6 and 17Ad-7. In addition, any burdens imposed by the amendments apply only to those transfer agents that choose to use electronic or micrographic storage media.<h>VII. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.17Ad-6. All references to Rules 17Ad-6 and 17Ad-7 or to any paragraph of those rules will be to 17 CFR 240.17Ad-6 and 240.17Ad-7, respectively.
+
+2 Securities Exchange Act Release No. 44227 (Apr. 27, 2001), 66 FR 21648 (May 1, 2001) ("Adopting Release").
+
+3 Under Rule 17Ad-7(f)(1)(ii), the term "electronic storage media" refers to any digital storage medium or system.
+
+4 Under Rule 17Ad-7(f)(1)(i), the term "micrographic media" refers to microfilm or microfiche or any similar medium.
+
+5 Under Rule 17Ad-7(f)(5)(ii), transfer agents that choose to use electronic storage media must, among other things, "place in escrow with an independent third party and keep current a copy of the physical and logical format of the electronic storage or micrographic media, the field format of all different information types written on the electronic storage media and source code and the appropriate documentation and information necessary to access records and indexes. . . ."
+
+6 Securities Exchange Act Release No. 48036 (June 16, 2003); 68 FR 36951 (June 20, 2003).
+
+7 The Commission has proposed new Rule 17Ad-19 that would require transfer agents to establish and implement written procedures for the cancellation, storage, transportation, and destruction of securities certificates. Securities Exchange Act Release No. 43401 (Oct. 2, 2000); 65 FR 59766 (Oct. 6, 2000). In addition, while amended Rule 17Ad-7 will permit the destruction of paper records for purposes of our recordkeeping requirements, a transfer agent may have an obligation to preserve such paper records under other applicable law or rules.
+
+8 One situation that calls for this clarifying amendment is when a software provider licenses its electronic records storage system software to a transfer agent but does not grant a license for the source code. In this case, the transfer agent does not have access to the source code.
+
+9 Rule 17Ad-7(f)(5)(ii) requires the third party to file a written undertaking with the Commission stating that it agrees to furnish the Commission with the appropriate documentation and information necessary to access the records and indexes promptly upon request.
+
+10 Letters from Jeffrey G. Rutowski, Vice President, Integrated Fund Services (June 30, 2003); Cathy Danahy, Assistant Director, Nebraska Secretary of State's Office, Records Management Division (July 14, 2003); and Charles V. Rossi, Division President, EquiServe, Inc. (July 29, 2003).
+
+11 See supra note 2 and accompanying text.
+
+12 44 U.S.C. 3501 et seq .
+
+13 Securities Exchange Act Release No. 41442 (May 25, 1999), 64 FR 29608 (June 2, 1999). Subsequently, OMB approved the extension of this paperwork collection.
+
+14 In the adopting release to Rule 17Ad-7(f), we estimated that approximately 500 transfer agents were likely to use electronic or micrographic storage systems. During the year-and-a-half since Rule 17Ad-7(f) has been effective, however, five transfer agents have taken advantage of the record storage alternatives provided by the rule.
+
+15 Although this estimate represents less than 10% of the number of currently-registered transfer agents, we expect that many of the largest bank, corporate, and independent transfer agents, which represent over 90% of the entire transfer agent industry volume, will eventually convert their records-management systems to electronic-based solutions.
+
+16 15 U.S.C. 78c(f).
+
+17 5 U.S.C. 603.
+
+18 15 U.S.C. 78a et seq.
+
+19 Supra note 2.
+
+20 Under Rule 17Ad-7(f)(5)(ii), transfer agents that choose to use electronic storage media to store the required records must, among other things, "place in escrow with an independent third party and keep current a copy of the physical and logical format of the electronic storage or micrographic media, the field format of all different information types written on the electronic storage media and source code and the appropriate documentation and information necessary to access records and indexes. . . ."
+
+21 While Rule 17Ad-7 would permit destruction of paper records for purposes of our recordkeeping requirements, a transfer agent may have an obligation to preserve paper records under other applicable laws or rules. The Commission proposed new Rule 17Ad-19 that would require transfer agents to establish and implement written procedures for the cancellation, storage, transportation, and destruction of securities certificates. Securities Exchange Act Release No. 43401 (Oct. 2, 2000); 65 FR 59766 (Oct. 6, 2000). In addition, while Rule 17Ad-7 would permit the destruction of paper records for purposes of our recordkeeping requirements, a transfer agent may have an obligation to preserve such paper records under other applicable law or rules.
+
+22 One situation that necessitates this clarifying amendment is when a software provider licenses its electronic records storage system software to a transfer agent but does not grant a license for the source code. As a result, the transfer agent does not have access to the source code.
+
+23 Letters from Jeffrey G. Rutowski, Vice President, Integrated Fund Services (June 30, 2003); Cathy Danahy, Assistant Director, Nebraska Secretary of State's Office, Records Management Division (July 14, 2003); and Charles V. Rossi, Division President, EquiServe, Inc. (July 29, 2003).
+
+24 17 CFR 240.0-10(h).
+
+25 17 CFR 240.17Ad-4(b).
+
+26 15 U.S.C. 78q, 78q-1, and 78w(a).

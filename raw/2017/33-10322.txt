@@ -1,0 +1,553 @@
+https://www.sec.gov/rules/final/2017/33-10322.pdf
+
+I.0.0.0 Introduction
+
+II.0.0.0 Discussion of the Final Amendments
+
+	II.A.0.0 Hyperlinking to Exhibits
+
+		II.A.1.0 Proposed Amendments
+
+		II.A.2.0 Comments on the Proposed Rule
+
+		II.A.3.0 Final Rule
+
+	II.B.0.0 HTML Format for Registration Statements and Reports
+
+		II.B.1.0 Proposed Rules
+
+		II.B.2.0 Comments on the Proposed Rules
+
+		II.B.3.0 Final Rule
+
+III.0.0.0 Other Matters
+
+IV.0.0.0 Economic Analysis
+
+	IV.A.0.0 Baseline
+
+	IV.B.0.0 Potential Economic Effects
+
+		IV.B.1.0 how many registration statements and reports a registrant files that require an exhibit index; and (2) how many exhibits in the exhibit index of these registration statements and reports are either filed with the filing or incorporated by reference and would be subject to the hyperlinking requirement.
+
+	IV.C.0.0 Alternatives
+
+V.0.0.0 Paperwork Reduction Act
+
+	V.A.0.0 Background
+
+	V.B.0.0 Summary of the Final Amendments
+
+	V.C.0.0 Summary of Comment Letters and Revisions to Proposals
+
+	V.D.0.0 Revisions to the Burden and Cost Estimates Burden
+
+VI.0.0.0 Final Regulatory Flexibility Act Analysis
+
+	VI.A.0.0 Need for the Amendments
+
+	VI.B.0.0 Significant Issues Raised by Public Comments
+
+	VI.C.0.0 Small Entities Subject to the Final Rules
+
+	VI.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
+
+	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+VII.0.0.0 Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229, 232, 239 and 249
+
+[RELEASE NOS. 33-10322; 34-80132; FILE NO. S7-19-16] RIN 3235-AL95
+
+EXHIBIT HYPERLINKS AND HTML FORMAT
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: We are adopting amendments that will require registrants that file registration statements and reports subject to the exhibit requirements under Item 601 of Regulation S-K, or that file Forms F-10 or 20-F, to include a hyperlink to each exhibit listed in the exhibit index of these filings. To enable the inclusion of such hyperlinks, the amendments also require that registrants submit all such filings in HyperText Markup Language (“HTML”) format.
+
+DATES: Effective on September 1, 2017.
+
+Compliance Dates : Registrants must comply with the final rules for filings submitted on or after
+
+September 1, 2017. A registrant that is a “smaller reporting company,” as defined in Securities Act Rule 405 and Exchange Act Rule 12b-2, or that is neither a “large accelerated filer” nor an “accelerated filer,” as defined in Exchange Act Rule 12b-2, and that submits filings in ASCII need not comply with the final rules until September 1, 2018, one year after the effective date.
+
+The compliance date with respect to any Form 10-D that will require hyperlinks to any exhibits filed with Form ABS-EE is delayed until Commission staff has completed technical programming changes to allow issuers to include such forms in a single submission. Once these programming changes are complete, the Commission will publish in the Federal Register a document notifying the public of the compliance date for Form 10-D.
+
+FOR FURTHER INFORMATION CONTACT: N. Sean Harrison, Special Counsel, at (202) 551-3430, in the Office of Rulemaking, Division of Corporation Finance, U.S. Securities and Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+SUPPLEMENTARY INFORMATION : We are adopting amendments to Item 601 of Regulation S-K, <sup>1</sup> Forms 20-F <sup>2</sup> and F-10, <sup>3</sup> and Rules 11, <sup>4</sup> <sup>102</sup> <sup>5</sup> and 105 <sup>6</sup> of Regulation S-T. <sup>7</sup>
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+On August 31, 2016, we proposed rule and form amendments to require registrants to include a hyperlink to each exhibit identified in the exhibit index in any registration statement or report that is required to include exhibits under Item 601 of Regulation S-K or under Form F-10 or Form 20-F. <sup>8</sup> In addition, because the text-based American Standard Code for Information Interchange (“ASCII”) format cannot support functional hyperlinks, we proposed to require registrants filing such registration statements or reports to file these forms on EDGAR in HTML. These proposals were intended to facilitate easier access to these exhibits for investors and other users of the information.
+
+We received comment letters from individuals, professional and trade associations, law firms and other interested parties. <sup>9</sup> The commenters overwhelmingly supported the proposal torequire registrants to include hyperlinks to the exhibits filed with registration statements or reports. Some commenters suggested that we adopt additional requirements, such as requiring registrants to refile exhibits that were previously filed in paper. Other commenters expressed concerns about some aspects of the proposed amendments and suggested modifications to the proposals. We have reviewed and considered all of the comments that we received on the proposals. The final rules reflect changes made in response to these comments. We discuss the changes in more detail below.
+
+<h>II. Discussion of the Final Amendments</h>
+
+<h>A. Hyperlinking to Exhibits</h>
+
+We proposed to amend Item 601 of Regulation S-K and Rules 11 and 102 <sup>10</sup> of Regulation S-T to require registrants to include a hyperlink to each filed exhibit as identified in the exhibit index, unless the exhibit is filed in paper pursuant to a temporary or continuing hardship exemption under Rules 201 <sup>11</sup> or 202 <sup>12</sup> of Regulation S-T or pursuant to Rule 311 <sup>13</sup> of Regulation S-T. We proposed corresponding amendments to Form F-10 and Form 20-F to require foreign private issuers to include hyperlinks to the exhibits filed with these forms. We are adopting
+
+Wardwell LLP (“Davis Polk”); the Chamber of Commerce; Ernst & Young LLP (“E&Y”); the Investor Advocacy Clinic at Georgia State University College of Law (“IAC”); Veronique Joseph; Mary Sue; the Maryland State Bar Association (“MDSBA”); Reed Smith LLP; the Securities Industry and Financial Markets Association (“SIFMA”); the Structured Finance Industry Group (“SFIG”); Jacob Vollmer; and John Wahh.these requirements substantially as proposed, but with some changes reflecting comments we received. <sup>14</sup>
+
+<h>1. Proposed Amendments</h>
+
+Item 601 of Regulation S-K specifies the exhibits that registrants must file with registration statements filed under the Securities Act of 1933 (“Securities Act”) <sup>15</sup> and Securities Exchange Act of 1934 (“Exchange Act”) <sup>16</sup> and with periodic and current reports under the Exchange Act, which we refer to collectively in this release as the “registration statements and reports.” Item 601 also requires registrants to include an exhibit index that lists each exhibit included with the filing. <sup>17</sup> Once an exhibit is filed, registrants can incorporate it by reference to meet the exhibit requirements in subsequent filings to the extent permitted by our rules or the applicable disclosure form. <sup>18</sup>
+
+Under the current system, someone seeking to retrieve and access an exhibit that has been incorporated by reference must review the exhibit index to determine the filing in which the exhibit is included, and then must search through the registrant’s filings to locate the relevant filing. This process can be both time consuming and cumbersome.
+
+We proposed to apply the amendments to nearly all of the registration statements and reports that are required to include exhibits under Item 601, specifically Forms S-1, <sup>19</sup> S-3, <sup>20</sup> S-4, <sup>21</sup> S-8, <sup>22</sup> S-11, <sup>23</sup> F-1, <sup>24</sup> F-3, <sup>25</sup> F-4, <sup>26</sup> SF-1, <sup>27</sup> and SF-3 <sup>28</sup> under the Securities Act; and Forms 10, <sup>29</sup> 10- K, <sup>30</sup> 10-Q, 8-K, <sup>31</sup> and 10-D <sup>32</sup> under the Exchange Act. In addition, we proposed corresponding amendments to Form F-10 and Form 20-F. However, the proposed amendments excluded the exhibits filed with Form ABS-EE as well as any XBRL exhibits. We excluded the exhibits filed with Form ABS-EE because the form is used solely to facilitate the filing of tagged data and related information that must be filed as exhibits to that form. Form ABS-EE does not permit exhibits to be incorporated by reference and is filed in unconverted code. XBRL exhibits are similarly filed in unconverted code . <sup>33</sup> Therefore, we concluded preliminarily that it was not necessary to require hyperlinks to exhibits filed with Form ABS-EE or to XBRL exhibits.
+
+The proposed amendments would require a registrant to include an active hyperlink to each exhibit identified in the exhibit index of the filing. If the filing is a periodic or current report under the Exchange Act, a registrant would be required to include an active hyperlink to each exhibit listed in the exhibit index when the report is filed. If the filing is a registration statement, the registrant would only be required to include an active hyperlink to each exhibit in the version of the registration statement that becomes effective. This was to ensure that the most complete exhibit index was hyperlinked and located in one primary document.
+
+<h>2. Comments on the Proposed Rule</h>
+
+Commenters overwhelmingly supported the proposed amendments to require exhibit hyperlinks. <sup>34</sup> Many commenters agreed that hyperlinking to exhibits would make it easier for investors and other users to retrieve and access these documents from Commission filings. <sup>35</sup> Several commenters stated that the proposal would significantly reduce the amount of time required for investors to access information and also enhance the functionality of the EDGAR filing system. <sup>36</sup> Two commenters supported the proposed exclusion of Form ABS-EE exhibits and XBRL exhibits because the exhibits are directly attached to that Form ABS-EE filing, and
+
+Facilitate Inline Filing of Tagged Financial Data , Release No. 34-78041 (June 13, 2016) [81 FR 39741]. In a companion release issued on March 1, 2017, the Commission proposed amendments that, among other things, would require the use of the Inline XBRL format for the submission of operating company financial statement information and mutual fund risk/return summaries. Inline XBRL Filing of Tagged Data , Release No. 33-10323 (Mar. 1, 2017). The amendments we are adopting in this release, the Inline XBRL proposals and the voluntary filing program are part of the Commission’s continuing efforts and interest in modernizing the format of the information filed on EDGAR to make it more accessible to investors and other users.therefore an investor should have no difficulties locating the applicable attached exhibits. <sup>37</sup> The same two commenters supported the proposed exclusion of XBRL exhibits.
+
+We requested comment on whether we should we revise Form 6-K <sup>38</sup> filed by foreign private issuers or other multi-jurisdictional disclosure system forms used by certain Canadian issuers, such as Forms F-7, <sup>39</sup> F-8, <sup>40</sup> and F-80, <sup>41</sup> to require exhibit hyperlinks. One commenter stated that the benefits of requiring exhibit hyperlinks in Form 6-K would be minor. <sup>42</sup> This commenter observed that Form 6-K does not have any prescribed exhibit requirements, in contrast to Form 20-F, which does require the filing of relevant disclosure documents as exhibits.
+
+In the Proposing Release, we also requested comment on whether we should require registrants to include hyperlinks to the exhibits filed with an initial registration statement and each pre-effective amendment to the registration statement. One commenter supported requiring exhibit hyperlinks in the version of the registration statement that becomes effective, as proposed. <sup>43</sup> This commenter stated that the effective version of the registration statement would be the version that is most often reviewed by an investor and other users, and because exhibits may be revised or replaced during the registration process, it would be the version that properly referenced all of the exhibits filed with the registration statement that had not been replaced or revised.
+
+Two commenters stated that exhibit hyperlinks should be required in the pre-effective amendment to the registration statement that includes the preliminary prospectus distributed in connection with an offering. <sup>44</sup> One of these commenters stated that the information found in exhibits would be most relevant when the preliminary prospectus used to market an offering is distributed because that is when investors are beginning to make an investment decision. <sup>45</sup>
+
+Another commenter supported requiring exhibit hyperlinks in the initial registration statement and each subsequent pre-effective amendment rather than just in the registration statement that becomes effective. <sup>46</sup> This commenter stated that exhibit hyperlinks would improve the navigability of the pre-effective amendments, and that the incremental burden of including hyperlinks in the initial registration statement and any pre-effective amendments would not be significant because each subsequent pre-effective amendment would only add or update hyperlinks (in the event of superseded or amended exhibits) to the exhibit index that was last filed.
+
+We also requested comment on whether we should require registrants to refile in electronic format any exhibit previously filed in paper so that a registrant can include a hyperlink from the exhibit index to such exhibits. We received a number of comments on this question.
+
+Three commenters stated we should require registrants to file electronically all previously filed paper exhibits. <sup>47</sup> Two of these commenters stated that it would be particularly beneficial to investors if organizational documents, such as certificates of incorporation, were made availableon EDGAR. <sup>48</sup> The other commenter maintained that any burden and expense of refiling a previously filed paper exhibit would be minimal because it was unlikely that many registrants would have a significant number of paper exhibits created prior to the time that the registrant became subject to mandated electronic filing on EDGAR. <sup>49</sup> A different commenter suggested that registrants should be permitted to post organizational documents on their websites as an alternative to refiling paper exhibits. <sup>50</sup>
+
+Conversely, three commenters did not support requiring registrants to refile previously filed paper exhibits. <sup>51</sup> Two of these commenters stated that requiring registrants to refile paper exhibits could significantly increase the cost burden to registrants. <sup>52</sup> The other commenter suggested that, rather than requiring the refiling of paper exhibits, we should instead encourage registrants to voluntarily refile exhibits originally filed in paper. <sup>53</sup>
+
+<h>3. Final Rule</h>
+
+After considering the comments, we are adopting the exhibit hyperlinking requirement substantially as proposed with some modifications. Under the final rules, registrants will be required to include a hyperlink to each exhibit identified in the exhibit index, unless the exhibit is filed in paper pursuant to a temporary or continuing hardship exemption under Rules 201 or 202 of Regulation S-T, or pursuant to Rule 311 of Regulation S-T. This requirement will apply to the forms for which exhibits are required under Item 601 of Regulation S-K.
+
+However, as proposed, the final rules exclude any XBRL exhibits. <sup>54</sup> The final rules also exclude exhibits that are filed with Form ABS-EE. Since these exhibits are directly attached to that Form ABS-EE filing, which is essentially a cover page, an investor should have no difficulties locating the applicable exhibits. <sup>55</sup> In addition, we are adopting, as proposed, the amendments to Forms F-10 and 20-F to require exhibit hyperlinks in these forms. At this time, we are not requiring exhibit hyperlinks in other forms under the multi-jurisdictional disclosure system used by certain Canadian issuers or in Form 6-K, as we agree with the commenter’s suggestion that hyperlinks in these forms may have less utility because exhibits, and an exhibit index, are not required for these forms. <sup>56</sup>
+
+We are persuaded by commenters that exhibit hyperlinks in the initial registration statement and each subsequent pre-effective amendment, rather than just the registration statement that becomes effective, would further enhance the navigability of these documents, which may be used by investors to begin making investment decisions before effectiveness. Accordingly, we are amending Item 601 of Regulation S-K to require that each exhibit identified in the exhibit index (other than exhibits filed with Form ABS-EE or an exhibit filed in XBRL) must include an active link to an exhibit that is filed with the registration statement or report, or if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR.
+
+In order to provide electronic filers time to prepare filings to include hyperlinks to exhibits, the final rules will take effect on September 1, 2017. However, we encourage early compliance with the new filing requirements.
+
+As noted above, a few commenters suggested that we require the refiling of any exhibits previously filed only in paper. In particular, commenters stated that articles of incorporation and by-laws should be required to be refiled electronically, given the importance of these documents to investors . <sup>57</sup> We are not amending the final rules to require registrants to refile electronically any documents in paper, including organizational documents. In our experience, only a limited number of registrants have not electronically filed their articles of incorporation or by-laws, and we are mindful of commenters’ concerns about imposing additional compliance burdens. <sup>58</sup>
+
+<h>B. HTML Format for Registration Statements and Reports</h>
+
+In connection with the proposed exhibit hyperlinking requirements, we proposed amendments to Rule 105 of Regulation S-T to require registrants to file registration statements and reports that include exhibits in the HTML forma t . <sup>59</sup> We are adopting this proposal with a few changes made in response to comments.
+
+<h>1. Proposed Rules</h>
+
+Rule 105 of Regulation S-T sets forth the limitations on, and liability for, the use of HTML documents and hyperlinks in electronic filings. Rule 105, among other things, currently permits hyperlinking to other documents within the same filing, such as exhibits, and to documents contained in other forms or schedules that have been previously filed on EDGAR. In addition, Rule 105 prohibits hyperlinking to websites, locations or other documents that are outside of the EDGAR system.
+
+Currently, registrants must submit electronic filings to the Commission using the EDGAR system in either the ASCII format or the HTML format. HTML has features that allow documents prepared in this format to include hyperlinks to another place within the same document or to a separate document. In contrast, documents prepared in the ASCII format cannot support functional hyperlinks. <sup>60</sup> Because the ASCII format does not support hyperlink functionality, the exhibit hyperlinking requirement would be feasible only if registrants are required to file in HTML. Under the proposed amendment, registrants would be required to file registration statements and reports subject to the exhibit filing requirements under Item 601 of Regulation S-K, and Forms 20-F and F-10, in HTML format. In the Proposing Release, we noted that, during 2015, only 175 registrants made filings in ASCII and that the HTML format has largely replaced ASCII as the filing format for the forms that would be affected by the amendments. <sup>61</sup>
+
+<h>2. Comments on the Proposed Rules</h>
+
+No commenter opposed the proposed amendment to require HTML filings and two commenters specifically supported it. <sup>62</sup> Three commenters suggested that we establish a phase-in or transition period for ASCII filers. <sup>63</sup> Two of these commenters advocated providing smaller reporting companies and non-accelerated filers with one additional year beyond the compliance date for accelerated filers to comply with the exhibit hyperlinking proposals, <sup>64</sup> and the third commenter did not specify the length of the extension.
+
+In the Proposing Release, we requested comment on whether there are any particular difficulties in requiring registrants to provide hyperlinks to the exhibits identified in Item 601 of Regulation S-K that are filed with a registration statement or report, as proposed. Several commenters took this opportunity to provide their views on the liability issues concerning inadvertent or inaccurate hyperlinks. Two commenters expressed concern that Rule 105(c) of Regulation S-T would extend civil and antifraud liability to hyperlinks that are automatically created by software programs. <sup>65</sup> Three commenters contended that inaccurate or inactive hyperlinks should not give rise to any liability or other penalties. <sup>66</sup> Two commenters stated registrants should not be required to amend a previously filed report to correct an inaccurate orfailed hyperlink. <sup>67</sup> One commenter suggested that we should allow a registrant to make a correction to an inaccurate hyperlink in the registrant’s next report that includes an exhibit index. <sup>68</sup> The other commenter suggested that we consider providing a mechanism to alert investors to inactive or obsolete hyperlinked exhibits and provide an efficient and simple process to correct such hyperlinks. <sup>69</sup>
+
+<h>3. Final Rule</h>
+
+After considering the comments, we are adopting the amendments to Rule 105 of Regulation S-T substantially as proposed but with minor modifications. Under the final rules, registrants will be required to file in HTML format a registration statement or report subject to the exhibit filing requirements under Item 601 of Regulation S-K, and Forms 20-F and F-10. While the affected registration statements and reports will be required to be filed in HTML pursuant to the amendments to Rule 105, registrants may continue to file in ASCII any schedules or forms that are not subject to the exhibit filing requirements under Item 601, such as proxy statements, or other documents included with a filing, such as an exhibit.
+
+In response to comments, we are adopting a phase-in period for non-accelerated filers <sup>70</sup> and smaller reporting companies. <sup>71</sup> Non-accelerated filers and smaller reporting companies that submit filings in ASCII will have an additional one year after the effective date of the final rules to begin to comply with the rules. During the phase-in period, these filers may continue to fileregistration statements or reports in ASCII and will not need to include hyperlinks to the exhibits listed in the exhibit indexes of their filings. We are persuaded that a delay in the compliance date for these registrants may help mitigate some of the cost burdens for smaller reporting companies related to switching over to the HTML format.
+
+We are also adopting a phase-in period for certain filings on Form 10-D. Currently, the staff is working on programming changes to EDGAR that will allow issuers to include the Form 10-D and Form ABS-EE in a single submission so that the required hyperlinks can be created at the time the Form 10-D is filed. The implementation of these programming changes will not be completed by the effective date of the final rules. Accordingly, we are delaying the compliance date with respect to any Form 10-D that will require hyperlinks to any exhibit filed with Form ABS-EE. We will publish a document on our website and in the Federal Register announcing the compliance date for Form 10-D when it is determined.
+
+A few commenters noted that it would not be possible to hyperlink to an exhibit that is filed for the first time with a registration statement or report because no web address would be available for that exhibit before the filing is made. Although these commenters make a valid point, as explained below, we do not believe this will prevent registrants from complying with the final rules. Rule 11 of Regulation S-T defines the term “hyperlinks” to mean the representation of an Internet address in a form that an Internet browser application can recognize as an Internet address. <sup>72</sup> We used the term “hyperlinks” more generically in the Proposing Release to include, in addition to links to a previously filed exhibit that is being incorporated by reference into the registration statement or report, links from a registration statement or report toan exhibit that is being filed at the same time. As we noted in the Proposing Release, HTML has features that allow electronic documents prepared in this format to include links to another place within the same document or to a separate document. Thus, under the EDGAR system, registrants can include a link to an exhibit that is filed with a registration statement or report. In connection with the adoption of these amendments, we will be issuing an updated EDGAR Filer Manual that will describe the procedures needed to create a hyperlink to an exhibit that the registrant previously filed with a registration statement or report and the procedures needed to create a link to an exhibit that is being filed at the same time as the registration statement or report.
+
+In response to the concerns of several commenters regarding the means to correct inaccurate exhibit hyperlinks, we are adding an instruction to Rule 105 stating that a registrant must correct a nonfunctioning hyperlink or hyperlink to the wrong exhibit by filing, in the case of a registration statement that is not yet effective, a pre-effective amendment to such registration statement, or in the case of a registration statement that is effective or an Exchange Act report, in the next Exchange Act periodic report that requires, or includes, an exhibit pursuant to Item 601 of Regulation S-K (or in the case of a foreign private issuer, pursuant to Form 20-F or Form F- 10). <sup>73</sup> Furthermore, we note that where a filing contains an inaccurate exhibit hyperlink, the inaccurate hyperlink alone would not render the filing materially deficient, nor affect a registrant’s eligibility to use short-form registration statements.
+
+In addition, we remind registrants that EDGAR does not accept documents containing web addresses that hyperlink to external websites. <sup>74</sup> In light of the fact that many of the liability issues identified by commenters appear most relevant for hyperlinks to external websites, we do not believe that a reexamination of the liability treatment of hyperlinks is warranted at this time. However, as we continue to consider the expanded use of hyperlinks in Commission filings, we will bear these considerations in mind.
+
+<h>III. Other Matters</h>
+
+If any of the provisions of these rules, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
+
+<h>IV. Economic Analysis</h>
+
+We are adopting amendments that will require registrants that file registration statements and reports that are subject to the exhibit requirements under Item 601 of Regulation S-K, or that file on Forms F-10 or 20-F, to include a hyperlink to each exhibit identified in the exhibit index of these filings and to submit all such filings in HTML format. <sup>75</sup>
+
+We are sensitive to the costs and benefits of the final rules. In this economic analysis, we examine the current regulatory framework and market practices, which together constitute a baseline for analysis, and discuss the anticipated economic effects of the amendments, relative tothis baseline, and their potential effects on efficiency, competition, and capital formation. <sup>76</sup> We also consider the potential costs and benefits of reasonable alternatives to the amendments.
+
+Where practicable, we attempt to quantify the economic effects of the amendments; however, in certain cases, we are unable to do so because we lack necessary information. We do, however, provide a qualitative assessment of the likely economic effects. The proposing release requested comment on all aspects of the economic effects, including the costs and benefits of the proposals and possible alternatives to the proposed amendments. The Commission also solicited comment in the proposing release on whether the proposals, if adopted, would promote efficiency, competition, or capital formation, or have an impact or burden on competition.
+
+<h>A. Baseline</h>
+
+The amendments will affect all registrants that file registration statements and reports that are required to include exhibits under Item 601 of Regulation S-K, specifically Forms S-1, S-3,
+
+S-4, S-8, S-11, SF-1, SF-3, F-1, F-3, and F-4 under the Securities Act and Forms 10, 10-K, 10-Q, 8-K, and 10-D under the Exchange Act. In addition, the amendments will affect registrants that file on Forms F-10 and 20-F. Although registrants that currently file registration statements and reports in HTML format will not be affected by the requirement to file in HTML format, they will be required to include hyperlinks from the exhibits identified in the exhibit index to the exhibits that are filed with the document or that were previously filed with another document.
+
+Because the ASCII format does not support hyperlink capabilities, registrants that currently filethese forms and reports in ASCII format will be required to file in HTML in addition to complying with the exhibit hyperlinking requirement.
+
+We estimate that, from October 1, 2015 to September 30, 2016, 9,221 registrants filed either a registration statement or a report in HTML, while 152 registrants made filings in ASCII. Table 1 below shows the number of registration statements and reports that registrants filed with the Commission from October 1, 2015 to September 30, 2016. Table 1 also presents the number of filings submitted in HTML format and ASCII format, respectively, including amendments.
+
+Because hyperlinking is not available in ASCII format, we present the baseline analysis of filings separately for HTML and ASCII formats.
+
+Table 1: Number of Registration Statements and Reports Filed from October 1, 2015 to September 30, 2016
+
+As shown in Table 1, among the types of forms affected by the amendments, Forms S-1, S-8, 10-K, 10-Q, 10-D, and 8-K were the most frequently filed in HTML format from October 1, 2015 to September 30, 2016. As a proxy for registrants’ size, we used the filer status that registrants reported in their Form 10-K from October 1, 2015 to September 30, 2016. We found that 32.5% of the registration statements and reports (including amendments) filed in HTML format were filed by large accelerated filers, 21.3% by accelerated filers and 35.2% by smaller reporting companies or non-accelerated filers. <sup>79</sup>
+
+From October 1, 2015 to September 30, 2016, a limited set of form types were filed in ASCII format. In particular, Forms 8-K, 10-D, 10-Q and 10-K were most frequently filed in ASCII format. We found that, of the registration statements and reports (including amendments) filed in ASCII, 4.5% were filed by large accelerated filers, 0.8% by accelerated filers, and 56% by smaller reporting companies or non-accelerated filers. <sup>80</sup>
+
+To draw a baseline indicative of the current disclosure practices by HTML filers, we selected a random sample of 600 filings of registration statements and reports (including amended filings) from October 1, 2015 to September 30, 2016. This sample included 146 randomly selected Form 10-K filings and 454 randomly selected other filings in HTML format.
+
+The amendments will require registrants to include hyperlinks for all exhibits listed in the exhibit index, whether included with the filing or incorporated by reference from a previously filed document. Table 2 below shows the average and median number of exhibits <sup>81</sup> listed in the random sample of 600 filings by the type of forms affected by the amendments.
+
+Table 2: Number of Exhibits
+
+Table 2 shows a significant variation in the number of exhibits listed in the exhibit index across different types of forms. Among the Securities Act registration statements, Forms S-1, S- 4, S-11, F-1, F-4 and F-10 typically contain a large number of exhibits, while among the Exchange Act reports, Forms 20-F and 10-K contain significantly more exhibits than other form types. Overall, Forms S-1, S-4, S-11, F-1, F-4, F-10, 20-F and 10-K had a median number of 33 exhibits, compared to a median of three exhibits in the other nine types of registration statementsand reports. Forms S-1, S-4, S-11, F-1, F-4, F-10, 20-F and 10-K also had significantly more exhibits incorporated by reference than the other nine types of registration statements and reports affected by the amendments.
+
+In general, the number of exhibits slightly decreases with a registrant’s size for the sampled filings submitted from October 1, 2015 to September 30, 2016. Of the 600 sampled filings, the filings by non-accelerated filers and smaller reporting companies had a median of five exhibits; filings by accelerated filers had a median of three exhibits; and large accelerated filers had a median of two exhibits.
+
+Of the 600 sampled filings, we found that the exhibit indexes of only 48 (8%) of the filings included hyperlinks. We found 14 out of 48 filings included hyperlinks for all exhibits. In the 34 instances when registrants did not include hyperlinks for all exhibits, they were more likely to include hyperlinks to exhibits incorporated by reference. Of the sampled filings on Form S-1, S-4, S-11, F-1, F-4, F-10, 20-F and 10-K, approximately 4% had exhibit indexes that contained hyperlinks for one or more exhibits in the index (“partially hyperlinked”). In particular, while we found four fully hyperlinked Form 10-Ks, 18 of the 146 sampled Form 10- Ks were partially hyperlinked.
+
+Table 3: Type of Forms from which Exhibits were Incorporated by Reference
+
+Under the amendments, the hyperlink requirement will make exhibits incorporated by reference in the affected registration statements and reports more easily accessible. For the exhibits incorporated by reference that were listed in the 600 sampled filings, Table 3 shows the form types from which the exhibits were incorporated. The majority of exhibits were incorporated from the same registration statements and reports affected by the amendments. For example, exhibits in Forms S-1 were largely incorporated from previously filed Forms 8-K, 10- K, S-1, and 10-Q. Only a small percentage of exhibits were incorporated from form types without an exhibit index requirement, such as proxy statements.
+
+ASCII Filers
+
+We reviewed 200 registration statements and reports filed in ASCII format from October 1, 2015 to September 30, 2016. In particular, we reviewed 60 Form 10-Ks and a randomly selected sample of 140 other forms filed in ASCII format, including amendments. The exhibit indexes in the ASCII filings listed significantly lower average and median numbers of exhibits than in HTML filings. For example, the sampled Form 10-Qs and 10-Q/As reported a median of one exhibit. The 60 Form 10-Ks and 10-K/As filed in ASCII format from October 1, 2015 to
+
+September 30, 2016 included a median of two exhibits, mostly filed with the form. Given that the ASCII format does not support hyperlinks, no exhibit index included hyperlinks.
+
+<h>B. Potential Economic Effects</h>
+
+Relative to unlinked cross-references, hyperlinks will not only supply users with the location of a specific exhibit, but also allow users to reach that location more easily and quickly. Requiring exhibit hyperlinks will help investors and other users to access a particular exhibit more efficiently as they will not need to search within the filing or through different filings made over time to locate the exhibit. Many commenters agreed that hyperlinking would make it easier for investors and other users to retrieve exhibit information from SEC filings. <sup>85</sup> Several commenters agreed that hyperlinking would reduce the amount of time required for investors to access exhibit information. <sup>86</sup>
+
+We expect that hyperlinks will be more beneficial in reducing search costs in the case of exhibits incorporated by reference than in the case of exhibits filed with the filing, and in particular, we expect these benefits to be most pronounced in the case of incorporation by reference from a filing that was not recently filed because more recent filings are displayed first on the EDGAR search results page. Further, we expect hyperlinks will have greater benefits in the case of registrants that submit more filings. Overall, we believe the amendments will reduce search costs for investors. For example, depending on the nature of the business or size of the registrant, a registrant may file multiple registration statements or reports in a given quarter or fiscal year. Requiring exhibit hyperlinks will make it easier for investors and other users to find and access a particular exhibit that was originally filed with a previous filing.
+
+The final rule will also require registrants to include hyperlinks to all exhibits required by Item 601 of Regulation S-K, Form F-10 and Form 20-F in each amendment. We believe hyperlinking to exhibits filed with each pre-effective amendment will be particularly beneficial to investors who begin to make an investment decision before the registration statement becomes effective, such as investors considering the preliminary prospectus. <sup>87</sup>
+
+To the extent that hyperlinks ease the navigation process for investors and other users, hyperlinks may also facilitate a more thorough review of a registrant’s registration statements and reports and encourage more effective monitoring over time. The potential reduction of search costs and the enhanced ability of investors to review a registrant’s disclosure may result in more informed investment and voting decisions, potentially enhancing allocative efficiency and capital formation by registrants.
+
+As a result of the amendments, both HTML and ASCII registrants will incur compliance costs to include hyperlinks in their exhibit indexes. The cost of inserting a hyperlink to an exhibit incorporated by reference would likely be greater than the cost of inserting a link to an exhibit filed with the document. While the average cost itself of inserting a hyperlink is minimal, <sup>88</sup> the total hyperlinking costs for registrants would be a function of two main factors:
+
+<h>1. how many registration statements and reports a registrant files that require an exhibit index; and (2) how many exhibits in the exhibit index of these registration statements and reports are either filed with the filing or incorporated by reference and would be subject to the hyperlinking requirement.</h>
+
+For filers reporting in HTML, our baseline analysis indicates that few filers currently include fully hyperlinked exhibit indexes in registration statements and reports. Our analysis of a random sample of registration statements and reports filed between October 1, 2015 and September 30, 2016 indicates that approximately 8% of HTML filers included at least a partially hyperlinked exhibit index in their filings. For these HTML filers, the cost of fully hyperlinking their exhibit indexes could be less than for those HTML filers that have not previously hyperlinked their exhibit indexes.
+
+In addition to these costs, filers reporting in ASCII will incur costs to switch to HTML. While the registrants that file in ASCII and therefore will be affected by the amendment to require HTML are primarily small entities, we expect that the costs of switching to HTML will not be significant given the cost of software with built-in HTML and hyperlink features is minimal. In addition, the final rule will allow an extended phase-in period for non-accelerated filers and smaller reporting companies. The delay in compliance should mitigate some of the burdens for those entities that are more likely to be adversely affected by the cost of switching from making filings in ASCII to HTML.
+
+Overall, given the modest costs involved, we do not expect that the amendments will have significant competitive effects for registrants.
+
+<h>C. Alternatives</h>
+
+We considered five alternatives to the final rules. First, instead of requiring hyperlinks in the exhibit index within registration statements and reports requiring an exhibit index under Item 601 of Regulation S-K and Forms F-10 and 20-F, we considered requiring registrants to include hyperlinks in a subset of these registration statements and reports. For example, we could have limited the hyperlinks requirement to exhibit indexes in those registration statements and reportsthat typically include lengthy exhibit indexes. Our analysis of a random sample of registration statements and reports filed from October 1, 2015 to September 30, 2016 indicates that exhibit indexes are more frequently included in filings on Forms S-1, S-8, 10-K, 10-Q, 8-K, and 10-D, but are lengthier in Forms S-1, S-4, S-11, F-1, F-4, F-10, 20-F, and 10-K based on the average and median number of exhibits included in the exhibit index. For example, Forms 8-K and 10-Q are the forms most frequently filed but typically list a limited number of exhibits, most of which are included in the filing itself rather than incorporated by reference. Relative to the final rules, the alternative of limiting the scope of the exhibit hyperlinking requirement to fewer form types would lead to cost savings for registrants but also a smaller reduction in search costs for investors and other users.
+
+Second, instead of requiring registrants to hyperlink each exhibit included in the exhibit index, we considered requiring registrants to hyperlink only exhibits incorporated by reference. Our analysis of the random sample of filings submitted from October 1, 2015 to September 30, 2016 indicates that, among the registration statements and reports, Forms 20-F and 10-K typically include a higher number of exhibits incorporated by reference. This alternative would lead to nominal cost savings for registrants but also a smaller reduction in search costs for investors, although search costs related to exhibits filed with the document would be relatively limited.
+
+Third, we considered requiring registrants to file and update a compilation of exhibits separately from the Form 10-K and other forms. A separate compilation of exhibits could have more prominence and make it easier for investors and other users to access relevant information on EDGAR, as there would be only one compilation for all exhibits regardless of what forms a registrant may file. Requiring a separate compilation, however, would impose an additionalburden on registrants to prepare, file and update this disclosure and could make our disclosure regime more complex to the extent that relevant information is spread over multiple filings.
+
+Relatedly, several commenters suggested that a centralized exhibit page or a company profile landing page on EDGAR could provide more direct access to the exhibits. <sup>89</sup> We are continuing to consider ways to further enhance the presentation and usability of the exhibit index on the EDGAR system. <sup>90</sup>
+
+Fourth, we considered excluding ASCII filers from the requirement to hyperlink to each exhibit identified in the exhibit index and permitting them to continue filing in ASCII. Relative to the amendments, this alternative could be beneficial to ASCII filers as they would not incur the additional, although minimal, compliance costs of switching to HTML and hyperlinking their exhibit indexes. However, under this alternative, investors and other users of the information disclosed in ASCII filings would not benefit from reduced search costs. As noted above, the number of registrants affected by this amendment will be minimal, and the phase-in period for non-accelerated filers and smaller reporting companies should mitigate some of these costs.
+
+Fifth, given the relevance of organizational documents, such as articles of incorporation and by-laws, to understanding a registrant’s corporate structure and operations, we considered requiring registrants to refile electronically on EDGAR their organizational documents previously filed in paper. <sup>91</sup> We anticipate that the economic effects of this alternative would be minimal since only a limited number of registrants have not filed their articles of incorporationor by-laws in electronic format. <sup>92</sup>
+
+<h>V. Paperwork Reduction Act</h>
+
+<h>A. Background</h>
+
+Certain provisions of the final rules contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>93</sup> We published a notice requesting comment on the collection of information requirements in the Proposing Release for the amendments, and we submitted these requirements to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>94</sup> The titles for the collections of information are:“Form S-1” (OMB Control No. 3235-0065); “Form S-3” (OMB Control No. 3235-0073); “Form S-4” (OMB Control No. 3235-0324); “Form S-8” (OMB Control No. 3235-0066); “Form S-11” (OMB Control No. 3235-0067); “Form F-1” (OMB Control No. 3235-0258); “Form F-3” (OMB Control No. 3235-0256); “Form F-4” (OMB Control No. 3235-0325); “Form F-10” (OMB Control No. 3235-0380); “Form SF-1” (OMB Control No. 3235-0707); “Form SF-3” (OMB Control No. 3235-0690);“Form 10” (OMB Control No. 3235-0064); “Form 20-F” (OMB Control No. 3235-0288); “Form 10-K” (OMB Control No. 3235-0063); “Form 10-Q” (OMB Control No. 3235-0070); “Form 8-K” (OMB Control No. 3235-0060); “Form 10-D” (OMB Control No. 3235-0604);“Regulation S-K” (OMB Control No. 3235-0071); and “Regulation S-T” (OMB Control No. 3235-0424). <sup>95</sup>
+
+The forms, reports and Regulation S-K were adopted under the Securities Act and the Exchange Act and set forth the disclosure requirements for registration statements and reports filed by registrants to help investors make informed investment and voting decisions. Regulation S-T was adopted under the Securities Act and the Exchange Act and sets forth the requirements for the electronic submission of documents filed or otherwise submitted to the Commission. The hours and costs associated with preparing and filing the forms and reports constitute reporting and cost burdens imposed by each collection of information.
+
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information requirement unless it displays a currently valid OMB control number. Compliance with the information collections is mandatory. Responses to the information collections are not kept confidential and there is no mandatory retention period for the information disclosed.
+
+<h>B. Summary of the Final Amendments</h>
+
+As described in more detail above, we are adopting amendments to Regulations S-K and S-T and Forms F-10 and 20-F to require registrants that file registration statements and reports subject to the exhibit requirements under Item 601 of Regulation S-K, or that file on Forms F-10 and 20-F, to submit these registration statements and reports in HTML format and to include a hyperlink from each exhibit identified in the exhibit index of such forms to the exhibit as filed on EDGAR (other than an exhibit filed in XBRL or exhibits filed with Form ABS-EE). The final rules will require registrants to include hyperlinks to all exhibits required by Item 601, Form F- 10 or Form 20-F in each amendment to a registration statement or report on these forms.
+
+<h>C. Summary of Comment Letters and Revisions to Proposals</h>
+
+In the Proposing Release, we requested comment on our PRA burden hour and cost estimates and the analysis used to derive such estimates. We did not receive any comments that addressed our PRA analysis and burden estimates of the proposed amendments.
+
+In response to comments on the proposed amendments, we have made one change to the rule proposals that will affect the compliance burdens for issuers. Under the final rules, registrants will be required to include hyperlinks to all exhibits required by Item 601, Form F-10 or Form 20-F in each amendment to a registration statement or report.
+
+<h>D. Revisions to the Burden and Cost Estimates Burden</h>
+
+We anticipate that the final amendments will increase the burdens and costs for registrants to prepare and file the affected forms. We believe the burdens associated with hyperlinking exhibits will remain minimal as the registrant, in preparing a filing, will already be preparing the exhibits and exhibit index for such filing and will have readily available all of the information necessary to create the hyperlinks. In addition, we assume that the average burdenhours of requiring exhibit hyperlinks will vary based on the number of exhibits that are filed with an affected form. For purposes of the PRA, based on the average and median number of exhibits shown in Table 2 above, we estimate the average burden for a registrant to hyperlink to exhibits would be four hours for Forms 10-K and 20-F; three hours for Forms S-1, S-4, S-11, SF-1, F-1, F-4 and F-10; two hours for Forms S-3, S-8, SF-3, F-3, 10 and 10-Q; and one hour for Forms 10- D and 8-K.
+
+As a result of the change to the final rules described above, we have increased our burden estimates by one hour for all of the affected forms to reflect the burden for including hyperlinks to all required exhibits in each amendment to a registration statement or report.
+
+These estimates represent the average burden for all registrants, both large and small. In deriving our estimates, we recognize that the burdens will likely vary among individual registrants based on a number of factors, including the size and complexity of their operations.
+
+The tables below show the total annual compliance burden, in hours and in costs, of the collection of information resulting from the proposed amendments. <sup>96</sup> The burden estimates were calculated by multiplying the estimated number of responses by the estimated average amount of time it would take an issuer to prepare and review the exhibit hyperlinks. The portion of the burden carried by outside professionals is reflected as a cost, while the portion of the burden carried by the issuer internally is reflected in hours. For purposes of the PRA, we estimate that 75% of the burden of preparation for Exchange Act reports is carried by the registrant internally and that 25% of the burden of preparation is carried by outside professionals retained by theregistrant at an average cost of $400 per hour. <sup>97</sup> For the registration statements on Forms 10, S- 1, S-3, S-4, S-11, F-1, F-3, F-4, SF-1 and SF-3, and Exchange Act report Form 20-F, we estimate that 25% of the burden of preparation is carried by the company internally and that 75% of the burden of preparation is carried by outside professionals retained by the company at an average cost of $400 per hour. For the registration statement on Form S-8, we estimate that 50% of the burden of preparation is carried by the company internally and that 50% of the burden of preparation is carried by outside professionals.
+
+Table 4.	Incremental Paperwork Burden under the Final Amendments for Exchange Act Forms.
+
+Table 5.	Incremental Paperwork Burden under the Final Amendments for Securities Act Registration Statements.$400 per hour. This estimate is based on consultations with several registrants, law firms and other persons who regularly assist registrants in preparing and filing reports with the Commission.
+
+<h>VI. Final Regulatory Flexibility Act Analysis</h>
+
+This Final Regulatory Flexibility Analysis (FRFA) has been prepared in accordance with the Regulatory Flexibility Act. <sup>100</sup> This FRFA relates to final amendments that will require registrants to submit registration statements and reports subject to the exhibit requirements under Item 601 of Regulation S-K, or Forms 20-F and F-10 in HTML format, to include a hyperlink to each exhibit listed in the exhibit index of such registration statement or report.
+
+<h>A. Need for the Amendments</h>
+
+The main purpose of the amendments is to improve investors’ access to information—in particular, the ability of investors and other users to retrieve and access exhibits that are filed on EDGAR.
+
+<h>B. Significant Issues Raised by Public Comments</h>
+
+In the Proposing Release, we requested comment on any aspect of the Initial Regulatory Flexibility Analysis (“IRFA”), including the number of small entities that would be affected by the proposed rules, the nature of the impact, how to quantify the number of small entities that would be affected, and how to quantify the impact of the proposed amendments. We did not receive comments specifically addressing the IRFA. Several commenters, however, addressed aspects of the proposed amendments that could potentially affect small entities. In particular, two commenters expressed concerned that the proposed HTML formatting requirement would place a disproportionate burden on smaller reporting companies and non-accelerated filers. <sup>101</sup> These commenters advocated providing smaller reporting companies and non-accelerated filers with one additional year beyond the compliance date for accelerated filers to comply with the amendments.
+
+<h>C. Small Entities Subject to the Final Rules</h>
+
+The final rules will affect some companies that are small entities. The Regulatory Flexibility Act defines “small entity” to mean “small business,” “small organization,” or “small governmental jurisdiction.” <sup>102</sup> For purposes of the Regulatory Flexibility Act, under our rules, an issuer, other than an investment company, is a “small business” or “small organization” if it had total assets of $5 million or less on the last day of its most recent fiscal year and is engaged or proposing to engage in an offering of securities that does not exceed $5 million. <sup>103</sup> Aninvestment company, including a business development company, <sup>104</sup> is considered to be a “small business” if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less as of the end of its most recent fiscal year. <sup>105</sup>
+
+We estimate that there are 837 issuers, other than investment companies, that will be subject to the final rules that may be considered small entities. <sup>106</sup> In addition, we estimate that there are 34 investment companies that will be subject to the final rules that may be considered small entities.
+
+<h>D. Reporting, Recordkeeping, and other Compliance Requirements</h>
+
+The final rules will impose new compliance requirements for small entities. The final rules will require all registrants (including small entities) that file registration statements and reports that are subject to the exhibit requirements under Item 601 of Regulation S-K, or that file on Forms F-10 or 20-F, to file these forms in HTML format and to hyperlink to each exhibit (other than an exhibit filed in XBRL or exhibits filed with Form ABS-EE) identified in the exhibit index contained in the form. The final rules will also require registrants to include hyperlinks to all of the exhibits required by Item 601, Form 10-F or Form 20-F in each amendment to a registration statement or report.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The Regulatory Flexibility Act directs us to consider alternatives that would accomplish our stated objectives, while minimizing any significant adverse impact on small entities. In connection with the final rules, we considered the following alternatives:
+
+Establishing different compliance or reporting requirements or timetables that take into account the resources available to small entities;
+
+Clarifying, consolidating or simplifying compliance and reporting requirements under the rules for small entities;
+
+Using performance rather than design standards; and
+
+Exempting small entities from all or part of the requirements.
+
+We believe the amendments to require the inclusion of hyperlinks in the exhibit index will impose only minimal burdens on registrants. Similarly, we believe the requirement to submit registration statements and reports in HTML format should not impose significant costs. During calendar year 2015, approximately 0.74% of the forms that would be affected by the proposed amendments were filed in ASCII, and we believe that the HTML format has largely replaced the ASCII format for these form types. The limited use of ASCII indicates that the final amendments will affect only a limited number of registrants on a one-time basis. While the registrants that file forms in ASCII that would be affected by the proposal to require HTML are primarily small entities, we expect that the burden to switch from ASCII to HTML will not be significant because the software tools to file in HTML format are now widely used and available at a minimal cost. Accordingly, we do not believe that it is necessary to exempt small entities from the proposed amendments. For similar reasons, we have not sought to clarify, consolidate or simplify the proposed amendments’ requirements for small entities.
+
+Nevertheless, to minimize the initial compliance burden on small entities and give them additional time to prepare for compliance with the final rules, we are adopting a phase-in period for non-accelerated filers and smaller reporting companies that submit filings in ASCII. These registrants will have one year after the effective date of the final rules to begin to comply withthe rules. During the phase-in period, a non-accelerated filer or a smaller reporting company that submits filings in ASCII may continue to file registration statements or reports in ASCII and will not need to include hyperlinks to the exhibits listed in the exhibit indexes of its filings.
+
+The final rules use design rather than performance standards in order to promote uniform filing requirements for all registrants.
+
+<h>VII. Statutory Authority</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 229.601.
+
+2 17 CFR 249.20f.
+
+3 17 CFR 239.40.
+
+4 17 CFR 232.11.
+
+5 17 CFR 232.102.
+
+6 17 CFR 232.105.
+
+7 17 CFR 232.10 et seq.
+
+8 See Release No. 33-10201 (Aug. 31, 2016) [81 FR 62689] (the “Proposing Release”).
+
+9 The commenters were: the Center for Audit Quality (“CAQ”); the Corporate Governance Coalition for Investor Value (“CGCIV”); the Council of Institutional Investors (“CII”); the Credit Roundtable (“CRT”); Davis Polk &
+
+10 Rule 102 of Regulation S-T requires each exhibit to an electronic filing to be filed electronically unless there is an applicable exemption.
+
+11 17 CFR 232.201.
+
+12 17 CFR 232.202.
+
+13 17 CFR 232.311.
+
+14 We are also adopting an amendment to Rule 102(a) of Regulation S-T to correct an outdated reference to a rule that was rescinded.
+
+15 15 U.S.C. 77a et seq.
+
+16 15 U.S.C. 78a et seq.
+
+17 See Item 601(a)(2) of Regulation S-K [17 CFR 229.601(a)(2)]. Rule 102(d) of Regulation S-T [17 CFR 232.102(d)] and Exchange Act Rule 0-3(c) [17 CFR 240.0-3(c)] also require filings with exhibits to include an exhibit index.
+
+18 See, e.g., Item 10(d) of Regulation S-K [17 CFR 229.10(d)]. Item 10(d) provides, with certain exceptions, that where rules, regulations, or instructions to forms of the Commission permit incorporation by reference, a document may be so incorporated by reference to the specific document and to the prior filing or submission in which such document was physically filed or submitted.
+
+19 17 CFR 239.11.
+
+20 17 CFR 239.13.
+
+21 17 CFR 239.25.
+
+22 17 CFR 239.16b.
+
+23 17 CFR 239.18.
+
+24 17 CFR 239.31.
+
+25 17 CFR 239.33.
+
+26 17 CFR 239.34.
+
+27 17 CFR 239.44.
+
+28 17 CFR 239.45.
+
+29 17 CFR 249.210.
+
+30 17 CFR 249.310.
+
+31 17 CFR 249.308.
+
+32 17 CFR 249.312.
+
+33 The Commission announced in June 2016 a time-limited program to permit registrants to voluntarily file structured financial statement data using Inline XBRL. Inline XBRL allows registrants to file the required information and data tags in one document rather than requiring a separate exhibit for the interactive data. Order Granting Limited and Conditional Exemption Under Section 36(a) of the Securities Exchange Act of 1934 from Compliance with Interactive Data File Exhibit Requirement in Forms 6-K, 8-K, 10-Q, 10-K, 20-F and 40-F to
+
+34 No commenters opposed these proposals.
+
+35 See, e.g., letters from CII, E&Y, IAC and MDSBA.
+
+36 See letters from CII, CRT and IAC.
+
+37 See letters from Davis Polk and SFIG.
+
+38 17 CFR 249.306.
+
+39 17 CFR 239.37.
+
+40 17 CFR 239.38.
+
+41 17 CFR 239.41.
+
+42 See letter from Davis Polk.
+
+43 See letter from SFIG.
+
+44 See letters from Reed Smith and SIFMA.
+
+45 See letter from SIFMA.
+
+46 See letter from Davis Polk.
+
+47 See letters from CII, MDSBA and Reed Smith.
+
+48 See letters from CII and Reed Smith.
+
+49 See letter from MDSBA.
+
+50 See letter from Reed Smith.
+
+51 See letters from Davis Polk, SFIG and SIFMA.
+
+52 See letters from Davis Polk and SFIG.
+
+53 See letter from SIFMA.
+
+54 Although these exhibits are excluded under the final rules, the Commission is continuing efforts to modernize the format of information filed on EDGAR. See note above.
+
+55 Asset-backed issuers are required to incorporate by reference Form ABS-EE information in Form 10-D. Therefore, under the final rule, issuers will be required to include hyperlinks in the Form 10-D to any asset data file or asset-related document filed on Form ABS-EE that is incorporated by reference into the Form 10-D. We are, however, delaying the compliance date for any Form 10-D that will require hyperlinks to any exhibits filed with Form ABS-EE. See Section II.B.3 below.
+
+56 See letter from Davis Polk.
+
+57 See letters from CII and MDSBA.
+
+58 For example, in connection with the economic analysis of the final rules, we examined a random sample of 146 Form 10-K filings made from October 1, 2015 to September 30, 2016. The articles of incorporation and by-laws filed with the Form 10-Ks in the sample were all filed electronically. See Section IV.A below. In addition, we note that registrants have the option to restate in electronic format an exhibit that was previously filed in paper. See Rule 102(a) of Regulation S-T.
+
+59 We are continuing to consider ways to further enhance the presentation and usability of the exhibit index. For example, HTML tags identifying the exhibit index would make it possible to include a hyperlink to the index on a registrant’s search results EDGAR landing page, which could allow investors and other users to more easily access the exhibits.
+
+60 HTML documents, however, can hyperlink to an ASCII document.
+
+61 During the 2015 calendar year, over 114,000 of the affected forms were filed on EDGAR. Approximately 845 (less than one percent) of those filings were submitted in the ASCII format.
+
+62 See letters from Davis Polk and Reed Smith.
+
+63 See letters from CGCIV, Chamber of Commerce and Reed Smith.
+
+64 See letters from CGCIV and Chamber of Commerce.
+
+65 See letters from CGCIV and Chamber of Commerce. In previous guidance, the Commission noted: “Some word processing programs automatically transform inactive textual references to electronic addresses (URLs) to hyperlinks. In addition, some browsers transform URLs to hyperlinks. We do not wish to discourage filers from including URLs to their own web sites or to our web site at in their filings. Filers who include these URLs in HTML filings, accordingly, should take reasonable steps when they create the document in order to prevent URLs from being converted into hyperlinks. If this is done, Rule 105 should not be read as imposing liability on any such hyperlinks that may be created after the filing is made.” Release No. 33-7855 (Apr. 24, 2000) [81 FR 62689].
+
+66 See letters from Reed Smith, SFIG and SIFMA.
+
+67 See letters from E&Y and Reed Smith.
+
+68 See letter from Reed Smith.
+
+69 See letter from E&Y.
+
+70 Although the term “non-accelerated filer” is not defined in Commission rules, we use this term to refer to a reporting company that does not meet the definition of either an “accelerated filer” or a “large accelerated filer” under Exchange Act Rule 12b-2.
+
+71 “Smaller reporting company” is defined in Securities Act Rule 405 [17 CFR 230.405], Exchange Act Rule 12b-2 [17 CFR 240.12b-2], and Item 10(f)(1) of Regulation S-K [17 CFR 229.10(f)(1)].
+
+72 In the Proposing Release, we proposed a minor change to the definition of the term “hypertext links or hyperlinks” in Rule 11 of Regulation S-T to delete the term “hypertext links.” We are adopting this change.
+
+73 Once the registration statement is effective, the registrant must correct an inaccurate hyperlink in its next Exchange Act periodic report that contains an exhibit index, or alternatively, the registrant could correct the inaccurate hyperlink by filing a post-effective amendment to the registration statement.
+
+74 See Rule 105(b) of Regulation S-T. If a document is filed containing a hyperlink to an external website, EDGAR will reject the document and the electronic filer must resubmit the document without the hyperlink to the external website.
+
+75 The amendments exclude exhibits filed with Form ABS-EE and XBRL exhibits.
+
+76 Exchange Act Section 23(a)(2) [15 U.S.C. 78w(a)] requires us, when adopting rules, to consider the impact that any new rule would have on competition. In addition, Section 2(b) of the Securities Act [15 U.S.C. 77b(b)] and Section 3(f) of the Exchange Act [15 U.S.C. 78c(f)] direct us, when engaging in rulemaking that requires us to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+77 The number of Form 10s includes Forms 10-12B and 10-12G.
+
+78 The number of Form 8-Ks includes Form 8-K12B.
+
+79 The remaining 11% of filings in HTML format from October 1, 2015 to September 30, 2016 were filed by registrants whose filer status was not indicated.
+
+80 The remaining 38.7% of sampled filings in ASCII format were filed by registrants whose filer status was not indicated.
+
+81 We did not include XBRL exhibits because these exhibits are not covered by the final rules.
+
+82 Average represents the sum of number of exhibits divided by the number of sampled forms for each form type.
+
+83 Median represents the middle number of exhibits for each form type when the numbers of exhibits are listed from the smallest to the largest. For instance, for Forms S-1, the number of exhibits listed in the index ranged from 1 to 125, with 20 as the middle number.
+
+84 Pursuant to Securities Act Rule 411 [17 CFR 230.411] and Exchange Act Rule 12b-23 [17 CFR 240.12b-23], registrants can, under certain conditions, incorporate information by reference in answer, or partial answer, to an item of a registration statement or report. Generally, the incorporated information must be filed as an exhibit to the registration statement or report. In our analysis of the 600 sampled filings, we found several exhibits that were filed for this purpose.
+
+85 See, e.g., letters from CII, E&Y, IAC and MDSBA.
+
+86 See letters from CII, CRT and IAC.
+
+87 Several commenters supported requiring exhibit hyperlinks in pre-effective amendments. See letters from Davis Polk, Reed Smith and SIFMA.
+
+88 For purposes of the Paperwork Reduction Act, we estimate that registrants will incur, on average, between one and four burden hours to hyperlink to required exhibits, depending on the specific form type. See Section IV.D below.
+
+89 See letters from CRT, Davis Polk and E&Y.
+
+90 See note above.
+
+91 Several commenters suggested that it would be particularly beneficial to investors if organizational documents previously filed in paper were available on EDGAR. See, e.g., letters from CII and Reed Smith.
+
+92 See note above.
+
+93 44 U.S.C. 3501 et seq.
+
+94 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+95 The paperwork burdens from Regulations S-K and S-T are imposed through the forms that are subject to the requirements in these regulations and are reflected in the analysis of those forms. To avoid a PRA inventory reflecting duplicative burdens and for administrative convenience, we assign a one-hour burden to each of Regulation S-K and Regulation S-T.
+
+96 For convenience, the estimated hour and cost burdens in the table have been rounded to the nearest whole number.
+
+97 We recognize that the costs of retaining outside professionals may vary depending on the nature of the professional services, but for purposes of this PRA analysis, we estimate that such costs would be an average of
+
+98 The calculations for Form 20-F reflect an allocation of a 25% internal burden carried by the company and a 75% external burden carried by outside professionals.
+
+99 The calculation for Form S-8 reflects an allocation of a 50% internal burden carried by the company and a 50% external burden carried by outside professionals.
+
+100 5 U.S.C. 601 et seq.
+
+101 See letters from CGCIV and Chamber of Commerce.
+
+102 5 U.S.C. 601(6).
+
+103 See Securities Act Rule 157 [17 CFR 230.157] and Exchange Act Rule 0-10(a) [17 CFR 240.0-10(a)].
+
+104 Business development companies are a category of closed-end investment company that are not registered under the Investment Company Act [15 U.S.C. 80a-2(a)(48) and 80a-53-64].
+
+105 See Exchange Act Rule 0-10(a).
+
+106 This estimate is based on a review of XBRL data, where available, submitted with Form 10-K and Form 20-F filings with fiscal periods ending between January 31, 2015 and January 31, 2016.
+
+124 Stat. 1904; Sec. 102(a)(3) Pub. L. 112-106, 126 Stat. 309; and Sec. 84001, Pub. L. 114-94,
+
+129 Stat. 1312.

@@ -1,0 +1,843 @@
+https://www.sec.gov/rules/final/34-49928.htm
+
+	I.0.0.0: I. Background
+
+	II.0.0.0: II. Details of New Rule 31 and Form R31
+
+		II.A.0.0: A. Description of Rule
+
+		II.B.0.0: B. Issues Raised by Commenters
+
+			II.B.1.0: 1. Section31 Payments Made by Agent
+
+			II.B.2.0: 2. Timeframe for Submission of Form R31
+
+			II.B.3.0: 3. Settlement by Physical Delivery
+
+			II.B.4.0: 4. Brut Comment
+
+			II.B.5.0: 5. Assigning Trades to the Appropriate Covered SRO
+
+			II.B.6.0: 6. No De Minimis Exemption
+
+			II.B.7.0: 7. Cash, Next-Day, and Seller's Option Trades
+
+			II.B.8.0: 8. Transactions with Multiple Parties
+
+			II.B.9.0: 9. Possible Liability of a Designated Clearing Agency
+
+	III.0.0.0: III. Temporary Rule 31T
+
+	IV.0.0.0: IV. Reconciliation of Fees Paid to Funds Collected by Covered SROs
+
+	V.0.0.0: V. Delegation of Authority
+
+	VI.0.0.0: VI. Consideration of the Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+	VII.0.0.0: VII. Paperwork Reduction Act
+
+		VII.A.0.0: A. Summary of Collection of Information
+
+		VII.B.0.0: B. Use of Information
+
+		VII.C.0.0: C. Respondents
+
+		VII.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+			VII.D.1.0: 1. Development Burden for System Modifications
+
+			VII.D.1.a: a. Options and Security Futures
+
+			VII.D.1.b: b. Exchange-Traded Equity Securities
+
+			VII.D.1.c: c. OTC Equity Securities
+
+			VII.D.1.d: d. Total Initial Development Burden
+
+			VII.D.2.0: 2. Ongoing Compliance Burden
+
+			VII.D.2.a: a. Designated Clearing Agencies
+
+			VII.D.2.b: b. Covered Exchanges
+
+			VII.D.2.c: c. Covered Associations
+
+			VII.D.2.d: d. Total Ongoing Monthly Burden
+
+			VII.D.3.0: 3. Temporary Rule31T
+
+			VII.D.4.0: 4. Total Burdens of Rules31 and 31T
+
+		VII.E.0.0: E. Record Retention Period
+
+		VII.F.0.0: F. Request for Comments
+
+	VIII.0.0.0: VIII. Consideration of Costs and Benefits
+
+		VIII.A.0.0: A. Benefits
+
+		VIII.B.0.0: B. Costs
+
+	IX.0.0.0: IX. Regulatory Flexibility Act
+
+	X.0.0.0: X. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200, 240, and 249 RIN 3235-AJ02 [Release No. 34-49928; File No. S7-05-04] Collection Practices under Section 31 of the Exchange Act 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule; request for comments on Paperwork Reduction Act burden estimates.
+
+ SUMMARY: The Securities and Exchange Commission is establishing new procedures that govern the calculation, payment, and collection of fees and assessments on securities transactions owed by national securities exchanges and national securities associations to the Commission pursuant to Section 31 of the Securities Exchange Act of 1934. Under these new procedures, each exchange or association must provide the Commission with data on its securities transactions. The Commission will calculate the amount of fees and assessments due based on the volume of these transactions and bill the exchange or association that amount. The Commission is also adopting a temporary rule that will enable it to calculate Section 31 fees and assessments using the new procedures for the whole of its fiscal year 2004.
+
+ DATES: Effective Date: August 6, 2004, except §240.31T is effective August 6, 2004 to January 1, 2005.
+
+ Compliance Date: The first FormR31 required by Rule31 (covering the month of July 2004) is due by August 13, 2004, the tenth business day of August. The FormR31 submissions required by temporary Rule31T (for the months September 2003 to June 2004, inclusive) also are due by August 13, 2004.
+
+ Comment date: Comments regarding the collection of information requirements within the meaning of the Paperwork Reduction Act of 1995 should be received by August 6, 2004.
+
+ ADDRESSES: Comments may be submitted by any of the following methods:
+
+ Electronic comments: 
+
+ 
+
+Use the Commission's Internet comment form ( http://www.sec.gov/rules/final.shtml ); or
+
+Send an e-mail to rule-comments@sec.gov . Please include File Number S7-05-04 on the subject line; or
+
+Use the Federal eRulemaking Portal ( http://www.regulations.gov ). Follow the instructions for submitting comments.
+
+ 
+
+ Paper comments: 
+
+ 
+
+Send paper comments in triplicate to Jonathan G. Katz, Secretary, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609.
+
+ 
+
+All submissions should refer to File Number S7-05-04. This file number should be included on the subject line if e-mail is used. To help us process and review your comments more efficiently, please use only one method. The Commission will post all comments on the Commission's Internet Web site ( http://www.sec.gov/rules/final.shtml ). Comments are also available for public inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549. All comments received will be posted without change; we do not edit personal identifying information from submissions. You should submit only information that you wish to make available publicly.
+
+ FOR FURTHER INFORMATION CONTACT: Michael Gaw, Senior Special Counsel, 202-942-0158, or Christopher Solgan, Attorney, 202-942-7937; Division of Market Regulation; Securities and Exchange Commission; 450 5th Street, NW; Washington, DC 20549-1001.
+
+ SUPPLEMENTARY INFORMATION
+
+<END HEADER>
+
+<h>I. Background </h>
+
+Beginning with fiscal year 2004 ("FY2004"), the Securities and Exchange Commission ("Commission") is required to prepare financial statements audited by an external auditor. This requirement was created by the Accountability of Tax Dollars Act of 2002 ("Accountability Act").<sup> 1 </sup> In anticipation of its external audit and to further the principles of the Accountability Act, the Commission reviewed its policies and procedures for collecting, processing, and documenting its accounts receivable, including the fees and assessments that national securities exchanges and national securities associations (collectively, "self-regulatory organizations" or "SROs") owe the Commission pursuant to Section 31 of the Securities Exchange Act of 1934 ("Exchange Act").<sup> 2 </sup>
+
+Pursuant to Section 31(b) of the Exchange Act,<sup> 3 </sup> a national securities exchange must pay the Commission a fee based on the aggregate dollar amount of sales of securities transacted on the exchange.<sup> 4 </sup> Pursuant to Section 31(c),<sup> 5 </sup> a national securities association must pay the Commission a fee based on the aggregate dollar amount of sales of securities transacted by or through any member of the association otherwise than on a national securities exchange.<sup> 6 </sup> Section 31(d)<sup> 7 </sup> requires a national securities exchange to pay the Commission an assessment<sup> 8 </sup> for each "round turn transaction"<sup> 9 </sup> in a security future.<sup> 10 </sup>
+
+The Commission has not previously defined "sales of securities" as used in Section31 or mandated a formal procedure for aggregating trading volumes for purposes of determining Section31 fees. Instead, the Commission has allowed the SROs to develop their own procedures. However, in view of the requirements of the Accountability Act, the Commission seeks to make the Section 31 calculation and collection process more transparent, accurate, and reliable. Therefore, in January 2004, the Commission proposed new Rule 31, Form R31, and temporary Rule 31T to establish a procedure for the calculation and collection of Section31 fees and assessments.<sup> 11 </sup>
+
+One of the most significant features of the Commission's proposed procedure is that the calculation of fees and assessments would for the first time be performed exclusively by the Commission. The centralization of the calculation function should provide a clearer basis for the amounts collected. Moreover, a single methodology will be used for all SROs, thereby making the calculation process more straightforward and easier to understand. Finally, the likelihood of errors due to inconsistent interpretation of the terms of Section31 would be reduced.
+
+The proposal also sought to codify the SRO procedures that have proven effective in generating auditable and dependable results, while curbing others that have proven unreliable or are impractical to audit. One practice that the Commission believes has proven effective is calculating Section31 fees based on data provided by the exchanges to a registered clearing agency that allow securities transactions negotiated on the exchange to clear and settle. This is the mechanism currently used to calculate Section31 fees for the national securities exchanges that trade options. All options that trade on an exchange are cleared and settled by the Options Clearing Corporation ("OCC"), a clearing agency registered under Section 17A of the Exchange Act.<sup> 12 </sup> OCC and the options exchanges have established arrangements whereby OCC tabulates the aggregate dollar amount of sales of options that occur on the exchanges, based on the data captured by OCC's systems. OCC then calculates the Section31 fees owed by the exchanges for that trading volume.<sup> 13 </sup>
+
+The Commission believes that clearing data provide an accurate measure of trading volume because there are strong incentives for all market participants to ensure their accuracy. A registered clearing agency cannot transfer the correct amount of funds and securities between participant accounts to settle transactions without accurate data. Accordingly, the market participants involved have a strong incentive to detect and correct any errors prior to settlement so as to prevent an incorrect amount of funds or securities from being transferred. The internal and external audits of registered clearing agencies, as well as regulatory reviews performed by the Commission, enhance the reliability of clearing data. For all these reasons, the Commission believes that, in codifying a procedure for the calculation and collection of Section 31 fees, clearing data should be the primary source of the trading volumes for both the equities exchanges and the options exchanges. Thus, pursuant to the rules adopted by the Commission today, clearing data will serve as the primary basis for the Commission's calculations of Section 31 fees and assessments. This approach follows the arrangements among OCC and the options and security futures exchanges, although the Commission rather than OCC will perform the actual calculations. In addition, national securities exchanges that trade equity securities are henceforth required to provide the Commission with clearing data captured by the National Securities Clearing Corporation ("NSCC") as their primary source of the sales volume subject to Section31 fees.
+
+Comments on the proposal were generally positive. The Securities Industry Association ("SIA") stated that "the SEC has devised a reasonable approach that generally should yield accurate numbers and will enable the SEC to verify that correct amounts are being collected."<sup> 14 </sup> CHX stated that it "understands the Commission's desire to implement a more defined process for the collection of this data and, in general, agrees with the Commission's proposal to use clearing data for that purpose."<sup> 15 </sup> NYSE stated that it "support[s] the Commission's desire to make uniform the way in which the collection process is conducted among the various [SROs] subject to the Section 31 fee" and that it "believes that the desired approach is feasible."<sup> 16 </sup> A joint comment submitted by OCC and five options exchanges called the Commission's decision to rely on clearing data "well founded."<sup> 17 </sup>
+
+However, one commenter, BSE, disagreed with the Commission's proposal to rely primarily on clearing data to determine the aggregate dollar amount of sales of equity securities that are subject to Section31 fees.<sup> 18 </sup> According to BSE, "the proposal will require numerous exceptions which could likely lead to it becoming unworkable and inherently unreliable." BSE argued instead that the most appropriate source of data is each exchange's trade reporting system. Furthermore, BSE claimed that, by allowing one SRO (NASD) to report its sales volume based on its trade reporting system,<sup> 19 </sup> the Commission was unfairly endorsing that SRO's trade reporting system over the systems of other SROs.
+
+As discussed above, the Commission believes that clearing data provide an accurate measure of trading volume. While the Commission acknowledges that certain sales of equity securities subject to Section31 fees are not cleared and settled by NSCC, and thus do not appear in NSCC's clearing data, their number is not so great as to impair the use of clearing data as the Commission's primary source of trading volume. In the near term, exchanges that are subject to Section31 must supplement clearing data by providing data captured in their own trade reporting systems. In time, NSCC and the equities exchanges may develop new means to bring more of these trades into the clearing record. This should further simplify Section31 calculations as well as strengthen the risk management function that NSCC performs on behalf of the equities exchanges and broker-dealer participants.
+
+Under the procedure proposed by the Commission and being adopted today, NASD is required to tabulate aggregate sales volume based on its own trade reporting systems rather than by obtaining clearing data. This approach should not be viewed as favoring one SRO's trade reporting system over another's. While the Commission believes that clearing data is the most accurate record of covered sales when it is available, the structure of the over-the-counter ("OTC") equity market — transactions on which NASD is liable for Section31 fees — makes clearing data unavailable for a large volume of sales. Many internalized trades in equity securities, for example, are never reported to NSCC. Furthermore, the OTC market includes a large number of electronic communication networks ("ECNs") that might not provide NSCC with a trade-by-trade record of their activity. ECNs generally clear and settle their trades using the facilities of NSCC but are not required to provide a trade-by-trade record. Many ECNs report their trades to NSCC in their capacity as, or through, "qualified special representatives" ("QSRs").<sup> 20 </sup> QSRs may net their trades and report to NSCC only net changes in positions. Without trade-by-trade data, the aggregate dollar amount of sales of securities cannot be determined for purposes of Section31.
+
+Internalized trades and trades reported through a QSR represent a substantial number of all sales of securities for which NASD incurs a liability to the Commission under Section31,<sup> 21 </sup> and the Commission does not believe it would be practical to require NASD to separate these trades from other trades for which NSCC can obtain a complete trade-by-trade record. Therefore, in a case such as this where there are significant gaps in the clearing data, the Commission believes, on balance, that the best alternative is to rely on the SRO's trade reporting systems for the aggregate sales volume. However, in a case where an exchange (such as BSE) that has only a small number of ECNs (or only one ECN) that report trades directly to NSCC as a QSR, the exchange should obtain the data that it can from NSCC and supplement the clearing data by using its trade reporting systems to provide the sales volume transacted by the ECNs. The Commission believes that this approach will provide the most accurate record of the exchange's volume.<h>II. Details of New Rule 31 and Form R31A. Description of Rule </h><h>A. Description of Rule </h>
+
+Except for the modifications discussed below, the Commission is adopting new Rule 31 as proposed. Most of the proposed definitions did not generate comment.
+
+Under new Rule 31, "covered exchanges"<sup> 22 </sup> and "covered associations"<sup> 23 </sup> (collectively, "covered SROs"<sup> 24 </sup>) are required to pay Section31 fees and assessments in the manner set forth in the rule. These terms do not impose new liabilities on any entity; in the absence of a Commission rule, the same entities would be required by the statute to pay Section31 fees and assessments.
+
+Paragraph (b)(1) of new Rule 31 requires a covered SRO to submit to the Commission a completed FormR31 within ten business days after the end of each month.<sup> 25 </sup> A covered exchange must provide on FormR31 the aggregate dollar amount of 
+
+all "covered sales"<sup> 26 </sup> and the total number of "covered round turn transactions"<sup> 27 </sup> occurring on the exchange; a covered association must provide the aggregate dollar amount of all covered sales and the total number of covered round turn transactions occurring by or through any member of the association otherwise than on a national securities exchange.<sup> 28 </sup> The Commission will calculate the amount of Section31 fees due from a covered SRO by multiplying the aggregate dollar amount of its covered sales by the "fee rate,"<sup> 29 </sup> and the amount of Section31 assessments due from a covered SRO by multiplying the total number of covered round turn transactions by the "assessment charge."<sup> 30 </sup> The fee rate is set by the Commission in a procedure set forth in Section31(j) of the Exchange Act;<sup> 31 </sup> the assessment charge is set by Section31(d) of the Exchange Act<sup> 32 </sup> and cannot be changed by the Commission. Rule31 does not alter the manner in which either the fee rate or the assessment charge is determined.
+
+As provided in Section31(e) of the Exchange Act,<sup> 33 </sup> Section31 fees and assessments are due twice per year, by March 15 and September 30. These are the two "due dates" in Rule31.<sup> 34 </sup> The September 30 due date covers the period January 1 to August 31 of the same calendar year; the March 15 due date covers the period September 1 to December 31 of the preceding calendar year. These are the two "billing periods" in Rule31.<sup> 35 </sup> Before each of the due dates, the Commission will send a "Section31 bill" to each covered SRO showing the total amount due from the covered SRO for the billing period, as calculated by the Commission. The amount of a covered SRO's Section31 bill will equal the sum of the covered SRO's monthly liabilities under Section31 for each month in the billing period.<sup> 36 </sup> A covered SRO is required to pay the Commission the full amount stipulated in its Section31 bill by the due date.<sup> 37 </sup>
+
+Form R31 requires a covered SRO to report trade data in separate parts, depending on how the trades are reported and settled. PartI of FormR31 requires a covered exchange to provide the aggregate dollar amount of covered sales and the total number of covered round turn transactions that: (1)occurred on the exchange; (2)had a "charge date"<sup> 38 </sup> in the month of the report; and (3) the exchange reported to a "designated clearing agency."<sup> 39 </sup> Also in PartI, a covered exchange that trades "physical delivery exchange-traded options"<sup> 40 </sup> or security futures that are settled by physical delivery of the underlying securities must separately report the aggregate dollar amount of covered sales that resulting from options exercises or matured security futures.<sup> 41 </sup>
+
+Rule31 requires a covered SRO to provide in PartI of FormR31 only the data supplied to it by a designated clearing agency.<sup> 42 </sup> A designated clearing agency, upon request, must provide the data in its possession needed by the covered SRO to complete PartI.<sup> 43 </sup> Under Rule31, two entities currently meet the criteria for being "designated clearing agencies": OCC, which clears and settles transactions in options and security futures, and NSCC, which clears and settles transactions in equity securities. A covered SRO that trades both options and equities must obtain data from both designated clearing agencies and must separately report that data in PartI of FormR31. This will allow the Commission to distinguish the covered SRO's covered sale volume in equities from its covered sale volume in options.
+
+Parts II and III of FormR31 are designed to capture data on covered sales that are not reported (or are not reported on a trade-by-trade basis) to a designated clearing agency. Part II requires a covered exchange to report the aggregate dollar amount of covered sales that: (1) occurred on the exchange; (2)had a charge date in the month of the report; (3) the exchange did not report to a designated clearing agency; and (4) the exchange captured in a "trade reporting system."<sup> 44 </sup> The covered exchange is require to separate its PartII covered sales into those that were reported to a designated clearing agency by a QSR and those that were "ex-clearing transactions."<sup> 45 </sup> Thus, a covered exchange that permits its members to report exchange trades to NSCC through a QSR would include such trades in Part II of FormR31 rather than PartI. Although these trades are reported to NSCC for settlement, they must be included in PartII rather than PartI because they were not reported to a designated clearing agency by the covered exchange itself, as PartI requires.
+
+In addition, PartII requires a covered association to provide the aggregate dollar amount of covered sales that: (1) occurred by or through a member of the association otherwise than on a national securities exchange; (2) had a charge date in the month of the report; and (3) the association captured in a trade reporting system.<sup> 46 </sup> Thus, even if the covered association reports some of its covered sales to a designated clearing agency, the association should not report any of these covered sales in PartI. Instead, the association should rely on its trade reporting systems to provide data in PartII on all covered sales captured by those systems.<sup> 47 </sup>
+
+Part III of FormR31 requires a covered exchange to report the aggregate dollar amount of covered sales that: (1) occurred on the exchange; (2) had a charge date in the month of the report; and (3) the exchange neither captured in a trade reporting system nor reported to a designated clearing agency. PartIII also requires a covered association to report the aggregate dollar amount of covered sales that: (1) occurred by or through a member of the association otherwise than on a national securities exchange; (2)had a charge date in the month of the report; and (3)the association did not capture in a trade reporting system. The Commission anticipates that there will be very few if any PartIII covered sales reported by the covered exchanges, because all trading activity should be captured by the exchanges' trade reporting systems. In the OTC market, however, various covered sales currently are not captured in an NASD trade reporting system. Therefore, NASD must report the following in Part III:
+
+ 
+
+any covered sales in odd lots ( i.e. , less than 100 shares) that are not captured in a trade reporting system (and thus not reported in PartII);<sup> 48 </sup>
+
+covered sales resulting from the exercise of options settled by physical delivery and not listed or traded on a national securities exchange;<sup> 49 </sup> and
+
+covered sales where the buyer and seller have agreed to trade at a price substantially unrelated to the current market for the security.<sup> 50 </sup>
+
+ 
+
+Currently, these trades are not captured in any trade reporting system. NASD employs a paper-based reporting system to obtain the trade volume for these sales and to calculate the Section31 fees due on such volume.
+
+Not every sale of a security is subject to Section31 fees, and not every transaction in a security future is subject to Section31 assessments. The statute itself exempts certain sales of securities and round turn transactions in security futures, and the Commission has exempted others pursuant to the authority granted by Section 31(f) of the Exchange Act.<sup> 51 </sup> As discussed below, paragraph (a)(11) of Rule 31 sets forth a comprehensive list of all sales of securities (other than security futures) that are exempt from Section31 fees ("exempt sales").
+
+Paragraphs (a)(11)(i) to (v) restate exemptions set forth in paragraphs (a) to (e) of former Rule 31-1. Paragraph (a)(11)(vi), which exempts any sale of an option on a security index, combines an exemption granted by statute (for a sale of an option on a non-"narrow-based security index"<sup> 52 </sup>) with an exemption that the Commission has previously granted by rule (for a sale of an option on a narrow-based security index).<sup> 53 </sup> The net result is that the sale of an option on any security index — be it narrow-based or non-narrow-based — is exempt from Section 31 fees. Paragraph (a)(11)(vi) of new Rule31 clarifies this point. Paragraph (a)(11)(vii) of new Rule 31 incorporates language from the statute that specifically exempts sales of bonds, debentures, and other evidences of indebtedness. Paragraph (a)(11)(viii) creates a new exemption for "registered riskless principal sales."<sup> 54 </sup>
+
+Section31 applies only to sales of securities, not to purchases of securities; a covered SRO incurs liability to the Commission under Section31 for only one side (the sell side) of the transaction. Thus, all of the exemptions listed in paragraph (a)(11) of new Rule31 are only for certain sales of securities because Section31 does not impose fees on purchases of securities.
+
+Currently, one type of security futures transaction is exempt from assessments under Section31: a round turn transaction in a future on a narrow-based security index.<sup> 55 </sup> This exemption is incorporated directly into the definition of "covered round turn transaction" in paragraph (a)(7) of new Rule31.
+
+The Commission adopted the definitions in Rule 31 as proposed, with the following exceptions:
+
+ Billing Period . The Commission is making a minor revision to the definition of "billing period," by changing the words "to the close of" to "through" in two places. Thus, the two billing periods under Rule31 are "January 1 through August 31" and "September 1 through December 31." The Commission believes that the final definition preserves the intended meaning but with greater economy of words.
+
+ Charge Date . One commenter stated: "In light of the totality of the burden and duplicity of effort which would result from the proposed rules, [the commenter] does not believe that the issue of charge dates adds significantly to the endeavor."<sup> 56 </sup> Two other commenters asked for clarification as to whether the equities exchanges should use the trade date or the settlement date as the charge date for covered sales under Rule31.<sup> 57 </sup> One of these commenters noted that some SROs have traditionally used the trade date and may be reluctant to change.<sup> 58 </sup>
+
+The Commission believes that the concept of a "charge date" — clearly defined and consistently applied across markets — is necessary for establishing an accurate and reliable system for calculating and collecting Section31 fees and assessments. Section31 establishes two billing periods over the course of the year (January 1 through August 31 and September 1 through December 31). Any system for calculating fees and assessments must, among other things, specify whether a trade that is negotiated at the end of August but not settled until the beginning of September "occurs" in August or September for purposes of Section31. Covered SROs also must determine whether a trade "occurs" before or after a fee rate change, so that the appropriate aggregate dollar amounts of securities sales are multiplied by the correct fee rate. Under existing arrangements for the collection and payment of Section31 fees, covered SROs make these determinations, albeit implicitly.<sup> 59 </sup> New Rule 31 codifies and makes explicit the charge date concept.<sup> 60 </sup>
+
+However, the Commission believes that certain changes to the definition of "charge date" are appropriate. As discussed below,<sup> 61 </sup> the OCC Comment is prompting the Commission to revise the manner in which covered sales resulting from options exercises and matured security futures are being treated under Rule31. The Commission believes that, in light of this revision, it would be helpful to clarify the definition of "charge date" to specify when covered sales resulting from options exercises or matured security futures "occur" for purposes of Section31. The proposed definition was as follows:
+
+ Charge date means the date on which a covered sale or covered round turn transaction occurs for purposes of determining the liability of a covered SRO pursuant to section31 of the Act. The charge date is the settlement date with respect to a covered sale or a covered round turn transaction that a covered exchange reports to a designated clearing agency. The charge date is the trade date with respect to a covered sale occurring on a covered exchange that the exchange does not report to a designated clearing agency, and with respect to any covered sale occurring otherwise than on a national securities exchange.
+
+The Commission is adopting the first sentence of the definition as proposed and replacing the remaining sentences as follows:
+
+The charge date is: (i)The settlement date, with respect to any covered sale (other than a covered sale resulting from the exercise of an option settled by physical delivery or from the maturation of a security future settled by physical delivery) or covered round turn transaction that a covered SRO is required to report to the Commission based on data that the covered SRO receives from a designated clearing agency; (ii) The exercise date, with respect to a covered sale resulting from the exercise of an option settled by physical delivery; (iii) The maturity date, with respect to a covered sale resulting from the maturation of a security future settled by physical delivery; and (iv) The trade date, with respect to all other covered sales and covered round turn transactions.
+
+Under the proposed definition, the charge date of covered sales resulting from options exercises or matured security futures would have been the trade date. But because the physical delivery of equity securities underlying an option or security future is not effected by a trade on a public market, the Commission believes that it would be more appropriate to employ the terms "exercise date" and "maturity date," which are more specific to the type of transaction being undertaken. Trade date, exercise date, and maturity date are substantively similar in that, on these dates, instructions to effect a sale of securities are issued. They contrast with the settlement date, which is the date on which the movement of funds and securities between the accounts of the trade counterparties has been completed.
+
+Rules 31 and 31T and Form R31 require covered exchanges to obtain from one or more designated clearing agencies a tabulation of the aggregate dollar amount of their covered sales and to report that data to the Commission in PartI of FormR31. For covered sales of options and equity securities that a covered exchange reports to a designated clearing agency, the Commission believes that the settlement date is the most practical charge date. A designated clearing agency knows the settlement date for every trade that it clears and settles. The Commission has determined to use the settlement date rather than the trade date as the charge date in these cases because it would be more burdensome for a designated clearing agency to track the trade date than the settlement date. This approach codifies the existing methods used by OCC to calculate Section31 fees for the options exchanges and Section31 assessments for the security futures exchanges. The Commission believes that the settlement date also should be used as the charge date for all covered sales that a covered exchange reports to NSCC.
+
+For covered sales resulting from the exercise of an option settled by physical delivery or from the maturation of a security future settled by physical delivery,<sup> 62 </sup> the charge date is the exercise date or the maturity date, respectively. The Commission is employing exercise date and maturity dates as charge dates under these circumstances because OCC already tabulates these sales based on exercise date and maturity date, and codifying this approach will place the least amount of burden on the designated clearing agencies and covered SROs, while satisfying the Commission's need to obtain accurate data on covered exchanges' trading volume. 
+
+For all covered sales reported in Part II of FormR31, the charge date is the trade date. The Commission believes that it would be impractical for covered SROs to use the settlement date for such sales. Part II is designed to capture covered sales the records of which cannot be obtained, or cannot be obtained on a trade-by-trade basis, from a designated clearing agency. Instead, information on these covered sales will be obtained from a covered SRO's trade reporting system. For these trades, the Commission believes that the only practical choice for a charge date is the trade date. Part III data also will use the trade date for the charge date, with one exception: The charge date for covered sales resulting from the exercise of OTC options that settle by physical delivery will be the exercise date.<sup> 63 </sup>
+
+By taking the approach of having different charge dates in different circumstances, a different fee could arise from essentially the same trade depending on whether it occurred on an exchange or OTC. Under Rule 31, a covered association will use the trade date as the charge date for all of its covered sales, while a covered exchange will use the settlement date for any covered sale that it reports to NSCC. The Commission notes that the potential for a different fee rate applying will arise only the few days before a fee rate change goes into effect. Moreover, the Commission believes that applying different charge dates to different covered SROs in these limited circumstances will create no significant arbitrage opportunities that might affect order-routing practices.<sup> 64 </sup>
+
+ Fee Rate . The Commission made minor, non-substantive changes to the definition of "fee rate." The Commission made this revision to harmonize the manner in which sections of the Exchange Act are cited throughout Rule31.<h>B. Issues Raised by Commenters </h>
+
+The Commission received nine comments on the proposal.<sup> 65 </sup> Many of these comments discussed specific issues relating to the proposed rules. The Commission's responses to these comments appear below.<h>1. Section31 Payments Made by Agent </h>
+
+The Commission proposed to require every covered SRO to pay its Section 31 fees or assessments directly to the Commission rather than through an agent, but requested comment on whether designated clearing agencies should be permitted to make payments on behalf of covered SROs.<sup> 66 </sup> Three comments disagreed with this proposal.<sup> 67 </sup> One comment, submitted jointly by OCC and five exchanges for which OCC clears and settles options transactions, stated that OCC presently calculates and pays Section31 fees to the Commission on behalf of the options exchanges<sup> 68 </sup> and urged the Commission to continue to allow this arrangement.<sup> 69 </sup> After carefully considering the comments submitted, the Commission believes it is reasonable to continue the current practice of allowing a designated clearing agency to pay Section31 fees and assessments on behalf of one or more covered exchanges. Therefore, the Commission has added the phrase "directly or through a designated clearing agency acting as agent" to paragraph (c)(3) of Rule 31 to specify that the payment need not be made directly by the covered SRO. However, ultimate responsibility for making the payment remains with the covered SRO. If the Commission does not receive the total amount stipulated in a covered exchange's Section31 bill by the due date, the covered exchange — not the designated clearing agency — will be in violation of Rule 31 (or temporary Rule 31T).<sup> 70 </sup><h>2. Timeframe for Submission of Form R31 </h>
+
+Paragraph (b)(1) of Rule 31 requires every covered SRO to submit a completed FormR31 to the Commission within ten business days after the end of the month.<sup> 71 </sup> One commenter, NASD, recommended instead that covered SROs be allowed 12 business days.<sup> 72 </sup> In its comment, NASD stated that it currently allows its members to submit trade data for odd-lot transactions and exercises of OTC options by the tenth calendar day of each month, and thus that it might not have sufficient time to compile this information for reporting in PartIII of FormR31.
+
+The Commission is adopting this provision as proposed, with only a minor technical change.<sup> 73 </sup> The Commission believes that a maximum of ten business days is necessitated by external requirements to which the Commission is subject. First, as the Commission has previously noted, Section31 requires each covered SRO to make a payment no later than 30 days after the close of the January-through-August billing period (on September 30).<sup> 74 </sup> To allow sufficient time for the Commission to prepare and send the Section 31 bills before September 30, and for the covered SROs to pay the bills, the Commission believes it must receive the data on the FormR31 submissions no later than the middle of the month. Second, in addition to the obligation to prepare audited financial statements annually, the Commission is required to submit unaudited financial statements to the Office of Management and Budget ("OMB") within 21 days after the end of each quarter. For the Commission to meet this requirement, it must determine and book its accounts receivable within this very short time frame. Thus, the Commission believes that ten business days strikes an appropriate balance between allowing the covered SROs sufficient time to tabulate and submit their trade data and the Commission's need to meet external deadlines set by the Exchange Act and the accounting requirements to which the Commission is subject.
+
+The Commission does not believe that the NASD Comment raises any issue that precludes adopting the ten-business-day requirement. The Commission notes that paragraph (b)(1) of Rule 31 allows covered SROs ten business days in which to submit a completed Form R31, while NASD's rules require members to submit their PartIII trade data within ten calendar days. Because of weekends, NASD always will have at least two business days from when the member data is due and when the aggregate data that is self-reported by the members must be provided on FormR31. Moreover, if NASD finds that two business days is not sufficient time, NASD might wish to consider reducing the time frame within which its members must self-report their trade data or to examine ways to systematize the submission of this data and thereby reduce the time that it spends processing the paper forms.<sup> 75 </sup><h>3. Settlement by Physical Delivery </h>
+
+Options are settled by one of two methods: cash settlement or physical delivery of the underlying securities. In the former case, the option is settled by payment of the difference between the strike price of the option and the market price of the underlying security or security index. Because there is no sale of securities upon exercise of a cash-settled option, no SRO incurs a Section 31 liability upon settlement. With physical delivery, on the other hand, one party must sell to the other party (at the strike price) the underlying securities to fulfill the option contract. Such sale would create Section 31 liability for the covered exchange on which the related option had been traded.
+
+Presently, Section31 fees for sales of securities resulting from the exercise of physical delivery exchange-traded options are paid to the Commission by OCC on behalf of the options exchanges. When OCC receives notice that an option held in the account of one of its participants is being exercised, OCC instructs NSCC to move funds and securities between NSCC participant accounts to effect the exercise. OCC also calculates the Section31 fees on such covered sales and includes these fees as part of its aggregate Section31 payment to the Commission.<sup> 76 </sup> OCC currently does not assign the sales of securities resulting from such exercises to a particular SRO.
+
+As stated in the Proposing Release, the Commission believes that it is not appropriate for these fees to be combined in a single payment that obscures the SRO on whose behalf the payment is being made.<sup> 77 </sup> Each covered SRO is individually liable for Section31 fees and assessments; therefore, the Commission should be able to match each Section31 payment with the specific covered SRO that had the legal duty to make it. Because OCC had informed the Commission that it would be extremely costly and difficult for it to configure its systems to trace the exchanges on which physical delivery exchange-traded options are originally sold,<sup> 78 </sup> the Commission proposed instead to deem the exercise sales as occurring OTC for purposes of Section 31 and to assign them to the covered association by or through the members of which the sales of the underlying securities were effected.<sup> 79 </sup> The Commission acknowledged in the Proposing Release that this arrangement would represent a departure from current practices. Nevertheless, the Commission believed this was the least burdensome means of accomplishing the necessary goal of assigning these exercises to a specific covered SRO.
+
+Two comments disagreed with this approach,<sup> 80 </sup> arguing that the proposal would be unduly burdensome for NASD (the covered association that would have been assigned Section31 liability for these covered sales), OCC, and the options exchanges. Nevertheless, OCC and the options exchanges recognized the Commission's concern to assign every covered sale to a specific covered SRO and recommended a method of assigning covered sales resulting from options exercises. While the OCC Comment states that it is still impractical to trace options back to the exchange on which they were traded, it suggests that a reasonable proxy would be the exchange's pro rata share of the dollar volume from the previous month of all options settled by physical delivery.
+
+The Commission agrees with this suggestion and is incorporating it into the final rule by adding new paragraph (b)(4)(ii) to Rule31. This paragraph explains the manner in which a designated clearing agency must conduct this pro rata attribution.<sup> 81 </sup> The Commission also has added new text to paragraph (b)(2)(ii) of Rule 31 to recognize that a covered exchange, rather than a covered association, must report in PartI of its FormR31 the aggregate dollar amount of covered sales resulting from the exercise of physical delivery exchange-traded options, as reflected in the data provided by a designated clearing agency that clears and settles options or security futures. Proposed paragraph (b)(3)(i), which would have required a covered association to report the aggregate dollar amount of covered sales resulting from the exercise of physical delivery exchange-traded options, has been deleted.<sup> 82 </sup> Corresponding changes have been made to FormR31.
+
+In light of the OCC Comment, the Commission believes it would be appropriate to treat covered sales resulting from the maturation of security futures settled by physical delivery in the same manner because the means by which the underlying securities are transferred is substantially similar. A security future is a standardized contract between two parties to trade a security at a specific future date. If the security future is settled by physical delivery, one party upon maturation of the security future is required to sell to the other party the underlying securities at a predetermined price, which could result in a covered sale. As with physical delivery exchange-traded options, OCC currently pays Section 31 fees on behalf of covered exchanges that trade security futures but does not identify the amount being paid on behalf of each exchange. The Commission believes that a reasonable proxy for the actual dollar amount of sales of securities resulting from the maturation of security futures would be a covered exchange's pro rata share of the volume of all security futures settled by physical delivery and traded on all covered exchanges in the previous month. This approach is reflected in paragraphs (b)(2)(ii) and (b)(4)(ii) of Rule 31, as adopted.<h>4. Brut Comment </h>
+
+One commenter, Brut, is an ECN that currently reports trades to the consolidated tape through BSE. However, BSE generally does not report Brut's trades to NSCC for clearance and settlement. Instead, Brut reports its trades to NSCC either directly, in its capacity as a QSR, or indirectly, through the facilities of a second SRO (generally NASD).<sup> 83 </sup> Brut urged the Commission to provide guidance that would prevent it from being double-billed for transactions reported in this manner.<sup> 84 </sup>
+
+The Commission does not believe that Brut's comment requires any revisions to the proposed rule. Under Rule 31 as proposed and as adopted, a covered exchange must report to the Commission on Form R31 only covered sales that occur on that exchange .<sup> 85 </sup> Similarly, a covered association must report only covered sales that occur by or through any member of the association otherwise than on a national securities exchange.<sup> 86 </sup> Thus, a covered association may report a covered sale in its FormR31 data only if the sale did not occur on a national securities exchange, even if an ECN submitted a clearing-only report to the covered association for that sale. In cases where an ECN reports a covered sale to a covered exchange for purposes of printing the sale to the consolidated tape, the Commission, for purposes of Section31, will consider the covered sale to have occurred on the covered exchange. Thus, the covered exchange rather than the covered association is required to report the covered sale on its Form R31.
+
+Any covered association that receives and forwards clearing-only reports to a designated clearing agency for trades that occur on a covered exchange should ensure that these trade reports are not tabulated as part of the association's covered sales. A covered association may need to coordinate with its ECN members to ensure that these trades are properly marked so that the association can filter them out of the trade data that the covered association tabulates on FormR31.<h>5. Assigning Trades to the Appropriate Covered SRO </h>
+
+The CHX Comment asked the Commission to address how the new rules will treat sales of securities that occur through the Intermarket Trading System ("ITS").<sup> 87 </sup> CHX described the following situation: SRO A sends an ITS commitment to a member of SRO B to sell a security, and the commitment is executed on SRO B. Under existing arrangements, SRO A pays the Section31 fee arising from this trade and passes the fee to its member that initiated the trade. According to CHX, the SROs have devised this system because SRO B does not have the ability to require members of SRO A to reimburse it for the cost of its Section31 fees. CHX stated that "[p]roposed Rule 31 might be read to suggest that SROB should pay the fee on the transaction — because it occurred on SRO B — but that outcome is not consistent with current practice." CHX requested the Commission to provide guidance on both the ITS situation and other similar circumstances.
+
+One such circumstance was described in a no-action letter sent by the Commission's Division of Market Regulation to CHX and NASD in March 2001.<sup> 88 </sup> The no-action letter was precipitated by the following facts. Securities that are listed and traded on Nasdaq also may be traded on a national securities exchange, such as CHX, pursuant to unlisted trading privileges ("UTP").<sup> 89 </sup> CHX specialists can trade these securities either on CHX itself or through a Nasdaq execution system.<sup> 90 </sup> In cases where a CHX specialist sells a Nasdaq security through a Nasdaq system, both CHX and NASD were collecting and paying the Section31 fees associated with this trading volume. To avoid the double payment, CHX and NASD established an arrangement whereby CHX would be the SRO responsible for collecting and paying Section31 fees for these sales. In its March 2001 letter, the Division raised no objection to this arrangement.
+
+After carefully considering the CHX Comment and the situation raised in the March2001 no-action letter, the Commission has determined to adopt Rule31 as proposed. The adoption of Rule31, therefore, rescinds the position taken by Commission staff in the no-action letter, and covered SROs may need to revisit current arrangements they may have for reassigning liability for Section31 fees. Section31(b) of the Exchange Act provides that a national securities exchange must pay a fee to the Commission based on the aggregate dollar amount of covered sales "transacted on such national securities exchange."<sup> 91 </sup> In the ITS situation discussed above, the sale is not "transacted" on CHX because the CHX member has routed the order through ITS for execution at another exchange. Similarly, in the case of a Nasdaq security sold by CHX members through a Nasdaq system, the sale is not "transacted" on CHX. Therefore, the Commission concludes that CHX does not have Section31 liability for such covered sales.
+
+Besides adhering to the terms of the governing statute, this approach should simplify the tabulation of the covered sales occurring at each SRO and thereby facilitate the creation of auditable records of the fees calculated and collected by the Commission. The Commission believes that it would be needlessly complicated to devise special provisions on FormR31 for a covered exchange to record covered sales that in fact occurred in another market. Great care would have to be taken to ensure not only that these "away transactions" were properly tabulated and recorded on the FormR31 of the covered exchange that routed them away, but also that they were not recorded as part of the covered sales of the covered SRO where the orders were executed. The Commission believes it will be simpler and more transparent for each covered SRO to report all covered sales that occur on its market.
+
+The Commission acknowledges that a covered SRO on which a covered sale occurs as a result of an incoming ITS order may not be able to collect funds to pay the Section 31 fee from one of its own members. However, Section31 does not address the manner or extent to which covered SROs may seek to recover the amounts that they pay pursuant to Section31 from their members. Covered SROs may wish to devise new arrangements for passing fees between themselves so that the funds are collected from the covered SRO that originated the ITS order.<sup> 92 </sup> The legal duty to pay the Section 31 fee, however, remains with the covered SRO on which the sale was in fact transacted.<h>6. No De Minimis Exemption </h>
+
+In the Proposing Release, the Commission asked whether it would be appropriate for Rule 31 and Form R31 to include a de minimis exemption from the obligation to provide the aggregate dollar amount of covered sales that are ex-clearing trades.<sup> 93 </sup> Under this suggested approach, a covered exchange would not be required to tabulate and report the aggregate dollar amount of covered sales for PartII of Form R31, if the exchange certified that the amount was below a certain threshold. The Commission also sought comment on what would be an appropriate threshold. In its comment letter, CHX stated that over a 30-day time period it averaged five ex-clearing trades per day with an average daily value of $16.5million. CHX urged the Commission to adopt a de minimis exemption from Rule 31 for these transactions until such time as they could be systematically tabulated by NSCC and thereby included in PartI of FormR31.
+
+The Commission does not believe that commenters have provided sufficient rationale to warrant the creation of a de minimis exemption for reporting ex-clearing trades. Even though these covered sales cannot be included in the PartI data, the Commission believes that they can be provided in Part II without undue difficulty. In CHX's case, the Commission believes that it would be inappropriate to exempt sales representing such a significant dollar amount, and that tabulating and reporting such a small number of covered sales should not be unduly burdensome.<sup> 94 </sup> Furthermore, if the Commission were to exempt these sales, the result this fiscal year would<sup> 95 </sup> result in some amount of foregone fees.<sup> 96 </sup><h>7. Cash, Next-Day, and Seller's Option Trades </h>
+
+Generally, when a trade is forwarded to a registered clearing agency for settlement, the clearing agency will settle the trade in three business days ( i.e. , T+3). However, a covered sale might be settled other than through the regular T+3 settlement process. For example, a covered sale might settle by cash payment on the same day ( i.e. , T+0), next day ( i.e. , T+1), or seller's option ( i.e. , the seller may choose the date on which it wishes the trade to settle). In its comment letter, NSCC stated that it and the covered SROs will have to reach a common understanding for the treatment of cash, next-day, and seller's option trades for purposes of Rule31.
+
+NSCC has records of cash, next-day, and seller's option trades occurring on NYSE and Amex since before September1, 2003. For the other covered exchanges, NSCC did not begin receiving trade reports of cash, next-day, and seller's options trades until mid-April 2004. For any month in which NSCC has data on covered sales resulting from cash, next-day, and seller's option trades, NSCC should provide that data to the respective covered exchanges for inclusion in PartI of FormR31. For any covered sales resulting from cash, next-day, or sellers option trades that a covered exchange did not report to NSCC, the covered exchange should treat these as ex-clearing transactions and report them in Part II (assuming that such trades were captured in the exchange's trade reporting system).<h>8. Transactions with Multiple Parties </h>
+
+Several commenters asked whether certain transactions involving multiple parties would be treated as a single covered sale under Rule 31.<sup> 97 </sup> Some of the transactions mentioned by the commenters involve only a single trade on a securities market, coupled with a prior arrangement between one of the trade counterparties and a third party to shift the settlement obligations for the trade to the third party.<sup> 98 </sup> To that extent, the Commission believes that these transactions include only one covered sale under Rule31. However, one type of multi-party transaction — a so-called "riskless principal" transaction — may result in either one covered sale or two, depending on the circumstances. In a "riskless principal" transaction, a broker-dealerreceives an order from a customer to buy (sell) a security, purchases (sells) the security as principal from (to) a third party, and immediately sells (buys) the security to (from) the customer at the same price. The broker-dealer's position can be considered riskless to the extent that the two transactions offset each other and the broker-dealer incurs no net liability to its principal account. Nevertheless, a riskless-principal transaction differs from the other multi-party transactions mentioned by the commenters in that two separate executions occur on an exchange or an OTC market.
+
+The Commission may relieve an SRO from incurring a Section31 liability for a particular type of sale of securities by exercising its authority under Section31(f), which states: "The Commission, by rule, may exempt any sale of securities or any class of sales of securities from any fee or assessment imposed by [Section31], if the Commission finds that such exemption is consistent with the public interest, the equal regulation of markets and brokers and dealers, and the development of a national market system."<sup> 99 </sup> The Commission hereby finds that, subject to certain conditions discussed below, an exemption from Section31 fees for the second of two offsetting principal transactions meets this standard.
+
+The Commission is codifying this exemption as part of the definition of "exempt sale" in paragraph (a)(11) of Rule 31. New paragraph (a)(11)(viii) provides that an exempt sale includes a "recognized riskless principal sale." The Commission has added a new paragraph (a)(14) to Rule 31 to define "recognized riskless principal sale" as a sale of a security where all of the following conditions are satisfied:
+
+ 
+
+A broker-dealer receives from a customer an order to buy (sell) a security;
+
+The broker-dealer engages in two contemporaneous offsetting transactions as principal, one in which the broker-dealer buys (sells) the security from (to) a third party and the other in which the broker-dealer sells (buys) the security to (from) the customer; and
+
+The Commission, pursuant to Section 19(b)(2) of the Exchange Act,<sup> 100 </sup> has approved a rule change submitted by the covered SRO on which the second of the two contemporaneous offsetting transactions occurs that permits that transaction to be reported as riskless.
+
+ 
+
+These requirements are designed to ensure that the two transactions in which the broker-dealer acts as principal are the economic equivalent of a single agency transaction or, in other words, that the combined transaction is indeed riskless for the broker-dealer. The Commission believes that the term " recognized riskless principal sale" is appropriate because a sale of securities occurring on a covered SRO will qualify for the Section31 exemption only if, among other things, such sale can be recognized in the covered SRO's audit trail as having a second, offsetting transaction. The rule filing process affords the Commission the opportunity to assure that the covered SRO's trade reporting rules and audit trail systems are sufficiently robust to allow riskless principal transactions to be recognized as such.
+
+The Commission previously has approved rule changes relating to riskless principal transactions for one covered SRO, NASD. In 1981, the Commission approved an NASD rule change requiring a non-market-maker member to report two offsetting transactions in which the member acts as principal as a single agency trade.<sup> 101 </sup> In 1999, the Commission approved a second NASD rule change that extended this trade reporting convention to all NASD members, including market makers.<sup> 102 </sup> In the latter case, the Commission stated that "[r]educing the number of transactions required to be reported should result in a corresponding reduction in transaction fees."<sup> 103 </sup> That outcome was reached by treating the two offsetting principal transactions as a single agency transaction, resulting in a single covered sale. The Commission believes that it now would be appropriate to exercise its authority under Section 31(f) of the Exchange Act to formally exempt the second of the two offsetting transactions. The codified exemption makes clear that only sales that meet the enumerated criteria qualify for the exemption.<h>9. Possible Liability of a Designated Clearing Agency </h>
+
+Paragraph (b)(4) of proposed Rule 31 stated that "[a] designated clearing agency shall provide a covered SRO, upon request, the data in its possession needed by the covered SRO to complete PartI of FormR31." In the Proposing Release, the Commission stated that, if a covered SRO did not submit its Form R31 in a timely manner but the delay was caused by a designated clearing agency, the designated clearing agency, rather than the covered SRO, would be in violation of Rule 31.<sup> 104 </sup> In its comment letter, NSCC stated that its ability to provide covered SROs with trade data "will involve dealing on a continuous basis with a number of complex definitional and operational issues" and that "[i]t would be inappropriate for NSCC as an intermediary data processing entity to be subject to implied potential liability arising out of delays that it might incur in seeking to perform the data reporting function [required by Rule 31]." NSCC, taking the view that "this implied imposition of potential liability . . . does not appear in the Proposed Rule itself," argued that "it would be appropriate for the Commission to avoid the implication of such liability" in the final rule.
+
+The Commission does not believe that the NSCC Comment warrants a revision of paragraph (b)(4), and the Commission is adopting it as proposed (although it has been renumbered as paragraph (b)(4)(i)). With this provision, the Commission is imposing specific responsibilities on designated clearing agencies, including NSCC. A designated clearing agency's failure to perform those responsibilities would be a violation of Rule31. To that extent, the Commission disagrees with NSCC's view that the liability of a designated clearing agency is only "implied" by Rule31. However, the Commission recognizes that a designated clearing agency's ability to carry out its responsibilities under Rule 31 is dependent on its receiving timely, complete, and accurate data from the covered exchanges for which it clears and settles transactions. Before assigning liability to any party for a potential violation of Rule31, the Commission would examine the facts and circumstances of each situation to ascertain the cause of the potential violation and the party or parties responsible. The Commission notes, furthermore, that a designated clearing agency is responsible only for tabulating and reporting data "in its possession."<sup> 105 </sup> If a covered exchange never reports a covered sale to a designated clearing agency, or does not report the covered sale such that it can be recognized as such by the systems of its designated clearing agency, the designated clearing agency will not be in violation of Rule31 because that covered sale was not included in the covered exchange's Part I data.
+
+ 10. Netting by QSRs 
+
+In the Proposing Release, the Commission stated that QSRs might be engaged in the practice of netting trades before reporting them to NSCC, instead of reporting to NSCC on a trade-by-trade basis. Therefore, the Commission proposed to rely on data generated by a covered exchange's trade reporting system rather than by NSCC to obtain the aggregate dollar amount of covered sales reported by QSRs.<sup> 106 </sup> One commenter, NSCC, stated that this approach "impli[es] that the SEC does not have any concerns about QSRs netting trades."<sup> 107 </sup> Furthermore, NSCC recommended that the Commission state in the Rule31 adopting release that "QSR trades should come to NSCC non-netted." NSCC noted, however, that its current rules do not prohibit a QSR from summarizing and netting its trades before reporting them to NSCC.
+
+By adopting a new procedure for the calculation and collection of fees pursuant to Section 31 of the Exchange Act, including covered sales reported to NSCC through QSRs, the Commission is expressing no opinion on the operational practices of QSRs, including any potential netting. New Rules 31 and 31T and FormR31 are designed to obtain aggregate trading volume for covered sales from the best currently available sources. Nothing in this adopting release should be construed as prohibiting NSCC from proposing rule changes that it deems necessary and appropriate to improve the clearance and settlement system, including the manner in which QSRs report trades to NSCC.
+
+ 11. Creations and Redemptions of ETFs 
+
+The NSCC Comment also asked whether creations and redemptions of shares of exchange-traded funds ("ETFs") would be covered sales under Rule31. ETF shares are securities issued by an open-end investment company ( i.e. , a mutual fund) that can be traded on an exchange. A mutual fund that issues such shares generally will do so only in aggregations of a specified number ("creation units"), and purchasers of creation units can separate the units into individual shares that can be traded on an exchange. An authorized participant may deposit a basket of the fund's component securities (and, in some cases, cash) into the fund and receive creation units in return. ETF shares can be redeemed by aggregating them into creation units, presenting them to the fund, and receiving a basket of component securities (and, in some cases, cash) in return.
+
+The Commission believes that the creation of ETF shares falls within paragraph(a)(11)(i) of Rule31, which provides that the term "exempt sale" includes any sale of securities offered pursuant to an effective registration statement under the Securities Act of 1933. In addition, the Commission believes that the delivery of creation units to the fund falls within paragraph (a)(11)(iv) of Rule31. The Commission views the redemption of creation units as transactions similar to those covered by that paragraph, such as sales upon conversion of convertible securities. Therefore, neither creations nor redemptions of ETF shares are covered sales under Rule31.<h>III. Temporary Rule 31T </h>
+
+Beginning in FY2004, the Commission is required to prepare an annual financial statement that will be audited by the Government Accounting Office ("GAO"). To satisfy applicable auditing standards, the Commission must be able to document the sources of its accounts receivable, including Section31 fees and assessments, for its entire fiscal year. Rule 31 enables the Commission to obtain from the covered SROs aggregate data on all covered sales occurring in the U.S. markets — but will not become effective until July 2004. As the Commission noted in the Proposing Release, the purpose of temporary Rule 31T is to allow the Commission to obtain similar data for the months of FY2004 prior to the effective date of Rule 31 so that it can calculate, using the new procedure set forth in Rule31, the fees and assessments due from covered SROs for all of its FY2004.<sup> 108 </sup> The Commission originally hoped that proposed temporary Rule31T could be adopted before the Section31 payment on March 15, 2004. However, because the Commission is adopting these final rules after the March 15 due date, and covered SROs already have made that payment using their existing methods, the Commission has revised temporary Rule31T to carry out the original intent of the rule.
+
+New paragraph (a)(1)(ii) of temporary Rule 31T defines the "FY2004 prepayment amount" as the total dollar amount of fees and assessments already paid by a covered SRO pursuant to the March 15, 2004, due date.<sup> 109 </sup> New paragraph (b) of temporary Rule 31T requires each covered SRO, by August 13, 2004, to file with the Commission a completed Form R31 for each of the months September through December 2003. The FormR31 submissions for these months will enable the Commission to calculate the amounts payable for this billing period using the new procedure. New paragraph (a)(1)(iii) of temporary Rule 31T defines the "FY2004 recalculated amount" as the total dollar amount of fees or assessments owed by a covered SRO for the September-through-December 2003 billing period, as calculated by the Commission based on the data submitted by each covered SRO in its Form R31 submissions for those four months.<sup> 110 </sup>
+
+For each covered SRO, the Commission will subtract the FY2004 prepayment amount from the FY2004 recalculated amount; the result is the "FY2004 adjustment amount."<sup> 111 </sup> If a covered SRO's FY2004 adjustment amount is a positive number, the Commission will send the covered SRO a Section31 bill for the months September to December 2003, and the covered SRO must include the FY2004 adjustment amount with the payment for its next Section31 bill (due by September30, 2004).<sup> 112 </sup> If the covered SRO's FY2004 adjustment amount is a negative number, the Commission will credit the adjustment amount to the covered SRO's next Section31 bill.<sup> 113 </sup>
+
+Temporary Rule 31T also requires each covered SRO to file with the Commission, by August13, 2004, a completed FormR31 for each of the months January 2004 to July 2004, inclusive.<sup> 114 </sup> Taken together, new Rules 31 and 31T will give the Commission a complete set of data from which to prepare the Section 31 bills for the present billing period (January through August 2004). Thereafter, temporary Rule 31T will no longer be necessary, and covered SROs will be subject to the ongoing obligation to file a completed FormR31 on a monthly basis pursuant to paragraph (b)(1) of Rule31. Temporary Rule31T expires on January 1, 2005.<sup> 115 </sup>
+
+Four comments expressed concern with applying the new procedure to recalculate Section31 fees and assessments for the months September to December 2003.<sup> 116 </sup> One commenter argued that "the benefits of retroactive implementation do not outweigh the costs of work necessary to recertify the September through December 2003 submission."<sup> 117 </sup> Two of these comments stated that trade data in the possession of NSCC for these months would likely be inaccurate because NSCC's systems were not properly configured to capture the correct data.<sup> 118 </sup> These comments also questioned how the adjustment payments required by temporary Rule31T would correspond with the payments already made pursuant to the exchanges' existing rules. NYSE noted, for example, that it would be forced to make a retroactive adjustment to its Rule 440H, which governs the manner in which NYSE passes Section31 fees to its members. Similarly, CHX argued that "[i]f there are differences between the NSCC reports and the data used by CHX in its billing, the CHX will be required to reconcile the two sets of data, on a trade-by-trade basis."
+
+After carefully considering these comments, the Commission continues to believe that it is necessary to adopt a temporary Rule 31T that requires covered SROs to provide FormR31 submissions for every month from September 2003 to the present. Despite the costs associated with temporary Rule 31T, the Commission believes that obtaining this historical trade data is necessary for the Commission to carry out its obligations under the Accountability Act.<sup> 119 </sup> Furthermore, although there may be some discrepancy between the amounts that covered SROs must pay the Commission pursuant to temporary Rule31T and the amounts that covered SROs already have collected from their members pursuant to their rules, the Commission does not believes this justifies delaying the implementation of a more accurate and reliable system.
+
+Historical data are available for the options and security futures exchanges because OCC's systems are already configured to capture this data<sup> 120 </sup> and Rule 31 does not require a fundamental revision of the methods by which options and security futures exchanges pay their Section31 fees or assessments. With the equities exchanges, however, the Commission understands that trade data going back to September1, 2003, may not have been reported to NSCC in a form that can immediately be tabulated under the procedure created by new Rule31. Nevertheless, the Commission believes that NSCC, with the assistance of the exchanges, can sift the data to produce an accurate record of each exchange's covered sales in equities since September 1, 2003. In that regard, the Commission anticipates that the following issues will need to be addressed:
+
+ 
+
+ Debt securities . Sales of debt securities are exempt from Section31 fees.<sup> 121 </sup> NSCC clears and settles trades in debt as well as equity securities. Any covered exchange that trades debt securities should provide NSCC with the CUSIP numbers for such securities so that NSCC can filter such trades from its clearing data going back to September1, 2003.
+
+ Reversals . A reversal occurs when a trade is reported incorrectly to a designated clearing agency and the covered SRO on which the trade occurred sends a second record to inform the clearing agency to negate the first record.<sup> 122 </sup> Although NSCC's reporting system allows a reversal to be marked as such, a covered SRO could choose instead to effect the reversal by reporting a second trade that nets out the first.<sup> 123 </sup> Although no NSCC rule prohibits this practice, it would cause two covered sales to appear in NSCC's record when in fact there was no covered sale. Any covered exchange that engaged in this practice during the period September to December 2003 should coordinate with NSCC to ensure that these reverse trades are not counted as covered sales.
+
+ Creations and redemptions of ETFs . As noted above, neither the creation nor the redemption of ETF shares results in any covered sale under Section31 of the Exchange Act.<sup> 124 </sup> Therefore, NSCC should not tabulate as part of a covered exchange's PartI data any securities transactions that resulted from the creation or redemption of ETF shares.
+
+ Trades cleared through but not executed on a covered SRO . In some cases, a covered exchange will report a covered sale to NSCC on behalf of one of its members even though the sale was executed on another covered SRO. No liability for a covered sale should result for the covered exchange that sent the report.<sup> 125 </sup> The Commission expects NSCC and any covered exchange<sup> 126 </sup> that engages in this practice to devise a means by which to remove clearing-only reports from the exchange's PartI data.
+
+ Cash, next-day, and seller's option trades . As noted above, during the period covered by temporary Rule 31T, some covered sales of equity securities resulting from cash, next-day, and seller's option trades were reported to NSCC while others were not.<sup> 127 </sup> NSCC should tabulate what data it has on these trades and provide them to the respective covered SRO for inclusion in PartI of FormR31. For any such covered sales that a covered exchange did not report to NSCC, the covered exchange should treat these as ex-clearing transactions and report them in Part II (assuming that such trades were captured in the exchange's trade reporting system).
+
+ "Riskless principal" trades . To date, no covered exchange has received the Commission's approval of a rule change relating to riskless principal transactions. Therefore, for all trade data from September1, 2003, to the present, NSCC should not exclude any covered sales on the grounds that they are "riskless principal" transactions.
+
+ Step-outs, universal flips, and correspondent clearing transactions . As noted above, the Commission believes that each of these transactions would constitute only a single covered sale.<sup> 128 </sup>
+
+ 
+
+In their comment letters, CHX and NYSE suggested that adjustments required by temporary Rule 31T could require a covered exchange retroactively to amend its rules that pass Section 31 fees on to member firms. The Commission notes that neither Section31 of the Exchange Act nor the rules adopted by the Commission thereunder address the manner or extent to which covered SROs may seek to recover the costs of their Section31 obligations from their members. While the Commission has approved SRO rules establishing fees to be paid by SRO members to reimburse the covered SROs for Section31 fees paid to the Commission, an SRO's Section31 obligations are independent of any such reimbursement. The rules adopted by the Commission today establish a procedure for the amount of an SRO's Section31 fees to be calculated; they do not affect an SRO's obligation to pay fees or assessments to the Commission.
+
+The Commission also acknowledges that the application of temporary Rule 31T, particularly the assigning of charge dates, might result in a slight discrepancy with respect to the transactions included in the billing period. Under the existing arrangements for the calculation and payment of Section31 fees, covered exchanges that trade equity securities often use the trade date as the basis for assigning the period to which a sale belongs. Thus, fees on sales that occurred on a covered exchange between August27 and August 29, 2003 — the last three business days of August 2003 — likely were deemed by the exchanges to have occurred in August 2003, and fees for such sales were included in the covered exchange's Section31 payment made on September 30, 2003. For most covered sales in equity securities, however, the charge date is now the settlement date. Thus, when the covered exchange submits FormR31 for September 2003 pursuant to temporary Rule 31T, most of its covered sales having a trade date on August 27, 28, or 29 will settle T+3 in September 2003. Thus, the terms of the new rule could inadvertently impose a second fee on trades during this three-day period. To prevent this outcome, the Commission has adopted paragraph (e) of temporary Rule 31T, which provides that "[a]ny covered exchange that as of August 2003 was reporting its Section 31 volume to the Commission based on trade date shall not include in its aggregate dollar value of covered sales for its September 2003 Form R31 any covered sale that had a trade date prior to September 1, 2003."<h>IV. Reconciliation of Fees Paid to Funds Collected by Covered SROs </h>
+
+Various commenters argued that the Commission's proposal would create difficulties in reconciling the amount that a covered SRO would owe the Commission with the amount collected by covered SROs from their members.<sup> 129 </sup> One commenter discussed various sources of the reconciliation problem and stated that "the Commission should be involved in developing a uniform process for allocating transaction fees beyond SROs."<sup> 130 </sup> A second commenter "strongly urge[d] the Commission to work hand-in-hand with NASD and representatives from the industry to address th[e] issue" of reconciling these amounts.<sup> 131 </sup> A third commenter stated that avoiding a mismatch between what is billed by the Commission and what it collects from its member firms would necessitate an amendment to the exchange rule that passes the fee to its members.<sup> 132 </sup>
+
+Section 31 of the Exchange Act places obligations only on national securities exchanges, national securities associations, and the Commission. National securities exchanges and national securities associations must pay certain fees<sup> 133 </sup> and assessments<sup> 134 </sup> to the Commission. The Commission is required by Section31 to collect such fees and assessments.<sup> 135 </sup> Section31, however, does not address the manner or extent to which covered SROs may seek to recover the costs of their Section31 obligations from their members. Nor does Section31 address the manner or extent to which members of covered SROs may seek to pass any such charges on to their customers. In practice, the covered SROs obtain the funds for these fees and assessments by assessing charges on their members, and the members in turn pass these charges to their customers. It is customary for a customer who sells a security to see an "SEC Fee" on his or her trade confirmation. Furthermore, the broker-dealer typically rounds up the amount of the customer's charges to the next whole cent. The accumulation of extra fractional cent amounts often results in broker-dealers having "over-collected" for the fees assessed by their SROs for Section31 purposes.<sup> 136 </sup>
+
+The Commission is concerned about the manner in which SROs label the fees that they pass to their members and the manner in which members label the fees passed to their customers. These are not "Section 31 Fees" or "SEC Fees." Section31 places no obligation on members of covered SROs or their customers, and it is misleading to suggest that a customer or an SRO member incurs an obligation to the Commission under Section31. Accordingly, the Commission believes that covered SROs and their members should take prompt action to correct any such misperceptions.<h>V. Delegation of Authority </h>
+
+Under new Rule 31 and temporary Rule 31T, the Commission will calculate the Section 31 fees and assessments due from covered SROs and issue bills to the covered SROs for those amounts. The Commission is amending its rules of organization and program management to delegate authority to the Director of the Division of Market Regulation, in consultation with the Executive Director and the Chief Economist, to make these calculations and to issue Section 31 bills pursuant to new Rule 31 and temporary Rule 31T.<sup> 137 </sup> This amendment is a "rule[] of agency organization, procedure, or practice" within the meaning of Section 553(b)(A) of the Administrative Procedure Act ("APA").<sup> 138 </sup> Therefore, publication of this proposed rule in the Federal Register , opportunity for public comment, and publication of the rule prior to its effective date are not required by Section 553 of the APA.<h>VI. Consideration of the Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation </h>
+
+Section 3(f) of the Exchange Act<sup> 139 </sup> requires the Commission, whenever it engages in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. In addition, Section 23(a)(2) of the Exchange Act<sup> 140 </sup> requires the Commission, when promulgating rules under the Exchange Act, to consider the impact any such rules would have on competition. Section 23(a)(2) further provides that the Commission may not adopt a rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+The duty imposed on covered SROs to pay fees and assessments on securities transactions arises from Section31 of the Exchange Act itself; this rulemaking establishes a process for calculating and collecting these fees and assessments. The Commission believes that this rulemaking will promote efficiency, competition, and capital formation by making this process more transparent and reliable. Furthermore, the data received on Form R31 should provide the Commission with more complete and more precise data on aggregate trading volumes that will assist the Commission in setting the appropriate fee rate pursuant to Section 31(j) of the Exchange Act.<sup> 141 </sup> 
+
+In the Proposing Release, the Commission requested comment on the proposal's effect on efficiency, competition, and capital formation.<sup> 142 </sup> Although no commenter specifically addressed this section of the Proposing Release, one commenter stated that it "does not believe that the Commission's proposal is an efficient way of achieving their recognizable goal of assuring the accuracy of Section31 fees due by each market center."<sup> 143 </sup> The commenter added that "a much simpler solution" would be to require covered exchanges to document the basis of their Section31 fees by submitting or making available to the Commission their internal trade reporting records.
+
+The Commission does not believe that the "simpler" solution suggested by this commenter would be the more accurate or the more efficient solution. As noted above, the Commission believes that clearing data captured by the designated clearing agencies provide the most accurate basis for the Commission's calculation of Section31 fees and assessments. Moreover, although there will be some initial development burdens to adapt to the new rules,<sup> 144 </sup> the Commission believes that the new procedure for calculating Section31 fees, particularly for the covered exchanges that trade equity securities, will eventually yield significant efficiencies. Currently, the manner in which Section31 fees are calculated differs significantly between the options and equities exchanges. The options exchanges have arrangements with its clearing agency, OCC, whereby OCC calculates the aggregate dollar amount of their covered sales and pays the Section31 fees on behalf of each options exchange. Under this rulemaking, the Commission is leaving this system essentially unchanged, an approach strongly endorsed by OCC and five options exchanges. The Commission believes that this system has evolved into an efficient means for the options exchanges to discharge their responsibilities under Section 31 — as, apparently, do the exchanges themselves.<sup> 145 </sup>
+
+On the equities exchanges, by contrast, there is no central mechanism to standardize the data collection and calculation function. This rulemaking will require the equities exchanges for the first time to utilize such a mechanism to obtain trade data that must be reported on new FormR31. This in turn will cause the equities exchanges and their principal clearing agency, NSCC, to further standardize the manner in which they report transactions, particularly with regard to indicating on trade reports whether or not the transaction is a covered sale. Such conventions are particularly helpful with regard to transactions involving multiple parties<sup> 146 </sup> and transactions that are reported through more than one SRO.<sup> 147 </sup> The Commission believes that, as NSCC and the equities exchanges become familiar with new Rules 31 and 31T and Form R31 and technical issues are resolved, an efficient and reliable system for calculating Section31 fees for the equities exchanges — similar to what already exists for the options exchanges — will emerge.<h>VII. Paperwork Reduction Act </h>
+
+Rule 31 and Form R31 contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<sup> 148 </sup> Accordingly, the Commission submitted them to OMB for review in accordance with 44 U.S.C. 3507 and 5 CFR 1320.11. OMB approved the new collection of information for Rule 31 and Form31R and assigned OMB Control number 3235-0597. Neither Rule 31's development burden nor the burden associated with the temporary Rule 31T, both discussed in the Proposing Release and below, was included in OMB's approval. The Commission, therefore, is resubmitting the collection of information to OMB to account for these burdens. We solicit comment on this collection of information below. Compliance with Rules31 and31T and FormR31 will be mandatory. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid control number.<sup> 149 </sup> Any information filed with the Commission will be made publicly available.
+
+In the Proposing Release, the Commission solicited comments on the collection of information requirements.<sup> 150 </sup> NSCC was the only commenter to specifically address the Commission's burden estimates made in the PRA portion of the Proposing Release. However, some commenters expressed concern that compliance with temporary Rule 31T would be burdensome.<sup> 151 </sup> The Commission is making certain adjustments to its initial burden estimate, discussed below, to reflect these comments. The Commission's other burden estimates are unchanged.<h>A. Summary of Collection of Information </h>
+
+Rules 31 and 31T and Form R31 require each covered SRO to provide the Commission with data on its covered sales and covered round turn transactions. Form R31, due on a monthly basis, consists of three parts. Part I requires each covered exchange to provide the following:
+
+ 
+
+the aggregate dollar amount of covered sales of equity securities that: (a)occurred on the exchange; (b) had a charge date in the month of the report; and (c) the exchange reported to a designated clearing agency;
+
+the aggregate dollar amount of covered sales of options that: (a)occurred on the exchange; (b) had a charge date in the month of the report; and (c)the exchange reported to a designated clearing agency;
+
+the total number of covered round turn transactions that: (a)occurred on the exchange; (b) had a charge date in the month of the report; and (c)the exchange reported to a designated clearing agency; and
+
+the aggregate dollar amount of covered sales of equity securities that: (a)occurred on the exchange; (b) had a charge date in the month of the report; and (c)resulted from the maturation of a security future or the exercise of a physical delivery exchange-traded option.
+
+ 
+
+Paragraph (b)(4)(i) of Rule31 requires a designated clearing agency to provide a covered SRO, upon request, the data in its possession needed by the covered SRO to complete PartI of FormR31. Covered associations should not report any data in PartI of FormR31.
+
+PartII requires each covered exchange to provide the following:
+
+ 
+
+the aggregate dollar amount of covered sales that: (a)occurred on the exchange; (b)had a charge date in the month of the report; (c)the covered exchange captured in a trade reporting system; and (d)were reported to a designated clearing agency by a QSR; and
+
+the aggregate dollar amount of covered sales that: (a)occurred on the exchange; (b)had a charge date in the month of the report; (c)the covered exchange captured in a trade reporting system; and (d)were ex-clearing transactions.
+
+ 
+
+PartII also requires a covered association to provide the aggregate dollar amount of any covered sales that: (a)occurred by or through any member of the association otherwise than on a national securities exchange; (b)had a charge date in the month of the report; and (c)the association captured in a trade reporting system.
+
+PartIII requires a covered exchange to provide the aggregate dollar amount of covered sales (other than covered sales resulting from the maturation of a security future or the exercise of a physical delivery exchange-traded option) that: (a) occurred on the exchange; (b)had a charge date in the month of the report; and (c)the exchange neither captured in a trade reporting system nor reported to a designated clearing agency. In addition, PartIII requires a covered association to provide the aggregate dollar amount of covered sales that: (a)occurred by or through a member of the association otherwise than on a national securities exchange; (b)had a charge date in the month of the report; and (c)the association did not capture in a trade reporting system.
+
+For any month in which the Commission is required to adjust the Section31 fee rate, a covered SRO would have to separate the data on its aggregate dollar amount of covered sales into two parts. The first part would consist of the aggregate dollar amount of covered sales having a charge date in that month before the date of the fee rate adjustment; the second part would consist of the aggregate dollar amount of covered sales having a charge date on or after the date of the fee rate adjustment. The Commission does not have authority under Section31 of the Exchange Act to adjust the assessment charge. Therefore, respondents will never need to provide the total numbers of covered round turn transactions before and after any adjustment. Respondents should provide the total number of covered round turn transactions in a single entry on FormR31.<h>B. Use of Information </h>
+
+The Commission will use the information obtained on Form R31 to calculate the fees and assessments owed by each covered SRO to the Commission pursuant to Section31 of the Exchange Act. Although such fees and assessments are due only twice a year (by March15 and September30), the Commission will use this data to calculate and record a receivable on its financial statement every month.<h>C. Respondents </h>
+
+There are currently 12 covered SROs that are subject to the collection of information requirements of this rulemaking. In addition, there are currently two entities — NSCC and OCC — that are designated clearing agencies required by paragraph (b)(4)(i) of Rule31 to provide data to the covered SROs. Therefore, there are 14 respondents in total.<h>D. Total Annual Reporting and Recordkeeping Burden1. Development Burden for System Modifications </h><h>1. Development Burden for System Modifications </h>
+
+Pursuant to this rulemaking, each covered SRO has a duty to provide on FormR31 the aggregate dollar amount of its covered sales and the total number of its covered round turn transactions having a charge date in the month of the report. To comply with this collection of information requirement, the covered SROs will incur one-time burdens to develop new systems and procedures to record and tabulate the necessary trade data. The two designated clearing agencies also will incur burdens in configuring their systems to enable them to meet their obligations under Rule31.<h>a. Options and Security Futures </h>
+
+Currently, the options exchanges and security futures exchanges have arrangements with OCC whereby OCC calculates, collects, and pays all Section31 fees and assessments on behalf of the exchanges. OCC already has procedures, therefore, to prevent exempt sales from being included in the calculation of Section31 fees. For reasons discussed above, the Commission has determined to continue to allow these arrangements. OCC currently makes payments to the Commission in one lump-sum on behalf of the exchanges without stipulating the amount being paid on behalf of each exchange. However, under Rule31, OCC must stipulate the amount paid on behalf of each exchange. Furthermore, OCC must provide to each covered exchange for which it clears and settles transactions monthly data on the exchange's aggregate dollar amount of covered sales and the total number of covered round turn transactions cleared and settled by OCC on behalf of the exchange. OCC, therefore, must develop procedures to allocate each covered sale or covered round turn transaction to a specific exchange. The Commission initially estimated this development time to be 180 staff hours.<sup> 152 </sup> Although no commenter specifically addressed whether this estimate was accurate, the OCC Comment stated that "OCC will be ready to provide the Commission with information specifying the amount that it is paying on behalf of each exchange by the time that the Commission finalizes its Section31 fee collection rules."
+
+As noted above, the Commission has revised its original proposal relating to covered sales resulting from exercises of physical delivery exchange-traded options.<sup> 153 </sup> Under the final rule, the duty to pay fees for such covered sales will remain with the covered exchanges that trade the overlying derivative products. However, to allocate the volume for these covered sales among the covered exchanges, OCC must devise a new procedure for making the pro rata allocations. Paragraph (b)(4)(ii) of Rule31 governs this procedure. The Commission estimates that this procedure will take 20 OCC staff hours to develop. The Commission's total estimate of the initial development burdens of OCC is 200 staff hours (180 + 20).
+
+Because all covered sales in options and covered round turn transactions in security futures are cleared and settled by OCC, and the designated clearing agencies will bear the primary burden for making systems changes to accommodate Rule31, the Commission believes that the initial development burden on the options and security futures exchanges themselves will be minimal. The Commission estimates that the total initial burden on these exchanges will be 10 staff hours per exchange for a total of 80 staff hours (8 exchanges x 10 hours/exchange).<sup> 154 </sup> Thus, the Commission concludes that OCC, the options exchanges, and the security futures exchanges together will incur burdens for initial development of new systems and processes of 280 staff hours (200 +80).<h>b. Exchange-Traded Equity Securities </h>
+
+NSCC does not currently perform any functions with respect to Section31 of the Exchange Act. Therefore, NSCC is likely to incur more initial development burdens than OCC. To provide the data required by the new rules, NSCC must configure its systems to accurately tabulate the aggregate dollar amount of covered sales forwarded to it by the covered exchanges that trade equity securities. Such configuration will include, among other things, ensuring that reversals and exempt sales are filtered out of the exchanges' PartI data; ensuring that covered sales that result in no net change of position in any NSCC account are still tabulated; and presenting the data to the covered exchanges in a manner that can be easily reported on FormR31.
+
+The Commission originally estimated that NSCC and the eight exchanges that trade equities would collectively incur an aggregate burden of 1000 staff hours to develop new systems and processes to fulfill their obligations under Rule31.<sup> 155 </sup> In response to that estimate, NSCC stated in its comment that "it would take approximately 1000 hours, at a total cost of $140,000, to be able to develop the systems and procedures needed to fulfill its role under the Proposed Rule." In view of the NSCC Comment and the likelihood that the equities exchanges also will incur some burdens to develop new procedures to comply with Rule31 and FormR31, the Commission now estimates that NSCC and the eight equities exchanges together will incur a total development burden of 1100 staff hours.
+
+Another commenter, BSE, stated that the proposal would require "the institution of a new internal process to conduct a daily reconciliation of trades reported to the NSCC against those reported internally on BSE systems."<sup> 156 </sup> BSE estimated this process to take a minimum of two man-hours per day. The Commission notes, however, that Rule31 does not require BSE or any other covered SRO "to conduct a daily reconciliation of trades." A covered SRO may wish, but is under no obligation, to do so. Therefore, the Commission is not revising its estimate in response to the BSE Comment.<h>c. OTC Equity Securities </h>
+
+NASD is currently the only covered association that will be required to report on FormR31 covered sales occurring otherwise than on a national securities exchange. Under the current arrangements for the payment of Section31 fees, NASD calculates the aggregate dollar amount of sales reported to ACT after filtering out sales that are exempt from Section31 fees. NASD also administers a paper-based system whereby NASD members report and pay fees on odd-lot sales as well as sales of securities resulting from the exercise of non-exchange-listed options, neither of which are reported to ACT. The Commission anticipates that these NASD procedures will continue under the proposal. In addition, Rule 31 requires NASD to tabulate and report all covered sales occurring in the ADF, although TRACS, the trade reporting system for the ADF, currently is not configured to provide such data. Based on conversations between Commission staff and NASD, the Commission preliminarily estimated that the necessary configurations to TRACS would require 50 hours of NASD staff time. NASD already has established procedures to pass Section31 fees to its members based on their transaction volume (as reflected in ACT) and to collect data and fees on sales of certain securities self-reported by its members. The Commission preliminarily estimated that only 15 staff hours would be needed to adapt these processes to the requirements of this rulemaking.<sup> 157 </sup> The Commission received no comments on these estimates.
+
+The Commission is revising one element of its initial burden estimates for NASD. The Commission originally proposed that NASD would be the covered SRO liable for Section31 fees on covered sales resulting from exercises of physical delivery exchange-traded options. The Commission initially estimated that 25 hours of OCC and NASD staff would be required to develop a process whereby OCC would convey, and NASD would receive and report on its FormR31, data on covered sales resulting from exercises of physical delivery exchange-traded options. However, for reasons discussed above,<sup> 158 </sup> this aspect of the proposal has been eliminated. Therefore, the Commission is reducing its estimate of NASD's initial development burden by 25hours. In sum, the Commission now estimates that NASD's initial development burden for this rulemaking will be 65 staff hours (50 + 15).<h>d. Total Initial Development Burden </h>
+
+The Commission estimates that the 14 respondents subject to the collection of information requirements of this rulemaking will incur a total one-time development burden of 1445 staff hours (280 hours for OCC and the options and security futures exchanges + 1100 for NSCC and the equities exchanges + 65 for NASD).<h>2. Ongoing Compliance Burden </h>
+
+On an ongoing basis, covered SROs are required to submit to the Commission Form R31 within ten business days after the end of every month. Rule31 requires a designated clearing agency to furnish to a covered SRO, upon request, the data in its possession needed by the SRO to complete PartI of FormR31. Each covered SRO also must submit payment for its fees and assessments by March 15 and September 30 of each year, although this requirement is established by Section 31 itself and is merely reiterated in this rulemaking.<h>a. Designated Clearing Agencies </h>
+
+Presently, NSCC clears transactions occurring on eight national securities exchanges while OCC also clears transactions occurring on eight exchanges.<sup> 159 </sup> Equities trading volume is far larger than options trading volume. Therefore, the Commission believes that NSCC's monthly burden in tabulating the necessary data and providing it to the exchanges will be larger than OCC's burden. The NSCC Comment stated that NSCC's monthly operating costs following initial development of its processing systems would be minimal. Therefore, the Commission estimates that NSCC will incur an average monthly burden of 4 staff hours to provide the exchanges with the data for Part I of FormR31 while OCC will incur an average monthly burden of 2 staff hours to provide data to the options and securities futures exchanges.
+
+In addition, the Commission anticipates that Rule31 will impose additional financial resource burdens on NSCC. These resources will provide, among other things, CPU time, data storage, power, and systems maintenance. The Commission estimates that this burden will be $1000 per month.<h>b. Covered Exchanges </h>
+
+The covered exchanges also will incur burdens in fulfilling the requirement imposed by paragraph (b)(2) of Rule31 to complete and submit to the Commission proposed FormR31 on a monthly basis. The Commission believes that an exchange's burden will be slightly larger if it trades both equities and options, since the exchange would have to coordinate inputs from both NSCC and OCC. Furthermore, the Commission believes that an exchange that trades only options or security futures would incur slightly less burden than an exchange that trades only equities, because all data on all of its covered sales of options should be obtainable from OCC and reported in PartI of FormR31. By contrast, a covered exchange that trades equities is more likely to have covered sales that must be reported in Parts II or III. The Commission preliminarily estimated that the ongoing monthly burden for the covered exchanges to complete and submit to the Commission FormR31 would be as follows:
+
+ 
+
+two exchanges that trade only security futures and one exchange that trades only options: 0.5 hours/form
+
+four exchanges that trade only equities: 1.0 hours/form
+
+four exchanges that trade both equities and options: 1.5 hours/form
+
+ 
+
+The Commission is adopting these estimates as proposed, but with a minor adjustment due to the fact that since the Proposing Release was issued one exchange that previously traded only equities (BSE) now also trades options. Thus, the Commission estimates that the covered exchanges will incur a total of 12.0 burden hours<sup> 160 </sup> to complete the FormR31 submissions required in a given month.<h>c. Covered Associations </h>
+
+The Commission estimates that 2 NASD staff hours will be required to produce monthly reports from ACT and TRACS of all covered sales and to record those data on FormR31. The Commission estimates that 1 NASD staff hour will be required to aggregate and record in PartIII of FormR31 data on covered sales that are self-reported by NASD members. The Commission estimates that the total monthly burden imposed on the NASD by proposal will be 3 staff hours (2 + 1). In the Proposing Release, the Commission initially estimated that NASD would incur a monthly burden of 4 staff hours to comply with Rule31 and FormR31.<sup> 161 </sup> This extra hour's difference was caused by the proposal to require NASD to record on its FormR31 data on covered sales resulting from exercises of physical delivery exchange-traded options. However, since the Commission has revised that proposal,<sup> 162 </sup> NASD will no longer have this responsibility. Therefore, the Commission is lowering its estimate of NASD's monthly compliance burden from 4 staff hours to 3.<h>d. Total Ongoing Monthly Burden </h>
+
+In summary, the Commission believes that the total burden on the 14 respondents for completing FormR31 for a single month will be 21.0 staff hours (6.0hours for two designated clearing agencies + 12.0 hours for 11 covered exchanges + 3.0hours for one covered association), or 252 staff hours per year (21.0 hours/month x 12 months).<sup> 163 </sup> This represents a reduction in the Commission's original estimate of 270 staff hours for the annual ongoing compliance burdens of Rule31 and FormR31.<sup> 164 </sup> The 18-hour difference results from 24 fewer staff hours per year on the part of OCC and NASD for OCC to provide NASD with data on covered sales resulting from the exercise of physical delivery exchange-traded options, plus 6 staff hours per year due to the fact that BSE now trades both options and securities.<h>3. Temporary Rule31T </h>
+
+Temporary Rule 31T requires every covered SRO — by August 13, 2004 — to submit to the Commission a completed FormR31 for each of the months September 2003 to June 2004, inclusive.<sup> 165 </sup> This will enable the Commission to obtain data on all covered sales and covered round turn transactions occurring in its FY2004 and to make any necessary adjustments to the amount that a covered SRO paid pursuant to the March 15, 2004, due date. The Commission notes that the obligation of national securities exchanges and national securities associations to pay fees and assessments on securities transactions arises directly from Section31 of the Exchange Act and would exist even in the absence of this rulemaking.
+
+The Commission initially estimated that temporary Rule31T would require each covered SRO to provide six FormR31 submissions.<sup> 166 </sup> However, because Rule 31T is not being adopted until June 2004 and the Form31 submissions required by the rule will not be due until August 13, Rule 31T will now require covered SROs to provide ten historical FormR31 submissions (for September 2003 through June 2004, inclusive). In addition, various commenters, although not specifically addressing the Commission's hourly burden estimates, stated that compliance with temporary Rule 31T would be burdensome.<sup> 167 </sup> In light of these comments and the expanded period that temporary Rule31T will cover, the Commission is increasing the estimated burden on all respondents for temporary Rule 31T from 135 staff hours to 200 staff hours.<h>4. Total Burdens of Rules31 and 31T </h>
+
+In summary, the Commission estimates that the burdens imposed by new Rules 31 and 31T together before August 2004 will be 1645 staff hours. This figure represents the initial development burdens to be incurred by covered SROs and designated clearing agencies to establish new systems and procedures to comply with Rules31 and 31T and to provide historical trading data going back to September1, 2003. The Commission estimates that, after August 2004 (the first month that a FormR31 is due pursuant to Rule31), the 14 respondents will incur annual burdens of 252 staff hours per year to comply with Rule31 and FormR31.<h>E. Record Retention Period </h>
+
+Rule 17a-1 under the Exchange Act<sup> 168 </sup> requires national securities exchanges, national securities associations, and registered clearing agencies to preserve at least one copy of all documents, including all correspondence, memoranda, papers, books, notices, accounts, and other such records as shall be made or received by it in the course of its business as such and in the conduct of its self-regulatory activity for a period of not less than five years, the first two years in an easily accessible place, subject to the destruction and disposition provisions of Rule 17a-6 under the Exchange Act.<sup> 169 </sup><h>F. Request for Comments </h>
+
+The Commission requests comment in order to:
+
+ 
+
+evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information has practical utility;
+
+evaluate the accuracy of the Commission's estimates of the burden of the proposed collection of information;
+
+determine whether there are ways to enhance the quality, utility, and clarity of the information to be collected; and
+
+evaluate whether there are ways to minimize the burden of the collection of information on the respondents, including through the use of automated collection techniques or other forms of information technology.
+
+ 
+
+Any member of the public may direct to the Commission any comments concerning the accuracy of these burden estimates and any suggestions for reducing the burdens. Persons who desire to submit comments on the collection of information requirements should direct their comments to OMB; Attention: Desk Officer for the Securities and Exchange Commission; Office of Information and Regulatory Affairs; Washington, DC 20503; and send a copy of the comments to Jonathan G. Katz; Secretary; Securities and Exchange Commission; 450 Fifth Street, NW; Washington, DC 20549-0609, with reference to File No. S7-05-04. Requests for materials submitted to OMB by the Commission with regard to these collections of information should be in writing, refer to File No. S7-05-04, and be submitted to the Securities and Exchange Commission; Records Management; Office of Filings and Information Services; 450 Fifth Street, NW; Washington, DC 20549. Because OMB is required to make a decision concerning the collections of information between 30 and 60 days after publication, your comments are best assured of having their full effect if OMB receives them within 30 days of publication of this notice.<h>VIII. Consideration of Costs and Benefits </h>
+
+To assist the Commission in its evaluation of the costs and benefits that might result from the proposal, commenters were requested to provide analysis and data relating to the costs and benefits. The Commission preliminarily identified certain costs and benefits associated with the new system for calculating and collection Section 31 fees and assessments in the Proposing Release.<sup> 170 </sup> The Commission requested comment on its preliminary analysis and asked specifically whether, in the commenters' view, the benefits justify the costs. One commenter argued that "the benefits of retroactive implementation [of temporary Rule31T] do not outweigh the costs of the work necessary to recertify the September to December 2003 submission" of trade data supporting the Section 31 payment for that period.<sup> 171 </sup> However, neither this commenter nor any other commenter provided any empirical data relating to the costs and benefits of this proposal. After carefully considering the comments received, the Commission concludes that the benefits of this proposal justify the costs that it will impose.<h>A. Benefits </h>
+
+A primary benefit of this rulemaking is that the Commission will be able to obtain more accurate data on all covered sales and covered round turn transactions occurring in the U.S. securities markets. This data will facilitate the Commission's compliance with the Accountability Act, pursuant to which the Commission must prepare annual financial statements that are audited by an external auditor. The Commission's obligations under the Accountability Act begin in FY2004. To meet these obligations, the Commission must be able to demonstrate the accuracy of the payments collected by the Commission, including payments made by covered SROs pursuant to Section31. The Commission believes that the trade data provided on Form R31 will yield the most accurate bases for their Section31 payments. The Commission's annual audit, as required by the Accountability Act, necessitates that the Commission verify the amount of fees and assessments that it collects using the most accurate data available.
+
+A related benefit of this rulemaking is that the means by which the Commission derives a large source of its revenue will become more transparent and more easily subject to verification. These data are to be provided on a simple form. Requiring the covered SROs to report their trade data in this manner should improve the ability of an auditor or other interested person to understand the sources and calculation of Section31 payments. The Commission believes, and the SIA agrees,<sup> 172 </sup> that the public interest benefits when the Commission can demonstrate that it is properly carrying out the fiscal responsibilities assigned to it by Congress.
+
+Another benefit of this proposal is that the data used by the Commission to determine whether a fee rate adjustments is required pursuant to Section 31(j) of the Exchange Act<sup> 173 </sup> will be more precise. Paragraph (j) requires the Commission to make an annual and (in some circumstances, a mid-year) adjustment to the fee rate. The data received on Form R31 should provide the Commission with more complete and more precise data on aggregate trading volumes that will assist the Commission in determining the appropriate fee rate.<h>B. Costs </h>
+
+Rule31 and Form R31 require covered SROs to provide the Commission, on a monthly basis beginning with the month of July 2004, data on their covered sales and covered round turn transactions. Temporary Rule31T requires covered SROs to provide the Commission with FormR31 submissions for the months of September2003 until June 2004, inclusive. As discussed above, this rulemaking will cause the covered SROs and designated clearing agencies to incur certain paperwork costs in tabulating and reporting to the Commission the data required by Form R31.<sup> 174 </sup> The Commission estimates that the covered SROs and designated clearing agencies will incur a burden of 1445 staff hours for initial development, 252 staff hours per year to submit FormR31 on a monthly basis, and 200 staff hours to comply with temporary Rule31T. The Commission also estimates that one designated clearing agency, NSCC, will incur a monthly financial cost of $1000 for systems maintenance to comply with Rule31.
+
+In addition, the Commission believes that certain covered exchanges may incur additional costs to develop new methods for allocating Section31 fees among their members.<sup> 175 </sup> NYSE and Amex require their members to self-report the aggregate dollar amount of their covered sales and the corresponding Section31 fees due based on that volume. The other equities exchanges impose fees on their members based on the sales of securities that the exchange reports to the consolidated tape. Since the rules adopted here base the calculation of Section31 fees largely on clearing data, either or both of the existing methods for allocating Section31 fees among members of the equities exchanges could yield an amount that differs from that calculated by the Commission pursuant to Rule31. A covered exchange that seeks to ensure that the amount paid to the Commission is as close as possible to the amount collected from its members might wish to develop new procedures to subdivide Section31 fees among its members. Any new rule to implement such a procedure would have to be filed as a rule change pursuant to Section19(b) of the Exchange Act.<sup> 176 </sup>
+
+To assist a covered exchange in dividing the fee equitably among its members, the exchange could request that NSCC subdivide the data by exchange member so that the exchange can pass to each member its accurate pro rata portion of the total exchange fee. While subdividing the data in this manner is not required by Rule31, the Commission anticipates that covered exchanges may elect to establish such arrangements to collect from their members only the precise amount that the Commission bills them under Rule31.
+
+The Commission notes that this proposal does not impose new costs on covered SROs in the form of higher fees or assessments. The target amounts that the Commission should collect under Section 31 are set by statute; the rules approved today establish a procedure for the Commission to use to calculate the fees and assessments from each covered SRO.<h>IX. Regulatory Flexibility Act </h>
+
+Pursuant to Section 605(b) of the Regulatory Flexibility Act,<sup> 177 </sup> the Commission certified that Rules 31 and 31T and Form R31 will not have a significant economic impact on a substantial number of small businesses. This certification, including the reasons supporting the certification, were set forth in the Proposing Release.<sup> 178 </sup> The Commission solicited comments on the potential impact of Rules 31 and 31T and Form R31 on small entities in the Proposing Release. Specifically, the Commission requested that commenters describe the nature of any impact on small businesses and provide empirical data to support the extent of the impact. The Commission received no comments on this certification and is adopting it as proposed.<h>X. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 P.L. 107-289, 31 U.S.C. 3515. The Accountability Act requires each federal executive agency with appropriated budget authority of more than $25million to prepare annual audited financial statements.
+
+2 15 U.S.C. 78ee.
+
+3 15 U.S.C. 78ee(b).
+
+4 One exchange — the International Securities Exchange ("ISE") — trades only options. Three exchanges — the New York Stock Exchange ("NYSE"), the Chicago Stock Exchange ("CHX"), and the National Stock Exchange ("NSX") — trade only equity securities. Five exchanges — the American Stock Exchange ("Amex"), the Boston Stock Exchange ("BSX"), the Chicago Board Options Exchange ("CBOE"), the Pacific Exchange ("PCX"), and the Philadelphia Stock Exchange ("Phlx") — trade both options and equity securities.
+
+5 15 U.S.C. 78ee(c).
+
+6 Currently, only one national securities association — the National Association of Securities Dealers ("NASD") — is subject to this requirement. The National Futures Authority is also registered with the Commission as a national securities association but currently is not required to pay fees or assessments under Section31.
+
+7 15 U.S.C. 78ee(d).
+
+8 Paragraphs (b) and (c) of Section31 require the Commission to collect "fees" on sales of securities (other than security futures and certain other enumerated securities). Paragraph (d) of Section31 requires the Commission to collect "assessments" on transactions in security futures.
+
+9 A "round turn transaction" is one purchase and one sale of a contract of sale for future delivery. See 15 U.S.C. 78ee(d); 17 CFR 240.31(a)(15).
+
+10 Currently, only two national securities exchanges — NQLX and OneChicago — trade security futures.
+
+11 See Securities Exchange Act Release No. 49014 (January 20, 2004), 69 FR 4018 (January27, 2004) (File No. S7-05-04) ("Proposing Release").
+
+12 15 U.S.C. 78q-1.
+
+13 In addition, OCC clears and settles all transactions in security futures occurring on the two national securities exchanges that trade security futures. OCC tabulates the total number of round turn transactions in security futures and pays the Section31 assessments on behalf of these exchanges.
+
+14 Letter from Ernest A. Pittarelli, Chairman, Securities Industry Association Operations Committee, to Jonathan G. Katz, Secretary, Commission, dated March5, 2004 ("SIA Comment").
+
+15 Letter from David A. Herron, Chief Executive Officer, CHX, to Jonathan G. Katz, Secretary, Commission, dated February26, 2004 ("CHX Comment").
+
+16 Letter from Darla C. Stuckey, Corporate Secretary, NYSE, to Jonathan G. Katz, Secretary, Commission, dated March17, 2004 ("NYSE Comment").
+
+17 Letter from Amex, CBOE, ISE, OCC, PCX, and Phlx to Jonathan G. Katz, Secretary, Commission, dated March1, 2004 ("OCC Comment").
+
+18 See letter from John A. Boese, Vice President, BSE, to Jonathan G. Katz, Secretary, Commission, dated March16, 2004 ("BSE Comment").
+
+19 See infra notes 46-47 and accompanying text.
+
+20 A QSR is a member of NSCC that operates, has an affiliate that operates, or clears for a broker-dealer that operates an automated execution system where the designated clearing agency member is on the contra-side of every transaction. See Form R31 Instructions; NSCC Rule 39.
+
+21 The Commission has been informed that there are in excess of 20 ECNs trading in the OTC markets that may account for up to 50% of OTC volume.
+
+22 A "covered exchange" is "any national securities exchange on which covered sales or covered round turn transactions occur." 17 CFR 240.31(a)(5).
+
+23 A "covered association" is "any national securities association by or through any member of which covered sales or covered round turn transactions occur otherwise than on a national securities exchange." 17 CFR 240.31(a)(4).
+
+24 See 17 CFR 240.31(a)(8).
+
+25 See 17 CFR 240.31(b)(1).
+
+26 A "covered sale" is "a sale of a security, other than an exempt sale or a sale of a security future, occurring on a national securities exchange or by or through any member of a national securities association otherwise than on a national securities exchange." 17 CFR 240.31(a)(6). See also infra notes 52-54 and accompanying text (discussing "exempt sales").
+
+27 A "covered round turn transaction" is "a round turn transaction in a security future, other than a round turn transaction in a future on a narrow-based security index, occurring on a national securities exchange or by or through a member of a national securities association otherwise than on a national securities exchange." 17 CFR 240.31(a)(7).
+
+28 A covered sale occurring by or though a member of an association on a national securities exchange would create liability under Section31 for the exchange rather than the association.
+
+29 The "fee rate" is the fee rate applicable to covered sales under Section31(b) or (c) of the Exchange Act, 15 U.S.C. 78ee(b) or (c), as adjusted from time to time by the Commission pursuant to Section 31(j), 15 U.S.C. 78ee(j). See 17 CFR 240.31(a)(12).
+
+30 The "assessment charge" is the amount owed by a covered SRO for a covered round turn transaction pursuant to Section 31(d) of the Exchange Act, 15 U.S.C. 78ee(d). See 17 CFR 240.31(a)(1).
+
+31 15 U.S.C. 78ee(j).
+
+32 15 U.S.C. 78ee(d).
+
+33 15 U.S.C. 78ee(e).
+
+34 See 17 CFR 240.31(a)(10).
+
+35 See 17 CFR 240.31(a)(2).
+
+36 See 17 CFR 240.31(a)(17) and (c)(1).
+
+37 See 17 CFR 240.31(c)(3). The covered SRO may pay its Section31 bill directly or through a designated clearing agency acting as agent of the covered SRO. See infra Section II(B)(1).
+
+38 The "charge date" is the date on which a covered sale or covered round turn transaction occurs for purposes of determining the liability of a covered SRO pursuant to Section31. The charge date is: (i)the settlement date, with respect to any covered sale (other than a covered sale resulting from the exercise of an option settled by physical delivery or from the maturation of a security future settled by physical delivery) or covered round turn transaction that a covered SRO is required to report to the Commission based on data that the covered SRO receives from a designated clearing agency; (ii) the exercise date, with respect to a covered sale resulting from the exercise of an option settled by physical delivery; (iii) the maturity date, with respect to a covered sale resulting from the maturation of a security future settled by physical delivery; and (iv) the trade date, with respect to all other covered sales and covered round turn transactions. See 17 CFR 240.31(a)(3); see also infra notes 56-64 and accompanying text (discussing revisions made to definition of "charge date" in final rule).
+
+39 A "designated clearing agency" means a clearing agency registered under Section 17A of the Exchange Act, 15 U.S.C. 78q-1, that clears and settles covered sales or covered round turn transactions. See 17 CFR 240.31(a)(9).
+
+40 A "physical delivery exchange-traded option" is "a securities option that is listed and registered on a national securities exchange and settled by the physical delivery of the underlying securities." 17 CFR 240.31(a)(16).
+
+41 See infra Section II(B)(3) (revising the Commission's proposal relating to covered sales resulting from exercises of physical delivery exchange-traded options and from matured security futures).
+
+42 See 17 CFR 240.31(b)(5).
+
+43 See 17 CFR 240.31(b)(4)(i). See also infra Section II(B)(9) (discussing possible liability of a designated clearing agency).
+
+44 A "trade reporting system" is "an automated facility operated by a covered SRO used to collect or compare trade data." 17 CFR 240.31(a)(18).
+
+45 An "ex-clearing transaction" is a securities transaction that is not reported to a designated clearing agency and clears and settles otherwise than through a designated clearing agency. See Form R31 Instructions. A cash, next day, or seller's option trade that is reported to NSCC should be reported in PartI; a cash, next day, or seller's option trade that is not reported to NSCC should be reported in Part II (assuming this trade were captured in a trade reporting system). See infra Section II(B)(7).
+
+46 In paragraphs (b)(3)(ii) and (iii) of proposed Rule31, the Commission inadvertently used the term "trade comparison system" to describe the facility in which a covered association captures trade data. In Rule 31 as adopted, the Commission has corrected this to the defined term "trade reporting system."
+
+47 Currently, there is one covered association, NASD. It operates two trade reporting systems within the meaning of Rule 31, the Automated Confirmation Transaction Service ("ACT") and the Trade Reporting and Confirmation Service ("TRACS"). TRACS is the trade reporting system for the Alternative Display Facility ("ADF"), a pilot system that NASD operates for members that choose to quote or effect trades in Nasdaq securities otherwise than through Nasdaq's SuperMontage system or on an exchange. See Securities Exchange Act Release No. 46249 (July24, 2002), 67 FR 49821 (July 21, 2002) (approving ADF pilot). ACT is the trade reporting system for all other OTC equity trades that must be trade-reported pursuant to NASD rules.
+
+48 See NASD Rules 4632(e)(2), 6130(a), and 6420(e)(2).
+
+49 See NASD Rules 4632(e)(6), 4642(e)(5), and 6420(e)(8) (providing that "purchases or sales of securities effected upon the exercise of an option pursuant to the terms thereof or the exercise of any other right to acquire securities at a pre-established consideration unrelated to the current market" need not be reported to ACT).
+
+50 See NASD Rules 4632(e)(5), 4642(e)(4), 6420(e)(5), and 6920(e)(2) (providing that transactions at a price unrelated to the current market — for example, to make a gift — need not be reported to ACT). A gift of a security without consideration is not a "sale" for purpose of Sections 31(c) of the Exchange Act, 15 U.S.C. 78ee(c), and is not subject to Section 31 fees. However, if consideration is given for the securities, even if that consideration is not at the current market price, the transaction is a covered sale, provided the securities in question are registered on a national securities exchange. See 15 U.S.C. 78ee(c).
+
+51 15 U.S.C. 78ee(f).
+
+52 A "narrow-based security index" has the same meaning as in Section 3(a)(55)(B) and (C) of the Exchange Act, 15 U.S.C. 78c(a)(55)(B) and (C). See 17 CFR 240.31(a)(13).
+
+53 See Securities Exchange Act Release No. 45371 (January31, 2002), 67 FR 5199 (February5, 2002).
+
+54 See infra Section II(B)(8).
+
+55 See former Rule 31-1(g) under the Exchange Act, 17 CFR 240.31-1(g).
+
+56 BSE Comment.
+
+57 See letter from Donald F. Donahue, President, National Securities Clearing Corporation, Inc., to Jonathan G. Katz, Secretary, Commission, dated May 12, 2004 ("NSCC Comment"); NYSE Comment.
+
+58 See NYSE Comment.
+
+59 As a general matter, NASD and the equities exchanges currently use the trade date as the basis for Section31 calculations, while OCC, the options exchanges, and the security futures exchanges use the settlement date. However, for sales of securities resulting from the maturation of security futures or the exercise of physical delivery exchange-traded options, OCC bases its Section 31 calculations on the date of maturation or exercise.
+
+60 Rule 31 requires covered SROs to submit FormR31 on a monthly basis, so there will be 11 additional occasions (other than the August/September transition and any transitions caused by fee rate changes) when a discrepancy might arise as to when a sale "occurred."
+
+61 See infra Section II(B)(3).
+
+62 There must be physical delivery of the underlying securities for there to be a covered sale. The cash settlement of a derivative product does not result in a covered sale.
+
+63 Currently, Section 31 fees on these covered sales are paid by NASD and NASD collects data on these transactions from its members using a paper-based reporting system.
+
+64 The following example will demonstrate the effect of a different charge date applying during a transitional period created by a fee rate change. Assume thatequity security XYZ is traded on covered exchange E and OTC through members of covered association A, and thata fee rate increase becomes effective on April 1. Therefore, for the last three business days of March, a different fee rate will apply based on whether XYZ is traded OTC through members of association A (which will use the lower fee rate) or on exchange E (where the trades will not "occur" until they are settled in April, thus making them subject to the higher fee rate). However, the size of the difference is likely to be very small. For example, on April1, 2003, the Commission implemented the largest increase in the fee rate since Congress amended Section 31 to allow fee rate changes. The Commission increased the fee rate from $25.20 per million of sales transacted to $46.80 per million, an increase of $21.60 per million. For a covered sale having the principal amount of $25,000, this fee rate differential would result in an extra charge to B of only $0.54 ($21.60/$1 million x $25,000). This example also assumes thatexchange E reports its covered sales to NSCC for clearance and settlement,broker B is a member of both E and A, andboth E and A pass Section31 fees to their members.
+
+65 See e-mail from Thomas J. Westergard to rule-comments@sec.gov dated February23, 2004; letter from William O'Brien, Chief Operating Officer, Brut LLC, to Commission, dated March8, 2004 ("Brut Comment"); letter from Kathleen O'Mara, Associate General Counsel, NASD, to Jonathan G. Katz, Secretary, Commission, dated April30, 2004 ("NASD Comment"); BSE Comment; CHX Comment; OCC Comment; NSCC Comment; NYSE Comment; SIA Comment.
+
+66 See Proposing Release, 69 FR at 4026.
+
+67 See BSE Comment; NSCC Comment; OCC Comment.
+
+68 OCC also calculates and pays Section31 assessments to the Commission on behalf of the two security futures exchanges, although these exchanges were not signatories to the OCC Comment. In addition, since the Commission proposed Rule 31, a sixth national securities exchange — BSE — has started to trade options through its facility, the Boston Options Exchange. OCC clears and settles options transactions negotiated on BSE. BSE, like the security futures exchanges, was not a signatory to the OCC Comment.
+
+69 The BSE Comment agreed with the position taken by OCC and the other five options exchanges. In its comment, NSCC stated generally that it agreed with the view that designated clearing agencies should be able to submit payment on behalf of covered SROs but that it had not yet determined "if this is a service it could reasonably provide to a covered SRO."
+
+70 The Commission expects that a designated clearing agency will clearly indicate the amount that it is paying on behalf of each covered exchange for which it is acting as agent. If a covered exchange has requested a designated clearing agency to pay some or all of its Section 31 fees and assessments on its behalf, the Commission also expects that the covered exchange will indicate the total amount that it owes, the amount that it is submitting to the Commission directly, and the amount to be expected from a designated clearing agency.
+
+71 17 CFR 240.31(b)(1).
+
+72 See NASD Comment.
+
+73 The Commission added the words "a completed" between the words "submit" and "FormR31" in paragraph (b)(1) to emphasize that only a submission that includes all relevant data and that has been properly executed complies with the filing requirements of new Rules 31 and 31T.
+
+74 See Proposing Release, 69 FR at 4022, n.37. The other billing period allows for two and a half months between the close of the period (December 31) and the due date for payment (March 15).
+
+75 In addition, one commenter stated that ten business days would be enough time under the proposal, but that "[t]he real burden would be the daily reconciliation required between the information reported back to the exchanges by NSCC and the exchange's own trade reporting systems." BSE Comment. This comment is addressed in Section VII(D)(1)(b), infra .
+
+76 For example, assume that X is long 10 put options and Y is short 10 put options, and that X and Y hold accounts at OCC and NSCC. The security underlying the options is ABC, the strike price is $20, and the options are settled through physical delivery. X elects to exercise the put options and the exercise is assigned to Y. Y now must buy from X 1000 shares of ABC (10 puts x 100 shares underlying each put) for a price of $20,000 ($20/share x 1000 shares). OCC instructs NSCC to move $20,000 from Y's NSCC account to X's NSCC account and to move 1000 shares of ABC from X's NSCC account to Y's NSCC account. OCC also deducts a fee from X's OCC account in the amount of $20,000 times the Section31 fee rate in effect when the exercise occurs.
+
+77 See Proposing Release, 69 FR at 4022.
+
+78 OCC stated that this is because the exercise of an option takes place through instructions communicated by the holder of the option to OCC, rather than by instructions given to an exchange. See OCC Comment.
+
+79 See paragraph (b)(3)(i) of proposed Rule 31.
+
+80 See NASD Comment; OCC Comment.
+
+81 The following example will illuminate how new paragraph (b)(4)(ii) of Rule31 will operate. Assume that OCC is required by Rules 31 and 31T to provide exchange E with clearing data to complete its FormR31 for September 2003. Assume also that exchange E in August 2003 accounted for 10% of the aggregate dollar amount of covered sales of options that settled by physical delivery. For September 2003, OCC should allocate to exchange E 10% of the aggregate dollar amount of covered sales resulting from the exercise of physical delivery exchange-traded options and having a charge date in September 2003. For purposes of the pro rata allocation, exchange E's volume of cash-settled options is irrelevant. A cash-settled option cannot lead to a covered sale of the underlying securities, so the volume of cash-settled options should not be included in the proxy for exercise volume.
+
+82 The remaining portions of paragraphs (b) and (c) have been renumbered accordingly.
+
+83 Brut stated that it often submits trades to ACT at the request of clients that utilize the risk-management functionality that ACT offers. See Brut Comment.
+
+84 The Commission notes that neither Section 31 of the Exchange Act nor any Commission rule imposes fees on Brut or any other broker-dealer for covered sales. Section 31 does not give the Commission authority to assess fees on any broker-dealer. These fees are imposed on Brut by the SRO(s) of which it is a member. See infra Section IV.
+
+85 See 17 CFR 240.31(b)(2).
+
+86 See 17 CFR 240.31(b)(3).
+
+87 ITS is a National Market System plan approved by the Commission pursuant to Section 11A of the Exchange Act, 15 U.S.C. 78k-1, and Rule 11Aa3-2 thereunder, 17 CFR 240.11Aa3-2. ITS was developed to facilitate intermarket trading in exchange-listed equity securities based on the current quotation information emanating from the linked markets. Securities eligible for trading through ITS include securities listed or traded pursuant to unlisted trading privileges on NYSE, Amex, or a regional exchange that substantially meets the listing requirements of NYSE or Amex. ITS enables a broker-dealer that is physically present in one market center to execute orders, as principal or agent, in an ITS security at another market center.
+
+88 See letter from Annette L. Nazareth, Director, Division, Commission, to Paul O'Kelly, Executive Vice President, CHX, and James Shelton, Associate Director, NASD, dated March5, 2001.
+
+89 See 15 U.S.C. 78 l (f) (setting forth the circumstances in which a national securities exchange may trade securities pursuant to UTP). See also Securities Exchange Act Release No. 45081 (November19, 2001), 66 FR 59273 (November27, 2001) (extending UTP eligibility to all Nasdaq securities).
+
+90 At the time of the no-action letter, the relevant Nasdaq execution system was SelectNet. However, Nasdaq has since replaced SelectNet with SuperMontage. See Securities Exchange Act Release No. 43863 (January19, 2001), 66 FR 8020 (January26, 2001) (approving SuperMontage).
+
+91 15 U.S.C. 78ee(b).
+
+92 Any such arrangement would have to be established pursuant to Section19(b) of the Exchange Act, 15 U.S.C. 78s(b), and Rule 19b-4 thereunder, 17 CFR 240.19b-4.
+
+93 See Proposing Release, 69 FR at 4025.
+
+94 The Commission notes that, in a previous case where it granted an exemption from Section 31, the amounts in question were smaller and the costs of tracking the transactions involved much greater. See Securities Exchange Act Release No. 45371 (January31, 2002), 67 FR 5199 (February2, 2002). In this matter, the Commission exercised its authority under Section 31(f) of the Exchange Act, 15 U.S.C. 78ee(f), to exempt sales of options on narrow-based security indexes from Section 31 fees. In the absence of the exemption, an exchange trading such options would have to monitor the value of the underlying indexes on almost a moment-by-moment basis and pay Section 31 fees on option sales only when an index fell under the definition of "narrow-based." The Commission noted that the fees paid by exchanges for all sales of options on indexes that were, or in the near future might become, narrow-based was below $35,000. The Commission concluded that an exemption was warranted "[i]n light of currently low dollar volume of sales of options on narrow-based security indexes and the resources that exchanges and associations must devote to monitoring the narrow-based status of the underlying indexes." 67 FR at 5200. However, the Commission noted that, to the extent that the dollar volume of sales of options on narrow-based security indexes might increase, the Commission might reevaluate whether the exemption were warranted. See id.
+
+95 In later years, however, exempting these sales would result in a higher fee rate on the remaining non-exempt sales. See 15 U.S.C. 78ee(j) (requiring the Commission to adjust the fee rate to attain the target offsetting collection amount).
+
+96 Currently, the fee rate is $23.40 per million dollars of covered sales. See Securities Exchange Act Release No. 49332 (February27, 2004), 69 FR 10278 (March4, 2004) (making mid-year adjustment to fee rate). Absent an exemption, CHX would owe the Commission $386.10 per day for this $16.5 million of covered sales ($16.5million/day x $23.40/million) or approximately $8,494.20 per month (assuming 22 business days/month x $386.10/day).
+
+97 See BSE Comment; CHX Comment; NSCC Comment; NYSE Comment.
+
+98 These include "flips," "step-outs," and "correspondent clearing transactions."
+
+99 15 U.S.C. 78ee(f).
+
+100 15 U.S.C. 78s(b)(2).
+
+101 See Securities Exchange Act Release No. 17501 (January29, 1981), 46 FR 10891 (February 4, 1981).
+
+102 Securities Exchange Act Release No. 41208 (March24, 1999), 64 FR 15386 (March31, 1999) ("Second NASD Riskless Principal Order").
+
+103 Second NASD Riskless Principal Order, 64 FR at 15388.
+
+104 See Proposing Release, 69 FR at 4024.
+
+105 17 CFR 240.31(b)(4)(i).
+
+106 See Proposing Release, 69 FR at 4023.
+
+107 NSCC Comment.
+
+108 See 69 FR at 4025.
+
+109 17 CFR 240.30T(a)(1)(ii).
+
+110 17 CFR 240.30T(a)(1)(iii).
+
+111 17 CFR 240.30T(a)(1)(i).
+
+112 See 17 CFR 240.30T(c).
+
+113 See 17 CFR 240.30T(d).
+
+114 See 17 CFR 240.30T(b).
+
+115 See 17 CFR 240.30T(f).
+
+116 See CHX Comment; NASD Comment; NSCC Comment; NYSE Comment.
+
+117 NASD Comment.
+
+118 See CHX Comment; NYSE Comment.
+
+119 See infra Section VIII.
+
+120 Currently, all transactions in options or security futures that occur on a national securities exchange are cleared and settled by OCC. OCC already has in place procedures to filter out exempt transactions listed in former Rule 31-1 under the Exchange Act, 17 CFR 240.31-1. Therefore, the Commission believes that OCC should, with only minor system modifications, be able to tabulate the trade data required by the covered SROs for PartI of FormR31.
+
+121 See 15 U.S.C. 78ee(b) and (c); 17 CFR 240.31(a)(11)(vii).
+
+122 If the terms of the trade were adjusted, the covered SRO would send a third record to the clearing agency with the correct trade data. If the trade were merely canceled, no third record would be sent.
+
+123 For example, assume A sells to B 100 shares of XYZ stock and this trade was reported to NSCC in error. A covered exchange could obtain the same effect as a reversal message by reporting a second trade in which B sells to A 100 shares of XYZ stock.
+
+124 See supra Section II(B)(11).
+
+125 See supra Section II(B)(4).
+
+126 A covered association also could send clearing-only reports to NSCC, but the procedure created by Rule 31 does not rely on clearing data for covered associations. Therefore, Rule 31 does not require NSCC to segregate a covered association's clearing-only reports for trades that were in fact executed on another SRO from the trades that did occur by or through the association's members otherwise than on an exchange.
+
+127 See supra Section II(B)(7).
+
+128 See supra Section II(B)(8).
+
+129 See NASD Comment; NYSE Comment; SIA Comment.
+
+130 See SIA Comment.
+
+131 See NASD Comment.
+
+132 See NYSE Comment.
+
+133 See 15 U.S.C. 78ee(b) and (c).
+
+134 See 15 U.S.C. 78ee(d).
+
+135 See 15 U.S.C. 78ee(a).
+
+136 The SIA Comment discussed three additional reasons for the collection discrepancies: (1)double-counting of OTC odd-lot transactions; (2) orders executed partly on an exchange but partly OTC but confirmed to the customer at a single average price; and (3)the several layers of billing on ECNs and other mechanisms designed to provide trading anonymity that are difficult to reconcile.
+
+137 See 17 CFR 200.30-3(a)(82).
+
+138 5 U.S.C. 553(b)(A).
+
+139 15 U.S.C. 78c(f).
+
+140 15 U.S.C. 78w(a)(2).
+
+141 15 U.S.C. 78ee(j).
+
+142 See 69 FR at 4026.
+
+143 BSE Comment.
+
+144 See infra Section VII(D)(1).
+
+145 See OCC Comment.
+
+146 See supra Section II(B)(8).
+
+147 See supra Sections II(B)(4) and (5).
+
+148 44 U.S.C. 3501 et seq.
+
+149 See 44 U.S.C. 3512(a).
+
+150 See 69 FR at 4028-29.
+
+151 See BSE Comment; CHX Comment; NYSE Comment.
+
+152 See Proposing Release, 69 FR at 4027.
+
+153 See supra Section II(B)(3).
+
+154 The Commission originally estimated that this burden would be 70 staff hours (7exchanges x 10 hours/exchange). See Proposing Release, 69 FR at 4027. However, since the Commission issued the Proposing Release, a sixth national securities exchange — BSE — began trading options. As with the other options exchanges, OCC calculates, collects, and pays all of the Section31 fees on BSE's behalf. Therefore, the Commission is increasing this burden estimate to reflect the addition of BSE.
+
+155 See Proposing Release, 69 FR at 4027.
+
+156 BSE Comment.
+
+157 See Proposing Release, 69 FR at 4027.
+
+158 See supra Section II(B)(3).
+
+159 Currently, three exchanges — CHX, NSX, and NYSE — trade only equity securities, which are cleared and settled by NSCC. Three exchanges — ISE, NQLX, and OneChicago — trade securities that are cleared and settled only by OCC. Five exchanges — Amex, BSE, CBOE, PCX, and Phlx — trade both equities and options, thus requiring the clearance and settlement services of both NSCC and OCC.
+
+160 This total of 12.0 burden hours is calculated as follows: (3 OCC-only exchanges x 0.5 hour/exchange =1.5hours) + (3NSCC-only exchanges x 1.0 hour/exchange = 3.0hours) + (5 dual exchanges x 1.5 hours/exchange = 7.5hours).
+
+161 See 69 FR at 4028.
+
+162 See supra Section II(B)(3).
+
+163 In addition, the Commission estimates that one designated clearing agency, NSCC, will incur additional financial burdens of $1000 per month or $12,000 per year.
+
+164 See Proposing Release, 69 FR at 4028.
+
+165 The first FormR31 required by Rule31 also is due by August 13, 2004 (the tenth business day of August) and will cover the month of July 2004.
+
+166 See Proposing Release, 69 FR at 4028.
+
+167 See CHX Comment; NYSE Comment.
+
+168 17 CFR 240.17a-1.
+
+169 17 CFR 240.17a-6.
+
+170 See 69 FR at 4029-30.
+
+171 NASD Comment.
+
+172 See SIA Comment.
+
+173 15 U.S.C. 78ee(j).
+
+174 See supra Section VII.
+
+175 See NYSE Comment (stating that NYSE would have to amend its Rule 440H).
+
+176 15 U.S.C. 78s(b).
+
+177 5 U.S.C. 605(b).
+
+178 See 69 FR at 4030.

@@ -1,0 +1,459 @@
+https://www.sec.gov/rules/final/2006/34-54106.pdf
+
+I.0.0.0 Introduction
+
+	I.A.0.0 Background
+
+	I.B.0.0 Overview of Adopted Rules
+
+		I.B.1.0 CEA Rule 41.21 and Exchange Act Rule 6h-2
+
+		I.B.2.0 CEA Rule 41.15 and Exchange Act Rule 3a55-4
+
+II.0.0.0 Discussion of Final Rules
+
+	II.A.0.0 Modification of the Statutory Listing Standards Requirements for Security Futures Products
+
+	II.B.0.0 Rules Excluding Certain Debt Securities Indexes from the Definition of Narrow-Based Security Index
+
+		II.B.1.0 Index composed solely of debt securities
+
+		II.B.2.0 Number and weighting of index components
+
+		II.B.3.0 Issuer or security eligibility criteria
+
+		II.B.4.0 Minimum principal amount outstanding
+
+		II.B.1.0 meet the original $250,000,000 threshold; or (2) meet the following two-part test: (a) the security has a remaining principal amount outstanding of $200,000,000; and (b) the issuer of the security has outstanding securities that are notes, bonds, debentures, or evidences of indebtedness having a total remaining principal amount of at least $1
+
+		II.B.5.0 De minimis exception
+
+		II.B.6.0 Indexes that Include Exempted Securities
+
+	II.C.0.0 Tolerance Period
+
+III.0.0.0 Listing Standards for Security Futures on Debt Securities
+
+III.0.0.0 Paperwork Reduction Act CFTC:
+
+IV.0.0.0 Costs and Benefits of Final Rules CFTC:
+
+		IV.C.3.0 price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC may, in its discretion, give greater weight to any one of the five enumerated areas of concern and may, in its discretion, determine that,
+
+	IV.A.0.0 Benefits
+
+	IV.B.0.0 Costs
+
+V.0.0.0 Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+VI.0.0.0 Regulatory Flexibility Act Certifications CFTC:
+
+VII.0.0.0 Statutory Authority
+
+VIII.0.0.0 Text of Adopted Rules List of Subjects
+
+
+
+<END TABLE OF CONTENTS>
+
+COMMODITY FUTURES TRADING COMMISSION 17 CFR Part <sup>41</sup>
+
+RIN 3038 AB86
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
+
+[Release No. 34-54106; File No. S7-07-06] RIN 3235-AJ54
+
+Joint Final Rules: Application of the Definition of Narrow-Based Security Index to Debt Securities Indexes and Security Futures on Debt Securities
+
+AGENCIES: Commodity Futures Trading Commission and Securities and Exchange Commission.
+
+ACTION: Joint final rules.
+
+SUMMARY: The Commodity Futures Trading Commission ("CFTC") and the Securities and Exchange Commission ("SEC") (together, the "Commissions") are adopting a new rule and amending an existing rule under the Commodity Exchange Act ("CEA") and adopting two new rules under the Securities Exchange Act of 1934 ("Exchange Act"). The rules will modify the applicable statutory listing standards requirements to permit security futures to be based on individual debt securities or a narrow-based security index composed of such securities. In addition, these rules and rule amendment will exclude from the definition of "narrow-based security index" debt securities indexes that satisfy specified criteria. A future on a debt securities index that is excluded from the definition of narrow-based security index will not be a security future and may trade subject to the exclusive jurisdiction of the CFTC.
+
+EFFECTIVE DATE: August 14, 2006.
+
+FOR FURTHER INFORMATION CONTACT:
+
+CFTC: Elizabeth L. Ritter, Deputy General Counsel, at 202/418-5052, or Julian E. Hammar, Counsel, at 202/418-5118, Office of General Counsel; or Thomas M. Leahy, Jr., Associate Director, Product Review, at 202/418-5278, Division of Market Oversight, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21 st Street, NW, Washington, DC 20581.
+
+SEC: Yvonne Fraticelli, Special Counsel, at 202/551-5654; or Leah Mesfin, Special Counsel, at 202/551-5655, Office of Market Supervision, Division of Market Regulation, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-6628. SUPPLEMENTARY INFORMATION:
+
+The Commissions are adopting Rule 41.15 and amending Rule 41.21 under the CEA, <sup>1</sup> and adding Rule 3a55-4 and Rule 6h-2 under the Exchange Act. <sup>2</sup>
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+<h>A. Background</h>
+
+Futures contracts on single securities and on narrow-based security indexes (collectively, "security futures") are jointly regulated by the CFTC and the SEC. <sup>3</sup> The definition of narrow-based security index under both the CEA and the Exchange Act sets forth the criteria for such joint regulatory jurisdiction. Futures on indexes that are not narrow-based security indexes are subject to the exclusive jurisdiction of the CFTC. Under the CEA and the Exchange Act, an index is a narrow-based security index if itmeets any one of four criteria. <sup>4</sup> Further, the CEA and Exchange Act provide that, notwithstanding the statutory criteria, an index is not a narrow-based security index if a contract of sale for future delivery on the index is traded on or subject to the rules of a board of trade and meets such requirements as are jointly established by rule, regulation, or order of the Commissions. <sup>5</sup>
+
+The statutory definition of narrow-based security index was designed primarily for indexes composed of equity securities, not debt securities. <sup>6</sup> For example, while three criteria in the narrow-based security index definition evaluate the composition and weighting of the securities in the index, another criterion evaluates the liquidity of an index's component securities. The liquidity criterion in the statutory definition of narrow- based security index, which is important for indexes composed of common stock, is not an appropriate criterion for indexes composed of debt securities because debt securities generally do not trade in the same manner as equity securities. In particular, because few debt securities meet the ADTV criterion in the statutory definition of narrow-based security index, most indexes composed of debt securities, regardless of the number or(3) any group of five of its component securities together comprise more than 60% of its weighting; or (4) the lowest weighted component securities comprising, in the aggregate, 25% of the index's weighting have an aggregate dollar value of average daily trading volume ("ADTV") of less than $50 million (or in the case of an index with 15 or more component securities, $30 million). See Section 1a(25)(A)(i)-(iv) of the CEA, 7 U.S.C. 1a(25)(A)(i)-(iv); Section 3(a)(55)(B)(i)-(iv) of the Exchange Act, 15 U.S.C. 78c(a)(55)(B)(i)-(iv).amount of underlying component securities in the index, would fall within the statutory definition of narrow-based security index.
+
+On April 10, 2006, the Commissions proposed rules <sup>7</sup> that would exclude debt securities indexes that satisfied certain criteria from the statutory definition of narrow- based security index. Futures on debt securities indexes that satisfy the criteria of the exclusion would not be security futures and thus would be subject to the exclusive jurisdiction of the CFTC. In addition, the proposed rules and rule amendment would modify the statutory listing standards to permit the trading of security futures on single debt securities and narrow-based security indexes composed of debt securities.
+
+The Commissions received comment letters on the proposed rules from two futures exchanges, the Chicago Mercantile Exchange ("CME") and the Board of Trade of the City of Chicago ("CBOT"), <sup>8</sup> and from the Futures Industry Association ("FIA"). <sup>9</sup> All of the commenters generally supported the Commissions' proposal. The CME and the CBOT requested the opportunity for public comment on the listing standards that wouldapply to security futures on debt securities and indexes composed of debt securities. <sup>10</sup> In addition, the CBOT suggested that the Commissions reduce the minimum remaining outstanding principal amount requirement from $250,000,000 to $100,000,000. <sup>11</sup>
+
+The FIA asked the Commissions to confirm that: (1) a debt security index that meets the criteria in the rules would be broad-based even if the index included products or instruments that are not securities; and (2) in a debt securities index that includes both exempted securities and securities that are not exempted securities, it would be necessary to take into account only securities that are not exempted securities in determining compliance with the criteria in the rules. <sup>12</sup> These comments are discussed more fully below.
+
+<h>B. Overview of Adopted Rules</h>
+
+After careful consideration, the Commissions have determined to adopt the rules and rule amendment largely as proposed, with changes to address certain issues raised by the commenters. The Commissions believe it is appropriate to exclude certain debt securities indexes from the statutory definition of narrow-based security index using criteria that differ in certain respects from the criteria applicable to indexes composed of equity securities. The Commissions believe that such modified criteria for debt securities indexes are necessary or appropriate in the public interest and consistent with the protection of investors because the criteria recognize the differences between equity and debt and would permit security futures to be based on debt securities indexes. <sup>13</sup> Inparticular, the Commissions believe that the modified criteria addressing diversification and public information about, and market familiarity with, the issuers of the securities underlying a debt securities index will reduce the likelihood that a future on such an index would be readily susceptible to manipulation and thus are more appropriate criteria for debt securities indexes.
+
+<h>1. CEA Rule 41.21 and Exchange Act Rule 6h-2</h>
+
+The Commissions are amending CEA Rule 41.21 and adopting Exchange Act Rule 6h-2 to modify the statutory listing standards for security futures to permit the trading of security futures based on debt securities that are notes, bonds, debentures, or evidences of indebtedness and indexes composed of such securities.
+
+<h>2. CEA Rule 41.15 and Exchange Act Rule 3a55-4</h>
+
+The Commissions are adopting CEA Rule 41.15 and Exchange Act Rule 3a55-4, which exclude from the definition of narrow-based security index any debt securities index that satisfies certain criteria. Specifically, CEA Rule 41.15 and Exchange Act Rule 3a55-4 provide that a debt securities index will not be considered a narrow-based security index for purposes of Section 3(a)(55) of the Exchange Act and Section 1a(25) of the CEA if: (1) each index component is a security that is a note, bond, debenture, or evidence of indebtedness; (2) the index is comprised of more than nine securities issued by more than nine non-affiliated issuers; (3) the securities of any issuer included in the index do not comprise more than 30% of the index's weighting; (4) the securities of any five non-affiliated issuers included in the index do not comprise more than 60% of the index's weighting; and (5) the issuer of a security included in an index satisfies certain requirements.
+
+For securities that are not exempted securities, CEA Rule 41.15 and Exchange Act Rule 3a55-4 require that the issuer of a component security: (1) be required to file reports pursuant to section 13 or 15(d) of the Exchange Act; (2) have worldwide market value of its outstanding common equity held by non-affiliates of $700 million or more;(3) have outstanding securities that are notes, bonds, debentures, or evidences of indebtedness with a total remaining principal amount of at least $1 billion; or (4) be a government of a foreign country or a political subdivision of a foreign country.
+
+In addition, CEA Rule 41.15 and Exchange Act Rule 3a55-4 require each security of an issuer included in an index to have a total remaining principal amount outstanding of at least $250,000,000. Alternatively, to respond to the CBOT's comment, the final rule permits a municipal security in the index to have only $200,000,000 total remaining principal amount outstanding if the issuer of such municipal security has outstanding debt securities with a total remaining principal amount of at least $1 billion.
+
+CEA Rule 41.15 and Exchange Act Rule 3a55-4 provide a de minimis exception from the issuer eligibility and minimum outstanding principal balance criteria if a predominant percentage of the securities comprising the index's weighting satisfy all of the applicable criteria.
+
+In addition, in response to the FIA's comments, the Commissions are adding an alternative provision that would permit exempted securities that are debt securities (other than municipal securities) to be excluded from an index in determining whether such index is not a narrow-based security index under the rules.
+
+Finally, CEA Rule 41.15 and Exchange Act Rule 3a55-4 contain a definition of "control" solely to assess affiliation among issuers for purposes of determining satisfaction of the criteria established in the rules.
+
+<h>II. Discussion of Final Rules</h>
+
+<h>A. Modification of the Statutory Listing Standards Requirements for Security Futures Products</h>
+
+The Commodity Futures Modernization Act of 2000 <sup>14</sup> amended the Exchange Act and the CEA by, among other things, establishing the criteria and requirements for listing standards for securities on which security futures products can be based. The Exchange Act <sup>15</sup> provides that it is unlawful for any person to effect transactions in security futures products that are not listed on a national securities exchange or a national securities association registered pursuant to Sections 6(a) or 15A(a), respectively, of the Exchange Act. <sup>16</sup> The Exchange Act <sup>17</sup> further provides that such exchange or association is permitted to trade only security futures products that conform with listing standards filed with the SEC and that meet the criteria specified in Section 2(a)(1)(D)(i) of the CEA. <sup>18</sup> The CEA <sup>19</sup> states that no board of trade shall be designated as a contract market with respect to, or registered as a derivatives transaction execution facility ("DTEF") for, any contracts of sale for future delivery of a security futures product unless the board of trade and the applicable contract meet the criteria specified in that section. Similarly, the
+
+Exchange Act <sup>20</sup> requires that the listing standards filed with the SEC by an exchange or association meet specified requirements.
+
+In particular, the Exchange Act <sup>21</sup> and the CEA <sup>22</sup> require that, except as otherwise provided in a rule, regulation, or order, a security future must be based upon common stock and such other equity securities as the Commissions jointly determine appropriate. A security future on a debt security or a debt securities index currently would not satisfy this requirement.
+
+The Exchange Act and the CEA, however, provide the Commissions with the authority to jointly modify this requirement to the extent that the modification fosters the development of fair and orderly markets in security futures products, is necessary or appropriate in the public interest, and is consistent with the protection of investors. <sup>23</sup> Pursuant to this authority, the Commissions have determined that it is appropriate in the public interest and consistent with the protection of investors to amend CEA Rule 41.21 and adopt Exchange Act Rule 6h-2 to permit the trading of security futures based on debt securities that are notes, bonds, debentures, or evidences of indebtedness and indexes composed of such securities. This modification is necessary to allow the listing and trading of new and potentially useful financial products.
+
+Security futures on debt securities or indexes composed of debt securities must also conform with the listing standards of the national securities exchange or national securities association on which they trade. The Exchange Act requires, among otherthings, that such listing standards be no less restrictive than comparable listing standards for options traded on a national securities exchange or national securities association. <sup>24</sup> In addition, the issuer of any security underlying the security future, including each component security of a narrow-based security index, would have to be subject to the reporting requirements of the Exchange Act due to the requirement that the security be registered under Section 12 of the Exchange Act. <sup>25</sup> The listing standards for a security future also must require that trading in the security future not be readily susceptible to manipulation of the price of such security future, nor to causing or being used in the manipulation of the price of an underlying security, option on such security, or option on a group or index including such securities. <sup>26</sup> Because these listing standards will continue to provide important investor protections and safeguards against such products being readily susceptible to manipulation or causing or being used in the manipulation of any underlying security or option on such underlying security or securities, the Commissions believe that new Exchange Act Rule 6h-2 and the amendments to CEA Rule 41.21 will foster the development of fair and orderly markets in security futures products, are appropriate in the public interest, and are consistent with the protection of investors.
+
+<h>B. Rules Excluding Certain Debt Securities Indexes from the Definition of Narrow-Based Security Indexof the Exchange Act, 15 U.S.C. 78f(h)(3)(A).</h>
+
+The Commissions are adopting new CEA Rule 41.15 and Exchange Act Rule 3a55-4, which exclude from the statutory definition of narrow-based security index any debt securities index that satisfies certain criteria. A futures contract on such an index would not be a security future and thus would be subject to the exclusive jurisdiction of the CFTC. The Commissions believe that the criteria in the rules, including the requirements relating to the maximum weighting and concentration of securities of an issuer in an index, the eligibility conditions for issuers, and the minimum remaining outstanding principal amount requirement should reduce the likelihood that a future on such an index would be readily susceptible to manipulation or could be used to manipulate the market for the underlying debt securities. <sup>27</sup>
+
+<h>1. Index composed solely of debt securities</h>
+
+The new rules require that, for an index to qualify for the exclusion from the definition of "narrow-based security index," each component security of the index must be a security <sup>28</sup> that is a note, bond, debenture, or evidence of indebtedness. <sup>29</sup> Further, none of the securities of an issuer included in the index may be an equity security, asdefined in Section 3(a)(11) of the Exchange Act and the rules adopted thereunder. <sup>30</sup> Thus, any security index that includes an equity security will not qualify for the exclusion for indexes composed of debt securities. <sup>31</sup>
+
+The FIA asked the Commissions to confirm that a debt security index that meets the criteria in the rules would be broad-based even if the index included products or instruments that are not securities. <sup>32</sup> The Commissions' proposed rules required that each component security of an index be a security that is a note, bond, debenture, or evidence of indebtedness. The Commissions did not propose or solicit comment on whether, and to what extent, indexes that include instruments that are not securities should be excluded from the definition of narrow-based security index and have not, to date, considered the regulatory implications of so excluding futures on indexes composed of different product classes. Accordingly, the Commissions are adopting these requirements as proposed without permitting indexes under the criteria to include products or instruments that are not securities.
+
+<h>2. Number and weighting of index components</h>
+
+The exclusion also includes conditions relating to the minimum number of securities of non-affiliated issuers that must be included in an index and the maximumpermissible weighting of securities in the index. The new rules provide that, for an index to qualify for the exclusion:
+
+The index must be composed of more than nine securities issued by more than nine non-affiliated issuers; <sup>33</sup>
+
+The securities of any issuer cannot comprise more than 30% of the index's weighting; <sup>34</sup> and
+
+The securities of any five non-affiliated issuers cannot comprise more than 60% of the index's weighting. <sup>35</sup>
+
+The foregoing conditions are virtually identical to the criteria contained in the Exchange Act and the CEA that apply in determining if a security index would not be a narrow- based security index. <sup>36</sup>
+
+In addition, the new rules provide that the term "issuer" includes a single issuer or group of affiliated issuers. <sup>37</sup> An issuer would be affiliated with another issuer for purposes of the exclusion if it controls, is controlled by, or is under common control with, that other issuer. The rules define control, solely for purposes of the exclusion, to mean ownership of 20% or more of an issuer's equity or the ability to direct the voting of 20% or more of an issuer's voting equity. <sup>38</sup> The definition of control will apply solely to CEA
+
+Rule 41.15 and Exchange Act Rule 3a55-4 and is designed to provide a clear standard for determining control and affiliation for purposes of the exclusion. Determining whether issuers are affiliated is important in assessing whether an index satisfies the conditions in the rules adopted today because the debt securities of all affiliated issuers included in an index must be aggregated.
+
+The number and weighting criteria require that an index meet minimum diversification conditions with regard to both issuers and the underlying securities. These criteria provide that for purposes of weighting, all debt securities of all affiliated issuers included in the index are aggregated so that the indexes are not concentrated in the securities of a small number of issuers and their affiliates. These criteria are important elements of the Commissions' determination that the rules are consistent with the protection of investors because they reduce the likelihood that a future on such a debt securities index would be overly dependent on the price behavior of a component single security, small group of securities or issuers, or group of securities issued by affiliated parties.
+
+<h>3. Issuer or security eligibility criteria</h>
+
+New CEA Rule 41.15 and Exchange Act Rule 3a55-4 require that, for an index to qualify for the exclusion from the definition of narrow-based security index, the issuer of each component security that is not an exempted security under the Exchange Act and the rules thereunder must satisfy one of the following:
+
+Act contain a 20% threshold for purposes of determining a relationship between two or more entities. See , e.g. , Exchange Act Rule 13d-1(c), 17 CFR240.13d-1(c); Securities Exchange Act Release No. 39538 (January 12, 1998), 63
+
+FR 2854 (January 16, 1998). See also Rule 3-05 under Regulation S-X, 17 CFR210.3-05.
+
+The issuer is required to file reports pursuant to Sections 13 or 15(d) of the Exchange Act; <sup>39</sup>
+
+The issuer has a worldwide market value of its outstanding common equity held by non-affiliates of $700 million or more; or
+
+The issuer has outstanding securities that are notes, bonds, debentures, or evidences of indebtedness having a total remaining principal amount of at least $1 billion.
+
+These issuer eligibility criteria are aimed at conditioning the exclusion for a debt securities index from the definition of narrow-based security index on the public availability of information about the issuers of the securities included in the index. For example, an issuer that is required to file reports pursuant to Sections 13 or 15(d) of the Exchange Act <sup>40</sup> makes regular and public disclosure through its Exchange Act filings. For issuers that are not required to file reports with the SEC under the Exchange Act, the Commissions similarly believe that issuers having worldwide equity market capitalization of $700 million or $1 billion in outstanding debt are likely to have public information available about them. <sup>41</sup> Accordingly, the issuer eligibility criteria are designed to provide that, other than with respect to exempted securities in the index, the debt securities index includes debt securities of issuers for which public information is available, thereby reducing the likelihood that an index qualifying for the exclusion would be readily susceptible to manipulation.
+
+Under the rules adopted by the Commissions today, the issuer eligibility criteria do not apply to index components that are exempted securities, as defined in the Exchange Act, <sup>42</sup> or to an issuer that is a government of a foreign country or a political subdivision of a foreign country. The Commissions believe that it is appropriate to allow indexes qualifying for the exclusion to include exempted securities and the debt obligations of foreign countries and their political subdivisions. Current law permits futures on individual exempted debt securities, other than municipal securities, and on certain foreign sovereign debt obligations. <sup>43</sup> Because a future may be based on one of these exempted debt securities, the Commissions believe that it is reasonable and consistent with the purposes of the CEA and the Exchange Act to allow futures to be based on indexes composed of such debt securities.
+
+<h>4. Minimum principal amount outstanding</h>
+
+The rules require that, for a securities index to qualify for the exclusion, each index component, other than a municipal security in certain cases, must have a total remaining principal amount of at least $250,000,000. Although trading in most debt securities is limited, trading volume is generally larger for debt securities with$250,000,000 or more in total remaining principal amount outstanding. <sup>44</sup> The new rules do not require that the securities included in the index have an investment grade rating. Nor do the rules require particular trading volume, due to the generally lower trading activity in the debt markets compared to the equity markets. Trading activity in a debt security generally increases as the principal amount of the debt security increases.
+
+However, non-investment-grade debt securities generally trade more frequently than investment-grade debt securities. As a result of the type of trading activity that occurs in the debt markets, the Commissions do not believe that trading volume is an appropriate criterion for determining whether a debt securities index is narrow-based. Instead, the Commissions are adopting a minimum principal amount criterion which is intended, together with the other criteria in the rules adopted today geared to the debt securities market, to provide a substitute criterion for trading volume. Accordingly, the Commissions believe that including a minimum remaining principal amount criterion, together with the other criteria, will decrease the likelihood that a future on an index qualifying for the exclusion from the definition of narrow-based security index would be readily susceptible to manipulation.
+
+The CBOT urged the Commissions to reduce the minimum remaining outstanding principal amount threshold from $250,000,000 to $100,000,000. <sup>45</sup> The CBOT presented data indicating that only a small number of municipal debt securities are issued in principal amounts exceeding $250,000,000 and argued that it would be difficult to construct an index qualifying for the exclusion composed of municipal securities. The
+
+CBOT believed a $100,000,000 threshold was appropriate because it would make it more likely that an exchange would be able to identify a sufficient number of municipal debt securities to be included in an index. The CBOT did not provide any data regarding other debt securities or any data or arguments to demonstrate how its proposed $100,000,000 threshold was consistent with the principle that an index based on municipal debt securities meeting its threshold would not be readily susceptible to manipulation.
+
+The Commissions intend the $250,000,000 threshold to be a proxy for the statutory trading volume criterion for equity securities. As discussed above, trading activity in a debt security generally increases as the principal amount of the debt security increases. The $250,000,000 threshold is not designed to maximize the number of securities that may be included in an index qualifying for an exclusion from the definition of narrow-based security index. Rather, by limiting an index primarily to more liquid securities, this criterion increases the likelihood that information about such securities will be publicly available and that the securities will have a larger market following. The$250,000,000 threshold, together with the other criteria, is designed to reduce the likelihood that the index would be readily susceptible to manipulation.
+
+The Commissions are addressing the CBOT's comment in the final rules by adopting an alternate test for municipal securities. A municipal security could either:
+
+<h>1. meet the original $250,000,000 threshold; or (2) meet the following two-part test: (a) the security has a remaining principal amount outstanding of $200,000,000; and (b) the issuer of the security has outstanding securities that are notes, bonds, debentures, or evidences of indebtedness having a total remaining principal amount of at least $1billion. <sup>46</sup> As discussed above, the Commissions believe that issuers with $1 billion or more in outstanding debt are likely to be followed in the market, and that information about such issuers is more likely to be publicly available. <sup>47</sup> Providing an alternate lower threshold for principal amount outstanding should provide some flexibility in constructing indexes that include municipal securities by expanding the number of municipal securities issues that could be eligible. At the same time, the alternate$200,000,000 threshold is designed to reduce the likelihood that the market for a security is not highly illiquid and thus more readily susceptible to manipulation. <sup>48</sup> Furthermore, the requirement that the issuer of the security have total debt outstanding of at least$1 billion increases the likelihood that information about the issuer and its securities will be publicly available. The availability of such information should reduce the likelihood that the issuer's securities – including those with a minimum principal amount outstanding of $200,000,000 – would be readily susceptible to manipulation.</h>
+
+<h>5. De minimis exception</h>
+
+As the Commissions proposed, the final rules exclude an index from the definition of "narrow-based security index" even if certain of the issuers of the underlying securities do not meet the issuer eligibility and the securities do not meet the minimum outstanding principal balance requirements. Specifically, an index will still qualify forthe exclusion even if an issuer does not satisfy the eligibility criteria described above <sup>49</sup> or the securities do not have $250,000,000, or, for municipal securities of issuers with at least $1 billion in outstanding principal amount of debt, $200,000,000 in remaining principal amount, as applicable, if:
+
+All securities of such issuer included in the index represent less than 5% of the index's weighting; <sup>50</sup> and
+
+Securities comprising at least 80% of the index's weighting satisfy the issuer eligibility and minimum outstanding principal balance criteria. <sup>51</sup>
+
+The Commissions believe that an index that includes a very small proportion of securities and issuers that do not satisfy certain of the above criteria should nevertheless be excluded from the definition of narrow-based security index. To satisfy the exclusion, both the 5% and the 80% weighting thresholds must be met at the time of the assessment. The 5% weighting threshold is designed to provide that issuers and securities not satisfying certain of the criteria will comprise only a very small portion of the index. The 80% weighting threshold is designed to provide that a predominant percentage of the securities and the issuers in the debt securities index satisfy the criteria. By allowing debt securities indexes that include debt securities of a small number of issuers and securities that do not satisfy certain of the criteria to qualify for the exclusion, the de minimisexception provides some flexibility in constructing an index or determining whether a debt securities index satisfies the exclusion. The Commissions believe that the deminimis exemption is appropriate for indexes that are predominantly composed of securities that satisfy the specified criteria, and that providing such flexibility is consistent with the protection of investors and is not likely to increase the possibility that an index that qualifies for the exclusion would be readily susceptible to manipulation.
+
+<h>6. Indexes that Include Exempted Securities</h>
+
+The FIA asked the Commissions to confirm that, in an index that includes exempted securities and securities that are not exempted securities, only securities that are not exempted securities must be taken into account in determining compliance with the rules' criteria. <sup>52</sup> To address the FIA's comment and to clarify the treatment of an index that includes both exempted debt securities and debt securities that are not exempted securities, the final rules permit, but do not require, certain of the index's exempted debt securities (other than municipal securities) to be excluded from the index in determining whether the index is not a narrow-based security index under the rules. <sup>53</sup> Persons making the determination regarding the appropriate treatment under the rules of a debt security index that includes both exempted and non-exempted debt securities may use either test for determining whether the debt security index is not narrow-based.
+
+Under the alternative method for determining whether a debt security index is not narrow-based, exempted debt securities (other than municipal securities) may be excluded from the application of the rule criteria. If exempted debt securities areexcluded from the application of the rule criteria, the remaining portion of the index mustsatisfy each of the rule's criteria without taking into account the portion of the index composed of the exempted debt securities in order for the index as a whole to not be a narrow-based security index under the rules.
+
+The Commissions believe this new provision is consistent with the objective and intent of the proposed rules. The Commissions also believe it responds to the FIA's request for clarification of the treatment of indexes that include exempted securities and securities that are not exempted securities.
+
+<h>C. Tolerance Period</h>
+
+Section 1a(25)(B)(iii) of the CEA <sup>54</sup> and Section 3(a)(55)(C)(iii) of the Exchange Act <sup>55</sup> provide that, under certain conditions, a future on a security index may continue to trade as a broad-based index future, even when the index temporarily assumes characteristics that would render it a narrow-based security index under the statutory definition. An index qualifies for this tolerance and therefore is not a narrow-based security index if: (1) a future on the index traded for at least 30 days as an instrument that was not a security future before the index assumed the characteristics of a narrow- based security index; and (2) the index does not retain the characteristics of a narrow- based security index for more than 45 business days over three consecutive calendar months. <sup>56</sup>
+
+In addition, current CEA Rule 41.12 <sup>57</sup> and Exchange Act Rule 3a55-2 <sup>58</sup> address the circumstance when a broad-based security index underlying a future becomes narrow- based during the first 30 days of trading. In such case, the future does not meet the requirement of having traded for at least 30 days to qualify for the tolerance period granted by Section 1a(25)(B)(iii) of the CEA <sup>59</sup> and Section 3(a)(55)(C)(iii) of the Exchange Act. <sup>60</sup> These rules, however, provide that the index will nevertheless be excluded from the definition of narrow-based security index throughout that first 30 days, if the index would not have been a narrow-based security index had it been in existence for an uninterrupted period of six months prior to the first day of trading.
+
+<h>III. Listing Standards for Security Futures on Debt Securities</h>
+
+The listing standards requirements for security futures are set forth in Section 2(a)(1)(D)(i) of the CEA <sup>61</sup> and Section 6(h)(3) of the Exchange Act. <sup>62</sup> Among other things, the listing standards for security futures products must be no less restrictive than comparable listing standards for options traded on a national securities exchange or national securities association, <sup>63</sup> and the listing standards must require that trading in the security futures product not be readily susceptible to manipulation of the price of the security futures product, or to causing or being used in the manipulation of the price of anunderlying security, option on such security, or option on a group or index including such securities. <sup>64</sup>
+
+The CME and CBOT urged the SEC to publish for comment the listing standards that would apply to security futures on debt securities. <sup>65</sup> The commenters maintained that interested parties should have an opportunity to provide meaningful comment on the listing standards for such security futures.
+
+As noted above, the Exchange Act and the CEA require that the listing standards for security futures be no less restrictive than comparable listing standards for exchange- traded options. <sup>66</sup> This statutory standard does not require that the SEC adopt rules.
+
+Instead, the Exchange Act contemplates that exchanges proposing to list and trade security futures products must file proposed rule changes that include listing standards that, among other things, are consistent with this standard. <sup>67</sup> Currently, the only debt securities on which options trade are U.S. Treasury securities. <sup>68</sup> The SEC, however, recently published for comment a proposed rule change by the Chicago Board Options Exchange to list options on certain corporate debt securities. <sup>69</sup> The SEC would welcome comments from the CME and others on the CBOE's proposal, particularly as it relates to comparable listing standards for security futures on debt securities.
+
+<h>III. Paperwork Reduction Act CFTC:</h>
+
+The Paperwork Reduction Act of 1995 ("PRA"), <sup>70</sup> imposes certain requirements on federal agencies (including the CFTC) in connection with their conducting or sponsoring any collection of information as defined by the PRA. The rule and rule amendment do not require a new collection of information on the part of any entities.
+
+SEC:
+
+The PRA does not apply because new Exchange Act Rules 3a55-4 and 6h-2 do not impose any new "collection of information" requirements within the meaning under the PRA.
+
+<h>IV. Costs and Benefits of Final Rules CFTC:</h>
+
+Section 15(a) of the CEA <sup>71</sup> requires the CFTC to consider the costs and benefits of its actions before issuing new regulations under the CEA. By its terms, Section 15(a) does not require the CFTC to quantify the costs and benefits of new regulations or to determine whether the benefits of the regulations outweigh their costs. Rather, Section 15(a) requires the CFTC to "consider the cost and benefits" of the subject rules in light of five broad areas of market and public concern: (1) protection of market participants and the public; (2) efficiency, competitiveness, and financial integrity of futures markets;
+
+<h>3. price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC may, in its discretion, give greater weight to any one of the five enumerated areas of concern and may, in its discretion, determine that,notwithstanding its costs, a particular rule is necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the CEA.</h>
+
+The rule and rule amendment will foster the protection of market participants and the public by establishing criteria for futures on broad-based debt securities indexes that will reduce the likelihood that these products would be readily susceptible to manipulation. The statutory listing standards for security futures provide for similar protection of market participants with regard to security futures on narrow-based debt securities indexes and individual debt securities that will be made available for listing and trading pursuant to the final rules.
+
+In addition, the rule and rule amendment will encourage the efficiency and competitiveness of futures markets by permitting the listing for trading of new and potentially useful products on debt securities and security indexes. In the absence of the rule and rule amendment, futures on debt securities indexes that meet the proposed criteria for non-narrow-based security index treatment, as well as security futures on narrow-based debt securities indexes and individual debt securities, would be prohibited. Efficiencies will also be achieved because the rule and rule amendment, in establishing criteria for broad-based debt securities indexes, take into consideration the characteristics of such indexes and the issuers of the underlying debt securities that render joint SEC and CFTC regulation unnecessary. By not subjecting futures on debt securities indexes that meet the criteria to joint SEC and CFTC regulation, the costs for listing such products will be minimized.
+
+The rule and rule amendment will have no material impact from the standpoint of imposing costs or creating benefits, on price discovery, sound risk management practices, or any other public interest considerations.
+
+Although exchanges may incur costs in order to determine whether a debt securities index meets the criteria to be considered broad-based established by the rules, the CFTC believes that these costs are outweighed in light of the factors and benefits discussed above.
+
+SEC:
+
+New Exchange Act Rule 6h-2 permits a national securities exchange to list and trade security futures based on a security that is a note, bond, debenture, or evidence of indebtedness or on a narrow-based index composed of such securities. New Exchange Act Rule 3a55-4 excludes from the definition of "narrow-based security index" those debt securities indexes that satisfy certain criteria.
+
+<h>A. Benefits</h>
+
+The benefits of new Exchange Act Rules 6h-2 and 3a55-4 are related to the benefits that will accrue as a result of expanding the range of securities on which security futures and other index futures may be based. By permitting the trading of security futures based on debt securities or debt securities indexes and excluding certain indexes based on debt securities from the definition of narrow-based security index, new Exchange Act Rule 6h-2 permits a greater variety of financial products to be listed and traded that potentially could facilitate price discovery and the ability to hedge. New Exchange Act Rule 3a55-4 provides clear, objective criteria for excluding from the jurisdiction of the SEC futures contracts on certain debt securities indexes. By providingan objective rule to determine when a debt securities index is not a narrow-based securities index for purposes of the Exchange Act Section 3(a)(55), new Exchange Act Rule 3a55-4 alleviates any additional regulatory costs of dual CFTC and SEC jurisdiction where it is appropriate to do so. Futures contracts on debt securities indexes that do not meet the criteria in Exchange Act Rule 3a55-4 for the exclusion from the definition of narrow-based debt security index will be subject to the joint jurisdiction of the SEC and CFTC. Futures on debt securities indexes that do meet the criteria for the exclusion, however, will be subject to the exclusive jurisdiction of the CFTC and may be traded only on designated contract markets and registered DTEFs. Investors generally will benefit from the new rules by having a wider choice of financial products to buy and sell. The amount of the benefit will likely be correlated to the volume of trading in these new instruments.
+
+<h>B. Costs</h>
+
+In complying with the new rules, a national securities exchange, national securities association, designated contract market, registered DTEF, or foreign board of trade (each a "listing market") that wishes to list and trade futures contracts based on debt securities indexes will incur certain costs. <sup>72</sup> A listing market that wishes to list and trade such a futures contract will be required to ascertain whether the underlying debt securities index is or is not a narrow-based debt security index, according to the criteria set forth in Rule 3a55-4, and thus whether a future on such debt security index is subject to the exclusive jurisdiction of the CFTC or to the joint jurisdiction of the SEC and CFTC. Thisanalysis will have to be performed at the initial listing and monitored periodically to ensure continued compliance under new Exchange Act Rule 3a55-4. The SEC notes, however, that in the absence of new Exchange Act Rule 3a55-4, a listing market desiring to list futures on a debt securities index would still have to bear the costs associated with performing a similar analysis under the statutory definition of narrow-based security index. The costs associated with new Exchange Act Rule 3a55-4 would largely replace the costs of performing an analysis under the statutory definition of narrow-based security index for debt securities indexes and, therefore, there is little or no cost increase.
+
+The determination of whether a debt securities index is excluded from the definition of narrow-based debt security index will require listing markets to make certain calculations based on the type of issuer and concentration of the security in the index, including calculations, as appropriate, relating to the issuer eligibility provisions, <sup>73</sup> the total outstanding principal of each of the underlying securities, and calculations related to the weighting of each of the securities in the index. A listing market may incur costs if it contracts with an outside party to perform these calculations. In addition, a listing market may incur costs associated with obtaining and accessing appropriate data from an independent third-party vendor. For example, a listing market may be required to pay certain fees to a vendor to acquire the necessary information. Furthermore, if these calculations require data that are not readily available, particularly if foreign data are needed, a listing market may possibly incur additional costs to obtain such data.
+
+Market participants that elect to create debt securities indexes for trading futures thereon will also incur non-regulatory costs associated with constructing these products. Such costs will be the ordinary costs of doing business.
+
+<h>V. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation</h>
+
+SEC:
+
+Section 3(f) of the Exchange Act <sup>74</sup> requires the SEC, when engaged in arulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. Section 23(a)(2) of the Exchange Act <sup>75</sup> requires the SEC, in adopting rules under the Exchange Act, to consider the impact any rule will have on competition. In particular, Section 23(a)(2) of the Exchange Act prohibits the SEC from adopting any rule that will impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. In the Proposing Release, the SEC requested comment on these statutory considerations and received none that addressed them specifically.
+
+New Exchange Act Rule 6h-2 will permit the listing and trading of security futures based on debt securities and narrow-based debt securities indexes. New Exchange Act Rule 3a55-4 sets forth clear methods and guidelines for a listing market to distinguish futures contracts on debt securities indexes that are subject to joint jurisdiction of the SEC and CFTC from futures contracts on debt securities indexes that are subject to the exclusive jurisdiction of the CFTC. The SEC believes that the newrules, by allowing listing markets to list and trade new financial products, will promote efficiency and competition. The new rules will create opportunities for listing markets to compete in the market for such new products and perhaps to create new products that will compete with existing products. The resulting increased competition and more efficient markets should not have an adverse impact on capital formation.
+
+<h>VI. Regulatory Flexibility Act Certifications CFTC:</h>
+
+The Regulatory Flexibility Act ("RFA") <sup>76</sup> requires federal agencies, in promulgating rules, to consider the impact of those rules on small entities. The rules herein will affect contract markets and registered DTEFs. The CFTC previously established certain definitions of "small entities" to be used by the CFTC in evaluating the impact of its rules on small entities in accordance with the RFA. <sup>77</sup> In its previous determinations, the CFTC has concluded that contract markets and DTEFs are not small entities for the purpose of the RFA. <sup>78</sup>
+
+SEC:
+
+In the Proposing Release, the Commission certified, pursuant to Section 605(b) of the RFA, <sup>79</sup> that new Exchange Act Rules 3a55-4 and 6h-2 would not have a significant economic impact on a substantial number of small entities. The Commission solicited comment as to the nature of any impact on small entities, including empirical data tosupport the extent of such impact costs and benefits associated with the proposed amendment, and no comments were received.
+
+<h>VII. Statutory Authority</h>
+
+Pursuant to the CEA and the Exchange Act, and, particularly, Sections 1a(25)(B)(vi) and 2(a)(1)(D) of the CEA <sup>80</sup> and Sections 3(a)(55)(C)(vi), 3(b), 6(h), 23(a), and 36 of the Exchange Act, <sup>81</sup> the Commissions are adopting Rule 41.15 and amendments to Rule 41.21 under the CEA, <sup>82</sup> and Rules 3a55-4 and 6h-2 under the Exchange Act. <sup>83</sup>
+
+<h>VIII. Text of Adopted Rules List of Subjects17 CFR Part 41</h>
+
+<END MAIN TEXT>
+
+1 All references to the CEA are to 7 U.S.C. 1 et seq.
+
+2 All references to the Exchange Act are to 15 U.S.C. 78a et seq.
+
+3 See Section 1a(31) of the CEA, 7 U.S.C. 1a(31); Section 3(a)(55)(A) of the Exchange Act, 15 U.S.C. 78c(a)(55)(A).
+
+4 The four criteria are as follows: (1) it has nine or fewer component securities; (2) any one of its component securities comprises more than 30% of its weighting;
+
+5 See Section 1a(25)(B)(vi) of the CEA, 7 U.S.C. 1a(25)(B)(vi); Section 3(a)(55)(C)(vi) of the Exchange Act, 15 U.S.C. 78c(a)(55)(C)(vi).
+
+6 Debt securities include notes, bonds, debentures, or evidences of indebtedness.
+
+7 See Securities Exchange Act Release No. 53560 (March 29, 2006), 71 FR 18030 (April 10, 2006) ("Proposing Release").
+
+8 See letter from Craig S. Donohue, Chief Executive Officer, CME, to Jean A. Webb, Secretary, CFTC, and Jonathan G. Katz, Secretary, SEC, dated April 25, 2006 ("CME Letter"); letter from Bernard Dan, CBOT, to Jean A. Webb, Secretary, CFTC, and Nancy M. Morris, Secretary, SEC, dated May 10, 2006 ("CBOT Letter").
+
+9 See letter from John M. Damgard, President, FIA, to Jean A. Webb, Secretary, CFTC, and Nancy M. Morris, Secretary, SEC, dated May 16, 2006 ("FIA Letter"). In addition, the FIA supported the comments of the CME and the CBOT and urged the Commissions to propose a regulatory standard governing the offer and sale of security futures contracts on indexes composed of non-U.S. equities that trade on or are subject to the rules of exchanges or boards of trade located outside of the United States. Because the proposed rules did not relate to indexes composed of non-U.S. equities, the Commissions are not addressing this comment in this release.
+
+10 See CME Letter, supra note 8, at 2; CBOT Letter, supra note 8, at 3-4.
+
+11 See CBOT Letter, supra note 8; at 2-3.
+
+12 See FIA Letter, supra note 9, at 2.
+
+13 See 15 U.S.C. 78mm(a)(1).
+
+14 Pub. L. No. 106-554, 114 Stat. 2763 (2000).
+
+15 Section 6(h)(1) of the Exchange Act, 15 U.S.C. 78f(h)(1).
+
+16 15 U.S.C. 78f(a) and 78o-3(a).
+
+17 Section 6(h)(2) of the Exchange Act, 15 U.S.C. 78f(h)(2).
+
+18 7 U.S.C. 2(a)(1)(D)(i).
+
+19 Section 2(a)(1)(D)(i) of the CEA, 7 U.S.C. 2(a)(1)(D)(i).
+
+20 Section 6(h)(3) of the Exchange Act, 15 U.S.C. 78f(h)(3).
+
+21 Section 6(h)(3)(D) of the Exchange Act, 15 U.S.C. 78f(h)(3)(D).
+
+22 Section 2(a)(1)(D)(i)(III) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(III).
+
+23 Section 6(h)(4)(A) of the Exchange Act, 15 U.S.C. 78f(h)(4)(A); Section 2(a)(1)(D)(v)(I) of the CEA, 7 U.S.C. 2(a)(1)(D)(v)(I).
+
+24 Section 6(h)(3)(C) of the Exchange Act, 15 U.S.C. 78f(h)(3)(C).
+
+25 Section 2(a)(1)(D)(i)(I) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(I); Section 6(h)(3)(A)
+
+26 Section 2(a)(1)(D)(i)(VII) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(VII); Section 6(h)(3)(H) of the Exchange Act, 15 U.S.C. 78f(h)(3)(H).
+
+27 Although broad-based debt securities indexes that meet the criteria in the rules should have a reduced likelihood of being readily susceptible to manipulation, such indexes also must be determined to be not readily susceptible to manipulation, in accordance with Section 2(a)(1)(C)(ii)(II) of the CEA, 7 U.S.C. 2(a)(1)(C)(ii)(II).
+
+28 The term "security" is defined in Section 2(a)(1) of the Securities Act of 1933 (the "Securities Act"), 15 U.S.C. 77b(a)(1), and Section 3(a)(10) of the Exchange Act, 15 U.S.C. 78c(a)(10).
+
+29 See Exchange Act Rule 3a55-4(a)(1); CEA Rule 41.15(a)(1). The federal securities laws do not contain a single definition of "debt security." The Commissions, therefore, are using the terms found in the Trust Indenture Act of 1939, 15 U.S.C. 77aaa-bbb (which governs debt securities of all types), to define the debt securities for purposes of these rules and rule amendment.
+
+30 15 U.S.C. 78c(a)(11). See Exchange Act Rule 3a55-4(a)(2); CEA Rule 41.15(a)(2). A security convertible into an equity security is an equity security under the Exchange Act and the Securities Act.
+
+31 Indexes that include both equity and debt securities would be subject to the criteria for narrow-based security indexes enumerated in Section 1a(25) of the CEA and Section 3(a)(55) of the Exchange Act.
+
+32 See FIA Letter, supra note 9, at 2. The FIA letter did not elaborate on what these other products or instruments might be.
+
+33 See Exchange Act Rule 3a55-4(a)(3); CEA Rule 41.15(a)(3).
+
+34 See Exchange Act Rule 3a55-4(a)(4); CEA Rule 41.15(a)(4).
+
+35 See Exchange Act Rule 3a55-4(a)(5); CEA Rule 41.15(a)(5).
+
+36 See supra note 4.
+
+37 See Exchange Act Rule 3a55-4(b); CEA Rule 41.15(b).
+
+38 While the definition of affiliate under the federal securities laws is generally a facts-and-circumstances determination based on the definition of affiliate contained in such laws, see, e.g., Securities Act Rule 405, 17 CFR 230.405; Exchange Act Rule 12b-2, 17 CFR 240.12b-2, certain rules under the Exchange
+
+39 15 U.S.C. 78m and 78o(d).
+
+40 15 U.S.C. 78m and 78o.
+
+41 These thresholds are similar to ones the SEC recently adopted in its Securities Offering Reform rules. See Securities Act Release No. 8591 (July 19, 2005), 70 FR 44722 (August 3, 2005).
+
+42 See 15 U.S.C. 78c(a)(12). While issuers of exempted securities are not subject to the same issuer eligibility conditions, other existing rules and regulatory regimes applicable to most of such issuers provide for ongoing public information about such issuers. See, e.g., Exchange Act Rule 15c2-12, 17 CFR 240.15c2-12.
+
+43 Section 2(a)(1)(C)(iv) of the CEA, 7 U.S.C. 2(a)(1)(C)(iv), prohibits any person from entering into a futures contract on any security except an exempted security under Section 3(a)(12) of the Exchange Act, 15 U.S.C. 78c(a)(12), other than a municipal security, as defined in Section 3(a)(29) of the Exchange Act, 15 U.S.C. 78c(a)(29). In addition, Exchange Act Rule 3a12-8, 17 CFR 240.3a12-8, deems the debt obligations of specified foreign governments to be exempted securities for the purpose of permitting the offer, sale, and confirmation of futures contracts on those debt obligations in the United States.
+
+44 This is based on data obtained from the Trace Reporting and Compliance Engine (TRACE) database supplied by NASD.
+
+45 See CBOT Letter, supra note 8, at 2-3.
+
+46 CEA Rule 41.15(a)(1)(vii)(B); Exchange Act Rule 3a55-4(a)(1)(vii)(B).
+
+47 See supra note 41 and accompanying text.
+
+48 In a 2004 study of the municipal securities market, the SEC staff found that, over a 10.5-month period, one-third of municipal issuers had no trades in their debt securities and two-thirds of municipal issuers had 25 or fewer trades in their securities. Only 2% of municipal issuers had 1,000 or more trades in their securities during that 10.5-month period. See Office of Economic Analysis, Office of Municipal Securities, and Division of Market Regulation, Report on Transactions in Municipal Securities (2004), at 17.
+
+49 See supra notes 28-46 and accompanying text.
+
+50 In determining whether the 5% threshold is met, all securities of an issuer and its affiliates would be aggregated because of the potential for concentrated risk of the index in a limited group of issuers.
+
+51 The 80% calculation is based on the entire index's weighting without subtracting issuers that are not required to satisfy the issuer eligibility criteria and minimum outstanding principal amount criteria. This is important to ensure that a predominant percentage of the index satisfies the required criteria.
+
+52 See FIA Letter, supra note 9, at 2.
+
+53 See CEA Rule 41.15(a)(2); Exchange Act Rule 3a55-4(a)(2).
+
+54 7 U.S.C. 1a(25)(B)(iii).
+
+55 15 U.S.C. 78c(a)(55)(C)(iii).
+
+56 If the index becomes narrow-based for more than 45 days over three consecutive calendar months, the statute then provides an additional grace period of three months during which the index is excluded from the definition of narrow-based security index. See Section 1a(25)(D) of the CEA, 7 U.S.C. 1a(25)(D); Section 3(a)(55)(E) of the Exchange Act, 15 U.S.C. 78c(a)(55)(E).
+
+57 17 CFR 41.12.
+
+58 17 CFR 240.3a55-2.
+
+59 7 U.S.C. 1a(25)(B)(iii).
+
+60 15 U.S.C. 78c(a)(55)(C)(iii).
+
+61 7 U.S.C. 2(a)(1)(D)(i).
+
+62 15 U.S.C. 78f(h)(3).
+
+63 See Section 6(h)(3)(C) of the Exchange Act, 15 U.S.C. 78f(h)(3)(C).
+
+64 See Section 2(a)(1)(D)(i)(VII) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(VII); Section 6(h)(3)(H) of the Exchange Act, 15 U.S.C. 78f(h)(3)(H).
+
+65 See CME Letter, supra note 8, at 2; CBOT Letter, supra note 8, at 3-4.
+
+66 See supra note 63.
+
+67 A proposed rule change must, among other things, satisfy the substantive requirements of Section 6 of the Exchange Act and the procedural requirements of Section 19 of the Exchange Act.
+
+68 See CBOE Rule 21.1 et seq.
+
+69 See Securities Exchange Act Release No. 53935 (June 2, 2006), 71 FR 34174 (June 13, 2006).
+
+70 44 U.S.C. 3501 et seq.
+
+71 7 U.S.C. 15(a).
+
+72 In the Proposing Release, supra note 7, the Commissions requested comment on the costs and benefits associated with the proposed rules and rule amendment but did not receive any specific cost or benefit data in response.
+
+73 The issuer eligibility calculations for issuers of non-exempted securities, non- Exchange Act reporting issuers, or issuers that are not foreign governments could include the worldwide market value of outstanding common equity held by non- affiliates of such issuer or the aggregate remaining principal amount of outstanding debt of such issuer.
+
+74 15 U.S.C. 78c(f).
+
+75 15. U.S.C. 78w(a)(2).
+
+76 5 U.S.C. 601 et seq.
+
+77 See 47 FR 18618 (April 20, 1982).
+
+78 See 47 FR 18618, 18619 (April 20, 1982) (discussing contract markets); 66 FR 42256, 42268 (August 10, 2001) (discussing DTEFs).
+
+79 5 U.S.C. 605(b).
+
+80 7 U.S.C. 1a(25)(B)(vi) and 2(a)(1)(D).
+
+81 15 U.S.C. 78c(a)(55)(C)(vi), 78c(b), 78f(h), 78w(a), and 78mm.
+
+82 17 CFR 41.15 and 41.21.
+
+83 17 CFR 240.3a55-4 and 240.6h-2.

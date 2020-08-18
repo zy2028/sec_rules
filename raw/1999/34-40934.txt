@@ -1,0 +1,249 @@
+https://www.sec.gov/rules/final/34-40934.htm
+
+	I.0.0.0: I. BACKGROUND AND AMENDMENTS
+
+		I.A.0.0: A. General
+
+		I.B.0.0: B. Changes to Rule 13f-1 and Form 13F
+
+			I.B.1.0: 1. Rule 13f-1
+
+			I.B.2.0: 2. Form 13F
+
+		I.C.0.0: C. Changes to Regulation S-T
+
+		I.D.0.0: D. Comments Received
+
+	II.0.0.0: II. DATES
+
+	III.0.0.0: III. COST - BENEFIT ANALYSIS
+
+	IV.0.0.0: IV. CERTAIN FINDINGS
+
+	V.0.0.0: V. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT
+
+	VII.0.0.0: VII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Rulemaking for EDGAR System 
+
+ SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 232, 240, and 249 
+
+ (Release Nos. 34 - 40934; IC - 23640. File No. S7 - 18 - 97) 
+
+ RIN 3235-AG97 
+
+ Rulemaking for EDGAR System 
+
+ AGENCY: Securities and Exchange Commission
+
+ ACTION: Final Rule
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting amendments to require electronic filing of Form 13F by institutional investment managers through use of the Commission's Electronic Data Gathering, Analysis, and Retrieval ("EDGAR") system. After the compliance date, institutional investment managers must submit all filings of Form 13F reports by either direct transmission, magnetic tape, or diskette, giving these reports the same degree of availability to the public as other electronic filings with the Commission.
+
+ DATES: Effective Date : (Insert date 30 days after publication in the Federal Register) Compliance Date : April 1, 1999. Only those Form 13F reports (including amendments to previously filed reports) filed on or after April 1, 1999, must comply with the mandatory electronic filing requirements of Regulation S-T as amended. Beginning on the Effective Date and prior to the Compliance Date, institutional investment managers may submit Form 13F reports (including amendments to previously filed reports) either electronically (EDGAR submission type 13F-HR or 13F-NT, as appropriate), in paper on the form as amended, or electronically on Form 13F-E. As of the Compliance Date, filers may no longer submit reports on Form 13F-E, which is removed as of that date.
+
+ FOR FURTHER INFORMATION CONTACT: In the Division of Investment Management, for questions concerning the electronic filing of Form 13F reports, Ruth Armfield Sanders, Senior Counsel, or Bruce R. MacNeil, Staff Attorney, at (202) 942-0591; for questions concerning substantive Form 13F reporting requirements, Stephan N. Packs, Staff Attorney, at (202) 942-0660.
+
+ SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to require mandatory electronic filing of Form 13F <sup> 1 </sup> by institutional investment managers in accordance with the Commission's rules implementing the EDGAR system. <sup> 2 </sup> The changes affect Regulation S-T; rules 13f-1 and 13f-2 <sup> 3 </sup> under Section 13(f) <sup> 4 </sup> of the Securities Exchange Act of 1934 (the "Exchange Act"); <sup> 5 </sup> and Forms 13F and 13F-E <sup> 6 </sup> under the Exchange Act.
+
+<END HEADER>
+
+<h>I. BACKGROUND AND AMENDMENTS </h>
+
+ In February 1993, the Commission adopted Regulation S-T, governing electronic filing, and a number of amendments to its rules, schedules and forms, to implement the EDGAR system and require registrants whose filings are processed by the Division of Corporation Finance and the Division of Investment Management to submit most of their filings electronically. A graduated phase-in process to mandatory electronic filing began on April 26, 1993, and ended on May 6, 1996, when all filers became subject to mandatory electronic filing.
+
+ Regulation S-T designated most filings as mandatory electronically filings. However, the regulation designated some filings, such as Form 13F, as permitted but not mandated electronic filings.
+
+ The Commission has gained substantial experience with the EDGAR system and its implementing regulations since the first mandated filings were made in April 1993 and has decided to amend Regulation S-T to require Form 13F to be filed electronically. The public interest in having these reports, along with other filings, available electronically has increased, and the Commission believes that these reports should have the same degree of availability as other Commission filings.<h>A. General </h>
+
+ Form 13F reports are filed by institutional investment managers to report certain equity securities holdings of accounts over which they exercise investment discretion. <sup> 7 </sup> During phase-in to mandatory electronic filing, filers were not required to file Form 13F reports electronically. Institutional investment managers could file Form 13F reports electronically on Form 13F-E, the electronic version of Form 13F, on a voluntary basis. <sup> 8 </sup> After filer phase-in was completed, the Commission proposed to make electronic filing of Form 13F mandatory. <sup> 9 </sup> 
+
+ Unlike other EDGAR submissions, which are prepared and filed as "free text" documents, filers must prepare Form 13F-E reports as a structured file with a position-sensitive layout of data records. <sup> 10 </sup> To help ensure that filers use the specified structure, the Commission required filers to submit Form 13F-E reports by magnetic tape. Form 13F-E reports consisted of large numbers of similar data records, and magnetic tape filings provided an efficient means of standardizing the filing format and facilitating automated and accurate transfer and tabulation of the reported data. <sup> 11 </sup> The standardized format also was used by EDGAR, which performed some predissemination processing of the filings. Successful pre-dissemination processing <sup> 12 </sup> depended directly on the filer's compliance with the format requirements for the form.
+
+ Electronic filing of reports on Form 13F-E was optional because many filers did not have the ability to produce magnetic tape filings. Only about five percent of the approximately 2,000 filers of Form 13F chose to file the form electronically on Form 13F-E.
+
+ The Commission is aware of increasing interest in the electronic availability of reports on Form 13F. <sup> 13 </sup> For example, the Commission believes that investors would find the information contained in Form 13F filings useful in tracking institutional investor holdings in their investments and that issuers, too, would find detail as to institutional investor holdings useful because much of their shareholder list may reflect holdings in "street name" rather than beneficial ownership. Mandatory electronic dissemination of this data will help ensure timely and efficient dissemination of this important information. The Commission believes that these reports should have the same degree of availability as other filings with the Commission, and that electronic filing will speed their dissemination in accordance with the intent of Congress. <sup> 14 </sup> The legislative history of Section 13(f) states that
+
+ Because rapid dissemination of the institutional disclosure information to the public is a fundamental purpose of the bill , and rapid dissemination would be materially enhanced by submission of the information to the SEC in a computer processable form, the bill is drawn broadly enough to enable the SEC to adopt rules . . . requiring submission of such information in computer processable form as well as in narrative form by all institutional disclosure respondents. <sup> 15 </sup> 
+
+ Sixteen commenters submitted written comments on the rules proposals. Seven commenters were individuals; seven were institutional investment managers (or their counsel); one was an industry group representative; and one was an EDGAR service provider. Twelve of these commenters supported the proposals. The industry group representative did not object to the proposal but suggested that the Commission defer making mandatory the electronic filing of Form 13F reports until the anticipated modernization of EDGAR. The Commission believes, however, that the modernization of EDGAR is not likely to materially affect the electronic filing of Form 13F reports. Further, the Commission believes that the benefit to the public of the improved efficiency of dissemination that would accompany electronic filing would outweigh any benefit to filers from such a deferral of mandatory electronic filing.
+
+ One institutional manager commented that it believed the proposals would benefit persons other than those originally intended. The commenter interpreted the original intent of the reporting requirement to be Commission oversight in regulating the markets, rather than public availability of the information. The legislative history, however, makes clear that Congress intended the information to be public. <sup> 16 </sup> 
+
+ The Commission believes that there is wide support for the proposals and that the resulting electronic availability of Form 13F reports would benefit the investing public. <sup> 17 </sup> Further, adoption of the proposals would result in more uniform treatment of public filings made with the Commission by reporting entities and third-party filers. The legislative history supports the view that the Commission should make publicly filed Form 13F reports readily and quickly available to the public. Therefore, the Commission is now adopting rule amendments, substantially as proposed, to make the electronic filing of Form 13F reports mandatory and providing for the filing of these reports by direct transmission and diskette as well as by magnetic tape. The Commission is not applying the detailed formatting requirements of Form 13F-E to the mandatory electronic submission of Form 13F reports, a requirement which no commenter supported and to which seven commenters objected. Instead, consistent with the proposals, the Commission is requiring that filers prepare reports on Form 13F as they do other submissions made electronically on the EDGAR system.
+
+ Three commenters expressed the need for additional time for "phasing in" to mandatory electronic filing of the Form 13F reports, with two commenters suggesting a twelve-month transition. While the Commission believes that some transition time is appropriate, the Commission also believes that the electronic filing of Form 13F reports will not be complicated, since the electronic submission does not require detailed formatting. Therefore, the Commission is allowing filers the option of filing either electronically or in paper under the form as amended, or electronically on Form 13F-E, for the first quarter following the effective date of the rule amendments with electronic filing becoming mandatory pursuant to Rules 14 and 101(a)(1)(iii) of Regulation S-T as of the next quarter. <sup> 18 </sup> This schedule will allow a sufficient transition period to mandatory electronic filing.<h>B. Changes to Rule 13f-1 and Form 13F </h>
+
+ The Commission is amending rule 13f-1 to address the requirements for filing amendments to reports on Form 13F and is amending Form 13F, as described below. <sup> 19 </sup> 
+
+ Institutional investment managers must continue to file in paper requests for confidential treatment <sup> 20 </sup> of Form 13F report information and the Form 13F report information for which confidential treatment is requested. <sup> 21 </sup> Upon denial of a confidential treatment request, or the expiration of confidential treatment previously granted, the filer is required to submit the Form 13F report electronically for public dissemination. Based on current estimates, each quarter, following the expiration of confidential treatment previously granted, approximately 50 managers would have to re-submit electronically the Form 13F report information that they previously submitted in paper in connection with their requests for confidential treatment.<h>1. Rule 13f-1 </h>
+
+ The Commission is revising rule 13f-1 by adding, as proposed, a new subparagraph governing the filing of amendments to Form 13F. <sup> 22 </sup> As proposed, the new paragraph would require that each amendment to a Form 13F report either restate the form in its entirety, as amended, or designate the amendment as containing only additions to the previous filed report. The rule amendments also would provide for the sequential numbering of amendments.
+
+ The Commission received only one comment on this proposed revision: one institutional investment manager believed that the sequential numbering of amendments was beneficial but objected to the requirement to restate in its entirety an amendment that was not solely to provide additional information. That commenter believed that restatement would be burdensome to large filers and potentially confusing to the investing public. The Commission has considered possible alternatives and believes that those alternatives offer greater possibility for confusion than the Commission's proposal because of the additional complexity that the alternatives would introduce. Moreover, the Commission anticipates that most filers will automate their report processing, having them available electronically, rendering the requirement to resubmit in its entirety an amended report not overly burdensome. Therefore, the Commission is requiring each amendment to a Form 13F report to either restate the form in its entirety, as amended, or designate the amendment as containing only additions to the previous filed report.<h>2. Form 13F </h>
+
+ The revised Form 13F is being adopted as proposed. The revised Form 13F as adopted is in a three-part format, consisting of a Form 13F Cover Page (the "Cover Page"), a Form 13F Summary Page (the "Summary Page"), and a Form 13F Information Table (the "Information Table"). <sup> 23 </sup> The contents of each of these parts, as well as the content of certain form instructions, are summarized below. One institutional manager strongly supported the inclusion of the Cover Page (with its designation of report as holdings, notice or combination report) and the Summary Page, noting that these features were "beneficial to the public" and would "enhance the access to and usefulness of information reported on Form 13F."
+
+ o Cover Page . The Cover Page includes the information included in previous Form 13F, such as the period end date; the name and address of the institutional investment manager filing the report; the signature, name, title and phone number of the person signing the report; and, if applicable, a List of Other Managers Reporting for this Manager. The Cover Page also provides for identification of a filing that is an amendment; the inclusion of the Form 13F file number of the manager filing the report; and the designation of the report as one that names other reporting manager(s) reporting for the filer, reports holdings over which the reporting manager exercises discretion, or does both. <sup> 24 </sup> 
+
+ o Summary Page . The Summary Page includes a List of Other Included Managers for which the filer is reporting <sup> 25 </sup> and a Report Summary. The Report Summary contains the Number of Other Included Managers, an Information Table Entry Total, and an Information Table Value Total. <sup> 26 </sup> These three items are designed to provide a useful and convenient summary of key information included elsewhere in the report and also provide a means for cross-checking to ensure that the report as accepted and disseminated is the complete report the institutional investment manager intended to file.
+
+ o Information Table . The Information Table calls for the same information as Items 1 through 8 of previous Form 13F. <sup> 27 </sup> 
+
+ o Certain Instructions . General Instruction 3 for Form 13F states the requirement that the manager file copies of the form with the appropriate regulatory agency. <sup> 28 </sup> This instruction clarifies that the manager may satisfy its obligation to file with another regulatory agency by sending a printed copy of the EDGAR filing with the confidential EDGAR access codes (password and password modification access code) removed or blanked out.
+
+ General Instruction 4 retains a reference to the Official List of Section 13(f) Securities (the "13F List"). <sup> 29 </sup> The 13F List published by the Commission lists the securities the holdings of which the manager is to report on Form 13F. Form 13F filers may rely on the current 13F List in determining whether they need to report any particular securities holding. Paper copies are available for a fee from the Securities and Exchange Commission, Public Reference Room, 450 Fifth Street, N.W., Washington, D.C. 20549.
+
+ Two commenters (the industry group representative and one institutional manager) suggested that the Commission make the 13F List available on its internet web site as well as in paper. The commenters suggested that web site availability of the 13F List would enable filers to facilitate the preparation of their Form 13F reports. The Commission is studying the feasibility of placing the 13F List on its web site.
+
+ Special Instruction 13 includes guidance on the preparation of Form 13F for electronic filing, addressing such topics as maximum line length, page tag requirements, and selection of EDGAR submission types. One commenter expressed concern that filers may encounter formatting problems in complying with the maximum line length requirement ( i.e. , no line in the Information Table may exceed 132 characters in length). Because this requirement is standard for all electronic documents currently filed with the Commission via the EDGAR system, including reports on current Form 13F-E, the Commission believes that filers can resolve any formatting problems prior to the mandatory electronic filing compliance date.<h>C. Changes to Regulation S-T </h>
+
+ Regulation S-T, which governs the preparation and submission of electronic filings to the Commission, is amended as described below in connection with the mandatory electronic submission of Form 13F:
+
+o Rule 101(a)(1)(iii) of Regulation S - T . The Regulation S-T list of mandated electronic submissions is revised to remove the exclusion of Form 13F from the list of mandated electronic filings. Institutional investment managers must file Form 13F reports on and after the April 1, 1999, mandatory compliance date, in accordance with this rule and rule 14 of Regulation S-T governing mandatory electronic submissions.
+
+o Rule 101(b)(7) of Regulation S - T . This paragraph is removed as of the Compliance Date, since Form 13F reports will fall within the provisions of rule 101(a)(1)(iii). After the Compliance Date, a manager may not submit reports on Form 13F-E.<h>D. Comments Received </h>
+
+ The Commission requested comment generally on its proposal to make the electronic submission of reports on Form 13F mandatory. Additional comments received by the Commission are discussed below.
+
+ Six individual commenters believed that managers should submit Form 13F reports more frequently and on a more timely basis, e.g. , within five days of the end of each month. Section 13(f)(1), however, limits the Form 13F reporting period: "in no event shall such reports be filed for periods longer than one year or shorter than one quarter." The industry group representative, noting that the Commission had not proposed any change to the required frequency or deadlines for filing Form 13F reports, stated that the current filing deadlines remain appropriate. It believed that, even with automated processing of the Form 13F reports, including electronic availability of the 13F List, filers would still need sufficient time to compile and file the reports with the Commission, a sentiment echoed by at least one other commenter. One institutional manager commenter objected to the manner of reporting investment discretion in the Information Table. <sup> 30 </sup> 
+
+ The Commission did not propose to change Form 13F substantive reporting requirements in connection with making the electronic filing of this report mandatory. Therefore, the Commission is deferring consideration of the above comments until the substantive requirements of Form 13F become the subject of rulemaking.<h>II. DATES </h>
+
+ The rule and form amendments are effective on (Insert date 30 days after publication in the Federal Register) (the "Effective Date"). Only those Form 13F reports (including amendments to previously filed reports) filed on and after April 1, 1999 (the "Compliance Date"), must comply with rules 14 and 101(a)(1)(iii) of Regulation S-T. <sup> 31 </sup> Beginning on the Effective Date and prior to the Compliance Date, institutional investment managers may submit Form 13F reports (including amendments to previously filed reports) either electronically (EDGAR submission type 13F-HR or 13F-NT, as appropriate), in paper on the form as amended, or electronically on Form 13F-E. As of the Compliance Date, institutional investment managers may no longer submit reports on Form 13F-E, since Form 13F-E is removed as of the Compliance Date.<h>III. COST - BENEFIT ANALYSIS </h>
+
+ To assist the Commission in its evaluation of the costs and benefits that may result from the proposed changes contained in this release, commenters were requested to provide their views and data relating to any costs and benefits associated with these proposals. The Commission anticipated that these proposals would not affect significantly the costs and burdens associated with filing requirements generally, or specifically with respect to electronic filing.
+
+ The Commission received only two comments in response. One institutional manager commented that, while it recognized that the proposals would make Form 13F reports available more quickly, it believed that the costs outweighed the benefits, estimating that electronic filing would require a substantial investment of time and resources and that the benefits would be incremental and accrue only to select groups of investors who use the material. Another institutional manager also believed that the costs outweighed the benefits, in light of its expressed belief that the original intent of the reporting requirement was Commission oversight, not public availability of the information. <sup> 32 </sup> 
+
+ Because, as of the end of the Proposing Release's notice and comment period, only two commenters had responded concerning the potential costs of the proposal, the Commission staff determined that it was appropriate to obtain additional cost-benefit information. Therefore, the staff contacted a limited number of other Form 13F report filers to obtain their input on the estimated costs to convert to filing Form 13F reports electronically as proposed.
+
+ The staff contacted a total of nine Form 13F report filers, some from each of the following three categories: (1) filers who currently file Form 13F-E reports on EDGAR by magnetic tape; (2) filers who file Form 13F reports in paper but who make other EDGAR filings; and (3) filers who file Form 13F reports in paper and either (a) make no EDGAR filings or (b) make only Form 13D and/or Form 13G EDGAR filings. The staff asked filers for their estimated costs to file Form 13F reports electronically in accordance with the proposals and whether these costs would be greater than their current costs. If the costs were greater, the staff requested the respondent to distinguish between start-up costs and recurring costs. Finally, the staff asked whether filers envisioned any benefits from filing Form 13F reports electronically in accordance with the proposals.
+
+ Six filers provided information on compliance costs. Three filers responded that they would incur no additional cost. One said that its outside service provider would charge no additional fee for filing Form 13F reports on EDGAR when Form 13F reports became mandatory electronic filings. Two other filers expected to convert their existing programs to EDGAR format without additional costs because they could reassign personnel working on the paper filing to the electronic filing.
+
+ Two filers anticipated modest cost increases. These filers expected to incur costs of between $50 to $300 to convert to EDGAR filing as proposed. One filer estimated that a one-time additional cost would result from purchasing EDGAR software and manuals from the Commission. Another filer estimated a cost of approximately $265; this estimate included a one-time cost of $65 to upgrade current computer equipment for assembling the Form 13F report and an annual recurring cost of $800 to be paid to their outside service provider.
+
+ Finally, one filer expected to incur additional one-time costs of $18,000 to reprogram the filer's computer system to convert to electronic filing. The filer's ongoing cost for estimated additional personnel hours was approximately $16,000 per year based on four quarterly filings. This filer also envisioned a benefit because it believed that the proposed Form 13F report would be easier both to format and to file than the current form.
+
+ Among the benefits filers envisioned were less time needed to proofread the paper Form 13F report and the ability to file via a modem rather than having to send either a tape or a paper filing to the Commission.
+
+ The Commission recognizes that there are some costs associated with the transition to electronic filing. For example, the Commission estimates an additional per year cost of $10,800 for all filers in the aggregate due to the additional requirement of a cover page and summary page containing certain de minimis additional reporting information <sup> 33 </sup> and an additional per year cost of $3,000 for all of 50 managers in the aggregate re-submitting information previously filed. <sup> 34 </sup> The Commission estimates that the aggregate one-time cost for upgrading computer equipment and software will range between $30 and $18,000 per filer.
+
+ Given the Commission's filing experience under the EDGAR system to date, including submissions made by third-party filers, the results of the staff's informal cost survey, and the Commissions additional cost estimates, the Commission believes that any associated costs are justified by the benefits to the investing public. The amendments should benefit the investing public by making Form 13F reports, in general, quickly available electronically and therefore increasing the public's knowledge of and timely access to the Form 13F report information.
+
+ In compliance with its responsibilities under Section 23(a) of the Exchange Act, <sup> 35 </sup> the Commission requested comment on whether the proposals, if adopted, would have an adverse effect upon competition that is neither necessary nor appropriate in furthering the purposes of the Exchange Act. The Commission encouraged commenters to provide empirical data or other facts to support their views. The Commission received no comments in response to the above request. The Commission has considered the amendments to rule 13f-1, Form 13F and related rules in light of the standards cited in Section 23(a) and believes that the amendments and rules do not impose any burdens on competition not necessary or appropriate in furtherance of the Exchange Act. The Commission's belief is based on the benefits of the amendments described throughout this release, including, most particularly, enhanced public access to information reported on Form 13F.<h>IV. CERTAIN FINDINGS </h>
+
+ In accordance with the requirements of Section 13(f)(4) of the Exchange Act, the Commission has determined that the actions taken by the Commission herein are necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets. <sup> 36 </sup> After a filer's initial conversion to electronic filing, the cost of electronic filing should be negligible. Thus, the amendments should not result in a material change in capital raising or regulatory compliance costs. Since the information on Form 13F is useful to both investors and issuers and the amendments will increase the amount of such information available on a timely basis to issuers and the investing public, the amendments are appropriate in the public interest and for the protection of investors.
+
+ In compliance with its responsibilities under Section 2(b) of the Securities Act <sup> 37 </sup> and Section 3(f) of the Exchange Act, <sup> 38 </sup> the Commission requested comment on whether the proposals, if adopted, would promote efficiency, competition, and capital formation. The Commission encouraged commenters to provide empirical data or other facts to support their views. The Commission received no comments in response to the above request. In compliance with its responsibilities under the previously mentioned provisions, the Commission considered whether the amendments would promote efficiency, competition and capital formation.<h>V. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+ Pursuant to Section 605(b) of the Regulatory Flexibility Act, 5 U.S.C. 605(b), the Chairman of the Commission has certified that the amendments in this release would not have a significant economic effect on a substantial number of small entities. Institutional investment managers are not required to submit reports on Form 13F unless equity holdings over which they exercise discretion are in aggregate at least $100,000,000. Therefore, few if any small entities within the definition contained in rule 0-10 under the Exchange Act are affected by the form, and few if any small entities are otherwise affected by the rule amendments. The certification documenting its factual basis was included as Appendix A to the Proposing Release.<h>VI. PAPERWORK REDUCTION ACT </h>
+
+ Certain provisions of the amendments to Form 13F contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 (44 U.S.C. Section 3501, et seq .) ("PRA"). The Commission submitted the collection of information requirements contained in the rule amendments to the Office of Management and Budget ("OMB") for review pursuant to 44 U.S.C. Section 3507(d) and 5 CFR 1320.11 and the collection of information is in accordance with the requirements of 44 U.S.C. Section 3507. The title for the collection of information is "Form 13F, Report of Institutional Investment Managers pursuant to Section 13(f) of the Securities Exchange Act of 1934." The OMB approved the PRA request and assigned a control number of 3235-0006 with an expiration date of October 31, 2000. <sup> 39 </sup> Unless a currently valid OMB control number is displayed, an agency may not sponsor or conduct, or require response to, an information collection.
+
+ Section 13(f) of the Exchange Act requires the Commission to adopt rules that would create a reporting and disclosure system to collect specific information and to disseminate the information to the public. Pursuant to this statutory mandate, the Commission adopted rule 13f-1 under the Exchange Act (17 CFR 240.13f-1), which requires institutional investment managers who exercise investment discretion over accounts of certain equity securities described in Section 13(d)(1) of the Exchange Act <sup> 40 </sup> (generally, exchange traded or NASDAQ-quoted securities) having, in the aggregate, a fair market value of at least $100,000,000 to file quarterly reports with the Commission on Form 13F. Form 13F provides a reporting and disclosure system to collect specific information and to disseminate the information to the public about the holdings of those institutional investment managers subject to rule 13f-1.
+
+ At the time of the Proposing Release, the Commission estimated that approximately 1,800 institutional investment managers were subject to the rule. <sup> 41 </sup> These included such institutional investment managers as certain mutual funds, pension funds, trusts, hedge funds, and investment advisers. Each reporting manager files a Form 13F report quarterly. The Commission estimated that each quarter, following the expiration of grants of confidential treatment, approximately 50 managers will need to re-submit electronically for public dissemination information previously submitted in paper as confidential. The Commission estimated that compliance with the form's requirements will impose a total annual burden per manager of approximately 98.8 hours for each of the approximately 1,800 managers submitting the report (an increase of .1 hours per quarter per manager due to the additional requirement of a cover page and summary page containing certain de minimis additional reporting information <sup> 42 </sup> ) plus an additional annual burden of 4 hours (one additional burden hour per quarter) for each of the 50 managers re-submitting information previously filed. The Commission estimated the total annual burden for all managers at 178,435.2 hours. The estimate of average burden hours was made solely for the purposes of the PRA and was based on the Commission's experience with similar filings and discussions with a few registrants.
+
+ The Form 13F contains no separate retention period rule for recordkeeping requirements but is subject to the general recordkeeping requirements under Regulation S-T and the Exchange Act rules. Each institutional investment manager subject to the rule must file a Form 13F report. Section 13(f)(3) of the Exchange Act <sup> 43 </sup> authorizes the Commission, as it determines necessary or appropriate in the public interest or for the protection of investors, to delay or prevent public disclosure of any information filed under Section 13(f) in accordance with the Freedom of Information Act. <sup> 44 </sup> It also prohibits the Commission from disclosing to the public any information that identifies securities held by the account of a natural person or any estate or trust (other than a business trust or investment company).
+
+ Pursuant to 44 U.S.C. Section 3506(c)(2)(B), the Commission solicited comment to (i) evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information has practical utility; (ii) evaluate the accuracy of the agency's estimate of the burden of the proposed collections of information; (iii) enhance the quality, utility, and clarity of the information to be collected; and (iv) minimize the burden of collection of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology. The Commission received comments concerning a means of minimizing the burden of reporting the collected information through the use of automated techniques. Two commenters suggested that the Commission make the official list of Form 13F Securities ("13F List") available electronically through its World Wide Web internet site to facilitate the filers' preparation of their Form 13F reports. The Commission agrees that providing the list electronically in this way would reduce the burden of report preparation for some filers; this effect would be the same under both the previous filing requirements as well as under the requirements as proposed and adopted. The Commission is studying the feasibility of placement of the Official List on its web site.<h>VII. STATUTORY BASIS </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 249.325.
+
+2 For a comprehensive discussion of the rules adopted by the Commission governing mandated electronic filing, see Release Nos. 33 - 6977 (Feb. 23, 1993) (58 FR 14628), IC - 19284 (Feb. 23, 1993) (58 FR 14848), 35 - 25746 (Feb. 23, 1993) (58 FR 14999), and 33 - 6980 (Feb. 23, 1993) (58 FR 15009). See also Release No. 33-7072 (July 8, 1994 (59 FR 36258), relating to implementation of Financial Data Schedules; Release No. 33-7122 (Dec. 19, 1994) (59 FR 67752), making the EDGAR rules final and applicable to all domestic registrants and adopting minor amendments to the EDGAR rules; Release Nos. 33-7241 (Nov. 13, 1995) (60 FR 57682) and 33-7427 (July 1, 1997), adopting certain technical amendments to the EDGAR rules; and Release No. 33-7539 (May 19, 1998) (63 FR 29104) adopting an updated EDGAR Filer Manual, version 5.50 (the "EDGAR Filer Manual").
+
+3 17 CFR 240.13f-1 and 240.13f-2.
+
+4 15 U.S.C. 78m(f).
+
+5 15 U.S.C. 78a et seq .
+
+6 17 CFR 249.326.
+
+7 Section 13(f)(1) of the Exchange Act (15 U.S.C. 78m(f)(1)) requires any institutional investment manager exercising investment discretion over accounts holding at least $100 million in fair market value of certain equity securities to file reports on Form 13F with the Commission at the times set forth in rule 13f-1 (17 CFR 240.13f-1).
+
+8 In the EDGAR Pilot system and following the opening of the operational EDGAR system, institutional investment managers could file Form 13F reports on Form 13F-E, under temporary rule 13f-2(T) (17 CFR 240.13f-2(T)), proposed in Release No. 34 - 23694 (Oct. 8, 1986) (51 FR 37291), adopted in Release No. 34 - 24206 (Mar. 12, 1987) (52 FR 9151), amended to govern the filing of Form 13F on operational EDGAR in Release No. IC-18664 (Apr. 20, 1992) (57 FR 18223), and made permanent with minor amendments in Release No. IC-19284. See former Rule 101(b)(7) of Regulation S - T (17 CFR 232.101(b)(7)).
+
+9 See Release No. 34-38800 (July 1, 1997) (62 FR 36467) (the "Proposing Release").
+
+10 Instructions for filing Form 13F - E electronically appeared in the form and in the EDGAR Filer Manual.
+
+11 Section 13(f)(3) of the Exchange Act requires the Commission to tabulate the information reported under Section 13(f)(1). Disclosure Inc., under contract with the Commission, tabulates the reported securities holdings both by the issuer of the securities being held (showing the portfolio manager whose clients hold the securities) and by reporting portfolio manager (showing the securities being held by each reporting portfolio manager). These tabulations are available in the Commission's public reference room in both hard copy and computerized (CD - ROM) form.
+
+12 Pre-dissemination processing of Form 13F-E included pagination, insertion of column headings on each page, and make-up of a cover page for the filing using data elements tagged by the filer.
+
+13 Only the Form 13F reports filed voluntarily through the EDGAR system on Form 13F-E were disseminated electronically and available on the Commission's internet web site, whereas other public disclosure filings, which filers must file electronically on EDGAR, are disseminated electronically and are available on the Commission's web site. The staff routinely receives telephone requests for information on how to find Form 13F reports on EDGAR.
+
+14 See , e.g. , Senate Report No. 94-75, accompanying S. 249. In connection with the addition of Section 13(f) of the Exchange Act, that report states that (o)ne of the important purposes of the bill would be dissemination of the institutional disclosure data to the public. Accordingly, except where confidential treatment is appropriate, the SEC would be required to tabulate the information in a manner which enhances its usefulness to other federal and state authorities and the public and to make the information contained therein conveniently available to the public for a reasonable fee. (Emphasis added.) See also Joint Explanatory Statement of the Committee of Conference ("The Senate bill and the House amendment contained provisions requiring institutional investment managers which exercised investment discretion over accounts holding certain levels of specified securities to make periodic public disclosures of significant portfolio holdings and transactions." (Emphasis added.) and Release Nos. 34-13396 (Mar. 22, 1977) (42 FR 13396 (Mar. 30, 1977)) and 34-14852 (June 15, 1978) (43 FR 26700 (June 22, 1978)), proposing and adopting the filing and reporting requirements relating to institutional investment managers.
+
+15 Senate Report No. 94-75, accompanying S. 249. (Emphasis added.)
+
+16 See supra notes 14 and 15 .
+
+17 See supra note 13 .
+
+18 17 CFR 232.14 and 232.101(a)(1)(iii). Rule 14 provides that the Commission will not accept in paper format any filing required to be submitted electronically, unless the filing satisfies the requirements for a temporary or continuing hardship exemption. See Release No. 33-7472 (Oct. 24, 1997) (62 FR 58647) (effective date Jan. 1, 1998).
+
+19 The revisions to Form 13F are designed to accommodate more easily the preparation of the form as an electronic filing. The Commission also is removing Form 13F-E and rule 13f-2 (17 CFR 240.13f - 2), which governed the filing of Form 13F-E on EDGAR.
+
+20 Requests for confidential treatment are filed for reasons set forth in Section 13(f)(3) of the Exchange Act (15 U.S.C. 78m(f)(3)). Instruction D of previous Form 13F refers to that section and provides instructions for requesting confidential treatment for securities held by the account of a natural person or an estate or trust (other than a business trust or investment company) and for securities subject to certain types of trading strategies. Instructions for Confidential Treatment Requests for revised Form 13F include the same provisions. Confidential treatment requests can be granted only under certain limited circumstances. The staff recently specified procedures for requesting confidential treatment. See Letter to Section 13(f) Confidential Treatment Filers (pub. avail. June 17, 1998).
+
+21 This is consistent with the treatment of other requests for confidential treatment under the EDGAR system. See Rule 101(c)(1)(i) (17 CFR 232.101(c)(1)(i)). A Manager filing confidential information should comply with the provisions of paragraph (b) of Exchange Act rule 24b - 2 (17 CFR 240.24b-2) by including on the Summary Page of its public Form 13F report (after the Report Summary and prior to the List of Other Included Managers) a statement that confidential information has been omitted from the public Form 13F report and filed separately with the Commission. See Instructions for Confidential Treatment Requests for Form 13F. See also infra notes 25 and 26 and accompanying text.
+
+22 See paragraph (a)(2) of rule 13f-1 (17 CFR 240.13f-1(a)(1)).
+
+23 See Special Instruction 1 for Form 13F.
+
+24 See Special Instructions 3 through 6 for Form 13F.
+
+25 See Special Instruction 8 for Form 13F. The Commission is eliminating the previous requirement of Forms 13F and 13F-E that to list the other included managers alphabetically. The one institutional manager commenting supported this change.
+
+26 See Special Instruction 7 for Form 13F.
+
+27 See Special Instruction 12 for Form 13F. See infra footnote 30 and accompanying text concerning a comment received on the contents of the Information Table.
+
+28 See General Instruction C for previous Form 13F.
+
+29 See General Instruction E for previous Form 13F and rule 13f-1(c) (17 CFR 240.13f-1(c)).
+
+30 Neither this nor any other information to be presented in the Information Table differs from that previously required in Form 13F reports.
+
+31 As with its other rules, the Commission will use any appropriate means, including its authority to bring legal actions, to enforce the electronic filing rules. See supra note 18 .
+
+32 See supra notes 14 and 15 and accompanying text.
+
+33 See infra note 42 .
+
+34 See infra Section VI.
+
+35 15 U.S.C. 78w(a).
+
+36 15 U.S.C. 78m(f)(4).
+
+37 15 U.S.C. 77b(b).
+
+38 15 U.S.C. 78c(f).
+
+39 The proposing release contained an arithmetic mistake in the statement of total average annual burden hours (177,894 as printed; 178,435.2 correct). The correct figure appeared in the PRA submission to OMB and appears in this release.
+
+40 15 U.S.C. 78m(d)(1).
+
+41 The current estimate is higher, approximately 2,000.
+
+42 The additional requirements are not complex. The cover page adds the requirements of identification of an amendment filing; the inclusion of the Form 13F file number of the manager filing the report; and the designation of the report as one that names other reporting manager(s) reporting for the filer, reports holdings over which the reporting manager exercises discretion, or both. The summary page adds a Report Summary, containing the Number of Other Included Managers, an Information Table Entry Total, and an Information Table Value Total.
+
+43 15 U.S.C. 78m(f)(3).
+
+44 5 U.S.C. Section 552. http://www.sec.gov/rules/final/34-40934.htm

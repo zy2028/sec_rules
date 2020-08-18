@@ -1,0 +1,483 @@
+https://www.sec.gov/rules/final/2008/33-8981.pdf
+
+I.0.0.0 BACKGROUND
+
+II.0.0.0 MANDATORY ELECTRONIC SUBMISSION OF INVESTMENT COMPANY APPLICATIONS
+
+		II..1.0 applications with regard to mixed and shared funding filed under Section 6(c) of the Investment Company Act, for exemptions from the provisions of Sections 9(a), 13(a), 15(a) and 15(b) of the Investment Company Act,and Rules 6e-2(b)(15) and 6e- 3(T)(b)(15);
+
+		II..2.0 applications relating to the recapture of bonus credits filed under Section 6(c) of the Investment Company Act for exemptions from the provisions of Sections 2(a)(32) and 27(i)(2)(A) of the Investment Company Actand Rule 22c-1;
+
+		II..3.0 applications relating to the substitution of securities held by a variable insurance separate account filed under Section 26(c) of the Investment Company Act;and
+
+		II..4.0 applications for approval of the terms of an exchange offer involving variable insurance
+
+III.0.0.0 AMENDMENTS TO RULE 0-2 AND TO TEMPORARY HARDSHIP EXEMPTION OF REGULATION S-T
+
+IV.0.0.0 AMENDMENTS TO MANDATE THAT CERTAIN FILINGS OF SMALL BUSINESS INVESTMENT COMPANIES AND BUSINESS DEVELOPMENT COMPANIES BE MADE ELECTRONICALLY
+
+V.0.0.0 EFFECTIVE DATE
+
+VI.0.0.0 COST-BENEFIT ANALYSIS
+
+	VI.A.0.0 Expected Benefits
+
+	VI.B.0.0 Expected Costs
+
+VII.0.0.0 BURDEN ON COMPETITION; PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
+
+VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
+
+	VIII.A.0.0 Need for the Rule Amendments
+
+	VIII.B.0.0 Significant Issues Raised by Public Comment
+
+	VIII.C.0.0 Small Entities Subject to the Rule
+
+	VIII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+	VIII.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+IX.0.0.0 PAPERWORK REDUCTION ACT
+
+	IX.A.0.0 Rule 0-2
+
+	IX.B.0.0 Regulation S-T
+
+	IX.C.0.0 Form ID
+
+X.0.0.0 STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 232 and 270
+
+[Release Nos. 33-8981; 34-58874; IC-28476 File No. S7-25-07] RIN 3235-AJ81
+
+Mandatory Electronic Submission of Applications for Orders under the Investment Company Act and Filings Made Pursuant to Regulation E
+
+AGENCY : Securities and Exchange Commission.
+
+ACTION : Final rule.
+
+SUMMARY : We are adopting several amendments to rules regarding our Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. Specifically, we are amending our rules to make mandatory the electronic submission on EDGAR of applications for orders under any section of the Investment Company Act of 1940 (“Investment Company Act”) as well as Regulation E filings of small business investment companies and business development companies. We also are amending the electronic filing rules to make the temporary hardship exemption unavailable for submission of applications under the Investment Company Act.
+
+Finally, we are amending Rule 0-2 under the Investment Company Act, eliminating the requirement that certain documents accompanying an application be notarized and the requirement that applicants submit a draft notice as an exhibit to an application.
+
+EFFECTIVE DATE: January 1, 2009.
+
+FOR FURTHER INFORMATION CONTACT: If you have questions about the rules, please contact one of the following members of our staff in the Division of Investment Management, at the Securities and Exchange Commission, 100 F Street NE, Washington, DC 20549-0506: in the Office of Legal and Disclosure, Ruth Armfield Sanders, Senior Special Counsel (EDGAR), at
+
+(202) 551-6989; in the Office of Investment Company Regulation, Michael W. Mundt, Assistant
+
+Special Counsel, at (202) 551-6766; for technical questions relating to the EDGAR system, in the Office of Information Technology, Richard D. Heroux, EDGAR Program Manager, at (202) 551-8168.
+
+SUPPLEMENTARY INFORMATION:
+
+The Securities and Exchange Commission (“Commission”) is adopting amendments to Rules 101 and 201 of Regulation S-T <sup>1</sup> relating to electronic filing on the EDGAR system and to Rule 0-2 <sup>2</sup> under the Investment Company Act. <sup>3</sup>
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+In the last several years, we initiated a series of amendments to keep EDGAR current technologically and to make it more useful to the investing public and Commission staff. <sup>4</sup> In April 2000, we adopted rule and form amendments in connection with the modernization of EDGAR. <sup>5</sup> In the Modernization Proposing Release, we noted that, as the use of electronicaccess to our filings. We also stated that we were contemplating future rulemaking to require more of our filings to be filed on EDGAR. In May 2002, we adopted rules requiring foreign private issuers and foreign governments to file most of their documents electronically. <sup>6</sup> In May 2003, we adopted rules requiring electronic filing of beneficial ownership reports filed by officers, directors and principal security holders under Section 16(a) <sup>7</sup> of the Securities Exchange Act of 1934 (“Exchange Act”). <sup>8</sup> In July 2005, we adopted rules requiring certain open-end management investment companies and insurance company separate accounts to identify in their EDGAR submissions information relating to their series and classes (or contracts, in the case of separate accounts) and mandating that fidelity bonds filed under Section 17(g) <sup>9</sup> and sales literature filed with us under Section 24(b) <sup>10</sup> be made by electronic submission on the EDGAR system. <sup>11</sup> In December 2006, we adopted amendments to the rules and forms under Section 17A of the Exchange Act requiring that the forms filed with respect to transfer agent registration, annual reporting, and withdrawal from registration be filed with the Commission electronicallysubmission of Form D on the EDGAR system. <sup>13</sup>
+
+Today, we are amending our rules to require that applicants submit electronically on the EDGAR system their applications for orders under any section of the Investment Company Act (“applications”). In addition, we are adding Regulation E filings to the list of those that must be filed electronically through EDGAR. These amendments are designed to facilitate the efficient submission of applications and Regulation E filings, to enable the public to access them more quickly and search them more easily, and to improve the Commission’s ability to track and process such applications and Regulation E filings. We are also making related amendments to Regulation S-T, our electronic filing rules, and revising Rule 0-2.
+
+<h>II. MANDATORY ELECTRONIC SUBMISSION OF INVESTMENT COMPANY APPLICATIONS</h>
+
+The rules under Regulation S-T previously provided that applications for exemptive relief under any section of the Investment Company Act shall not be made in electronic format. <sup>14</sup> The only applications under the Investment Company Act that were mandatory EDGAR submissions were applications for deregistration filed by investment companies. <sup>15</sup> Applicants for orderspersons of registered investment companies, and issuers seeking to avoid investment company status, among other entities. <sup>16</sup> These applications were submitted in paper and available only from the Commission’s public reference room or electronically from private services. Private services usually charge fees for electronic copies of applications; also, there is a delay of about thirty days between the submission of applications to the Commission and their electronic availability from the private sources.
+
+We are amending certain provisions of Regulation S-T and Investment Company Act Rule 0-2 <sup>17</sup> to require electronic submission on EDGAR of applications pursuant to Rule 0-2 under the Investment Company Act. We are amending Rule 101(a)(1)(iv) of Regulation S-T to include within its mandatory electronic filing provisions any application for an order under any section of the Investment Company Act. <sup>18</sup>
+
+In the Proposing Release, we requested comment on the impact of our making the submission of requests for orders under the Investment Company Act mandatory electronic submissions and whether we should implement this rule. We requested comment on whether itsought comments as to which applications the rule should apply. We asked commenters to address the issue of what the transition period should be for investment companies and other applicants to prepare for the mandatory electronic submission of these applications.
+
+We requested comment not only on the specific issues that we discussed in the Proposing Release, but on any other approaches or issues that we should consider in connection with the submission of applications for orders and Regulation E filings on the EDGAR system. We sought comment from any interested person, including those required to file information with us on the EDGAR system, as well as investors, disseminators of EDGAR data, EDGAR filing agents, and other members of the public who have access to and use information from the EDGAR system.
+
+We asked commenters to provide detailed information on any difficulties and considerations unique to these proposed requirements. In the event commenters believed that any aspect of the proposed requirements would be burdensome, we asked for specific details and alternative approaches.
+
+We received two comment letters in response to our requests for comment. Both commenters expressed support for the rulemaking proposal to require that all applications be submitted electronically through the EDGAR system . <sup>19</sup> Both commenters expressed views about
+
+Like the Commission, the Institute believes that the proposal will help to facilitate both the efficient submission of applications and the retrieval of those applications by interested parties. We also applaud this effort by the Commission to improve its ability to track and process exemptive applications, which are of vital importance to the fund industry and, ultimately, to fund investors.applications that are sent to the staff in draft that have not been officially filed. One commenter inquired about applications made under both the Investment Company Act and the Investment Advisers Act of 1940 (“Investment Advisers Act”) <sup>20</sup> and had certain concerns about amendments to Rule 0-2. <sup>21</sup> We received no comments in connection with the portion of our proposal related to Regulation E filings.
+
+We are adopting these amendments, in light of the primary goals of the EDGAR system, to facilitate the rapid dissemination of financial and business information in connection with filings, including filings by investment companies. Requiring applications to be submitted electronically will benefit members of the investing public and the financial community by making information contained in these filings readily available and more easily searchable. In this age of information, we believe that filings and applications made with the Commission are more valuable to the public if they are available in electronic form and that adding applications to the EDGAR database will provide a more complete picture for the investing public. We believe that the amendments will benefit the public by making the EDGAR page of our Web site a more comprehensive resource for most information on file with us related to the operation of investment companies.
+
+Both of the commenters on the Proposing Release raised the issue of applications submitted to the Commission's staff in draft form. One commenter strongly believed that “the
+
+See Comment Letter dated Dec. 14, 2007, of Karrie McMillan, General Counsel, Investment Company Institute (the “ICI Comment Letter”). See also Comment Letter dated Dec. 14, 2007, of Mercer Bullard, Founder and President, Fund Democracy (the ”Fund Democracy Comment Letter”).
+
+Commission staff’s willingness to consider exemptive applications in draft form and to grant requests for confidential treatment, when appropriate, is critical to encouraging innovation in the fund industry.” <sup>22</sup> The other commenter was concerned that the new filing requirement might result in an increase of the use of draft applications to the detriment of the public interest. <sup>23</sup>
+
+The staff's policy, as first stated in a Commission release in 1985, is that the staff will not, except in the most extraordinary situations, review draft applications. <sup>24</sup> Consistent with this policy, the staff will continue to accept draft applications only in situations where the applicant clearly demonstrates the extraordinary circumstances that necessitate the submission of a draft application. <sup>25</sup> We believe that this approach continues to strike an appropriate balance between encouraging
+
+The development of new investment products and more efficient and effective business practices can be a costly and time-consuming endeavor for fund sponsors and other applicants. In return for their investment of intellectual and financial capital, applicants should be rewarded for their innovation and creativity by being the “first to market” with their new product or practice.
+
+Permitting applicants to file draft applications is contrary to fundamental principles of administrative law and the public interest. It also is unfair to other applicants for Commission staff to spend time on draft applications while applications that have been properly filed are left on hold. In its adopting release, the Commission should clarify that the staff will not accept or review draft applications, and that concerns regarding the confidentiality of proprietary information should be addressed by appropriate redactions in a filed request.
+
+See Fund Democracy Comment Letter.innovation in the fund industry, making effective use of staff resources, and serving the interests of the public. While it is possible that applicants will seek permission to submit more applications as draft applications, as discussed above the staff’s policy of reviewing draft applications only in the most extraordinary situations will not change, and as a result, we do not believe that the number of draft applications will increase. The new filing requirement will only change the format (from paper to electronic) of documents that were and will be publicly available.
+
+As we noted in the Proposing Release, from time to time, an applicant may wish to submit an application for exemption under both the Investment Company Act and the Investment Advisers Act. <sup>26</sup> We did not propose to require that applications under the Investment Advisers Act be made on EDGAR. We noted that any document that is intended as an application for an order under both the Investment Company Act and the Investment Advisers Act should be submitted separately under each Act.
+
+One commenter expressed the view that we should consider alternative approaches that would allow a single EDGAR filing for an application requesting relief under both Acts. <sup>27</sup> We note that, to date, the EDGAR system has not been a vehicle for the submission of Investment Advisers Act filings. Further, based on staff review of the contents of all Advisers Act applications submitted to us, we are not aware of any within the past ten years that also requested relief from Investment Company Act provisions. Therefore, we believe it is not cost-effective for us to make the programming changes at this time so that EDGAR would accept applicationsunder both Acts, given that recently no applications requested relief from both statutes. EDGAR will accept applications under the Investment Company Act as proposed.
+
+As with other entities that make submissions on EDGAR, applicants will be subject to the provisions of Regulation S-T <sup>28</sup> and the EDGAR Filer Manual. Regulation S-T includes detailed rules concerning mandatory and permissive electronic EDGAR submissions; it also makes clear that requests for confidential treatment must be made in paper format. <sup>29</sup>
+
+Regulation S-T requires the electronic filing of any amendments and related correspondence and supplemental information pertaining to a document that is the subject of mandated EDGAR submission. <sup>30</sup> These requirements also apply to companies and persons who submit applications. <sup>31</sup> The requirement to file amendments electronically applies to applications filed electronically on EDGAR as well as to pending applications initially filed in paper. <sup>32</sup>
+
+The Regulation also covers such matters as providing for the override of formatting requirements applicable to paper submissions. <sup>33</sup> The EDGAR Filer Manual contains detailed technical specifications concerning EDGAR submissions. The Manual also provides technical guidance concerning how to commence submissions on EDGAR by submitting Form ID to obtain a CIK <sup>34</sup> and confidential access codes and how to maintain and update company data, e.g. , how to change company names and contact information. <sup>35</sup>
+
+One technical specification that the EDGAR Filer Manual includes is the electronic “submission type” for each submission made on EDGAR. The EDGAR electronic submission types for applications are designed to facilitate and expedite the review of these applications.
+
+Consistent with our amendments, the EDGAR Filer Manual and the EDGARLink software provide for three EDGAR electronic submission types for applications: 40-APP, 40- OIP, and 40-6B. Applicants whose applications are typically processed by the Division of Investment Management’s Office of Investment Company Regulation will use EDGAR submission type 40-APP; these applicants will submit amendments using EDGAR submission type 40-APP/A. Applicants whose applications are typically processed by the Division’s Office of Insurance Products will use the new EDGAR submission type 40-OIP; these applicants will submit amendments using EDGAR submission type 40-OIP/A. Employees’ securities companyapplications (also processed by the Office of Investment Company Regulation) will use EDGAR submission type 40-6B and submission type 40-6B/A for amendments. Applicants that have currently pending applications that were submitted in paper and recorded as submission type 40- 6C will submit amendments to their applications using either EDGAR submission type 40- APP/A or 40-OIP/A, as appropriate.
+
+The EDGAR Filer Manual provides guidance for applicants in choosing the correct submission type. Most applicants will submit their applications under EDGAR submission type 40-APP, the submission type designated for the Office of Investment Company Regulation.
+
+Applicants submitting the following categories of applications will use EDGAR submission type 40-OIP, the submission type for the Office of Insurance Products:
+
+<h>1. applications with regard to mixed and shared funding filed under Section 6(c) of the Investment Company Act, for exemptions from the provisions of Sections 9(a), 13(a), 15(a) and 15(b) of the Investment Company Act,and Rules 6e-2(b)(15) and 6e- 3(T)(b)(15);</h>
+
+<h>2. applications relating to the recapture of bonus credits filed under Section 6(c) of the Investment Company Act for exemptions from the provisions of Sections 2(a)(32) and 27(i)(2)(A) of the Investment Company Actand Rule 22c-1;</h>
+
+<h>3. applications relating to the substitution of securities held by a variable insurance separate account filed under Section 26(c) of the Investment Company Act;and</h>
+
+<h>4. applications for approval of the terms of an exchange offer involving variable insurancecontracts filed under Section 11(a) of the Investment Company Act. <sup>41</sup></h>
+
+These three submission types are designed to facilitate and expedite staff review of the submissions. Our internal system will quickly route the application to the appropriate Office. If applicants have any questions as to the appropriate EDGAR submission type, we encourage them to verify in advance the correct submission type so that the application can be routed automatically to the appropriate Office. <sup>42</sup> As proposed, for applications with multiple co- applicants, the applicants will submit the application with all co-applicants included in one submission. The applicants will choose one applicant to list first as the “primary” co-applicant. Then, they will include in the EDGAR template the information for all other co-applicants, i.e. , the CIK of each co-applicant and, for amendments, the file number assigned to each co-applicant when the original application was filed. Applicants can be dropped from or added to an application with each amendment submission. <sup>43</sup>
+
+Our internal EDGAR system has been enhanced to allow for the upload and public dissemination via the EDGAR system of notices and orders in connection with applications. These documents will, of course, still be available in the Federal Register. The staff will commence the upload and dissemination of notice and orders on the EDGAR system as of theeffective date of the amendments. The staff will upload and disseminate any notice or order issued on or after the effective date, regardless of whether the application, or any amendment to it, was submitted in paper or on EDGAR.
+
+We asked commenters to address the issue of what the transition period should be for investment companies and other applicants to prepare for the mandatory electronic submission of these applications. We received no comments in response to this request other than the comments regarding draft applications. We believe applicants are prepared to submit their applications electronically on EDGAR as soon as our amendments become effective.
+
+<h>III. AMENDMENTS TO RULE 0-2 AND TO TEMPORARY HARDSHIP EXEMPTION OF REGULATION S-T</h>
+
+Rule 0-2 requires that every application for an order for which a form is not specifically prescribed and which is executed by a corporation, partnership or other company and filed with the Commission contain a statement of the applicable provisions of the articles of incorporation, bylaws or similar documents, relating to the right of the person signing and filing such application to take such action on behalf of the applicant, and a statement that all such requirements have been complied with and that the person signing and filing the application is fully authorized to do so. If such authorization is dependent on resolutions of stockholders, directors, or other bodies, such resolutions must be attached as an exhibit to or quoted in the application. Any amendment to the application must contain a similar statement as to the applicability of the original statement of authorization. When any application or amendment is signed by an agent or attorney, Rule 0-2 requires that the power of attorney evidencing his authority to sign shall state the basis for the agent’s authority and shall be filed with the Commission. Every application subject to Rule 0-2 must be verified by the person executing theapplication by providing a notarized signature in substantially the form specified in the rule. Each application subject to Rule 0-2 must state the reasons why the applicant is deemed to be entitled to the action requested, the name and address of each applicant, and the name and address of any person to whom any questions regarding the application should be directed. Rule 0-2 requires that a proposed notice of the proceeding initiated by the filing of the application accompany each application as an exhibit and, if necessary, be modified to reflect any amendment to the application.
+
+We proposed three amendments to Rule 0-2 governing the form of applications under the Investment Company Act and requested comment on these proposed amendments. The commenters supported the proposed amendments to Rule 0-2, and we are adopting these amendments as proposed. First, we are eliminating the requirement to have verifications of applications and statements of facts made in connection with applications notarized. <sup>44</sup> We believe that this requirement is unnecessary in the context of an electronic filing. <sup>45</sup> Second, we are eliminating the requirement that applicants include draft notices as exhibits to applications. <sup>46</sup> The staff has found these exhibits to be of limited value because the staff prefers to draft its own notices of applications. Finally, we are amending Rule 0-2 to remove the last sentence ofparagraph (b), <sup>47</sup> which was added in the initial EDGAR rulemaking and is inconsistent with mandatory electronic submission of applications on EDGAR. <sup>48</sup>
+
+One commenter suggested that we further amend Rule 0-2 by eliminating from paragraph (c)(1) the requirement that a copy of any board resolution authorizing the actions of the person signing and filing the application be included as an exhibit to the application (or, alternatively, that the pertinent provisions of such resolution be quoted in the application). <sup>49</sup>
+
+Because this suggestion goes beyond the scope of our proposal, we are not adopting the recommendation at this time. We may consider this recommendation in the future.
+
+We proposed and are adopting an amendment to Rule 201 of Regulation S-T. Rules 201 and 202 <sup>50</sup> of Regulation S-T address hardship exemptions from EDGAR filing requirements, and Rule 13(b) of Regulation S-T <sup>51</sup> addresses the related issue of filing date adjustments.
+
+A filer may obtain a temporary hardship exemption under Rule 201 if it experiences
+
+In our view, this requirement is unnecessary because the person signing the application is required to attest to such resolutions in the verification required by paragraph (d) of the rule. We further note that board resolutions do not have to be submitted with other types of filings with the Commission, such as fund registration statements and proxy statements, nor are we aware of any history of abuse that would suggest this requirement must be maintained.unanticipated technical difficulties that prevent the timely preparation and submission of an electronic filing by filing a properly legended paper copy <sup>52</sup> of the filing under cover of Form TH. <sup>53</sup> This process is self-executing. A filer who files in paper under the temporary hardship exemption must submit an electronic format copy of the filed paper document within six business days of the filing of the paper format document. <sup>54</sup>
+
+A filer may apply for a continuing hardship exemption under Rule 202 if it cannot file all or part of a filing without undue burden or expense. <sup>55</sup> In contrast to the self-executing temporary hardship exemption process, a filer can obtain a continuing hardship exemption only by submitting a written application, upon which the Commission, or Commission staff pursuant to delegated authority, may then act.
+
+We proposed making the temporary hardship exemption unavailable for submission of applications under the Investment Company Act, since there is generally no submission exigency or submission deadline associated with these submissions. We asked for comments on this proposed amendment. We received one comment questioning whether, if this provision were adopted, the staff would work with applicants that need additional time to file amendments, to prevent applications from being placed in an inactive status. <sup>56</sup> As has been the practice in the past,the staff will continue to work with applicants experiencing unanticipated technical or other difficulties to establish appropriate timeframes for the submission of amendments and ensure the timely processing of all applications.
+
+We are amending Rule 201(a) of Regulation S-T as proposed to make the temporary hardship exemption unavailable for submission of applications under the Investment Company Act. <sup>57</sup> We restate our belief that there is generally no submission exigency or submission deadline associated with these submissions. An applicant will continue to have the ability to apply for a continuing hardship exemption under Rule 202 if it cannot submit all or part of an application without undue burden or expense. Also, while we expect the circumstances to be rare, the staff could use its delegated authority to grant a filing date adjustment pursuant to Rule 13(b) of Regulation S-T [17 CFR 232.13(b)]. While we do not expect an applicant to need a filing date adjustment in the context of an application, it will be available in the unlikely event it is needed. And, as stated above, the staff will continue to work with applicants experiencing unanticipated difficulties.
+
+<h>IV. AMENDMENTS TO MANDATE THAT CERTAIN FILINGS OF SMALL BUSINESS INVESTMENT COMPANIES AND BUSINESS DEVELOPMENT COMPANIES BE MADE ELECTRONICALLY</h>
+
+Regulation E <sup>58</sup> provides for the exemption from registration of securities issued by small business investment companies registered under the Investment Company Act and businessdevelopment companies regulated under the Investment Company Act, subject to the terms and conditions of the regulation. Rule 604 <sup>59</sup> of Regulation E requires the filing of notification on Form 1-E <sup>60</sup> of sales of securities under Regulation E. Rule 607 <sup>61</sup> of Regulation E requires the filing of sales material used in connection with the offering. Rule 609 <sup>62</sup> of Regulation E requires the filing of reports of sales on Form 2-E. <sup>63</sup>
+
+We proposed that Regulation E filings be mandatory electronic filings on the EDGAR system. Regulation E filers make most of their filings electronically on the EDGAR system. Since these filers are already EDGAR filers and most will have available electronic copies of their Form 1-E (and any related sales material) <sup>64</sup> and Form 2-E, we believe that making these filings electronically on EDGAR will impose very little burden or cost on these companies. We requested but received no comment on this proposal. We are adopting the amendments as proposed, making these filings mandatory electronic submissions. <sup>65</sup>
+
+<h>V. EFFECTIVE DATE</h>
+
+Beginning on January 1, 2009, applications for orders under the Investment Company Act and Regulation E filings will become mandatory electronic submissions on the EDGAR system. This effective date will provide time for filers to prepare for the mandatory requirements. Also, since the effective date will be the start of a calendar year, the public will have a clear reference point for determining whether any particular application or Regulation E filing has been submitted either in paper or electronically.
+
+<h>VI. COST-BENEFIT ANALYSIS</h>
+
+We are sensitive to the costs and burdens of our rules. The rules we are adopting today reflect the addition of applications under the Investment Company Act as mandatory electronic submissions on EDGAR. In addition, they amend Rule 0-2 and make unavailable to applicants Regulation S-T’s provision for temporary hardship exemptions. They also add Regulation E filings to the list of those that must be filed electronically through EDGAR.
+
+<h>A. Expected Benefits</h>
+
+We expect that the addition of applications under the Investment Company Act as mandatory electronic submissions on EDGAR will result in considerable benefits to the securities markets, investors, and other members of the public, by expanding the accessibility of information, and increasing the types of information, filed and made available for public review through the EDGAR system. The primary goal of the EDGAR system since its inception has been to facilitate the rapid dissemination of financial and business information in connection with filings, including filings by investment companies. The amendments will benefit investors, financial analysts and others by increasing the efficiency of retrieving and disseminating theseapplications. The mandated electronic transmission of these documents will enable the public to access them more quickly and search them more easily. Instead of having to come in person or through an agent to the Commission's public reference room to conduct a search for a particular submission that is in paper or microfiche, the public will be able to find and review the application on any computer with an Internet connection by accessing the EDGAR system through the Commission's Web site or through a third party Web site that links to EDGAR. We received one comment stating the belief that it is unlikely that investors would choose to access and review exemptive applications available via EDGAR. <sup>66</sup> We believe that these documents should be publicly available via EDGAR for any investors who do choose to access and review them.
+
+The amendments will benefit the public by making the EDGAR page of our Web site a more comprehensive resource for most information on file with us related to the operation of investment companies. A further benefit will be to ensure that all applications are available to the public free of charge on our Web site without the cost of paying a third party for a copy.
+
+Persons who may consider requesting a hearing on an application on the basis of a notice will be able to more easily obtain the actual application so that they can better evaluate the issues raised by the application. We believe this will be a significant improvement in the applications process.
+
+We also expect that applicants will benefit from the increased efficiencies in the filing process for these submissions resulting from the amendments. By electronically transmitting these documents directly to the Commission, applicants will avoid the uncertainties and delaysthat can occur with the manual delivery of paper documents; we believe that it will be a simpler and more efficient means to submit applications. Applicants also will benefit from no longer having to submit multiple copies of paper documents to the Commission.
+
+Because the Commission's staff will be able to retrieve and analyze information contained in these submissions more readily than under our current paper system, mandated electronic submission of these documents should facilitate the staff's retrieval and review of a particular document. Applicants and investors should benefit from increased efficiencies in the Commission's storage, retrieval, and analysis of these submissions which should result from the amendments.
+
+We believe the amendments to Rule 0-2 will benefit applicants. Removing the notarization requirement will remove a requirement from filers that is unnecessary for electronic filings, and removing the requirement to include a draft notice as an exhibit will result in a cost- savings to applicants. And, we believe that making unavailable to applicants Regulation S-T’s Rule 201 provision for temporary hardship exemptions will benefit applicants because applicants will not bear the cost of both submitting an application in paper and in electronic form as a confirming copy within six business days as required by the temporary hardship exemption rule. This is true in light of the fact that there is no deadline for the submission of an application.
+
+We also expect that the addition of Regulation E filings as mandatory electronic submissions on EDGAR will result in benefits to the securities markets, investors, and other members of the public, by expanding the accessibility of information, and increasing the types of information, filed and made available for public review through the EDGAR system. Requiring these Regulation E filings to be submitted on EDGAR will benefit members of the investingpublic and the financial community by making information contained in these Commission filings more easily searchable and readily available to them. The amendments will result in the benefit to the public of the EDGAR page of our Web site being a comprehensive source from which to find filings of small business investment companies and business development companies.
+
+We also expect that Regulation E filers will benefit from the amendments by increased efficiencies in the filing process for these submissions. By electronically transmitting these documents directly to the Commission, these filers will avoid the uncertainties and delays that can occur with the manual delivery of paper documents; we believe that it will be a simpler and more efficient means to submit these Regulation E filings. Regulation E filers also will benefit from no longer having to submit multiple copies of paper documents to the Commission.
+
+The amendments will benefit investors, financial analysts and others by increasing the efficiency of retrieving and disseminating these filings. The mandated electronic transmission of these documents will enable the public to access them more quickly. Instead of having to come in person or through an agent to the Commission's public reference room to conduct a search for a particular submission that is in paper or microfiche, the public will be able to find and review the filing on any computer with an Internet connection by accessing the EDGAR system through the Commission's Web site or through a third party Web site that links to EDGAR. The amendments will also enable financial analysts and others to retrieve, analyze and disseminate more rapidly this information.
+
+An investor will be able to more efficiently gather information of interest about Regulation E filers. Also, Regulation E filers and investors should benefit from the amendmentsby increased efficiencies in the Commission's storage, retrieval, and analysis of these submissions. Mandated EDGAR submission of these documents will result in their addition to the Commission's central electronic repository of filings that is free to anyone who has access to a computer linked to the Internet. Because the Commission's staff will be able to retrieve and analyze information contained in these Regulation E submissions more readily than under our current paper system, mandated electronic submission of these documents should facilitate the staff's retrieval and review of a particular document.
+
+In the Paperwork Reduction Act section we estimate that, the amendments to Rule 0-2 will reduce the total burden by approximately $52,550 annually.
+
+<h>B. Expected Costs</h>
+
+We expect that the amendments will result in some initial and ongoing costs to applicants. We also expect, however, that many applicants will not bear the full range of costs that will result from the amendments for the reasons described below. Initial costs are those associated with filing a Form ID in order to obtain the access codes needed to submit an application electronically and otherwise preparing to make an application submission. <sup>67</sup> In order to file a Form ID, an applicant will need to learn the related electronic filing requirements, obtain access to a computer and the Internet, use the computer to access the Commission’s EDGAR Filer Management Web site, respond to Form ID’s information requirements and fax to the Commission a notarized authenticating document.
+
+Ongoing costs are those associated with maintaining the framework developed through the initial costs (for example, updating information required by Form ID) and additional costs arising from each subsequent submission of an application.
+
+We expect that the vast majority of applicants will need to incur few, if any, additional costs related to obtaining computer and Internet access. We believe that the vast majority of applicants already will have access to a computer and the Internet. <sup>68</sup>
+
+We expect no additional costs to applicants from amendments to Rule 0-2. We requested but received no comment on whether our amendments to Rule 0-2 to remove the current requirements for notarization and provision of a draft notice as an exhibit will result in any additional costs, although the two commenters supported these proposals. We expect no additional costs to applicants from our amendment to make unavailable to applicants Regulation S-T’s Rule 201 provision for temporary hardship exemption. An applicant will still be able to request a continuing hardship exemption under Regulation S-T Rule 202 under appropriate circumstances.
+
+We believe that mandatory EDGAR submission of Regulation E filings will result in minimal cost to these filers. For the following reasons, we also expect that Regulation E filers will not bear the full range of costs frequently associated with new electronic filing requirements. Initial costs are those associated with the purchase of compatible computer equipment and software, including EDGAR software if obtained from a third-party vendor and not from the Commission's Web site. Initial costs also include those resulting from the training of existingemployees to be EDGAR proficient or the hiring of additional employees or agents that are already skilled in EDGAR processing. Initial costs further include those associated with the formatting and transmission of an applicant’s first document submitted on EDGAR. These transmission costs may include those related to subscribing to an Internet service provider. Regulation E filers already file on EDGAR and will have minimal or no initial costs.
+
+Ongoing costs are those associated with the electronic formatting and transmission of subsequent EDGAR filings. Regulation E filers may also incur future costs resulting from the training or hiring of employees regarding updated EDGAR filing requirements. The magnitude of these costs will depend on the filers’ levels of technological proficiency and their previous familiarity with EDGAR filing requirements. Regulation E filers will incur the ongoing costs associated with formatting and transmitting their subsequent EDGAR filings. Consequently, the mandated EDGAR requirements should result only in costs related primarily to the electronic formatting of these documents in a format compatible with EDGAR, and transmission of the EDGAR formatted documents to the Commission. In any event, we believe that any costs for transmission, formatting, and education will be comparable to savings from not having to incur similar costs related to paper submissions.
+
+<h>VII. BURDEN ON COMPETITION; PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION</h>
+
+Section 23(a)(2) of the Exchange Act requires us, in adopting rules under the Exchange Act, to consider the anti-competitive effects of any rules that we adopt thereunder. Furthermore,
+
+Section 2(b) of the Securities Act, <sup>69</sup> Section 3(f) of the Exchange Act, <sup>70</sup> and Section 2(c) <sup>71</sup> of the Investment Company Act require us, when engaging in rulemaking, and considering or determining whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. We requested comment on whether the amendments, if adopted, will burden competition and whether they will promote efficiency, competition, and capital formation. We encouraged commenters to provide empirical data or other facts to support their views. We received no comments in response.
+
+The amendments regarding mandated electronic filing of applications and the related amendments to Rule 0-2 and Regulation S-T’s Rule 201 are intended to simplify the requirements for submitting applications and facilitate more efficient transmission, analysis, storage and retrieval of information. We believe this will improve the accessibility and usefulness of information available to all applicants and the public, including those wishing to request a hearing on an application. It may make the investment products offered by applicants more competitive, since all applicants will have ready access to the applications of others. We believe the amendments will also improve the accessibility of information available to the public and investors about the operation of investment companies. We believe the amendments will not impose a burden on competition and will not have an adverse impact on capital formation.
+
+The amendments regarding mandated electronic filings under Regulation E by small business investment companies and business development companies are intended to facilitatemore efficient transmission, analysis, storage and retrieval of information. We believe this will improve the accessibility and usefulness of information available for use by filers, investors, and the public. It may make the investment products offered by filers more competitive, since all filers will have immediate on-line access to Regulation E filings of their competitors. We believe that the amendments will also improve the accessibility of information available to the public about the operation of small business investment companies and business development companies and thereby improve investors' ability to make informed investment decisions. We believe the amendments will not impose a burden on competition and will not have an adverse impact on capital formation.
+
+<h>VIII. FINAL REGULATORY FLEXIBILITY ACT ANALYSIS</h>
+
+This Final Regulatory Flexibility Act Analysis has been prepared in accordance with 5
+
+U.S.C. 603. It relates to our amendments adding applications for orders under the Investment Company Act to the list of submissions that must be made electronically, amendments to amend Rule 0-2 and make unavailable to applicants the provision for temporary hardship exemptions in Rule 201 of Regulation S-T, and amendments adding Regulation E filings to the list of those that must be filed electronically through EDGAR.
+
+<h>A. Need for the Rule Amendments</h>
+
+The amendments will require applications for orders under any section of the Investment Company Act to be submitted electronically on EDGAR. The amendments to Rule 0-2 remove the requirements for notarization and provision of a draft notice, and the amendments to Rule 201 of Regulation S-T make applications ineligible for temporary hardship exemptions. We make these amendments because the absence of an electronic system for submitting applicationsfor orders in the past limited the usefulness of the information collected and to reduce the burdens of submitting applications.
+
+The amendments add Regulation E filings made by small business investment companies and business development companies to the list of those that must be filed electronically through EDGAR. We also make these amendments because the absence of an electronic system for submitting Regulation E filings in the past limited the usefulness of the information collected.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+In the Initial Regulatory Flexibility Act Analysis (“IRFA”) for the proposed amendments, we encouraged the submission of written comments with respect to any aspect of the IRFA. We requested specifically comment on the number of small entities that will be affected by the amendments and the likely impact on small entities. We asked commenters to describe the nature of any impact and provide empirical data supporting the extent of the impact. We received no comments with respect to this section of the proposal.
+
+<h>C. Small Entities Subject to the Rule</h>
+
+For purposes of the Regulatory Flexibility Act, an investment company is a small entity if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less as of the end of its most recent fiscal year. <sup>72</sup> Approximately 159 registered investment companies meet this definition. <sup>73</sup> Approximately 38 businessdevelopment companies may be considered small entities. <sup>74</sup> We estimate that few, if any, separate accounts registered on Form N-3, N-4, or N-6 are small entities. <sup>75</sup>
+
+<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements</h>
+
+The amendments require applicants to submit requests for orders and small business investment companies and business development companies to submit Regulation E filings electronically on the EDGAR system. The Commission estimates some one-time formatting and ongoing burdens that will be imposed on all applicants and Regulation E filers, including those that are small entities. We note, however, that all Regulations E filers and most applicants currently make other filings on EDGAR. Furthermore, we believe that non-investment company applicants will have no greater burden than that of those filers of Section 16 reports or Schedules 13D and 13G <sup>76</sup> who will not otherwise make EDGAR filings and that the electronic submission should create only a de minimis burden.
+
+There will be no change in reporting or recordkeeping requirements. The amendments to Rule 0-2 reduce compliance requirements to the extent that they will remove the requirements for notarization of the application and provision of a draft notice with the application.
+
+We solicited comment on the effect the amendments would have on small entities. We received no comments in response.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The Regulatory Flexibility Act directs us to consider significant alternatives that will accomplish our stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, the Commission considered the following alternatives: (i) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (ii) the clarification, consolidation, or simplification of compliance and reporting requirements under the amendments for small entities; (iii) the use of performance rather than design standards; and (iv) an exemption from coverage of the amendments, or any part thereof, for small entities.
+
+The Commission believes at the present time that special compliance or reporting requirements for small entities, or an exemption from coverage for small entities, is not appropriate or consistent with investor protection. Different requirements for applicants or Regulation E filers that are small entities could make it more difficult for the public to locate Commission filings and disclosure documents for these applicants. We believe it is important that the benefits resulting from the amendments be provided to the public for all applications and Regulation E filings, not just for applications and Regulation E filings for entities that are not considered small entities.
+
+We have endeavored throughout the amendments to minimize the regulatory burden on all applicants and Regulation E filers, including small entities, while meeting our regulatory objectives. Small entities should benefit from the Commission’s reasoned approach to theamendments to the same degree as others. The Commission believes that further clarification, consolidation, or simplification of the amendments for those that are small entities would be inconsistent with the Commission’s concern for investor protection. Further clarification, consolidation, or simplification of the amendments for those that are small entities would result in less information available about them. Similarly, we conclude that using performance rather than design standards would not be consistent with our statutory mandate of investor protection. We believe that the standard provided in the amendments (EDGAR filing) is already sufficiently clear and appropriately simple. A major goal of making these mandatory EDGAR submissions is a more complete and searchable EDGAR database of filings; we do not believe that there is a comparable performance standard that will achieve this goal.
+
+<h>IX. PAPERWORK REDUCTION ACT</h>
+
+The rule amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>77</sup> We submitted the collections of information to the Office of Management and Budget (“OMB”) for review in accordance with 44
+
+U.S.C. 3507(d) and 5 CFR 1320.11. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.
+
+<h>A. Rule 0-2</h>
+
+The title for the collection of information is “General Requirements of Papers and Applications.” OMB approved this collection of information under control number 3235-0636 (expiring on February 28, 2011). Provision of information under the rule is necessary to obtain abenefit. The information is not kept confidential. Respondents to the collection are applying for orders of the Commission under the Investment Company Act. The Commission uses the information required by Rule 0-2 to decide whether the applicant should be deemed to be entitled to the action requested by the application. The amendments to Rule 0-2 eliminate the requirement to have verifications of applications and statements of facts made in connection with applications notarized <sup>78</sup> and eliminate the requirement that applicants include draft notices as exhibits to applications. <sup>79</sup>
+
+Burden Estimate for Rule 0-2
+
+Applicants file applications as they deem necessary. The Commission receives approximately 125 applications per year under the Investment Company Act. Although each application typically is submitted on behalf of multiple entities, the entities in the vast majority of cases are related companies and are treated as a single applicant for purposes of this analysis.
+
+Much of the work of preparing an application is performed by outside counsel. The cost outside counsel charges applicants depends on the complexity of the issues covered by the application and the time required for preparation. Based on conversations with applicants and attorneys, the cost ranges from approximately $7,000 for preparing a well-precedented, routine application to approximately $80,000 to prepare a complex and/or novel application. We estimate that the Commission receives 20 of the most time-consuming applications annually, 80 applications of medium difficulty, and 25 of the least difficult applications. This distributiongives a total estimated annual cost burden to applicants of filing all applications of$5,255,000 [(20x$80,000) + (80x$43,500) + (25x$7,000)].
+
+In addition, based on conversations with applicants, we estimate that in-house counsel spend from ten to fifty hours helping to draft and review an application. We estimate a total annual hour burden to all respondents of 3,650 hours (50 hours x 20 applications) + (30 hours x 80 applications) + (10 hours x 25 applications).
+
+We have decreased the burden associated with the existing collection of information for Rule 0-2 to reflect the amendments. The amendments to Rule 0-2 eliminate the requirement to have verifications of applications and statements of facts made in connection with applications notarized. The notary service was provided by a secretary or similar administrative employee of the applicant or the outside counsel preparing the application and represented a negligible cost or hour burden to the applicant, so elimination of the notarization requirement will not be likely to decrease the burden measurably.
+
+The amendments also eliminate the requirement that applicants include proposed notices as exhibits to applications. A proposed notice is merely a summary of the statements in the application. We estimate that preparation of the proposed notice by outside counsel represents approximately 1% of the cost of preparing an application. Elimination of this requirement will reduce the estimated cost burden by approximately $52,550 (1% of $5,255,000). The amendments will not change the hour burden.
+
+We estimate the total reduction in the burden will be approximately $52,550.
+
+<h>B. Regulation S-T</h>
+
+The title for the collection of information is “General Rules and Regulations for
+
+Electronic Filing.” (OMB Control No. 3235-0424, expiring on September 30, 2008). The purpose of Regulation S-T is to implement the Commission’s EDGAR system. The EDGAR system enables the Commission to receive, store, process and disseminate information filed with the Commission under the provisions of the federal securities laws. The Commission’s forms and rules require filings that make information available to the investing public and that permit the Commission to verify compliance with the federal securities laws. Electronic filing improves the availability to the public and to the Commission of information filed with the Commission.
+
+Regulation S-T specifies the requirements that govern the electronic submission of documents to the Commission. Provision of the information required by the Regulation is mandatory.
+
+Responses are not kept confidential.
+
+Burden Estimate for Regulation S-T
+
+The amendments to Regulation S-T revise Rule 101 under Regulation S-T to require electronic filing of applications for orders of the Commission under the Investment Company Act and of forms required by Regulation E under the Securities Act of 1933. The burden associated with the filing of applications under Rule 0-2 is reflected in the collection of information entitled “General Requirements of Papers and Applications.” We are not amending Regulation E. The burden associated with the filing of documents required by Regulation E is reflected in the collections of information required by Regulation E, and will not change as a result of the amendments to Regulation S-T. We are also amending Rule 201 under Regulation S-T, which governs temporary hardship exemptions from electronic filing. Rule 201 is part of Regulation S-T and does not impose any burden on respondents separate from Regulation S-T. The amendments to Rule 201 will not change the burden of Regulation S-T. The Paperwork
+
+Reduction Act requires that we obtain OMB approval for a collection of information, whether the collection has a burden or not. Regulation S-T is a collection of information with no burden to respondents. OMB requires us to assign a burden of one hour to Regulation S-T and to indicate that the Regulation has one respondent so the automated OMB system will be able to handle approval of the Regulation. OMB has already approved a burden of one hour for one respondent to the Regulation.
+
+<h>C. Form ID</h>
+
+The Commission estimates that each year a small number of applicants for orders under the Investment Company Act will need to file a Form ID (OMB Control Number 3235-0328, expiring April 30, 2009) with the Commission in order to gain access to EDGAR. Form ID is used to request the assignment of access codes to file on EDGAR. Most applicants will not need to file a Form ID because any applicant that has made at least one filing with the Commission since 2002 has been entered into the EDGAR system by the Commission and will not need to file Form ID to file electronically on EDGAR. However, applicants that have never made a filing with the Commission will need to file Form ID.
+
+The Commission estimates that it will receive approximately 10 Forms ID a year under the amendments. Because the actual number of Forms ID the Commission receives each year is less than the current estimate, we are not revising the estimated number of respondents that file a Form ID.
+
+We received no comments on the PRA section of the proposal.
+
+<h>X. STATUTORY BASIS</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 232.101 and 232.201.
+
+2 17 CFR 270.0-2.
+
+3 We proposed these amendments in November 2007. See Rulemaking for EDGAR System; Mandatory Electronic Submission of Applications for Orders under the Investment Company Act and Filings Made Pursuant to Regulation E, Release No. 33-8859 (Nov. 1, 2007) [72 FR 63513 (Nov. 9, 2007)] (“Proposing Release”).
+
+4 We recently announced the successor to the EDGAR Database. The new system is called IDEA, short for Interactive Data Electronic Applications, and will at first supplement and then eventually replace the EDGAR system. See “SEC Announces Successor to EDGAR Database; “IDEA” Will Make Company and Fund Information Interactive,” Press Release No. 2008-179, Aug. 19, 2008.
+
+5 See Rulemaking for EDGAR System, Release No. 33-7855 (Apr. 27, 2000) [65 FR 24788] (the “Modernization Adopting Release”). See also Release No. 33-7803 (Mar. 3, 2000) [65 FR 11507] (“Modernization Proposing Release”).
+
+6 See Mandated EDGAR Filing for Foreign Issuers, Release No. 33-8099 (May 14, 2002) [67 FR 36678].
+
+7 15 U.S.C. 78p(a).
+
+8 See Mandated EDGAR Filing and Web Site Posting for Forms 3, 4 and 5, Release No. 33-8230 (May 7, 2003) [68 FR 25788] (the “EDGAR Section 16 Release”).
+
+9 15 U.S.C. 80a-17(g).
+
+10 15 U.S.C. 80a-24(b).
+
+11 See Rulemaking for EDGAR System, Release No. 33-8590 (July 18, 2005) [70 FR 43558 (July 27, 2005)].
+
+12 See Electronic Filing of Transfer Agent Forms, Release No. 34-54864 (Dec. 4, 2006) [71 FR 74698 (Dec. 12, 2006)].
+
+13 See Electronic Filing and Revisions of Form D, Release No. 33-8891 (Feb. 6, 2008) [73 FR 10592 (Feb. 27, 2008)].
+
+14 Rule 101(a)(1)(iv) and (c)(11) of Regulation S-T [17 CFR 232.101(a)(1)(iv) and (c)(11)].
+
+15 These include applications and amendments submitted on Form N-8F [17 CFR 274.218] (EDGAR submission types N-8F and N-8F/A) and those submitted pursuant to Investment Company Act Rule 0-2 [17 CFR 270.0-2] (EDGAR submission types 40-8F-2 and 40-8F-2/A). See Release No. IC-23786 (Apr. 15, 1999) [76 19469 (Apr. 21, 1999)].
+
+16 There are several sections of the Investment Company Act pursuant to which entities may make applications for relief. For example, Section 6(c) [15 U.S.C. 80a-6(c)] provides the Commission with authority to exempt persons, securities or transactions from any provision of the Investment Company Act, or the regulations thereunder, if and to the extent that such exemption is in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of the Investment Company Act.
+
+17 Rule 0-2 is the Investment Company Act rule under which applications are submitted.
+
+18 See amendment to Rule 101(a)(1)(iv) under Regulation S-T. Paragraph (11) of Rule 101(c) provided that filings under Section 6(c) of the Investment Company Act, i.e., applications for orders, be submitted in paper format only. As proposed, we are removing and reserving this paragraph.
+
+19 In support of the proposal, one commenter stated:
+
+20 15 U.S.C. 80b-1 et seq.
+
+21 See ICI Comment Letter.
+
+22 See ICI Comment Letter. In support of its position, the commenter stated:
+
+23 Noting this concern, the commenter stated that:
+
+24 See Commission Policy and Guidelines for Filing of Applications for Exemption, Investment Company Act Release No. 14492 (Apr. 30, 1985).
+
+25 See IM Exemptive Application Processing, SEC Office of the Inspector General, Audit Report No. 408, Recommendation C (Sept. 29, 2006).
+
+26 See footnote 18 of the Proposing Release.
+
+27 See ICI Comment Letter.
+
+28 For a comprehensive discussion of Regulation S-T and electronic filing, see “Electronic Filing and the EDGAR System: A Regulatory Overview,” available on the Information for EDGAR Filers page of the Commission’s Web site,
+
+29 See Rule 101 of Regulation S-T [17 CFR 232.101].
+
+30 Regulation S-T Rule 101(a)(2) [17 CFR 232.101(a)(2)].
+
+31 See amendments to paragraphs (a)(2) and (3) of Rule 101 of Regulation S-T. Related correspondence and supplemental information are not automatically disseminated publicly through the EDGAR system but are immediately available to the Commission staff.
+
+32 This provision dates back to 1993. See text at footnote 83 of Rulemaking for EDGAR System, Release No. 33-6977 (Feb. 23, 1993) [58 FR 14628 (Mar. 18, 1993)] (“Once a filer becomes subject to the mandated electronic filing rules, any documents, including amendments and supplements to documents previously filed in paper, will be required to be filed in electronic format, absent a hardship exemption.”).
+
+33 The paper formatting requirements continue to be applicable to paper submissions made pursuant to temporary and continuing hardship exemptions under Rules 201 and 202 of Regulation S-T [17 CFR 232.201 and 232.202].
+
+34 A filer’s CIK (or “central index key”) is a ten-digit number uniquely identifying that filer.
+
+35 We remind filers that, in the case of name changes, the changes must be made via the EDGAR filing Web site in advance of the change being reflected on an EDGAR submission. The name on past submissions will not change. The CIK and file number(s) of the company will provide a link to filings under the old name.
+
+36 15 U.S.C. 80a-9(a), 80a-13(a), 80a-15(a), 80a-15(b).
+
+37 17 CFR 270.6e-2(b)(15), 270.6e-3(T)(b)(15).
+
+38 15 U.S.C. 80a-2(a)(32), 80a-27(i)(2)(A).
+
+39 17 CFR 270.22c-1.
+
+40 15 U.S.C. 80a-26(c).
+
+41 15 U.S.C. 80a-11(a).
+
+42 In case of doubt, applicants may call the IM EDGAR Inquiry Line (202-551-6989) in the Division of Investment Management for assistance.
+
+43 As is the case currently with paper applications, for each application, an applicant will receive a unique file number which will begin with the prefix “812,” or “813” in the case of applications made by employees’ securities companies. As also is currently the case with paper filings, each co-applicant’s file number will be composed of the primary applicant’s file number with an appended numerical suffix unique to that co-applicant. Each applicant or co-applicant will include this file number, in addition to its CIK, in the EDGAR template of all amendments to the application, which will also be required electronic submissions.
+
+44 See Rule 0-2(d).
+
+45 Regulation S-T requires that each signatory to an electronic filing manually sign a signature page or other document authenticating, acknowledging or otherwise adopting his or her signature that appears in typed form in the electronic filing. This document must be executed before or at the time the electronic filing is made, must be retained by the filer for a period of five years, and must be made available to the Commission upon request. See Rule 302(b) of Regulation S-T [17 CFR 232.302(b) ]. We believe that this requirement provides sufficient assurance of the legitimacy of signatures contained in the electronic filings so that notarization is unnecessary.
+
+46 See Rule 0-2(g).
+
+47 The last sentence of Rule 0-2(b) read as follows: “Every application for an order under any provision of the Act and every amendment to such application shall be submitted to the Commission in paper only, whether or not the applicant is otherwise required to file in electronic format, unless instructions for electronic filing are included on the form, if any, prescribed for such application.”
+
+48 See Rulemaking for EDGAR System – Investment Companies and Institutional Investment Managers, Release No. 33-6978 (Feb. 23, 1993) [58 FR 14848 (Mar. 18, 1993)].
+
+49 See ICI Comment Letter. The commenter also noted:
+
+50 17 CFR 232.202.
+
+51 17 CFR 232.13(b).
+
+52 See 17 CFR 232.201(a).
+
+53 17 CFR 239.65, 249.447, 269.10, and 274.404.
+
+54 See 17 CFR 232.201(b).
+
+55 See 17 CFR 232.202(a).
+
+56 See ICI Comment Letter. The staff typically places applications in an inactive status if the applicant does not respond to staff comments within sixty days of receiving the comments, such as by filing an amendment.
+
+57 See amendment to Rule 201(a) of Regulation S-T. As we noted in the Proposing Release, we have previously made unavailable the ability for filers to use the temporary hardship exemption for EDGAR submissions of beneficial ownership reports filed by officers, directors and principal security holders under Section 16(a) of the Exchange Act [15 U.S.C. 78p(a)]. See Mandated EDGAR Filing and Web Site Posting for Forms 3, 4 and 5, Release No. 33-8230 (May 7, 2003) [68 FR 25788].
+
+58 17 CFR 230.601 to 230.610a.
+
+59 17 CFR 230.604.
+
+60 17 CFR 239.200.
+
+61 17 CFR 230.607.
+
+62 17 CFR 230.609.
+
+63 17 CFR 239.201.
+
+64 Requiring electronic filing on EDGAR of Rule 607 sales literature is consistent with the requirement to file electronically on EDGAR omitting prospectuses under Rule 482 of the Securities Act of 1933 (the “Securities Act”) (referred to as “482 ads”) and sales literature under Section 24(b) of the Investment Company Act.
+
+65 See amendments to paragraphs (a)(1)(v) and (c)(6) of Rule 101 of Regulation S-T.
+
+66 See ICI Comment Letter at footnote 7.
+
+67 Applicants that already have EDGAR access codes will not need to file a Form ID. As further discussed in Part IX, however, we assume that a small number of applicants per year will not already have the codes.
+
+68 An applicant that did not already own a computer with Internet access could, for example, go to a public library to use its computer and obtain Internet access.
+
+69 15 U.S.C. 77b(b).
+
+70 15 U.S.C. 78c(f).
+
+71 15 U.S.C. 80a-2(c).
+
+72 Rule 0-10(a) under the Investment Company Act [17 CFR 240.0-10(a)].
+
+73 The estimated number of reporting investment companies that may be considered small entities is based on December 2007 data from the Commission’s EDGAR database and a third-party data provider.
+
+74 This estimate is based on analysis by the Division of Investment Management staff of information from databases compiled by third-party information providers.
+
+75 This estimate is based on figures compiled by the Division of Investment Management staff regarding separate accounts registered on Forms N-3, N-4, and N-6. In determining whether an insurance company separate account is a small entity for purposes of the Regulatory Flexibility Act, the assets of insurance company separate accounts are aggregated with the assets of their sponsoring insurance companies. Rule 0-10(b) under the Investment Company Act [17 CFR 270.0-10(b)].
+
+76 17 CFR 240.13d-101 and 240.13d-102.
+
+77 44 U.S.C. 3501 et seq.
+
+78 See Rule 0-2(d).
+
+79 See Rule 0-2(g).

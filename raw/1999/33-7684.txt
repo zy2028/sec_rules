@@ -1,0 +1,357 @@
+https://www.sec.gov/rules/final/33-7684.txt
+
+	I.0.0.0: I. Modernization of EDGAR
+
+		I.A.0.0: A. Background
+
+		I.B.0.0: B. Implementation of HTML/PDF Environment
+
+		I.C.0.0: C. Use of HTML
+
+		I.D.0.0: D. Use of PDF
+
+		I.E.0.0: E. Graphic and Image Material
+
+		I.F.0.0: F. Limitation on Hypertext Links
+
+		I.G.0.0: G. HTML Standard; Permissible Tag Set
+
+	II.0.0.0: II. Rule Amendments to Accommodate EDGAR Modernization
+
+		II.A.0.0: A. Amendments to Regulation S-T.
+
+		II.B.0.0: B. Other Rule Amendment in Connection with EDGAR Modernization
+
+		II.C.0.0: C. Miscellaneous Amendments
+
+			II.C.1.0: 1. Amendments to Regulation S-T
+
+			II.C.2.0: 2. Other Rule Amendments
+
+	III.0.0.0: III. COST-BENEFIT ANALYSIS
+
+	IV.0.0.0: IV. ANALYSIS OF BURDENS ON COMPETITION, CAPITAL FORMATION AND EFFICIENCY
+
+	V.0.0.0: V. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT
+
+	VII.0.0.0: VII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+17 CFR Parts 230, 232, 239, 240, 270, and 274 [Release Nos. 33-7684; 34-41410; IC-23843 File No. S7-9-99] 
+
+RIN 3235-AH70 
+
+Rulemaking for EDGAR System 
+
+AGENCY: Securities and Exchange Commission 
+
+ACTION: Final rule 
+
+SUMMARY: The Securities and Exchange Commission is modernizing the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. Beginning June 28, 1999, we will be able to accept filings submitted to EDGAR in HyperText Markup Language (HTML) in addition to documents submitted in the current American Standard Code for Information Interchange (ASCII) format; filers also will have the option of accompanying their required filings with unofficial copies in Portable Document Format (PDF). Beginning May 24, 1999, and continuing through June 25, 1999 (the test period), filers may submit test filings that include documents in HTML and PDF format; filers electing to submit test HTML and/or PDF documents during the test period must do so in accordance with the new rule provisions. In this release, we are adopting rule amendments reflecting initial changes to filing requirements resulting from EDGAR modernization, as well as other changes clarifying or updating our rules. 
+
+EFFECTIVE DATE: These rules are effective on June 28, 1999 and apply to filings submitted on or after that date. 
+
+FOR FURTHER INFORMATION CONTACT: If you have questions about the rules we are adopting, please contact one of the following members of our staff: in the Division of Investment Management, Ruth Armfield Sanders, Senior Counsel, (202) 942-0633; and in the Division of Corporation Finance, Margaret R. Black, EDGAR Specialist, (202) 942-2940. If you have questions about the development of the modernized EDGAR system, please contact Richard D. Heroux, EDGAR Program Manager, (202) 942-8885, in the Office of Information Technology. 
+
+SUPPLEMENTARY INFORMATION:
+
+Today we are adopting amendments to the following rules relating to electronic filing on the EDGAR system: Rules 485, 486, 487, 495, and 497,<sup> 1 </sup> and Form S-6,<sup> 2 </sup> under the Securities Act of 1933 (Securities Act);<sup> 3 </sup> Rules 10, 11, 101, 102, 302, 303, 304, 305, 306, 307, and 310 of Regulation S-T;<sup> 4 </sup> Schedule 14A<sup> 5 </sup> under the Securities Exchange Act of 1934 (Exchange Act);<sup> 6 </sup> Rules 8b-23 and 8b-32,<sup> 7 </sup> and Form N-SAR,<sup> 8 </sup> under the Investment Company Act of 1940 (Investment Company Act);<sup> 9 </sup> and Forms N-1, N-1A, N-2, N-3, N-4, and N-5<sup> 10 </sup> under the Securities Act and the Investment Company Act. We also are adding the following new rules to Regulation S-T: Rules 104, 105, and 106.
+
+<END HEADER>
+
+<h>I. Modernization of EDGAR</h>
+
+<h>A. Background</h>
+
+In 1984, we initiated the EDGAR system to automate the receipt, processing, and dissemination of documents required to be filed with us under the Securities Act, the Exchange Act, the Public Utility Holding Company Act of 1935 (Public Utility Act),<sup> 11 </sup> the Trust Indenture Act of 1939,<sup> 12 </sup> and the Investment Company Act. Since 1996, we have required all domestic public companies to file with us electronically through the EDGAR system, absent an exemption. EDGAR filings are disseminated electronically and displayed on our web site at http://www.sec.gov, in the form in which we receive them. The EDGAR system's broad and rapid dissemination benefits the public by allowing investors and others to obtain information rapidly in electronic format. Electronic format is easily searchable and lends itself to ready financial analysis, using spreadsheets and other methods.
+
+Recent technological advances, most notably the rapidly expanding use of the Internet, have led to unprecedented changes in the means available to corporations, government agencies, and the investing public to obtain and disseminate information. Today many companies, regardless of size, make information available to the public through Internet web sites. On those sites and through links from one web site to others, individuals may obtain a vast amount of information in a matter of seconds. Advanced data presentation methods using audio, video, and graphic and image material are now available through even the most inexpensive personal computers or laptops.
+
+As discussed below, we are modernizing the EDGAR system to accommodate some of the changes in technology that have occurred since the system was developed. On March 10, 1999, we issued a release proposing amendments to our rules to reflect initial changes to filing requirements resulting from EDGAR modernization, as well as certain other changes to clarify or update the rules.<sup> 13 </sup> In that release, we proposed to accept filings submitted to EDGAR in HTML format as well as documents submitted in ASCII format and to allow filers to accompany their required filings with unofficial copies in PDF format.<sup> 14 </sup> Today we are adopting these amendments as proposed.
+
+We received a number of comment letters with suggestions concerning the evolving EDGAR system. Many of these comments addressed divergent concerns of filers, filing agents, disseminators, and public users of the EDGAR database. We appreciate the need to balance the competing interests of these parties in order to have a system that adequately addresses the fundamental needs of each. We have considered and will continue to consider these comments in connection with future planning for the system and future rulemaking related to the next stage of EDGAR modernization following the HTML implementation period.<sup> 15 </sup>
+
+Some disseminators and information providers commented that they would not have enough time to make the required modifications to their systems to begin accepting HTML and PDF documents on May 24, 1999. We have decided not to make the rules effective on May 24 as planned. Instead, during the test period from May 24 through June 25, 1999, filers may submit test filings that include documents in HTML and PDF format. Live filings, however, must continue to be in ASCII format. The test period should provide disseminators with sufficient time to assure completion of system changes and will provide filers the opportunity to test the EDGAR system's new features. Beginning June 28, filers may make live filings including documents in HTML and PDF format.
+
+<h>B. Implementation of HTML/PDF Environment</h>
+
+With EDGAR modernization, we hope to make the system easier for filers to use and the documents more attractive and readable for the users of public information. Currently, filers must submit electronic filings to the EDGAR system in a text-based ASCII format. In the modernized system, for most filings, filers may choose to submit documents to us in either HTML or in ASCII. We expect that HTML will eventually replace ASCII for most filings. Filers also may submit unofficial PDF copies of filings. Unlike ASCII documents, HTML and PDF documents can include graphics, varied fonts, and other visual displays that filers use when they create Internet presentations or material for distribution to shareholders and other investors. In this release, we refer to the required filings that filers must submit only in either ASCII or HTML formats as official filings. We refer to the PDF documents as unofficial PDF copies because filers may not use them instead of HTML or ASCII documents to meet filing requirements.
+
+Beginning on June 28, 1999 (and on May 24, 1999 on a test basis) and extending until early 2000 (the HTML implementation period), we are imposing certain limitations on HTML documents. These limitations are necessary due to technical issues that we must resolve before full implementation of the new HTML component of the EDGAR system.<sup> 16 </sup> We will provide limited support for HTML by allowing only certain tags (commands and identifying information) to be accepted by the EDGAR system. Later, we plan to further modernize the EDGAR system so that it will be able to accept and display HTML documents that use graphic and other visual presentations. In this release, we describe how the EDGAR system is changing for the initial HTML implementation period, and we adopt rule changes to govern EDGAR filing during this period.<sup> 17 </sup>
+
+<h>C. Use of HTML</h>
+
+Although the EDGAR system will be able to accept HTML documents beginning on June 28, 1999 (and on May 24, 1999 on a test basis), we are not now requiring the use of HTML. However, we expect to require HTML for most filings in the future, so we encourage filers to use it and gain experience with this format if they do not have it already.<sup> 18 </sup> We are providing technical support for filers to assist them in submitting and correcting HTML documents through our filer technical support function.
+
+As proposed, during the HTML implementation period, if HTML is used, each EDGAR document may consist of no more than one HTML file. Filers may not submit EDGAR documents composed of multiple linked HTML files. The EDGAR system will suspend any submission containing any HTML document composed of more than one file.
+
+<h>D. Use of PDF</h>
+
+In addition to permitting the use of HTML in filings, we are permitting filers to submit a single unofficial PDF copy of each electronic document.<sup> 19 </sup> These copies will be disseminated publicly. We believe that filers may want to submit these copies because PDF documents retain all the fonts, formatting, colors, images, and graphics contained in an original document. The unofficial PDF copy will be optional, but if a filer submits an unofficial PDF copy of a document, that PDF document must be substantively equivalent<sup> 20 </sup> to the official HTML or ASCII document of which it is a copy. Further, filers may not make a submission consisting solely of PDF documents; filers must include unofficial PDF copies only in submissions containing official documents in HTML or ASCII format.
+
+<h>E. Graphic and Image Material</h>
+
+During the HTML implementation period, we will not accept graphic or image material in HTML documents.<sup> 21 </sup> The EDGAR system will suspend submissions made during the HTML implementation period if they contain tags for graphic or image files. However, the optional, unofficial PDF copy of an EDGAR document may contain static graphic and/or image material. After the HTML implementation period, we intend to propose that filers may include graphic and image material in HTML documents.
+
+We also will prohibit any EDGAR submission containing animated graphics (e.g., files with moving corporate logos or other animation), either in any official document or any unofficial PDF copy. We are imposing this requirement due to the issues concerning how to capture and represent the animated graphics, which we cannot print or search, in defining the official filing.
+
+<h>F. Limitation on Hypertext Links</h>
+
+During the HTML implementation period, we are prohibiting hypertext links from HTML documents to external web sites. Similarly, we are prohibiting hypertext links from HTML documents to external documents (including exhibits), whether or not the document is part of the same filing. However, electronic filers may include hypertext links to different sections within a single HTML document.<sup> 22 </sup> A document may include an inactive textual reference to external sites or documents for informational purposes,<sup> 23 </sup> but it may not include a link to the external site or document. We will consider expanding the use of hypertext links after the HTML implementation period.
+
+<h>G. HTML Standard; Permissible Tag Set</h>
+
+We are adopting a specific HTML standard for HTML documents submitted on the EDGAR system during the HTML implementation period. Because different Internet browsers used by filers or the public may display the information presented in an HTML document in a different fashion, a document viewed through one browser may have a different appearance and layout from the same filing viewed through a different browser. This would be especially evident when a filing printed in hard copy from one browser appears significantly different from the same filing printed out from another browser. Initially, we are maximizing the likelihood of consistent document appearance across different browsers by specifying HTML 3.2 as the required standard for HTML documents.
+
+Some commenters expressed the view that the selection of HTML 3.2 as the standard imposes a burden on systems that are not browser-based. Other commenters, however, expressed the view that HTML 3.2 was necessary for standardization and consistency. Still other commenters urged us to adopt a higher standard such as HTML 4.0. We believe HTML 3.2 represents the best approach at this time. We will consider the evolution of this standard when appropriate.
+
+We also are adopting a set of permissible HTML 3.2 tags for use in HTML documents during the HTML implementation period. These permissible tags allow for most HTML 3.2 formatting capability while eliminating active content and certain classes of hypertext links.<sup> 24 </sup> We have included the tag list in the EDGAR Filer Manual. In general, the EDGAR system will suspend submissions which contain tags that are not permitted. We anticipate that the permitted tag set will evolve over time to accommodate the industry standard and needs of filers.
+
+As proposed, we are not at this time allowing EDGAR submissions to include tables within tables (nested tables). This is because users of EDGAR information may find it difficult to locate and use information in documents with nested tables. In addition, as proposed, EDGAR submissions may not contain tags used to include executable code, either in any official submission or any unofficial PDF copy, at any time, either during the HTML implementation period or subsequently.<sup> 25 </sup> The EDGAR system will suspend any submission containing executable code. 
+
+<h>II. Rule Amendments to Accommodate EDGAR Modernization</h>
+
+We are adopting the following amendments to our rules and regulations to accommodate the initial modernization of EDGAR. We are amending all of the rules as proposed.
+
+<h>A. Amendments to Regulation S-T.</h>
+
+We are amending several provisions of Regulation S-T, which governs the preparation and submission of electronic filings to us, in connection with the addition of HTML documents and unofficial PDF copies to the EDGAR environment.
+
+Rule 11 -- Definition of Terms used in Part 232. Rule 11<sup> 26 </sup> contains definitions used in Regulation S-T. We are adding to the definition section of Regulation S-T the following new terms: animated graphics; ASCII document; disruptive code; electronic document; executable code; HTML document; hypertext links or hyperlinks; and unofficial PDF copy. We also are revising the definition of electronic filing to make it clear that an electronic filing may include more than one document.
+
+New Rule 104 -- Unofficial PDF Copies Included in an Electronic Submission. Rule 104 provides that an electronic submission may include one unofficial PDF copy of each electronic document contained within an electronic submission.<sup> 27 </sup> Each unofficial PDF copy must be substantively equivalent to its associated ASCII or HTML document contained in the submission.<sup> 28 </sup> Filers wanting to submit an unofficial PDF copy to replace one with errors, or to include an omitted one, must submit the unofficial PDF copy as part of another electronic submission containing an amendment to the original submission. The amendment must include an explanatory note that the purpose of the amendment was to add or replace an unofficial PDF copy.<sup> 29 </sup> If the amendment was being filed to add or resubmit an unofficial PDF copy of one or more exhibits, the submission must include an exhibit document for each exhibit for which an unofficial PDF copy was being submitted.<sup> 30 </sup>
+
+Rule 104 provides that unofficial PDF copies are not official filings.<sup> 31 </sup> The rule makes it clear that unofficial PDF copies that are prospectuses retain prospectus liability under Section 12 of the Securities Act.<sup> 32 </sup> The rule also makes it clear that an unofficial PDF copy may contain graphic and image material even though its ASCII (and, during the implementation period, HTML) counterpart does not contain such material.<sup> 33 </sup>
+
+We will accept electronic submissions even if an unofficial PDF copy is flawed and not accepted. In such a case, we will accept the submission but not the PDF document.<sup> 34 </sup> Otherwise, filers would risk having a late time-sensitive filing because of a problem with the unofficial PDF copy.
+
+New Rule 105 -- Limitation on Use of HTML Documents and Unofficial PDF Copies; Use of Hypertext Links. Filers may not submit Form N-SAR, Form 13F, or Financial Data Schedules as HTML documents.<sup> 35 </sup> These documents have standard formats and tagging designed for presentation in ASCII, and their current format facilitates their downloading and use in other computer applications.
+
+Rule 105 prohibits electronic filers from including in HTML documents hypertext links to sites or documents outside the HTML document that is filed with us.<sup> 36 </sup> However, the rule allows electronic filers to include hypertext links to different sections within a single HTML document. Rule 105 provides that, if an accepted filing includes external links in contravention of this rule, we will not consider information contained in the linked material to be part of the official filing for determining compliance with reporting obligations. Such information will, however, continue to be subject to the civil liability and anti-fraud provisions of the federal securities laws.<sup> 37 </sup>
+
+Some commenters expressed concerns that this rule would represent our general position on liability for linked material, including information that companies and broker-dealers put on their own web sites. This rule, however, applies only to EDGAR filings and is narrowly drawn to address the initial stages of EDGAR modernization. We will further consider the status of links in EDGAR filings if we propose to expand filers' ability to use links to other documents or external sites after the HTML implementation period.<sup> 38 </sup>
+
+New Rule 106 -- Prohibition Against Electronic Submissions Containing Executable Code. The modernized EDGAR system is designed to minimize security risks. Accordingly, Rule 106<sup> 39 </sup> prohibits any EDGAR submission containing executable code, either in any official submission or any unofficial PDF copy, at any time, either during the HTML implementation period or subsequently.<sup> 40 </sup> Executable code includes, but is not limited to, disruptive code.<sup> 41 </sup> This requirement is necessary to protect the integrity of the EDGAR system and database, by reducing the possibility of unauthorized access to sensitive information, and to reduce the possibility of introducing viruses or other destructive applications into the EDGAR system (and to any disseminator receiving data from the EDGAR system).
+
+We will, in general, suspend any attempted submission that our staff determines contains executable code.<sup> 42 </sup> The EDGAR system is programmed to detect and prohibit acceptance of such code during acceptance processing. If a submission is accepted, and our staff later determines that the accepted submission contains executable code, our staff may delete any document contained in the electronic submission from the EDGAR system and direct the electronic filer to resubmit electronically replacement documents for all or selected documents deleted from the submission. We are aware that suspending acceptance of a filing, or deleting it from the EDGAR database, could have significant consequences to the filer, such as causing a filing to miss its due date or preventing a time-sensitive filing from moving forward. Nevertheless, we need to take whatever steps are necessary to address potential security problems, and our staff will work with filers to minimize any adverse consequences.
+
+Rule 302 -- Signatures. Rule 302<sup> 43 </sup> currently provides that signatures to or within electronic documents must be in typed form. We are amending this rule to make it clear that this provision relates only to required signatures to or within electronic submissions.<sup> 44 </sup> We anticipate allowing signatures that are not required to appear as script in HTML documents once we permit graphic and image material.
+
+Rule 304 -- Graphic, Image, Audio and Video Material. Rule 304<sup> 45 </sup> currently prohibits the inclusion of graphic, image, or audio material in an EDGAR document. We are adding the word "video" to the rule to make it clear that that information also is prohibited.<sup> 46 </sup> Rule 304 applies only to official filings, not to unofficial PDF copies, which may contain graphic and image material (but not animated graphics, audio or video material).<sup> 47 </sup>
+
+Rule 305 -- Number of Characters per Line; Tabular and Columnar Information. Currently, Rule 305<sup> 48 </sup> limits the number of characters per line. We are adding paragraph (b) to the rule to provide that the limitations of paragraph (a)<sup> 49 </sup> do not apply to HTML documents.<sup> 50 </sup>
+
+Rule 306 -- Foreign Language Documents and Symbols. Rule 306<sup> 51 </sup> provides that foreign currency denominations be expressed in words or letters in the English language rather than representative symbols. We are amending Rule 306 to allow HTML documents to include the representative foreign currency symbols specified in the EDGAR Filer Manual and to provide that the limitations would not apply to documents which are unofficial PDF copies.
+
+Rules 307 -- Bold-Face Type. Rule 307 provides that filers should present required bold-face type as capital letters in ASCII documents. We are amending Rule 307 to make it clear that the provision does not apply to HTML documents because filers are able to include bold-face type in HTML documents.
+
+Rule 310 -- Marking Changed Material. Rule 310<sup> 52 </sup> provides that the requirement for marking changed materials is satisfied by inserting the tag <R> before and the tag </R> following a paragraph containing changed material. We are retaining this redlining convention and extending it to HTML documents.<sup> 53 </sup> Further, we are allowing filers to mark changed material in HTML documents within paragraphs, as well.<sup> 54 </sup>
+
+<h>B. Other Rule Amendment in Connection with EDGAR Modernization</h>
+
+Paragraph (k)(2)(ii) of Rule 497<sup> 55 </sup> requires investment company filers to submit additional copies of certain forms of profiles in the primary form intended for distribution to investors (e.g., paper or electronic media) or, if the profile is distributed primarily on the Internet, to provide the electronic address (URL) of the profile pages(s) in an exhibit to the electronic filing. We are amending paragraph (k)(2)(ii) of Rule 497 to allow a filer to submit with its electronically filed definitive form of profile an unofficial PDF copy of the profile instead.
+
+<h>C. Miscellaneous Amendments</h>
+
+We also are adopting several electronic filing rule amendments that are not directly associated with EDGAR modernization.
+
+<h>1. Amendments to Regulation S-T</h>
+
+Rule 10 -- Form ID. Rule 10<sup> 56 </sup> provides that filers must file Form ID, the uniform application for access codes to file on the EDGAR system, before they begin electronic filing. We are amending Rule 10 to make it clear that filers must submit Form ID in paper format.
+
+Rule 101(a) -- Mandated Electronic Submissions and Exceptions. The note to paragraph (a)(1)(iii) of Rule 101 instructs filers filing Schedules 13D and 13G with respect to foreign private issuers to file in paper because one of the required data elements -- the IRS tax identification number -- is not available for foreign issuers. However, a paper filing is no longer necessary. The staff advises these filers to include in the EDGAR submission header all zeroes (i.e., 00-0000000) for the IRS tax identification number, so that they may file electronically. We are amending the note to this rule to formalize the existing practice and permit electronic filing.
+
+Rules 101(b), 102(e), and 303 -- Permitted Electronic Submissions; Exhibits; and Incorporation by Reference.
+
+Currently, electronic filers may submit exhibits to Forms N-SAR, other than the Financial Data Schedule, either electronically or in paper.<sup> 57 </sup> We have allowed filers to submit these exhibits in paper because, during phase-in to electronic filing, registrants could file their Forms N-SAR electronically on a voluntary basis in advance of their phase-in date, at a time when they were not able to make any other electronic filings. With the completion of phase-in, we are now requiring that filers submit all Form N-SAR exhibits electronically.<sup> 58 </sup>
+
+Because phase-in has been completed, we also are removing the references to phase-in for registered investment companies and business development companies.
+
+<h>2. Other Rule Amendments</h>
+
+Item 22(a)(4) of Schedule 14A and Forms N-1, N-1A, N-2, N-3, N-4, N-5, and S-6 -- Financial Data Schedules. We are revising provisions concerning Financial Data Schedules (Schedules) submitted by registered investment companies and business development companies. We believe that electronic filers that are registered investment companies will provide us with sufficient financial information in Schedule form by filing their Schedules with their Forms N-SAR.<sup> 59 </sup> Therefore, we are removing the requirement for registered investment companies to submit Schedules with other forms and filings.<sup> 60 </sup> Business development companies will continue to submit Schedules with their Form 10-K filings; face amount certificate companies and other investment companies filing on forms not unique to investment companies will continue to submit Schedules with the relevant forms.<sup> 61 </sup>
+
+Investment Company Act Rules 8b-23 and 8b-32 -- Incorporation by Reference; Incorporation of Exhibits by Reference. We are making minor revisions to Rules 8b-23 and 8b- 32<sup> 62 </sup> to remove the reference to Regulation S-T Rule 102. This reference is no longer relevant following completion of phase-in by investment company registrants. 
+
+<h>III. COST-BENEFIT ANALYSIS</h>
+
+Our determination in 1984 to disseminate our EDGAR database to the public marked a milestone in public access to timely information relating to the nation's securities markets. Since that time, technology has evolved rapidly. The rules we adopt today reflect this reality. They represent the first stage of our modernization program, which will more closely align our technology to industry standards and maintain the effectiveness of this important resource.
+
+EDGAR modernization will ultimately result in significant benefits to the securities markets, investors, and other members of the public, by increasing the accessibility of the information that is filed and made available through the EDGAR system. Investors will benefit from EDGAR modernization because they will receive documents that communicate more effectively. For example, the on-line presentation of documents formatted in HTML (unlike in ASCII) better accommodates the sort of indentation, spacing, bullet points, and highlighting that we encourage in our plain English guidance. Acceptance of unofficial documents in PDF format should allow even greater preservation of the original presentation of the document. We are aware that the process of converting a document to an ASCII format can result in a document that is difficult to read. Allowing the voluntary filing of HTML documents is an important first step in the transition to a broader use of HTML in filings.
+
+Companies that make public filings will benefit from having the option to file HTML documents and to submit unofficial PDF copies because their HTML and PDF documents will communicate more effectively with shareholders and be more attractive for marketing and other purposes. As investors find that they can more effectively obtain the information they seek from the EDGAR system, filers should get fewer requests for paper copies of filings. Some filers that prepare documents in HTML for purposes of offerings or of company web site postings may find it less burdensome to convert documents into the version of HTML provided for in the rules than to convert them into ASCII.
+
+At the same time, we recognize that the full transition to HTML formatting will impose some hardware, software, and staffing costs associated with the modernization of computer systems to industry standards. At this stage, issuers need not incur any immediate costs because filing in HTML is voluntary. Some issuers may use filing agents, such as financial printers, if they wish to submit HTML documents without incurring the system costs themselves. Filing agents that are not HTML-ready may incur some immediate additional costs to meet any customer demand for this service. Disseminators of EDGAR information will face some transitional costs as they revise their software and expand their storage capacity to accommodate HTML and PDF documents.<sup> 63 </sup> The volume of HTML and PDF documents is likely to be limited at first, allowing such disseminators of EDGAR information time to scale up their operations over time. As technology continues to evolve, we believe these transition costs will be outweighed by longer-term benefits. We do not have the data to quantify the costs or benefits of these amendments. We requested comment on the costs and benefits but received no data.
+
+We are providing a month-long test period during which filers may submit test filings which include documents in HTML and PDF format. This test period should provide disseminators with sufficient time to assure completion of system changes to accommodate acceptance of HTML and PDF documents. During the test period, our rules will still require that filers submit live filings entirely in ASCII. Therefore, the operations of the disseminators should not be disrupted during the test period. The test period also will provide filers the opportunity to test the EDGAR system's new features. We considered a further delay in the implementation of the rules we adopted today. However, in balancing the interests of all the affected groups, we no not believe that further delay is warranted.
+
+The rules we adopt today impose no costs related to substantive disclosure because the new EDGAR rules do not substantively change the information and disclosure we currently require. Rather, the rules merely modify and supplement current rules to reflect the expanded filing formats and modes of presentation through which filers may submit information to us electronically. 
+
+<h>IV. ANALYSIS OF BURDENS ON COMPETITION, CAPITAL FORMATION AND EFFICIENCY</h>
+
+Section 23(a)(2) of the Exchange Act requires us, in adopting rules under the Exchange Act, to consider the anti- competitive effects of any rules that we adopt thereunder. Furthermore, Section 2(b) of the Securities Act,<sup> 64 </sup> Section 3(f) of the Exchange Act,<sup> 65 </sup> and Section 2(c)<sup> 66 </sup> of the Investment Company Act require us, when engaging in rulemaking, and considering or determining whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. In compliance with our responsibilities under these sections, we requested comment on whether the proposals, if adopted, would promote efficiency, competition, and capital formation. We encouraged commenters to provide empirical data or other facts to support their views. We received no comments in response to the above request.
+
+In compliance with our responsibilities under the previously mentioned provisions, we considered whether the amendments would promote efficiency, competition and capital formation. Although filing agents and information disseminators may be disparately affected depending on their technical readiness and programming formats, we believe that the new rules and amendments will not impose any burden on competition not necessary or appropriate in the furtherance of the purposes of the securities laws.
+
+We believe that the new rules and amendments will not have any adverse effect on capital formation. We believe the amendments will promote efficiency by giving investors information in a more readable format and by more closely aligning our technical standards to the industry's. The new rules and amendments apply equally to all entities currently required to file on EDGAR. Because the proposed rules and amendments are designed in part to permit filers to provide information in a format that will be more useful to investors, the amendments are appropriate in the public interest and for the protection of investors. 
+
+<h>V. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+Our Chairman has certified, under Section 605(b) of the Regulatory Flexibility Act, 5 U.S.C. 605(b), that the new rules and rule amendments in this release would not have a significant economic impact on a substantial number of small entities. The certification, documenting the factual basis therefor, was attached to the proposing release as Appendix B. We received no comments on the certification. 
+
+<h>VI. PAPERWORK REDUCTION ACT</h>
+
+The new rules and amendments do not come within the scope of the Paperwork Reduction Act of 1995<sup> 67 </sup> because the new rules and amendments do not create a new collection of information.<sup> 68 </sup> 
+
+<h>VII. STATUTORY BASIS</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 230.485, 230.486, 230.487, 230.495, and 230.497. 
+
+2 17 CFR 239.16. 
+
+3 15 U.S.C. 77a, et seq. 
+
+4 17 CFR 232.10, 232.11, 232.101, 232.102, 232.302, 232.303, 232.304, 232.305, 232.306, 232.307, and 232.310. 
+
+5 17 CFR 240.101. 
+
+6 15 U.S.C. 78a, et seq. 
+
+7 17 CFR 270.8b-23 and 8b-32. 
+
+8 17 CFR 274.101. 
+
+9 15 U.S.C. 80a-1, et seq. 
+
+10 17 CFR 239.15 and 274.11, 17 CFR 239.15A and 274.11A, 17 CFR 239.14 and 274.11a-1, 17 CFR 239.17a and 274.11b, 17 CFR 239.17b and 274.11c, 17 CFR 239.24 and 274.5. 
+
+11 15 U.S.C. 79a, et seq. 
+
+12 15 U.S.C. 77sss, et seq. 
+
+13 Rulemaking for EDGAR System, Release Nos. 33-7653; 34-41150; IC-23735 (Mar. 10, 1999) [64 FR 12908] (the proposing release). 
+
+14 In the proposing release, we also described further changes to the system that we plan to make after the HTML implementation period. We will propose corresponding rule changes closer to that time. 
+
+15 You may read and copy comment letters in our Public Reference Room, 450 Fifth Street, N.W., Washington, D.C. 20549 in File No. S-7-9-99. You also may read the comment letters that were submitted electronically on our web site (http://www.sec.gov). 
+
+16 As we stated in the proposing release, the modernized EDGAR system is designed to be Year 2000 compliant. During the summer of 1999, we will turn the dates forward on the EDGAR system at specified times to give filers an opportunity to submit test filings so they can assure themselves that the Commission-owned and -operated EDGAR components will operate after January 1, 2000. We will issue an announcement with the details shortly. The announcement will be posted on our web site. We advise filers to have their own operating environments certified to be Year 2000 compliant. 
+
+17 We also have revised the EDGAR Filer Manual. See Release No. 33-7685 (May 17, 1999). The EDGAR Filer Manual sets forth the technical formatting requirements governing the preparation and submission of electronic filings through the EDGAR system. Filers must comply with the provisions of the Filer Manual to assure timely acceptance and processing of electronic filings. See Rule 301 of Regulation S-T [17 CFR 232.301]. 
+
+18 See footnote 35 and accompanying text for submissions that we will keep in ASCII format. 
+
+19 For example, if a filing consists of a registration statement plus five exhibits, there are six electronic documents for EDGAR purposes. Generally, the filer can submit all of these as HTML documents, all as ASCII documents, or some as HTML and some as ASCII documents. The filer also has the option to accompany any or all of the six documents with an unofficial PDF copy. But the rules do not permit a filer to submit a single unofficial PDF copy including the registration statement and exhibits; each PDF document should reflect only one ASCII or HTML document. The rules prohibit filers from including more PDF documents than the total number of HTML and ASCII documents combined. 
+
+20 Substantively equivalent documents are the same in all respects except for the formatting and inclusion of graphics (instead of the narrative and/or tabular description of the graphics). For documents to be substantively equivalent, the text of the two documents must be identical. 
+
+21 Filers should continue to provide a fair and accurate description of the differences between a version including graphic or image material and the filed version, as required by Rule 304 of Regulations S-T [17 CFR 232.304]. 
+
+22 For example, companies might wish to include a prospectus table of contents containing links to the various sections of the prospectus. 
+
+23 It is the staff's position that such an inactive textual reference will not be deemed to incorporate the material by reference into the filing. See ITT Corp. (Dec. 6, 1996) and Baltimore Gas & Electric Co. (Jan. 6, 1997). 
+
+24 The permissible tag set does not include proprietary extensions that are not supported by all browsers. 
+
+25 See note 40 and accompanying text. 
+
+26 17 CFR 232.11. 
+
+27 Rule 104(a) [17 CFR 232.104(a)]. We also are permitting the filer to submit an unofficial PDF copy of correspondence or a cover letter document. 
+
+28 See note 20 and accompanying text. 
+
+29 The amendment may consist solely of the cover page (or the first page of the document), the explanatory note, and the signature page and exhibit index (where appropriate), and the corresponding unofficial PDF copy may include the complete text of the official filing for which the amendment was being submitted. 
+
+30 The amendment may consist of the cover page (or first page of the document), the explanatory note, the signature page (where appropriate), the exhibit index, a separate electronic document for each exhibit for which an unofficial PDF copy is being submitted, and the corresponding unofficial PDF copy of each exhibit document. However, the text of the official exhibit document(s) could contain only the following legend: RESUBMITTED TO ADD/REPLACE UNOFFICIAL PDF COPY OF EXHIBIT. 
+
+31 Rule 104(d) [17 CFR 232.104(d)]. 
+
+32 Rule 104(e) [17 CFR 232.104(e)]. 
+
+33 Rule 104(b) [17 CFR 232.104(b)]. 
+
+34 See the discussion of Rule 106 [17 CFR 232.106] below. 
+
+35 Rule 105(a) [17 CFR 232.105(a)]. We are allowing filers the option of submitting all exhibits to Form N-SAR except Financial Data Schedules as HTML documents. 
+
+36 Rule 105(b) [17 CFR 232.105(b)]. 
+
+37 The rule provides that information contained in the linked material is not part of the official filing for reporting purposes in order to prevent a filing from being considered complete when the entire content of the filing is not available without reference to another document. This provision should not, however, be viewed as a statement that linked material is not considered to be part of the filed document for other purposes. 
+
+38 We are considering giving more general public guidance on a variety of issues arising from the use of electronic media in contexts other than EDGAR, which could include link liability issues. See note 327 in "The Regulation of Securities Offerings," Securities Act Release No. 7606A (Nov. 13, 1998) [63 FR 67174]. 
+
+39 17 CFR 232.106. 
+
+40 Executable code is defined as instructions to a computer to carry out operations that use features beyond the ability of the viewer, reader, or Internet browser to interpret and display HTML, PDF, and static graphic files. Such code may be in binary (machine language) or in script form. See the definition of executable code in Rule 11 of Regulation S-T [17 CFR 232.11]. Thus, scripting languages, such as JavaScript and similar scripting languages, fall into this class of executable code, as does Java, ActiveX, Postscript, and any other programming language. 
+
+41 The term disruptive code means any active content or other executable code, or any program or set of electronic computer instructions inserted into a computer, operating system, or program that replicates itself or that actually or potentially modifies or in any way alters, damages, destroys or disrupts the file content or the operation of any computer, computer file, computer database, computer system, computer network or software, or as otherwise set forth in the EDGAR Filer Manual. A violation of Rule 106 or the relevant provision of the EDGAR Filer Manual also may be a violation of the Computer Fraud and Abuse Act of 1986, as amended, and other statutes and laws. 
+
+42 If the executable code is contained only in one or more PDF documents, we will accept the submission but not the PDF document(s). 
+
+43 17 CFR 232.302. 
+
+44 We are keeping the rule that required signatures be typed to ensure legibility of these signatures. We are not requiring signatures in unofficial PDF copies. 
+
+45 17 CFR 232.304. 
+
+46 As part of a later rulemaking proposal, we anticipate proposing to lift the prohibition on graphic and image material (but not on audio or video material) after the HTML implementation period. 
+
+47 See Rule 104 [17 CFR 232.104]. 
+
+48 17 CFR 232.305. 
+
+49 I.e., the narrative portion of an electronic document may not exceed certain character limitations per line and other formatting restrictions. 
+
+50 Rule 305(b) [17 CFR 232.305(b)]. 
+
+51 17 CFR 232.306. 
+
+52 17 CFR 232.310. 
+
+53 Filers should not redline PDF documents. While the EDGAR system will remove the redlining tags from HTML documents before they are publicly disseminated (just as is currently the case with ASCII documents), the EDGAR system will not remove the redlining tags from PDF documents. Therefore, if a filer includes redlining tags in a PDF document, the disseminated PDF document will contain redlining tags. 
+
+54 We caution filers that, while evidence of redlining tags in HTML documents will not be viewable in the browser, it may be viewable in the HTML source code. 
+
+55 17 CFR 230.497(k)(2)(ii). 
+
+56 17 CFR 232.10. 
+
+57 See the former provisions of Rules 101(b)(7), 102(e)(2), and 303(a)(3)(ii) [17 CFR 101(b)(8), 102(e)(2), and 202(a)(3)(ii)]. 
+
+58 We are removing the last sentence of Instruction F(2) of Form N-SAR [17 CFR 274.101], which allowed filers to submit exhibits to the form in paper, and removing the exemption for small business investment companies, which are now phased-in to electronic filing. Finally, we are revising Instruction F(1) to correctly reference Sub-Item 77Q1 (Exhibits). 
+
+59 Unit investment trusts are not required to submit the Schedule with their N-SARs. 
+
+60 See revisions to Item 22(a)(4) of Schedule 14A [17 CFR 240.101]; and Forms N-1 [239.15 and 274.11], N-1A [239.15A and 274.11A], N-2 [239.14 and 274.11a-1], N-3 [239.17a and 274.11b], N-4 [239.17b and 274.11c], N-5 [239.24 and 274.5], and S-6 [239.16]. We also are revising Rules 485, 486, 487, and 495 [17 CFR 230.485, 486, 487, and 495], which refer to Financial Data Schedule requirements within registration statement forms. The staff of the Division of Investment Management will not object if investment companies do not include Financial Data Schedules in filings under the above rule and forms submitted before the effective date of the amendments. 
+
+61 See Rule 483(e)(2)(ii) [17 CFR 483(e)(2)(ii)]. 
+
+62 17 CFR 270.8b-23 and 270.8b-32. 
+
+63 We continually attempt to reduce the costs of the EDGAR system and to pass those costs along when possible. For example, in November 1998, under the new EDGAR contract, we were able to effect a cost savings with the implementation of a new privatized dissemination system. This resulted in our passing along a cost savings of nearly $200,000 per year to disseminators when their yearly subscription cost was reduced from $278,000 to $79,686. 
+
+64 15 U.S.C. 77b(b). 
+
+65 15 U.S.C. 78c(f). 
+
+66 15 U.S.C. 80a-2(c). 
+
+67 44 U.S.C. 3501, et seq. 
+
+68 5 CFR 1320.5(g). 
+
+69 15 U.S.C. 79a, et seq. 
+
+70 15 U.S.C. 77aaa, et seq. 
+
+71 15 U.S.C. 80a-1, et seq.

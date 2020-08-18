@@ -1,0 +1,407 @@
+https://www.sec.gov/rules/final/2011/33-9176.pdf
+
+I.0.0.0 Background and Overview
+
+II.0.0.0 Final Rules
+
+	II.A.0.0 Scope of Rule 193
+
+		II.A.1.0 Proposed Amendments
+
+		II.A.2.0 Comments on the Proposed Amendments – Scope of Rule 193
+
+		II.A.3.0 Final Rule – Scope of Rule 193
+
+	II.B.0.0 Standard of Review of Assets by Issuers of ABS
+
+		II.B.1.0 Proposed Amendments
+
+		II.B.2.0 Comments on the Proposed Amendments – Standard of Review Comments on the proposed review requirement, including the absence of a minimum
+
+		II.B.3.0 Final Rule – Issuer Review Requirement
+
+	II.C.0.0 Third Party Reviews
+
+		II.C.1.0 Proposed Amendments
+
+		II.C.2.0 Comments on the Proposed Amendments
+
+		II.C.3.0 Final Rule – Third-Party Review
+
+	II.D.0.0 Disclosure Requirements
+
+		II.D.1.0 Proposed Rules
+
+		II.D.2.0 Comments on the Proposed Amendments
+
+		II.D.3.0 Final Rules
+
+			II.D.3.a Nature of Review
+
+			II.D.3.b Findings and Conclusions
+
+			II.D.3.c Disclosure Regarding Exception Loans
+
+	II.E.0.0 Transition Period
+
+III.0.0.0 Paperwork Reduction Act
+
+		III.E.1.0 “Form S-1” (OMB Control No. 3235-0065);
+
+		III.E.2.0 “Form S-3” (OMB Control No. 3235-0073); and
+
+		III.E.3.0 “Regulation S-K” (OMB Control No. 3235-0071).
+
+IV.0.0.0 Benefit-Cost Analysis
+
+	IV.A.0.0 Benefits
+
+	IV.B.0.0 Costs
+
+V.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
+
+VI.0.0.0 Regulatory Flexibility Act Certification
+
+VII.0.0.0 Statutory Authority and Text of Rule and Form Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229 and 230
+
+[Release Nos. 33-9176, 34-63742; File No. S7-26-10] RIN 3235-AK76
+
+ISSUER REVIEW OF ASSETS IN OFFERINGS OF ASSET-BACKED SECURITIES
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: We are adopting new requirements in order to implement Section 945 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the “Act”). We are adopting a new rule under the Securities Act of 1933 to require any issuer registering the offer and sale of an asset-backed security (“ABS”) to perform a review of the assets underlying the ABS. We also are adopting amendments to Item 1111 of Regulation AB that would require an ABS issuer to disclose the nature of its review of the assets and the findings and conclusions of the issuer’s review of the assets.
+
+DATES: Effective Date: March 28, 2011.
+
+Compliance Date : Any registered offering of asset-backed securities commencing with an initial bona fide offer after December 31, 2011, must comply with the new rules and forms. FOR FURTHER INFORMATION CONTACT: Eduardo Aleman, Special Counsel, Division of Corporation Finance, at (202) 551-3430, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington DC 20549.
+
+SUPPLEMENTARY INFORMATION: We are adopting amendments to Item 1111 <sup>1</sup> of Regulation AB <sup>2</sup> (a subpart of Regulation S-K). We also are adopting Rule 193 <sup>3</sup> under the Securities Act of 1933 <sup>4</sup> (the “Securities Act”).
+
+<END HEADER>
+
+<h>I. Background and Overview</h>
+
+On October 13, 2010, we proposed new requirements in order to implement Section 945 and a portion of Section 932 of the Dodd-Frank Act. <sup>5</sup> As discussed in the Proposing Release, Section 945 of the Act amends Section 7 of the Securities Act to require the Commission to issue rules relating to the registration statement required to be filed by an issuer of ABS. Pursuant to new Section 7(d), the Commission must issue rules to require that an issuer of an ABS perform a review of the assets underlying the ABS, and disclose the nature of such review. Section 945 of the Act reflects the testimony provided to Congress that due diligence practices in ABS offerings had eroded significantly. <sup>6</sup> We also proposed new requirements relating to the disclosure of third- party findings and conclusions in ABS transactions in order to implement Section 15E(s)(4)(A) of the Exchange Act, as added by Section 932 of the Act. We received over 50 comment letters on the Proposing Release. <sup>7</sup>
+
+FR 64182] (“Proposing Release”).
+
+As discussed below, after consideration of the comments received on the proposed amendments, we are adopting the proposed amendments to implement Section 7(d) of the Securities Act. We have revised the final rules from the proposal to establish a new minimum standard for the required review. We are postponing consideration of rules to implement Section 15E(s)(4)(A) of the Exchange Act, which requires issuers or underwriters of any asset-backed security to make publicly available the findings and conclusions of any third-party due diligence report the issuer or underwriter obtains, until a later date when we adopt rules to implement the rest of Section 15(E)(s)(4), which we anticipate proposing this year. We are persuaded by the suggestion by several commentators that new Exchange Act Section 15E(s)(4) should be read as a whole, and that we should postpone implementation of 15E(s)(4)(A) until the Commission implements the rest of Section 15E. <sup>8</sup>
+
+<h>II. Final Rules</h>
+
+<h>A. Scope of Rule 193</h>
+
+<h>1. Proposed Amendments</h>
+
+We proposed new Rule 193 under the Securities Act to require issuers of ABS to perform a review of the assets underlying registered ABS offerings. <sup>9</sup> This rule would implement Securities Act Section 7(d)(1), <sup>10</sup> as added by Section 945 of the Act. As proposed, Rule <sup>193</sup>would require an issuer to perform a review of the assets underlying an ABS in a transaction that the issuer registers under the Securities Act.
+
+<h>2. Comments on the Proposed Amendments – Scope of Rule 193</h>
+
+With respect to the applicability of the proposed rule, some commentators agreed that the rule should apply only to registered offerings of ABS. <sup>11</sup> Some commentators recommended the review requirement be extended to also apply to unregistered offerings and predicted that unless the rule applies to unregistered offerings, abusive practices are likely to migrate into the market for unregistered offerings. <sup>12</sup> One such commentator supported the approach in the Proposing Release’s request for comment conditioning the Commission’s safe harbors from registration on a requirement that the underlying transaction agreements include a representation that the issuer performed an asset review that complies with Rule 193. <sup>13</sup> Three commentators expressed concern with such a requirement. <sup>14</sup> One commentator sought clarification that the issuer may rely on a review performed by an affiliated originator. <sup>15</sup>originator is an important consideration in determining the appropriateness of a review, and suggested that in so- called “aggregator” transactions, where the issuer is unaffiliated with the originator of the assets, the review should be more fulsome. See comment letter from ABA.
+
+<h>3. Final Rule – Scope of Rule 193</h>
+
+Consistent with the proposal, final Rule 193 requires that the asset review be conducted by the issuer of the ABS. <sup>16</sup> The issuer, for purposes of this rule, is the depositor or sponsor of the securitization. A sponsor typically initiates a securitization transaction by selling or pledging to a specially created issuing entity a group of financial assets that the sponsor either has originated itself or has purchased in the secondary market. In some instances, the transfer of assets is atwo-step process: the financial assets are transferred by the sponsor first to an intermediate entity, the depositor or the issuer, and then the depositor transfers the assets to the issuing entity for the particular asset-backed transaction. The issuing entity is typically a statutory trust. <sup>17</sup> In cases where the originator and sponsor may be different, including in transactions involving a so- called “aggregator,” our final rule, consistent with the proposal, provides that the review may be performed by the sponsor, but a review performed by an unaffiliated originator will not satisfy Rule 193. An unaffiliated originator may have different interests in the securitization, especially if the securitization involves many originators where each originator may have contributed avery small part of the assets in the entire pool, and may have differing approaches to the review. <sup>18</sup>
+
+As discussed in the Proposing Release, Section 7(d)(1) relates to an asset-backed security, as defined in new Section 3(a)(77) of the Exchange Act. <sup>19</sup> This new statutory definition (“Exchange Act-ABS”) is broader than the definition of “asset-backed security” in Regulation AB <sup>20</sup> and includes securities typically offered and sold in private transactions. Although the Exchange Act-ABS term is used in Section 7(d)(1), we have concluded that the review requirements mandated by Section 7(d)(1) are limited to registered offerings of ABS because Section 7(d)(1) requires the Commission to issue rules “relating to the registration statement.” Therefore, the rule we adopt today that requires an ABS issuer to perform a review of the assets applies to issuers of ABS in registered offerings and not issuers of ABS in unregistered offerings.
+
+As noted above, in the Proposing Release we asked whether, even though Section 7(d)(1) does not extend to unregistered offerings, we should condition reliance on the Securities Act safe harbors from registration on a requirement that the underlying transaction agreement for the ABS contain a representation that the issuer performed a review that complies with Rule 193, or, alternatively, that the issuer perform a Rule 193 review. Given the mixed comments on this question and our outstanding proposals from April 2010 related to offerings under the safe harbors from registration, <sup>21</sup> we are not adopting at this time a separate requirement to conditionsecuritization.
+
+Proposing Release”). In the 2010 ABS Proposing Release we proposed requiring that the underlying transactionthe Commission’s safe harbors for an exemption from registration on a requirement that the issuer conduct a review of the assets. As we noted in the 2010 ABS Proposing Release, we have concerns about investor protection in the exempt ABS markets. <sup>22</sup> While we continue to have these concerns, at this point we believe a comprehensive approach to the Commission’s safe harbors for an exemption from registration would better serve investors and provide more certainty to issuers than an incremental approach. In the future, we may determine that discrete amendments to the safe harbors addressing ABS matters are appropriate.
+
+<h>B. Standard of Review of Assets by Issuers of ABS</h>
+
+<h>1. Proposed Amendments</h>
+
+Proposed Rule 193 provided that an issuer would be required to conduct a review of the assets and disclose the findings and conclusions of the review. Proposed Rule 193 did not specify the level or type of review an issuer would be required to perform, or require that a review be designed in any particular manner. However, the Proposing Release included detailed requests for comment on whether we should set a minimum review standard, including possible standards that could be included in a final rule. In particular, the Proposing Release sought comment on a possible review standard that would require issuers to perform a review that, at a minimum, must be designed to provide reasonable assurance that the disclosure in the prospectus regarding the pool assets is accurate in all material respects. We also sought comment onagreement in a transaction relying on certain Commission safe harbors for an exemption from registration under the Securities Act contain a provision requiring the issuer to provide to any initial purchaser, security holder, and designated prospective purchaser the same information as would be required in a registered transaction. In addition, the Commission solicited comment concerning whether safe harbors from registration should not be available for offerings of structured finance products and whether any restrictions should be imposed on private offerings ofasset-backed securities.whether the rule should mandate that the review should not only be designed, but also effected, to provide reasonable assurance that the prospectus disclosure was accurate in all material respects.
+
+<h>2. Comments on the Proposed Amendments – Standard of Review Comments on the proposed review requirement, including the absence of a minimumreview standard, were varied. Some commentators responded that the review requirement, as proposed, did not address the problems that Section 945 of the Act sought to address and suggested that the Commission set a minimum level of review. <sup>23</sup> One commentator recommended that ABS issuers be required to conduct reviews that are both “designed and effected” with sufficient scale and scope to discover assets that violate applicable law or standards as set forth in the prospectus. <sup>24</sup> This commentator explained that this would go beyond providing “reasonable assurance that the disclosure in the prospectus is accurate in all material respects.” One commentator cautioned that the rule, as proposed, would create a perverse incentive to decrease due diligence reviews even further in order to decrease the likelihood that they reveal problems that would have to be disclosed to investors. <sup>25</sup></h>
+
+Some commentators suggested possible alternative review standards that encompass other aspects of the assets, instead of disclosure. Some commentators urged the Commission to require a review that assesses the actual quality of the underwriting of the assets <sup>26</sup> and exclude the type of review of assets that amounts to a mere comparison or “comforting” of data that relates to the prospectus disclosure. These commentators stated that in light of the existing liability framework under the federal securities laws, it is not necessary for the Commission to require that issuers conduct or disclose any particular review that merely verifies the accuracy of the disclosure in the prospectus. <sup>27</sup> Some commentators believed that the type of review that should be disclosed under Rule 193 is a review that relates to the underwriting of the assets <sup>28</sup> or quality of the underlying assets ( e.g. , credit quality). <sup>29</sup>
+
+Other commentators suggested that at a minimum, the review should include, for example, verifying the accuracy of the loan data and related information, determining whether the assets complied with the underwriting guidelines, determining compliance with the originator’s property valuation guidelines, and determining whether the loans were originated in compliance with applicable laws. <sup>30</sup>
+
+Other commentators, in support of a minimum review standard, suggested that the issuer’s review should include disclosure of key indicators of loan quality ( e.g. , weighted average FICOscores, loan-to-value ratios, borrower debt-to-income ratios, and the absence of data suggesting loan fraud) <sup>31</sup> and a minimum sample size requirement. <sup>32</sup> Some commentators suggested that this should include a statistically valid sample of assets whose analysis could be extrapolated to the entire asset pool. <sup>33</sup> Two of these commentators argued that such a requirement would ensure a level playing field and that no issuer gains a competitive cost advantage by using smaller sample sizes. <sup>34</sup> One commentator suggested that the Commission consider the minimum sample sizes set forth by the various rating agencies, <sup>35</sup> while another noted that sampling should be conducted in a manner appropriate to provide confidence that a representative portion of the pool has been examined ( e.g. , a sample size could be computed using a 95% confidence level and a 5% confidence interval). <sup>36</sup>
+
+On the other hand, some commentators supported the Commission’s proposal, which did not prescribe a minimum level of review. <sup>37</sup> One commentator opposed the “reasonable assurance” standard in the Proposing Release’s request for comment and argued that the standard is inappropriate and unnecessary to address the intent of the Act or to improve disclosure because the new requirements mandated by the Act should address a review of the assets, as
+
+Association for Financial Markets in Europe (“AFME”); Commercial Real Estate Finance Council (“CRE Finance Council”); and Mortgage Bankers Association (“MBA”).opposed to a review of the disclosure about the assets. <sup>38</sup> This commentator cautioned that a “reasonable assurance” standard would require issuers to describe what they did to get comfortable that they met their disclosure obligations, and expose them to liability for failing to have used procedures that provided such “reasonable assurance” or for not having accurately described the nature of the procedures and their findings and conclusions, even if there was no material error or omission in the prospectus about the pool assets. <sup>39</sup>
+
+One commentator requested confirmation that Rule 193 addresses a review of assets in connection with the preparation of the securitization, rather than a review performed in connection with origination of a securitized asset. <sup>40</sup> This commentator explained that in the context of CMBS transactions, the sponsor of the securitization is often also the originator (or an affiliate of the originator) of the assets being transferred into a securitization, and that it would be unusual for any extra level of diligence to be performed on the assets themselves in connection with the securitization since the sponsor previously underwrote the assets and is familiar with the assets.
+
+<h>3. Final Rule – Issuer Review Requirement</h>
+
+After considering the comments, we are adopting Rule 193 with a minimum review standard. We agree with commentators who suggested that Rule 193 should require a minimumlevel of review to implement the directive in Section 7(d), as added by Section 945 of the Act. Absent a minimum standard of review, we are concerned that issuers could satisfy new Rule 193 with a review that was not designed or carried out in a way that would address the concerns that led to the enactment of section 7(d)(1) – that due diligence be “re-introduced” into the offering process. <sup>41</sup> We also believe a minimum standard of review is appropriate in light of Congress’s direction that issuers “of an asset-backed security…perform a due diligence analysis of the assets.” <sup>42</sup> Indeed, permitting issuers to satisfy the statutory requirement with such a review potentially could undercut the statutory purpose by erroneously suggesting that due diligence was conducted.
+
+While we have concluded that a minimum review standard is appropriate for our final rule, we believe a flexible, principles-based standard that would be workable across a wide variety of asset classes and issuers would best accomplish our objectives. Consequently, we are adopting Rule 193 modified from the proposal to require an issuer to perform a review of the assets underlying an ABS in a transaction that will be registered under the Securities Act that, at a minimum, must be designed and effected to provide reasonable assurance that the disclosure in the prospectus regarding the assets is accurate in all material respects. <sup>43</sup>
+
+We note that the minimum standard that we are adopting is similar to the standard many companies use in designing and maintaining disclosure controls and procedures required under Exchange Act Rule 13a-15. <sup>44</sup> Our rules, which have applied to reporting companies for many years, generally “require an issuer to maintain disclosure controls and procedures to provide reasonable assurance that the issuer is able to record, process, summarize and report the information required in the issuer’s Exchange Act reports” within appropriate time frames. <sup>45</sup> We believe that many issuers and their advisers are familiar with this type of standard. <sup>46</sup>
+
+Rule 193 does not specify the particular type of review an issuer is required to perform. <sup>47</sup>
+
+We expect that the type of review of the assets an issuer performs may vary depending on the circumstances. For example, the nature of review may vary among different asset classes.
+
+While Rule 193 does not require a particular type of review, as described below, disclosure describing the type of review is required. The “reasonable assurance” standard is similar to language in the Foreign Corrupt Practices Act of 1977. <sup>48</sup> We recognize that while “reasonableness” is an objective standard, there is a range of judgments that an issuer might make as to what will provide “reasonable assurance.” <sup>49</sup> Thus, the term “reasonable assurance” in Rule 193 does not imply a single methodology, but encompasses the full range of reviews an issuer may perform to ensure that its review is designed and effected to provide reasonable assurance that the prospectus disclosure regarding the pool assets is accurate in all material respects.
+
+We continue to believe that the nature of review may vary depending on numerous circumstances and factors which could include, for example, the nature of the assets being securitized and the degree of continuing involvement by the sponsor. <sup>50</sup> We note the suggestion by several commentators that sampling should be permitted. <sup>51</sup> While we agree that sampling may be appropriate depending on the facts and circumstances, we believe that whether sampling
+
+U.S.C. 78m(b)(7). We have long been of the view that “reasonableness” is not an “absolute standard of exactitude for corporate records.” Release No. 34-17500 (Jan. 29, 1981) [46 FR 11544].is sufficient to satisfy the “reasonable assurance” standard in Rule 193 will depend on a variety of factors, such as the type of ABS being offered. For example, in offerings of residential mortgage-backed securities (“RMBS”), where the asset pool consists of a large group of loans, it may be appropriate, depending on all the facts, to review a sample of loans large enough to be representative of the pool, and then conduct further review if the initial review indicates that further review is warranted in order to provide reasonable assurance that disclosure is accurate in all material respects. By contrast, for ABS where a significant portion of the cash flow will be derived from a single obligor or a small group of obligors, such as ABS backed by a small number of commercial loans (“CMBS”), it may be appropriate for the review to include every pool asset. Moreover, in ABS transactions where the asset pool composition turns over rapidly because it contains revolving assets, such as credit card receivables or dealer floorplan receivables, a different type of review may be warranted than in ABS transactions involving term receivables, such as mortgage or auto loans. We are not adopting a minimum sample size for offerings where sampling may be appropriate for the review as we believe any appropriate sample size must be based on the facts and circumstances. While reviewing a sample of assets may or may not be appropriate under the particular facts, we agree with commentators who suggested that, where a sample of the assets is reviewed, the size of the sample and the criteria used to select the assets sampled should be disclosed. Accordingly, we are adding an instruction noting that this disclosure should be provided as part of the description of the nature of the review, as discussed further below.
+
+We have considered comment letters stating that the required review should relate to the credit quality, or underwriting, of the assets rather than the accuracy of the disclosure in theprospectus. We believe that accuracy of disclosure in the prospectus is an appropriate objective for the required review. The minimum review standard we are adopting will necessarily include credit quality and underwriting of the assets since disclosure about these factors is required in the prospectus, but also will be broader than just a review of the underwriting of the assets. Because an issuer is required under Regulation AB to provide disclosure about material characteristics of the asset pool indicating the quality of the asset pool, under the review requirement we are adopting today, the issuer will be required to review whether the disclosure regarding the asset pool is accurate in all material respects. <sup>52</sup> In addition to credit quality, this will include the disclosure currently required by Item 1111 of Regulation AB. Further, under Item 1111 of Regulation AB, as revised today, prospectus disclosure of the nature of the review is required.
+
+<h>C. Third Party Reviews</h>
+
+<h>1. Proposed Amendments</h>
+
+Proposed Rule 193 would have permitted an issuer to rely on third parties to satisfy its obligations under Rule 193 provided the third party is named in the registration statement and consents to being named as an “expert” in accordance with Section 7 of the Securities Act and Rule 436 under the Securities Act. <sup>53</sup>
+
+<h>2. Comments on the Proposed Amendments</h>
+
+Some commentators supported the proposal to permit issuers to rely on third-party firms
+
+U.S.C. 77l]. See also Securities Act Section 17 [15 U.S.C. 77q], Exchange Act Section 10(b) [15 U.S.C. 78j] and Rule 10b-5 under the Exchange Act [17 CFR 240.10b-5].to conduct the required review. <sup>54</sup> One commentator noted that issuers should be responsible for the sufficiency and accuracy of the reviews without regard to whether the review is conducted by a third party. <sup>55</sup> Another commentator recommended that any third-party review be at arm’s length. <sup>56</sup> In contrast, another commentator did not believe that an independence requirement was needed because an issuer may perform the review itself and cannot be independent or conflict- free with respect to itself. <sup>57</sup> This commentator reasoned that since an issuer is not required to rely on a third party and could conduct the review itself, there is no greater likelihood that the independence would be impaired. <sup>58</sup><sup>54</sup> See comment letters from ABA; Consumer Federation. <sup>55</sup> See comment letter from CRL. <sup>56</sup> See comment letter from Barnard. <sup>57</sup> See comment letter from CAQ. <sup>58</sup> See comment letter from CAQ. <sup>59</sup> See comment letters from ABASA; Clayton; SIFMA. <sup>60</sup> See comment letters from Clayton; SIFMA. Some commentators expressed concern that third-party due diligence providers would be considered experts under the Securities Act and asserted that this treatment would be inconsistent with the principles guiding Section 11(a)(4) of the Securities Act. <sup>59</sup> Some commentators predicted that this requirement is likely to result in these providers withdrawing from providing services to transactions where expert liability would attach. <sup>60</sup> One commentator noted that if these third-party due diligence providers are subject to expert liability and they refuse to consent to being named as experts, registered RMBS transactions will become impossible because many NRSROs require that a non-affiliated third party perform a due diligence review in order to rate
+
+RMBS. <sup>61</sup> This commentator explained that if issuers are unable to obtain a third-party review because of expert liability they would be unable to obtain a credit rating because of the lack of a third-party review. <sup>62</sup>
+
+Several commentators who expressed concern that third-party due diligence providers would be considered experts under the Securities Act reasoned that due diligence providers are not licensed professionals and are not part of a regulated industry that is governed by a formal professional association. <sup>63</sup> One commentator argued that in light of an issuer’s continuing liability under Section 11 for its disclosure related to due diligence, the additional comfort to the Commission and investors as to the accuracy of the diligence results gained by requiring expert liability is outweighed by the loss of diligence firms that will not consent to becoming experts. <sup>64</sup>
+
+<h>3. Final Rule – Third-Party Review</h>
+
+We are adopting, as proposed, a requirement that if an issuer engages a third party for purposes of performing its Rule 193 review, then an issuer may rely on the third-party’s review to satisfy its obligations under Rule 193 provided the third party is named in the registration statement and consents to being named as an “expert” in accordance with Section 7 of the Securities Act and Rule 436 under the Securities Act. We believe that allowing issuers towill refrain from accepting engagements to perform the asset review mandated by Rule 193 leading issuers to more in-house reviews, which could give rise to potential conflicts of interest).contract with a third-party due diligence provider <sup>65</sup> is consistent with Section 15E(s)(4) of the Exchange Act. <sup>66</sup>
+
+We recognize that issuers may routinely hire third parties to conduct various types of reviews, and not all persons assisting an issuer in these reviews would be subject to the new requirements. Under our new rule, any third party hired by the issuer to perform the review required under Rule 193, and to whom the issuer attributes findings and conclusions of the review in the prospectus will be required to be named in the registration statement and consent to being named as an “expert” as described above. On the other hand, if an issuer obtains assistance from a third party but attributes to itself the findings and conclusions of the review required by Rule 193, the third party would not be required to consent to being named as an expert. <sup>67</sup> In either case, the prospectus disclosure should make clear whether the disclosed finding and conclusions are those of the issuer or of a third party. <sup>68</sup> We believe that the hiring byan issuer of a third party to perform the review and using that review to market its securities would be inconsistent with disclosure that the issuer attributes to itself the findings and conclusions of the review. <sup>69</sup> We also note that an issuer may rely on multiple third parties to fulfill its Rule 193 review obligation, provided the issuer complies with the above requirements for each third party.
+
+We note commentators’ concern that some third parties might not consent to being named as experts. We are not requiring a third-party review and, if the issuer obtains the assistance of a third party, the issuer can attribute the findings and conclusions of the review to itself and avoid the need to obtain consent. If, however, the issuer attributes the findings and conclusions to a third party, we believe that the third party should be named in the registration statement and be treated in the same manner as other experts, such as investment banks that provide fairness opinions. We believe, based on discussions with industry participants, that at least some third-party reviewers will continue to perform reviews for ABS issuers and will revise their review procedures as needed to be comfortable being named as experts in registered ABS transactions. We also note that third parties would not be required to provide consent in all instances, but only where the issuer attributes the findings and conclusions of the review to the third party.of the third-party expert in its registration statement and obtain the third-party’s consent under Securities Act Section 7(a) depends on whether the disclosure attributes the statement to the third-party expert).
+
+Item 1111 of Regulation AB, as discussed below, this would not be using the information to market the securities provided the only information disclosed is that which is required by the rule, and the issuer does not otherwise use this fact to market the securities. Similarly, we are of the view that consent to being named as an expert would not be required of a third party hired by the issuer to assist in performing the review solely based on the fact that the issuer provides disclosure pursuant to Item 1111 of Regulation AB that the issuer hired a third party for the purpose of assisting it to perform the Rule 193 review.
+
+<h>D. Disclosure Requirements</h>
+
+<h>1. Proposed Rules</h>
+
+Item 1111 of Regulation AB <sup>70</sup> outlines several aspects of the pool that the prospectus disclosure for ABS should cover. We proposed amendments to Item 1111 to require disclosure regarding the nature of the issuer’s review of the assets under Rule 193 and the findings and conclusions of the review. In addition, we re-proposed amendments from our 2010 ABS Proposing Release to require disclosure regarding the composition of the pool as it relates to assets that do not meet disclosed underwriting standards, as we believe this information would promote a better understanding of the impact of the review and the composition of the pool assets.
+
+We proposed new Item 1111(a)(7) of Regulation AB to require that an issuer of ABS disclose the nature of the review it conducts to satisfy proposed Rule 193. This proposed requirement would implement Securities Act Section 7(d)(2), <sup>71</sup> as added by the Act. As discussed in the Proposing Release, this disclosure would include whether the issuer has hired a third-party firm for the purpose of reviewing the assets. We also proposed to amend Item 1111(a)(7) to require an ABS issuer to disclose the findings and conclusions of any review performed by the issuer or by a third party engaged for purposes of reviewing the assets. <sup>72</sup> We also proposed Item 1111(a)(8) which re-proposed additional requirements substantially similar to those we had previously proposed in the 2010 ABS Proposing Release. This item would haverequired disclosure of whether, and if so, how, any assets in the pool deviate from the disclosed underwriting criteria and data on the amount and characteristics of those assets that did not meet the disclosed standards. In addition to what we proposed in the 2010 ABS Proposing Release, we proposed a requirement that the issuer disclose the entity ( e.g. , sponsor, originator or underwriter) who determined that such assets would be included in the pool, despite not having met the disclosed underwriting standards.
+
+<h>2. Comments on the Proposed Amendments</h>
+
+Comments on the proposal were mixed. Some commentators supported the proposal in Item 1111(a)(7) <sup>73</sup> and another commentator expressed support for the proposal in Item 1111(a)(8). <sup>74</sup> Another commentator requested that the Commission modify the proposal in Item 1111(a)(8) such that the disclosure would be required only to the extent it is material to investors. <sup>75</sup> This commentator also suggested that the Commission clarify that subparagraph (8) not be read to require 100% diligence of the pool such that, to the extent that an issuer does a sampling of the pool, only the deviations that are discovered in that sampling would need to be reported. <sup>76</sup> This commentator also objected to the proposal to disclose the entity who made the decision to include the deviating assets as part of the pool, because multiple transaction parties could collectively agree on what assets are to be included in the pool. <sup>77</sup> To the extent that in aparticular transaction a single party makes the decision, this commentator argued that the disclosure is not material and should not be required to be reported. <sup>78</sup> Another commentator suggested that such disclosure not be required for offerings of CMBS because decisions about CMBS pool assets are not susceptible to being attributed to a particular party due to the fungible nature of CMBS assets and the fact that the decisions are an iterative process involving the sponsor, issuer, and at times investors, to largely the same degree. <sup>79</sup>
+
+Some commentators recommended that the rule provide further guidance on the findings and conclusions that must be disclosed. <sup>80</sup> One commentator highlighted that third-party due diligence reviews typically evaluate a sample of assets according to underwriting guidelines provided by the asset seller and other criteria specified by the asset purchaser. <sup>81</sup> This commentator noted that the typical end product of a third-party due diligence review in RMBS offerings is the grading of specific loans in a sample provided by the asset purchaser, according to whether the loans meet the seller guidelines and buyer criteria or whether they comply with applicable laws. <sup>82</sup> In order for investors to be able to understand the loan “grades” and evaluate the quality of the reviewed assets, however, this commentator suggested that the rule require disclosure of the controlling guidelines and criteria used to produce the loan grades ordesignations. <sup>83</sup>
+
+One commentator argued that Item 1111(a)(8) seems to assume that all originators have uniform underwriting criteria that permit the evaluation of most loans on a mechanical basis. <sup>84</sup> In particular, this commentator explained that auto loan originators do not have hard and fast guidelines by which most loan applications can be evaluated. Instead, explained this commentator, such originators use electronic decision-making systems as a first filter for applications. Most decisions, however, are made by credit analysts at a variety of levels and the fact that a given loan required a higher level of approval does not mean that the loan should be considered an exception to the underwriting guidelines because there may be many reasons why a loan might require a higher level of approval and still fit within the “standard process” of the originator. While this commentator did not object to the Commission’s formulation of Item 1111(a)(8), it believed that many sponsors of auto loan ABS would not provide any incremental disclosure in response to new Item 1111(a)(8) because the underwriting guidelines in their prospectuses indicate that they make judgmental underwriting decisions, and there are not disclosed standards by which loans are evaluated, so there will not be a need to describe loans that fail to meet those standards.
+
+<h>3. Final Rules</h>
+
+After considering the comments, we are adopting the amendments to Item 1111 of Regulation AB substantially as proposed. We agree with commentators that the disclosure should provide a clear picture of the review undertaken and the results and have thus revised theitem to make that clearer.
+
+<h>a. Nature of Review</h>
+
+New Item 1111(a)(7) of Regulation AB requires that an issuer of ABS disclose the nature of the review it conducts to satisfy proposed Rule 193. This would include whether the issuer has hired a third-party firm for the purpose of reviewing the assets, or to assist it in reviewing the assets. This would include a description of the scope of the review, such as whether the issuer or a third party conducted a review of a sample of the assets and what kind of sampling technique was employed (i.e., random or adverse).
+
+<h>b. Findings and Conclusions</h>
+
+Under new Item 1111(a)(7), the issuer will be required to disclose the findings and conclusions of the review performed by the issuer or by a third party engaged for purposes of reviewing the assets. Although Section 7(d) of the Securities Act does not require our rules to mandate that the issuer disclose the findings and conclusions of a review in its registration statement, we continue to believe this information is important for investors to consider along with the information in the registration statement relating to the nature of the issuer’s review as required to be publicly disclosed by Securities Act Section 7(d). We continue to believe that disclosure of the findings and conclusions of the review will provide investors with a better picture of the assets than would be provided by disclosure only of the nature of the review and would provide a better ability to evaluate the review. We have revised the item to make clear that disclosure of the findings and conclusions necessarily requires disclosure of the criteria against which the loans were evaluated, and how the evaluated loans compared to those criteriaalong with the basis for including any loans not meeting those criteria. <sup>85</sup> In order to ensure that this requirement is clear, we have included an instruction to the rule.
+
+<h>c. Disclosure Regarding Exception Loans</h>
+
+We are adopting, as proposed, Item 1111(a)(8) of Regulation AB. Item 1111(a)(8) of Regulation AB requires issuers to disclose how the assets in the pool deviate from the disclosed underwriting criteria and include data on the amount and characteristics of those assets that did not meet the disclosed standards. Issuers are required to disclose the entity ( e.g. , sponsor, originator, or underwriter) who determined that such assets should be included in the pool, despite not having met the disclosed underwriting standards, and what factors were used to make the determination. For example, this could include compensating factors, such as those included in an issuer’s waiver policies for including in the pool loans that fail to meet the disclosed underwriting criteria, or a determination that the exception was not material. If compensating or other factors were used, issuers will be required to provide data on the amount of assets in the pool, or in the sample or otherwise known to the issuer if only a sample was reviewed, that are represented as meeting each factor and the amount of assets that do not meet those factors. We also believe that this information will help provide investors with a more complete understanding of the quality and extent of the issuer’s review of the assets (through hiring a third-party or otherwise) and how that relates to a determination to either include a loan in the pool or exclude it from the pool.conclusions of the issuer or their-party due diligence providers. See comment letter from Levin (stating that disclosure of loan grades, as used by third-party due diligence providers, in isolation, without disclosure of controlling guidelines used to produce those grades, is not useful to investors).
+
+To the extent the underwriting criteria outlined in the prospectus are broad or describe underwriting decisions involving the use of discretion, the prospectus would need to provide disclosure of how the broad subjective underwriting decisions were applied. We note that Item 1111 of Regulation AB requires a description of the underwriting criteria used to originate or purchase the pool assets. Thus, where originators may approve loans at a variety of levels, and the loans underwritten at an incrementally higher level of approval are evaluated based on judgmental underwriting decisions, the criteria for the first level of underwriting should be disclosed, and loans that are included in the pool despite not meeting the criteria for this first level of underwriting criteria should be disclosed under Item 1111(a)(8).
+
+We also are adopting, with some clarification, the requirement that the issuer disclose the entity ( e.g. , sponsor, originator or underwriter) who determined that such assets would be included in the pool, despite not having met the disclosed underwriting standards. While we are aware of some commentators’ objection to reporting this information because of the possibility that multiple transaction parties could collectively agree on what assets are to be included in the pool, we continue to believe that this additional requirement will assist investors in understanding the entities along the securitization chain that may be directing decisions to include exception loans in the pool, even where more than one entity may be involved. <sup>86</sup> We believe this information will be useful to investors because it will provide investors with information to gauge whether the decision to accept such loans may be subject to a potential conflict of interest. We have revised the rule to clarify that if multiple parties are involved in this decision, they should all be named.
+
+<h>E. Transition Period</h>
+
+Consistent with one commentator’s suggestion, we have set a compliance date for the rule we adopt today that will allow market participants and industry groups sufficient time to develop procedures and systems required to comply with rule’s requirements. <sup>87</sup> As this commentator noted, and as we recognize, other initiatives and changes to the markets are simultaneously affecting participants in the securitization industry. <sup>88</sup> Accordingly, any registered offering of ABS commencing with an initial bona fide offer after December 31, 2011, must comply with the new rules. We believe, consistent with one commentator’s suggestion, a transition period will allow issuers time to design a review to meet the rule’s minimum standard. <sup>89</sup> We also believe a transition period will benefit third parties who, under the rule, potentially may be subject to expert liability in certain circumstances and may require a transitional period to implement procedures, or revise current ones, in light of the potential expert liability.
+
+<h>III. Paperwork Reduction Act</h>
+
+Certain provisions of the final rules contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (PRA). <sup>90</sup> We published a notice requesting comment on the collection of information requirements in the Proposing Release for<sup>87</sup> See comment letter from SIFMA.<sup>88</sup> See , e.g. , Improvements to the Asset-Backed Securitization Process, Title IX, Subtitle D of the Act; Treatment by the Federal Deposit Insurance Corporation as Conservator or Receiver of Financial Assets Transferred by an Insured Depository Institution in Connection with a Securitization or Participation After September 30, 2010 , Final Rule, Federal Deposit Insurance Corporation (Sept. 27, 2010).<sup>89</sup> See comment letter from SIFMA.<sup>90</sup> 44 U.S.C. 3501 et seq .the rule amendments, and we submitted these requirements to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>91</sup> An agency may not conduct or sponsor, and a person is not required to comply with, a collection of information unless it displays a currently valid control number. The titles for the collections of information are: <sup>92</sup>
+
+<h>1. “Form S-1” (OMB Control No. 3235-0065);</h>
+
+<h>2. “Form S-3” (OMB Control No. 3235-0073); and</h>
+
+<h>3. “Regulation S-K” (OMB Control No. 3235-0071).</h>
+
+Compliance with the proposed amendments is mandatory. Responses to the information collections will not be kept confidential and there is no mandatory retention period for the information disclosed.
+
+Our PRA burden estimates for the final amendments are based on information that we receive on entities assigned to Standard Industrial Classification Code 6189, the code used with respect to ABS, as well as information from outside sources. <sup>93</sup> When possible, we base our estimates on an average of the data that we have available for the years 2004 through 2009.
+
+In the Proposing Release, we requested comment on the PRA analysis. No commentators responded to our request for comment on the PRA analysis.<sup>91</sup> 44 U.S.C. 3507(d) and 5 CFR 1320.11.<sup>92</sup> The paperwork burden from Regulation S-K is imposed through the forms that are subject to the requirements in those regulations and is reflected in the analysis of those forms. To avoid a Paperwork Reduction Act inventory reflecting duplicative burdens and for administrative convenience, we assign a one-hour burden to Regulation S-K.<sup>93</sup> We rely on two outside sources of ABS issuance data. We use the ABS issuance data from Asset-Backed Alert on the initial terms of offerings, and we supplement that data with information from Securities Data Corporation (SDC).
+
+Forms S-1 and S-3
+
+The amendments to Item 1111 of Regulation AB will increase the disclosure required in offerings of ABS registered on either Forms S-1 or S-3. The amendment to Item 1111 requires issuers to disclose how the assets in the pool deviate from the disclosed underwriting criteria, and include data on the amount and characteristics of those assets that did not meet the disclosed standards. Issuers will be required to disclose the entity who determined that such assets should be included in the pool and what factors were used to make the determination. Under new Rule 193, if an issuer employs a third party to perform the review and attributes the findings and conclusions of the review to the third party, the third party must be named in the registration statement and consent to being named as an expert in accordance with Securities Act Rule 436.
+
+Thus, we anticipate that issuers will incur a burden in obtaining a consent from the third party.
+
+We believe that the requirements will increase the annual incremental burden to issuers by 30 hours per form. <sup>94</sup> For registration statements, we estimate that 25% of the burden of preparation is carried by the company internally and that 75% of the burden is carried by outside professionals retained by the registrant at an average cost of $400 per hour. From 2004 through 2009, an estimated average of four offerings was registered annually on Form S-1 by ABS issuers. We believe that the requirements will result in an increase to the internal burden to prepare Form S-1 of 30 burden hours (0.25 x30 x 4) and an increase in outside costs of $36,000 ($400 x 0.75 x 30 x 4). During 2004 through 2009, we estimate an annual average of 929 offerings of ABS registered on Form S-3. Therefore, we believe that the requirements we are<sup>94</sup> This does not reflect burdens associated with the review that would be required as a result of Rule 193,which we believe does not impose a collection of information requirement for purposes of our PRA analysis.adopting will result in an increase to the internal burden to prepare Form S-3 filings of 6,968 burden hours (0.25 x 30 x 929) and a total cost of $8,361,000 (400 x 0.75 x 30 x 929).
+
+Regulation S-K
+
+Regulation S-K includes the item requirements in Regulation AB and contains the disclosure requirements for filings under both the Securities Act and the Exchange Act. In 2004, we noted that the collection of information requirements associated with Regulation S-K as it applies to ABS issuers are included in Form S-1 and Form S-3. <sup>95</sup> The amendments that we are adopting revise Regulation S-K. The collection of information requirements, however, are reflected in the burden hours estimated for the various Securities Act and Exchange Act forms related to ABS issuers. The rules in Regulation S-K do not impose any separate burden.
+
+Consistent with historical practice, we have retained an estimate of one burden hour for Regulation S-K for administrative convenience.
+
+<h>IV. Benefit-Cost Analysis</h>
+
+The amendments to our regulations for ABS relate to requiring an issuer of an ABS to perform a review of the assets underlying the security. The rules we are adopting are intended to implement the requirements under new Section 7(d) of the Securities Act. First, we are adoptinga new Securities Act rule to require issuers of registered offerings of asset-backed securities to perform a review of the assets underlying the asset-backed securities that, at a minimum, must be designed and effected to provide reasonable assurance that the disclosure regarding the pool assets in the prospectus is accurate in all material respects. Second, we also are adopting new requirements in Regulation AB to require disclosure regarding:
+
+The nature of the review of assets conducted by an ABS issuer;
+
+The findings and conclusions of a review of assets conducted by an ABS issuer or third party;
+
+Disclosure regarding assets in the pool that do not meet the underwriting standards; and
+
+Disclosure regarding which entity determined that the assets should be included in the pool, despite not having met the underwriting standards and what factors were considered in making this determination.
+
+The Commission is sensitive to the costs and benefits imposed by the rules it is adopting.
+
+The discussion below focuses on the costs and benefits of the amendments made by the Commission to implement the Act within the Commission’s permitted discretion and related amendments not required by the Act, rather than the costs and benefits of the Act itself. Except as discussed below, no commentators responded to our request for comment on the costs and benefits of the proposed rule identified in the Proposing Release.
+
+<h>A. Benefits</h>
+
+The amendments we are adopting are designed to increase investor protection by945 of the Act, for issuers to perform a review of the underlying assets and disclose the nature of the review. We expect that requiring a minimum level of review of the assets will result in loan pools that have fewer loans that do not conform to the disclosures in the prospectus regarding the pool assets. We also expect that establishing a minimum level of review will prevent some potential reviews that are not sufficiently thorough, and disclosures about the pool assets that are not sufficiently accurate. Finally, we also expect that a minimum standard of review will benefit investors by facilitating comparability among reviews performed by different issuers.
+
+On the other hand, we believe that a principles-based approach is appropriate to allow for review procedures to be based upon the economic characteristics of the asset pool that is being examined. Accordingly, our rules do not prescribe specific guidelines to employ in reviews.
+
+This flexibility should help increase the usefulness of reviews for investors and limit their costs.
+
+Further, the detailed description of the nature of the review and disclosure of findings and conclusions should encourage more rigorous asset reviews, whether by issuers or third parties engaged to perform the asset reviews. These disclosures would complement the requirement to perform a review by improving the quality, and investor understanding, of the review.
+
+Although issuers in registered offerings are not required to use a third party to satisfy the review requirement, as a condition to such use, if the findings and conclusions of the review will be attributed to a third party, a third party would be required to consent to being named in the registration statement and thereby accept potential expert liability, which should increase the quality of that review. In registered offerings, where the third party consents to being named in the prospectus, the potential expert liability for the findings and conclusions of third-party reviews should provide accountability and creates stronger incentives to perform high-quality<sup>33</sup>reviews that protect investors. The resulting disclosures should reduce the information risk of investing in these securities. Our amendments to require detailed disclosure by the issuer of the nature, findings and conclusions of its review could result in improved asset review practices.
+
+Moreover, this could be useful to investors if they prefer investing in securities about which there is disclosure indicating a more robust review over investing in securities about which the disclosure indicates a less robust review.
+
+The requirement to disclose exception loans may provide important information to investors regarding the characteristics of the pool that may otherwise not be publicly known. For those issuers that currently provide asset-level information about the pool, an investor might be able, without this new requirement, to determine some information about the number of exception loans; however, even where this could be determined under current rules, the amendments would reduce investors’ cost of information production by reducing duplicative efforts to gather such data on their own or purchase it through data intermediaries. We also are adopting amendments to require disclosure of the entities that have determined that an asset that deviates from underwriting standards should, nonetheless, be included in the pool. Becausethird-party asset review providers typically work for sponsors, there is potentially a conflict of interest when a sponsor can waive or overrule the third-party’s conclusions that insufficient compensating factors exist to allow inclusion of an asset that does not meet the underwriting standards governing the pool. <sup>96</sup> We expect that information about which entity made the determination to include an asset in the pool despite not having met the underwriting standards will provide investors with information to gauge whether the decision to accept such loans<sup>96</sup> See , e.g. , comment letter from Massachusetts AG.otherwise may be subject to a conflict of interest. We also expect this will reduce the cost of information asymmetry and could be useful information to investors because investors may be able to price a securitization of a pool of assets more accurately. It also may assist credit rating agencies in assigning more informed credit ratings, and investors may be able to price ABS offerings more accurately.
+
+Our amendments requiring detailed disclosure of the nature of the review, as well as the findings and conclusions of any such review, may increase investor confidence in the market for ABS. These disclosures could allow investors to better understand the information about the asset pool and credit risk of the asset pool.
+
+<h>B. Costs</h>
+
+The final rule would implement the requirement in Section 7(d) of the Securities Act, added by Section 945 of the Act, that all issuers of registered ABS offerings perform a review of the underlying assets and that those issuers disclose the nature of their review. Although issuers of ABS likely already perform some level of review of the underlying assets and many originators review the assets at origination, ABS issuers in registered offerings may incur additional costs to perform more extensive reviews that are sufficient to comply with the minimum level of review required by the rule, whether the issuer performs the review itself, or hires a third-party to perform the review. Moreover, this could be costly to issuers, if investors do not seek to invest in securities about which there is disclosure indicating a more robust review over investing in securities about which the disclosure indicates a less robust review.
+
+It is possible that by establishing a minimum standard for the review, some issuers who otherwise may have performed a more thorough review may design their reviews to accomplishno more than the minimum required by the rule. <sup>97</sup> We note, however, that under Rule 193 issuers may obtain a third party to perform the required review and attribute the review to the third party provided the third party is named in the registration statement and consents to being named as an expert in the registration statement. This flexibility in the rule allows for those third-party reviewers that consent to being named as an expert in the registration statement to conduct more thorough reviews and separate themselves from other third-party reviewers that would not provide those higher levels of assurance. At the same time, commentators observed that there are incentives not to conduct adequate due diligence, which supports the need for a minimum standard required by law. <sup>98</sup>
+
+Rule 193 permits an issuer to rely on a third party to perform the required review, provided the review satisfies the standard in Rule 193. If the issuer will attribute the findings and conclusions of the review to the third party, the third party will be required to be named in the registration statement and consent to be named as an expert in the registration statement.
+
+One commentator predicted that requiring third parties to be named in the registration statement as experts will materially impact the cost of due diligence services which will likely render securitizations non-economic for issuers. <sup>99</sup> Some asset classes may not have third-party due diligence providers available to be engaged to conduct a review. In instances where an issuer must conduct the review and attributes to itself the findings and conclusions of the review, we believe that the costs of conducting these reviews will not exceed the costs of engaging third<sup>97</sup> See , e.g ., comment letter from Consumer Federation (observing that all members of the securitization supply change have “strong incentives…to skimp on due diligence”).<sup>98</sup> Id .<sup>99</sup> See comment letter from SIFMA.parties to conduct the reviews.
+
+Further, it is possible that third-party providers may lack sufficient capabilities to provide the review for which they are retained. Additionally, third-party review firms are not registered with the Commission and some may not be subject to professional standards. However, our rules subject third-party review firms in registered transactions to potential expert liability for the disclosure regarding the findings and conclusions of their review of the assets. For certain firms, however, in particular smaller review firms that may lack the financial resources to cover their potential liabilities, expert liability may not be a significant deterrent because these firms have less financial resources exposed to potential liability and may not be as concerned about losing potential claims compared to firms that have more financial resources exposed to liability. This may create a burden on both qualified providers of due diligence and the securitizers that hire them.
+
+We acknowledge that the potential for expert liability could impose costs on issuers and third-party due diligence providers, and they may be required to adjust their practices (and prices in the case of third parties) to account for this new requirement. Some commentators noted that it is possible that third parties engaged by issuers to perform the review required by Rule 193 may be unwilling to consent to being named in the registration statement as experts. <sup>100</sup> In the context of RMBS, some credit rating agencies require third-party reviews on all residential mortgage pools as a condition to rating the transaction. <sup>101</sup> If all third-party providers are unwilling to consent to being named in the registration statement as experts, issuers that are<sup>100</sup> See , e.g. , comment letters from ASF; Clayton; SIFMA.<sup>101</sup> See comment letter from Fitch.unwilling to attribute to themselves alone the findings and conclusions of the review may be unable to obtain a third party review and, consequently, be unable to obtain a credit rating. We note, however, that a third party would not be required to consent to being named as an expert if an issuer does not attribute the findings and conclusions of the review to the third party. We also believe, based on discussions with industry participants, including third-party review firms, that at least some third parties hired to perform the review will make any necessary adjustments to their review procedures and prices in order to be willing to be named in the registration statement as experts.
+
+As adopted, the amendments requiring issuers to provide detailed disclosure relating to the nature of the review, the findings and conclusions of such review, and disclosure about loans that deviate from the disclosed underwriting criteria will impose a disclosure burden.
+
+<h>V. Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation</h>
+
+Section 23(a) of the Exchange Act <sup>102</sup> requires the Commission, when making rules and regulations under the Exchange Act, to consider the impact a new rule would have on competition. Section 23(a)(2) prohibits the Commission from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Section 2(b) of the Securities Act <sup>103</sup> and Section 3(f) of the Exchange Act <sup>104</sup> require the Commission, when engaging in rulemaking that requires it to consider whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection<sup>102</sup> 15 U.S.C. 78w(a).<sup>103</sup> 15 U.S.C. 77b(b).<sup>104</sup> 15 U.S.C. 78c(f).of investors, whether the action would promote efficiency, competition, and capital formation. Below, we address these issues for each of the substantive changes we are adopting regarding offerings of ABS.
+
+As a result of the financial crisis and subsequent events, the market for securitization has declined due, in part, to perceived uncertainty about the accuracy of information about the pools backing the ABS and perceived problems in the securitization process that affected investors’ willingness to participate in these offerings. <sup>105</sup> Greater transparency of the review performed on the underlying assets would decrease the uncertainty about pool information and, thus, should help investors price these products more accurately. The requirements we are adopting are likely to positively affect pricing, efficiency, and capital allocation in ABS capital markets. The minimum review standard that we are adopting helps to strengthen these effects by decreasing the possibility of low quality review providers entering the market and possibly precipitating a decrease in the quality of due diligence.
+
+Finally, the introduction of expert liability on the third-party review providers may have consequences for the competition in this market. The possibility of expert liability may provide an incentive for due diligence providers to improve the quality of their reviews. Thus, one possible market outcome is for reviewers to compete on the quality of their services, because high quality providers may credibly separate themselves from lower quality providers by consenting to be named as experts, with potential liability resulting from that designation.
+
+On the other hand, the possibility of expert liability may not be a significant deterrent for smaller due diligence providers that do not have the financial resources to cover their potential<sup>105</sup>
+
+See , e.g. , David Adler, A Flat Dow for 10 Years? Why it Could Happen , B ARRONS (Dec. 28, 2009).liabilities. This may adversely affect competition in both the market for the provision of due diligence and the market for ABS. Diligent providers of asset reviews may be pressured to decrease their standards, their prices or both. In addition, ABS with reviews obtained from such parties may affect the pricing of competing securities.
+
+One commentator predicted that imposing expert liability on third-party reviewers could result in new and less-qualified firms entering the market, particularly since the third-party diligence business does not have any barriers to entry like those that apply to other professions which have potential expert liability. <sup>106</sup> Alternatively, the possibility of expert liability could be an incentive for due diligence providers to compete on quality and improve their capabilities.
+
+In summary, taken together the amendments and regulations we are adopting implement Congress’ mandate under the Act and are designed to improve investor protection, improve the quality of the assets underlying an ABS, and increase transparency to market participants. We believe that the amendments also would improve investors’ confidence in asset-backed securities and help recovery in the asset-backed securities market with attendant positive effects on efficiency, competition and capital formation.
+
+<h>VI. Regulatory Flexibility Act Certification</h>
+
+Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certified that, when adopted, the proposals would not have a significant economic impact on a substantial number of small entities. We included the certification in Part VIII of the Proposing Release. While we encouraged written comment regarding this certification, none of the commentators responded to<sup>106</sup> See comment letter from Clayton.<sup>107</sup> 5 U.S.C. 605(b).this request.
+
+<h>VII. Statutory Authority and Text of Rule and Form Amendments</h>
+
+<END MAIN TEXT>
+
+6 See S. Rep. No. 111-176, at 133 (2010) (“Senate Report”).
+
+7 The comments on the Proposing Release are available at 10/s72610.shtml.
+
+8 See comment letters from American Bar Association (“ABA”); National Association of Bond Lawyers (“NABL”).
+
+9 The requirement to perform a review should not be confused with, and is not intended to change, the due diligence defense against liability under Securities Act Section 11 [15 U.S.C. 77k] or the reasonable care defense against liability under Securities Act Section 12(a)(2) [15 U.S.C. 77l(a)(2)]. Our rule is designed to require a review of the underlying assets by the issuer and to provide disclosure of the nature, findings and conclusions of such review.
+
+10 15 U.S.C. 77g(d)(1).
+
+11 See comment letters from ABA; Securities Industry and Financial Markets Association (“SIFMA”).
+
+12 See comment letters from Center for Responsible Lending (“CRL”); Senator Levin, Permanent Subcommittee on Investigations, United States Senate Committee on Homeland Security and Governmental Affairs (“Levin”); Consumer Federation of America (“Consumer Federation”); Christopher Chuff.
+
+16 Under Securities Act Rule 191 (17 CFR 230.191), the depositor for the asset-backed securities acting solely in its capacity as depositor to the issuing entity is the “issuer” for purposes of the asset-backed securities of that issuing entity. “Depositor” means the depositor who receives or purchases and transfers or sells the pool assets to the issuing entity. See Item 1101 of Regulation AB (17 CFR 229.1101). For asset-backed securities transactions where there is not an intermediate transfer of the assets from the sponsor to the issuing entity, the term depositor refers to the sponsor. For asset-backed securities transactions where the person transferring or selling the pool assets is itself a trust, the depositor of the issuing entity is the depositor of that trust. See id. As defined in Item 1101 of Regulation AB, the “sponsor” means the person who organizes and initiates an ABS transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuing entity. See id.
+
+17 See Asset-Backed Securities, Release No. 33-8518 (Dec. 22, 2004) [70 FR 1506] (“2004 Regulation AB Adopting Release”) at Section III.B.3. The issuing entity is designed to be a passive entity, and in order to meet the definition of ABS issuer in Regulation AB its activities must be limited to passively owning or holding the pool of assets, issuing the ABS supported or serviced by those assets, and other activities reasonably incidental thereto.
+
+18 In the case of so-called aggregators, the sponsor acquires loans from many other unaffiliated sellers before
+
+22 See id. at 23394.
+
+23 See comment letters from Chris Barnard (“Barnard”); Consumer Federation (supporting a principles-based review standard such as the “reasonable assurance” standard discussed in the Proposing Release’s request for comment, and suggesting that where initial reviews uncover discrepancies, further reviews sufficient to uncover the extent of the problem should be conducted); CRL; Levin; American Society of Appraisers, American Society of Farm Managers and Rural Appraisals, National Association of Independent Fee Appraisers (collectively, “Appraisers”); Clayton Holdings, LLC (“Clayton”); Americans for Financial Reform (“AFR”); Fitch, Inc. (“Fitch”). See also comment letter from ABA (supporting Rule 193 as proposed, but agreeing that the “reasonable assurance” approach discussed in the Proposing Release’s request for comment is workable if the Commission were to adopt a minimum level of review).
+
+24 See comment letter from CRL.
+
+25 See comment letter from Consumer Federation.
+
+38 See comment letter from ASF.
+
+39 See comment letter from ASF (noting that the scope of a “reasonable assurance” standard is overly broad considering the substantial amount of disclosure regarding the pool assets that is contained in the prospectus including, in addition to numerical information about the assets, narrative disclosure about such matters as the pool assets generally, risk factors relevant to the pool assets, servicing of the pool assets, and legal aspects of the pool assets).
+
+40 See comment letter from CRE Finance Council.
+
+41 See Senate Report, at 133 (quoting Senate committee testimony by Professor John Coffee). We note that some commentators supported the standard described in the Proposing Release’s request for comment. See comment letters from Consumer Federation; ABA (suggesting that this approach is workable if the Commission were to adopt a minimum level of review, though supporting Rule 193 as proposed).
+
+42 Id.
+
+43 Thus, for example, if the prospectus disclosed that the loans are limited to borrowers with a specified minimum credit score, or certain income level, the review, as designed and effected, would be required to provide reasonable assurance that the loans in the pool met this criterion.
+
+44 17 CFR 240.13a-15.
+
+45 See Management’s Report on Internal Control over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, Release No. 33-8238 (June 5, 2003). See also Certification of Disclosure in Companies’ Quarterly and Annual Reports, Release No. 34- 8124 (June 14, 2002) (“Certification in Periodic Reports Release”). ABS issuers must provide in Form 10-K an assessment by each party participating in the servicing function regarding its compliance with specified servicing criteria set forth in Item 1122 of Regulation AB. See 17 CFR 229.1122. A registered public accounting firm must issue an attestation report on such party’s assessment of compliance. See id.
+
+46 Although ABS issuers are not subject to Rule 13a-15, ABS issuers that also issue corporate securities are familiar with it. We previously have recognized that, because the information ABS issuers are required to provide differs significantly from that provided by other issuers, and because of the structure of ABS issuers as typically passive pools of assets, the certification requirements should be tailored specifically for ABS issuers. See Certification in Periodic Reports Release.
+
+47 We understand that various levels and types of review may be performed in a securitization. For example, commentators on the 2010 ABS Proposing Release have identified that the type of review conducted by a sponsor of a securitization of sub-prime mortgage loans typically falls into three general categories. First, a credit review examines the sample loans to ascertain whether they have been originated in accordance with the originator’s underwriting guidelines. This would include a review of whether the loan characteristics reported by the originator are accurate and whether the credit profile of the loans is acceptable to the sponsor. A second type of review could be a compliance review which examines whether the loans have been originated in compliance with applicable laws, including predatory lending and Truth in Lending statutes. Third, a valuation review entails a review of the accuracy of the property values reported by the originators for the underlying collateral. This could include a review of each original appraisal to assess whether it appeared to comply with the originator’s appraisal guidelines, and the appropriateness of the comparables used in the original appraisal process. See comment letter from The Commonwealth of Massachusetts Office of the Attorney General (“Massachusetts AG comment letter”) on the 2010 ABS Proposing Release. The comment letters are available at 10/s70810.shtml.
+
+48 Title 1 of Pub. L. 95-213 (1977). Exchange Act Section 13(b)(7) defines “reasonable assurance” as “such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.” 15
+
+49 See Commission Guidance Regarding Management’s Report on Internal Control Over Financial Reporting Under Section 13(a) or 15(d) of the Securities Exchange Act of 1934, Release No. 34-55929 (June 20, 2007).
+
+50 We agree with one commentator’s view that the review that is required is a review of the assets for purposes of the securitization and not the review conducted to originate the assets.
+
+51 See, e.g., comment letters from ABA; Fitch; Levin; SIFMA.
+
+52 We note that the federal securities laws currently require that disclosure in the prospectus not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements not misleading. See Securities Act Section 11 [15 U.S.C. 77k] and Securities Act Section 12 [12
+
+53 Section 7 of the Securities Act requires the consent of any person whose profession gives authority to a statement made by him, is named as having prepared or certified any part of the registration statement, or is named as having prepared or certified a report or valuation for use in connection with the registration statement.
+
+65 In this release, we refer to third parties engaged for purposes of reviewing the assets also as third-party due diligence providers.
+
+66 As noted above, Section 15E(s)(4) of the Exchange Act requires the issuer or underwriter of an ABS to make publicly available the findings and conclusions of a third-party due diligence report obtained by the issuer or the underwriter and requires a third-party due diligence provider that is employed by a nationally recognized statistical rating organization (“NRSRO”), an issuer or an underwriter to provide a written certification to the NRSRO that produces a credit rating. Under Section 15E(s)(4) of the Exchange Act, the Commission is required to establish the appropriate format and content for the certifications “to ensure that providers of due diligence services have conducted a thorough review of data, documentation, and other relevant information necessary for a nationally recognized statistical rating organization to provide an accurate rating.” As noted above, we will address these requirements in a subsequent rulemaking.
+
+67 If the findings and conclusions are attributed to a third party, that portion of the disclosure would be expertised. If the findings and conclusions are instead attributed to the issuer, that portion of disclosure would not be expertised. See Securities Act Section 11 [15 U.S.C. 77k].
+
+68 We note that this approach is comparable to the staff’s position in the context of a registrant that has engaged a third-party expert to assist in determining the fair values of certain assets or liabilities disclosed in a Securities Act registration statement. See Compliance and Disclosure Interpretations, Division of Corporation Finance, at Section 233, available at (whether a registrant that has engaged a third-party expert to assist in determining fair value must disclose the name
+
+69 If an issuer obtains the assistance of a third party to perform the review, and discloses this fact pursuant to
+
+83 See comment letter from Levin.
+
+84 See comment letter from AFSA.
+
+85 Such disclosure would be required in order to provide meaningful context to disclosure of the findings and
+
+86 See, e.g., Massachusetts AG comment letter.

@@ -1,0 +1,373 @@
+https://www.sec.gov/rules/final/ic-24424.htm
+
+	I.0.0.0: I. BACKGROUND
+
+	II.0.0.0: II. DISCUSSION
+
+		II.A.0.0: A. Foreign Securities Depositories: Rule 17f-7
+
+			II.A.1.0: 1. Eligible Securities Depository
+
+			II.A.2.0: 2. Risk Analysis, Monitoring and Notification
+
+			II.A.3.0: 3. Exercise of Care
+
+		II.B.0.0: B. Foreign Bank Custodians: Rule 17f-5
+
+		II.C.0.0: C. Conforming Amendments
+
+	III.0.0.0: III. EFFECTIVE DATE
+
+	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
+
+	V.0.0.0: V. EFFECTS ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT
+
+		VI.A.0.0: A. New Rule 17f-7
+
+		VI.B.0.0: B. Amendments to Rule 17f-5
+
+	VII.0.0.0: VII. SUMMARY OF FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+		VII.A.0.0: A. Need for and Objectives of the Rule and Rule Amendments
+
+		VII.B.0.0: B. Significant Issues Raised by Public Comments
+
+		VII.C.0.0: C. Small Entities Subject to the Rules
+
+		VII.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		VII.E.0.0: E. Agency Action to Minimize Effects on Small Entities
+
+	VIII.0.0.0: VIII. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Custody of Investment Company Assets Outside the United States 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ 17 CFR Part 270 
+
+ [Release Nos. IC-24424, IS-1221; File No. S7-15-99] 
+
+ RIN 3235-AH55 
+
+ Custody of Investment Company Assets Outside the United States 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule.
+
+ SUMMARY: The Commission is adopting a new rule and rule amendments under the Investment Company Act to address the custody of investment company assets outside the United States. The rule and rule amendments establish new standards governing the maintenance of an investment company's assets with a foreign securities depository. These standards are designed to provide a framework under which an investment company can protect its assets while maintaining them with a foreign securities depository.
+
+ DATES: Effective Date : June 12, 2000. Compliance Date : July 2, 2001. Section III of this release contains more information on transition prior to the compliance date.
+
+ FOR FURTHER INFORMATION CONTACT: Jaea F. Hahn, Attorney, Office of Regulatory Policy, at (202) 942-0690, or Thomas M.J. Kerwin, Senior Counsel, at (202) 942-0660, in the Division of Investment Management, Securities and Exchange Commission, 450 5th Street N.W., Washington D.C. 20549-0506.
+
+ SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") today is adopting new rule 17f-7 [to be codified at 17 CFR 270.17f-7], amendments to rule 17f-5 [17 CFR 270.17f-5] and conforming amendments to rule 7d-1 [17 CFR 270.7d-1] and rule 17f-4 [17 CFR 270.17f-4] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Investment Company Act").<SUP> 1 </SUP>
+
+<END HEADER>
+
+<h>EXECUTIVE SUMMARY </h>
+
+The Commission is adopting new rule 17f-7 under the Investment Company Act and amendments to rule 17f-5, the rule that governs the custody of the assets of registered management investment companies ("funds") with custodians outside the United States. The new rule and rule amendments will permit funds to maintain their assets in foreign securities depositories based on conditions that reflect the operations and role of these depositories. Depositories are systems for the central handling of securities in which transactions in securities are processed through adjustment of electronic account records rather than delivery of certificates.
+
+The rule and amendments we are adopting today establish basic standards for foreign depositories that funds may use, and generally require that a fund's contract with its global custodian obligate the custodian to analyze and monitor the custody risks of using a depository, and provide information about the risks to the fund or its adviser, as well as any information regarding material changes in the risks. Unlike amended rule 17f-5, rule 17f-7 does not contain any provisions regarding the delegation of authority under the rule. Decisions to maintain assets with a depository would be made by the fund or its adviser, based upon information provided by the global custodian. I. BACKGROUND 
+
+Rule 17f-5 was adopted in 1984,<SUP> 2 </SUP> and extensively revised in 1997 ("1997 Amendments") to reflect significant developments in foreign investment by U.S. funds and the Commission's greater experience with foreign custody arrangements.<SUP> 3 </SUP> The 1997 Amendments expanded the types of foreign banks and securities depositories that may serve as custodians of fund assets, and required that the selection of a foreign custodian be based on whether the fund's assets will be subject to reasonable care if maintained with that custodian.<SUP> 4 </SUP> In 1998, as a result of difficulties experienced by funds, their advisers and bank custodians in applying the standards of rule 17f-5 to the use of foreign depositories, representatives of funds asked the Commission to delay the compliance date for the 1997 Amendments.<SUP> 5 </SUP> The Commission suspended the compliance date for most of the 1997 Amendments in May 1998.<SUP> 6 </SUP> Representatives of funds and bank custodians then submitted a proposal to further amend rule 17f-5 to change the standards by which foreign depositories are evaluated.<SUP> 7 </SUP>
+
+Last year, we proposed amendments to rule 17f-5 and a new rule 17f-7.<SUP> 8 </SUP> We received letters from seven commenters on the proposals.<SUP> 9 </SUP> Commenters generally favored the proposals, but also recommended changes.<SUP> 10 </SUP> We are adopting new rule 17f-7 with modifications that respond to certain of the issues raised by commenters; we are adopting the amendments to rule 17f-5 substantially as proposed.<SUP> 11 </SUP><h>II. DISCUSSIONA. Foreign Securities Depositories: Rule 17f-7 </h><h>A. Foreign Securities Depositories: Rule 17f-7 </h>
+
+New rule 17f-7 permits a fund to maintain assets with a foreign securities depository if certain conditions are met. First, the depository must be an "eligible securities depository" as described below. Second, the fund's "primary custodian" must provide the fund or its adviser with an analysis of the custodial risks of using the depository, monitor the depository on a continuing basis and notify the fund of any material changes in risks associated with using the depository. The rule defines a primary custodian (often referred to as a "global custodian") as a U.S. bank or qualified foreign bank (as defined by rule 17f-5) that contracts directly with the fund to provide custodial services for foreign assets.<SUP> 12 </SUP><h>1. Eligible Securities Depository </h>
+
+ 
+
+Under the rule, funds and their custodians may maintain their assets with a foreign securities depository only if it is an "Eligible Securities Depository." An eligible securities depository must act as or operate a system for the central handling of securities that is regulated by a foreign financial regulatory authority.<SUP> 13 </SUP> In addition, an eligible securities depository must:<SUP> 14 </SUP> 
+
+ Hold assets on behalf of the fund under safekeeping conditions no less favorable than those that apply to other participants;<SUP> 15 </SUP>
+
+ 
+
+ Maintain records that identify the assets of participants, and keep its own assets separated from the assets of participants;
+
+ 
+
+ Provide periodic reports to participants; and 
+
+ Undergo periodic examination by regulatory authorities or independent accountants.<SUP> 16 </SUP>
+
+ 
+
+The proposed rule included within the definition of eligible securities depository certain foreign transfer agents that perform custodial functions analogous to those of a depository.<SUP> 17 </SUP> Commenters urged that the rule not address these types of arrangements, which are found in countries such as Russia and Ukraine.<SUP> 18 </SUP> Commenters pointed out that while some transfer agents may be analogous to securities depositories, others clearly are not, and some transfer agents perform some but not all the functions of a depository. We have decided to accept the recommendations of these commenters, and will continue to address the use of these transfer agents on a case-by-case basis.<SUP> 19 </SUP><h>2. Risk Analysis, Monitoring and Notification </h>
+
+ 
+
+The definitional requirements for an eligible securities depository described above are minimum requirements that all foreign securities depositories must meet before a fund may rely on the rule to place fund assets with them. We also are adopting, as a condition for use of the rule, a requirement that the custody risks of using the eligible securities depository be analyzed and monitored by the primary custodian or its agent. 
+
+Rule 17f-7 requires that a fund's primary custodian<SUP> 20 </SUP> furnish the fund or its investment adviser an analysis of the custody risks of using an eligible securities depository before the fund places its assets with the depository.<SUP> 21 </SUP> The fund's contract with its primary custodian also must require the custodian to monitor these risks on a continuing basis,<SUP> 22 </SUP> and promptly notify the fund or its adviser of any material change.<SUP> 23 </SUP>
+
+We have written the risk analysis requirements of the rule broadly to provide custodians with flexibility to tailor the risk analysis to the specific risks involved in the use of each particular depository.<SUP> 24 </SUP> The rule does not prescribe specific factors or types of risk to be considered in a risk analysis. As a general matter we expect that an analysis will cover a depository's expertise and market reputation, the quality of its services, its financial strength,<SUP> 25 </SUP> any insurance or indemnification arrangements, the extent and quality of regulation and independent examination of the depository,<SUP> 26 </SUP> its standing in published ratings, its internal controls and other procedures for safeguarding investments, and any related legal protections. 
+
+ 
+
+Rule 17f-7 does not assign a role to the investment adviser or fund board, but is designed to assure that sufficient material information about depositories is provided to the fund or adviser in a timely manner. The decision whether to place fund assets with a depository should be made by the adviser (subject to oversight of the fund's board) or the fund, after consideration of the information provided by the primary custodian or its agent,<SUP> 27 </SUP> and based on standards of care that are generally applicable to fund advisers and directors.<SUP> 28 </SUP> The decision to place fund assets with a depository does not have to be made separately, but may be made in the overall context of the decision to invest in a particular country.
+
+As proposed, rule 17f-7 would have permitted a fund to rely on indemnification or insurance that adequately protects the fund from all custody risks of using the depository, as an alternative to the risk analysis and monitoring requirement.<SUP> 29 </SUP> Several commenters urged that we not adopt this alternative, and pointed out that, if we did, they would need guidance on the scope and amount of indemnification adequate to meet the requirements of the rule.<SUP> 30 </SUP> In light of the issues raised by commenters and the likelihood that this alternative would not be used by funds, we have decided not to adopt it. Instead, as noted above, we suggest that insurance and indemnification arrangements are factors that a risk analysis would cover.<SUP> 31 </SUP><h>3. Exercise of Care </h>
+
+ 
+
+Rule 17f-7 requires the fund's contract with its primary custodian to provide that the primary custodian will agree to exercise reasonable care, prudence and diligence in performing its duties under the rule, or adhere to a higher standard of care.<SUP> 32 </SUP> This standard of care is the same required of foreign custody managers under rule 17f-5,<SUP> 33 </SUP> and is similar to standards for U.S. custodians under commercial law.<SUP> 34 </SUP><h>B. Foreign Bank Custodians: Rule 17f-5 </h>
+
+Amended rule 17f-5 will continue to govern a fund's use of a foreign bank custodian. As amended, the rule excludes arrangements with foreign securities depositories from its scope because they are addressed by rule 17f-7. The amended rule also reflects other clarifying changes from the previous version of the rule.<SUP> 35 </SUP> A note to amended rule 17f-5 (and a similar note to rule 17f-7) explains that when a depository arrangement involves one or more foreign bank custodians through which assets are maintained with the depository, rule 17f-5 applies to the fund's or its custodian's use of each foreign bank subcustodian, while rule 17f-7 applies to the subcustodian's use of the depository itself.<SUP> 36 </SUP><h>C. Conforming Amendments </h>
+
+Conforming amendments to rules 17f-4 and 7d-1 clarify references to rule 17f-5 by adding a reference to rule 17f-7. One commenter recommended that the word "foreign" be deleted from the reference to a "foreign eligible securities depository" in the proposed amendment to rule 17f-4 because it is too restrictive. As adopted, the amendment to rule 17f-4 does not include the word "foreign," and refers instead to an "eligible securities depository" as defined in new rule 17f-7.<SUP> 37 </SUP><h>III. EFFECTIVE DATE </h>
+
+New rule 17f-7 and the amendments to rule 17f-5 will be effective June 12, 2000. Compliance with the new rule and rule amendments will not be required until July 2, 2001.<SUP> 38 </SUP> In the interim, a fund may operate its foreign custody arrangements in accordance with the new rule and amendments or with the 1997 Amendments to rule 17f-5,<SUP> 39 </SUP> or it may comply with "old" rule 17f-5 as it existed prior to the 1997 Amendments (but subject to the definition of an eligible foreign custodian under the 1997 Amendments).<SUP> 40 </SUP><h>IV. COST-BENEFIT ANALYSIS </h>
+
+The Commission is sensitive to the costs and benefits of its rules. In the Proposing Release, we requested comments and specific data regarding the costs and benefits of the proposed rule and rule amendments, but commenters did not address any specific costs or quantify any benefits. 
+
+New rule 17f-7 and the amendments to rule 17f-5 respond to concerns expressed by global custodians and fund managers that rule 17f-5, as amended in 1997, is not workable. The new rule and rule amendments also address our concerns that, as a result of global custodians' unwillingness to assume delegated responsibilities under rule 17f-5, obligations to evaluate depositories' custodial capabilities may fall to fund boards, which lack the relevant knowledge and expertise to make these evaluations. 
+
+We believe that new rule 17f-7 will benefit investors by establishing a workable framework under which assets may be maintained in foreign depositories consistent with the investor protection goals of the Investment Company Act. In adopting this rule, we recognize that investment in many foreign countries presents custodial risks that cannot be avoided, including the use of local securities depositories. The rule seeks to reduce the risks by requiring that fund advisers (or funds) be fully apprised of these risks when they make the decision to invest in the country on an ongoing basis. The rule will also benefit funds and their shareholders by freeing fund boards of the responsibility to make findings concerning foreign depositories that often remained with them after the 1997 Amendments because of global custodians' refusals to accept delegated responsibility. As a result, fund boards should have more time to address other issues that are important to investors. 
+
+New rule 17f-7 and the amendments to rule 17f-5 may impose costs. Although the new rule sets minimum requirements for depositories, it does not dictate a standard for custody risks. A depository may fail, causing losses to investors, despite the diligence of global custodians, funds and advisers. 
+
+Global custodians should not incur materially greater costs under new rule 17f-7, which generally requires them to perform duties they may perform already under custodial contracts.<SUP> 41 </SUP> Rule 17f-7 may have the effect of requiring global custodians to exercise a greater degree of vigilance in monitoring depositories (or to refrain in the future from reducing their diligence) because it requires them to monitor a depository "on a continuing basis," and in this respect may impose some costs. It is unlikely, however, that these costs will be material, since many custodians already monitor their foreign subcustodians, the countries in which these subcustodians are located, and foreign securities depositories. Existing custodial agreements with funds may need to be amended because of rule 17f-7 and the amendments to rule 17f-5. We expect that global custodians may pass on additional costs to mutual funds, but that the costs are unlikely to materially affect overall fund expense ratios, in part because custodial fees are not calculated on an hourly basis.
+
+The Commission staff estimates that approximately 3,690 fund portfolios will be affected by rule 17f-7 and the amendments to rule 17f-5.<SUP> 42 </SUP> The staff estimates that during the first year after rule 17f-7 goes into effect, approximately 15 global custodians (or their agents)<SUP> 43 </SUP> will make an average of 80 responses per custodian, and that each response will require approximately 10 hours, for a total annual burden for global custodians of 12,000 hours.<SUP> 44 </SUP> The staff estimates that during the first year after the amendments to rule 17f-5 go into effect, approximately 15 global custodians will be required to make an average of 80 responses per custodian concerning the use of foreign custodians other than depositories, requiring 10 hours per response.<SUP> 45 </SUP> In addition, during that first year, the staff estimates that each custodian will require approximately 96 hours for an additional "response" under rule 17f-5, which involves renegotiating the custodial contract with the fund and establishing a system to monitor custody arrangements for the fund. The total annual burden associated with the amendments to rule 17f-5 for global custodians during the first year will be approximately 13,440 hours (15 global custodians x 896 hours per global custodian).
+
+ 
+
+Under rule 17f-7, funds or their advisers will bear the cost of evaluating the information provided by global custodians and making decisions regarding the continued use of a depository (and in this respect, continued investment in the country where the depository is located). We believe that in the context of foreign depository arrangements, this allocation of costs is appropriate in light of (i) the unwillingness of global custodians to assume responsibilities that may overlap with investment decisions and (ii)the extent to which the decision to use a foreign depository may affect an investment strategy that contemplates investment in a particular foreign market. An adviser's costs (and the related fund's costs) should not materially increase because of the rule, since decisions concerning use of a depository likely are part of the overall decision to invest in a country, and are decisions that funds and their advisers made prior to adoption of rule 17f-7. Savings under rule 17f-5 may offset increased costs to funds and their advisers with respect to new rule 17f-7, since fund directors will no longer have to make time-consuming "reasonable care" determinations regarding foreign depositories. 
+
+The staff estimates that during at least the first year after rule 17f-7 goes into effect, approximately 650 investment advisers<SUP> 46 </SUP> may make an average of 3 responses per adviser under the new rule, requiring a total of approximately 25 hours for each adviser.<SUP> 47 </SUP> The total annual burden for funds and their advisers under rule 17f-7 will be approximately 16,250 hours. The staff further estimates that during the first year after the amendments to rule 17f-5 go into effect, the total annual burden associated with the rule's requirements will be approximately 7,380 hours (3,690 portfolios x 2 hours per portfolio).<SUP> 48 </SUP> The removal of custody arrangements involving securities depositories from amended rule 17f-5 may eliminate as many as 28,600 burden hours from the current total burden hours for funds and their advisers.<SUP> 49 </SUP> 
+
+It is unclear whether the new rule and rule amendments will increase or decrease investments in funds holding foreign securities. Custody risks are only one factor investors may consider before deciding to invest in a particular fund. Fund managers may have more information regarding custodial risks because of the new rule and amendments, and this may affect their decisions regarding where to invest a fund's assets, or in some cases, when to remove a fund's assets from a country. The new rule and rule amendments may affect competition among custodians, but are unlikely to significantly change the tasks that custodians currently perform. The rules allow third parties to prepare risk analyses and monitor depositories for changes in risks for custodians. It is unclear whether custodians will pass the costs of utilizing these third party service providers to funds or investors. Many custodians already may be using the services of these providers.<h>V. EFFECTS ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION </h>
+
+Section 2(c) of the Investment Company Act requires the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is consistent with the public interest, to consider whether the action will promote efficiency, competition and capital formation.<SUP> 50 </SUP> The Commission has considered these factors. 
+
+As discussed above, the Commission anticipates that new rule 17f-7 and the amendments to rule 17f-5 will provide a workable framework under which a fund can protect its assets while maintaining them with a foreign securities depository. These rule changes may marginally promote efficiency in custody arrangements involving foreign assets by better delineating the responsibilities of fund boards, fund advisers and custodians with respect to custody of investment company assets outside the United States, whether an eligible foreign custodian or an eligible securities depository holds them. It is unlikely that the rule changes will have any material effect on competition among custodians, because the rules do not substantially change the duties of custodians, or increase the potential universe of custodians or depositories. The rule changes should also have little effect on domestic capital formation because the rules relate only to foreign custody of fund assets. There are relatively few funds affected by the new rule and amendments, compared to the total number of funds. Similarly, the total dollar amount invested in funds affected by the rule and amendments is also relatively small, compared to the total amount invested in all funds.<h>VI. PAPERWORK REDUCTION ACT </h>
+
+Certain provisions of new rule 17f-7 and the amendments to rule 17f-5 contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995.<SUP> 51 </SUP> The Commission submitted the collection of information requirements contained in the rule and rule amendments to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11.<SUP> 52 </SUP> An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the agency displays a valid OMB control number.<SUP> 53 </SUP><h>A. New Rule 17f-7 </h>
+
+New rule 17f-7 contains some collection of information requirements. Under the rule, an eligible securities depository must meet certain minimum standards. The fund or its investment adviser will generally determine whether the depository complies with those requirements based on information provided by the fund's primary custodian. The depository custody arrangement also must meet certain conditions. The fund or its adviser must receive from the primary custodian (or its agent) an initial risk analysis of the depository arrangements, and the fund's contract with its primary custodian must state that the custodian will monitor risks and promptly notify the fund or its adviser of material changes in risks. The primary custodian and other custodians also must agree to exercise reasonable care. 
+
+The staff estimates that during the first year after rule 17f-7 goes into effect, approximately 650 investment advisers will review an average of 3 risk analyses per adviser under the rule, requiring a total of approximately 25 hours for each adviser. Each of these "responses" by an adviser may address depository compliance with the minimum requirements of the rule, and require the adviser to review risk analyses or notifications of material changes in risks related to a depository.<SUP> 54 </SUP> The total annual burden associated with these requirements of the rule during the first year is estimated to be approximately 16,250 hours (650 advisers x 25 hours per adviser). The staff further estimates that during the first year after the proposed rule goes into effect, approximately 15 global custodians will make an average of 80 responses per custodian under the rule that will require approximately 10 hours per response.<SUP> 55 </SUP> A "response" by a global custodian may involve the preparation of the risk analysis, the monitoring of depository risks or the preparation of subsequent notifications of material changes in depository risks. The total annual burden associated with these requirements of the new rule is estimated to be approximately 12,000 hours (15 custodians x 800 hours). Therefore, the total annual burden associated with all collection of information requirements of new rule 17f-7 during the first year after its adoption is estimated to be 28,250 hours (16,250 + 12,000).<h>B. Amendments to Rule 17f-5 </h>
+
+The amendments to rule 17f-5 do not substantively change the rule's collection of information requirements, which will continue to apply when a fund ( i.e. , a registered management investment company) maintains its assets with a foreign bank custodian. The amendments remove custody arrangements with foreign securities depositories from the rule, however, so that the rule's requirements no longer apply to these custody arrangements. In general, therefore, the amendments reduce the information collection burdens of rule 17f-5. 
+
+The requirements of amended rule 17f-5 that may call for the collection of information are substantially the same as under the current rule. The fund's board of directors must find that it is reasonable to rely on each delegate it selects to act as the fund's foreign custody manager. The delegate must agree to provide written reports that notify the board when the fund's assets are placed with a foreign custodian and when any material change occurs in the fund's custody arrangements. The delegate must agree to exercise reasonable care, prudence, and diligence, or to adhere to a higher standard of care. When the foreign custody manager selects an eligible foreign custodian, it must determine that the fund's assets will be subject to reasonable care if maintained with that custodian, and that the written contract that governs each custody arrangement will provide reasonable care for fund assets. The contract must contain certain specified provisions or others that provide at least equivalent care. The foreign custody manager must establish a system to monitor the contract and the appropriateness of continuing to maintain assets with the eligible foreign custodian. 
+
+The Commission's staff estimates that during the first year after the amendments go into effect, approximately 3,690 fund portfolios<SUP> 56 </SUP> will be required to make an average of one response per portfolio under amended rule 17f-5, requiring approximately 2 hours of director time per response, to make the necessary findings concerning foreign custody managers.<SUP> 57 </SUP> A "response" by a fund portfolio may involve the directors making certain findings concerning foreign custody managers, and the review and ratification of custodial contracts. The total annual burden associated with these requirements of the amended rule during the first year is estimated to be approximately 7,380 hours (3,690 portfolios x 2 hours per portfolio). The staff further estimates that during the first year after the amended rule goes into effect, approximately 15 global custodians<SUP> 58 </SUP> will be required to make an average of 80 responses per custodian concerning the use of foreign custodians other than depositories, requiring approximately 10 hours per response, plus one additional response per custodian that requires approximately 96 hours per response.<SUP> 59 </SUP> A "response" by a custodian under the amended rule may involve negotiating new custodial contracts with funds, establishing bank custody arrangements for fund complexes, preparing reports for funds and establishing a system to monitor custody arrangements. The total annual burden associated with these requirements of the rule during the first year is estimated to be approximately 13,440 hours (15 global custodians x 896 hours per global custodian). Therefore, the total burden of all collection of information requirements of rule 17f-5 during the first year after its amendment is estimated to be approximately 20,820 hours (7,380 + 13,440).<SUP> 60 </SUP> 
+
+The staff estimates that the amendments' removal of custody arrangements involving securities depositories from rule 17f-5 will eliminate as much as 28,600 additional burden hours currently imposed by the rule's collection of information requirements. This estimate assumes that without the amendments, approximately 650 investment advisers<SUP> 61 </SUP> would have to make an average of 3 responses per adviser annually ( i.e ., making reasonable care determinations), requiring a total of approximately 44 hours for each adviser, to address depository arrangements.<SUP> 62 </SUP>
+
+As reflected in the following summary of the burden hours associated with the collection of information requirements in old rule 17f-5, rule 17f-5 as amended, and new rule 17f-7, the staff estimates that the net effect of the new rule and rule amendments will be to reduce the total annual paperwork burden by 350 hours:
+
+ 
+
+ Rule 
+
+ 
+
+ Paperwork Burden Hours 
+
+ 
+
+Old rule 17f-5
+
+ 
+
+49,420 hours
+
+ 
+
+Rule 17f-5 as amended
+
+ 
+
+20,820 hours
+
+ 
+
+New rule 17f-7
+
+ 
+
+28,250 hours
+
+ 
+
+Net reduction
+
+ 
+
+ 350 hours
+
+ 
+
+The information collection requirements imposed by the new rule and rule amendments are required for those funds that decide to rely on the rules to obtain the benefit of maintaining assets in foreign custody arrangements. Funds that do not maintain assets in foreign custody arrangements are not required to rely on the rules. Responses to the collections of information will not be kept confidential.<h>VII. SUMMARY OF FINAL REGULATORY FLEXIBILITY ANALYSIS </h>
+
+The Commission has prepared a Final Regulatory Flexibility Analysis ("FRFA") in accordance with 5 U.S.C. 604 relating to new rule 17f-7, the amendments to rule 17f-5, and the conforming amendments to rules 7d-1 and 17f-4. A summary of the Initial Regulatory Flexibility Analysis ("IRFA"), which was prepared in accordance with 5 U.S.C. 603, was published in the Proposing Release. The following is a summary of the FRFA.<h>A. Need for and Objectives of the Rule and Rule Amendments </h>
+
+Rule 17f-5 governs the custody of the assets of registered management investment companies ("funds") with custodians outside the United States. The Commission amended the rule in 1997 to modernize its conditions. In 1998, representatives of funds and bank custodians informed the Commission that some conditions of the rule presented problems regarding the use of foreign securities depositories. 
+
+The Commission is adopting new rule 17f-7 and amendments to rule 17f-5, pursuant to the authority set forth in sections 6(c), 7(d), 17(f), and 38(a) of the Investment Company Act [15 U.S.C. 80a-6(c), -7(d), -17(f), and -37(a)], to permit funds to maintain their assets in foreign securities depositories based on conditions that reflect the operations and role of these depositories. New rule 17f-7 establishes new provisions for the use of depositories. The rule requires every foreign securities depository that holds fund assets to meet specified minimum standards. The rule also requires a custody arrangement with a depository to meet certain risk-limiting conditions. The fund or its adviser must receive an initial risk analysis of the depository arrangement from the primary custodian (or its agent), and the fund's contract with its primary custodian must state that the custodian will monitor those risks and notify the fund or its adviser of material changes in the risks. The primary custodian and other custodians involved in the depository arrangement also must agree to exercise reasonable care. 
+
+The amendments to rule 17f-5 remove custody arrangements with foreign securities depositories from the rule. This eliminates the applicability to depository arrangements of requirements that certain findings be made by the fund board, its investment adviser or global custodian, andthat certain specified terms or equivalent protections appear in the rules of the depository. The conforming amendments to rules 7d-1 and 17f-4 clarify references to rule 17f-5 by adding a reference to rule 17f-7 as well.<h>B. Significant Issues Raised by Public Comments </h>
+
+The Commission received no public comments on the IRFA.<h>C. Small Entities Subject to the Rules </h>
+
+The new rule and rule amendments affect, among other persons, the approximately 15 global custodians that act as foreign custody managers for funds under rule 17f-5 and as primary custodians under rule 17f-7. None of these global custodians likely qualifies as a small entity, because each custodian is a major bank with a global branch network or global ties to other banks.<SUP> 63 </SUP> The new rule and rule amendments also affect the funds that invest in foreign markets and their investment advisers. Few if any of the affected funds and advisers are small entities.<SUP> 64 </SUP> 
+
+On balance, the impact of the new rule and rule amendments on global custodians, funds, and advisers is not expected to be great, because the burdens of the new rule's requirements will be offset in part by the elimination of burdens by amended rule 17f-5. For this reason, and because few if any of the affected entities would qualify as small entities, the new rule and rule amendments are unlikely to have a significant impact on a substantial number of small entities.<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+New rule 17f-7 establishes new requirements for arrangements with depositories. As described above, the new rule requires each foreign securities depository that holds fund assets to meet specified minimum requirements. Depository arrangements also must meet other risk-limiting conditions. The fund or its adviser must receive an initial risk analysis of the depository arrangement from the primary custodian (or its agent), and the fund's contract with its primary custodian must state that the custodian will monitor the risks and promptly notify the fund of any material changes in risks. The primary custodian and other custodians also must agree to exercise reasonable care. 
+
+The amendments to rule 17f-5 retain existing reporting, recordkeeping, and other compliance requirements of the rule without substantive changes, insofar as they apply to custody arrangements with a foreign bank custodian. The amendments would remove a custody arrangement with a foreign depository from the rule, eliminating the necessity for compliance with the rule's requirements in these arrangements.<h>E. Agency Action to Minimize Effects on Small Entities </h>
+
+The Regulatory Flexibility Act directs the Commission to consider significant alternatives that would accomplish the stated objective, while minimizing any significant economic impact on small entities. In considering adoption of the new rule and amendments, the Commission considered: (i) establishing different compliance or reporting standards that take into account the resources available to small entities; (ii) clarifying, consolidating or simplifying the compliance requirements for small entities; (iii) using performance rather than design standards; and (iv) exempting small entities from coverage of all or part of the rule. 
+
+We believe that further clarification, consolidation, or simplification of the compliance requirements is not necessary. In addition, performance standards are impracticable with respect to the amendments and new rule. The Commission believes that different requirements for small entities would also be inconsistent with the protection of investors, particularly in light of the fact that rule 17f-7 establishes only minimum requirements for foreign securities depositories.
+
+As discussed above, none of the global custodians affected by new rule 17f-7 or the amendments to rule 17f-5 and few, if any, of the affected funds and advisers are likely to be considered small entities for purposes of the Regulatory Flexibility Act. As further discussed above, the impact of the amendments is likely to be limited, because burdens under the new rule will be offset in part by reduced burdens by amended rule 17f-5. Therefore, the potential impact of the new rule and rule amendments on small entities will not be significant. 
+
+ 
+
+The FRFA is available for public inspection in File No. S7-15-99, and a copy may be obtained by contacting Jaea F. Hahn, Attorney, at (202) 942-0690, Office of Regulatory Policy, Division of Investment Management, Securities and Exchange Commission, 450 5th Street, N.W., Washington, D.C. 20549-0506.<h>VIII. STATUTORY AUTHORITY </h>
+
+<END MAIN TEXT>
+
+1 Unless otherwise noted, all references to rules 17f-5, 17f-4, and 7d-1 (or any paragraph of those rules) will be to 17 CFR 270.17f-5, 270.17f-4, and 270.7d-1, as amended by this release.
+
+2 See Exemption for Custody of Investment Company Assets Outside the United States, Investment Company Act Release No. 14132 (Sept. 7, 1984) [49 FR 36080 (Sept. 14, 1984)]. Section 17(f) of the Investment Company Act, which governs fund custody arrangements, does not address the use of a foreign custodian. The Commission adopted rule 17f-5 under its exemptive authority in section 6(c) of the Act [15 U.S.C. 80a-6(c)] and under its authority in section 38(a) of the Act [15 U.S.C. 80a-38(a)].
+
+3 See Custody of Investment Company Assets Outside the United States, Investment Company Act Release No. 22658 (May 12, 1997) [62 FR 26923 (May 16, 1997)] (the "1997 Release").
+
+4 See Custody of Investment Company Assets Outside the United States, Investment Company Act Release No. 23815 (Apr. 29, 1999) [64 FR 24489 (May 6, 1999)] (the "Proposing Release"), at nn.4-10 and accompanying text.
+
+5 The history of rule 17f-5 is discussed in greater detail in the introductory section of the Proposing Release. See Proposing Release, supra note 4, at nn.2-17 and accompanying text.
+
+6 See Custody of Investment Company Assets Outside the United States, Investment Company Act Release No. 23201 (May 21, 1998) [63 FR 29345 (May 29, 1998)]. A further extension remains in effect today. See Custody of Investment Company Assets Outside the United States; Extension of Compliance Date, Investment Company Act Release No. 23814 (Apr. 29, 1999) [64 FR 24488 (May 6, 1999)](extending compliance date until the Commission acts on 1999 proposals or May 1, 2000). The compliance date for the amended definition of "eligible foreign custodian" remained June 16, 1998. Compliance with the 1997 Amendments will become moot when amended rule 17f-5 and new rule 17f-7 take effect. See infra notes 38 to 40 and accompanying text (discussing effective date and compliance date for amended rule and new rule; prior to the compliance date, a fund may comply with the 1997 Amendments or follow other compliance options).
+
+7 See Proposing Release, supra note 4, at nn.13 & 15 and accompanying text. The submitted proposal (the "ICI/Bank Proposal") would have deemed fund assets maintained with a depository to be subject to reasonable care if eight objective criteria were met. See id. at n.16. Under a revised joint proposal submitted in 1999, the foreign custody manager would have (i)considered other information known to it that established certain compliance problems, and (ii)monitored depository arrangements for material changes. See id .
+
+8 See Proposing Release, supra note 4.
+
+9 The commenters included an individual attorney, an investment adviser, a bank custodian, a depository operator, two trade associations and a bar association. The comment letters and a summary of the comments prepared by the Commission staff are available in the Commission's Public Reference Room, 450 5th Street, N.W., Washington, D.C. (File No. S7-15-99).
+
+10 Commenters representing the bank custodians and the Investment Company Institute expressed a preference for the ICI/Bank Proposal. As we noted in the Proposing Release, we did not believe the ICI/Bank Proposal would adequately resolve the issues raised because the reliance on limited objective criteria may not adequately identify the potential risks of depository arrangements in a changing global marketplace. In addition, we were concerned that the ICI/Bank Proposal might unduly narrow the evaluation of potential risks and reduce incentives to provide relevant information to funds. See Proposing Release, supra note 4, at n.19 and accompanying text.
+
+11 We are also adopting conforming amendments to rules7d-1 and 17f-4 substantially as proposed.
+
+12 See rule 17f-7(b)(2). One commenter noted that some funds may not contract directly with the custodian that is primarily responsible for global custody arrangements. Instead, a fund may contract with a domestic custodian that subcontracts with a global custodian to handle the fund's foreign custody arrangements. The risk analysis and monitoring requirements of rule 17f-7 reflect these alternative arrangements by providing that the Primary Custodian "or its agent" ( i.e ., the global custodian) may furnish the information required by the rule. See rule 17f-7(a)(1)(i).
+
+13 See rule 17f-7(b)(1)(i) and (ii). As proposed, the definition of eligible securities depository would have applied only to the depository system itself. At one commenter's suggestion, we have expanded the definition of eligible securities depository to include the operator of a depository system.
+
+14 See rule 17f-7(b)(1)(iii) to (vi). The following requirements reflect five of the eight requirements suggested in the ICI/Bank Proposal. See supra note 7.
+
+15 As proposed, rule 17f-7 would have required an eligible securities depository to treat a fund no less favorably than other participants with respect to all conditions generally, rather than "safekeeping" conditions. Two commenters suggested that the rule should permit different business conditions, such as different credit terms or volume-adjusted fees, because they do not imply different levels of safekeeping protection. We agree with this point and have modified the rule accordingly. See rule 17f-7(b)(1)(iii).
+
+16 As proposed, rule 17f-7 would have required an eligible securities depository to be subject to periodic "review," rather than "examination," by regulators or auditors. The change in the final rule is intended to distinguish this requirement from the requirement that a foreign financial regulatory authority regulate the depository. See rule 17f-7(b)(1)(vi).
+
+17 See Proposing Release, supra note 4, at nn.32-34 and accompanying text. Interpretations by Commission staff have treated U.S.-based transfer agents as depositories when they maintain records of the ownership of uncertificated securities not held in a conventional depository. See, e.g. , American Pension Investors Trust, SEC No-Action Letter (Feb. 1, 1991) (custodian for fund of funds could maintain fund's investments in uncertificated shares of underlying funds with the domestic transfer agents of those funds acting as deemed depositories); FundVest, SEC No-Action Letter (Nov. 21, 1984) (similar position).
+
+18 In the case of Russia, for example, hundreds of registrars typically are used to record securities transfers. See Proposing Release, supra note 4, at n.33 and accompanying text.
+
+19 In urging the Commission to continue to address the use of transfer agents on a case-by-case basis, commenters suggested that it would be burdensome to obtain a risk analysis of the many transfer agents (such as the registrars in Russia) that funds might use, and that transfer agents may not meet all of the requirements of an eligible securities depository. We note, however, that the staff provided no-action assurance in the past to allow funds to hold assets with foreign transfer agents that perform some custodial functions, based upon representations that the transfer agents would be subject to similar oversight. Those no-action letters were issued in reliance on representations that, among other things, the transfer agents' activities would be monitored, independent auditors would verify the share registry, and the fund's board of directors would receive quarterly reports. See, e.g., Templeton Russia Fund, Inc., SEC No-Action Letter (Apr. 18, 1995) and Russia Growth Fund, Inc., SEC No-Action Letter (May 20, 1997). Because rule 17f-7 does not address the use of foreign transfer agents, funds should continue to follow the applicable no-action letters or exemptive relief on which they rely to hold assets with those transfer agents.
+
+20 See rule 17f-7(a)(1)(i)(A). A local subcustodian or other agent may prepare the initial risk analysis on behalf of the primary custodian.
+
+21 See id . We recognize that in certain emergency circumstances a fund may need to move its assets to a depository in order to protect its assets before a risk analysis of the new depository can be prepared. In those circumstances, we would expect the initial risk analysis of the new depository to be provided as soon as possible after the fund places its assets with that depository. See infra "Part III. Effective Date," for a discussion of the treatment of fund assets in the custody of a foreign securities depository before the fund's depository arrangements are subject to the requirements of rule 17f-7.
+
+22 See rule 17f-7(a)(1)(i)(B). The proposed rule would have required the primary custodian to "continuously" monitor the custody risks of using a foreign depository. One commenter argued that the term "continuously" could imply that the primary custodian must learn of material changes affecting a depository more quickly than it learns of developments affecting other subcustodians such as a foreign bank. As adopted, rule 17f-7 mirrors a requirement imposed in the United Kingdom that custodians be subject to a "continuing risk assessment." See United Kingdom Securities and Futures Authority, Board Notice 433, New Safekeeping Rules, Custody Rule 4-107(1), Assessment of Custodian (July 21, 1997) (after a firm makes an appropriate risk assessment of an eligible custodian, it must undertake a "continuing risk assessment"). The requirement that monitoring of custody risk occur on a "continuing basis" better reflects the Commission's view, expressed in the Proposing Release, that there should be an ongoing assessment of the custody risks associated with a depository, and that the level of this monitoring should be based on the specific facts and circumstances related to the foreign depository and the country in which the depository operates. See Proposing Release, supra note 4, at nn.38-43 and accompanying text. As with the preparation of the initial risk analysis, a local subcustodian or other agent may monitor custody risks on behalf of the primary custodian.
+
+23 A commenter suggested that a primary custodian should be permitted to suspend its monitoring and notification activities if political developments or other circumstances interfere with these obligations. The Commission anticipates that exceptional developments will be addressed in a report to the fund and that the primary custodian, in performing its duties under the contract, will make a reasonable effort to continue to monitor further developments or to resume monitoring as soon as practicable in these circumstances.
+
+24 One commenter pointed out that certain transnational depositories may perform depository and global custodial functions. Under the rule, the risk analysis of a transnational depository that also performs custodial functions should take into consideration any information reasonably available to the primary custodian from the depository regarding its custodial network ( e.g ., the local bank subcustodian's internal controls, financial strength, and information regarding enforceability of judgments).
+
+25 Relevant measures of financial strength might include the level of settlement guarantee funds, collateral requirements, lines of credit, or insurance as compared with participants' daily settlement obligations.
+
+26 This factor relates to requirements under the definition of an eligible securities depository.
+
+27 We recognize that fund boards do not typically have the expertise to make day-to-day decisions regarding foreign depository arrangements, and we assume that a fund board will delegate these responsibilities to the fund's adviser, subject to the board's general oversight, even though the rule does not require delegation. As we stated in the Proposing Release, when custodial risks are a material factor in the decision to enter or exit a market, we would expect the adviser to inform the board of the risks based on the risk analysis and other information provided by the primary custodian or its agent. See Proposing Release, supra note 4, at nn.51-53 and accompanying text.
+
+28 These standards generally require the exercise of care, but do not set limits on the risks that a fund or its adviser may find acceptable for the fund's depository arrangements.
+
+29 See Proposing Release, supra note 4, at text accompanying nn.35-37.
+
+30 Some commenters said that guidance would be needed on whether the rule would allow for common insurance exclusions (such as insurrection, natural disasters, or governmental action). Some commenters also suggested that coverage against negligence by a depository (as distinguished from larceny or embezzlement) might be unavailable or prohibitively expensive, and that reasonable coverage limits and deductible amounts would need to be defined.
+
+31 For example, the primary custodian could determine that certain risks are mitigated by indemnification or insurance.
+
+32 See rule 17f-7(a)(1)(ii). As proposed, rule 17f-7 also would have required the custodian or subcustodian to agree to exercise reasonable care in "all other conduct relating to custody arrangements." The rule as adopted does not include this latter provision because, as one commenter pointed out, it would broadly apply to some custody activities that may be unrelated to the use of a depository ( e.g ., activities not related to analysis of the depository and monitoring of risks).
+
+33 See rule 17f-5(b)(3).
+
+34 See Uniform Commercial Code, § 8-504 and cmt. 3, and § 8-509 (1994) (securities intermediary must perform its duties under the Code, including duties to follow certain procedures in maintaining financial assets and to exercise care in selecting subcustodians, with "due care in accordance with reasonable commercial standards," unless modified by regulatory requirements or contractual provisions that meet a "good faith" standard).
+
+35 Amended rule 17f-5 uses the term "foreign assets" in place of "fund assets" to clarify that assets maintained with a foreign custodian may not be the exclusive property of the fund. See U.C.C. § 8-503(b) and cmt. 1 (1994) (entitlement holder's property interest in securities held by its securities intermediary is a pro rata interest shared with other customers of the intermediary). The amended rule also refers to "maintaining assets with" an eligible foreign custodian rather than "selecting" a custodian, and uses the term "eligible foreign custodian" throughout the rule. In addition, the amended rule provides that the fund's foreign custody manager, as well as the fund itself, may place and maintain fund assets with an eligible foreign custodian. See amended rule 17f-5.
+
+36 See Note to amended rule 17f-5; Note to rule 17f-7.
+
+37 This change clarifies that an eligible securities depository may include, for example, a branch of a U.S. bank that meets the other requirements of the definition of an eligible securities depository.
+
+38 A fund may undertake to comply with new rule 17f-7 and amended rule 17f-5 before the compliance date. With respect to fund assets in the custody of a foreign securities depository before it has begun to comply with rule 17f-7, we expect the fund or its adviser to determine whether the depository is an eligible securities depository as defined by the rule, and to obtain an initial risk analysis of the depository by the compliance date.
+
+39 Compliance with the 1997 Amendments will become moot when amended rule 17f-5 and new rule 17f-7 take effect. See supra note 6 (clarifying the status of the compliance date for the 1997 Amendments). Therefore, the Commission is extending the compliance date of the 1997 Amendments to the effective date of the rule and amendments we are adopting today.
+
+40 See Custody of Investment Company Assets Outside the United States, Investment Company Act Release No. 23201 (May 21, 1998) [63 FR 29345 (May 29, 1998)] at nn.7 & 9 and accompanying text. The fund may apply any of these alternative frameworks separately to each foreign custodian or subcustodian it uses. The fund's arrangement with a particular foreign custodian, subcustodian, or depository should comply in its entirety with amended rule 17f-5 and new rule 17f-7, or with rule 17f-5 as amended by the 1997 Amendments, or with old rule 17f-5 as it existed prior to the 1997 Amendments (but subject to the amended definition of an eligible foreign custodian).
+
+41 Rule 17f-7 should not materially increase a custodian's risk of liability because most custodial contracts will probably continue to limit the custodian's liability, particularly with respect to information it may receive from third parties.
+
+42 This information is based on data reported by funds on Form N-SAR [17 CFR 274.101].
+
+43 This estimate is based on staff review of custody contracts and other research.
+
+44 These estimates assume that each of the 15 custodians services an average of 250 client portfolios within 40 fund complexes, that a single response by each custodian can simultaneously address approximately 6 client portfolios in a fund complex. A "response" may involve the preparation of risk analyses of depository arrangements, the monitoring of depositories for material changes in risks and the preparation of notices for funds of material changes in risks related to these depositories.
+
+45 These estimates assume that each of the 15 custodians services an average of 250 client portfolios within 40 fund complexes, that a single response by each custodian can simultaneously address approximately 6 client portfolios in a fund complex. A "response" may involve establishing bank custody arrangements for approximately 40 fund complexes, preparing reports to fund boards and monitoring custody functions.
+
+46 Commission staff estimates that there are 3,690 portfolios with securities held by a foreign custodian or foreign securities depository, and that these portfolios are divided among approximately 1,327 registered funds with approximately 650 fund complexes that may share the same investment adviser, board of directors, U.S. bank custodian or all of these entities. Each board of directors and its delegates for a fund complex could therefore meet rule 17f-7's requirements by simultaneously approving similar arrangements for some 6 portfolios in the same complex. The estimated hour burdens are based on discussions with representatives of funds about the burdens of analogous requirements in another custody rule.
+
+47 These estimates assume that one adviser manages 6 portfolios, and that each adviser would make 3 responses annually requiring a total of 25 hours for each adviser. A "response" may involve addressing depository compliance with minimum requirements, and reviews of risk analyses and notifications for the fund complex. The staff also assumes that fund boards will delegate most of the responsibility for reviewing risk analyses and notifications to a fund's adviser. To the extent fund boards do not delegate these responsibilities, funds will bear the costs of reviewing risk analyses and notifications.
+
+48 The staff estimates that 2 hours of board or adviser time will be required annually to make the necessary findings concerning foreign custody managers required by amended rule 17f-5.
+
+49 This estimate assumes that without the amendments, under rule 17f-5, approximately 650 investment advisers would have to make an average of 3 responses per adviser annually (requiring a total of approximately 44 hours for each adviser) to address depository arrangements. The 44 hours include: 10 hours establishing custody arrangements with depositories and making "reasonable care" determinations, 24 hours monitoring depository arrangements, and 10 hours reporting to fund boards.
+
+50 15 U.S.C. 80a-2(c).
+
+51 44 U.S.C. 3501-3520.
+
+52 The titles of the collections of information are "Custody of Investment Company Assets Outside the United States" and "Custody of Investment Company Assets with a Foreign Securities Depository." The OMB control numbers for the rules are as follows: rule 17f-7 (3235-0529, expires Aug. 31, 2002); rule 17f-5 (3235-0269, expires Aug. 31, 2002).
+
+53 44 U.S.C. 3506(c)(1)(B)(v).
+
+54 These estimates assume that one adviser manages 6 portfolios, and that each adviser will make 3 responses annually requiring a total of 25 hours for each adviser to address depository compliance with minimum requirements, and reviews of risk analyses or notifications for the adviser's fund complex. The 25 hours would include 5 hours spent to verify depository compliance with minimum requirements, and 20 hours spent to review risk analyses or notifications for the fund complex.
+
+55 These estimates assume that each of 15 custodians services an average of 250 client portfolios within 40 fund complexes, that a single response by each custodian can simultaneously address approximately 6 client portfolios in a fund complex, and that each custodian makes approximately 80 annual responses requiring 10 hours per response to prepare risk analyses of depository arrangements and monitor risks, and to provide notices of material changes in risks to its clients.
+
+56 This information is based on data reported by funds on Form N-SAR [17 CFR 274.101].
+
+57 The staff estimates that these 3,690 portfolios are divided among approximately 1,327 registered funds within approximately 650 fund complexes that may share the same investment adviser, board of directors, U.S. bank custodian, or all of these entities. Each board of directors and its delegates for a fund complex could therefore meet rule 17f-5's requirements by simultaneously approving similar arrangements for some 6 portfolios in the same complex. The estimated hour amounts are based on discussions with representatives of funds about the burdens of analogous requirements in another custody rule.
+
+58 This estimate is based on staff review of custody contracts and other research.
+
+59 These estimates assume that each of 15 custodians services an average of 250 client portfolios within 40 fund complexes, that a single response by each custodian can simultaneously address approximately 6 client portfolios in a fund complex, and that each custodian makes approximately 80 responses annually requiring 10 hours per response to establish bank custody arrangements for approximately 40 fund complexes and report to their fund boards, and one response annually requiring 96 hours per response to establish a system to monitor custody arrangements for these clients.
+
+60 The number of responses may decline substantially after the first year because some responses made during that year ( e.g ., negotiating a custodial contract with a fund or establishing a system to monitor custody arrangements) will suffice for some time thereafter.
+
+61 See supra note 57.
+
+62 These estimates assume that one adviser manages 6 portfolios, and that each adviser would make 3 responses annually requiring a total of 44 hours to approve depository custody arrangements for each fund complex, report to fund boards, and establish a system to monitor depository arrangements for the fund complex. The 44 hours would include 10 hours spent to establish custody arrangements with depositories and make "reasonable care" determinations, 24 hours spent to monitor depository arrangements, and 10 hours spent to report to fund boards.
+
+63 A bank is considered by the Small Business Administration to be a small entity if it has less than $100 million in assets. See 13 CFR 121.201 (1999). See also 5 USC 601(3). A bank's assets are determined by averaging its total assets reported for each of the last four quarters. See 13 CFR 121.201 at n.7.
+
+64 A fund is considered a small entity if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less. See 17 CFR 270.0-10. An adviser is considered a small entity if it has assets under management of less than $25 million, has total assets of less than $5 million, and is not in a control relationship with other advisers or persons that are not small entities. See 17 CFR 275.0-7. Most funds that invest in foreign securities are part of a fund complex that holds net assets of more than $50 million, and are advised by advisers with assets under management of $25 million or more.  http://www.sec.gov/rules/final/ic-24424.htm

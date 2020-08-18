@@ -1,0 +1,1061 @@
+https://www.sec.gov/rules/final/34-49831.htm
+
+	I.0.0.0: I. INTRODUCTION.
+
+	II.0.0.0: II. THE PROPOSED RULES.
+
+	III.0.0.0: III. OVERVIEW OF COMMENTS RECEIVED.
+
+	IV.0.0.0: IV. FINAL RULES AND RULE AMENDMENTS.
+
+		IV.A.0.0: A. Rule 17i-1: Definitions.
+
+		IV.B.0.0: B. Rule 17i-2: Notice of Intention to be Supervised by the Commission as an SIBHC.
+
+			IV.B.1.0: 1. Election criteria.
+
+			IV.B.2.0: 2. Notice of Intention to become an SIBHC.
+
+			IV.B.3.0: 3. Process for review of Notices of Intention.
+
+			IV.B.4.0: 4. Requirement that an IBHC be affiliated with a broker-dealer that has a substantial presence in the securities business.
+
+			IV.B.5.0: 5. Continuing obligation to amend a Notice of Intention.
+
+		IV.C.0.0: C. Rule 17i-3: Withdrawal from Supervision as an SIBHC.
+
+		IV.D.0.0: D. Rule 17i-4: Internal Risk Management Control System Requirements for SIBHCs.
+
+		IV.E.0.0: E. Rule 17i-5: Record Creation, Maintenance, and Access Requirements for SIBHCs.
+
+			IV.E.1.0: 1. Record creation.
+
+			IV.E.2.0: 2. Record maintenance.
+
+			IV.E.3.0: 3. Access to records.
+
+		IV.F.0.0: F. Rule 17i-6: Reporting Requirements for SIBHCs.
+
+			IV.F.1.0: 1. Monthly reports.
+
+			IV.F.2.0: 2. Quarterly reports.
+
+			IV.F.3.0: 3. Organizational chart.
+
+			IV.F.4.0: 4. Additional reports.
+
+			IV.F.5.0: 5. Annual audit report.
+
+			IV.F.6.0: 6. Accountant's report on management controls - paragraph (d)(1)(ii) of Rule 17i-6 and amendment to paragraph (l) of existing Rule 17a-12.
+
+		IV.G.0.0: G. Exemption from Risk Assessment Rules for Broker-Dealer Affiliates of SIBHCs.
+
+		IV.H.0.0: H. Rule 17i-7: Calculations of Allowable Capital and Risk Allowances or Alternative Capital Assessment.
+
+			IV.H.1.0: 1. Calculation of consolidated allowable capital.
+
+			IV.H.2.0: 2. Calculation of consolidated allowance for market risk.
+
+			IV.H.3.0: 3. Calculation of consolidated allowance for credit risk.
+
+			IV.H.3.i: i. Credit equivalent amount.
+
+			IV.H.4.0: 4. Calculation of consolidated allowance for operational risk.
+
+			IV.H.5.0: 5. General discussion of Basel pillars.
+
+		IV.I.0.0: I. Rule 17i-8: Notification Requirements for SIBHCs.
+
+	V.0.0.0: V. AMENDMENT TO RULE 30-3.
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT.
+
+		VI.A.0.0: A. Collection of Information Under the Amendments to Rules 17h-1T and 17h-2T and New Rules 17i-2 through 17i-8.
+
+		VI.B.0.0: B. Proposed Use of Information.
+
+		VI.C.0.0: C. Respondents.
+
+		VI.D.0.0: D. Reporting and Recordkeeping Burdens.
+
+			VI.D.1.0: 1. Amendments to Rules 17h-1T and 17h-2T.
+
+			VI.D.2.0: 2. Rule 17i-2.
+
+			VI.D.3.0: 3. Rule 17i-3.
+
+			VI.D.4.0: 4. Rule 17i-4.
+
+			VI.D.5.0: 5. Rule 17i-5.
+
+			VI.D.6.0: 6. Rule 17i-6.
+
+			VI.D.7.0: 7. Rule 17i-8.
+
+		VI.E.0.0: E. Collection of Information is Mandatory.
+
+		VI.F.0.0: F. Confidentiality.
+
+		VI.G.0.0: G. Record Retention Period.
+
+	VII.0.0.0: VII. COSTS AND BENEFITS OF THE RULES AND RULE AMENDMENTS.
+
+		VII.A.0.0: A. Benefits.
+
+		VII.B.0.0: B. Costs.
+
+			VII.B.1.0: 1. Ongoing costs.
+
+			VII.B.2.0: 2. One-time costs.
+
+	VIII.0.0.0: VIII. CONSIDERATION OF BURDEN ON COMPETITION, AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION.
+
+	IX.0.0.0: IX. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION.
+
+	X.0.0.0: X. STATUTORY AUTHORITY.
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Supervised Investment Bank Holding Companies (Corrected Version) SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200 and 240 [Release No. 34-49831; File No. S7-22-03] RIN 3235-AI97 Supervised Investment Bank Holding Companies 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule.
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting rules to implement Section 17(i) of the Securities Exchange Act of 1934, which created a new framework for supervising an investment bank holding company ("IBHC"). An IBHC that meets specified criteria may elect to become a supervised investment bank holding company ("SIBHC") and be subject to supervision on a group-wide basis by filing a notice of intention with the Commission. Pursuant to the statute and these new rules, an IBHC is eligible to be an SIBHC if it is not affiliated with certain types of banks and has a subsidiary broker-dealer with a substantial presence in the securities markets. These rules provide an IBHC with a process to become supervised by the Commission as an SIBHC, and establish regulatory requirements for an SIBHC, including requirements regarding its group-wide internal risk management control system, recordkeeping, and periodic reporting (including reporting of consolidated computations of allowable capital and risk allowances consistent with the standards published by the Basel Committee on Banking Supervision). The Commission also is adopting an exemption to the Commission's risk assessment rules to exempt a broker-dealer that is affiliated with an SIBHC from those rules because these new SIBHC rules will require that an SIBHC maintain substantially the same records and make substantially the same reports to the Commission that a broker-dealer must maintain and make pursuant to the risk assessment rules. Finally, the Commission is amending the audit requirements for over-the-counter ("OTC") derivatives dealers to permit OTC derivatives dealers to file, as part of their annual audits, a supplemental report regarding the firm's internal risk management control systems based on agreed-upon procedures rather than auditing standards.
+
+ EFFECTIVE DATE: August 20, 2004.
+
+ FOR FURTHER INFORMATION CONTACT: With respect to calculations of allowable capital and risk allowances, internal risk management control systems, and books and records and reporting requirements, contact Michael A. Macchiaroli, Associate Director, at (202) 942-0132, Thomas K. McGowan, Assistant Director, at (202) 942-4886, Rose Russo Wells, Attorney, at (202) 942-0143, Bonnie L. Gauch, Attorney, at (202) 942-0765, or David Lynch, Financial Economist, at (202) 942-0059, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+With respect to general questions, contact Linda Stamp Sundberg, Attorney Fellow, at (202) 942-0073, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001. SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. INTRODUCTION. </h>
+
+The rules the Commission is adopting today implement the framework for Commission supervision of SIBHCs set forth in Section 17(i) of the Securities Exchange Act of 1934 (the "Exchange Act" or the "Act").<SUP> 1 </SUP> These rules also enhance the Commission's supervision of an SIBHC's affiliated broker-dealers through collection of additional information and examinations of affiliates of those broker-dealers. This framework includes qualification criteria for IBHCs that file notices of intention to be supervised by the Commission, as well as recordkeeping and reporting requirements for SIBHCs. Taken as a whole, this framework permits the Commission to monitor the financial condition, risk management, and activities of an SIBHC and its affiliates (including broker-dealer affiliates) on a group-wide basis. Neither the Exchange Act nor these new rules require that an IBHC become an SIBHC; supervision as an SIBHC is voluntary.
+
+This regulatory framework for SIBHCs also is intended to provide a basis for non-U.S. financial regulators to treat the Commission as the principal U.S. consolidated, home-country supervisor<SUP> 2 </SUP> for SIBHCs and their affiliates (including broker-dealers). To the extent that non-U.S. financial regulators treat the Commission as the principal U.S. consolidated, home-country supervisor for SIBHCs and their affiliates, any duplicative regulatory burdens on SIBHCs that are active outside the U.S. would be minimized. 
+
+These new rules are not intended to duplicate regulation of banks, insurance companies, or futures commission merchants by other regulatory agencies. Section 17(i) of the Exchange Act directs the Commission to: (i) accept, to the fullest extent possible, reports that an SIBHC or an affiliate thereof may have been required to provide to another appropriate regulatory agency or self-regulatory organization;<SUP> 3 </SUP> (ii) use, to the fullest extent possible, reports of examination made by the appropriate regulatory agency or state insurance regulator;<SUP> 4 </SUP> and (iii) defer to the appropriate regulatory agency or state insurance regulator with regard to interpretation and enforcement of banking or insurance regulations.<SUP> 5 </SUP><h>II. THE PROPOSED RULES. </h>
+
+The Commission proposed Rules 17i-1 through 17i-8 and amendments to Rules 17a-12, 17h-1T, and 17h-2T on October 24, 2003 (Exchange Act Release No. 48694 (October 24, 2003))<SUP> 6 </SUP> (the "Proposing Release") to implement Section 17(i) of the Exchange Act. 
+
+Proposed Rules 17i-1 through 17i-8 were designed to implement the framework for Commission supervision of SIBHCs set forth in Section 17(i) of the Act. The proposed rules would have (i) incorporated definitions found in the Exchange Act into the SIBHC rules and also would have defined the terms "affiliate group" and "material affiliate," (ii) provided a method by which an IBHC could elect to become an SIBHC and the criteria the Commission would use to make a determination as to whether it would be necessary or appropriate in furtherance of Section 17 of the Act for the IBHC to be supervised by the Commission as an SIBHC, (iii) permitted an SIBHC to withdraw from Commission supervision by filing a notice of withdrawal with the Commission and would have provided a method through which the Commission could terminate supervision if it found that the SIBHC was no longer an IBHC or it was necessary or appropriate in furtherance of Section 17 of the Act for the Commission to terminate supervision of the SIBHC, (iv) required that an SIBHC comply with present Exchange Act Rule 15c3-4 as though it were a broker-dealer<SUP> 7 </SUP> and establish, document and maintain an internal risk management control system and periodically review this internal risk management control system, (v) required that an SIBHC make and keep current certain records relating to its business, and preserve those and other records for certain prescribed time periods, (vi) required an SIBHC to file with the Commission certain monthly and quarterly reports and an annual audit report, (vii) required that an SIBHC calculate, using a Basel-like Standard,<SUP> 8 </SUP> the affiliate group's allowable capital and allowances for market risk, credit risk, and operational risk, and (viii) required that an SIBHC notify the Commission upon the occurrence of certain, specified events that could indicate a decline in the financial and operational well-being of the SIBHC. 
+
+ 
+
+In addition, a proposed amendment to Rule 17a-12(l) would have required that, similar to the requirements for an SIBHC set forth in proposed Rule 17i-6(i)(2),<SUP> 9 </SUP> an OTC derivatives dealer submit a supplemental report, prepared by the accountant using agreed-upon procedures rather than auditing standards, regarding the accountant's review of the internal risk management control system established and documented in accordance with Rule 15c3-4.
+
+Finally, the amendments to Rules 17h-1T and 17h-2T<SUP> 10 </SUP> would have exempted broker-dealers that are affiliated with an SIBHC from those rules because, pursuant to proposed Rules 17i-5 and 17i-6, the SIBHC would have been required to make and retain documents and file reports that are substantially similar to, and contain the same information as, those its subsidiary broker-dealer is required to make, retain, and file pursuant to Rules 17h-1T and 17h-2T.<h>III. OVERVIEW OF COMMENTS RECEIVED. </h>
+
+The Commission received two comment letters regarding the Proposing Release<SUP> 11 </SUP> from the International Swaps and Derivatives Association ("ISDA") and The Bear Stearns Companies, Inc. ("Bear Stearns"). The comments contained in ISDA's letter generally relate to the proposed rule requirements regarding the manner in which credit and operational risk should be calculated by the holding company. Bear Stearns' letter focused on three areas: the proposed credit risk treatment of margin loans, the proposed credit risk treatment of over-the-counter derivatives, and the proposed treatment of market risk. These comments, and the Commission's response to those comments, are discussed more specifically below in the descriptions of the final rule amendments.<h>IV. FINAL RULES AND RULE AMENDMENTS.A. Rule 17i-1: Definitions. </h><h>A. Rule 17i-1: Definitions. </h>
+
+New Rule 17i-1 incorporates the definitions of "investment bank holding company,"<SUP> 12 </SUP> "supervised investment bank holding company,"<SUP> 13 </SUP> "affiliate,"<SUP> 14 </SUP> "bank," "bank holding company," "company," "control," "savings association," "insured bank,"<SUP> 15 </SUP> "foreign bank,"<SUP> 16 </SUP> "person associated with an investment bank holding company" and "associated person of an investment bank holding company"<SUP> 17 </SUP> set forth in Section 17(i)(5) of the Exchange Act<SUP> 18 </SUP> into the rules promulgated under Section 17(i). Although these definitions apply regardless of whether they are incorporated into the rules, incorporating them lets individuals reading the new rules know that the terms are defined, and directs them to those definitions. 
+
+New Rule 17i-1 also includes definitions of the terms "affiliate group" and "material affiliate." The term "affiliate group" is defined to include the SIBHC and every affiliate of the SIBHC because we believe that we would need to obtain information related to all affiliates to provide effective supervision of an SIBHC. We define the term "material affiliate" to include any member of the affiliate group that is material to the SIBHC because, based on the Commission's experience in reviewing holding company documentation, receiving information specific to affiliates material to a holding company provides us with a better understanding of the holding company, including how risk is managed on a consolidated level.
+
+No comments were received regarding these definitions and the Commission is adopting this rule as proposed.<h>B. Rule 17i-2: Notice of Intention to be Supervised by the Commission as an SIBHC. </h>
+
+Exchange Act § 17(i)(1)(B) authorizes the Commission to prescribe rules regarding the form, information, and documents to be included in an IBHC's notice of intention to become supervised by the Commission as an SIBHC (a "Notice of Intention") as the Commission may prescribe as necessary or appropriate in furtherance of the purposes of § 17 of the Act.<SUP> 19 </SUP> The Commission received no comments regarding proposed Rule 17i-2. Thus, the Commission is adopting Rule 17i-2 substantially as it was proposed.<SUP> 20 </SUP> 
+
+ 
+
+New Rule 17i-2 provides that an IBHC that meets the statutory election criteria may elect to become an SIBHC by filing a written Notice of Intention with the Commission, and prescribes the form of an IBHC's Notice of Intention and the information and documents to be included therewith. New Rule 17i-2 also sets forth the process for Commission review of a Notice of Intention and the criteria the Commission will use to make this determination. The new Rule specifies that the Commission will supervise the IBHC as an SIBHC unless the Commission determines that it is not necessary or appropriate in furtherance of the purposes of § 17 of the Act. The new Rule further states that the Commission will not consider such supervision necessary or appropriate unless the IBHC demonstrates that it owns or controls a broker-dealer that has a substantial presence in the securities business, which may be demonstrated by a showing that the broker-dealer maintains tentative net capital of $100 million or more. Finally, new Rule 17i-2 requires that an IBHC or SIBHC amend its Notice of Intention in certain, specified circumstances.
+
+If an IBHC becomes an SIBHC, regulation of its affiliated broker-dealer and related associated persons generally will remain unchanged (except that, pursuant to amendments described later in this release, a broker-dealer affiliated with an SIBHC is exempted from the requirements of Rules 17h-1T and 17h-2T).<h>1. Election criteria. </h>
+
+Section 17(i)(1)(A) of the Exchange Act sets forth certain limitations on whether an IBHC is eligible to become an SIBHC,<SUP> 21 </SUP> and paragraph (a) of new Rule 17i-2 incorporates these statutory exclusions. Specifically, an IBHC that is not (i) an affiliate of an insured bank (with certain exceptions) or a savings association; (ii) a foreign bank, foreign company, or a company that is described in section 8(a) of the International Banking Act of 1978;<SUP> </SUP>or (iii) a foreign bank that controls, directly or indirectly, a corporation chartered under section 25A of the Federal Reserve Act is eligible to file a Notice of Intention.<h>2. Notice of Intention to become an SIBHC. </h>
+
+Paragraph (b) of new Rule 17i-2 requires that an IBHC that elects to become an SIBHC file a written Notice of Intention with the Commission that is designed to provide the Commission with a basis for evaluating the IBHC's activities, financial condition, internal risk management control systems, and the relationships among its associated persons in order to determine whether Commission supervision of the IBHC is necessary and appropriate in furtherance of the purposes of Section 17 of the Exchange Act. Pursuant to the Rule, an IBHC's Notice of Intention must include (i) a request to become an SIBHC; (ii) a statement certifying that it is not affiliated with an entity listed in Section 17(i)(1)(A) of the Exchange Act;<SUP> 22 </SUP> (iii) documentation demonstrating that it owns or controls at least one broker-dealer that maintains a substantial presence in the securities business as evidenced either by its holding tentative net capital of $100 million or more or otherwise; and (iv) other supplemental documents. 
+
+ 
+
+New Rule 17i-2 specifies that an IBHC must file the following supplemental documents with its Notice of Intention to assist the Commission in making its determination: 
+
+ 
+
+A narrative describing the business and organization of the IBHC;
+
+ 
+
+An alphabetical list of each member of the affiliate group, with an identification of the financial regulator, if any, by whom the affiliate is regulated, and a designation as to whether the affiliate is a material affiliate
+
+; 
+
+ 
+
+An organizational chart identifying the IBHC, each broker-dealer owned or controlled by the IBHC, and the IBHC's material affiliates;
+
+ 
+
+ 
+
+Certain consolidated and consolidating financial statements;
+
+ 
+
+Sample calculations of allowable capital and allowances for market, and credit risk or alternative capital assessments made in accordance with Rule 17i-7;
+
+ 
+
+ 
+
+ A list of the categories of positions held by the affiliate group in its proprietary accounts and the methods the IBHC intends to use for computing allowances for market risk and credit risk on those positions;
+
+ 
+
+A detailed description of the mathematical models the IBHC intends to use to price positions and calculate market and credit risk;
+
+ 
+
+A description of any positions for which the IBHC proposes to use a method other than Value at Risk ("VaR") to compute an allowance for market risk;
+
+ 
+
+A description of how the IBHC proposes to calculate current exposure;
+
+ 
+
+A description of how the IBHC proposes to determine credit risk weights and internal credit ratings;
+
+ 
+
+A description of the method the IBHC proposes to use to calculate its allowance for operational risk;
+
+ 
+
+A description of the internal risk management control system established by the IBHC to manage the risks of the affiliate group and an explanation of how that system satisfies the requirements of Rule 17i-4;
+
+ 
+
+ 
+
+Sample risk reports that the holding company provides to the persons responsible for managing the risks of the affiliate group; and
+
+ 
+
+An undertaking providing that the SIBHC will cooperate with the Commission as necessary if the disclosure of any information with regard to Rules 17i-1 through 17i-8 would be prohibited by law or otherwise.
+
+ 
+
+ 
+
+The Commission, in its review of each Notice of Intention, will use the information and documents provided by the IBHC to assess the IBHC's business, financial condition, and internal risk management control systems in recognition of the fact that each IBHC manages its business and its internal risks differently. We have successfully used firm-specific information and documents in the past to evaluate and monitor risks to broker-dealers. 
+
+ 
+
+Paragraph (b)(xiv) of new Rule 17i-2 requires that an SIBHC provide the Commission with an undertaking indicating that it agrees to cooperate with the Commission as needed, including by describing any secrecy laws or other impediments that could restrict the ability of the SIBHC to provide information on the operations or activities of the SIBHC. If any material impediments exist, the SIBHC must describe the manner in which it proposes to provide the Commission with adequate assurances of access to information.
+
+ 
+
+In addition to the information and documentation specifically described in the rules, the IBHC must also furnish such other information and documents, including documents relating to its financial position, internal controls, and mathematical models, as the Commission may request to complete its review of the Notice of Intention. Paragraph (b)(xv) of new Rule 17i-2 was designed to provide the Commission with needed flexibility to assure it has the information and documents necessary to make the required determination.<SUP> 23 </SUP> In addition, experience the Commission gains over time or changes in business practice at broker-dealers and IBHCs may cause the Commission to re-evaluate whether the information and documentation it receives is sufficient. 
+
+ 
+
+We find the information and documentation an IBHC is required to compile and submit as part of its Notice of Intention pursuant to paragraph (b) of new Rule 17i-2 is necessary and appropriate in furtherance of the purposes of § 17 of the Act. The information and documentation will inform the Commission as to the IBHC's activities, financial condition, policies, and systems for monitoring and controlling financial and operational risks, transactions and relationships between any broker or dealer affiliate of the IBHC.
+
+ 
+
+A Notice of Intention or amendment thereto will not be complete until the IBHC has provided to the Commission all the information and documentation specified in the Rule and requested by the Commission.<SUP> 24 </SUP>
+
+ 
+
+Paragraph (d)(1) of Rule 17i-2 states that all Notices of Intention, amendments, and other documentation and information filed pursuant to Rule 17i-2 will be accorded confidential treatment.<SUP> 25 </SUP> We believe it is important to accord confidential treatment to the information and documentation an IBHC provides to the Commission as part of its Notice of Intention because that information and documentation will generally be highly sensitive, non-public business information.<h>3. Process for review of Notices of Intention. </h>
+
+Pursuant to paragraph (d)(2) of new Rule 17i-2, an IBHC will become an SIBHC subject to Commission supervision 45 calendar days after the Commission receives a completed Notice of Intention, unless the Commission issues an order determining either that (i) the Commission will begin to supervise the IBHC as an SIBHC prior to 45 calendar days after the Commission received the completed Notice of Intention to become supervised; or (ii) the Commission will not supervise the IBHC because supervision of the entity as an SIBHC is not necessary or appropriate in furtherance of the purposes of Section 17 of the Exchange Act.<SUP> 26 </SUP> The Commission will use the information and documents provided as part of an IBHC's Notice of Intention to assess the financial and operational condition of the IBHC and make this determination.<h>4. Requirement that an IBHC be affiliated with a broker-dealer that has a substantial presence in the securities business. </h>
+
+Pursuant to the Act, the Commission may supervise an IBHC that has submitted a Notice of Intention as an SIBHC "[u]nless the Commission finds that such supervision is not necessary or appropriate in furtherance of the purposes" of Section 17.<SUP> 27 </SUP> The purposes of Section 17 are quite broad. Section 17 generally permits the Commission to carry out its regulatory oversight responsibilities regarding broker-dealers by establishing rules related to recordkeeping, reporting, and examination. In addition, Section 17(h) provides the Commission authority to require that a broker-dealer obtain information and make and keep such records and reports regarding the broker-dealer's affiliates, and the financial and securities activities, capital and funding of certain of those affiliates,<SUP> 28 </SUP> as the Commission prescribes to assess the financial and operational risks to a broker-dealer from those affiliates. 
+
+We find, consistent with the purposes of Section 17, the Commission's supervision of an IBHC as an SIBHC is necessary and appropriate only when the IBHC is affiliated with a broker-dealer that has a "substantial presence" in the securities business.<SUP> 29 </SUP> Supervision of an SIBHC that owns or controls a broker-dealer with a substantial presence in the securities business would permit the Commission to be better informed regarding the financial and operational conditions of broker-dealers and their holding companies whose failure could have a materially adverse impact on other securities market participants, thus reducing systemic risk and furthering the purposes of Section 17. Among other things, evidence that an IBHC owns or controls a broker-dealer that maintains $100 million in tentative net capital would be sufficient to demonstrate a substantial presence in the securities business.<h>5. Continuing obligation to amend a Notice of Intention. </h>
+
+Pursuant to paragraph (c) of new Rule 17i-2, IBHCs and SIBHCs have a continuing obligation to amend their Notices of Intention. If any of the information or documentation filed with the Commission as part of the Notice of Intention is found to be or becomes inaccurate prior to a Commission determination, an IBHC must notify the Commission and provide the Commission with a description of the circumstances in which the information or documentation was found to be or became inaccurate along with updated, accurate information and documents. 
+
+ 
+
+ After a Commission determination, if an SIBHC materially changes a mathematical model or other method used to compute its allowable capital or allowances for market, credit, or operational risk, or its internal risk management control systems, prior to making the changes the SIBHC must file an amended Notice of Intention describing the changes and obtain Commission approval of the amendment. Commission approval is necessary to assure that the SIBHC continues to utilize risk measures that are sufficient to properly manage the financial and operational risks of the affiliate group.<h>C. Rule 17i-3: Withdrawal from Supervision as an SIBHC. </h>
+
+New Rule 17i-3 permits an SIBHC to withdraw from Commission supervision by filing a notice of withdrawal with the Commission, consistent with Exchange Act § 17(i)(2)(A). Pursuant to the Rule, a notice of withdrawal from supervision will take effect one year after it is filed with the Commission (or a shorter or longer period that the Commission determines is necessary or appropriate to help ensure effective supervision of the material risks to the SIBHC and any affiliated broker-dealer or to prevent evasion of the purposes of Section 17 of the Exchange Act).<SUP> 30 </SUP> The new Rule also requires an SIBHC to include in its notice of withdrawal a statement regarding whether it is in compliance with new Rule 17i-2(c) regarding amendments to its Notice of Intention to help to assure that the Commission has current information when considering the SIBHC's withdrawal notice. 
+
+ 
+
+In addition, paragraph (c) of new Rule 17i-3 provides, consistent with Exchange Act § 17(i)(2)(B), that the Commission may discontinue supervising an SIBHC if the Commission finds that the SIBHC no longer exists or is no longer an IBHC, or that continued supervision of the SIBHC is not necessary or appropriate in furtherance of the purposes of Section 17. Among other things, if an SIBHC makes a material amendment to a mathematical model or to its internal risk management control systems as described in its Notice of Intention (and as modified from time to time), the Commission may review whether the change would cause continued supervision of the SIBHC to no longer be necessary or appropriate in furtherance of the purposes of Section 17 of the Act. 
+
+ 
+
+The Commission will generally review and consider the same types of information it initially reviewed and considered when making its original determination to supervise the IBHC as an SIBHC to determine whether continued supervision of the SIBHC is necessary or appropriate in furtherance of the purposes of Section 17 of the Act. 
+
+ 
+
+The Commission received no comments regarding proposed Rule 17i-3, and the Commission is adopting Rule 17i-3 substantially as it was proposed.<h>D. Rule 17i-4: Internal Risk Management Control System Requirements for SIBHCs. </h>
+
+New Rule 17i-4 requires that an SIBHC comply with present Exchange Act Rule 15c3-4 as if it were an OTC derivatives dealer with respect to all of its business activities and transactions.<SUP> 31 </SUP> That is, an SIBHC's compliance with Rule 15c3-4 is not limited to its OTC derivatives transactions.<SUP> 32 </SUP> Currently, Rule 15c3-4 requires that each OTC derivatives dealer establish, document and maintain a system of internal risk management controls to assist it in managing the risks associated with its business activities, including market risk, credit risk, operational risk, funding risk, and legal risk. 
+
+ 
+
+An SIBHC that has adopted and follows appropriate risk management controls reduces its risk of significant loss, which also reduces the risk to other market participants or throughout the financial markets as a whole. Due to the level of risk exposures created by the types of business activities of SIBHCs, it is important for SIBHCs to implement robust internal risk management control systems. Based on the Commission's experience with OTC derivatives dealers, we believe new Rule 17i-4 will cause SIBHCs to develop strong internal controls that will reduce risk at the SIBHC and require that each SIBHC adequately document those internal controls. It is important that the internal controls be adequately documented to assure that examiners and accountants can review and audit them. We also believe that, similar to Rule 15c3-4, new Rule 17i-4 provides flexibility for an SIBHC to design and implement internal risk management control systems specific to its business model and circumstances. 
+
+ 
+
+Paragraph (b) of new Rule 17i-4 contains one requirement that is not presently included in Rule 15c3-4 - it requires that an SIBHC establish, document, and maintain procedures for the detection and prevention of money laundering and terrorist financing as part of its internal risk management control system. This requirement is designed to allow the Commission to examine the SIBHC and members of the affiliate group as provided for in the Act.<SUP> 33 </SUP> An SIBHC's procedures should include appropriate safeguards at the holding company level to prevent money laundering through affiliates.<SUP> 34 </SUP> 
+
+ 
+
+The Commission received no comments regarding proposed Rule 17i-4. The Commission is adopting Rule 17i-4 substantially as it was proposed.<h>E. Rule 17i-5: Record Creation, Maintenance, and Access Requirements for SIBHCs. </h>
+
+Section 17(i)(3)(A) of the Exchange Act authorizes the Commission to require that an SIBHC must make and keep records, furnish copies thereof, and make such reports as the Commission may require.<SUP> 35 </SUP> New Rule 17i-5 specifies the records that an SIBHC must make and keep current, the length of time those records must be preserved, and the format SIBHCs may use to preserve those records. This rule is designed to require an SIBHC to create and maintain sufficient records to keep the Commission informed as to: (i) the SIBHC's activities, financial condition, policies, systems for monitoring and controlling financial and operational risks, and transactions among members of the affiliate group; and (ii) the extent to which the SIBHC has complied with the provisions of the Exchange Act and rules to which it is subject. 
+
+ 
+
+In addition, new Rule 17i-5(d)<SUP> 36 </SUP> specifies that all information obtained by the Commission from the SIBHC pursuant to this Rule will be accorded confidential treatment to the extent permitted by law.<SUP> 37 </SUP> We believe it is important to accord confidential treatment to these documents because the information an SIBHC is required create, maintain, and grant the Commission access to pursuant to new Rule 17i-5 generally is highly sensitive, non-public business information.
+
+ 
+
+The Commission received no comments regarding proposed Rule 17i-5, and, except as described below, the Commission is adopting Rule 17i-5 substantially as it was proposed. The Commission has added a requirement to Rule 17a-5 that an SIBHC make a record of the calculations of allowable capital and allowances for market, credit, and operational risk computed at least monthly.<h>1. Record creation. </h>
+
+Paragraph (a) of new Rule 17i-5 requires that an SIBHC make and keep current (i) a record reflecting the results of quarterly stress testing of the affiliate group's funding and liquidity with respect to certain specified events; (ii) a record of the SIBHC's contingency plans to respond to certain specified events affecting the affiliate group's funding and liquidity; and (iii) a record of the basis for credit risk weights and internal credit ratings, if applicable, for each counterparty. 
+
+The specified events for which an SIBHC will need to conduct stress tests and create a contingency plan would include: (i) a credit rating downgrade of the SIBHC; (ii) an inability of the SIBHC to access capital markets for unsecured, short-term funding; (iii) an inability of the SIBHC to move liquid assets across international borders when an event described in (i) or (ii) occurs; or (iv) an inability of the SIBHC to access credit or assets held at a particular institution when an event described in (i) or (ii) occurs. The Commission believes these events would present liquidity and funding stress scenarios that would likely create significant financial distress for the SIBHC. The records an SIBHC is required to create pursuant to Rule 17i-5 are intended to provide the Commission with sufficient information to adequately assess the SIBHC's financial condition and financial and operational risks. These records will be available to the Commission during examinations or as otherwise requested.
+
+ 
+
+The Commission requested comment on whether there are any other records that an SIBHC should be required to create. The Commission has given additional consideration to the questions raised in its request for comment and has determined to add a requirement that an SIBHC make a record, on a consolidated basis, of the calculations of allowable capital and allowances for market, credit, and operational risk computed on at least a monthly basis. This parallels the manner in which net capital is recorded at the broker-dealer level. As proposed, an SIBHC would have been required to maintain copies of all reports required to be filed with the Commission, and those reports would have included calculations of allowable capital, and allowances for market, credit, and operational risk (as opposed to statements of allowable capital and allowances for market, credit, and operational risk which the rule, as adopted, requires). The Because we do not believe it is necessary for an SIBHC to provide the Commission with the detailed calculations, we eliminated the requirement that an SIBHC report this information to the Commission<SUP> 38 </SUP> and instead is requiring an SIBHC to simply maintain a record of these calculations.<h>2. Record maintenance. </h>
+
+Pursuant to paragraph (b) of new Rule 17i-5, the SIBHC must preserve (i) the records required to be created pursuant to 17i-5(a) (as described above); (ii) all Notices of Intention, amendments thereto, and other documentation and information filed with the Commission in accordance with Rule 17i-2, and any responses thereto; (iii) reports and notices filed with the Commission in accordance with Rules 17i-6 and 17i-8; and (iv) records documenting the internal risk management control system established in accordance with Rule 17i-4 to manage the risks of the affiliate group. This requirement is designed to require that an SIBHC maintain the specified records, which would provide the Commission with sufficient information to adequately assess the SIBHC's financial condition and financial and operational risks. 
+
+ 
+
+New Rule 17i-5 requires that an SIBHC maintain the specified records for a period of three years in an easily accessible place. This requirement is designed to assure that the specified records will be available to the Commission during examinations or as otherwise requested. Exchange Act Rule 17a-4 presently requires that broker-dealers maintain certain records for three years, and we believe this time period is appropriate with relation to the records required pursuant to new Rule 17i-5. The new Rule would allow an SIBHC to maintain these records in any manner permitted pursuant to Rule 17a-4(f).<SUP> 39 </SUP>
+
+ 
+
+New Rule 17i-5 does not require an SIBHC to maintain its required records in a prescribed standard form. To reduce the recordkeeping burden on SIBHCs, new Rule 17i-5 instead allows an SIBHC to meet its recordkeeping requirements using records it created for its own use so long as those records include the information required in the rules. 
+
+ 
+
+Paragraph (c) of new Rule 17i-5 allows an SIBHC to maintain the records required under the rule either at the SIBHC, at an affiliate, or at a records storage facility, provided that the records are located within the United States. If these records are maintained by an entity other than the SIBHC, the SIBHC must file with the Commission a written undertaking from the entity which states that the records will be treated as if the SIBHC were maintaining the records and that the entity undertakes to permit examination of these records by representatives of the Commission and to promptly furnish copies of such records to the Commission. This provision is intended to provide an SIBHC with flexibility with relation to record maintenance, without impairing the Commission's ability to obtain the SIBHC's records as necessary.<h>3. Access to records. </h>
+
+The Commission has authority to examine an SIBHC and its affiliates pursuant to Section 17(i)(3)(C) of the Exchange Act.<SUP> 40 </SUP> However, the Act limits the focus and scope of such examinations. The statutory provisions also require that the Commission use, to the fullest extent possible, examination reports regarding an examination made by an appropriate regulator of the SIBHC or certain regulated affiliates.<SUP> 41 </SUP><h>F. Rule 17i-6: Reporting Requirements for SIBHCs. </h>
+
+New Rule 17i-6 requires that an SIBHC file certain monthly and quarterly reports with the Commission, as well as an annual audit report. These reporting requirements are designed to keep the Commission informed as to the SIBHC's activities, financial condition, policies, systems for monitoring and controlling financial and operational risks, and transactions and relationships between any broker or dealer affiliate of the SIBHC, and the extent to which the SIBHC has complied with the provisions of the Act and the regulations prescribed and orders issued thereunder.
+
+ 
+
+The Commission received no comments regarding proposed Rule 17i-6, and except as noted below, is adopting Rule 17i-6 as proposed. We have amended the timing of the reports, extending the deadline for the filing of monthly reports to 30 calendar days after month-end (instead of 17 business days after month-end) and the deadline for filing the annual audit report to 65 calendar days after year-end (instead of 60 calendar days after year-end). In addition, certain financial information need not be filed with the monthly and quarterly reports if that financial information has not yet been made public in the SIBHC's annual report on Form 10-K. We believe that an extension of these time periods is appropriate because an SIBHC must include detailed information, potentially from a number of affiliates, in these reports. The extension, moreover, does not delay significantly the time at which the Commission will receive the reports and, therefore, should provide the Commission with accurate information about risks that the SIBHC and its affiliates may pose to any affiliated broker-dealer. 
+
+ 
+
+The Commission also made other changes to the rule as proposed. We have added a section to require that an SIBHC provide the Commission with an organizational chart on a yearly basis. In addition, the rule, as adopted, no longer includes a requirement that an SIBHC file a supplemental report on inventory pricing and modeling with its annual audited statements, nor does it include many of the technical audit report requirements. These changes are discussed more fully below.<h>1. Monthly reports. </h>
+
+Paragraph (a) of new Rule 17i-6 requires an SIBHC to file a monthly risk report with the Commission, within 30 calendar days after the end of each month that does not end a calendar quarter. This report must include a consolidated balance sheet and income statement for the affiliate group, computations of consolidated allowable capital and allowances for market, credit, and operational risk, a graph reflecting daily intra-month VaR for each business line, consolidated credit risk information, a summary report of the SIBHC's exposures on a consolidated basis for each of the top ten countries to which it is exposed, and certain regular risk reports the SIBHC generally provides to the persons responsible for managing risk for the affiliate group. These monthly reports are intended to allow the Commission to review and monitor the risk profile for the affiliate group, and alert the Commission to any deterioration in the affiliate group's financial position, operational position, or risk profile. 
+
+ 
+
+We changed the language of the rule to provide that an SIBHC is not required to file a separate monthly report when the monthly report would coincide with a quarter-end. The quarterly report requirement was expanded to include the information contained in the monthly report, a consolidating balance sheet and income statement for the affiliate group, the results of backtesting of all models used to compute allowable capital and allowances for market and credit risk, a description of all material pending legal or arbitration proceedings involving the SIBHC or any member of the affiliate group, and the aggregate amount of short-term, unsecured borrowings and lines of credit as to each material affiliate
+
+ 
+
+In addition, the rule, as amended, no longer includes a requirement that an SIBHC provide consolidated credit risk information regarding the 5 largest exposures to regulated financial institutions.<SUP> 42 </SUP> These exposures will be reflected as part of an SIBHC's response to paragraphs (a)(1)(iii)(A) and (B),<SUP> 43 </SUP> that require that an SIBHC provide the Commission with information regarding its 15 largest exposures to all persons. Thus, it would be duplicative to require that an SIBHC report its 5 largest exposures to financial institutions separately.<h>2. Quarterly reports. </h>
+
+Paragraph (a)(2) of new Rule 17i-6 requires that an SIBHC file a quarterly risk report with the Commission within 35 calendar days after the end of each quarter. In addition to all the information required to be filed on a monthly basis, the quarterly report must include: (i) consolidating financial statements (that break out data regarding each material affiliate into separate columns); (ii) the results of backtesting of each of the models used to compute allowable capital and allowances for market and credit risk; (iii) a description of all material pending legal or arbitration proceedings involving any member of the affiliate group that are required to be disclosed under generally accepted accounting principles; and (iv) the aggregate amount of debt scheduled to mature within twelve months from the most recent quarter by each affiliate that is a broker-dealer and any other material affiliate, together with the allowance for losses for such transactions. The information an SIBHC must file on a quarterly basis will provide the Commission with valuable insight as to the financial and operational condition of the SIBHC.
+
+ 
+
+As proposed, these reports are required to be filed within 35 calendar days after the end of each quarter, which is similar to the time frames for quarterly reports due from public companies that are "accelerated filers"<SUP> 44 </SUP> and are required to file information, documents, and reports pursuant to §§13(a) or 15(d) of the Exchange Act.<SUP> 45 </SUP> 
+
+ 
+
+New paragraph (a)(3) of Rule 17i-6 states that the SIBHC need not include consolidated and consolidating balance sheets and income statements with its quarterly report on the quarter-end that coincides with the SIBHC's fiscal year-end. This provision was revised so that an SIBHC that is a publicly traded company would not be required to file its financial statements, under this rule, prior to the date it would otherwise be required to file its financial statements with the Commission pursuant to rules applicable to public companies.<h>3. Organizational chart. </h>
+
+We have added a new paragraph (b) to Rule 17i-6, which would require that an SIBHC file an organizational chart with the Commission at least once each year as of its fiscal year-end. In addition, this paragraph would require that an SIBHC provide the Commission with quarterly updates if a material change in its organization has occurred. The Commission finds these organizational charts to be useful tools in reviewing holding company risk.<SUP> 46 </SUP><h>4. Additional reports. </h>
+
+Paragraph (c) of new Rule 17i-6<SUP> 47 </SUP> provides that an SIBHC may be required, upon receiving written notice from the Commission, to provide the Commission with additional financial or operational information. This rule provides the Commission with the flexibility to request additional reports, during periods of market stress or otherwise, to monitor the SIBHC's activities, financial condition, policies, systems for monitoring and controlling financial and operational risks, transactions and relationships among members of the affiliate group, and the extent to which the SIBHC has complied with the provisions of the Exchange Act and regulations prescribed and orders issued thereunder. In addition, if a broker-dealer affiliated with the SIBHC or the SIBHC were to file a notice, pursuant to Rule 17a-11 or Rule 17i-8, respectively, the Commission may request additional reports from the SIBHC to fully assess the situation giving rise to the filing of the notice.<h>5. Annual audit report. </h>
+
+Pursuant to paragraph (d)(1) of new Rule 17i-6,<SUP> 48 </SUP> an SIBHC must file an annual audit report containing consolidated financial statements and a supporting schedule containing statements of allowable capital, and allowances for market, credit, and operational risk. The audit must be conducted by a registered public accounting firm (as that term is defined at 15 U.S.C. 7201(a)(12)) in accordance the rules promulgated by the Public Company Accounting Oversight Board. Paragraph (d)(2) of new Rule 17i-6 requires that the annual audit report be "as of" the same date as the annual audit of the SIBHC's affiliated broker-dealer, and filed with the Commission not later than 65 calendar days after the end of the fiscal year. 
+
+ 
+
+Paragraph (f) of new Rule 17i-6<SUP> 49 </SUP> allows the Commission to grant extensions or exemptions from the annual audit requirement at the request of the SIBHC, or on its own motion. This provision will provide the Commission with flexibility to address firm-specific issues as they arise. 
+
+ 
+
+We did not adopt the proposed requirement that an SIBHC file supplemental reports on reportable conditions and inventory pricing and modeling with its annual audited statements<SUP> 50 </SUP> because the report on reportable conditions would generally be reported through Form 8-K for public companies, and the staff has found the supplemental report on inventory pricing and modeling filed by OTC derivatives dealers to be less useful than other information required to be filed.
+
+ 
+
+Rule 17i-6 no longer includes certain additional, technical paragraphs regarding the annual audit because, upon further consideration, they were found to be duplicative with the rules of the Public Company Accounting Oversight Board ("PCAOB"),<SUP> 51 </SUP> including their independence standards. 
+
+ 
+
+Paragraph (h) of new Rule 17i-6<SUP> 52 </SUP> specifies that all information obtained by the Commission pursuant to these rules will be accorded confidential treatment to the extent permitted by law.<SUP> 53 </SUP> We believe it is important to accord confidential treatment to the reports and statements filed pursuant to new Rule 17i-6 because these reports will contain information that generally would be non-public and highly sensitive.<h>6. Accountant's report on management controls - paragraph (d)(1)(ii) of Rule 17i-6 and amendment to paragraph (l) of existing Rule 17a-12. </h>
+
+Paragraph (d)(1)(ii) of new Rule 17i-6<SUP> 54 </SUP> requires that an SIBHC submit a supplemental report, prepared by its accountant, regarding the accountant's review of the internal risk management control system established and documented in accordance with Rule 17i-4. This review must be accomplished using procedures agreed-upon by the accountant and the SIBHC. The Rule also specifies that the agreed-upon procedures must be performed and the report must be prepared in accordance with the rules promulgated by the PCAOB. Pursuant to paragraph (d)(1)(ii) of new Rule 17i-6, the SIBHC must submit the agreed-upon procedures to the Commission prior to the accountant's initial review. 
+
+ 
+
+As explained in the Proposing Release, proposed paragraph (d)(1)(ii) of Rule 17i-6 differs from present Rule 17a-12(l), which requires that an accountant provide an opinion regarding an OTC derivatives dealer's compliance with its internal risk management control system. Auditors of OTC derivatives dealers have stated that the lack of standards for evaluating compliance with internal risk management control systems prevents them from issuing an opinion. For this reason, the Commission is also amending present Rule 17a-12(l) so that, similar to the requirements of paragraph (d)(1)(ii) of new Rule 17i-6, an OTC derivatives dealer would be required to submit a supplemental report, prepared by the accountant using agreed-upon procedures, regarding the accountant's review of the internal risk management control system established and documented in accordance with Rule 15c3-4. 
+
+ 
+
+Paragraph (d)(1)(ii) of new Rule 17i-6 and this amendment to Rule 17a-12(l) will require an accountant to review an SIBHC's or OTC derivatives dealer's internal risk management control systems and provide a report regarding whether the internal risk management control systems comply with the requirements of Rule 17i-4 or Rule 15c3-4, respectively, and whether the SIBHC or OTC derivatives dealer is following its internal risk management control systems.
+
+ 
+
+The Commission received no comments regarding its proposed amendments to Rule 17a-12(l), and is thus adopting this amendment to Rule 17a-12(l) as it was proposed.<h>G. Exemption from Risk Assessment Rules for Broker-Dealer Affiliates of SIBHCs. </h>
+
+The Commission presently receives financial and risk information about certain holding companies and other broker-dealer affiliates, including certain off-balance sheet items pursuant to the risk assessment rules<SUP> 55 </SUP> and through meetings with industry representatives. These supervisory tools generally have performed well by assisting the Commission in identifying, at an early stage, firms that are experiencing financial problems. 
+
+ 
+
+As part of this rulemaking, the Commission is amending Rules 17h-1T and 17h-2T<SUP> 56 </SUP> to exempt broker-dealers that are affiliated with an SIBHC from those rules. Rule 17h-1T requires that a broker-dealer maintain and preserve records and other information concerning the broker-dealer's holding companies, affiliates, or subsidiaries that are likely to have a material impact on the financial or operational condition of the broker-dealer. Rule 17h-2T requires that broker-dealers file quarterly reports with the Commission concerning the information required to be maintained and preserved under Rule 17h-1T. We believe it is appropriate to exempt a broker-dealer that is affiliated with an SIBHC because, pursuant to new Rule 17i-5, the SIBHC must make and retain documents substantially similar to those the broker-dealer is required to make and retain pursuant to Rule 17h-1T. Further, pursuant to new Rule 17i-6, the SIBHC would be required to make reports that are substantially similar to those the broker-dealer is required to make pursuant to 17h-2T. 
+
+ 
+
+The Commission received no comments regarding these proposed amendments to Rules 17h-1T and 17h-2T. Consequently, the Commission is adopting these amendments to Rules 17h-1T and 17h-2T as proposed.<h>H. Rule 17i-7: Calculations of Allowable Capital and Risk Allowances or Alternative Capital Assessment. </h>
+
+New Rule 17i-7 requires that an SIBHC compute allowable capital and allowances for market, credit, and operational risk on a consolidated basis for the affiliate group. These calculations are designed to be consistent with the Basel Standards, which will provide the Commission with a useful measure of the SIBHC's financial position and allow for greater comparability of an SIBHC's financial condition to that of other international securities firms and banking institutions. 
+
+ 
+
+New Rule 17i-7 does not set minimum group-wide capital levels for SIBHCs; rather, it requires the SIBHC to perform certain calculations that the Commission will review, when they are reported pursuant to the requirements of new Rule 17i-6, to gain an understanding of the financial and operational position of the affiliate group and identify any risks the SIBHC may pose its affiliated broker-dealer or other market participants. 
+
+ 
+
+As discussed below, we believe the new rules provide prudent parameters for measuring allowable capital and allowances for risk for the SIBHC.<h>1. Calculation of consolidated allowable capital. </h>
+
+Consistent with the Basel Standards,<SUP> 57 </SUP> new Rule 17i-7 requires that an SIBHC calculate "allowable capital" for the affiliate group that includes common shareholders' equity (less goodwill, certain deferred tax assets,<SUP> 58 </SUP> other intangible assets, and certain other deductions), certain cumulative and non-cumulative preferred stock,<SUP> 59 </SUP> certain properly subordinated debt, and hybrid capital instruments. As set forth in further detail in the rule, to be included in allowable capital the cumulative and non-cumulative preferred stock and the subordinated debt are subject to additional limitations based on comparisons of the individual components of allowable capital.<SUP> 60 </SUP> 
+
+ 
+
+The Commission received no comments regarding the requirement to calculate allowable capital set forth in paragraph (a) of proposed Rule 17i-7.
+
+ 
+
+As proposed, Rule 17i-7 would have required that all deferred tax assets be subtracted from common shareholders' equity when computing allowable capital. In order to remain consistent with the CSE Release,<SUP> 61 </SUP> certain deferred-tax assets are now includable in an SIBHC's allowable capital, subject to the limitations set forth in paragraph (a)(1)(ii). Generally, an SIBHC may include the amount of deferred-tax assets dependent upon future taxable income, so long as they do not exceed the lesser of the amount of deferred-tax assets the company expects to realize within one year of the calendar quarter-end date (based upon its projected taxable income for the year), or 10 percent of allowable capital.<SUP> 62 </SUP> Any deferred tax assets in excess of this amount must be subtracted from common shareholder's equity. There generally is no limit in allowable capital on the amount of deferred-tax assets that can be realized from taxes paid in prior carry-back years or from future reversals of existing taxable temporary differences.
+
+ 
+
+Paragraph (a)(3)(ii) of proposed Rule 17i-7 would have allowed an SIBHC to include subordinated debt as part of its allowable capital, subject to certain criteria intended to help assure that the subordinated debt provides a long-term source of working capital to the SIBHC and that it has many of the characteristics of capital. We did not receive any comments relating to this provision, so we are adopting paragraph (a)(3)(ii) of new Rule 17i-7 as it was proposed.
+
+ 
+
+As proposed, Rule 17i-7 would not have allowed an SIBHC to include hybrid capital instruments in its calculation of allowable capital. The proposing CSE Release also would have disallowed holding companies from using hybrid capital instruments as part of allowable capital.<SUP> 63 </SUP> In response to views expressed by firms that a holding company should be allowed to include hybrid capital instruments in the calculation of allowable capital to be more consistent with both the Basel Standards and the Federal Reserve's definition of Tier 1 and Tier 2 capital, Rule 17i-7, as adopted, allows an SIBHC to include hybrid capital instruments in its calculation of allowable capital, subject to the requirements set forth in paragraph (a)(4). This change is consistent with the final CSE Release. 
+
+ 
+
+Hybrid capital instruments generally have characteristics of both equity and debt. Generally, to be includable in allowable capital, hybrid capital instruments must be unsecured, fully paid, subordinated to general creditors, not redeemable before maturity at the option of the holder, available to participate in losses while the issuer is operating as a going concern, and must permit the issuer the option to defer interest payments if the issuer does not report a profit in the preceding annual period. Hybrid capital instruments may constitute no more than 15% of allowable capital, before deductions. 
+
+ 
+
+In the Proposing Release, the Commission solicited comment on whether long-term debt, subject to appropriate limitations, should be included in allowable capital. These same questions were asked in the CSE Release. Some firms expressed interest in favor of inclusion. Other firms expressed an interest that long-term debt be included as allowable capital during a phase-out period, suggesting that a swift phase-out of long-term debt would be difficult because of the amount of debt involved and could impact capital markets negatively, increasing funding costs. 
+
+ 
+
+To maintain consistency with the Basel Standards, holding companies may not include long-term debt in allowable capital. We understand, however, that an SIBHC might not be able to convert significant amounts of long-term debt to subordinated debt quickly without potentially incurring significant costs and causing market disruptions. Accordingly, as part of its Notice of Intention, the SIBHC may request to phase-out the inclusion of long-term debt as allowable capital over a period of up to three years<SUP> 64 </SUP> that begins upon adoption of these final rules. At the end of three years, an SIBHC no longer may include long-term debt in allowable capital. However, an SIBHC that wishes to extend the long-term debt phase-out beyond the initial three-year period may amend its notice of intention, pursuant to new Rule 17i-2(c)(2), to include long-term debt in its allowable capital calculation for an additional two years. The Commission will determine if the amount of the SIBHC's long-term debt and market conditions warrant an extension.<SUP> 65 </SUP><h>2. Calculation of consolidated allowance for market risk. </h>
+
+Paragraph (b) of new Rule 17i-7 requires that an SIBHC compute a consolidated allowance for market risk for its proprietary positions using either a VaR model or, if there is not adequate historical data to support a VaR model, an alternative method.<SUP> 66 </SUP> An SIBHC must provide the Commission with information regarding any alternative method for computing allowance for market risk for particular positions during the Commission's review of its Notice of Intention so that the Commission can evaluate the method to determine whether it adequately measures the risks of those positions. The VaR of the positions must be multiplied by an appropriate multiplication factor<SUP> 67 </SUP> to provide adequate capital during periods of market stress. The computation of the allowance for market risk is consistent with the calculation of market risk charges under the Basel Standards.
+
+ 
+
+Paragraph (b)(1) of new Rule 17i-7 requires that each VaR model used to calculate allowance for market risk meet the qualitative and quantitative requirements set forth in rules the Commission is also adopting today in a separate release, Rule 15c3-1e(d).<SUP> 68 </SUP> The qualitative and quantitative standards set forth in Rule 15c3-1e(d) are similar to the requirements for models used by OTC derivatives dealers and are consistent with the Basel Standards. The qualitative requirements address four aspects of an SIBHC's risk management system: (i) the model must be integrated into, and thus relied upon, in the SIBHC's daily risk management process; (ii) the model must undergo periodic reviews by the SIBHC's internal audit staff and annual reviews by an accountant; (iii) the SIBHC must conduct backtesting of the model, the results of which must be used by the SIBHC to determine the multiplication factor to be used when calculating market and credit risk, and (iv) for purposes of incorporating specific risk into a VaR model, a firm must demonstrate that it has methodologies in place to capture liquidity, event, and default risk adequately for each position.<SUP> 69 </SUP> The quantitative requirements set forth basic standards for each model including, (i) for purposes of determining market risk, the model must use a 99 percent, one-tailed confidence level, with price changes equivalent to a ten business-day movement in rates and prices, (ii) the model must use an effective historical observation period of at least one year, and the firm must consider the effects of market stress when constructing the model, and historical data sets must be updated at least monthly and re-assessed whenever market prices or volatilities change significantly, and (iii) the model must take into account and incorporate all significant identifiable market risk factors applicable to the affiliate group's positions.
+
+ 
+
+The Commission received no comments regarding the requirement that an SIBHC calculate an allowance for market risk as set forth in paragraph (b) of proposed Rule 17i-7.
+
+ 
+
+ As proposed, Rule 17i-7 would have required that an SIBHC compute an allowance for market risk daily. Firms argued that an SIBHC should not be required to calculate allowance for market risk daily because of the burden this would impose on firms and because the information only must be reported to the Commission monthly. The rule, as adopted, no longer requires that an SIBHC compute an allowance for market risk daily. Further, as adopted, under Rule 17i-5, an SIBHC must make and keep current a record of monthly computations of allowable capital and allowances for market, credit, and operational risk. We also note that, under Rule 17i-6, an SIBHC must report a consolidated allowance for market risk to the Commission monthly. As part of the qualitative and quantitative requirements for the use of models, an SIBHC must compute VaR on its positions on a daily basis as part of its daily risk management process. These changes are consistent with the CSE Release.<h>3. Calculation of consolidated allowance for credit risk. </h>
+
+Paragraph (c) of new Rule 17i-7 requires that an SIBHC compute a consolidated allowance for credit risk using either the methodology set forth in paragraph (c)(1) of Rule 17i-7, which is similar to the proposed New Basel Capital Accord , or, pursuant to paragraph (c)(2) of Rule 17i-7 (if the Commission approves the SIBHC's request), a calculation consistent with the present Basel Standards. This choice provides SIBHCs with flexibility while the Basel Standards are under review. 
+
+ 
+
+As proposed, Rule 17i-7 would have required that an SIBHC compute an allowance for credit risk daily. In response to comments made by firms, the rule no longer requires that an SIBHC compute an allowance for credit risk daily. Pursuant to Rule 17i-5, as adopted, an SIBHC must make and keep current a record of monthly computations of its allowance for credit risk. In addition, an SIBHC must calculate its current exposures on a daily basis as part of its internal risk management control system. 
+
+ 
+
+The methodology an SIBHC must use to compute its allowance for credit risk, as set forth in paragraph (c)(1) of new Rule 17i-7, requires that an SIBHC multiply the credit equivalent amount of certain asset and off-balance sheet items by the appropriate credit risk weight of the asset or off-balance sheet item, and then multiply the result by 8%.<SUP> 70 </SUP> In general, the asset and off-balance sheet items subject to this allowance are loans and loan commitments receivable, receivables arising from derivatives contracts, repurchase and reverse repurchase agreements, stock loans, stock borrows, structured financial products, credit substitutes, and other extensions of credit. 
+
+ 
+
+The credit equivalent amount of receivables relating to derivatives contracts, repurchase and reverse repurchase agreements, stock loans, stock borrows, and other similar collateralized instruments is the sum of the SIBHC's maximum potential exposure to a counterparty, multiplied by the appropriate multiplication factor, plus the SIBHC's current exposure to that counterparty. The Commission believes that calculating an allowance for credit risk using a maximum potential exposure computed using a VaR model is a more precise method than using a "notional add-on" to approximate maximum potential exposure.<SUP> 71 </SUP> In addition, Commission reviews of risk management systems of large U.S. broker-dealers indicate that these firms generally use maximum potential exposure to measure and manage the credit risk of their portfolios. Consequently, many of these firms already have systems in place to calculate maximum potential exposure using VaR models.
+
+ 
+
+ISDA, in its comment letter, indicated that it strongly supported the Commission's proposal to allow firms to calculate current exposure and maximum potential exposure at the counterparty (as opposed to the transactional) level, recognizing the effect of netting arrangements, taking account of collateral posted by the counterparty, and recognizing the protection value of credit derivatives. ISDA also indicated that it believes that OTC derivatives and securities financing transactions (such as repurchase agreements) often exhibit similar counterparty risk characteristics and should receive uniform treatment, and that Proposed Rule 17i-7 does provide for uniform treatment of these types of instruments.<h>i. Credit equivalent amount. </h>
+
+Consistent with the proposed New Basel Capital Accord , Paragraph (c)(1)(i) of new Rule 17i-7 establishes the manner in which the "credit equivalent amount" of a balance sheet item should be calculated. The credit equivalent amounts for receivables relating to: (i) loans and loan commitments receivable; (ii) derivatives contracts, repurchase agreements, reverse repurchase agreements, stock loans, stock borrows, and other similar collateralized transactions; and (iii) other assets would be calculated differently, and are set forth in paragraphs (c)(1)(i)(A), (B), and (C) of new Rule 17i-7, respectively. 
+
+ 
+
+As proposed, paragraph (c)(1)(i)(B)( 2 ) of Rule 17i-7 would have included a 5% credit conversion factor for margin loans. Bear Stearns, in its comment letter, argued that its experience with margin loans suggested that such a level is unjustifiably high. Bear Stearns stated that the requirements of Regulation T and New York Stock Exchange Rule 431, combined with strict operational controls, substantially minimize risk of loss. Thus, Bear Stearns recommended that firms be allowed to adopt a portfolio-specific risk-based methodology, consistent with the proposed New Basel Capital Accord , for determining the appropriate amount of capital related to margin lending regardless of whether the loan is held at a broker-dealer or a non-broker-dealer affiliate.
+
+ 
+
+After considering these comments, we have determined that it is appropriate to delete proposed paragraph (c)(1)(i)(B)( 2 ). Consistent with the Basel Standards, an SIBHC may apply to use the VaR-based exposure treatment under paragraph (c)(1)(i)(B) for its margin loans as a "similar collateralized transaction." For unrated counterparties, the Commission could determine, after a review of the description of the margin loans in the SIBHC's Notice of Intention, that the margin loans could be treated as a pool with a very low loss history. In this case, the SIBHC could use internal estimates of exposure at default that take into account the loss history for the pool.<h>ii. Current exposure. </h>
+
+We have revised the definition of current exposure as set forth in paragraph (c)(1)(i)(D) of new Rule 17i-7. The rule, as adopted, defines the term "current exposure" to be the current replacement value of the counterparty's positions, including the effect of netting agreements with that counterparty,<SUP> 72 </SUP> and taking into account the value of collateral from that counterparty.<SUP> 73 </SUP> As adopted, Rule 17i-7 no longer requires that the SIBHC subtract the fair market value of any credit derivatives that specifically change the exposure to the counterparty.<SUP> 74 </SUP> Instead, pursuant to paragraph (c)(1)(iii), an SIBHC may include in its Notice of Intention (or in an amendment thereto) a proposal for use of credit derivatives in its calculation of allowance for credit risk.<SUP> 75 </SUP> Requiring subtraction of the fair market value of credit derivatives could reduce the allowance for credit risk without consideration of the SIBHC's credit risk exposure to the credit derivative counterparty. The Commission will be able to consider that exposure in its review of an SIBHC's Notice of Intention (or an amendment thereto).<h>iii. Maximum potential exposure. </h>
+
+We have revised the definition of maximum potential exposure as set forth in paragraph (c)(1)(i)(E) of new Rule 17i-7. The rule, as adopted, defines the term "maximum potential exposure" to be the VaR of the counterparty's positions, after applying the effect of netting agreements with that counterparty,<SUP> 76 </SUP> and taking into account the value of collateral from that counterparty and the current replacement value of the counterparty's positions.<SUP> 77 </SUP> Paragraph (c)(1)(i)(E) of new Rule 17i-7 also states that maximum potential exposure must be calculated using a VaR model that meets the same qualitative and quantitative standards as required for models used to compute the allowance for market risk.<SUP> 78 </SUP> Similar to the changes made to the definition of current exposure, paragraph (c)(1)(i)(E) no longer requires that an SIBHC subtract the fair market value of any credit derivatives that specifically change the exposure to the counterparty because requiring subtraction of the fair market value of credit derivatives could reduce the allowance for credit risk without consideration of the SIBHC's credit risk exposure to the credit derivative counterparty. As was stated above, pursuant to paragraph (c)(1)(iii), an SIBHC may propose to use credit derivatives in its calculation of allowance for credit risk in its Notice of Intention (or in an amendment thereto). 
+
+ 
+
+Bear Stearns, in its comment letter, suggested that the time horizon for VaR models used for purposes of determining maximum potential exposure should be ten business days if the position is marked to market daily and a written agreement enforceable against the counterparty provides that the broker-dealer or its affiliate may call for additional collateral daily. Paragraph (e)(2)(ii) of proposed § 240.15c3-1e, proposed for comment in the CSE Proposing Release,<SUP> 79 </SUP> would have required the VaR model to use a time horizon of one year. In response to comments received, including Bear Stearns' comment, paragraph (d)(2)(ii) of § 240.15c3-1e<SUP> 80 </SUP> as adopted allows a firm to use a shorter time horizon to calculate MPE under specified conditions. More specifically, the Commission may approve a shorter time horizon, if there is a valid collateral agreement, based on a demonstration by the firm that it has sufficient systems and controls, including those necessary to mark positions to market daily and promptly call for and track collateral posted, and promptly liquidate positions as may be necessary to avoid loss by the firm. This modification of the time horizon requirement should help a firm to maintain a liquid capital basis while promoting operational efficiency.<h>iv. Credit risk weights. </h>
+
+Paragraph (c)(1)(ii) of new Rule 17i-7 provides that credit risk weights must generally be determined according to the standards published by the Basel Committee, as modified from time to time.<SUP> 81 </SUP> In its Notice of Intention or an amendment to its Notice of Intention, an SIBHC may propose to use internal credit ratings or internal calculations when computing its allowance for credit risk.<SUP> 82 </SUP> In addition, paragraph (c)(1)(ii)(B) of new Rule 17i-7 allows SIBHCs to adjust credit risk weights of receivables covered by certain forms of credit protection.<SUP> 83 </SUP> As adopted, Rule 17i-7 would allow an SIBHC to adjust credit risk weights of receivables covered by certain derivatives (such as credit default swaps and similar instruments used to manage credit risk) if the SIBHC has requested, in its Notice of Intention of an amendment thereto, to use these derivatives to adjust credit risk weights. Allowing an SIBHC to adjust credit risk weights of receivables covered by certain credit derivatives could have reduced credit risk weights without consideration of the SIBHC's credit exposure to the credit derivative counterparty. Thus, we decided only to permit this adjustment of credit risk weights where we have had a chance to consider that exposure.<h>4. Calculation of consolidated allowance for operational risk. </h>
+
+Pursuant to new Rule 17i-7(d), an SIBHC must calculate an allowance for operational risk in accordance with the standards published by the Basel Committee. The Basel Committee has proposed three methods for the calculation of an allowance for operational risk (i) the basic approach; (ii) the standardized approach; and (iv) the advanced measurement approach. For a complete discussion of the proposed operational risk calculation, please refer to the proposed New Basel Capital Accord .<SUP> 84 </SUP> The basic and standardized approach calculations are based on fixed percentages. Generally, under the basic approach, the allowance is 15% of consolidated annual revenues net of interest expense averaged over the past three years. The standardized approach maps these revenues to eight business lines. The allowance for operational risk is then a percentage of revenues net of interest expense, ranging from 12% to 18%, attributed to each business line. The advanced measurement approach requires a system for tracking and controlling operational risk and provides that the allowance for operational risk is the largest operational loss that might be expected over a one-year period with 99.9% confidence. 
+
+ 
+
+One commenter stated that, as currently structured, there is a perverse incentive built into the standardized approach for computing operational risk in that firms built around business lines with a beta factor of 18% (e.g., corporate finance, trading and sales, and payments and settlements) end up with a higher capital charge than if they were to remain on the basic indicator approach. Thus, the commenter argued that this structural defect should be removed. 
+
+ 
+
+We are adopting paragraph (d) of Rule 17i-7 as it was proposed. The rules are intended to provide SIBHCs with flexibility by permitting the computation of operational risk in accordance with the Basel Standards. We recognize, however, that the proposed New Basel Capital Accord has not been adopted in its final form and that we may need to further tailor our operational risk requirements. If, in finalizing the New Basel Capital Accord , the Basel Committee changes the operational risk computations or charges, we will review and consider amending this Rule.<h>5. General discussion of Basel pillars. </h>
+
+These amendments apply a capital reporting requirement consistent with the Basel Standards to an SIBHC. The Basel Committee is currently developing the proposed New Basel Capital Accord that specifies three "pillars" for the group-wide supervision of internationally active banks and financial enterprises. The first pillar, "minimum regulatory capital" requirements, requires calculations for credit and operational risk and, for firms with significant trading activity, market risk. The second pillar, "supervisory review," requires that capital be assessed relative to overall risks and that supervisors review and take action in response to those assessments.
+
+ 
+
+The third pillar of the proposed New Basel Capital Accord requires certain disclosures that are intended to allow market participants to assess key pieces of information about, for example, the capital, risk exposures, and risk assessment processes of the institution. The purpose of the third pillar is to complement the minimum capital requirements and the supervisory review process by encouraging market discipline. Specific disclosure requirements would apply to all institutions that use the proposed New Basel Capital Accord and would encompass capital, credit risk, credit risk mitigation, securitization, market risk, operational risk, and interest rate risk. 
+
+ 
+
+We requested comment on whether U.S. broker-dealers and their holding companies and affiliates should be required to make additional disclosures to meet the requirements of the third pillar of the proposed New Basel Capital Accord . No comments were received in response to the request made in the Proposing Release.
+
+ 
+
+The securities industry has taken important steps to enhance public disclosure of material risks. For example, in June 1999, the Counterparty Risk Management Policy Group (CRMPG) (representing 12 major securities firms and banks) published a report on Improving Counterparty Risk Management Practices.<SUP> 85 </SUP> In addition, a private-sector Working Group on Public Disclosure (representing 11 major securities firms and banks), issued a report in January 2001.<SUP> 86 </SUP> The group recommended enhanced and more frequent public disclosure of financial information by banking and securities organizations. It also said financial information should be disclosed based on a firm's internal methodologies and exposure categories, and that quantitative information on a firm's risk exposure should be balanced with qualitative information describing its risk management process.
+
+ 
+
+The Commission staff has taken a leading role to enhance public disclosure by financial intermediaries. It was a member of the Multidisciplinary Working Group on Enhanced Disclosure (Fisher II working group) that provided advice to its sponsoring organizations<SUP> 87 </SUP> on steps that would advance the state of financial institutions' disclosures of financial risks in order to enhance the role of market discipline. More recently, Commission staff chaired a Joint Forum<SUP> 88 </SUP> Working Group on Enhanced Disclosure (JFWGED) established by the Basel Committee, IAIS and IOSCO, seeking to follow up on the recommendations contained in the Fisher II report.<SUP> 89 </SUP> The JFWGED expects to publish its report in shortly.
+
+ 
+
+However, some issues remain. For instance, broker-dealers are concerned that under new, enhanced disclosure requirements they may be required to disclose sensitive, proprietary information. As the proposed New Basel Capital Accord has not yet been finalized, we do not believe it would be appropriate to adopt additional disclosure requirements as part of these amendments.<h>I. Rule 17i-8: Notification Requirements for SIBHCs. </h>
+
+Paragraph (a) of new Rule 17i-8 requires that an SIBHC immediately notify the Commission upon the occurrence of certain events. These events include: (i) the occurrence of certain backtesting exceptions; (ii) the early warning indications of low capital as the Commission may agree; (iii) a material affiliate declares bankruptcy or otherwise becomes insolvent; (iv) the SIBHC becomes aware that a credit rating agency intends to decrease its evaluation of the creditworthiness of a material affiliate or the credit rating assigned to one or more outstanding short or long-term obligations of a material affiliate; (v) the SIBHC files a Form 8-K with the Commission; (vi) the SIBHC becomes aware that a financial regulatory agency or self-regulatory organization has taken certain regulatory actions against a material affiliate; or (vii) the SIBHC becomes ineligible to be supervised by the Commission as a SIBHC ( e.g ., the SIBHC purchases an insured bank, or the SIBHC's affiliated broker-dealer's tentative net capital falls below $100 million).<SUP> 90 </SUP> We believe that the events described in items (i) through (vi) above would indicate a decline in the financial and operational well-being of the firm. Were an SIBHC to file a notification regarding these events, as required by new Rule 17i-8, the Commission may be prompted to request additional reports, as contemplated by Rule 17i-6(c), and otherwise begin to monitor the SIBHC's condition more closely. Were an SIBHC to file a notification regarding the event described in item (vii) above, the Commission would review whether it should continue supervising the IBHC as an SIBHC.
+
+ 
+
+The Commission received no comments regarding proposed Rule 17i-8.
+
+ 
+
+As proposed, paragraph (a) of Rule 17i-8 did not include a requirement to notify the Commission when the supervised investment bank holding company or any material affiliate files a Form 8-K with the Commission. The Commission requested comment on the proposed notification requirement, and in particular whether the events that would trigger the notification requirement are appropriate and whether other triggering events should be included. The Commission has given additional consideration to the questions raised in its request for comment and has determined that filing a Form 8-K may indicate that a major change has occurred at the SIBHC or material affiliate, and that the Commission may want to monitor the SIBHC more closely to determine, for instance, that internal risk management controls remain robust despite that change. 
+
+ 
+
+As proposed, paragraph (b) of Rule 17i-8 would have required that an SIBHC file a written report with the Commission if there was a material change (along with a description of that change) in the ownership or organization of the affiliate group, the status of any affiliate that is material, or the major business functions of any material affiliate. Paragraph (b) no longer requires that an SIBHC notify the Commission of changes to mathematical models and changes in organizational control because an SIBHC must amend its Notice of Intention if it changes a mathematical model pursuant to new Rule 17i-2(c)(2), and must file organizational charts with the Commission annually (or quarterly if there has been a material change) pursuant to new Rule 17i-6(b).<SUP> 91 </SUP> Thus, we eliminated the notification requirement of proposed paragraph (b) of Rule 17i-8, because the information was duplicative of information already required to be filed with the Commission. 
+
+ 
+
+Paragraph (c) of new Rule 17i-8 specifies the manner in which these notices and reports should be provided to the Commission. In addition, paragraph (c) specifies that the notices and reports filed with the Commission pursuant to Rule 17i-8 will be accorded confidential treatment.<SUP> 92 </SUP> We believe it is important to accord confidential treatment to the notices and reports an SIBHC must provide pursuant to new Rule 17i-8 because the information contained in those notices and reports will generally be highly sensitive, non-public business information.
+
+ 
+
+Paragraph (d) of new Rule 17i-8 allows the Commission to grant extensions or exemptions from the notification provisions at the request of the SIBHC, or on its own motion. This paragraph will provide the Commission with flexibility to address firm-specific issues as they arise. 
+
+ 
+
+We believe the requirements set forth in new Rule 17i-8 are necessary to keep the Commission informed as to the SIBHC's activities, financial condition, policies, systems for monitoring and controlling financial and operational risks, and transactions and relationships between any broker or dealer affiliate of the SIBHC and the extent to which the SIBHC has complied with the provisions of the Act and the regulations promulgated thereunder.<h>V. AMENDMENT TO RULE 30-3. </h>
+
+The Commission has adopted amendments to Rule 30-3 of its Rules of Organization and Program Management governing delegations of authority to the Director of the Division of Market Regulation ("Director").<SUP> 93 </SUP> The amendments delegate to the Director the authority to: (1) review amendments to a supervised investment bank holding company's Notice of Intention required by paragraph (c)(2) of Rule 17i-2 (17 CFR 240.17i-2(c)(2)), and to approve such amendments pursuant to paragraph (d)(2)(ii) of Rule 17i-2 (17 CFR 240.17i-2(d)(2)(ii)) after reviewing the amended notice of intention to determine whether the amendment is necessary or appropriate in furtherance of the purposes of section 17 of the Act (15 U.S.C. 78q); (2) to consider requests by supervised investment bank holding companies for exemptions from the requirement, and extensions of time within which, to file reports required by Rule 17i-6 (17 CFR 240.17i-6), and to grant or deny such requests pursuant to paragraph (f) of that Rule (17 CFR 240.17i-6(f)); and (3) to consider requests by supervised investment bank holding companies for exemptions from the requirement, and extensions of time within which, to file notices required by Rule 17i-8 (17 CFR 240.17i-8), and to grant or deny such requests pursuant to paragraph (d) of that Rule (17 CFR 240.17i-8(d)).
+
+ 
+
+The Commission is delegating to the Director the authority to approve amendments to SIBHCs' Notices of Intention regarding changes to mathematical models used to calculate allowances for market or credit risk, or to the SIBHC's internal risk management control system after reviewing the amended notice of intention to determine whether the amendment is necessary or appropriate in furtherance of the purposes of section 17 of the Act (15 U.S.C. 78q). The Commission is delegating to the Director its authority for the limited purposes described above. 
+
+ 
+
+These delegations of authority to the Director are intended to conserve Commission resources by permitting the staff to review and to issue orders regarding amendments to an SIBHC's Notice of Intention pursuant to new Rule 17i-2, and consider and grant SIBHCs' requests for exemptions from, and extensions of time within which to file, reports required by new Rule 17i-6 and notices required to be filed by new Rule 17i-8. The Commission anticipates that the delegation of authority will facilitate effective review. Nevertheless, the staff may submit matters to the Commission for consideration as it deems appropriate.<SUP> 94 </SUP> 
+
+ 
+
+The Commission finds, in accordance with the Administrative Procedure Act, 5 U.S.C. 553(b)(3)(A), that this amendment to Rule 30-3 relates solely to agency organization, procedure, or practice. Accordingly, notice and opportunity for public comment, as well as publication 30 days before its effective date are unnecessary.<h>VI. PAPERWORK REDUCTION ACT. </h>
+
+Certain provisions of new Rules 17i-1 through 17i-8 and the amendments to Rules 17h1-T and 17h-2T contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995.<SUP> 95 </SUP> Consequently, the Commission submitted the proposed new rules and rule amendments to the Office of Management and Budget ("OMB") in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. The titles for the collections of information are (i) Rules 17h-1T and 17h-2T Risk Assessment Rules; (ii) Rule 17i-2 Notice of Intention to be Supervised by the Commission as a Supervised Investment Bank Holding Company; (iii) Rule 17i-3 Withdrawal from Supervision as an Supervised Investment Bank Holding Company; (iv) Rule 17i-4 Internal Risk Management Control Systems Requirements for Supervised Investment Bank Holding Companies; (v) Rule 17i-5 Record Creation, Maintenance, and Access Requirements for Supervised Investment Bank Holding Companies; (vi) Rule 17i-6 Reporting Requirements for Supervised Investment Bank Holding Companies; and (vii) Rule 17i-8 Notification Requirements for Supervised Investment Bank Holding Companies. OMB approved these collections of information and assigned them OMB Control Nos. 3235-0410, 3235-0592, 3235-0593, 3235-0594, 3235-0590, 3235-0588, and 3235-0591, respectively. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+
+ 
+
+In the Proposing Release,<SUP> 96 </SUP> the Commission solicited comment on these "collection of information" requirements. The Commission received no comments that specifically addressed the Paperwork Reduction Act portion of the Proposing Release. Because Rules 17i-1 through 17i-8 and the amendments to Rules 17h1-T and 17h-2T, as adopted, are substantially similar to those proposed, the SEC continues to believe that the estimates published in the Proposing Release regarding the proposed collection of information burdens associated with new Rules 17i-1 through 17i-8 and the amendments to Rules 17h1-T and 17h-2T are appropriate. However, we have decreased our estimate of the number of respondents because we expect fewer IBHC's to file Notices of Intention to be supervised as SIBHCs than originally estimated in light of the limited interest that has been expressed with regard to SIBHC supervision.<h>A. Collection of Information Under the Amendments to Rules 17h-1T and 17h-2T and New Rules 17i-2 through 17i-8. </h>
+
+New Rules 17i-2 through 17i-8 create a framework for Commission supervision of SIBHCs. The collections of information included in these rules are necessary to allow the Commission to 1) effectively determine whether SIBHC supervision is necessary or appropriate in furtherance of the purposes of § 17 of the Act and 2) supervise the activities of these SIBHCs. These rules also enhance the Commission's supervision of the SIBHCs' subsidiary broker-dealers through collection of additional information and inspections of affiliates of those broker-dealers. Regulatory oversight pursuant to this system is voluntary, and eligible IBHCs are not required to be supervised in this manner. This framework includes procedures through which an IBHC may file a Notice of Intention to become supervised by the Commission as an SIBHC, as well as recordkeeping and reporting requirements for SIBHCs. 
+
+ 
+
+The amendments to Rules 17h-1T and 17h-2T<SUP> 97 </SUP> exempt broker-dealers that are affiliated with an SIBHC from those rules and thus reduce their "collection of information" requirements. This exemption was designed to eliminate duplicative recordkeeping and reporting requirements.<h>B. Proposed Use of Information. </h>
+
+The Commission intends to use the information collected under the new Rules to determine whether SIBHC supervision is necessary or appropriate in furtherance of the purposes of §17 of the Act and to monitor the financial condition, risk management, and activities of SIBHCs on a group-wide basis. In particular, these rules allow the Commission access to important information regarding activities of a broker-dealer's affiliates that could impair the financial and operational stability of the broker-dealer or the SIBHC.<h>C. Respondents. </h>
+
+An IBHC is eligible to be supervised by the Commission as an SIBHC only if it: (1) has a subsidiary broker or dealer that can evidence that it has a substantial presence in the securities business; and (2) is not (i) affiliated with an insured bank (with certain exceptions) or a savings association, (ii) a foreign bank, foreign company, or a company that is described in section 8(a) of the International Banking Act of 1978, or (iii) a foreign bank that controls a corporation chartered under section 25A of the Federal Reserve Act.<SUP> 98 </SUP> Pursuant to paragraph (d)(2)(i)(B) of Rule 17i-2, the Commission would not consider it to be necessary or appropriate to supervise an IBHC unless the IBHC can demonstrate that it owns of controls a broker-dealer that has a substantial presence in the securities business (which may be demonstrated by a showing that the broker-dealer maintains tentative net capital of at least $100 million).
+
+ 
+
+As of September 30, 2003, approximately 115 registered broker-dealers reported their tentative net capital as being between $100 million and $1 billion.<SUP> 99 </SUP> Many of these broker-dealers are affiliated with another broker-dealer that reported its tentative net capital as being more than $100 million. Of these 115 registered broker-dealers, approximately 35 could not be supervised by the Commission as an SIBHC due to the fact that each is either: (i) affiliated with an insured bank (with certain exceptions) or a savings association,<SUP> 100 </SUP> (ii) a foreign bank, foreign company, or a company that is described in section 8(a) of the International Banking Act of 1978, or (iii) a foreign bank that controls a corporation chartered under section 25A of the Federal Reserve Act.<SUP> 101 </SUP> In addition, some broker-dealers may not be active in jurisdictions that require securities firms to demonstrate that they have consolidated supervision at the holding company level that is equivalent to EU consolidated supervision, or may not find it to be cost-effective to register as an SIBHC for other reasons. Thus, the Commission estimates, for PRA and cost-benefit analysis purposes, that three IBHCs will file notices of intent to be supervised by the Commission as SIBHCs.<h>D. Reporting and Recordkeeping Burdens.1. Amendments to Rules 17h-1T and 17h-2T. </h><h>1. Amendments to Rules 17h-1T and 17h-2T. </h>
+
+The amendments to Rules 17h-1T and 17h-2T<SUP> 102 </SUP> exempt broker-dealers that are affiliated with an SIBHC from those rules and thus reduce their "collection of information" requirements. Rule 17h-1T requires that a broker-dealer maintain and preserve records and other information concerning the broker-dealer's holding companies, affiliates, or subsidiaries that are likely to have a material impact on the financial or operational condition of the broker-dealer. Rule 17h-2T requires broker-dealers to file with the Commission quarterly reports concerning the information required to be maintained and preserved under Rule 17h-1T. The present PRA burden for broker-dealers that are presently reporting pursuant to Rules 17h-1T and 17h-2T is 24 hours per year for each broker-dealer respondent. The estimated three firms therefore would have their annual burden reduced by an aggregate of 72 hours per year.<h>2. Rule 17i-2. </h>
+
+New Rule 17i-2 requires that an IBHC file a Notice of Intention if it wants to become supervised by the Commission as an SIBHC. The Notice of Intention must set forth certain information and include a number of documents. In addition, an SIBHC must submit amendments to its Notice of Intention if certain information becomes incorrect or if it makes certain material changes. The Commission designed Rule 17i-2 so an IBHC could compile and submit existing documents with its Notice of Intention (as opposed to requiring that an IBHC create additional documents) in order to decrease any costs or burdens imposed by this Rule.
+
+ 
+
+As stated previously in section VI.C., we estimate that approximately three IBHCs will file Notices of Intention to become SIBHCs. We estimate that each IBHC that files a Notice of Intention to become supervised by the Commission will take approximately 900 hours to draft a Notice of Intention, compile the various documents to be included with the Notice of Intention, and work with the Commission staff. Further, we believe that an IBHC will have an attorney review its Notice of Intention, and we estimate that it will take the attorney approximately 100 hours to complete such a review. Consequently, we estimate the total burden for all three firms to be approximately 3,000 hours.<SUP> 103 </SUP> We believe this will be a one-time burden. 
+
+ 
+
+Rule 17i-2 also requires that an IBHC/SIBHC<SUP> 104 </SUP> amend its Notice of Intention on an ongoing basis. We estimate that an IBHC/SIBHC will take approximately 2 hours each month to update or amend its Notice of Intention, as necessary. Thus, we estimate that it will take the three IBHC/SIBHCs, in the aggregate, about 72 hours each year<SUP> 105 </SUP> to update or amend their Notices of Intention.<h>3. Rule 17i-3. </h>
+
+Rule 17i-3 provides a method by which an SIBHC may withdraw from Commission supervision as an SIBHC. An SIBHC that wishes to withdraw from Commission supervision may do so by filing a notice of withdrawal with the Commission. 
+
+ 
+
+Due to the benefits and costs associated with becoming supervised by the Commission as an SIBHC, we believe that an IBHC will carefully consider whether to file a notice of withdrawal. We estimate that one SIBHC may wish to withdraw from Commission supervision as an SIBHC over a ten-year period. 
+
+ 
+
+We estimate that, for an SIBHC that intends to withdraw from Commission supervision as an SIBHC, it would take one attorney approximately 24 hours to draft a withdrawal notice and submit it to the Commission. Further, we believe the SIBHC will have a senior attorney or executive officer review the notice of withdrawal before submitting it to the Commission, and that it will take such person 8 hours to conduct such a review. Thus, we estimate that the annual, aggregate burden of withdrawing from Commission supervision as an SIBHC will be approximately 3.2 hours each year.<SUP> 106 </SUP><h>4. Rule 17i-4. </h>
+
+Rule 17i-4 requires that an SIBHC have in place an internal risk management control system appropriate for its business and organization. An SIBHC must consider, among other things, the sophistication and experience of its operations, risk management, and audit personnel, as well as the separation of duties among these personnel, when designing and implementing its internal control system's guidelines, policies, and procedures. These requirements are designed to result in control systems that adequately address the risks posed by the firm's business and the environment in which it is being conducted. In addition, these requirements enable an SIBHC to implement specific policies and procedures unique to its circumstances.
+
+ 
+
+Rule 17i-4 also requires that an SIBHC periodically review its internal risk management control system for integrity of the risk measurement, monitoring, and management process, and accountability, at the appropriate organizational level, for defining the permitted scope of activity and level of risk. 
+
+ 
+
+In implementing its policies and procedures, an SIBHC must document and record its system of internal risk management controls. In particular, an SIBHC must document its consideration of certain issues affecting its business when designing its internal controls. An SIBHC also must prepare and maintain written guidelines that discuss its internal control system. 
+
+ 
+
+The information to be collected under Rule 17i-4 is essential to the supervision of SIBHCs and their compliance with the Commission's Rules. More specifically, the requirement that an SIBHC document the planning, implementation, and periodic review of its risk management controls is designed to ensure that all pertinent issues are considered, that the risk management controls are implemented properly, and that they continue to adequately address the risks faced by SIBHCs. 
+
+ 
+
+As stated previously in section VI.C., we estimate that approximately three IBHCs will file Notices of Intention to be supervised by the Commission as SIBHCs. We further estimate that the average amount of time an SIBHC will spend assessing its present structure, businesses, and controls, and establishing and documenting its risk management control system will be about 3,600 hours, and that this would be a one-time burden. In addition, we estimate that an SIBHC will spend approximately 250 hours each year maintaining its internal risk management control system. Thus, we estimate that the total initial burden for all SIBHCs will be approximately 10,800 hours<SUP> 107 </SUP> and the continuing annual burden would be about 750 hours.<SUP> 108 </SUP> 
+
+ 
+
+Internationally active firms generally already have in place risk management practices, and generally will review and improve their risk management practices notwithstanding the requirements of these rules. However, we recognize that, to the extent an IBHC presently has a group-wide internal risk management control system, those systems may not take into account all of the elements and issues required by Rule 17i-4. In addition, firms may not have documented their consideration of these elements and issues, or other aspects of their internal risk management control systems, as the Rule requires.<h>5. Rule 17i-5. </h>
+
+Pursuant to Rule 17i-5, an SIBHC must make and keep current certain records relating to its business. In addition, it must preserve those and other records for certain prescribed time periods. The purpose of this rule is to require that the SIBHC create and maintain records that would allow the Commission to evaluate SIBHC compliance with the rules to which it is subject. We expect that any burden under the Rule would be minimal because the information that is required under the Rule is information a prudent IBHC that manages risk on a group-wide basis would maintain in the ordinary course of its business. 
+
+ 
+
+Pursuant to Rule 17i-5, an SIBHC must make and keep records reflecting (i) the results of quarterly stress tests; (ii) that the firm had created a contingency plan to respond to certain possible funding and liquidity difficulties; and (iii) the basis for credit risk weights. We estimate that the average amount of time an SIBHC will spend to create a record regarding stress tests is about 64 hours each quarter, or approximately 256 hours each year. We further estimate that the average amount of time an SIBHC will spend to create and document a contingency plan regarding funding and liquidity of the affiliate group (which we believe an SIBHC will do only once, not on an ongoing basis) will be about 40 hours. In addition, we estimate that the average amount of time an SIBHC will spend to create a record regarding the basis for credit risk weights will be about 30 minutes for each counterparty, and that on average, an SIBHC will establish approximately 20 new counterparty arrangements each year.<SUP> 109 </SUP> 
+
+ 
+
+In addition, requirements that were located in other proposed rules were moved into new Rule 17i-5. Specifically, Rule 17i-5 now also requires that an SIBHC make and keep records of the calculations of allowable capital and allowances for market, credit, and operational risk. An SIBHC will make a record of its calculations of allowable capital, and allowances for market, credit, and operational risk when performing the calculation in compliance with new Rule 17i-7 to comply with the monthly reporting requirements contained in new Rule 17i-6. Thus, SIBHCs should not incur any additional burden relative to this paragraph.
+
+ 
+
+Pursuant to Rule 17i-5, an SIBHC must maintain these and other records for at least three years in an easily accessible place. We estimate that the average amount of time an SIBHC would spend to maintain these and other, specified records for three years would be about 24 hours per year per SIBHC. 
+
+ 
+
+As stated previously in section VI.C., we estimate that approximately three IBHCs will file Notices of Intention to be supervised by the Commission as SIBHCs. Thus, the total initial burden relating to new Rule 17i-5 for all SIBHCs would be approximately 120 hours<SUP> 110 </SUP> and the continuing annual burden would be approximately 870 hours.<SUP> 111 </SUP><h>6. Rule 17i-6. </h>
+
+Rule 17i-6 requires an SIBHC to file certain monthly and quarterly reports with the Commission, as well as an annual audit report. These reporting requirements are necessary to keep the Commission informed as to the activities of the SIBHC, as well as the financial condition, transactions and relationships involving the affiliate group, and policies, systems for monitoring and controlling financial and operational risks. In addition, these requirements are essential to keeping the Commission informed of the extent to which the SIBHC or its affiliates have complied with Section 17(i) of the Exchange Act and the rules promulgated thereunder. Finally, these reports may also be used to evaluate the activities conducted by these SIBHCs and to anticipate, where possible, how they might be affected by significant economic events.
+
+ 
+
+As stated previously in section VI.C., we anticipate that the Rule would affect approximately three SIBHCs. We estimate that, on average, it will take an SIBHC about 8 hours each month to prepare and file the monthly reports required by this rule (or approximately 96 hours per year).<SUP> 112 </SUP> We estimate that, on average, it will take an SIBHC about 16 hours each quarter (or 64 hours each year)<SUP> 113 </SUP> to prepare and file the quarterly reports required by this rule. We estimate that, on average, it will take an SIBHC about 200 hours to prepare and file the annual audit reports required by this rule. Thus, we estimate that the total annual burden of Rule 17i-6 on all SIBHCs will be approximately 1,080 hours.<SUP> 114 </SUP> However, we believe that most well-managed SIBHCs already report to their senior management much of the information required to be provided to the Commission pursuant to Rule 17i-6; therefore, the burdens may be significantly lower.<h>7. Rule 17i-8. </h>
+
+Rule 17i-8 requires SIBHCs to report on the occurrence of certain events that may have a material adverse affect on the SIBHC. This early warning system is modeled after the early warning system used with respect to broker-dealers in Exchange Act Rule 17a-11. Like Exchange Act Rule 17a-11, Rule 17i-8 is designed to give the Commission advance warning of problems that may pose material risks to the financial and operational capability of an SIBHC and its affiliated broker-dealers, and is integral to the Commission's supervision of SIBHCs and their affiliated broker-dealers.
+
+ 
+
+We estimate that it would take an SIBHC approximately one hour to create a notice required to be submitted to the Commission pursuant to Rule 17i-8. We estimate that of the approximately three IBHCs that we believe will register to be supervised as SIBHCs, one may be required to file notice pursuant to Rule every four years. Thus, we estimate that the annual burden of Rule 17i-8 for all SIBHCs will be about 15 minutes.<h>E. Collection of Information is Mandatory. </h>
+
+The collection of information requirements in new Rules 17i-2 through 17i-8 are mandatory for every IBHC that files a Notice of Intention to be supervised by the Commission as an SIBHC and every SIBHC that is supervised by the Commission.<h>F. Confidentiality. </h>
+
+The information and documents collected, retained, and/or filed pursuant to new Rules 17i-2 through 17i-8 will be accorded confidential treatment to the extent permitted by law.<h>G. Record Retention Period. </h>
+
+New Rule 17i-5(b) requires that an SIBHC preserve for three years in an easily accessible place information relating to: (i) its Notice of Intention; (ii) its group-wide system of internal risk management controls; (iii) the records it is required to make and keep current; (iv) the reports it is required to file; and (v) its calculations of allowable capital and allowances for market, credit, and operational risk.<h>VII. COSTS AND BENEFITS OF THE RULES AND RULE AMENDMENTS. </h>
+
+The Commission has identified certain costs and benefits that will result from this framework for supervising SIBHCs. Supervision pursuant to this system is voluntary, and eligible IBHCs are not be required to be supervised in this manner. This framework includes requirements for SIBHCs that file Notices of Intention to be supervised by the Commission as SIBHCs, as well as recordkeeping and reporting requirements for SIBHCs, including a requirement that an SIBHC calculate and report a calculation of allowable capital and allowances for market, credit and operational risk. 
+
+ 
+
+In the Proposing Release<SUP> 115 </SUP> the Commission solicited comment on all aspects of the cost-benefit analysis to assist the Commission in evaluating the costs and benefits that may result from the supervisory framework for SIBHCs. Specifically, the Commission requested comment on the potential costs and benefits identified in the Proposing Release, as well as any other costs or benefits that may result from the rules and rule amendments. In particular, the Commission solicited comments on the potential costs for any necessary modifications to accounting, information and recordkeeping systems, and internal risk management control systems required to implement the rules, and the potential benefits arising from participation in this optional regulatory framework, as well as the degree to which potential applicants under this rule have already made, or are making, the necessary investments in internal risk management control systems, information technology, and mathematical modeling. The Commission requested that commenters provide views and data comparing the costs and benefits discussed above with the costs and benefits of the current regulatory framework, as well as any analysis and data relating to the costs and benefits associated with each of the Rules. 
+
+ 
+
+The Commission received no comments that specifically addressed the Cost-Benefit Analysis included in the Proposing Release. Because Rules 17i-1 through 17i-8 and the amendments to Rules 17h1-T and 17h-2T, as adopted, are substantially similar to those proposed, the SEC believes that the Cost-Benefit Analysis included in the Proposing Release regarding the benefits and costs associated with new Rules 17i-1 through 17i-8 and the amendments to Rules 17h1-T and 17h-2T continues to be appropriate.<h>A. Benefits. </h>
+
+There are many quantifiable and non-quantifiable benefits that will result from these rules. We discuss these benefits below.
+
+ 
+
+U.S. securities firms that do business in the EU have indicated that they may need to demonstrate that they are subject to consolidated supervision at the holding company level that is "equivalent" to EU consolidated supervision. Generally, EU "consolidated supervision" takes the form of a series of rules, imposed at the holding company level, regarding firms' internal controls, capital adequacy, intra-group transactions, and risk concentration. Without a demonstration of "equivalent" supervision, securities firms located in the EU have stated that they may either be subject to additional capital charges or required to form a sub-holding company that would be subject to consolidated supervision by the EU.<SUP> 116 </SUP> The regulatory framework for SIBHCs set forth in the new rules and rule amendments is intended to provide a basis for non-U.S. financial regulators to treat the Commission as the principal U.S. consolidated, home-country supervisor<SUP> 117 </SUP> for SIBHCs and their affiliated broker-dealers. The Commission estimates that it would cost an IBHC approximately $8 million to create a new, non-U.S., regulated affiliate,<SUP> 118 </SUP> or about $24 million in the aggregate for the three IBHCs we believe will file Notices of Intention to become supervised by the Commission as SIBHCs. We do not have sufficient information to estimate what additional costs may be imposed on securities firms that do business in the EU if they are not subject to equivalent supervision. 
+
+ 
+
+Currently, certain broker dealers must create records and file quarterly reports with the Commission regarding the financial condition, organization, and risk management practices of the affiliated group pursuant to Exchange Act Rules 17h-1T and 17h-2T.<SUP> 119 </SUP> Broker-dealers affiliated with IBHCs that meet the criteria set forth in Rules 17i-1 through 17i-8 generally already would be subject to Rules 17h-1T and 17h-2T. To the extent that the information collected or made and maintained pursuant to new Rule 17i-5 reports are made and filed pursuant to Rule 17i-6 by the SIBHC of a broker-dealer that is subject to Rules 17h-1T and 17h-2T, that broker-dealer will be exempted from the provisions of Rules 17h-1T and 17h-2T. We estimate that, on average, a broker-dealer affiliated with one of the three SIBHCs would save about $2,208 due to this exemption.<SUP> 120 </SUP> In the aggregate, the total cost savings associated with these amendments would be approximately $6,624.<SUP> 121 </SUP> 
+
+ 
+
+In addition, Rules 17i-1 through 17i-8 not only create a regulatory framework for the Commission to supervise SIBHCs, but they improve the Commission's ability to supervise the financial condition and securities activities of SIBHCs' affiliated broker-dealers. The requirement that an SIBHC establish, document and maintain an internal risk management control system reduces the risk of significant losses by the SIBHC's affiliated broker-dealers. The internal risk management control system requirement also will reduce systemic risk. We have no way to quantify this benefit.
+
+ 
+
+An additional benefit arises from the reduced borrowing costs, or increased stock price that will result from better risk management practices. Credit rating agencies analyze risk management practices, among many factors, in determining credit ratings. A firm that has better risk management systems may be rated better, and will therefore pay lower interest rates to borrow and realize higher stock prices. However it is unclear to what extent risk management factors into credit ratings. In addition, present internal risk management control systems vary widely from firm to firm. Therefore it is difficult to quantify this benefit. 
+
+ 
+
+However, evolving industry best practice for internationally active firms suggests that some of the firms already have group-wide internal risk management control systems in place, and some firms will implement the risk management practices in the near future.<h>B. Costs. </h>
+
+Each IBHC that files a Notice of Intention to become supervised by the Commission as an SIBHC would incur various on-going costs and one-time costs.<h>1. Ongoing costs. </h>
+
+An SIBHC will incur costs complying with new Rules 17i-1 through 17i-8, including ongoing costs relating to: (i) drafting and reviewing a Notice of Intention; (ii) drafting and reviewing a notice of withdrawal; (iii) updating its internal risk management control system; (iv) creating a record regarding stress tests; (v) creating a record regarding the basis for credit risk weights; (vi) maintaining its records in accordance with Rule 17i-5; (vii) preparing and filing monthly and quarterly reports; (viii) preparing and filing its annual audit; (ix) calculating allowable capital and allowances for market, credit, and operational risk; (x) maintaining its models; (xi) conducting stress tests on its models; and (xii) filing notices pursuant to Rule 17i-8.
+
+ 
+
+New Rule 17i-2 requires that an SIBHC amend its Notice of Intention on an ongoing basis. We estimate that each SIBHC will incur a cost of approximately $1,704 each year to make any necessary amendments to its Notice of Intention.<SUP> 122 </SUP> Thus, we estimate that the total annual cost to make any amendments to the notice will be, in aggregate, about $5,112 each year for all SIBHCs.<SUP> 123 </SUP>
+
+ 
+
+Rule 17i-3 requires that an SIBHC file a notice of withdrawal with the Commission if it wishes to withdraw from Commission supervision. We estimate that each SIBHC that withdraws from Commission supervision will incur a cost of about $2,130 to draft and review a notice or withdrawal to submit to the Commission.<SUP> 124 </SUP> However, we further estimate that one SIBHC may withdraw from Commission supervision only once every ten years. Thus, the annual cost of this rule will be approximately $279.<SUP> 125 </SUP>
+
+ 
+
+New Rule 17i-4 requires that an SIBHC maintain an internal risk management control system. We estimate that an SIBHC will incur a cost of approximately $17,750 associated with maintaining its internal risk management control system each year.<SUP> 126 </SUP> Thus, the continuing annual burden will be, in aggregate, approximately $53,250 for all three SIBHCs.<SUP> 127 </SUP> 
+
+ 
+
+Pursuant to new Rule 17i-5, an SIBHC must create records regarding stress tests and the basis for credit risk weights, and preserve those and other records relating to its business for certain prescribed time periods. We estimate that an SIBHC will incur an annual cost of about $23,808 to create a record regarding stress tests as required by Rule 17i-5.<SUP> 128 </SUP> Further, we estimate that, on average, an SIBHC will incur an annual cost of approximately $370 to create a record regarding the basis for credit risk weights.<SUP> 129 </SUP> Further, we estimate that, on average, an SIBHC will incur an annual cost of $1,440 to maintain records pursuant to new Rule 17i-5.<SUP> 130 </SUP> Thus, the aggregate annual cost relating to new Rule 17i-5 for all SIBHCs will be approximately $76,854.<SUP> 131 </SUP> 
+
+ 
+
+New Rule 17i-6 requires that an SIBHC file certain monthly and quarterly reports with the Commission, as well as an annual audit report. We estimate that the average cost for an SIBHC to prepare and file the monthly reports will be about $440 per month, and thus approximately $5,280 per year.<SUP> 132 </SUP> We estimate that, on average, an SIBHC will incur a quarterly cost of $880 to prepare and file the required quarterly reports, and thus will incur an annual cost of $3,520 to file these reports.<SUP> 133 </SUP> Finally, we estimate that, on average, an SIBHC will incur an annual cost of $9,800 to prepare and file an annual audit.<SUP> 134 </SUP> Thus, we estimate that the total cost that, in aggregate, SIBHCs will incur that are associated with new Rule 17i-6 would be approximately $55,800.<SUP> 135 </SUP>
+
+ 
+
+New Rule 17i-7 requires that an SIBHC calculate the affiliate group's allowable capital and allowances for certain types of risk. Once the appropriate systems and models are in place, we estimate that each SIBHC will incur a cost of about $57,750 to calculate its group-wide allowances for market, credit, and operational risk.<SUP> 136 </SUP> In addition, we estimate that each SIBHC will incur a cost of about $378,000 to maintain its models.<SUP> 137 </SUP> Finally, we estimate that each SIBHC will incur an annual cost of approximately $32,000 to perform stress tests on its models at least once each quarter.<SUP> 138 </SUP> Thus, we estimate that the annual cost that SIBHCs will incur, in aggregate, will be approximately $1.4 million.<SUP> 139 </SUP>
+
+ 
+
+New Rule 17i-8 requires that an SIBHC report to the Commission the occurrence of certain material risks. We estimate that it will cost an SIBHC approximately $82 to create a notice required to be submitted to the Commission pursuant to Rule 17i-8.<SUP> 140 </SUP> However, we estimate that only one SIBHC may be required to send a notice as required by new Rule 17i-8 every three years. Thus, we estimate, for that the annual cost of Rule 17i-8 for all SIBHCs will be about $27.<SUP> 141 </SUP><h>2. One-time costs. </h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 78q(i).
+
+2 See H.R. Conf. Rep. No. 106-434, 165-166 (1999). Without a demonstration of "equivalent" supervision, U.S. securities firms have expressed concerns that an affiliated institution located in the EU either may be subject to additional capital charges or be required to form a sub-holding company in the EU. See "Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002."
+
+3 Exchange Act § 17(i)(3)(B)(i) [15 U.S.C. 78q(i)(3)(B)(i)].
+
+4 Exchange Act § 17(i)(3)(C)(iii) [15 U.S.C. 78q(i)(3)(C)(iii)].
+
+5 Exchange Act § 17(i)(4) [15 U.S.C. 78q(i)(4)].
+
+6 68 FR 62910 (November 6, 2003).
+
+7 In a separate release, we also proposed rules and rule amendments that would, among other things, establish optional alternative net capital requirements for certain broker-dealers. See Exchange Act Release No. 48690 (October 24, 2003), 68 FR 62872 (Nov. 6, 2003) (the "CSE Proposing Release"). In the CSE Proposing Release we proposed amendments to Rule 15c3-4 that would apply to a broker or dealer that elects to compute its net capital under proposed Appendix E of Rule 15c3-1.
+
+8 The central bank governors of the Group of Ten countries established the Basel Committee in 1974 to provide a forum for ongoing cooperation among member countries on banking supervisory matters. Its basic consultative papers are: the Basel Capital Accord (1988), the Core Principles for Effective Banking Supervision (1997), and the Core Principles Methodology (1999). The standards set by the Basel Committee (the "Basel Standards") establish a common measurement system, a framework for supervision, and a minimum standard for capital adequacy for international banks in the G-10 countries. The Basel Committee is currently developing a new international agreement and issued a proposal to modify the Basel Standards in April 2003, when it released for public comment a document entitled "The New Basel Capital Accord" (the " New Basel Capital Accord "). This proposal can presently be found at: http://www.bis.org/bcbs/cp3full.pdf . The Basel Committee expects to issue a final version of the New Basel Capital Accord by the middle of 2004, with an effective date for implementation of December 31, 2006.
+
+9 This requirement is now set forth in paragraph (d)(1)(ii) of Rule 17i-6, as adopted.
+
+10 17 CFR 240.17h-1T and 240.17h-2T.
+
+11 We received a third comment letter that referenced the Proposing Release; however, it did not address the content of the Proposing Release.
+
+12 Exchange Act § 17(i)(5)(A) [15 U.S.C. 78q(i)(5)(A)]. The term "investment bank holding company" means any person, other than a natural person, that owns or controls one or more broker-dealers and the associated persons of the investment bank holding company. An IBHC includes the holding company and all other entities within the holding company structure that meet the "control" test.
+
+13 15 U.S.C. 78q(i)(5)(B). A "supervised investment bank holding company" is any IBHC that is supervised by the Commission pursuant to Section 17(i) of the Exchange Act.
+
+14 Section 17(i)(5)(C) of the Exchange Act states that, for purposes of Section 17(i) of the Exchange Act, the terms "affiliate" [12 U.S.C. 1841(k)], "bank" [12 U.S.C. 1841(c)], "bank holding company" [12 U.S.C. 1841(a)], "company" [12 U.S.C. 1841(b)], "control" [12 U.S.C. 1841(a)(2) et seq .], and "savings association" [12 U.S.C. 1841(j)] have the same meaning as given in Section 2 of the Bank Holding Company Act of 1956 [12 U.S.C. 1841] (the "Bank Holding Company Act").
+
+15 Section 17(i)(5)(D) of the Exchange Act states that, for purposes of Section 17(i) of the Exchange Act, the term "insured bank" has the same meaning as given in Section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813(h)].
+
+16 Section 17(i)(5)(E) of the Exchange Act states that, for purposes of Section 17(i) of the Exchange Act, the "foreign bank" has the same meaning as given in Section 1(b)(7) of the International Banking Act [12 U.S.C. 3101(7)].
+
+17 Exchange Act § 17(i)(5)(F) [15 U.S.C. 78q(i)(5)(F)]. The terms "persons associated with an investment bank holding company" and "associated person of an investment bank holding company" mean any person directly or indirectly controlling, controlled by, or under common control, with the IBHC.
+
+18 15 U.S.C. 78q(i)(5).
+
+19 15 U.S.C. 78q(i)(1)(B).
+
+20 In addition to minor grammatical changes, the rule, as adopted, no longer includes proposed paragraph (b)(4)(xiv)(B) because we believe it is unnecessary.
+
+21 Exchange Act § 17(i)(1)(A) [15 U.S.C. 78q(i)(1)(A)].
+
+22 15 U.S.C. 78q(i)(1)(A).
+
+23 For instance, in the course of its review of a Notice of Intention, the information or documents the Commission receives may highlight an issue regarding the IBHC's financial position, internal controls, or a mathematical model. If the Commission is unable to obtain information or documents not specified in the Rule it may be unable to make the required determination.
+
+24 17 CFR 240.17i-2(d)(1).
+
+25 Section 17(j) of the Exchange Act authorizes the Commission to keep confidential the information it receives pursuant to rules adopted under section (i) [15 U.S.C. 78q(j)]. Section 17(j) provides, "Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under" Section 17(i).
+
+26 Exchange Act § 17(i)(1)(B) [15 U.S.C. 78q(i)(1)(B)].
+
+27 15 U.S.C. 17(i)(1)(B).
+
+28 Those affiliates would include, but not be limited to, affiliates whose business activities are reasonably likely to have a "material impact" on the financial or operational condition of the broker-dealer.
+
+29 As set forth in sub-paragraph (d)(2)(i)(B) of Rule 17i-2.
+
+30 See Section 17(i)(2)(A) of the Exchange Act and paragraph (b) of Rule 17i-3.
+
+31 Paragraphs (c)(5)(xiii), (c)(5)(xiv), (d)(8), and (d)(9) would not apply to an IBHC that elects SIBHC supervision because those paragraphs relate solely to limitations on the types of transactions an OTC derivatives dealer may undertake.
+
+32 See 17 CFR 240.15c3-4(c)(5)(x), (c)(5)(xi), (d)(1), (d)(5), and (d)(10).
+
+33 See generally , Exchange Act § 17(i)(3)(C)(i)(II) [15 U.S.C. 78q(i)(3)(C)(i)(II)], which provides the Commission with the authority to make examinations of any SIBHC and any affiliate of such company in order to monitor compliance with the provisions of subsection 17(i) of the Act, provisions governing transactions and relationships between any broker-dealer affiliated with the SIBHC and any of the company's other affiliates and applicable provisions of subchapter II of chapter 53, title 31, United States Code (commonly known as the "Bank Secrecy Act") and the regulations thereunder.
+
+34 This parallels requirements in the New Basel Capital Accord ( See supra , note 8). See also Financial Action Task Force on Money Laundering ("FATF"), The Forty Recommendations (2003), Recommendation 22, and see generally the FATF's Special Recommendations on Terrorist Financing . (The FATF's documents can presently be found at: www.FATF-GAFI.org ).
+
+35 15 U.S.C. 78q(i)(3)(A).
+
+36 17 CFR 240.17i-5(d).
+
+37 See supra , note 25.
+
+38 See proposed Rule 17i-6(a)(1)(i).
+
+39 17 CFR 240.17a-4(f). Rule 17a-4 allows a broker-dealer to maintain its records either in hard-copy (paper), microfiche, microfilm, or electronic format, subject to the conditions set forth in paragraph (f).
+
+40 15 U.S.C. 78q(i)(3)(C). The primary purpose of our examination of supervised investment bank holding companies is to verify their financial and operational positions and to verify whether the internal risk management controls and the methodologies for calculating allowable capital and allowances for market, credit, and operational risk are consistent with those controls and methodologies approved by the Commission.
+
+41 See supra , note 4.
+
+42 Paragraphs (a)(1)(iii)(A)( 2 ) and (a)(1)(iii)(C)( 2 ) in proposed Rule 17i-6.
+
+43 The requirements contained in paragraphs (a)(1)(iii)(A)( 1 ) and (a)(1)(iii)(C)( 1 ) of proposed Rule 17i-6 can now be found in paragraphs (a)(1)(iii)(A) and (a)(1)(iii)(B) in new Rule 17i-6.
+
+44 As defined in 17 CFR § 240.12b-2.
+
+45 See Release No. 33-8128 (Sept. 5, 2002), 67 FR 58480 (Sept. 16, 2002).
+
+46 Pursuant to § 240.17h-2T(a)(1)(i) and Form 17H, a broker-dealer subject to Rule 17h-2T must file an organizational report with its annual filing and with any quarterly filing if there has been a material change in the information provided to the Commission. We proposed to exempt from Rules 17h-1T and 17h-2T a broker-dealer that is affiliated with an SIBHC because the information an SIBHC would have been required to provide to the Commission pursuant to proposed Rule 17i-6 was substantially similar to that which broker-dealers must provide pursuant to Rules 17h-1T and 17h-2T. However, Rule 17i-6, as proposed, did not include this organizational chart requirement.
+
+47 Paragraph (b) of proposed Rule 17i-6 was redesignated as paragraph (c) of new Rule 17i-6.
+
+48 Paragraph (c)(1) of proposed Rule 17i-6 was redesignated as paragraph (d)(1) of new Rule 17i-6.
+
+49 Paragraph (k) of proposed Rule 17i-6 was redesignated as paragraph (f) of new Rule 17i-6.
+
+50 As set forth in paragraph (i)(3) of proposed Rule 17i-6.
+
+51 New Rule 17i-6(d)(1)(i) requires that an SIBHC's financial statements must be audited by a registered public accounting firm. The term "registered public accounting firm" is defined in Section 2(a)(12) of the Sarbanes-Oxley Act of 2002 [P.L. 107-204] [codified at 15 U.S.C. 7201(a)(12)] as "a public accounting firm registered with the [Public Company Accounting Oversight] Board in accordance with this Act."
+
+52 Paragraph (m) of proposed Rule 17i-6 was redesignated as paragraph (h) of new Rule 17i-6.
+
+53 See supra , note 25.
+
+54 Proposed paragraph 17i-6(i)(1) was re-designated as paragraph 17i-6(d)(1)(ii) in the rules as adopted.
+
+55 Pursuant to the "risk-assessment rules," adopted under Exchange Act Section 17(h), broker-dealers also submit consolidated and consolidating financial statements, organizational charts of the holding company, descriptions of material legal exposures, and risk management policies and procedures to the Commission. [17 CFR 240.17h-1T and 17 CFR 240.17h-2T].
+
+56 Id .
+
+57 New Rule 17i-7 is generally consistent with the Basel Standards. However, one difference is our method for computing maximum potential exposure based on the VaR of those positions (as opposed to approximating maximum potential exposure through the use of notional add-ons) when calculating credit risk for OTC derivatives instruments. This difference is described more specifically in the section relating to the calculations of allowance for credit risk.
+
+58 Pursuant to the paragraph (a)(1)(ii) of new Rule 17i-7, deferred tax assets, except those permitted for inclusion in Tier 1 capital by the Board of Governors of the Federal Reserve (12 CFR 225, Appendix A) must be deducted from shareholders' equity when computing allowable capital.
+
+59 The cumulative and non-cumulative preferred stock may not (i) have a maturity date, (ii) be redeemed at the option of the holder, or (iii) contain any other provisions that would require future redemption of the issue. In addition, the issuer must be able to defer or eliminate dividends.
+
+60 See paragraphs (a)(2) and (a)(3)(i) of Rule 17i-7.
+
+61 In a separate, companion release, we amended rules to, among other things, establish optional alternative net capital requirements for certain broker-dealers. See Exchange Act Release No. 49830 (June 8, 2004) (the "CSE Release"). That release also outlined a capital calculation to be performed by the holding company of a broker-dealer that uses that alternative net capital requirement. The rules set forth in the CSE Release were proposed on October 24, 2003 ( see supra , note 7).
+
+62 For purposes of calculating the 10% limitation, allowable capital is defined as the sum of the elements set forth in Rule 17i-7, paragraph (a)(1).
+
+63 The paragraph headings (A) - (D) in paragraph (a)(3)(ii) were deleted; the language, however, is the same as the Proposing Release.
+
+64 We believe, based on the staff's experience, that three years should be a sufficient time period for a firm to convert its funding sources from long-term debt to other types of positions that could be included in allowable capital pursuant to this rule. Long-term debt must meet the criteria specified in paragraph (a)(3)(iii) of Rule 17i-7, as adopted, to be included.
+
+65 See Rule 17i-7(a)(3)(iii).
+
+66 Generally, the allowance for market risk constitutes three times the largest amount the SIBHC could lose over a ten-day period with a 99% confidence level (as determined using the VaR model or alternative method). See supra , note 61. see § 17 CFR 240.15c3-1e(d)(2)(i).
+
+67 Paragraph (b)(1) of Rule 17i-7 establishes the initial multiplication factor (three); however, the multiplication factor would subsequently be set based on the number of backtesting errors generated through use of the model. The initial multiplication factor was derived from the minimum requirement set forth in § 17 CFR 240.15c3-1f(e)(1)(iv)(C) (the rule used by OTC derivatives dealers to calculate market risk capital charges). This initial multiplication factor would be used until sufficient backtesting results has been collected to use the Table set forth in § 17 CFR 240.15c3-1e(d)(1)(iii)(C).
+
+68 See supra , note 61. Where Rule 17i-7 cross-references or incorporates requirements set forth in §240.15c3-1e, the SIBHC must comply with those provisions as though it were a broker-dealer.
+
+69 See supra , note 61. Specifically, see § 17 CFR 240.15c3-1e(d)(1).
+
+70 This is consistent with the calculation of credit risk used by OTC derivatives dealers ( See 17 CFR 240.15c3-1f(d)(2)). In addition, the 8% basic multiplier to calculate credit risk capital charges is consistent with the Basel Standards.
+
+71 See supra , note 61.
+
+72 Only netting agreements that meet the requirements set forth in paragraph (c)(4)(iv) of Rule 15c3-1e could be used to reduce current or maximum potential exposures. See supra , note 61. Generally, the SIBHC could use a netting agreement that allows the SIBHC to net gross receivables and gross payables with a counterparty upon default of the counterparty if (i) the netting agreement is legally enforceable in each relevant jurisdiction, including in insolvency proceedings; (ii) the gross receivables and gross payables subject to the netting agreement with a counterparty can be determined at any time; and (iii) for internal risk management purposes, the SIBHC monitors and controls its exposure to the counterparty on a net basis.
+
+73 Only collateral that meets the requirements set forth in paragraph (c)(4)(v) of Rule 15c3-1e could be used to reduce current or maximum potential exposures. See supra , note 61. Generally, the SIBHC can take into account the fair market value of collateral pledged and held, provided (i) the collateral is marked to market each day and is subject to a daily margin maintenance requirement; (ii) the collateral is subject to the firm's physical possession or control; (iii) the collateral is liquid and transferable; (iv) the collateral may be liquidated promptly by the firm without intervention by another party; (v) the collateral agreement is legally enforceable by the SIBHC against the counterparty and any other parties to the agreement; (vi) the collateral does not consist of securities issued by the counterparty or a party related to the SIBHC or to the counterparty; (vii) the Commission has approved the SIBHC's use of a VaR model to calculate its allowance for market risk for the type of collateral during its review of the SIBHC's Notice of Intention, and (viii) the collateral is not used in determining the credit rating of the counterparty.
+
+74 These changes are consistent with the CSE release.
+
+75 The credit derivative must be one that (i) provides credit protection equivalent to a guarantee, (ii) is used for bona fide hedging purposes to reduce the credit risk weight of a counterparty, and (iii) is not held for market timing purposes.
+
+76 See supra , note 72.
+
+77 See supra , note 73.
+
+78 However, the quantitative requirements for a VaR model intended to calculate maximum potential exposure would be required to use a 99 percent, one-tailed confidence level, with price changes equivalent to a movement in rates and prices of not less than five-days for repurchase agreements, reverse repurchase agreements, stock lending and borrowing, and similar collateralized transactions ( See paragraph (c)(1)(i)(E) of Rule 17i-7) and to a movement in rates and prices of one-year for other positions ( See § 17 CFR 240.15c3-1e(d)(2)(ii)) (as opposed to a ten business-day movement for VaR models used to calculate the allowance for market risk ( See § 17 CFR 240.15c3-1e(d)(2)(i)). The proposal would have required that the maximum potential exposure for repurchase agreements, reverse repurchase agreements, stock lending and borrowing, and similar collateralized transactions be calculated using a time horizon of " five days ," as opposed to " not less than five days ." This revision clarifies that the time horizon is a minimum period, not an absolute period.
+
+79 Paragraph (e)(2)(ii) of proposed § 240.15c3-1e has been re-designated as paragraph (d)(2)(ii) of that section, as adopted. See supra , note 61.
+
+80 Id .
+
+81 See paragraph (c)(1)(ii)(A) of new Rule 17i-7.
+
+82 See generally paragraph (b)(4)(x) of new Rule 17i-2.
+
+83 The guarantee must be an unconditional and irrevocable guarantee of the due and punctual payment and performance of the obligation and the SIBHC or member of the affiliate group can demand immediate payment after any payment is missed without having to make collection efforts. Further, the guarantee must be evidenced by a written obligation of the guarantor that allows the SIBHC or member of the affiliate group to substitute the guarantor for the counterparty upon default or nonpayment by the counterparty. These requirements are designed to allow an SIBHC to reduce its allowance for credit risk only if the guarantee contains features that make it more reliable.
+
+84 See supra , note 8.
+
+85 CRMPG was formed in January 1999, after the near collapse of Long-Term Capital Management. The group's mission was to redevelop standards for strengthening risk management practices at banks, securities firms and other dealers to avoid similar difficulties in the future. Its findings were publicly released on June 21, 1999, and are presently available at: http://financialservices.house.gov/banking/62499crm.pdf. A hearing was held on June 24, 1999, regarding the group's findings and recommendations, before the U.S. House of Representatives, Subcommittee on Capital Markets, Securities and Government Sponsored Enterprises, Committee on Banking and Financial Services. A transcript of the hearing, at which the CRMPG chairs gave testimony, is presently available at: http://commdocs.house.gov/committees/bank/hba57791.000/hba57791_0f.htm.
+
+86 Walter V. Shipley, retired chairman of Chase Manhattan Bank, chaired the working group. His letter to the Board of Governor's of the Federal Reserve System, summarizing the group's findings, is presently available at: http://www.federalreserve.gov/boarddocs/press/general/2001/20010111/DisclosureGroupLetter.pdf (Jan. 11, 2001).
+
+87 The Basel Committee, the Committee on the Global Financial System of the G-10 central banks (CGFS), the International Association of Insurance Supervisors (IAIS) and the International Organisation of Securities Commissions (IOSCO).
+
+88 The Joint Forum was established in 1996 under the aegis of the BCBS, IOSCO and the IAIS to deal with issues common to the banking, securities and insurance sectors.
+
+89 Final Report of the Multidisciplinary Working Group on Enhanced Disclosure (April 26, 2001). The report is presently available at: http://www.bis.org/publ/joint01.pdf .
+
+90 See paragraph (a) of Rule 17i-8.
+
+91 See paragraph (a)(5) of new Rule 17i-8. In addition, Form 8-K requires that a firm file form 8-K when it experiences a change of control, and SIBHCs must now inform the Division of Market Regulation when it files a Form 8-Kpursuant to paragraph (a)(5) of new Rule 17i-8.
+
+92 15 U.S.C. 78q(j). See supra note 24.
+
+93 17 CFR 200.30-3.
+
+94 17 CFR 200.30-3(e).
+
+95 44 U.S.C. 3501, et seq .
+
+96 See supra , note 6 and accompanying text.
+
+97 See supra , note 56.
+
+98 Federal Reserve Act § 25A [12 U.S.C. 611].
+
+99 This conclusion is based on the September 30, 2003, FOCUS Report filings. Broker-dealers are required to file monthly and/or quarterly reports on Form X-17A-5 pursuant to Rule 17a-5(a) (17 CFR 240.17a-5(a)), commonly referred to as FOCUS Reports. In addition, we have adopted new rules and rule amendments that would allow a holding company that owns or controls a broker-dealer that maintains more than $1 billion in tentative net capital to elect to be supervised as a consolidated supervised entity in the CSE Release ( see supra , note 61). The supervisory framework provided by those new rules and rule amendments would allow the broker-dealers of those entities to calculate market and credit risk capital charges using mathematical modeling techniques. We believe firms that apply for the CSE regulatory regime will do so and will not elect to be supervised pursuant to these new rules for SIBHC election.
+
+100 See Exchange Act § 17(i)(1)(A)(i) [15 U.S.C. 78q(i)(1)(A)(i)].
+
+101 Federal Reserve Act § 25A [12 U.S.C. 611].
+
+102 See supra , note 56.
+
+103 We calculated this amount as follows: (900 hours + 100 hours) x 3 IBHCs/SIBHCs = 3,000 hours.
+
+104 An IBHC would be required to review and update its Notice of Intention to the extent it becomes inaccurate prior to a Commission determination, and an SIBHC would be required to amend its Notice of Intention if it makes a material change to a mathematical model or other method used to calculate its risk allowances pursuant to Rule 17i-7 or its internal risk management control system after a Commission determination was made.
+
+105 We calculated this amount as follows: (2 hours x 12 months each year) x 3 SIBHCs = 72.
+
+106 We calculated this amount as follows: (1 SIBHC / every 10 years) x (24 hours to draft + 8 hours to review) = 3.2 hours.
+
+107 We calculated this amount as follows: (3,600 hours x 3 SIBHCs) = 10,800 hours.
+
+108 We calculated this amount as follows: (250 hours per year x 3 SIBHCs) = 750 hours per year.
+
+109 We estimate that, on average, each firm presently maintains relationships with approximately 1,000 counterparties. Further, it is our understanding that firms generally already maintain documentation regarding their credit decisions, including their determination of credit risk weights, for those counterparties.
+
+110 We calculated this amount as follows: (40 hours to create and document a contingency plan regarding funding and liquidity of the affiliate group) x 3 SIBHCs = 120 hours.
+
+111 We calculated this amount as follows: ((256 hours to create a record regarding stress tests) + ((30 minutes x 20 counterparties) to create a record regarding the basis for credit risk weights) + (24 hours per year to maintain records)) x 3 SIBHCs = 870 hours.
+
+112 We calculated this amount as follows: (8 hours x 12 months in a year) = 96 hours/year.
+
+113 We calculated this amount as follows: (16 hours x 4 quarters in a year) = 64 hours/year.
+
+114 We calculated this amount as follows: (96 hours per year to prepare and file monthly reports + 64 hours each year to prepare and file quarterly reports + 200 hours each year to prepare and file annual audit reports) x 3 SIBHCs = 1,080 hours.
+
+115 See supra , note 6 and accompanying text.
+
+116 See "Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002."
+
+117 See supra note 2.
+
+118 See Exchange Act Release No. 48694 [68 FR 62910, at 62928, note 121 (Nov. 6, 2003)].
+
+119 See supra , note 56.
+
+120 We estimate, based on the present burden for Rules 17h-1T and 17h-2T, that each broker-dealer affiliated with an SIBHC that will no longer have to maintain records or file reports will spend 24 hours less each year to perform these tasks. This estimate was described in the Proposing Release, and they elicited no comments. The staff believes that a broker-dealer would have a financial reporting manager perform these tasks. According to the Securities Industry Association's ("SIA") Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a financial reporting manager is $92.00. We calculated this amount as follows: (($92.00 x 24 hours) = $2,208). Generally, to estimate an hourly cost using the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the staff will take the median (or, if no median is provided, the mean) salary provided in that Report for the position cited, divide that amount by 1,800 hours (in the average year), and then multiply the result by 135% (to account for employee overhead costs).
+
+121 We calculated this amount as follows: $2,208 x three affected broker-dealers) = $6,624.
+
+122 We estimate that an SIBHC will take about 24 hours each year to ensure that its Notice of Intention is accurate and make any necessary amendments. We believe an SIBHC will have a senior compliance person perform this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a senior compliance person is $71.00. (24 hours x $71.00) = $1,704. We described these estimates in the Proposing Release, and they elicited no comments.
+
+123 We calculated this amount as follows: ($1,704 x 3 SIBHCs) = $5,112.
+
+124 We estimate, that it will take one attorney approximately 24 hours to draft a withdrawal notice and that it will take a senior attorney or executive officer 8 hours to review the notice of withdrawal before submitting it to the Commission. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of an attorney is $82.00, and the average hourly cost of a senior attorney and executive officer is $102.00. ((24 hours x $82.00) + (8 hours x $102.00)) = $2,784. We described these estimates in the Proposing Release, and they elicited no comments.
+
+125 We calculated this amount as follows: ($2,784 / 10 years) = $279.
+
+126 We estimate that it will take each SIBHC 250 hours each year to maintain its internal risk management control system, and that an SIBHC would have a senior compliance person perform that task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a compliance examiner is $71.00. We calculated this amount as follows: ((250 hours x $71.00) = $17,750). We described these estimates in the Proposing Release, and they elicited no comments.
+
+127 We calculated this amount as follows: ($17,750 x 3 SIBHCs) = $53,250.
+
+128 We estimate that an SIBHC will spend approximately 256 hours each year to create a record regarding stress tests. We believe that an SIBHC will have a trading floor supervisor or equivalent create this record. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a trading floor supervisor is $93.00. We calculated this amount as follows: (($93.00 x 256) = $23,808). We described these estimates in the Proposing Release, and they elicited no comments.
+
+129 We estimate that an SIBHC will spend 30 minutes per counterparty to create a record regarding credit risk weights, and that, on average, each SIBHC will initiate relationships with 20 new counterparties each year. We believe that an SIBHC would have an intermediate accountant create this record. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of an intermediate accountant is $37.00. We calculated this amount as follows: ($37.00 x (30 minutes x 20 counterparties)) = $370. We described these estimates in the Proposing Release, and they elicited no comments.
+
+130 We estimate that an SIBHC will spend about 24 hours per year to maintain records as required pursuant to Rule 17i-5. The staff believes that an SIBHC will have a programmer analyst perform this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a programmer analyst is $60.00. We calculated this amount as follows: ($60.00 x 24) = $1,440. We described these estimates in the Proposing Release, and they elicited no comments.
+
+131 We calculated this amount as follows: (($23,808 + $370 + $1,440) x 3 SIBHCs) = $76,854.
+
+132 We estimate that an SIBHC will spend about 8 hours per month and 96 hours per year to prepare and file these monthly reports. We believe that an SIBHC will have a senior accountant prepare and file these reports. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a senior accountant is $55.00. ($55.00 x 8 hours) = $440. ($440 x 12 months) = $5,280. We described these estimates in the Proposing Release, and they elicited no comments.
+
+133 We estimate that an SIBHC will spend about 16 hours per quarter and 64 hours per year to prepare and file these quarterly reports. We believe that an SIBHC will have a senior accountant prepare and file these reports. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a senior accountant is $55.00. ($55.00 x 16 hours) = $880. ($880 x 4 quarters) = $3,520. We described these estimates in the Proposing Release, and they elicited no comments.
+
+134 We estimate that an SIBHC would spend about 200 hours per year to prepare and file an annual audit. We believe that an SIBHC would have a senior internal auditor work with accountants to prepare and file these reports. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a senior internal auditor is $49.00. ($49.00 x 200 hours) = $9,800. We described these estimates in the Proposing Release, and they elicited no comments.
+
+135 We calculated this amount as follows: (($5,280 +$3,520 + $9,800) x 3 SIBHCs) = $55,800). We described these estimates in the Proposing Release, and they elicited no comments.
+
+136 We estimate that, on average, each SIBHC will take approximately 1,050 hours per year to calculate allowable capital and allowances for market, credit, and operational risk and to verify and review that data. We believe that an SIBHC will have a senior accountant perform these calculations and verifications. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a senior accountant is $55.00. (($55.00 x 1,050 hours) = $57,750). We described these estimates in the Proposing Release, and they elicited no comments.
+
+137 We estimate that each SIBHC will spend an average of approximately 5,600 hours per year maintaining its models. We believe that an SIBHC will have a senior programmer and a senior research analyst spend approximately 2,800 hours each maintaining its models. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2002 , the hourly cost of a senior programmer is $64.00 and the hourly cost of a senior research analyst is $71.00. ($64.00 x 2,800 hours) + ($71.00 x 2,800 hours) = $378,000. We described these estimates in the Proposing Release, and they elicited no comments. Due to a lack of data points available in the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 guide regarding salaries for this type of position, we used data obtained from the SIA's 2002 guide to generate this estimate.
+
+138 We estimate that each SIBHC will spend about 640 hours each year to conduct stress tests on its models. We believe that an SIBHC will have a junior research analyst conduct stress tests on its models. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a junior research analyst is $50.00. (($50.00 x 640 hours) = $32,000). We described these estimates in the Proposing Release, and they elicited no comments.
+
+139 We calculated this amount as follows: ($57,750 + $378,000 + $32,000) x 3 SIBHCs = $1,403,250.
+
+140 We estimate that it will take an SIBHC approximately one hour to create a notice required to be submitted to the Commission pursuant to Rule 17i-8. However, we further estimate that only one SIBHC may be required to submit such notice every other year. We believe that an SIBHC will have an attorney create a notice required to be submitted to the Commission pursuant to Rule 17i-8. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of an attorney is $82.00. (($82.00 x 1 hour) = $82.00). The hourly burden estimate for Rule 17i-8 is based on our present estimates for Rule 17a-11. The Commission received 841 Rule 17a-11 Notices from 562 broker-dealers during the year ending December 2003. At that time, there were approximately 6,800 active broker-dealers that are registered with the Commission. Thus, 12% (841 / 6,800) of active, registered broker-dealers had a situation arise which caused them to file a notice pursuant to Rule 17a-11. Using this 12% figure, we estimate that of the approximately 3 IBHCs that we believe will register to be supervised as SIBHCs, one may be required to file notice pursuant to Rule 17i-8 every three years ((3 SIBHCs x 12%) = 0.36).
+
+141 We calculated this amount as follows: (($82.00 x 1 hour) x .33 (once every three years)) = $27.
+
+142 We estimate that an SIBHC will spend 900 hours to perform this task. Further, we believe that an SIBHC will have a senior compliance person perform this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a compliance examiner is $71.00. (($71.00 x 900 hours) = $63,900). We described these estimates in the Proposing Release, and they elicited no comments.
+
+143 We believe that an SIBHC will have an attorney review the Notice of Intention and that it would take an attorney 100 hours to complete this review. According to SIA's Report on Management and Professional Earnings in the Securities Industry - 2002 , the hourly cost of an attorney is $82.00. (($82.00 x 100 hours) = $8,200). We described these estimates in the Proposing Release, and they elicited no comments. Due to a lack of data points available in the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 guide regarding salaries for this type of position, we used data obtained from the SIA's 2002 guide to generate this estimate.
+
+144 ($63,900 + $8,200) x 3 SIBHCs = $216,300. We described these estimates in the Proposing Release, and they elicited no comments.
+
+145 We estimate that the average amount of time an SIBHC will spend assessing its present structure, businesses, and controls, and designing and implementing a risk management control system would be about 3,600 hours. We believe that an SIBHC will have a senior compliance person performing this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a compliance examiner is $71.00. (($71.00 x 3,600 hours) = $255,600). We described these estimates in the Proposing Release, and they elicited no comments.
+
+146 We calculated this amount as follows: ($255,600 per SIBHC x 3 SIBHCs expected to apply) = $766,800. We described these estimates in the Proposing Release, and they elicited no comments.
+
+147 We estimate that, on average, an SIBHC will spend about 40 hours to create and document a contingency plan regarding funding and liquidity of the affiliate group. Further, we believe that an SIBHC will have a senior treasury manager perform this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 , the hourly cost of a senior treasury manager is $104.00. ($104 x 40 hours) = $4,160. We described these estimates in the Proposing Release, and they elicited no comments.
+
+148 We calculated this amount as follows: ($4,160 x 3 SIBHCs) = $12,480.
+
+149 We estimate that an SIBHC that already manages risk using mathematical models may need to spend 100 hours to review its models and adjust them to assure they comply with the qualitative and quantitative requirements set forth in the rules. We believe that an SIBHC will have a senior programmer and a senior research analyst spend approximately 50 hours each to perform this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2002 , the hourly cost of a senior programmer is $63.75 and the hourly cost of a senior research analyst is $71.25. (($64.00 x 50 hours) + ($71.00 x 50 hours) = $6,750). Due to a lack of data points available in the SIA's Report on Management and Professional Earnings in the Securities Industry - 2003 guide regarding salaries for this type of position, we used data obtained from the SIA's 2002 guide to generate this estimate. Further, we estimate that a complex SIBHC that does not presently use mathematical models to manage risk will spend approximately 10,000 hours to create mathematical models to use in calculating market and credit risk as required by the rules. We believe that an SIBHC will have a senior programmer and a senior research analyst spend approximately 5,000 hours each to perform this task. According to the SIA's Report on Management and Professional Earnings in the Securities Industry - 2002 , the hourly cost of a senior programmer is $64.00 and the hourly cost of a senior research analyst is $71.00. (($64 x 5,000 hours) + ($71 x 5,000 hours) = $675,000. We described these estimates in the Proposing Release, and they elicited no comments.
+
+150 We calculated this amount as follows: ($6,750 x 3 SIBHCs) = $20,250. ($675,000 x 3 SIBHCs) = $2,025,000.
+
+151 15 U.S.C. 78c(f).
+
+152 15 U.S.C. 78w(a)(2).
+
+153 See supra , note 6 and accompanying text.
+
+154 Generally, smaller broker-dealers are organized in a simpler manner, and they do not engage in international transactions that could cause them to be subject to regulation by international securities regulatory agencies.
+
+155 5 U.S.C. 605(b).
+
+156 See supra , note 6 and accompanying text.

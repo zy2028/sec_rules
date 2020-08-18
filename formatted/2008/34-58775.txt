@@ -1,0 +1,665 @@
+https://www.sec.gov/rules/final/2008/34-58775.pdf
+
+I.0.0.0 Introduction
+
+II.0.0.0 Background
+
+	II.A.0.0 Regulation SHO
+
+	II.B.0.0 Amendments to Regulation SHO’s Close-Out Requirement
+
+III.0.0.0 Options Market Maker Exception
+
+	III.A.0.0 Discussion of Comments to the Reproposal and 2008 Regulation SHO Re-
+
+	III.B.0.0 Discussion of Amendments
+
+IV.0.0.0 Bona-Fide Market Making
+
+V.0.0.0 Other Matters
+
+VI.0.0.0 Paperwork Reduction Act
+
+VII.0.0.0 Consideration of Costs and Benefits of Proposed Amendments to Regulation SHO
+
+	VII.A.0.0 Benefits
+
+	VII.B.0.0 Costs
+
+VIII.0.0.0 Consideration of Burden and Promotion of Efficiency, Competition, and Capital Formation
+
+IX.0.0.0 Final Regulatory Flexibility Analysis
+
+	IX.A.0.0 Reasons for and Objectives of the Amendments
+
+	IX.B.0.0 Significant Issues Raised by Public Comment
+
+	IX.C.0.0 Small Entities Subject to the Amendment
+
+	IX.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
+
+	IX.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+X.0.0.0 Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 241 AND 242
+
+[Release No. 34-58775; File No. S7-19-07] RIN 3235-AJ57
+
+Amendments to Regulation SHO
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to Regulation SHO under the Securities Exchange Act of 1934 (“Exchange Act”). The amendments are intended to further reduce the number of persistent fails to deliver in certain equity securities by eliminating the options market maker exception to the close-out requirement of Regulation SHO. As a result of the amendments, fails to deliver in threshold securities that result from hedging activities by options market makers will no longer be excepted from Regulation SHO’s close-out requirement. The Commission is also providing guidance regarding bona fide market making activities for purposes of the market maker exception to Regulation SHO’s locate requirement.
+
+EFFECTIVE DATE: October 17, 2008.
+
+FOR FURTHER INFORMATION CONTACT: James A. Brigagliano, Associate Director, Josephine J. Tao, Assistant Director, Victoria L. Crane, Branch Chief, Joan M. Collopy, Special Counsel, Christina M. Adams and Matthew Sparkes, Staff Attorneys, Office of Trading Practices and Processing, Division of Trading and Markets, at (202) 551-5720, at the Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-6628.
+
+SUPPLEMENTARY INFORMATION: The Commission is amending Rule 203 of Regulation SHO [17 CFR 242.203] under the Exchange Act.
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+To further Regulation SHO’s goal of reducing fails to deliver in equity securities, the Commission is adopting its proposal <sup>1</sup> to eliminate the options market maker exception to the close-out requirement of Regulation SHO. <sup>2</sup> As discussed in detail below, we believe that eliminating the exception, and thereby imposing additional delivery requirements on securities with a substantial amount of fails to deliver, will help to protect and enhance the operation, integrity, and stability of the markets, as well as reduce potential short selling abuses.
+
+<h>II. Background</h>
+
+<h>A. Regulation SHO</h>
+
+Regulation SHO, which became fully effective on January 3, 2005, sets forth the regulatory framework governing short sales. <sup>3</sup> Among other things, Regulation SHO imposes a close-out requirement to address failures to deliver stock on trade settlement date <sup>4</sup> and to targetpotentially abusive “naked” short selling <sup>5</sup> in certain equity securities. <sup>6</sup> While the majority of trades settle on time, <sup>7</sup> Regulation SHO is intended to address those situations where the level of fails to deliver for the particular stock is so substantial that it might impact the market for that security. <sup>8</sup>
+
+Although high fails levels exist only for a small percentage of issuers, <sup>9</sup> we believe that all sellers of securities should promptly deliver, or arrange for delivery of, securities to the
+
+CFR 240.15c6-1; Exchange Act Release No. 33023 (Oct. 7, 1993), 58 FR 52891 (Oct. 13, 1993). However, failure to deliver securities on T+3 does not violate Rule 15c6-1.respective buyer, and that all buyers of securities have a right to expect prompt delivery of securities purchased. In addition, as we have stated on several prior occasions, we are concerned about the negative effect that fails to deliver may have on the markets and shareholders. <sup>10</sup> For example, fails to deliver may deprive shareholders of the benefits of ownership, such as voting and lending. <sup>11</sup> In addition, where a seller of securities fails to deliver securities on settlement date, in effect the seller unilaterally converts a securities contract (which is expected to settle within the standard three-day settlement period) into an undated futures-type contract, to which the buyer might not have agreed, or that might have been priced differently. <sup>12</sup>
+
+Moreover, sellers that fail to deliver securities on settlement date may enjoy fewer restrictions than if they were required to deliver the securities in a timely manner, and such sellers may attempt to use this additional freedom to engage in trading activities that are designed to improperly depress the price of a security. <sup>13</sup> In addition, by not borrowing securities and, therefore, not making delivery within the standard three-day settlement period, the seller avoids the costs of borrowing.
+
+In addition, issuers and investors have repeatedly expressed concerns about fails to deliver in connection with manipulative “naked” short selling. For example, in response to proposed amendments to Regulation SHO in 2006 <sup>14</sup> designed to further reduce the number of persistent fails to deliver in certain equity securities by eliminating Regulation SHO’s“grandfather” provision, and limiting the duration of the rule’s options market maker exception, the Commission received a number of comments that expressed concerns about “naked” short selling and extended delivery failures. <sup>15</sup> Commenters continued to express these concerns in response to the Reproposal. <sup>16</sup>
+
+To the extent that fails to deliver might be part of manipulative “naked” short selling, which could be used as a tool to drive down a company’s stock price, <sup>17</sup> such fails to deliver may undermine the confidence of investors. <sup>18</sup> These investors, in turn, may be reluctant to commit capital to an issuer they believe to be subject to such manipulative conduct. <sup>19</sup> In addition, issuersmay believe that they have suffered unwarranted reputational damage due to investors’ negative perceptions regarding fails to deliver in the issuer’s security. <sup>20</sup> Unwarranted reputational damage caused by fails to deliver might have an adverse impact on the security’s price. <sup>21</sup>
+
+<h>B. Amendments to Regulation SHO’s Close-Out Requirement</h>
+
+Regulation SHO’s close-out requirement, which is contained in Rule 203(b)(3) of Regulation SHO, applies only to securities in which a substantial amount of fails to deliver have occurred (also known as “threshold securities”). <sup>22</sup> Specifically, the close-out requirement requires a participant of a clearing agency registered with the Commission <sup>23</sup> to take immediatethe confidence of many of the Company’s investors in the integrity of the market for the Company’s securities.”).action to close out a fail to deliver position in a threshold security in the Continuous Net Settlement (“CNS”) <sup>24</sup> system that has persisted for 13 consecutive settlement days by purchasing securities of like kind and quantity. <sup>25</sup> In addition, if the failure to deliver has persisted for 13 consecutive settlement days, Rule 203(b)(3)(iv) prohibits the participant, and any broker-dealer for which it clears transactions, including market makers, from accepting any short sale orders or effecting further short sales in the particular threshold security without borrowing, or entering into a bona-fide arrangement to borrow, the security until the participant closes out the fail to deliver position by purchasing securities of like kind and quantity. <sup>26</sup>the NSCC, the primary registered clearing agency responsible for clearing U.S. transactions, were registered as broker-dealers. Those participants not registered as broker-dealers include such entities as banks, U.S.- registered exchanges, and clearing agencies. Although these entities are participants of a registered clearing agency, generally these entities do not engage in the types of activities that would implicate the close-out requirements of Regulation SHO. Such activities of these entities include creating and redeeming Exchange Traded Funds, trading in municipal securities, and using NSCC’s Envelope Settlement Service or Inter-city Envelope Settlement Service. These activities rarely lead to fails to deliver and, if fails to deliver do occur, they are small in number and are usually closed out within a day. Thus, such fails to deliver would not trigger the close-out provisions of Regulation SHO.
+
+As adopted in August 2004, Rule 203(b)(3) of Regulation SHO included two exceptions to the mandatory close-out requirement. The first was the “grandfather” provision, which excepted fails to deliver established prior to a security becoming a threshold security. <sup>27</sup> The second was the “options market maker exception,” which excepted any fail to deliver in a threshold security resulting from short sales effected by a registered options market maker to establish or maintain a hedge on options positions that were created before the underlying security became a threshold security. <sup>28</sup>
+
+At the time of Regulation SHO’s adoption, the Commission stated that it would monitor the operation of Regulation SHO to determine whether grandfathered fail to deliver positions were being cleared up under the existing delivery and settlement guidelines or whether any further regulatory action with respect to the close out provisions of Regulation SHO was warranted. <sup>29</sup> In addition, with respect to the options market maker exception, the Commission noted that it would take into consideration any indications that this provision was operating significantly differently from the Commission’s original expectations. <sup>30</sup>
+
+Based, in part, on the results of examinations conducted by the Commission’s staff and the SROs since Regulation SHO’s adoption, as well as the persistence of certain securities on threshold securities lists, on July 14, 2006, the Commission proposed amendments to Regulation
+
+SHO, <sup>31</sup> which were intended to reduce the number of persistent fails to deliver in certain equity securities by eliminating the “grandfather” provision and narrowing the options market maker exception contained in that rule. In addition, in March 2007, the Commission re-opened the comment period to the 2006 Regulation SHO Proposed Amendments for thirty days to provide the public with an opportunity to comment on a summary of the National Association of Securities Dealers, Inc.’s (“NASD’s”) (n/k/a Financial Industry Regulatory Authority, Inc.) analysis that the NASD had submitted to the public file on March 12, 2007. In addition, the notice regarding the re-opening of the comment period directed the public’s attention to summaries of data collected by the Commission’s Office of Compliance Inspections and Examinations and the New York Stock Exchange LLC (“NYSE”). <sup>32</sup>
+
+On June 13, 2007, we approved the adoption of the amendment, as proposed, to eliminate the “grandfather” provision of Regulation SHO. <sup>33</sup> With respect to the options market maker exception, however, in response to comments to the 2006 Regulation SHO Proposed Amendments, we reproposed amendments to eliminate the exception. <sup>34</sup> In addition, the Commission sought comment on two alternative proposals that would require options market maker fails to deliver to be closed out within specific time-frames. <sup>35</sup> The Reproposal also included an amendment to Regulation SHO that would require brokers-dealers marking a sale as “long” to document the present location of the securities being sold.
+
+We received over 1000 comment letters in response to the Reproposal. <sup>36</sup> Some commenters urged the Commission to obtain empirical data to demonstrate the relationship between fails to deliver and the options market maker exception before determining whether additional rulemaking was necessary. <sup>37</sup> In particular, commenters urged the Commission to obtain data relating to the impact of the elimination of the “grandfather” provision and connecting fails to deliver to the options market maker exception. <sup>38</sup> In response, the Commission staff obtained data from SROs, options market makers, and clearing agency participants that shows extensive use of the options market maker exception to Regulation SHO’s close-out requirement and the resulting fails to deliver that were not closed out during 2006, 2007, and 2008. In addition, OEA provided data which indicates that since the elimination of the “grandfather” provision, fails to deliver in threshold securities with options traded on them (“optionable threshold securities”) have increased significantly. The Commission made this data available to the public for review and comment by including it in a Commission release and re- opening the comment period to the Reproposal on July 7, 2008. <sup>39</sup> The comment period ended on August 13, 2008.
+
+As discussed below, after considering the comments received, the data, and the purposes underlying Regulation SHO, we are adopting amendments to eliminate the options market makerexception, as proposed. <sup>40</sup> At this time, we are not acting on the proposed amendments to Rule 200(g) of Regulation SHO regarding long sale documentation. Instead, in a companion release we have adopted a “naked” short selling anti-fraud rule that, in part, targets seller’s representations regarding long sales. <sup>41</sup> In addition, we note that we have adopted an interim final temporary rule, Rule 204T, which strengthens the delivery requirements for sales of all equity securities. <sup>42</sup> Under temporary Rule 204T, fail to deliver positions resulting from short sales of all equity securities by options market makers must be closed out by no later than the beginning of regular trading hours on the settlement day after the fail to deliver position occurs. <sup>43</sup> In conjunction with these short sale-related initiatives, and our goal of further reducing fails to deliver and addressing potentially abusive “naked” short selling, we believe that we must eliminate Regulation SHO’s options market maker exception.
+
+<h>III. Options Market Maker Exception</h>
+
+<h>A. Discussion of Comments to the Reproposal and 2008 Regulation SHO Re-</h>
+
+Opening Release
+
+The Commission received comment letters from numerous entities, including issuers, individual retail investors, options market makers, SROs, elected officials, and academics. <sup>44</sup> Although the comment letters are publicly available to be read in their entirety, we highlight below some of the main issues, concerns, and suggestions raised in the letters.
+
+Several commenters supported the proposal to eliminate the options market maker exception. One commenter stated that it believes that the current options market maker exception “harms investors and issuers, hinders the formation of capital, and is fatally flawed as written” and that it should be eliminated. <sup>45</sup> Another commenter stated that the options market maker exception “is a well known tool of manipulators and must be removed to ensure a level playing field for public companies and their shareholders.” <sup>46</sup> One commenter that supported the amendments noted that “options market makers should factor the cost of borrowing stock andselling short into the price of the put options being sold.” <sup>47</sup> Commenters also stated that 13 consecutive settlement days was more than sufficient to close out a fail to deliver relating to an options position. <sup>48</sup>
+
+Commenters who opposed the proposed amendments generally criticized the impact of elimination on options market making risk, quote depths, spread widths, and market liquidity in threshold securities and securities that might become threshold securities. Among other things, they stated that the options market maker exception is integral to the options market maker’s ability to make markets and manage risk and that, without the exception, making continuous markets would be very difficult, particularly in longer-dated options. <sup>49</sup> One commenter suggested that “withdrawing or greatly reducing the exception would cause varying losses of liquidity in over 20% of listed options and their underlying stocks.” <sup>50</sup> Another commenter stated that “[i]f the exception is eliminated or narrowed in the manner proposed, [it] anticipates [options market makers] would be reluctant or even unable to effectively make markets on securities if they cannot be certain of their ability to establish and maintain an effective hedge and manage their risk through selling stock.” <sup>51</sup> Another commented that “[t]he uncertainty, time, processing and expense necessary to pre-borrow when effecting a short sale, as well as theuncertainty and expense caused by a close out of a hedge, will by its nature adversely affect the [options market makers’] pricing of the option.” <sup>52</sup>
+
+Some commenters who opposed elimination of the exception argued that options market makers, unlike equity market makers, should have an exception to Regulation SHO’s close-out requirement because there are distinct differences between options market making and market making in the underlying stock. For example, one commenter stated that the risk to an options market maker of trading options on a threshold security is higher than that of a stock specialist because in the equity markets there is often a natural flow of buyers and sellers to trade against each other without the stock specialist having to take a position. <sup>53</sup> According to the commenter, options market makers routinely have to take the other side of customer trades in the options transaction and must hedge the residual risk. This commenter also noted that when an options market maker must close out a fail to deliver position, it may have to worry about the risk and exposure for the options positions that were previously offset by the stock position.
+
+Other commenters stated that equity market makers “can freely hedge an equity position in a threshold security with a short options position, but, if the options market maker exception is eliminated, options market makers would face restrictions in their ability to hedge options positions with the underlying equity.” <sup>54</sup> These commenters stated that the ability to keep open a fail to deliver position is particularly important with longer-term options positions where the options market maker must maintain the hedge for extended periods of time. <sup>55</sup> In such circumstances, these commenters stated that often the only available and/or economically feasible hedge is the underlying security.
+
+Some commenters also stated that the one-time 35 consecutive settlement day phase-in period was “particularly troubling because it would not be sufficient to account for pre-existing options positions that were assumed in reliance on the [options market maker exception].” <sup>56</sup> In particular, these commenters expressed concerns about increased costs and risks associated with having to close out previously-exempted fails to deliver relating to the hedging of longer-term options positions, such as Long-term Equity Anticipation Securities (“LEAPS”), <sup>57</sup> that were not anticipated at the time the options positions were originally taken. <sup>58</sup>
+
+Some commenters also opposed the proposed alternatives. For example, one commenter stated that the “35-day window afforded options market makers to fail would simply create opportunities for sophisticated market participants to employ complex derivative strategies to roll failed positions from one period to the next.” <sup>59</sup> Other commenters preferred the proposed 35 day close out alternative to elimination of the options market maker exception. <sup>60</sup> Some commenters, however, requested that the Commission extend the proposed alternative 35 day close-out requirement to 42 days <sup>61</sup> or even 45 days, <sup>62</sup> to allow for 2 options expirations before a fail to deliver position must be closed out.
+
+We also received a number of comment letters in response to the 2008 Regulation SHO Re-Opening Release, most of which urged the Commission to take action on the proposed amendments to eliminate the options market maker exception. <sup>63</sup> In contrast, one commenter noted that it does not believe that there is evidence of a significant problem with extended fails to deliver or, if such a problem exists, evidence that it is attributable to the options market maker exception. <sup>64</sup> In addition, this commenter stated that it believes “[t]he perceived benefits of modifying the exception . . . would not outweigh the costs associated and burden placed on OMMs and options market they support.” <sup>65</sup>
+
+As discussed in detail below, although we recognize commenters’ concerns that elimination of the options market maker exception may place costs and burdens on options market makers, we believe that such potential effects are justified by the benefits that are expected to result from requiring that all fails to deliver in threshold securities be closed out within specific time-frames rather than being allowed to continue indefinitely.
+
+<h>B. Discussion of Amendments</h>
+
+After careful consideration of the comments, we are adopting amendments to eliminate the options market maker exception to Regulation SHO’s close-out requirement. Specifically, as a result of the amendments, all fails to deliver in a threshold security resulting from short sales by a registered options market maker effected to establish or maintain a hedge on options positions established before the security became a threshold security will, like all other fails todeliver in threshold securities, have to be closed out in accordance with the close-out requirements of Regulation SHO. <sup>66</sup>
+
+The amendments include a one-time 35 consecutive settlement day phase-in period, as proposed. <sup>67</sup> Under this provision of the amendments, any previously excepted fail to deliver position in a threshold security on the effective date of the amendments, including any adjustments to that fail to deliver position, must be closed out within 35 consecutive settlement days of the effective date of the amendments. <sup>68</sup> We chose 35 settlement days because 35 days was used in Regulation SHO as adopted in August 2004, and in Regulation SHO, as amended. <sup>69</sup>
+
+In the September Emergency Order, we adopted and made immediately effective the elimination of the options market maker exception to Regulation SHO’s close-out requirement. <sup>70</sup> Thus, if there was a fail to deliver position at a registered clearing agency in a security that was a threshold security on the effective date of the September Emergency Order, participants of a registered clearing agency had to close out that position within 35 consecutive settlement days, regardless of whether the security became a non-threshold security after the effective date of the September Emergency Order. Because this release makes the elimination of the options marketmaker exception as set forth in the September Emergency Order permanent, and because the amendments contained in this release are effective on the expiration date of the September Emergency Order (i.e., October 17, 2008), any fails to deliver in threshold securities that were being closed out pursuant to the 35 consecutive settlement day phase-in period as set forth in the September Emergency Order will not receive an additional 35 consecutive settlement days from October 17, 2008 in which to be closed out. Instead, the 35 consecutive settlement days will continue to run from the effective date of the September Emergency Order. Any fails to deliver in securities that became threshold securities after the effective date of the September Emergency Order and that are still threshold securities on the effective date of these amendments, must be closed out in accordance with the current close-out requirements of Regulation SHO, rather than within 35 consecutive settlement days of the effective date of these amendments. <sup>71</sup>
+
+Although, as noted above, some commenters stated that the one-time 35 consecutive settlement day phase-in period was “particularly troubling because it would not be sufficient to account for pre-existing options positions that were assumed in reliance on the [options market maker exception]” <sup>72</sup> , we believe that a 35 consecutive settlement day phase-in period allows participants sufficient time to close out any previously excepted fail to deliver positions with limited disruption to the market and helps foster market stability because it provides participants with a sufficient length of time to effect purchases to close out these positions in an orderly manner.
+
+We are also adopting our proposal that if the fail to deliver position persists for 35 consecutive settlement days from the effective date of the amendment, a participant of aregistered clearing agency (and any broker-dealer for which it clears transactions, including any market maker), is prohibited from accepting any short sale orders or effecting further short sales in the particular threshold security without borrowing, or entering into a bona-fide arrangement to borrow, the security until the participant closes out the entire fail to deliver position by purchasing securities of like kind and quantity. <sup>73</sup> Due to the requirements of the September Emergency Order, this provision of the amendments is applicable to those fails to deliver that may be closed out within 35 consecutive settlement days of the effective date of the September Emergency Order but are not closed out within that time-frame.
+
+If a security becomes a threshold security after the effective date of the amendments, any fails to deliver that result or resulted from short sales effected by a registered options market maker to establish or maintain a hedge on options positions that were created before the security became a threshold security will be subject to Regulation SHO’s close-out requirements, similar to any other fail to deliver position in a threshold security. <sup>74</sup>
+
+We believe that it is appropriate to eliminate Regulation SHO’s options market maker exception because substantial levels of fails to deliver continue to persist in threshold securities and it appears that a significant number of these fails to deliver are as a result of the options market maker exception. <sup>75</sup> As noted above, the Commission staff obtained data from SROs, options market makers, and clearing agency participants that shows extensive use of the options market maker exception to Regulation SHO’s close-out requirement and the resulting fails todeliver that were not closed out during 2006, 2007, and 2008. <sup>76</sup> For example, the data showed that as of January 31, 2008, a participant that settles and clears for a large segment of the options market claimed the options market maker exception to the close-out requirement in 16 threshold securities for a total of 6,365,158 fails to deliver. As of February 29, 2008, the data indicated that this participant claimed the options market maker exception in 20 threshold securities for a total of 6,963,949 fails to deliver. In addition, according to data provided by FINRA for 2007 relating to a participant that settles and clears for a large segment of the options market, fail to deliver positions not closed out by the participant due to it claiming the options market maker exception ranged from 35,655 fails to deliver in one month that year, to as much as 5,621,982 in another month that year. According to a review conducted by several SROs between May to July 2006, there were 598 exceptions claimed, covering 58 threshold securities for a total of 11,759,799 fails to deliver. <sup>77</sup>
+
+In addition, following the elimination of the “grandfather” exception to Regulation SHO’s close-out requirement, data collected by OEA indicates that although fails to deliver overall decreased slightly, fails to deliver in optionable threshold securities increased significantly. The “grandfather” exception was eliminated as of October 15, 2007 with a one- time phase in period which expired on December 5, 2007. The sample data used by OEA compares two time periods: April 9, 2007 – October 14, 2007, which is defined as the “pre- amendment period” and December 10, 2007 – March 31, 2008, which is defined as the “post-amendment period.” Specifically, the results of OEA’s analysis of fails to deliver before and after the elimination of Regulation SHO’s “grandfather” exception show that: <sup>78</sup>
+
+The average daily number of optionable threshold securities increased by 25.0%.
+
+The average daily number of new fail to deliver positions in optionable threshold securities increased by 45.3%.
+
+For fails aged more than 17 days in optionable threshold securities, the average daily dollar value of fails to deliver increased by 73.4%.
+
+For fails aged more than 17 days in optionable threshold securities, the average daily number of fail to deliver positions increased by 30.7%.
+
+The average daily number of optionable threshold securities with fails aged more than 17 days increased by 40.9%.
+
+The data shows a 25 percent increase in the number of optionable threshold securities and a substantial increase in fails to deliver in optionable threshold securities when comparing the pre- and post-amendment periods. As the OEA Memorandum notes “[o]ne explanation of these results is that the investors who previously failed to deliver in the equity market have now moved to the options market to establish a synthetic position. Since the option market makers still enjoy an exception to the close-out rule and tend to hedge their positions in the equity markets, the fails may now be coming from the option market makers instead of the equity investors themselves.” <sup>79</sup>
+
+As discussed above, commenters opposing the proposed amendments criticized the impact of the proposals on options market making risk, quote depths, spread widths, and market liquidity, particularly in threshold securities and securities that might become threshold securities. <sup>80</sup> Although we recognize these commenters’ concerns regarding a mandatory close- out requirement for fails to deliver in threshold securities underlying options positions, for the reasons outlined below, we believe these potential effects are justified by the benefits of requiring that fails to deliver in all threshold securities be closed out within specific time-frames rather than being allowed to continue indefinitely. In addition, we believe the overall market impact of these potential effects, if any, will be minimal.
+
+First, as discussed above, large and persistent fails to deliver can deprive shareholders of the benefits of ownership, such as voting and lending. They can also be indicative of potentially manipulative conduct, such as abusive “naked” short selling. The deprivation of the benefits of ownership, as well as the perception that abusive “naked” short selling is occurring in certain securities, can undermine the confidence of investors. These investors, in turn, may be reluctant to commit capital to an issuer they believe to be subject to manipulative conduct.
+
+In the Reproposal, we sought comment on whether the proposed amendments would promote capital formation, including whether the proposed increased short sale restrictions would affect investors’ decisions to invest in certain equity securities. Commenters expressed concern about “naked” short selling causing a drop in an issuer’s stock price and that it may limit an issuer’s ability to access the capital markets. <sup>81</sup> We believe that, by requiring that all fails to deliver in threshold securities be closed out within specific time-frames rather than allowingthem to continue indefinitely, there will be a decrease in the number of threshold securities with persistent and high levels of fails to deliver. If persistence on the threshold securities lists leads to an unwarranted decline in investor confidence about the security, the amendments should improve investor confidence about the security. <sup>82</sup> We also believe that the amendments should lead to greater certainty in the settlement of securities which should strengthen investor confidence in the settlement process. The reduction in fails to deliver and the resulting reduction in the number of securities on the threshold securities lists could result in increased investor confidence.
+
+Thus, by eliminating the options market maker exception so that all fails to deliver in threshold securities that result from short sales effected to maintain or establish a hedge on options positions will have to be closed out in accordance with Regulation SHO’s close-out requirements, we expect a reduction in the number of threshold securities with large and persistent fails to deliver and, thereby, offsetting any potential negative impact of such fails to deliver on the market for these securities. <sup>83</sup>
+
+Second, while we recognize commenters’ concerns that on a security-by-security basis the impact on options market maker costs, liquidity, quote depths, and spread widths may vary considerably, and in some cases, might be large, <sup>84</sup> we believe the overall market impact of the amendments will be minimal because the number of securities that will be impacted by the amendments will be relatively small. As previously noted by one commenter, a small number of securities that meet the definition of a “threshold security” have listed options, and thosesecurities form a very small percentage of all securities that have options traded on them. <sup>85</sup> In addition, OEA estimates that in July 2008, 451 (13.6%) of the 3,326 securities with options classes trading on at least one options market appeared on a threshold securities list for at least one day that month. Even though these securities may form a small percentage of all securities that have options traded on them, we are still concerned that these fails to deliver can have a disproportionate impact on the markets and shareholders.
+
+Moreover, the options market maker exception only excepted from Regulation SHO’s mandatory 13 consecutive settlement day close-out requirement those fail to deliver positions resulting from short sales effected by registered options market makers to establish or maintain a hedge on options positions established before the underlying security became a threshold security. Thus, it did not apply to fails to deliver resulting from short sales effected to establish or maintain a hedge on options positions established after the underlying security became a threshold security. Because the options market maker exception had a very limited application, the overall impact of its removal on liquidity, hedging costs, spreads, and depth, should be relatively small. Nevertheless, we understand commenters’ concerns that on a security-by- security basis the impact on options market maker costs might, in some cases, be large.
+
+However, on balance, we believe such costs are justified by the benefits that are expected to result from requiring that all fails to deliver in threshold securities be closed out within specific time-frames rather than being allowed to continue indefinitely.
+
+Third, some commenters noted concerns about having to close out fails to deliver in connection with the hedging of longer-term options because such fails may have been open formonths or years. <sup>86</sup> These commenters suggested that with respect to such fails to deliver, the close-out requirement be tied to the expiration or liquidation of such options. However, this would mean that these fails to deliver could persist for months or years. We believe that all fails to deliver in threshold securities must be closed out in a timely manner. Longer-term options can have expiration periods that extend for years. To tie the close out of a fail to deliver position resulting from a hedge of such options to the liquidation or expiration of such options would undermine this goal. As discussed above, large and persistent fails to deliver can deprive shareholders of the benefits of ownership, such as voting and lending. We also believe that all sellers of securities should promptly deliver, or arrange for delivery of, securities to the respective buyer and all buyers of securities have a right to expect prompt delivery of securities purchased.
+
+In addition, the 35 consecutive settlement day phase-in period of the amendments allows participants sufficient time to close out any previously excepted fail to deliver positions that may have been open for months or years as a result of hedging activity in connection with longer-term options. The phase-in period limits the disruption to the market and helps foster market stability because it provides participants with a sufficient length of time to effect purchases to close out these positions in an orderly manner.
+
+Fourth, the potential impact of the amendments on options market making risk, quote depths, spread widths, and market liquidity will be limited because, as noted above, Regulation SHO’s options market maker exception applied only to those fail to deliver positions that resulted from short sales effected by registered options market makers to establish or maintain a hedge on options positions established before the underlying security became a thresholdsecurity. Thus, it did not apply to fails to deliver resulting from short sales effected to establish or maintain a hedge on options positions established after the underlying security became a threshold security. Some commenters stated that they believe there has been harm to the markets under the current close out structure of Regulation SHO. <sup>87</sup> As we noted in the Reproposal, however, in examining the application of the mandatory close-out requirement of Rule 203(b)(3) of Regulation SHO for all non-excepted fail to deliver positions, it does not appear that Rule 203(b)(3)’s close-out requirement for non-excepted fails to deliver in threshold securities has impacted options market makers’ willingness to provide liquidity in threshold securities or securities likely to become threshold securities, or substantially impacted option market maker risk, quote depths, or spread widths.
+
+In addition, we note that options market makers may only need to hedge via a short sale in the equity markets for a small fraction of their total trading activity. Academic research suggests that non-market maker option open interest tends to heavily favor the upside, which implies that the customary hedge for the typical option market making position is a long equity position rather than a short equity position. <sup>88</sup> More recent data from January to July 2008 also suggests an upside bias in option open interest. <sup>89</sup>
+
+Fifth, while commenters may believe that a mandatory close-out requirement for all fails to deliver resulting from hedging activity in the options markets may potentially impact liquidity, hedging costs, depth, or spreads, or impact the willingness of options market makers to make markets in certain securities, we believe that such effects are justified by our belief that fails todeliver resulting from hedging activities by options market makers should be treated similarly to fails to deliver resulting from sales in the equities markets so that market participants trading threshold securities in the options markets do not receive an advantage over those trading such securities in the equities markets.
+
+As discussed above, commenters who opposed elimination of the exception argued that options market makers, unlike equity market makers, should have an exception to Regulation SHO’s close-out requirement because there are distinct differences between options market making and market making in the underlying stock. We do not believe that for purposes of the close-out requirement of Regulation SHO, options and equity market makers should be treated differently. Due to our concerns about the potentially negative market impact of large and persistent fails to deliver, and the fact that we continue to observe a small number of threshold securities with fail to deliver positions that are not being closed out under existing delivery and settlement requirements, we adopted amendments to eliminate Regulation SHO’s “grandfather” provision that allowed fails to deliver resulting from long or short sales of equity securities to persist indefinitely if the fails to deliver occurred prior to the security becoming a threshold security. <sup>90</sup> We believe that once a security becomes a threshold security, fails to deliver in that security must be closed out, regardless of whether or not the fails to deliver resulted from sales of the security in connection with the options or equities markets.
+
+Moreover, we are concerned that the options market maker exception might have allowed for a regulatory arbitrage not permitted in the equities markets. <sup>91</sup> For example, an options market maker who sells short to hedge put options purchased by a market participant unable tolocate shares for a short sale in accordance with Rule 203(b)(2) of Regulation SHO may not have to close out any fails to deliver that result from such short sales under the options market maker exception. The ability of options market makers to sell short and never have to close out a resulting fail to deliver position, provided the short sale was effected to hedge options positions created before the security became a threshold security, runs counter to the goal of requiring that all fails to deliver in threshold securities be closed out.
+
+In addition, we note that although the proposed alternatives could lessen the potential negative impact of large and persistent fails to deliver, we believe that complete elimination of the options market maker exception would achieve this goal more effectively. By eliminating the options market maker exception, all fails to deliver in threshold securities will have to be closed out in accordance with Regulation SHO’s close-out requirements. <sup>92</sup> The proposed alternatives, however, would each allow a longer period of time for fail to deliver positions to be closed out. Specifically, the first alternative would allow certain fails to deliver to be closed out within 35 consecutive settlement days of the security becoming a threshold security. Under the second alternative, although some fails to deliver would be required to be closed out in less than 35 consecutive settlement days, other fails to deliver would not have to be closed out until 35 consecutive settlement days from the security becoming a threshold security. <sup>93</sup>
+
+As we discussed in the Reproposal, <sup>94</sup> we believe that the options market maker exception should be eliminated, rather than limited as in the proposed alternatives, because large and persistent fails to deliver are not being closed out under existing delivery requirements andbecause we are concerned that these fails to deliver may have a negative impact on the market for those securities. In addition, as noted in the Reproposal, we believe that fails to deliver resulting from hedging activities by options market makers should be treated similarly to fails to deliver resulting from sales in the equities markets so that market participants trading threshold securities in the options markets do not receive an advantage over those trading such securities in the equities markets. Thus, we have determined that the proposed alternatives are not feasible or in the public interest to act upon at this time.
+
+<h>IV. Bona-Fide Market Making</h>
+
+We are also taking the opportunity to provide guidance regarding issues that have arisen regarding what is bona-fide market making for purposes of complying with the market maker exception to the “locate” requirement of Rule 203(b)(1) of Regulation SHO. The 2004 Regulation SHO Adopting Release provides guidance as to what is bona-fide market making.
+
+We are reiterating that guidance and providing additional guidance in this adopting release.
+
+Rule 203(b)(1) provides that "[a] broker or dealer may not accept a short sale order in an equity security from another person, or effect a short sale in an equity security for its own account, unless the broker or dealer has: (i) Borrowed the security, or entered into a bona-fide arrangement to borrow the security; or (ii) Reasonable grounds to believe that the security can be borrowed so that it can be delivered on the date delivery is due; and (iii) Documented compliance with this paragraph (b)(1).” <sup>95</sup> This is known as the “locate” requirement. Rule 203(b)(2)(iii) excepts market makers engaged in bona-fide market making activities from the locate requirement. The Commission adopted this narrow exception to the locate requirementbecause such market makers may need to facilitate customer orders in a fast moving market without possible delays associated with complying with the locate requirement. <sup>96</sup>
+
+The term “market maker” includes any specialist permitted to act as a dealer, any dealer acting in the capacity of a block positioner, and any dealer who, with respect to a security, holds itself out (by entering quotations in an inter-dealer quotation system or otherwise) as being willing to buy and sell such security for its own account on a regular or continuous basis. <sup>97</sup> Moreover, as the Commission has stated previously, a market maker engaged in bona-fide market making is a “broker-dealer that deals on a regular basis with other broker-dealers, actively buying and selling the subject security as well as regularly and continuously placing quotations in a quotation medium on both the bid and ask side of the market.” <sup>98</sup> We note that block positioners, to the extent they engage in bona fide block positioning activities, may also rely on this exception from the locate requirement in connection with such activities. Rule 3b- 8(c) of the Exchange Act (17 CFR 240.3b-8(c)) defines a “qualified block positioner” as a dealer that: (1) is a broker or dealer registered pursuant to Section 15 of the Exchange Act; (2) is subject to and in compliance with Rule 15c3-1 of the Exchange Act (17 CFR 240.15c3-1); (3) has and maintains minimum net capital, as defined in Rule 15c3-1, of $1,000,000; and (4) except when such activity is unlawful, meets all of the following conditions: (i) engages in the activity of purchasing long or selling short, from time to time, from or to a customer (other than a partner ora joint venture or other entity in which a partner, the dealer, or a person associated with such dealer, as defined in Section 3(a)(18) of the Exchange Act, participates) a block of stock with a current market value of $200,000 or more in a single transaction, or in several transactions at approximately the same time, from a single source to facilitate a sale or purchase by such customer, (ii) has determined in the exercise of reasonable diligence that the block could not be sold to or purchased from others on equivalent or better terms, and (iii) sells the shares comprising the block as rapidly as possible commensurate with the circumstances.
+
+As discussed below, in the 2004 Regulation Adopting Release, we provided examples of the types of activities that would indicate that a market maker is not engaged in bona fide market making activities. In addition to reiterating that guidance, we are also providing examples of the types of activities that would indicate that a market maker is engaged in bona fide market making activities for purposes of claiming the exception to Regulation SHO’s locate requirement.
+
+Although determining whether or not a market maker is engaged in bona-fide market making would depend on the facts and circumstances of the particular activity, factors that indicate a market maker is engaged in bona-fide market making activities may include, for example, whether the market maker incurs any economic or market risk with respect to the securities ( e.g. , by putting their own capital at risk to provide continuous two-sided quotes in markets). In fulfilling its obligations as a market maker, a market maker engaged in bona-fide market making may provide liquidity to a security's market, take the other side of trades when there are short-term buy-and-sell-side imbalances in customer orders, or attempt to prevent excess volatility. Such activities will result in the market maker assuming some risk. Thus, ifthe market maker does not incur any market risk with respect to a transaction or related set of transactions, the market maker may not be engaged in bona-fide market making activities. <sup>99</sup>
+
+A pattern of trading that includes both purchases and sales in roughly comparable amounts to provide liquidity to customers or other broker-dealers would generally be an indication that a market maker is engaged in bona-fide market making activity. Thus, even selling short into a declining market may be an indication that a market maker is engaged in bona-fide market making activity. Continuous quotations that are at or near the market on both sides and that are communicated and represented in a way that makes them widely accessible to investors and other broker-dealers are also an indication that a market maker is engaged in bona- fide market making activity. However, as noted above, a market maker must hold itself out as being willing to buy and sell a security for its own account on a regular or continuous basis.
+
+Thus, a market maker’s quotes must be generally accessible to the public for a market maker to be considered as holding itself out as being willing to buy and sell a security for its own account on a regular or continuous basis, and therefore, to be engaged in bona-fide market making activity.
+
+While determining whether or not a market maker is engaged in bona-fide market making would depend on the facts and circumstances of the particular activity, there are clear examples of what types of activities would not be bona-fide market making activities. For example, the Commission has stated that bona-fide market making does not include activity that is related to speculative selling strategies or investment purposes of the broker-dealer and is disproportionateto the usual market making patterns or practices of the broker-dealer in that security. <sup>100</sup> Likewise, where a market maker posts continually at or near the best offer, but does not also post at or near the best bid, the market maker’s activities would not generally qualify as bona-fide market making. <sup>101</sup> Moreover, a market maker that continually executes short sales away from its posted quotes would generally not be considered to be engaging in bona-fide market making. <sup>102</sup>
+
+For purposes of qualifying for the locate exception in Regulation SHO, a market maker must also be a market maker in the security being sold, and must be engaged in bona-fide market making in that security at the time of the short sale. <sup>103</sup>
+
+<h>V. Other Matters</h>
+
+The Administrative Procedure Act also generally requires that an agency publish an adopted rule in the Federal Register 30 days before it becomes effective. <sup>104</sup> This requirement, however, does not apply if the agency finds good cause for making the rule effective sooner. <sup>105</sup>
+
+As noted above, in the September Emergency Order, we adopted, and made immediately effective, amendments to Rule 203(b)(3) of Regulation SHO to eliminate the options market maker exception to Regulation SHO’s close-out requirement. The September Emergency Order expires on October 17, 2008. We believe that the amendments contained in this adopting release should be effective on October 17, 2008 so that the elimination of the options market maker exception becomes permanent when the September Emergency Order expires. In addition, webelieve that the amendments should become effective on October 17, 2008 so that fails to deliver resulting from short sales in both the equity and options markets receive similar treatment under the close-out requirements of Regulation SHO, and to further reduce fails to deliver and address potentially abusive “naked” short selling. Thus, the Commission finds good cause to make the amendments effective on October 17, 2008.
+
+<h>VI. Paperwork Reduction Act</h>
+
+The amendments to Regulation SHO do not contain a “collection of information” requirement within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>106</sup>
+
+<h>VII. Consideration of Costs and Benefits of Proposed Amendments to Regulation SHO</h>
+
+We are sensitive to the costs and benefits of our rules and we have considered the costs and the benefits of the amendments to Regulation SHO. In order to assist us in evaluating the costs and benefits, in the Reproposal, we encouraged commenters to discuss any costs or benefits that the amendments might impose. In particular, we requested comment on the potential costs for any modifications to both computer systems and surveillance mechanisms and for information gathering, management, and recordkeeping systems or procedures, as well as any potential benefits resulting from the amendments for registrants, issuers, investors, brokers or dealers, other securities industry professionals, regulators, and other market participants. Commenters were encouraged to provide analysis and data to support their views on the costs and benefits associated with the amendments to Regulation SHO.
+
+<h>A. Benefits</h>
+
+The amendments to Rule 203(b)(3) of Regulation SHO are intended to further reduce the number of persistent fails to deliver in threshold securities by eliminating the options marketmaker exception to Regulation SHO’s close-out requirement. As a result of the amendments, all fails to deliver in a threshold security resulting from short sales by a registered options market maker effected to establish or maintain a hedge on options positions established before the security became a threshold security will, like all other fails to deliver in threshold securities, have to be closed out in accordance with Regulation SHO’s close-out requirements. <sup>107</sup>
+
+We are concerned that large and persistent fails to deliver are not being closed out due to the options market maker exception in Regulation SHO, and that these fails to deliver may have a negative effect on the market in these securities. <sup>108</sup> For example, large and persistent fails to deliver may deprive shareholders of the benefits of ownership, such as voting and lending. <sup>109</sup> In addition, where a seller of securities fails to deliver securities on trade settlement date, in effect the seller unilaterally converts a securities contract (which should settle within the standard 3-day settlement period) into an undated futures-type contract, to which the buyer may not have agreed, or that would have been priced differently. <sup>110</sup> Moreover, sellers that fail to deliver securities on settlement date may enjoy fewer restrictions than if they were required to deliver the securities in a timely manner, and such sellers may attempt to use this additional freedom to engage in trading activities that deliberately depress the price of a security. <sup>111</sup> In addition, by not borrowing securities and, therefore, not making delivery within the standard three-day settlement period, the seller avoids the costs of borrowing.
+
+Thus, consistent with the Commission’s investor protection mandate, the amendments will benefit investors by facilitating the receipt of shares so that more investors receive the benefits associated with share ownership, such as the use of the shares for voting and lending purposes. The amendments will also enhance investor confidence as they make investment decisions by providing investors with greater assurance that securities will be delivered as expected. An increase in investor confidence in the market should facilitate investment.
+
+The amendments will also benefit issuers. A high level of persistent fails to deliver in a security may be perceived by potential investors negatively and may affect their decision about making a capital commitment. <sup>112</sup> For example, in response to the Reproposal, one commenter stated that it believes that the current options market maker exception “harms investors and issuers, hinders the formation of capital, and is fatally flawed as written” and that it should be eliminated. <sup>113</sup> Some issuers may believe that they have endured unwarranted reputational damage due to investors’ negative perceptions regarding a security having a large fail to deliver position and becoming a threshold security. <sup>114</sup> Thus, issuers may believe the elimination of the options market maker exception will restore their good name. Some issuers may also believe that large and persistent fails to deliver indicate that they have been the target of potentially manipulative conduct as a result of “naked” short selling. <sup>115</sup> Thus, elimination of the optionsmarket maker exception should decrease the possibility of artificial market influences and, therefore, should contribute to price efficiency.
+
+<h>B. Costs</h>
+
+To comply with Regulation SHO when it became effective in January 2005, market participants needed to modify their recordkeeping systems and surveillance mechanisms. In addition, market participants should have retained and trained the necessary personnel to ensure compliance with the rule. Thus, the infrastructure necessary to comply with the amendments should already be in place because the amendments will require that all fails to deliver be closed out in accordance with the close-out requirements of Regulation SHO. <sup>116</sup> The only fails to deliver not subject to Regulation SHO’s mandatory close-out requirements will be those fails to deliver that would be previously-excepted from the close-out requirement and, therefore, eligible for the one-time 35 consecutive settlement day phase-in period of the amendments. <sup>117</sup> Thus, we anticipate that any changes to personnel, computer hardware and software, recordkeeping or surveillance costs will be minimal.
+
+In the Reproposal, we requested comment regarding the costs of the proposed amendments to the options market maker exception and how those costs would affect liquidity in the options markets. As discussed above, commenters opposing the proposed amendments criticized the impact of the proposals on options market making risk, quote depths, spread widths, and market liquidity, particularly in threshold securities and securities that might become threshold securities. These commenters stated that the current exception is integral to the options market maker’s ability to make markets and manage risk and that, without the exception, makingcontinuous markets would be very difficult, particularly in longer-dated options. <sup>118</sup> One commenter suggested that “withdrawing or greatly reducing the exception would cause varying losses of liquidity in over 20% of listed options and their underlying stocks.” <sup>119</sup> Another commenter stated that “[i]f the exception is eliminated or narrowed in the manner proposed, [it] anticipates [options market makers] would be reluctant or even unable to effectively make markets on securities if they cannot be certain of their ability to establish and maintain an effective hedge and manage their risk through selling stock.” <sup>120</sup> Another commented that “[t]he uncertainty, time, processing and expense necessary to pre-borrow when effecting a short sale, as well as the uncertainty and expense caused by a close out of a hedge, will by its nature adversely affect the [options market makers’] pricing of the option.” <sup>121</sup> However, one commenter noted that “options market makers should factor the cost of borrowing stock and selling short into the price of the put options being sold.” <sup>122</sup> Another commenter noted that “[o]ptions market makers should have to pay to borrow stock like everyone else does. Most options market makers are excellent risk managers, and they can manage the risk that stock borrowing costs can fluctuate.
+
+Any additional costs involved will rightfully be passed to those who trade options.” <sup>123</sup>
+
+Although we recognize commenters’ concerns that a mandatory close-out requirement for fails to deliver in threshold securities underlying options positions, for the reasons outlined below, we believe these potential effects are justified by the benefits of requiring that fails todeliver in all threshold securities be closed out within specific time-frames rather than being allowed to continue indefinitely. In addition, we believe the overall market impact of these potential effects, if any, will be minimal.
+
+First, as discussed above, large and persistent fails to deliver can deprive shareholders of the benefits of ownership, such as voting and lending. They can also be indicative of potentially manipulative conduct, such as abusive “naked” short selling. The deprivation of the benefits of ownership, as well as the perception that abusive “naked” short selling is occurring in certain securities, can undermine the confidence of investors. These investors, in turn, may be reluctant to commit capital to an issuer they believe to be subject to manipulative conduct.
+
+In the Reproposal, we sought comment on whether the proposed amendments would promote capital formation, including whether the proposed increased short sale restrictions would affect investors’ decisions to invest in certain equity securities. Commenters expressed concern about “naked” short selling causing a drop in an issuer’s stock price and that it may limit an issuer’s ability to access the capital markets. <sup>124</sup> We believe that, by requiring that all fails to deliver in threshold securities be closed out within specific time-frames rather than allowing them to continue indefinitely, there will be a decrease in the number of threshold securities with persistent and high levels of fails to deliver. If persistence on the threshold securities lists leads to an unwarranted decline in investor confidence about the security, the amendments should improve investor confidence about the security. <sup>125</sup> We also believe that the reduction in fails to deliver and the resulting reduction in the number of securities on the threshold securities lists should strengthen investor confidence and increase certainty in the settlement process.
+
+Thus, by eliminating the options market maker exception so that all fails to deliver in threshold securities that result from short sales effected to maintain or establish a hedge on options positions will have to be closed out in accordance with Regulation SHO’s close-out requirements, <sup>126</sup> we expect a reduction in the number of threshold securities with large and persistent fails to deliver and, thereby, offsetting any potential negative impact of such fails to deliver on the market for these securities.
+
+Second, while we recognize commenters’ concerns that on a security-by-security basis the impact on options market maker costs, liquidity, quote depths, and spread widths may vary considerably, and in some cases, might be large, <sup>127</sup> we believe the overall market impact of the amendments will be minimal because the number of securities that will be impacted by the amendments will be relatively small. As previously noted by one commenter, a small number of securities that meet the definition of a “threshold security” have listed options, and those securities form a very small percentage of all securities that have options traded on them. <sup>128</sup> In addition, OEA estimates that in July 2008, 451 (13.6%) of the 3,326 securities with options classes trading on at least one options market appeared on a threshold securities list for at least one day that month. Even though these securities may form a small percentage of all securities that have options traded on them, we are still concerned that these fails to deliver can have a disproportionate impact on the markets and shareholders.
+
+Moreover, the options market maker exception only excepted from Regulation SHO’s mandatory 13 consecutive settlement day close-out requirement only those fail to deliverpositions that resulted from short sales effected by registered options market makers to establish or maintain a hedge on options positions established before the underlying security became a threshold security. Thus, it does not apply to fails to deliver resulting from short sales effected to establish or maintain a hedge on options positions established after the underlying security became a threshold security. Because the options market maker exception has a very limited application, we anticipate that the overall impact of its removal on liquidity, hedging costs, spreads, and depth should be relatively small. Nevertheless, we understand commenters’ concerns that on a security-by-security basis the impact on options market maker costs might, in some cases, be large. However, on balance, we believe such costs are justified by the benefits that are expected to result from requiring that all fails to deliver in threshold securities be closed out within specific time-frames rather than being allowed to continue indefinitely.
+
+Third, some commenters noted concerns about having to close out fails to deliver in connection with the hedging of longer-term options because such fails may have been open for months or years. <sup>129</sup> These commenters suggested that with respect to such fails to deliver, the close-out requirement be tied to the expiration or liquidation of such options. However, this would mean that these fails to deliver could persist for months or years. We believe that all fails to deliver in threshold securities must be closed out in a timely manner. Longer-term options can have expiration periods that extend for years. To tie the close out of a fail to deliver position resulting from a hedge of such options to the liquidation or expiration of such options would undermine this goal. As discussed above, large and persistent fails to deliver can deprive shareholders of the benefits of ownership, such as voting and lending. We also believe that all sellers of securities should promptly deliver, or arrange for delivery of, securities to therespective buyer and all buyers of securities have a right to expect prompt delivery of securities purchased.
+
+In addition, the 35 consecutive settlement day phase-in period of the amendments allows participants sufficient time to close out any previously excepted fail to deliver positions that may have been open for month or years as a result of hedging activity in connection with longer-term options. The phase-in period limits the disruption to the market and helps foster market stability because it provides participants with a sufficient length of time to close out these positions in an orderly manner.
+
+Fourth, the potential impact of the amendments on options market making risk, quote depths, spread widths, and market liquidity will be limited because, as noted above, Regulation SHO’s options market maker exception applied only to those fail to deliver positions that resulted from short sales effected by registered options market makers to establish or maintain a hedge on options positions established before the underlying security became a threshold security. Thus, it does not apply to fails to deliver resulting from short sales effected to establish or maintain a hedge on options positions established after the underlying security became a threshold security. Some commenters stated that they believe there has been harm to the markets under the current close out structure of Regulation SHO. <sup>130</sup> As we noted in the Reproposal, however, in examining the application of the mandatory close-out requirement of Rule 203(b)(3) of Regulation SHO for all non-excepted fail to deliver positions, it does not appear that Rule 203(b)(3)’s close-out requirement for non-excepted fails to deliver in threshold securities has impacted options market makers’ willingness to provide liquidity in threshold securities orsecurities likely to become threshold securities, or substantially impacted option market maker risk, quote depths, or spread widths.
+
+We also note that option market makers may only need to hedge via a short sale in the equity markets for a small fraction of their total trading activity. Academic research suggests that non-market maker option open interest tends to heavily favor the upside, which implies that the customary hedge for the typical option market making position is a long equity position rather than a short equity position. <sup>131</sup> More recent data from January to July 2008 also suggests an upside bias in option open interest. <sup>132</sup>
+
+Fifth, while commenters may believe that a mandatory close-out requirement for all fails to deliver resulting from hedging activity in the options markets may potentially impact liquidity, hedging costs, depth, or spreads, or impact the willingness of options market makers to make markets in certain securities, we believe that such potential effects are justified by our belief that fails to deliver resulting from hedging activities by options market makers should be treated similarly to fails to deliver resulting from sales in the equities markets so that market participants trading threshold securities in the options markets do not receive an advantage over those trading such securities in the equities markets.
+
+As discussed above, commenters who opposed elimination of the exception argued that options market makers, unlike equity market makers, should have an exception to Regulation SHO’s close-out requirement because there are distinct differences between options market making and market making in the underlying stock. We do not believe that for purposes of the close-out requirement of Regulation SHO, options and equity market makers should be treateddifferently. Due to our concerns about the potentially negative market impact of large and persistent fails to deliver, and the fact that we continue to observe a small number of threshold securities with fail to deliver positions that are not being closed out under existing delivery and settlement requirements, we adopted amendments to eliminate Regulation SHO’s “grandfather” provision that allowed fails to deliver resulting from long or short sales of equity securities to persist indefinitely if the fails to deliver occurred prior to the security becoming a threshold security. <sup>133</sup> We believe that once a security becomes a threshold security, fails to deliver in that security must be closed out, regardless of whether or not the fails to deliver resulted from sales of the security in connection with the options or equities markets.
+
+Moreover, we are concerned that the options market maker exception might have allowed for a regulatory arbitrage not permitted in the equities markets. <sup>134</sup> For example, an options market maker who sells short to hedge put options purchased by a market participant unable to locate shares for a short sale in accordance with Rule 203(b)(2) of Regulation SHO may not have to close out any fails to deliver that result from such short sales under the options market maker exception. The ability of options market makers to sell short and never have to close out a resulting fail to deliver position, provided the short sale was effected to hedge options positions created before the security became a threshold security, runs counter to the goal of requiring that all fails to deliver in threshold securities be closed out.
+
+Also, the pre-borrow requirement of Adopted Rule 203(b)(3)(v) for fail to deliver positions that are not closed out within the applicable time-frame set forth in the amendments will result in limited, if any, costs to participants of a registered clearing agency, and optionsmarket makers for which they clear transactions. <sup>135</sup> The pre-borrow requirement is similar to the pre-borrow requirement of Rule 203(b)(3)(iv) of Regulation SHO relating to fails to deliver that have not been closed out in accordance with the 13 consecutive settlement day close-out requirement of Regulation SHO. <sup>136</sup> Thus, participants of a registered clearing agency, and any options market maker for which it clears transactions, must already comply with such a requirement if a fail to deliver position has not been closed out in accordance with Regulation SHO’s mandatory close-out requirement. Accordingly, these entities should already have in place the personnel, recordkeeping, systems, and surveillance mechanisms necessary to comply with the adopted pre-borrow requirement. While the pre-borrow requirement may be costly in each instance it is used, pre-borrowing is not necessary if a close-out is completed on time and, therefore, may be used only rarely.
+
+<h>VIII. Consideration of Burden and Promotion of Efficiency, Competition, and Capital Formation</h>
+
+Section 3(f) of the Exchange Act requires the Commission, whenever it engages in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action would promote efficiency, competition, and capital formation. <sup>137</sup> In addition, Section 23(a)(2) of the Exchange Act requires the Commission, when making rules under the Exchange Act, to consider the impact such rules would have on competition. <sup>138</sup> Exchange Act Section 23(a)(2) prohibits the Commission fromadopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+We believe the amendments will have minimal impact on the promotion of price efficiency. In the Reproposal, we sought comment on whether the amendments would promote price efficiency. Commenters expressed concern that failures to deliver due to the options market maker exception harm pricing efficiency in the equity markets. <sup>139</sup> Other commenters stated that the proposed amendments to the options market maker exception would disrupt the markets because they would not provide sufficient flexibility to permit efficient hedging by options market makers, would unnecessarily increase risks and costs to hedge, and would adversely impact liquidity and result in higher costs to customers. <sup>140</sup> These commenters stated that they believe the proposed amendments would likely discourage options market makers from making markets in illiquid securities since the risk associated in maintaining the hedges in these option positions would be too great. <sup>141</sup> Moreover, these commenters stated that the reluctance of options market makers to make markets in threshold securities would result in wider spreads in such securities to account for the increased costs of hedging, to the detriment of investors. <sup>142</sup>
+
+We recognize commenters’ concerns that a mandatory close-out requirement for fails to deliver in threshold securities underlying options positions may potentially impact options market makers’ willingness to provide liquidity in threshold securities, make it more costly for options market makers to accommodate customer orders, or result in wider bid-ask spreads orless depth. <sup>143</sup> For the reasons discussed below, however, we believe that the overall impact of these potential effects, if any, will be minimal.
+
+We believe that the overall market impact of the amendments will be minimal because the number of securities that will be impacted by the amendments will be relatively small. The amendments apply only to those threshold securities with listed options. As previously noted by one commenter, a small number of securities that meet Regulation SHO’s definition of a “threshold security” have listed options, and those securities form a very small percentage of all securities that have options traded on them. <sup>144</sup> In addition, the amendments will only impact fails to deliver in those securities that resulted from short sales by registered options market makers to hedge options positions that were created before, rather than after, the security became a threshold security because all other fails to deliver in threshold securities are already subject to Regulation SHO’s close-out requirements. <sup>145</sup>
+
+Because the options market maker exception has a very limited application, we anticipate that the overall impact of its removal on liquidity, hedging costs, spreads, and depth will be relatively small. Nevertheless, we understand commenters’ concerns that on a security-by- security basis the impact on options market maker costs might, in some cases, be large.
+
+However, on balance, we believe such costs are justified by the benefits that are expected to result from requiring that all fails to deliver in threshold securities be closed out within specific time-frames rather than being allowed to continue indefinitely.
+
+We also note that option market makers may only need to hedge via a short sale in the equity markets for a small fraction of their total trading activity. Academic research suggests that non-market maker option open interest tends to heavily favor the upside, which implies that the customary hedge for the typical option market making position is a long equity position rather than a short equity position. <sup>146</sup> More recent data from January to July 2008 also suggests an upside bias in option open interest. <sup>147</sup>
+
+In addition, the 35 consecutive settlement day phase-in period of the amendments allows participants sufficient time to close out any previously excepted fail to deliver positions that may have been open for months or years as a result of hedging activity in connection with longer-term options. The phase-in period limits the disruption to the market, and helps foster market stability by providing participants with a sufficient length of time to close out these positions in an orderly manner. Some of the commenters to the Reproposal also noted that 13 consecutive settlement days was more than sufficient to close out a fail to deliver relating to an options position. <sup>148</sup>
+
+While commenters may believe that a mandatory close-out requirement may potentially impact liquidity, hedging costs, depth, or spreads, or impact the willingness of options market makers to make markets in securities subject to such a requirement, we believe such potential effects are justified by our belief that fails to deliver resulting from hedging activities by options market makers should be treated similarly to fails to deliver resulting from sales in the equities markets so that market participants trading threshold securities in the options markets do notreceive an advantage over those trading such securities in the equities markets. In addition, we believe that such potential costs are justified by the benefits of requiring that all fails to deliver be closed out rather than being allowed to continue indefinitely.
+
+We also believe that the amendments will have minimal impact on the promotion of capital formation. Large and persistent fails to deliver can deprive shareholders of the benefits of ownership, such as voting and lending. They can also be indicative of potentially manipulative conduct, such as abusive “naked” short selling. The deprivation of the benefits of ownership, as well as the perception that abusive “naked” short selling is occurring in certain securities, can undermine the confidence of investors. These investors, in turn, may be reluctant to commit capital to an issuer they believe to be subject to such manipulative conduct.
+
+In the Reproposal, we sought comment on whether the proposed amendments would promote capital formation, including whether the proposed increased short sale restrictions would affect investors’ decisions to invest in certain equity securities. Commenters expressed concern about the potential impact of “naked” short selling on capital formation claiming that “naked” short selling causes a drop in an issuer’s stock price that may limit the issuer’s ability to access the capital markets. <sup>149</sup> Another commented that the options market maker exception “is a well known tool of manipulators and must be removed to ensure a level playing field for public companies and their shareholders.” <sup>150</sup> In addition, one commenter stated that it believes that thecurrent options market maker exception “harms investors and issuers, hinders the formation of capital, and is fatally flawed as written” and that it should be eliminated. <sup>151</sup>
+
+By requiring that all fails to deliver in threshold securities be closed out rather than allowing them to continue indefinitely, we believe that there will be a decrease in the number of threshold securities with persistent and high levels of fails to deliver. If persistence on the threshold securities lists leads to an unwarranted decline in investor confidence about the security, the amendments should improve investor confidence about the security. We also believe that the amendments will lead to greater certainty in the settlement of securities which should strengthen investor confidence in the settlement process. The reduction in fails to deliver and the resulting reduction in the number of securities on the threshold securities lists may result in increased investor confidence.
+
+The amendments to eliminate the options market maker exception will also not impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. By eliminating the options market maker exception, the Commission believes the amendments will promote competition by requiring similarly situated participants of a registered clearing agency, including broker-dealers for which they clear transactions, to close out fails to deliver in all threshold securities within similar time-frames. <sup>152</sup> One commenter, in particular,noted that the options market maker exception “is a well known tool of manipulators and must be removed to ensure a level playing field for public companies and their shareholders.” <sup>153</sup>
+
+As discussed above, commenters who opposed elimination of the exception argued that options market makers, unlike equity market makers, should have an exception to Regulation SHO’s close-out requirement because there are distinct differences between options market making and market making in the underlying stock. We do not believe that for purposes of the close-out requirement of Regulation SHO, options and equity market makers should be treated differently. Due to our concerns about the potentially negative market impact of large and persistent fails to deliver, and the fact that we continue to observe a small number of threshold securities with fail to deliver positions that are not being closed out under existing delivery and settlement requirements, we adopted amendments to eliminate Regulation SHO’s “grandfather” provision that allowed fails to deliver resulting from long or short sales of equity securities to persist indefinitely if the fails to deliver occurred prior to the security becoming a threshold security. <sup>154</sup> We believe that once a security becomes a threshold security, fails to deliver in that security must be closed out, regardless of whether or not the fails to deliver resulted from sales of the security in connection with the options or equities markets.
+
+Moreover, we are concerned that the options market maker exception might allow for a regulatory arbitrage not permitted in the equities markets. <sup>155</sup> For example, an options market maker who sells short to hedge put options purchased by a market participant unable to locateshares for a short sale in accordance with Rule 203(b)(2) of Regulation SHO may not have to close out any fails to deliver that result from such short sales under the options market maker exception. The ability of options market makers to sell short and never have to close out a resulting fail to deliver position, provided the short sale was effected to hedge options positions created before the security became a threshold security, runs counter to the goal of requiring that all fails to deliver in threshold securities be closed out.
+
+<h>IX. Final Regulatory Flexibility Analysis</h>
+
+The Commission has prepared a Final Regulatory Flexibility Analysis (“FRFA”), in accordance with the provisions of the Regulatory Flexibility Act (“RFA”), <sup>156</sup> regarding the amendments to Regulation SHO, Rule 203, under the Exchange Act. An Initial Regulatory Flexibility Analysis (“IRFA”) was prepared in accordance with the RFA and was included in the Reproposal. We solicited comments on the IRFA.
+
+<h>A. Reasons for and Objectives of the Amendments</h>
+
+The amendments to Rule 203(b)(3) of Regulation SHO are intended to further reduce the number of persistent fails to deliver in threshold securities by eliminating the options market maker exception to Regulation SHO’s close-out requirement. As a result of the amendments, all fails to deliver in a threshold security resulting from short sales by a registered options market maker effected to establish or maintain a hedge on options positions established before the security became a threshold security will, like all other fails to deliver in threshold securities, have to be closed out in accordance with the close-out requirements of Regulation SHO. <sup>157</sup>
+
+We are concerned that persistent, large fail positions may have a negative effect on the market in these securities. For example, although high fails levels exist only for a small percentage of issuers, they may impede the orderly functioning of the market for such issuers, particularly issuers of less liquid securities. A significant level of fails to deliver in a security may have adverse consequences for shareholders who may be relying on delivery of those shares for voting and lending purposes, or may otherwise affect an investor’s decision to invest in that particular security. In addition, a seller that fails to deliver securities on trade settlement date effectively unilaterally converts a securities contract into an undated futures-type contract, to which the buyer might not have agreed, or that would have been priced differently. Moreover, sellers that fail to deliver securities on settlement date may enjoy fewer restrictions than if they were required to deliver the securities in a timely manner, and such sellers may attempt to use this additional freedom to engage in trading activities that deliberately depress the price of a security.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+The IRFA appeared in the Reproposal. We requested comment on any aspect of the IRFA. In particular, we requested comment on: (i) the number of small entities that would be affected by the amendment; and (ii) the existence or nature of the potential impact of the amendments on small entities. We requested that the comments specify costs of compliance with the amendment, and suggest alternatives that would accomplish the objectives of the amendment. We did not receive any comments that responded specifically to this request.
+
+<h>C. Small Entities Subject to the Amendment</h>
+
+The entities covered by the amendments will include small entities that are participants of a registered clearing agency, including small registered options market makers for which theparticipant clears trades or for which it is responsible for settlement. In addition, the entities covered by these amendments will include small entities that are market participants that effect sales subject to the requirements of Regulation SHO. Most small entities subject to the amendments will be registered broker-dealers. Paragraph (c)(1) of Rule 0-10 <sup>158</sup> states that the term “small business” or “small organization,” when referring to a broker-dealer, means a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to §240.17a-5(d); and is not affiliated with any person (other than a natural person) that is not a small business or small organization. As of 2007, the Commission estimates that there were approximately 896 registered broker-dealers that qualified as small entities as defined above. <sup>159</sup>
+
+As noted above, the entities covered by the amendments will include small entities that are participants of a registered clearing agency. As of July 31, 2008, approximately 91% of participants of the NSCC, the primary registered clearing agency responsible for clearing U.S. transactions, were registered as broker-dealers. Participants not registered as broker-dealers include such entities as banks, U.S.-registered exchanges, and clearing agencies. Although these entities are participants of a registered clearing agency, generally these entities do not engage in the types of activities that would implicate the close-out requirements of Regulation SHO. Such activities of these entities include creating and redeeming Exchange Traded Funds, trading in municipal securities, and using NSCC’s Envelope Settlement Service or Inter-city Envelope Settlement Service. These activities rarely lead to fails to deliver and, if fails to deliver do occur,they are small in number and are usually cleaned up within a day. Thus, such fails to deliver would not trigger the close-out provisions of Regulation SHO.
+
+The federal securities laws do not define what is a “small business” or “small organization” when referring to a bank. The Small Business Administration regulations define “small entities” to include banks and savings associations with total assets of $165 million or less. <sup>160</sup> As of July 31, 2008, no bank that was a participant of the NSCC was a small entity because none met these criteria.
+
+Paragraph (e) of Rule 0-10 under the Exchange Act <sup>161</sup> states that the term “small business” or “small organization,” when referring to an exchange, means any exchange that: (1) has been exempted from the reporting requirements of Rule 11Aa3-1 under the Exchange Act; and (2) is not affiliated with any person (other than a natural person) that is not a small business or small organization, as defined by Rule 0-10. No U.S. registered exchange is a small entity because none meets these criteria.
+
+Paragraph (d) of Rule 0-10 under the Exchange Act <sup>162</sup> states that the term “small business” or “small organization,” when referring to a clearing agency, means a clearing agency that: (1) compared, cleared and settled less than $500 million in securities transactions during the preceding fiscal year (or in the time that it has been in business, if shorter); (2) had less than$200 million in funds and securities in its custody or control at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (3) is not affiliated with any person (other than a natural person) that is not a small business or small organization as definedby Rule 0-10. No clearing agency that is subject to the requirements of Regulation SHO is a small entity because none meets these criteria.
+
+<h>D. Reporting, Recordkeeping, and other Compliance Requirements</h>
+
+The amendments to eliminate the options market maker exception to Regulation SHO’s close-out requirement will impose minimal new or additional reporting, recordkeeping, or compliance costs on broker-dealers that are small entities. In order to comply with Regulation SHO when it became effective in January, 2005, entities needed to modify their systems and surveillance mechanisms. Thus, the infrastructure necessary to comply with the amendments to eliminate the options market maker exception should already be in place. Any additional changes to the infrastructure should be minimal. In addition, entities that will be subject to the mandatory close-out requirement of Rule 203(b)(3) of Regulation SHO should already have systems in place to close out non-excepted fails to deliver as required by Regulation SHO.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The RFA directs the Commission to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, the Commission considered the following types of alternatives: (a) establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (b) clarification, consolidation, or simplification of compliance and reporting requirements under the amendments for small entities; (c) use of performance rather than design standards; and (d) an exemption from coverage of the amendment, or any part thereof, for small entities.
+
+A primary goal of the amendments is to reduce the number of persistent fails to deliver in threshold securities. As such, we believe that imposing different compliance requirements, andpossibly a different timetable for implementing compliance requirements, for small entities would undermine the goal of reducing fails to deliver. In addition, the rule amendment is already quite simple, so we do not believe it necessary to further clarify, consolidate or simplify the amendments for small entities. The Commission also believes that using performance standards to specify different requirements for small entities or exempting small entities from having to comply with the amendment would not accomplish the regulatory goal of adopting a consistent approach to persistent fails to deliver.
+
+<h>X. Statutory Authority</h>
+
+<END MAIN TEXT>
+
+1 See Exchange Act Release No. 56213 (Aug. 7, 2007), 72 FR 45558 (Aug. 14, 2007) (“Reproposal”); see also Exchange Act Release No. 54154 (July 14, 2006), 71 FR 41710 (July 21, 2006) (“2006 Regulation SHO Proposed Amendments”); Exchange Act Release No. 58107 (July 7, 2008), 73 FR 40201 (July 14, 2008) (“2008 Regulation SHO Re-Opening Release”).
+
+2 17 CFR 242.200; see also Securities Exchange Act Release No. 50103 (July 28, 2004), 69 FR 48008 (Aug. 6, 2004) (“2004 Regulation SHO Adopting Release”).
+
+3 Rule 200(a) of Regulation SHO defines a short sale as “any sale of a security which the seller does not own or any sale which is consummated by the delivery of a security borrowed by, or for the account of, the seller.” 17 CFR 242.200(a).
+
+4 Generally, investors complete or settle their security transactions within three business days. This settlement cycle is known as T+3 (or "trade date plus three days"). T+3 means that when a trade occurs, the participants to the trade deliver and pay for the security at a clearing agency three business days after the trade is executed. The three-day settlement period applies to most security transactions, including stocks, bonds, municipal securities, mutual funds traded through a brokerage firm, and limited partnership interests that trade on an exchange. Government securities and stock options settle on the next business day following the trade. In addition, Rule 15c6-1 prohibits broker-dealers from effecting or entering into a contract for the purchase or sale of a security that provides for payment of funds and delivery of securities later than the third business day after the date of the contract unless otherwise expressly agreed to by the parties at the time of the transaction. 17
+
+5 We have previously noted that abusive “naked” short selling, while not defined in the federal securities laws generally refers to selling short without having stock available for delivery and intentionally failing to deliver stock within the standard three day settlement cycle. See 2004 Regulation SHO Adopting Release, 69 FR at 48009, n.10; Exchange Act Release No. 56212 (Aug. 7, 2007), 72 FR at 45544, n.3 (Aug. 14, 2007) (“2007 Regulation SHO Final Amendments”); Exchange Act Release No. 57511 (March 17, 2008), 73 FR 15376 (March 21, 2008) (“Naked Short Selling Anti-Fraud Rule Proposing Release”).
+
+6 In 2003, the Commission settled a case against certain parties relating to allegations of manipulative short selling in the stock of Sedona Corporation. The Commission alleged that the defendants profited from engaging in massive “naked” short selling that flooded the market with Sedona stock, and depressed its price. See Rhino Advisors, Inc. and Thomas Badian, Lit. Rel. No. 18003 (Feb. 27, 2003); see also, SEC v. Rhino Advisors, Inc. and Thomas Badian, Civ. Action No. 03 civ 1310 (RO) (S.D.N.Y); see also, Securities Exchange Act Release No. 48709 (Oct. 28, 2003), 68 FR 62972, 62975 (Nov. 6, 2003) (“2003 Regulation SHO Proposing Release”) (describing the alleged activity in the case involving stock of Sedona Corporation); 2004 Regulation SHO Adopting Release, 69 FR at 48016, n.76.
+
+7 According to the National Securities Clearing Corporation (“NSCC”), 99% (by dollar value) of all trades settle on time. Thus, on an average day, approximately 1% (by dollar value) of all trades, including equity, debt, and municipal securities fail to settle. The vast majority of these fails are closed out within five days after T+3.
+
+8 These fails to deliver may arise from either short or long sales of securities. There may be legitimate reasons for a fail to deliver. For example, human or mechanical errors or processing delays can result from transferring securities in custodial or other form rather than book-entry form, thereby causing a fail to deliver on a long sale within the normal three-day settlement period. In addition, broker-dealers that make markets in a security (“market makers”) and who sell short thinly-traded, illiquid stock in response to customer demand may encounter difficulty in obtaining securities when the time for delivery arrives. The Commission’s Office of Economic Analysis (“OEA”) estimates that, on an average day between May 1, 2007 and July 31, 2008 (i.e., the time period that includes all full months after the Commission started receiving price data from NSCC), trades in “threshold securities,” as defined in Rule 203(b)(c)(6) of Regulation SHO, that fail to settle within T+3 account for approximately 0.3% of dollar value of trading in all equity securities.
+
+9 The average daily number of securities on a threshold list (as defined infra note 22) in July 2008 was approximately 523 securities, which comprised 0.6% of all equity securities, including those that are not covered by Regulation SHO. Regulation SHO’s close-out requirement applies to any equity security of an issuer that is registered under Section 12 of the Exchange Act, or that is required to file reports pursuant to Section 15(d) of the Exchange Act.
+
+10 See 2007 Regulation SHO Final Amendments, 72 FR at 45544; 2006 Regulation SHO Proposed Amendments, 71 FR at 41712; Reproposal, 72 FR at 45558-45559; “Naked” Short Selling Anti-Fraud Rule Proposing Release, 73 FR at 15378.
+
+11 See id.
+
+12 See id.
+
+13 See Reproposal, 72 FR at 45559.
+
+14 See 2006 Regulation SHO Proposed Amendments, supra note 1.
+
+15 See, e.g., letter from Patrick M. Byrne, Chairman and Chief Executive Officer, Overstock.com, Inc., dated Sept. 11, 2006; letter from Daniel Behrendt, Chief Financial Officer, and Douglas Klint, General Counsel, TASER International, dated Sept. 18, 2006; letter from John Royce, dated April 30, 2007; letter from Michael Read, dated April 29, 2007; letter from Robert DeVivo, dated April 26, 2007 (“DeVivo”); letter from Ahmed Akhtar, dated April 26, 2007.
+
+16 See, e.g., letter from Jack M. Wedam, dated Oct. 16, 2007; letter from Michael J. Ryan, Executive Director and Senior Vice President, Center for Capital Markets Competitiveness, U.S. Chamber of Commerce, dated Sept. 13, 2007 (“U.S. Chamber of Commerce”); letter from Robert W. Raybould, CEO Enteleke Capital Corp., dated Sept. 12, 2007 (“Raybould”); letter from Mary Helburn, Executive Director, National Coalition Against Naked Shorting, dated Sept. 11, 2007 (“NCANS”).
+
+17 See supra, note 6 (discussing a case in which we alleged that the defendants profited from engaging in massive “naked” short selling that flooded the market with the company’s stock, and depressed its price); see also S.E.C. v. Gardiner, 48 S.E.C. Docket 811, No. 91 Civ. 2091 (S.D.N.Y. March 27, 1991) (alleged manipulation by sales representative by directing or inducing customers to sell stock short in order to depress its price); U.S. v. Russo, 74 F.3d 1383, 1392 (2d Cir. 1996) (short sales were sufficiently connected to the manipulation scheme as to constitute a violation of Exchange Act Section 10(b) and Rule 10b–5).
+
+18 In response to the Reproposal, we received comment letters discussing the impact of fails to deliver on investor confidence. See, e.g., letter from NCANS. Commenters expressed similar concerns in response to the 2006 Regulation SHO Proposed Amendments. See, e.g., letter from Mary Helburn, Executive Director, National Coalition Against Naked Shorting, dated Sept. 30, 2006 (“NCANS 2006”); letter from Richard Blumenthal, Attorney General, State of Connecticut, dated Sept. 19, 2006 (“Blumenthal”).
+
+19 In response to the Reproposal, we received comment letters expressing concern about the impact of potential “naked” short selling on capital formation, claiming that “naked” short selling causes a drop in an issuer’s stock price and may limit the issuer’s ability to access the capital markets. See, e.g., letter from Robert K. Lifton, Chairman and CEO, Medis Technologies, Inc., dated Sept. 12, 2007 (“Medis”); letter from NCANS. Commenters expressed similar concerns in response to the 2006 Regulation SHO Proposed Amendments. See, e.g., letter from Congressman Tom Feeney - Florida, U.S. House of Representatives, dated Sept. 25, 2006 (“Feeney”); see also letter from Zix Corporation, dated Sept. 19, 2006 (“Zix”) (stating that “[m]any investors attribute the Company’s frequent re-appearances on the Regulation SHO list to manipulative short selling and frequently demand that the Company “do something” about the perceived manipulative short selling. This perception that manipulative short selling of the Company’s securities is continually occurring has undermined
+
+20 Due in part to such concerns, some issuers have taken actions to attempt to make transfer of their securities “custody only,” thus preventing transfer of their stock to or from securities intermediaries such as the Depository Trust Company (“DTC”) or broker-dealers. See Exchange Act Release No. 48709 (Oct. 28, 2003), 68 FR 62972, at 62975 (Nov. 6, 2003). Some issuers have attempted to withdraw their issued securities on deposit at DTC, which makes the securities ineligible for book-entry transfer at a securities depository. See id. Withdrawing securities from DTC or requiring custody-only transfers would undermine the goal of a national clearance and settlement system that is designed to reduce the physical movement of certificates in the trading markets. See id. We note, however, that in 2003 the Commission approved a DTC rule change clarifying that its rules provide that only its participants may withdraw securities from their accounts at DTC, and establishing a procedure to process issuer withdrawal requests. See Securities Exchange Act Release No. 47978 (June 4, 2003), 68 FR 35037 (June 11, 2003).
+
+21 See 2006 Regulation SHO Proposed Amendments, 71 FR at 41712; 2007 Regulation SHO Final Amendments, 72 FR at 45544; Reproposal, 72 FR at 45558-45559; “Naked” Short Selling Anti-Fraud Rule Proposing Release, 73 FR at 15378 (providing additional discussion of the impact of fails to deliver on the market); see also 2003 Regulation SHO Proposing Release, 68 FR at 62975 (discussing the impact of “naked” short selling on the market).
+
+22 A threshold security is defined in Rule 203(c)(6) as any equity security of an issuer that is registered pursuant to section 12 of the Exchange Act (15 U.S.C. 78l) or for which the issuer is required to file reports pursuant to section 15(d) of the Exchange Act (15 U.S.C. 78o(d)): (i) for which there is an aggregate fail to deliver position for five consecutive settlement days at a registered clearing agency of 10,000 shares or more, and that is equal to at least 0.5% of the issue's total shares outstanding; and (ii) that is included on a list (“threshold securities list”) disseminated to its members by a self-regulatory organization (“SRO”). See 17 CFR 242.203(c)(6). Currently, each SRO provides the threshold securities list for those securities for which the SRO is the primary market.
+
+23 For purposes of Regulation SHO, the term “participant” has the same meaning as in section 3(a)(24) of the Exchange Act. See 15 U.S.C. 78c(a)(24). The term “registered clearing agency” means a clearing agency, as defined in section 3(a)(23) of the Exchange Act, that is registered as such pursuant to section 17A of the Exchange Act. See 15 U.S.C. 78c(a)(23)(A), 78q-1 and 15 U.S.C. 78q-1(b), respectively. See also 2004 Regulation SHO Adopting Release, 69 FR at 48031. As of July 31, 2008 approximately 91% of participants of
+
+24 The majority of equity trades in the United States are cleared and settled through systems administered by clearing agencies registered with the Commission. The NSCC clears and settles the majority of equity securities trades conducted on the exchanges and over the counter. NSCC clears and settles trades through the CNS system, which nets the securities delivery and payment obligations of all of its members. NSCC notifies its members of their securities delivery and payment obligations daily. In addition, NSCC guarantees the completion of all transactions and interposes itself as the contraparty to both sides of the transaction. While NSCC’s rules do not authorize it to require member firms to close out or otherwise resolve fails to deliver, NSCC reports to the SROs those securities with fails to deliver of 10,000 shares or more. The SROs use NSCC fails data to determine which securities are threshold securities for purposes of Regulation SHO.
+
+25 17 CFR 242.203(b)(3).
+
+26 Id. at (b)(3)(iv). It is possible under Regulation SHO that a close out by a participant of a registered clearing agency may result in a fail to deliver position at another participant if the counterparty from which the participant purchases securities fails to deliver. However, Regulation SHO prohibits a participant of a registered clearing agency, or a broker-dealer for which it clears transactions, from engaging in “sham close outs” by entering into an arrangement with a counterparty to purchase securities for purposes of closing out a fail to deliver position and the purchaser knows or has reason to know that the counterparty will not deliver the securities, and which thus creates another fail to deliver position. See id. at (b)(3)(vii); 2004 Regulation SHO Adopting Release, 69 FR at 48018 n.96. In addition, we note that borrowing securities, or otherwise entering into an arrangement with another person to create the appearance of a purchase would not satisfy the close-out requirement of Regulation SHO. For example, the purchase of paired positions of stock and options that are designed to create the appearance of a bona fide purchase of securities but that are nothing more than a temporary stock lending arrangement would not satisfy Regulation SHO’s close-out requirement.
+
+27 See 2004 Regulation SHO Adopting Release, 69 FR at 48031. The “grandfathered” status applied in two situations: (i) to fail to deliver positions occurring before January 3, 2005, Regulation SHO’s effective date; and (ii) to fail to deliver positions that were established on or after January 3, 2005 but prior to the security appearing on a threshold securities list.
+
+28 See 2004 Regulation SHO Adopting Release, 69 FR at 48031.
+
+29 See id. at 48018.
+
+30 See id. at 48019.
+
+31 See 2006 Regulation SHO Proposed Amendments, 71 FR 41710.
+
+32 See Securities Exchange Act Release No. 55520 (March 26, 2007), 72 FR 15079 (March 30, 2007) (“2007 Regulation SHO Re-Opening Release”).
+
+33 See 2007 Regulation SHO Final Amendments, 72 FR 45544.
+
+34 See Reproposal, 72 FR 45558.
+
+35 See id.
+
+36 The comment letters are available on the Commission’s Internet Web Site at 19-07/s71907.shtml.
+
+37 See, e.g., Comments of Keith F. Higgins, Committee on Federal Regulation of Securities, American Bar Association, Section of Business Law, dated Oct. 5, 2007 (“ABA”); comments of John Gilmartin and Ben Londergan, Group One Trading, LP, dated Sept. 28, 2007; see also comments of Gerald D. O’Connell, Susquehanna Investment Group, dated Oct. 11, 2007 (“Susquehanna”).
+
+38 See letter from ABA.
+
+39 See 2008 Regulation SHO Re-Opening Release, 73 FR 40201.
+
+40 On September 17, 2008, we issued an emergency order pursuant to Section 12(k)(2) of the Exchange Act in which we adopted and made immediately effective the elimination of the options market maker exception to Regulation SHO’s close-out requirement. See Exchange Act Release No. 58572 (Sept. 17, 2008) (the “September Emergency Order”). The September Emergency Order expires on October 17, 2008. This release makes permanent the amendments to Rule 203(b)(3) of Regulation SHO contained in the September Emergency Order.
+
+41 See Exchange Act Release No. 58774 (Oct. 14, 2008); see also, September Emergency Order, supra note 40 (adopting and making immediately effective Rule 10b-21, a “naked” short selling anti-fraud rule).
+
+42 See Exchange Act Release No. 58773 (Oct. 14, 2008) (“Interim Final Temporary Rule”); see also, September Emergency Order, supra note 40 (adding to Regulation SHO, and making immediately effective, temporary Rule 204T, imposing enhanced delivery requirements for sales of all equity securities).
+
+43 See id. The Interim Final Temporary Rule includes a limited exception from its delivery requirements for registered market makers, options market makers, or other market makers obligated to quote in the over-the- counter market. Specifically, temporary Rule 204T(a)(3) provides that if a participant of a registered clearing agency has a fail to deliver position at a registered clearing agency in any equity security that is attributable to bona fide market making activities by a registered market maker, options market maker, or other market maker obligated to quote in the over-the-counter market, the participant shall by no later than the beginning of regular trading hours on the third consecutive settlement day following the settlement date, immediately close out the fail to deliver position by purchasing securities of like kind and quantity.
+
+44 See, e.g., letter from Patrick M. Byrne, Chairman and Chief Executive Officer, Overstock.com, Inc., dated Oct. 1, 2007 (“Overstock”); letter from NCANS; letter from James H. Bramble, Vice President & General Counsel, USANA Health Sciences, Inc., dated Aug. 31, 2007 (“USANA”); letter from Paul Rivett, Vice President and Chief Legal Officer, Fairfax Financial Holdings, Ltd., dated Sept. 12, 2007 (“Fairfax Financial”); letter from Medis; letter from U.S. Chamber of Commerce; letter from Thomas Vallarino, dated Sept. 17, 2007; letter from Mark L. Shurtleff, Attorney General, State of Utah, dated Sept. 13, 2007; James J. Angel, Ph.D., CFA, Associate Professor of Finance, Georgetown University, dated Sept. 10, 2007 (“Angel”); letter from Ira D. Hammerman, Senior Vice President and General Counsel, SIFMA, dated Sept. 26, 2007 (“SIFMA”); letter from ABA; letter from Edward J. Joyce, President and Chief Operating Officer, Chicago Board Options Exchange, dated Sept. 17, 2007 (“CBOE”); letter from Gerard S. Citera, Chadbourne & Parke LLP, dated Sept. 13, 2007 (“UBS”); letter from Charles Mogilevsky, Managing Director, Citigroup Derivatives Markets, Inc., dated Sept. 14, 2007 (“Citigroup”); letter from The American Stock Exchange, Boston Options Exchange, CBOE, International Securities Exchange, NYSE/Arca, The Options Clearing Corporation, Philadelphia Stock Exchange, dated Sept. 19, 2007 (“Options Exchanges”); letter from Susquehanna.
+
+45 See letter from NCANS.
+
+46 See letter from USANA; see also letter from Fairfax Financial (stating that the exception should be eliminated due to its “detrimental impact on issuers and their shareholders and also because such exception is susceptible to significant abuse”).
+
+47 See letter from Fairfax Financial.
+
+48 See, e.g., letter from U.S. Chamber of Commerce.
+
+49 See letter from CBOE.
+
+50 See letter from Susquehanna.
+
+51 See id; see also letter from Options Exchanges; Citigroup.
+
+52 See letter from Citigroup.
+
+53 See letter from CBOE.
+
+54 See letter from Options Exchanges.
+
+55 See, e.g., letter from Citigroup.
+
+56 See letter from CBOE; see also letter from Options Exchanges.
+
+57 LEAPS are long-term stock or index options. LEAPS, like all options, are available in two types, calls and puts, with expiration dates up to three years in the future. See (defining LEAPS).
+
+58 See, e.g., letter from CBOE; Options Exchanges; Citigroup.
+
+59 See letter from Overstock.
+
+60 See, e.g., letter from CBOE; Options Exchanges; UBS.
+
+61 See, e.g., letter from CBOE; Options Exchanges.
+
+62 See letter from Susquehanna.
+
+63 Comment letters are available on the Commission’s Internet Web site at .
+
+64 See letter from Edward J. Joyce, President and Chief Operating Officer, Chicago Board Options Exchange, dated Aug. 15, 2008 (“CBOE 2008”).
+
+65 See id.
+
+66 Accordingly, the amendments remove the options market maker exception from Rule 203(b)(3)(iii) of Regulation SHO, as adopted. We note that we have adopted on an interim final temporary basis, temporary Rule 204T that strengthens the delivery requirements of Regulation SHO for sales of all equity securities such that fails to deliver must be closed out by no later than the beginning of regular trading hours on the settlement day following the day the participant incurred the fail to deliver position. The temporary rule has a limited exception from this close-out requirement for options market makers. See Interim Final Temporary Rule, supra at notes 42 and 43.
+
+67 See Adopted Rule 203(b)(3)(iii).
+
+68 If the security is a threshold security on the effective date of the amendments, participants of a registered clearing agency will have to close out that position within 35 consecutive settlement days, regardless of whether the security becomes a non-threshold security after the effective date of the amendments.
+
+69 See 2004 Regulation SHO Adopting Release, 69 FR at 48031; 2007 Regulation SHO Final Amendments, 72 FR at 45557.
+
+70 See supra note 40.
+
+71 For the duration of temporary Rule 204T, fails to deliver in all equity securities, regardless of whether or not the security is a threshold security, must be closed out in accordance with the requirements of the temporary rule.
+
+72 See, e.g., letter from CBOE.
+
+73 See Adopted Rule 203(b)(3)(v).
+
+74 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+75 See 2008 Regulation SHO Re-Opening Release, 73 FR 40201.
+
+76 See id.
+
+77 See id.
+
+78 See id; see also Memorandum from the Commission’s Office of Economic Analysis (dated June 9, 2008), which is available on the Commission’s Internet Web site at (the “OEA Memorandum”).
+
+79 See OEA Memorandum.
+
+80 See, e.g., letter from Citigroup.
+
+81 See supra note 19.
+
+82 See letter from Overstock.
+
+83 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+84 See, e.g., letter from Options Exchanges.
+
+85 For example, in its letter, Susquehanna noted that in June 2007, 174 (8%) of the 2,242 stocks with options classes trading on the CBOE, appeared on a threshold list for at least one day that month. See letter from Susquehanna.
+
+86 See, e.g., letter from CBOE; Options Exchanges; Citigroup.
+
+87 See, e.g., letter from CBOE; see also letter from Overstock.
+
+88 See Lakonishok, Poteshman, and Lee, “Investor Behavior and the Options Markets,” Working Paper 10264 (2004) (.).
+
+89 Data from The Options Clearing Corporation web site shows that call open interest generally exceeded put open interest by about 10% on the average day during January to July 2008.
+
+90 See 2007 Regulation SHO Final Amendments, 72 FR 45544; see also 2006 Regulation SHO Proposed Amendments, 71 FR 41710.
+
+91 See Reproposal, 72 FR at 45563.
+
+92 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+93 See Reproposal, 72 FR at 45589-45590.
+
+94 See id. at 45566-45567.
+
+95 17 CFR 242.203(b).
+
+96 See 2004 Regulation SHO Adopting Release, 69 FR at 48015, n. 67; see also Emergency Order Pursuant to Section 12(k)(2) of the Securities Exchange Act of 1934 Taking Temporary Action to Respond to Market Developments, Exchange Act Release No. 58166 (July 15, 2008); Amendment to Emergency Order Pursuant to Section 12(k)(2) of the Securities Exchange Act of 1934 Taking Temporary Action to Respond to Market Developments, Exchange Act Release No. 58190 (July 18, 2008) (excepting from the Emergency Order bona fide market makers).
+
+97 See 2004 Regulation SHO Adopting Release, 69 FR at 48015, n. 66 (citing to Section 3(a)(38) of the Exchange Act).
+
+98 See Exchange Act Release No. 32632 (July 14, 1993), 58 FR 39072, 39074 (July 21, 1993).
+
+99 For example, if a market maker sells stock (short) together with a synthetic short position (e.g., a conversion) to a client and the client then sells the stock (long) retaining the synthetic short position, the effect would be as if the market maker had “rented” its exemption to the client. Such transactions or other transactions that have the same effect will not be considered bona-fide market making activity.
+
+100 See 2004 Regulation SHO Adopting Release, 69 FR at 48015.
+
+101 See id.
+
+102 See id.
+
+103 See Rule 203(b)(1) and (b)(2)(iii).
+
+104 See 5 U.S.C. §553(d).
+
+105 Id.
+
+106 44 U.S.C. 3501 et seq.
+
+107 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+108 See 2007 Regulation SHO Final Amendments, 72 FR at 45544; 2006 Regulation SHO Proposed Amendments, 71 FR at 41712; Reproposal, 72 FR at 45558-45559; “Naked” Short Selling Anti-Fraud Rule Proposing Release, 73 FR at 15378.
+
+109 See id.
+
+110 See id.
+
+111 See id.
+
+112 See, e.g., supra note 19 (citing to comment letters expressing concern regarding the impact of potential “naked” short selling on capital formation).
+
+113 See letter from NCANS.
+
+114 See, e.g., supra note 18; see also letter from Fairfax Financial (stating that the exception should be eliminated due to its “detrimental impact on issuers and their shareholders and also because such exception is susceptible to significant abuse”).
+
+115 See, e.g., supra note 19 (citing to comment letters from issuers and investors discussing extended fails to deliver in connection with “naked” short selling).
+
+116 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+117 See Adopted Rule 203(b)(3)(iii).
+
+118 See letter from CBOE.
+
+119 See letter from Susquehanna.
+
+120 See id.; see also letter from Options Exchanges; Citigroup.
+
+121 See letter from Citigroup.
+
+122 See letter from Fairfax Financial.
+
+123 See letter from Angel.
+
+124 See supra note 19.
+
+125 See letter from Overstock.
+
+126 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+127 See, e.g., letter from Options Exchanges.
+
+128 See supra note 85.
+
+129 See, e.g., letter from CBOE; Options Exchanges; Citigroup.
+
+130 See, e.g., letter from CBOE; see also letter from Overstock.
+
+131 See supra note 88.
+
+132 See supra note 89.
+
+133 See 2007 Regulation SHO Final Amendments, 72 FR 45544; see also 2006 Regulation SHO Proposed Amendments, 71 FR 41710.
+
+134 Reproposal, 72 FR at 45563.
+
+135 See Adopted Rule 203(b)(3)(v). 136 See 17 CFR 242.203(b)(3)(iv). 137 15 U.S.C. 78c(f).
+
+138 15 U.S.C. 78w(a)(2).
+
+139 See, e.g., letter from Overstock.
+
+140 See, e.g., letter from Options Exchanges.
+
+141 See id.
+
+142 See letter from Citigroup.
+
+143 See, e.g., letter from CBOE.
+
+144 See supra note 85.
+
+145 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+146 See supra note 88.
+
+147 See supra note 89.
+
+148 See, e.g., letter from U.S. Chamber of Commerce.
+
+149 See, e.g., supra note 19 (citing to comment letters expressing concern regarding the impact of potential “naked” short selling on capital formation).
+
+150 See letter from USANA; see also letter from Fairfax Financial (stating that the exception should be eliminated due to its “detrimental impact on issuers and their shareholders and also because such exception is susceptible to significant abuse”).
+
+151 See letter from NCANS.
+
+152 Academic research suggests that the ability for all option market makers to fail when hedging actually creates a competitive advantage for large option market makers over small option market makers. See, e.g., Evans, Richard B., Reed, Adam V., Geczy, Christopher Charles and Musto, David K. “Failure is an Option: Impediments to Short Selling and Options Prices,” Rev. Financ. Stud. (January 2008). The elimination of the options market maker exception, therefore, will remove this competitive advantage.
+
+153 See letter from USANA; see also letter from Fairfax Financial (stating that the exception should be eliminated due to its “detrimental impact on issuers and their shareholders and also because such exception is susceptible to significant abuse”).
+
+154 See 2007 Regulation SHO Final Amendments, 72 FR 45544; see also 2006 Regulation SHO Proposed Amendments, 71 FR 41710.
+
+155 See Reproposal, 72 FR at 45563.
+
+156 5 U.S.C. 604.
+
+157 See 17 CFR 242.203(b)(3); see also Interim Final Temporary Rule, supra notes 42 and 43 (amending Regulation SHO to strengthen the delivery requirements for sales of all equity securities).
+
+158 17 CFR 240.0-10(c)(1).
+
+159 These numbers are based on OEA’s review of 2007 FOCUS Report filings reflecting registered broker-dealers. This number does not include broker-dealers that are delinquent on FOCUS Report filings.
+
+160 See 13 CFR 121.201.
+
+161 17 CFR 240.0-10(e).
+
+162 17 CFR 240.0-10(d).

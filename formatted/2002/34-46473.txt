@@ -1,0 +1,567 @@
+https://www.sec.gov/rules/final/34-46473.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Background
+
+		II.A.0.0: A. Security Futures Products
+
+		II.B.0.0: B. Regulation of FCMs and Broker-Dealers that Effect Transactions in Security Futures Products
+
+	III.0.0.0: III. The Proposed Rules
+
+	IV.0.0.0: IV. Overview of the Comments Received
+
+	V.0.0.0: V. Final Rules and Rule Amendments
+
+		V.A.0.0: A. General
+
+		V.B.0.0: B. Amendments to CFTC Rule 1.55 — Distribution of Risk Disclosure Statements by FCMs
+
+		V.C.0.0: C. Rule 41.41 and Paragraph (o) of Rule 15c3-3
+
+			V.C.1.0: 1. Where SFPs May Be Held
+
+			V.C.2.0: 2. Requirements for Accepting Customer SFP Orders
+
+			V.C.2.a: a. Disclosure Document Requirements
+
+			V.C.2.b: b. Customer Acknowledgments
+
+			V.C.3.0: 3. Changes in Account Type
+
+		V.D.0.0: D. Recordkeeping Requirements
+
+		V.E.0.0: E. Customer Account Statements
+
+		V.F.0.0: F. Confirmations
+
+		V.G.0.0: G. CFTC Bankruptcy Treatment: Amendments to Part 190
+
+		V.H.0.0: H. Arbitration
+
+		V.I.0.0: I. Rule 15c3-3 Definitions
+
+			V.I.1.0: 1. Amendment to Paragraph 17a-4(b)(9)
+
+			V.I.2.0: 2. New Paragraph 17a-4(k)
+
+	VI.0.0.0: VI. Administrative Procedure Act
+
+	VII.0.0.0: VII. Paperwork Reduction Act
+
+		VII.A.0.0: A. Collection of Information under these Amendments
+
+		VII.B.0.0: B. Proposed Use of Information
+
+		VII.C.0.0: C. Respondents
+
+		VII.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+			VII.D.1.0: 1. Rule 15c3-3
+
+			VII.D.2.0: 2. Rule 17a-4
+
+	VIII.0.0.0: VIII. Costs and Benefits of the Rules
+
+		VIII.A.0.0: A. Benefits
+
+			VIII.A.1.0: 1. Elimination of Conflicting and Duplicative Regulation
+
+			VIII.A.2.0: 2. Customer Understanding
+
+			VIII.A.3.0: 3. Examination Efficiencies
+
+		VIII.B.0.0: B. Costs
+
+			VIII.B.1.0: 1. Addition of Paragraph 15c3-3(o)
+
+			VIII.B.1.a: a. Establishment of a Written Policy
+
+			VIII.B.1.b: b. Furnishing a Disclosure Document to Customers
+
+			VIII.B.1.c: c. Changes of Account Type
+
+			VIII.B.2.0: 2. Amendments to Rule 17a-4
+
+			VIII.B.3.0: 3. Systems Changes
+
+	IX.0.0.0: IX. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+	X.0.0.0: X. Summary of Regulatory Flexibility Act Certification
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Applicability of CFTC and SEC Customer Protection, Recordkeeping, Reporting, and Bankruptcy Rules and the Securities Investor Protection Act of 1970 to Accounts Holding Security Futures Products Commodity Futures Trading Commission 17 CFR PARTS 1, 41 and 190
+
+RIN 3038-AB76 Securities and Exchange Commission 17 CFR Part 240
+
+[Release No. 34-46473; File No. S7-17-01]
+
+RIN 3235-AI32 Applicability of CFTC and SEC Customer Protection, Recordkeeping, Reporting, and Bankruptcy Rules and the Securities Investor Protection Act of 1970 to Accounts Holding Security Futures Products 
+
+ Agencies: Commodity Futures Trading Commission and Securities and Exchange Commission.
+
+ Action: Joint final rules.
+
+ Summary: The Commodity Futures Trading Commission ("CFTC") and the Securities and Exchange Commission ("SEC") (collectively the "Commissions") have adopted rules under the Commodity Exchange Act ("CEA") and the Securities Exchange Act of 1934 ("Exchange Act") as part of the joint regulatory framework under which futures commission merchants ("FCMs") and brokers or dealers ("broker-dealers" or "BDs") may effect transactions in security futures products for customers. The rules require all firms conducting business in security futures products to make disclosures to customers that transact business in security futures products concerning the protections provided by both the CEA and Exchange Act regulatory schemes, the regulatory scheme that will be applicable to their accounts, and the alternative regulatory scheme that will not be applicable to their accounts. In addition, the rules require that every firm engaged in this business that is fully-registered both as an FCM and as a broker-dealer establish written procedures regarding how customer security futures products will be held. The rules also specify how CEA and Exchange Act recordkeeping, reporting, and certain other rules will apply to security futures product transactions and accounts in which security futures products are held. These rules are adopted pursuant to the provisions of the Commodity Futures Modernization Act of 2000 ("CFMA") that direct the Commissions to address certain duplicative or conflicting regulations applicable to any firm fully-registered both as an FCM and as a broker-dealer. These rules also are intended to address certain other differences between the CEA and Exchange Act requirements, and reduce duplicative regulations applicable to firms that are notice-registered with either the CFTC or SEC. 
+
+ Effective Date: September 13, 2002, except § 240.17a-4( l ) and (m) will be effective May 2, 2003.
+
+ For Further Information Contact: 
+
+ CFTC: Lawrence B. Patent, Deputy Director, Robert B. Wasserman, Associate Director, or Helene D. Schroeder, Special Counsel, Division of Clearing and Intermediary Oversight, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, DC 20581. Telephone: (202) 418-5430. E-mail: (lpatent@cftc.gov); (rwasserman@cftc.gov) or (hschroeder@cftc.gov). 
+
+ SEC: Michael A. Macchiaroli, Associate Director, at (202) 942-0132; Thomas K. McGowan, Assistant Director, at (202) 942-4886; Bonnie L. Gauch, Attorney, at (202) 942-0765; or Matthew B. Comstock, Attorney, at (202) 942-0156, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+ Supplementary Information:
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+The CFMA,<sup> 1 </sup> which became law on December 21, 2000, amended the CEA and the Exchange Act to permit the trading of single stock and narrow-based stock index<sup> 2 </sup> futures ("security futures")<sup> 3 </sup> and to establish a framework for the joint regulation by the CFTC and the SEC of security futures products ("SFPs").<sup> 4 </sup> In addition, the CFMA amended the CEA and the Exchange Act to require that the CFTC and SEC consult with each other and issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting rules applicable to firms that are "fully-registered" with both the CFTC<sup> 5 </sup> and the SEC<sup> 6 </sup> ("Full FCM/Full BDs") with respect to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting, or other financial responsibility rules, involving SFPs.<sup> 7 </sup>
+
+The Commissions published for comment in the Federal Register proposed rules on October 4, 2001 (the "Proposal").<sup> 8 </sup> The proposed rules were designed to reduce conflicting and duplicative regulations applicable to both Full FCM/Full BDs and firms notice registered<sup> 9 </sup> with either the CFTC or the SEC, and to address certain differences between the CEA and Exchange Act rules.<sup> 10 </sup><h>II. BackgroundA. Security Futures Products </h><h>A. Security Futures Products </h>
+
+The CFMA amended the Exchange Act definitions of "security" and "equity security" to include "security future" and "any security future on any [stock or similar security]," respectively.<sup> 11 </sup> In addition, definitions of the terms "security future"<sup> 12 </sup> and "security futures product"<sup> 13 </sup> were added to the CEA and the Exchange Act. Pursuant to these statutory changes, a security futures product is both a security and a futures contract and, therefore, is subject to the jurisdiction of both the CFTC and the SEC.<h>B. Regulation of FCMs and Broker-Dealers that Effect Transactions in Security Futures Products </h>
+
+As an SFP is both a security and a futures contract, a person must be registered both as an FCM or as an introducing broker ("IB") with the CFTC and as a broker-dealer with the SEC to effect SFP transactions. The CFMA amended the CEA and the Exchange Act to require that the CFTC and SEC provide notice registration procedures for certain persons that may be required to register with the CFTC or the SEC solely because they are effecting SFP transactions.<sup> 14 </sup> Further, the CFMA amended the CEA and the Exchange Act to exempt Notice FCMs<sup> 15 </sup> from certain provisions of the CEA<sup> 16 </sup> (including CFTC segregation requirements), and Notice BDs<sup> 17 </sup> from certain provisions and rules of the Exchange Act<sup> 18 </sup> (including Exchange Act Rule 15c3-3 ("Rule 15c3-3")), to avoid conflicting or duplicative regulation.
+
+Instead of providing similar exemptions for firms that are fully-registered with both the CFTC and the SEC, the CFMA amended the CEA and the Exchange Act to require that the CFTC and SEC consult with each other and issue such rules, regulations, or orders as are necessary to avoid certain duplicative or conflicting regulations applicable to Full FCM/Full BDs. CFTC segregation rules and Rule 15c3-3 are examples of duplicative regulations referred to in the CFMA because these provisions provide similar protections for customers, but, when applied to SFPs, could cause a Full FCM/Full BD to maintain two separate and redundant reserves to satisfy both sets of requirements. In addition, the CFMA does not exempt notice registrants from certain CFTC and SEC recordkeeping, reporting, early-warning, and quarterly-count rules; thus, absent relief, both Full FCM/Full BDs and notice registrants are subject to both sets of rules in connection with SFPs.<h>III. The Proposed Rules </h>
+
+The proposed rules would have required that all firms engaged in an SFP business make certain disclosures to every customer that places an order for an SFP regarding the nature and applicability of the protections that may be available to the customer pursuant to the segregation requirements of the CEA, or the provisions of Rule 15c3-3 and the Securities Investor Protection Act of 1970 ("SIPA").<sup> 19 </sup> The Commissions also proposed new rules that would have: (1) permitted a Full FCM/Full BD to choose (or let its customers choose) whether an account in which SFPs are held would be treated as a futures account subject to the segregation requirements of the CEA, or as a securities account subject to Rule 15c3-3 and SIPA; (2) required a Full FCM/Full BD that engages in an SFP business to establish written policies stating how customer SFP positions would be held; and (3) required a Full FCM/Full BD to obtain a signed acknowledgment from each SFP customer stating that the customer understands that the account will not be protected under the alternative regulatory scheme. 
+
+The CFTC also proposed amendments to CFTC Rule 1.55 and the CFTC's Part 190 bankruptcy rules, and the SEC proposed amendments to SEC Rules 15c3-3, 17a-3, 17a-4, 17a-5, 17a-7, 17a-11, and 17a-13<sup> 20 </sup> that were designed to eliminate duplicative regulation that may have been applicable to Full FCM/Full BDs and notice-registrants.<h>IV. Overview of the Comments Received </h>
+
+In the Proposal, the Commissions not only requested comments generally, but also specifically solicited comment about a number of issues, including the disclosure document requirements, the acknowledgment requirement, the records requirements, whether the differences in the CEA and Exchange Act customer protection rules would cause any interested party to be placed at a disadvantage, and whether firms should be allowed to change the type of account in which customer SFPs are held. 
+
+The Commissions each received three comment letters on the Proposal:<sup> 21 </sup> one from the National Futures Association ("NFA"), a registered futures association; one letter submitted jointly by the Futures Industry Association ("FIA"), which is a trade association that represents FCMs, and the Securities Industry Association ("SIA"), which is a trade association that represents broker-dealers; and one letter submitted jointly by the Chicago Mercantile Exchange ("CME") and the Chicago Board of Trade ("CBOT"), which are both designated contract markets. All of the commenters supported the overall approach of the rules in providing Full FCM/Full BDs with flexibility in choosing whether customer SFPs will be held in a securities account or in a futures account.<sup> 22 </sup> In support of the Proposal, commenters stated, among other things, that the proposed approach would be protection scheme neutral and would allow firms to utilize the most cost-effective solutions when determining how to support SFPs. 
+
+On the other hand, the commenters uniformly opposed the requirement in the proposed rules that Full FCM/Full BDs obtain signed acknowledgments from customers stating that customers understand that account protections under the alternative regulatory scheme would not be available with respect to their accounts. The commenters questioned the need for such a requirement and expressed concerns about the costs and burdens of complying with this requirement.<h>V. Final Rules and Rule AmendmentsA. General </h><h>A. General </h>
+
+The Commissions have carefully reviewed the comments received, and have determined generally to adopt the rules as they were proposed, except that the proposed requirement that Full FCM/Full BDs obtain a signed acknowledgment from each SFP customer has not been adopted. In addition, the Commissions have made certain technical and clarifying changes to the proposed rules based upon the specific comments that have been received. Each of these changes from the rules as proposed are discussed below.<sup> 23 </sup>
+
+The new rules and amendments are intended to prevent conflicting or duplicative regulation with relation to certain customer protection, recordkeeping, and other rules. They were designed to satisfy requirements of the CEA and the Exchange Act that the CFTC and SEC consult with each other and issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting rules applicable to Full FCM/Full BDs with respect to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting, or other financial responsibility rules, involving SFPs.<sup> 24 </sup><h>B. Amendments to CFTC Rule 1.55 — Distribution of Risk Disclosure Statements by FCMs </h>
+
+CFTC Rule 1.55 sets forth the general risk disclosure obligations of FCMs and IBs. New paragraph (h) requires FCMs to comply with the new disclosure obligations relating to SFPs that are set forth in new CFTC Rule 41.41.<sup> 25 </sup> The CFTC received no comments concerning new paragraph (h) of CFTC Rule 1.55 and has adopted this paragraph as it was proposed.
+
+In its comment letter, NFA recommended that CFTC Rule 1.55 be further amended to clarify that the existing basic risk disclosure obligations that apply to FCMs and IBs do not apply with respect to customers who trade only SFPs and whose positions are being held in securities accounts. According to NFA, these customers will be required by its rules and the rules of the National Association of Securities Dealers ("NASD") to be provided with a "uniform disclosure statement" that "will contain all of the disclosures that are currently required [under CFTC] Rule 1.55."<sup> 26 </sup> 
+
+The CFTC fully supports the adoption of a model disclosure document that will contain all of the disclosures set forth under existing CFTC Rule 1.55 and commends the efforts of NFA and NASD in developing such a document. Because a customer whose only futures trading involves SFPs will receive a model disclosure document in accordance with NFA and NASD rules, and such document will include the basic risk disclosures required by CFTC Rule 1.55, the CFTC agrees that it is not necessary for this type of customer to be given a separate risk disclosure statement including the language set forth in CFTC Rule 1.55(b). Because CFTC Rule 1.55(a)(1) states that the basic risk disclosure obligations set forth therein apply to an FCM or IB only with respect to a commodity futures account for a customer, however, the CFTC does not believe that further amendment of the text of CFTC Rule 1.55 is necessary to achieve the result recommended by NFA. Customers of an FCM or IB whose only futures trading activity involves SFPs that are held in a securities account are not required under existing rules to receive the basic risk disclosure statement for futures under CFTC Rule 1.55.<sup> 27 </sup><h>C. Rule 41.41 and Paragraph (o) of Rule 15c3-31. Where SFPs May Be Held </h><h>1. Where SFPs May Be Held </h>
+
+Paragraph (a) of new CFTC Rule 41.41 and corresponding paragraph (o)(1) of Rule 15c3-3 allow a Full FCM/Full BD to hold customer SFPs in either a futures account or a securities account.<sup> 28 </sup> Under the final rules, a Full FCM/Full BD may choose either to maintain all customer SFPs in futures accounts, all customer SFPs in securities accounts, or some customers' SFP positions in futures accounts and other customers' SFP positions in securities accounts. One commenter suggested that the Commissions clarify whether a Full FCM/Full BD may allow a customer to hold certain SFPs in a securities account and other SFPs in a futures account. The commenter contended that a customer that is employing various trading strategies may want this type of flexibility. Accordingly, the CFTC has revised Rule 41.41(a)(1) to specifically provide that a Full FCM/Full BD may hold all of a customer's SFPs in a futures account or in a securities account, or may hold some of the customer's SFPs in a securities account and other of the same customer's SFPs in a futures account. Paragraph (o) of Rule 15c3-3 also permits a Full FCM/Full BD to hold a customer's SFPs in a futures account and, at the same time, hold other SFPs for the same customer in a securities account. However, the firm's records must clearly indicate the type of account in which each position is held.
+
+One commenter stated that "customers who are given a choice [as to account type] should make that election in writing." As discussed below, the Commissions have determined not to require a written customer acknowledgment stating that the customer understands that the account will not be protected under the alternative regulatory scheme. The Commissions believe that a Full FCM/Full BD that provides its customers with a choice of account type should have discretion as to the manner in which a customer may elect the type of account in which SFPs will be held and how that election will be evidenced. 
+
+As proposed, paragraph (a)(2) of CFTC Rule 41.41 and corresponding paragraph (o)(1)(ii) of Rule 15c3-3 would have required a Full FCM/Full BD to establish written policies describing whether customer SFPs and any customer assets used to margin them will be held in a futures account or a securities account.<sup> 29 </sup> One commenter objected to the use of the term "policy," suggesting that this term implies objective standards that may not be realistic in practice, and that firms might wish to exercise discretion with respect to the type of account in which SFPs will be held based on relevant considerations specific to each customer. Use of the term "policy" was not intended to limit a firm's discretion. Instead, this requirement was intended to compel firms to focus on establishing and documenting policies, procedures and processes to be applied when customers seek to open accounts for trading SFPs or to add SFPs to their existing portfolio. Accordingly, CFTC Rule 41.41(a)(2) and Rule 15c3-3(o)(1)(ii), as adopted, require Full FCM/Full BDs<sup> 30 </sup> to establish written policies or procedures for determining whether customer SFPs (together with any associated customer margin) will be held in a futures account and/or a securities account. If a firm permits only certain customers to make an election as to account type, the firm's written policies or procedures must clearly explain which customers may or may not make an election.<h>2. Requirements for Accepting Customer SFP Orders </h>
+
+Paragraph (b) of Rule 41.41 and corresponding paragraph (o)(2) of Rule 15c3-3 set forth a number of requirements that a firm must meet before it accepts the first order for an SFP from or on behalf of a customer.<sup> 31 </sup> Firms that do not engage in an SFP business with or for customers will not be affected by these requirements.<h>a. Disclosure Document Requirements </h>
+
+The disclosure obligations set forth in CFTC Rule 41.41(b) and Rule 15c3-3(o)(2) have been adopted as proposed. Paragraph (b) of CFTC Rule 41.41 and corresponding paragraph (o)(2) of Rule 15c3-3 establish certain disclosure requirements that apply to a firm that accepts customer SFP orders. The Commissions view these disclosure requirements as essential to address potential customer confusion regarding the nature of SFPs and the protections afforded to customers trading such products pursuant to the different rules of the Commissions. Specifically, these paragraphs require any firm that accepts customer SFP orders, including any Notice FCM or Notice BD, to provide each SFP customer with: (1) a description of the protections afforded futures accounts under Section 4d of the CEA and securities accounts under Rule 15c3-3 and SIPA; (2) a statement indicating whether a customer's SFPs will be held in a futures account or in a securities account and whether customers will be permitted to make or change an election concerning account type; and (3) a statement that the protections provided by the alternative regulatory framework will not be available in connection with that account. 
+
+Firms are not required to furnish a disclosure document to every customer. The disclosure document is required to be provided only to customers that place orders for SFPs. This disclosure document may be provided to a customer either when an account is opened or at some later date when the customer expresses an interest in engaging in SFP transactions, but it must be provided before the customer's first order to buy or sell an SFP is accepted by the firm.
+
+The new rules do not prescribe specific language for the required disclosures.<sup> 32 </sup> A firm may prepare its own disclosure statement or it could use a model disclosure statement.<sup> 33 </sup> Further, these disclosures may be provided to customers in one or more documents. 
+
+New paragraphs (b)(2) of CFTC Rule 41.41 and (o)(2)(ii) of Rule 15c3-3 allow a transferee firm that receives a transferred customer account with an open SFP position to accept an order from the customer as long as the firm provides the customer, no later than ten business days after the account is transferred, with the following statements: (1) a statement indicating whether a customer's SFPs will be held in a futures account and/or a securities account and whether the firm permits customers to make or change an election of account type; and (2) a statement that, with respect to the customer's SFPs that are held in a securities account or a futures account, the alternative regulatory scheme is not available to the customer in connection with that account.<sup> 34 </sup> This exception will allow customers with open positions to close out those positions, if necessary, by allowing firms to accept an order from that customer even if the receiving firm has not yet provided the disclosure statements to the customer. 
+
+However, as discussed more fully in section V.C.3. below titled "Changes in Account Type," where a customer's account type changes as a result of the transfer, new paragraphs (c)(2) of CFTC Rule 41.41 and (o)(3)(ii) of Rule 15c3-3 require that the firm provide the disclosures described above regarding paragraphs (b)(2) of CFTC Rule 41.41 and (o)(2)(ii) of Rule 15c3-3, plus additional disclosures describing the protections afforded to futures accounts under Section 4d of the CEA and the protections afforded to securities accounts under Rule 15c3-3 and SIPA, at least ten days prior to the effective date of the transfer. This prior notification and disclosure will provide the customer with information necessary to make an informed decision regarding account type and an opportunity to transfer the account to another firm that provides the type of account with the regulatory protections the customer would prefer. If the customer's account type will not change as a result of the transfer, this prior notice is unnecessary and, pursuant to paragraphs (b)(2) of CFTC Rule 41.41 and (o)(2)(ii) of Rule 15c3-3, the firm may provide the disclosures to the customer subsequent to the transfer.<h>b. Customer Acknowledgments </h>
+
+Proposed paragraph (b)(2) of CFTC Rule 41.41 and corresponding proposed paragraph (o)(2)(ii) of Rule 15c3-3 would have required that a Full FCM/Full BD obtain a signed acknowledgment from a customer before the firm could accept an order for an SFP from that customer, whereby the customer would affirm his or her understanding that the account would not be protected under the alternative regulatory scheme. The proposed rules would not have required that notice registrants obtain this acknowledgment from customers because they are subject to only one customer protection regulatory scheme.<sup> 35 </sup> 
+
+All three comment letters received in response to the Proposal opposed the requirement to obtain a signed acknowledgment from customers. Generally, the commenters opposed the requirement to obtain a signed acknowledgment because they believe it to be an unnecessary and overly burdensome method of ensuring that the customer received and understood the required disclosures. Further, one commenter contended that Full FCM/Full BDs are not presently required to provide disclosures to their customers to identify the protections afforded by different regulatory regimes, nor are they required to obtained signed acknowledgments from their customers.<sup> 36 </sup> This commenter also stated that requiring Full FCM/Full BDs to obtain signed acknowledgments from customers, while not imposing the same requirement on notice-registered firms, "has the effect of penalizing Full FCM/Full BDs vis a vis notice registrants because the cost and staff time required to administer and enforce the acknowledgment policy would be overly burdensome."<sup> 37 </sup> The Commissions have reconsidered the customer acknowledgment requirement in light of the comments received and have determined not to adopt such a requirement.<sup> 38 </sup> The requirements that firms provide each customer with disclosures before effecting any transactions for that customer<sup> 39 </sup> and that Full FCM/Full BDs establish the above-described written policies should suffice to make customers aware of the protections of customer funds afforded by segregation under the CEA and those provided by Rule 15c3-3 and SIPA.<h>3. Changes in Account Type </h>
+
+New paragraph (c) of CFTC Rule 41.41 and corresponding paragraph (o)(3) of Rule 15c3-3 set forth the general rule that a firm may change the type of account in which customer SFPs are held. This change of account type may be made pursuant to a customer's request, or it may be initiated by the firm.<sup> 40 </sup> Regardless of whether the customer or the firm initiated the change, the firm must create a record concerning the change and notify the customer in writing of the date that the change will become effective. 
+
+While all of the commenters supported the paragraph that allowed firms the ability to change a customer's account type, two of the commenters objected to the requirement that a firm must obtain a written acknowledgment from the customer before changing the customer's account type.<sup> 41 </sup> These two commenters contended that this requirement "is overly burdensome"<sup> 42 </sup> and "effectively vests in the customer . . . the ability to choose the type of account in which the customer's security futures products are held."<sup> 43 </sup> As stated above, the Commissions have determined not to require that a firm obtain a signed acknowledgment from a customer prior to accepting the first SFP order from or on behalf of that customer, and have also determined not to require that a firm obtain a signed customer acknowledgment before changing the customer's account type. 
+
+The amendments now require that a firm notify a customer in writing of the effective date of a change of account type, and provide the customer with the same statements specified in the new CFTC Rule 41.41(b)(1) and Rule 15c3-3(o)(2)(i) disclosure document requirements,<sup> 44 </sup> no less than ten business days prior to that effective date. This requirement was incorporated so that, in the absence of the proposed acknowledgment requirement, a customer is notified of which regulatory regime is applicable to the account. These rules also will apply if a customer's account type changes as part of a bulk transfer of accounts. 
+
+One commenter stated, "[c]ustomers should be given adequate notice so they can move their accounts or positions to another firm if they do not want to change account types."<sup> 45 </sup> The required prior notification should provide the customer with time to move the account to another firm if the customer objects to the change of account type.
+
+One commenter objected to the requirement that a firm provide the customer with a second written notice, subsequent to the change of account type, of the date an account-type change became effective.<sup> 46 </sup> This commenter contended that prior notice of a change of account type should be sufficient, and that a customer troubled by the change could close the account and do business elsewhere.<sup> 47 </sup> The Commissions have eliminated the requirement that a firm notify a customer, subsequent to the change of account type, of the actual date of the change of account type because the prior notification will include the effective date of the change of account type.
+
+If a Full FCM/Full BD initiates a change of account type, it should consider the effect of its choices on its customers and the criteria used to make these choices in light of its obligations under the CEA, Exchange Act, and applicable self-regulatory organization rules.<sup> 48 </sup><h>D. Recordkeeping Requirements </h>
+
+The final rules adopted by the Commissions provide that the specific recordkeeping requirements under the CEA and the Exchange Act for SFPs be determined by the type of account in which the SFPs are held. Thus, new paragraph (d) of CFTC Rule 41.41 provides that the CFTC's recordkeeping rules do not apply to SFP transactions and positions in a securities account (provided that the SEC's recordkeeping rules apply to those transactions and positions). Corresponding paragraph (f) of Exchange Act Rule 17a-3 provides that SEC Rule 17a-3 does not apply to SFP transactions and positions in a futures account (provided that the CFTC's recordkeeping rules apply to those transactions and positions).<sup> 49 </sup> These rules are designed to address the Commissions' obligations to avoid duplicative or conflicting regulations relating to the maintenance of books and records involving SFPs.
+
+These final rules do not exempt firms from the books and records rules with relation to general firm records that do not relate to SFP transactions or positions ( e.g. , the firm's general ledger or corporate organization documents). Full FCM/Full BDs presently must comply with both the CFTC's and the SEC's books and records rules and may presently maintain one set of general firm records to comply with both sets of rules. The Commissions intend that the changes to the books and records rules will eliminate any duplicative requirements applicable to an SFP because of the fact that it is both a security and a future. However, Full FCM/Full BDs should maintain general firm records for SFPs in the same manner that they would under the present regulatory landscape.
+
+The Commissions solicited comment in the Proposal regarding certain differences between the CEA and Exchange Act (specifically, Rules 17a-3 and 17a-4) recordkeeping requirements.<sup> 50 </sup> All of the commenters expressed the view that application of the Commissions' recordkeeping requirements should be determined by the type of account in which the SFPs are held. However, one commenter suggested that CFTC Rule 41.41(d) specifically identify the recordkeeping rules under the CEA that will apply to SFPs held in a futures account. To address this comment, the language in CFTC Rule 41.41(d) was modified to provide more clarity. The rule now states that the CFTC's recordkeeping requirements set forth in CFTC Rules 1.31, 1.32, 1.35, 1.36, 1.37, 4.23, 4.33, 18.05 and 190.06 shall apply to SFP transactions and positions in a futures account and the SEC's recordkeeping rules ( e.g. , Exchange Act Rule 17a-3 and 17a-4) shall apply to SFP transactions and positions in a securities account.<h>E. Customer Account Statements </h>
+
+Generally, FCMs must send account statements to customers monthly,<sup> 51 </sup> whereas broker-dealers must send account statements to customers on a quarterly basis.<sup> 52 </sup> Further, customer account statement requirements for broker-dealers are generally set by securities industry self-regulatory organization rules. The Commissions believe that application of the specific customer account statement delivery requirements under the CEA and Exchange Act should be determined by the type of account in which SFPs are held. Accordingly, new paragraph (e) of Rule 41.41 provides that the CFTC's reporting requirements, set forth in CEA Rules 1.33 and 1.46,<sup> 53 </sup> shall not apply to SFP transactions and positions in a securities account.<h>F. Confirmations </h>
+
+The Commissions requested comment on the application to transactions in SFPs of their confirmation rules, Rule 10b-10 under the Exchange Act and Rule 1.33(b) under the CEA. All three commenters stated that confirmation requirements should follow from the type of account in which SFPs are carried. As noted above, new CFTC Rule 41.41(e) provides that CEA Rule 1.33, which includes confirmation statement requirements, shall not apply to SFP transactions and positions carried in a securities account. On May 31, 2002 the SEC separately proposed amendments to its Rule 10b-10,<sup> 54 </sup> and issued an order to temporarily exempt firms carrying SFPs in futures accounts from SEC Rule 10b-10 until appropriate amendments to Exchange Act Rule 10b-10 and a new Rule 11d2-1 could be adopted by the SEC.<sup> 55 </sup> The SEC adopted amendments to Exchange Act Rule 10b-10 and new Rule 11d2-1 on August 27, 2002.<sup> 56 </sup><h>G. CFTC Bankruptcy Treatment: Amendments to Part 190 </h>
+
+The proposed amendments to Part 190 were intended to make clear that a customer that is trading SFPs that are held in a securities account at a broker-dealer would not be entitled to benefit from the priority treatment Part 190 affords to customers in the event of insolvency of the FCM. The proposed amendments would have excluded from the definition of "specifically identifiable property," security futures products and any property received to margin, guarantee or secure such positions held in a securities account. Thus, SFP positions and associated margin held in such accounts would have been excluded from the net equity calculation and the definition of "customer property." Consistent with these changes, claimants would have been required to signify on their proof of claim form whether SFP positions are held in a securities or futures account.
+
+NFA was the only commenter to address this issue and it supported the proposed rule changes, which the CFTC has determined to adopt as proposed. NFA also stated that the CFTC should seek corresponding changes to the Bankruptcy Code. The CFTC will take the latter comment under advisement for possible further legislative recommendations, but the CFTC does not believe that Bankruptcy Code amendments are necessary before SFP trading may commence.<h>H. Arbitration </h>
+
+The Commissions did not address the issue of arbitration in the Proposal. Nevertheless, NFA commented that SFPs carried in securities accounts should not be subject to the CFTC's general rule that prohibits the use of pre-dispute arbitration agreements as a condition of doing business. NFA stated that maintaining this prohibition with respect to SFPs carried in securities accounts would be inconsistent with the longstanding and accepted practice in the securities industry. NFA further stated that exempting SFPs carried in securities accounts from the prohibition would be consistent with the general principle that differing CFTC and SEC regulatory requirements should be determined by the type of account and would avoid operational difficulties. The CFTC may address the arbitration issue separately.<h>I. Rule 15c3-3 Definitions </h>
+
+ The SEC amended the definition of the term "customer" and has added definitions for the terms "securities account" and "futures account." Certain technical changes were made to the definitions from what was proposed. Specifically, the SEC added a sentence to the Rule 15c3-3(a)(1) definition of "customer" that states, "[i]n addition, the term [customer] shall not include a person to the extent that the person has a claim for security futures products held in a futures account or in a "proprietary account" as defined by the Commodity Futures Trading Commission in section 1.3(y) of this chapter." This definition was revised to exclude a futures account or a `proprietary account,' which is specifically exempted from the definition of customer under the CFTC rules.<sup> 57 </sup>
+
+The term "securities account" is defined in Rule 15c3-3(a)(14) as an account that is maintained in accordance with the requirements of Section 15(c)(3) of the Exchange Act and Rule 15c3-3 thereunder, and Rule 15c3-3(a)(15) defines the term "futures account" as an account that is maintained in accordance with the segregation requirements of section 4d of the Commodities Exchange Act (7 U.S.C. 6d) and the rules thereunder. These definitions were changed from the Proposal to more closely mirror the definitions used by the CFTC so that certain customer accounts are not inadvertently omitted from coverage under either regulatory regime. 
+
+ J. Amendments to Reserve Formula Item 13 and Note F 
+
+One commenter noted that item 13 of Rule 15c3-3a (the "Reserve Formula") allows margin required and on deposit at The Options Clearing Corporation ("OCC") for options contracts written or purchased in customer accounts to be included as a debit in the Reserve Formula calculation required under Rule 15c3-3(e).<sup> 58 </sup> This commenter stated that in the near future, the OCC and other clearing organizations, including clearing organizations registered with the CFTC as derivatives clearing organizations pursuant to Section 5b of the CEA, may clear SFPs carried by broker-dealers in the securities accounts of customers. The commenter suggested that margin required and on deposit with the OCC and other clearing organizations relating to SFPs carried in customer securities accounts should also be included as a debit in the Reserve Formula. The SEC has decided to address this issue in a separate rulemaking.
+
+ K. Exchange Act Recordkeeping Rules<h>1. Amendment to Paragraph 17a-4(b)(9) </h>
+
+The SEC amended Rule 17a-4(b)(9) to provide that the records broker-dealers are required to create or obtain pursuant to new paragraph 15c3-3(o)<sup> 59 </sup> must be maintained for at least three years, the first two in an easily accessible place. 
+
+Present Rule 17a-4(b)(4) requires that a broker-dealer maintain "originals of all communications received and copies of all communications sent . . . relating to his business as such." Thus, the paragraph 15c3-3(o) requirements that a broker-dealer must furnish the customer with certain disclosures, and provide each customer with notice of the effective date of a change of account type is covered under the present rule.<h>2. New Paragraph 17a-4(k) </h>
+
+New paragraph (k) to Exchange Act Rule 17a-4 parallels CFTC Rule 1.35(a-2)(1). This paragraph requires a broker-dealer that engages in an SFP business, upon request of the SEC or of any self-regulatory organization of which it is a member, to obtain from its customers and provide to the SEC or the applicable self-regulatory organization documentation of cash transactions underlying exchanges of SFPs for the underlying security(ies). This type of transaction is also called an exchange of futures for physical (or an "EFP"). The production of this documentation is necessary, among other things, to allow regulators to investigate claims of market manipulation.
+
+In the futures markets, an EFP is a transaction between two parties in which the first party buys a physical commodity from the second party and simultaneously sells (or gives up a long) a futures contract on that physical commodity to the second party. The CEA authorizes EFPs only to the extent that they are conducted in accordance with the rules of a contract market. EFPs traditionally served an important function by providing a means of pricing a cash transaction, or of making or taking delivery on their futures commitments outside the normal exchange delivery system, allowing parties to offset exchange positions through a privately negotiated transaction. EFPs are commonly used in the futures markets to enter or exit positions in the futures market after normal trading hours.<sup> 60 </sup> 
+
+Industry representatives have informed SEC staff that EFPs may be used with relation to SFPs. In the SFP market, an EFP would be a two party transaction in which the first party sells an SFP (or gives up a long) to the second party, while simultaneously buying or taking delivery on the underlying securities from the same second party. After the transaction, the first party will have the securities and the second party will be long, or own, the SFP. If the second party was short an SFP to hedge its long securities position, it may use its newly acquired SFP to offset that short position in the SFP. The two parties must then notify the firm or firms that hold their securities and SFPs of the EFP so that records as to the ownership of the transferred securities and SFPs can be amended, and the clearing agency or organization can be notified of the change. 
+
+The SEC revised the proposed language of paragraph (k) of Rule 17a-4 to account for the fact that Exchange Act Rules 17a-3 and 17a-4 already require that certain records regarding securities transactions be created, maintained, and made available to the SEC and self-regulatory organizations upon request. Accordingly, paragraph (k) does not require a broker-dealer to request and obtain from its customers or provide to a requesting regulator documentation regarding exchanges of security futures products for physical if the underlying cash transaction or exchange was effected through a registered broker-dealer and is of a type required to be recorded pursuant to Rule 17a-3. 
+
+ L. Redesignation of Present Paragraphs (k) and ( l ) of Exchange Act Rule 17a-4 
+
+On October 26, 2001 the SEC adopted final rule amendments to Exchange Act Rule 17a-4 that included new paragraphs (k) and ( l ).<sup> 61 </sup> However, those amendments do not become effective until May 2, 2003. As the present amendments will become effective before that date, the SEC chose to redesignate paragraphs (k) and ( l ) as paragraphs ( l ) and (m) and insert the new EFP requirements as paragraph (k). The effective date of the redesignated paragraphs will not change, but will continue to be May 2, 2003. 
+
+ M. Exchange Act Reporting, Notification, and Quarterly Count Requirements 
+
+The SEC also is adopting final rule amendments to Rules 17a-5, 17a-7, 17a-11, and 17a-13, to exempt certain Notice BDs from the requirements to file certain reports,<sup> 62 </sup> maintain records at a place within the United States,<sup> 63 </sup> send telegraphic notification to the SEC,<sup> 64 </sup> and perform quarterly securities counts to verify positions.<sup> 65 </sup> The CFTC has similar rules<sup> 66 </sup> that would be applicable to Notice BDs, and if the SEC does not exempt Notice BDs from these rules, they would be subject to duplicative requirements. These amendments exempt only Notice BDs that are not members of a national securities exchange or national securities association fully-registered with the SEC pursuant to Sections 6(a) or 15A(a) of the Exchange Act respectively ("Fully-registered National Securities Exchange" and "Fully-registered National Securities Association").<sup> 67 </sup> A Notice BD that is a member of a Fully-registered National Securities Exchange or a Fully-registered National Securities Association is still subject to these rules.<h>VI. Administrative Procedure Act </h>
+
+Section 553(d) of the APA generally provides that, unless an exception applies, a substantive rule may not be made effective less than 30 days after notice of the rule has been published in the Federal Register.<sup> 68 </sup> One exception to the 30-day requirement is an agency's finding of good cause for providing a shorter effective date. 
+
+The CFMA became law on December 21, 2000. Since the passage of the CFMA, the Commissions have moved quickly to propose and adopt rules that would allow broker-dealers and other market participants to begin trading SFPs. The Commissions published for comment in the Federal Register proposed rules on October 4, 2001 (the "Proposal").<sup> 69 </sup> The proposed rules were designed to reduce conflicting and duplicative regulations applicable to both Full FCM/Full BDs and firms notice registered<sup> 70 </sup> with either the CFTC or the SEC, and to address certain differences between the CEA and Exchange Act rules. After reviewing and considering the comments received and making certain changes, the Commissions are adopting these rules, which allow firms to maintain customer SFPs in either a futures account subject to the CEA segregation requirements or a securities account subject to Rule 15c3-3 and SIPA. 
+
+The primary purpose of the 30-day delayed effectiveness requirement is to give affected parties a reasonable period of time to adjust to the new rules. However, shortening the time period before the final rule amendments become effective will benefit, not harm, affected parties. The final rule amendments will reduce duplicative regulation applicable to firms that intend to effect transactions in and hold SFPs for the benefit of customers, and it may be impractical for those firms to engage in this business until the final rule amendments are effective. The final rule amendments, with one exception,<sup> 71 </sup> are substantially the same as the proposed rules. 
+
+Allowing these rules to be effective prior to 30 days after publication would result in more cost-effective and efficient trading of SFPs. Intermediaries would be permitted to comply with the new rules, which are specifically designed for the trading of SFPs. If these rules are not effective on September 13, 2002 (the date that the rules pertaining to customer margin will be effective), SFP trading may begin and intermediaries would have to comply with two sets of requirements prior to these rules' effective date. Subsequent to the effective date, intermediaries then would be required to modify their systems to comply with these rules. For these reasons, the Commissions find that good cause exists for these rules to be effective on September 13, 2002, the effective date of the customer margin rules relating to security futures.<h>VII. Paperwork Reduction Act CFTC: </h>
+
+This rulemaking contains information collection requirements. As required by the Paperwork Reduction Act of 1995 ("PRA"),<sup> 72 </sup> the CFTC submitted a copy of the proposed rules to the Office of Management and Budget ("OMB") for its review. No comments were received in response to the CFTC's invitation in the Proposal to comment on any potential paperwork burden associated with the rules. 
+
+ SEC: 
+
+The SEC revised certain collections of information under the title "Amendments to Rules 15c3-3, 17a-3, 17a-4, 17a-5, 17a-7, 17a-11, and 17a-13 to Recognize Security Futures Products." The rules being amended contain currently approved collections of information under OMB control numbers 3235-0078, 3235-0033, 3235-0279, 3235-0123, 3235-0131, 3235-0085 and 3235-0035, respectively. 
+
+Presently, Rules 17a-3, 17a-5, 17a-7, 17a-11, and 17a-13 apply only to broker-dealers with relation to securities products. FCMs are subject to similar CFTC rules. Because an SFP is both a security and a future, without these amendments FCMs would be subject to these rules and the CFTC's similar rules. Therefore, the amendments to Rules 17a-3, 17a-5, 17a-7, 17a-11, and 17a-13 will not change the paperwork burden for broker-dealers or for FCMs. Instead, by exempting certain Notice BDs from the requirements of those rules, no additional paperwork burden is created. 
+
+The SEC submitted amendments to the information collection requirements contained in the proposed amendments to Rules 15c3-3 and 17a-4 to OMB for review in accordance with 44 U.S.C. 3507(d) and 5 CFR § 1320.11. In accordance with the clearance requirements of 44 U.S.C. 3507, OMB notified the SEC on January 21, 2002 and February 8, 2002 of its approval of the revisions to the collections of information contained in Rule 17a-4 and Rule 15c3-3, respectively.<h>A. Collection of Information under these Amendments </h>
+
+The amendments to Rule 15c3-3 require broker-dealers to provide each customer that wishes to engage in SFP activities with a disclosure document. The disclosure document will supply customers with information that can be used to understand the protections that the CFTC and SEC regulatory schemes provide to an account in which SFPs are held. Further, a Full FCM/Full BD must send a notification to any customer whose account type has been changed. 
+
+The amendments to Rule 17a-4 specify the length of time that the records collected under new paragraph 15c3-3(o) must be maintained. In addition, the amendments to Rule 17a-4 require that, if requested by a Commission representative or a self-regulatory organization, a broker-dealer must request and obtain certain documents underlying exchanges of SFPs for physical securities and provide them to the requesting regulator.<h>B. Proposed Use of Information </h>
+
+The information collected pursuant to the amendments to Rules 15c3-3 and 17a-4 will be used by the SEC, self-regulatory organizations, and other securities regulatory authorities during examinations and investigations to determine whether a broker-dealer is in compliance with these rules and with other, related customer protection requirements. The information collected pursuant to the amendments to the collections of information under Rules 15c3-3 and 17a-4 will be stored by the broker-dealer and made available to the various securities regulatory authorities as required to facilitate examinations and investigations.<h>C. Respondents </h>
+
+These proposed amendments to Rules 15c3-3 and 17a-4 would only apply to firms that plan to effect transactions in and hold SFPs for the benefit of customers. In addition, these provisions would apply only to broker-dealers that carry customer funds, securities or property and do not claim an exemption from Rule 15c3-3 ("clearing firms"). As of December 31, 2001, there were 412 clearing firms. In addition, only firms that plan to effect transactions in and hold SFPs for the benefit of customers will be required to comply with this rule. As of December 31, 2001, 89 broker-dealers were registered with the CFTC as FCMs, 55 of which are clearing and carrying firms. Based upon conversations between the SEC and industry representatives regarding the number of firms that may conduct a SFP business, the Staff estimated that the number of firms likely to engage in this business, in addition to the broker-dealers already registered with the CFTC as FCMs, is 10% of the clearing and carrying firms not presently registered with the CFTC. Thus, the Staff estimates that approximately 91 firms (55 + ((412 - 55) x 10%)) will be required to comply with these proposed amendments.<sup> 73 </sup><h>D. Total Annual Reporting and Recordkeeping Burden1. Rule 15c3-3 </h><h>1. Rule 15c3-3 </h>
+
+Pursuant to proposed new paragraphs (o)(2) and (o)(3) of Exchange Act Rule 15c3-3, a broker-dealer that effects transactions in SFPs for customers must provide each customer that plans to effect SFP transactions with a disclosure document containing certain information, and send each SFP customer notification of any change of account type. The SEC Staff estimates that broker-dealers engaging in an SFP business will spend approximately 2,867 hours (or 31½ hours<sup> 74 </sup> each x 91 clearing broker-dealers) to draft a disclosure document<sup> 75 </sup> and a template notification of account type change.<sup> 76 </sup> In addition, the SEC estimates that compliance with the amendments to Rule 15c3-3 will require an additional 82,240 hours per year.<sup> 77 </sup> Further, the SEC Staff estimated the costs of printing and posting the disclosure documents and notifications of account type change as being approximately $986,880.<sup> 78 </sup><h>2. Rule 17a-4 </h>
+
+The SEC Staff estimates that broker-dealers engaging in an SFP business will spend approximately 9,111 hours per year ( 91 hours<sup> 79 </sup> + 9,020 hours<sup> 80 </sup>) to assure compliance with the amendments to Rule 17a-4.
+
+Finally, the SEC Staff estimates that it may cost the broker-dealers engaging in this business approximately $2.4 million<sup> 81 </sup> to update their systems to comply with the amendments to Rules 15c3-3, 17a-3, 17a-4, 17a-5, 17a-7, 17a-11, and 17a-13.
+
+In the Proposal, the Commissions solicited comments on the proposed collections of information. No comments were received that addressed the PRA submission. 
+
+The collections and maintenance of information, and the reports made to the SEC and others that are required pursuant to Rules 15c3-3 and 17a-4 are mandatory. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.<h>VIII. Costs and Benefits of the Rules CFTC: </h>
+
+Section 15 of the CEA, as amended by Section 119 of the CFMA, requires the CFTC to consider the costs and benefits of its actions before promulgating new rules or issuing orders<sup> 82 </sup> under the CEA. By its terms, Section 15 does not require the CFTC to quantify the costs and benefits of a new rule or to determine whether the benefits of the proposed regulation outweigh the costs. Rather, Section 15(a) simply requires the CFTC to "consider the costs and benefits" of its action. 
+
+Section 15(a) further specifies that the costs and benefits of the proposed CFTC action shall be evaluated in light of the following five considerations: (1) protection of market participants and the public; (2) efficiency, competitiveness, and financial integrity of futures markets; (3) price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC may, in its discretion, give greater weight to any one of the five enumerated areas of concern and may, in its discretion, determine that, notwithstanding its costs, a particular rule is necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the CEA.
+
+There are three considerations relevant to these rules. These are: 
+
+(1) protection of market participants and the public; (2) sound risk management practices; and (3) other public interest considerations. The CFTC has considered the costs and benefits of these rules in light of these three areas of concern.
+
+The rules include a disclosure requirement applicable to FCMs. Specifically, CFTC Rule 41.41 requires FCMs to make disclosure concerning the customer protections available under both the securities and futures regulatory systems. This requirement is specifically intended to ensure that SFP customers know what protections are, or are not, in place in the unlikely event of the insolvency of the firm. In addition, Section 4d(c) of the CEA, as amended by the CFMA, requires the CFTC, in consultation with the SEC, to issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable to any firm that is fully-registered with both the CFTC and the SEC involving the application of relevant provisions of the CEA and the regulations relating to the treatment of customer funds. These rules are intended to focus Full FCM/Full BDs on the need to select which of the two regulatory regimes, the segregation requirements of the CEA or SIPA provisions, will provide coverage for SFP customer funds in the unlikely event that the firm becomes insolvent. This will be part of a firm's overall risk management structure to safeguard customer and firm assets.
+
+CFTC Rule 41.41 is intended to minimize the costs of compliance because it provides firms with maximum flexibility, consistent with legal requirements, in designing their own disclosure documents. The CFTC notes that industry representatives, in consultation with staffs of the CFTC and SEC, are developing a uniform disclosure statement concerning SFPs.<sup> 83 </sup> The CFTC has expressed the view that the disclosure document should incorporate a discussion of the segregation requirements and SIPA, and that, if it does, the CFTC will not require the discussion to be set forth in another separate document. 
+
+ SEC: 
+
+Passage of the CFMA in December of 2000 permitted the trading of SFPs and established a framework for joint regulation of SFPs by the CFTC and the SEC. This framework was necessary because the CFMA defined an SFP to be, at the same time, both a security and a contract for future delivery and therefore subject to both the CEA and the Exchange Act and the rules thereunder. Recognizing that some entities may be subject to duplicative or conflicting regulations, the CFMA amended the CEA and the Exchange Act to: 1) exempt notice-registrants from certain (but not all) sections of the CEA, Exchange Act, and the rules thereunder, and 2) direct the CFTC and the SEC to consult with each other and issue rules, regulations, or orders, as necessary, to avoid certain duplicative or conflicting regulations applicable to Full FCM/Full BDs with respect to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting, or other financial responsibility rules, involving SFPs.<sup> 84 </sup> To this end, the SEC amended Exchange Act Rules 15c3-3 and 17a-4 by adding new paragraph (o) to Rule 15c3-3, and new paragraphs (b)(9) and (k) to Rule 17a-4. The SEC also amended Exchange Act Rules 17a-3, 17a-5, 17a-7, 17a-11, and 17a-13 to exempt certain Notice BDs from those rules.
+
+The amendments to Rule 15c3-3 allow a Full FCM/Full BD to choose whether to carry a customer's SFP positions in a securities account or a futures account. Whether an SFP is held by a Full FCM/Full BD in a securities or a futures account will determine whether the account will be subject to the CFTC's segregation requirements or the SEC's customer protection rule and SIPA. Paragraph (o) of Rule 15c3-3 strives both to identify the manner in which a firm holds SFPs and to assure that each customer understands which regulatory structure will govern an account in which SFPs are held. Accordingly, paragraph (o) of Rule 15c3-3 requires that a firm establish written policies and procedures, and provide customers with specific disclosures. In addition, if a Full FCM/Full BD permits the account type to be changed, the firm must also create a detailed record of any change and notify the customer in writing of the effective date of the change.
+
+In the Proposal, the SEC solicited comments on all aspects of the cost-benefit analysis, including identification of any additional costs and/or benefits of the proposed amendments. It also strongly encouraged commenters to identify and supply any relevant data, analysis and estimates. No comments were received that specifically addressed the cost-benefit analysis; however, all three comment letters the SEC received did mention certain costs and/or benefits. These comments were primarily qualitative in nature, and are described more specifically below.
+
+The SEC has identified below certain costs and benefits related to the Amendments to Rules 15c3-3, 17a-3, 17a-4, 17a-5, 17a-7, 17a-11, and 17a-13. In addition, any comments received that refer to costs or benefits are discussed in the section about which the comment was directed.<h>A. Benefits1. Elimination of Conflicting and Duplicative Regulation </h><h>1. Elimination of Conflicting and Duplicative Regulation </h>
+
+The amendments to Rule 15c3-3 benefit broker-dealers by eliminating certain conflicting regulations for Full FCM/Full BDs. More specifically, without these amendments, duplicative regulations would have required Full FCM/Full BDs to maintain two separate and redundant reserves to satisfy both CFTC segregation requirements and Rule 15c3-3 reserve requirements. The amendments to Exchange Act Rules 17a-3 and 17a-4 also eliminate duplicative regulations for Notice BDs, which would have been subject to more than one set of recordkeeping rules. In addition, Rules 17a-5, 17a-7, 17a-11 and 17a-13 were amended to eliminate duplicative regulation of Notice BDs.
+
+The simplicity of these amendments benefits broker-dealers as well. The CFTC and the SEC, in amending these rules to avoid duplicative and conflicting regulations, attempted to provide as much flexibility and create as few operational issues and additional costs as possible. Instead of creating a new structure to be used solely for SFPs, the amendments allow broker-dealers and FCMs to maintain the same operational structures they use presently for securities and for futures. A Full FCM/Full BD can determine which regulatory structure will be applicable to SFPs simply by choosing the type of account in which SFPs will be held. Notice registrants will simply continue to use the same organizational structure and be subject to the same regulations presently applicable to their business. 
+
+Both the CFTC and SEC customer protection regimes cause firms to take certain steps to protect customer assets. The Commissions believe it is unlikely that firms would attempt regulatory arbitrage based on differences in customer protection regimes. Further, none of the commenters suggested that differences in the two regulatory regimes might lead to regulatory arbitrage.
+
+One commenter, in support of the amendments allowing a firm to choose whether to hold a customer's SFP position in a securities account or in a futures account, stated "the Commissions' desire to maintain consistent reporting and recordkeeping procedures that follow the type of account in which the SFPs are held is a benefit to industry participants."<sup> 85 </sup><h>2. Customer Understanding </h>
+
+The purpose of these two regulatory schemes is the protection of customer assets. The SEC believes it is important that customers are informed of what regulatory protections apply to the account in which their SFPs are held. If a firm does not allow customers to choose whether their SFP positions will be held in a securities account or a futures account, the disclosure document will help customers understand the regulatory protections applicable to their account. If a firm allows customers to choose whether their SFP positions will be held in a securities account or a futures account, the requirement that a disclosure document be sent to customers describing the protections afforded pursuant to Rule 15c3-3 and SIPA, as well as the protections afforded pursuant to CEA segregation rules, will assist the customer in making an informed decision as to which regulatory scheme will protect their account. Also, providing the customer with the required disclosures at least ten days prior to a change of account type will allow any customer not wanting their account type to change the opportunity to transfer his or her account to another broker-dealer. Without the disclosure document, it would be more difficult for the customer to obtain the information necessary to make an informed decision. In fact, one commenter voiced agreement with the requirement that firms provide customers with a disclosure document, stating, "[w]hether or not customers have a choice [as to account type], they should have a basic understanding of the protections that apply (or do not apply) to their account."<sup> 86 </sup>
+
+The requirement that the broker-dealer send disclosure documents to customers also benefits the broker-dealer. By sending this disclosure document the broker-dealer has evidence that the customer has been notified of which regulatory scheme will be applicable, and which regulatory scheme will not be applicable, to his account.<h>3. Examination Efficiencies </h>
+
+Certain of the requirements included in the amendments are designed to help examinations of broker-dealers proceed in an efficient and effective manner. If the regulatory agency staff cannot ascertain which regulatory structure applies to each customer account or what policies and procedures the broker-dealer employs in relation to the administration of those accounts, it must spend more time at the firm to research and evidence these issues. This increases the time of examinations and increases the costs to the broker-dealer, which must provide additional documentation and staff time to answer the regulatory agency staff's questions.<h>B. Costs </h>
+
+The amendments were drafted to permit flexibility in the creation of records in order to reduce the costs to broker-dealers. In addition, records created pursuant to the amendments will be subject to the Exchange Act Rule 17a-4 maintenance requirements, which provide a number of options as to how a broker-dealer may maintain records. Rule 17a-4 gives each broker-dealer the flexibility to choose for itself the most appropriate method to comply with the rules based upon its present processes and systems capabilities. In fact, one commenter stated, "[a]llowing firms to select how to carry the positions will enable firms to utilize the most cost-effective solutions when determining how to support this product."<sup> 87 </sup> 
+
+In addition, the costs of these amendments is difficult to ascertain because they may vary widely due to differences both in the amount of SFP business in which a broker-dealer may engage and the current recordkeeping systems employed by the broker-dealer.<h>1. Addition of Paragraph 15c3-3(o)a. Establishment of a Written Policy </h><h>a. Establishment of a Written Policy </h>
+
+Pursuant to paragraph (o)(1)(ii) of Rule 15c3-3, a Full FCM/Full BD that effects transactions in SFPs for customers must establish written policies and procedures describing how customer SFP positions will be treated and, if applicable, the process by which a customer may elect the type of account in which SFPs will be carried. Only broker-dealers that effect transactions in SFPs for customers must draft these policies and procedures. Self-regulatory organization rules presently require that a broker-dealer establish written procedures to supervise the types of business in which it engages.<sup> 88 </sup> Thus, a Full FCM/Full BD would need to establish these policies and procedures regardless of this amendment to Rule 15c3-3. Accordingly, the SEC estimates there is no additional cost to a broker-dealer associated with this amendment.<h>b. Furnishing a Disclosure Document to Customers </h>
+
+Pursuant to new paragraph (o)(2) of Rule 15c3-3, a broker-dealer that effects transactions in SFPs for customers must provide each of those customers with a disclosure document containing certain information. The SEC believes there would be two costs associated with furnishing this disclosure document: the initial, one-time cost to create the document, and the cost of printing and sending the disclosure document to customers.
+
+One commenter indicated that it is an active member of a group of industry representatives that is developing a uniform disclosure statement for security futures products.<sup> 89 </sup> The creation of a uniform disclosure statement should decrease the initial cost of developing such a document to broker-dealers; however, each broker-dealer that must provide the required disclosures to its customers will still need to review each available uniform statement to determine whether the it satisfies the requirements of the rule as applied to the broker-dealer's own business, and whether it wants or needs to tailor the document for its own purposes. 
+
+The SEC Staff estimates that approximately 91 firms<sup> 90 </sup> will be required to create a disclosure document. In addition, the SEC Staff estimates that the hourly burden to create the disclosure document (discussed in the PRA section) will result in a one time cost to the industry of approximately $447,720.<sup> 91 </sup> Further, as discussed in the PRA section, the SEC Staff estimates that the cost of printing and sending these disclosure documents will result in a the total annual cost to the industry of approximately $822,400.<sup> 92 </sup><h>c. Changes of Account Type </h>
+
+ i. Record of Change of Account Type
+
+Pursuant to new paragraph (o)(3)(i) of Rule 15c3-3, a Full FCM/Full BD that changes the type of account in which a customer's SFPs are held must create a record of each change in account type that includes the name of the customer, the account number, the date the broker-dealer received the customer's request to change the account type, and the date the change in account type took place. The SEC Staff believes that not all Full FCM/Full BDs that effect transactions in SFPs for customers will allow for changes in account type. To the extent that a Full FCM/Full BD does permit changes of account type, these data items are the type of information that would be easily accessed or created and maintained; therefore, the SEC Staff believes the costs of maintaining this information will be minimal. The SEC Staff estimates that the hourly burden to create records of a change of account type, as discussed in the PRA, will result in a total annual cost to the industry of approximately $3.5 million.<sup> 93 </sup>
+
+ ii. Customer Notification of Effective Date of Change of Account Type
+
+Pursuant to new paragraph (o)(3)(ii) of Rule 15c3-3, a Full FCM/Full BD that permits a change in the type of account in which a customer's SFPs are held must notify the customer in writing, at least ten days prior to the date of the change of account type, of the date the change will become effective. One commenter objected to this requirement, stating "[r]equiring a firm to provide a customer with a [second] separate notice as to when the change became effective imposes unnecessary additional administrative costs and staffing burdens on such firms."<sup> 94 </sup> The SEC believes that customers must be informed of the date changes of account type became effective. However there is no requirement that the notification be sent separately and the firm may choose to include the notification with other correspondence that the firm sends to the customer.
+
+The SEC Staff believes that there are two costs associated with providing this notification to customers: the initial, one-time cost to draft the form for notification, and the cost of printing and sending the notification to customers. The SEC Staff estimates that the hourly burden to create the customer notification (discussed in the PRA section) will result in a total one time cost to the industry of approximately $52,826.<sup> 95 </sup> 
+
+The SEC Staff believes that firms will use the least costly method to comply with these requirements, and will probably include this notification with other mailings sent to the customer. As stated in the PRA section, the SEC Staff estimates that the total cost to the industry of printing and posting the acknowledgment will be approximately $164,480.<sup> 96 </sup><h>2. Amendments to Rule 17a-4 </h>
+
+The amendments to Rule 17a-4 clarify that the records required to be created pursuant to new paragraph (o) of Rule 15c3-3 must be maintained for at least three years, the first two in an easily accessible place. Once the broker-dealer files these records, the cost to maintain them is minimal. The SEC believes that the main cost would be the cost to assure that the broker-dealer complies with the rule. The SEC Staff estimates that the hourly burden to assure compliance with the amendment to Rule 17a-4 (discussed in the PRA section) will result in a total annual cost to the industry of approximately $9,214.<sup> 97 </sup> 
+
+New paragraph (k) of Rule 17a-4 will require a broker-dealer that engages in a SFP business, upon request of the SEC or a self-regulatory organization, to request from its customers and provide to the regulator documentation of cash transactions underlying exchanges of security futures products for the underlying security(ies). In addition, this is not a record that the broker-dealer will be required to create or maintain on a regular basis but, instead, a broker-dealer will obtain these documents from a customer and provide them to the requesting regulator only when specifically requested. 
+
+ The SEC Staff estimates that the hourly burden to respond to 4,510 requests<sup> 98 </sup> for documents relating to EFPs (discussed in the PRA section) will result in a total annual cost to the industry of approximately $913,275.<sup> 99 </sup><h>3. Systems Changes </h>
+
+The SEC Staff believes that broker-dealers may need to update their systems to provide for the printing and sending of disclosure documents and acknowledgments to SFP customers, and to create and maintain information as to changes of account type. The SEC Staff further believes, based on conversations with industry representatives, that many broker-dealers have not yet updated their systems to provide for the trading and processing of SFPs as certain specifications of these products have not been finalized. Consequently, the Staff believes that any systems coding changes needed to comply with the amendments to Rules 15c3-3 and 17a-4 could be incorporated into the initial coding for these products, thus greatly decreasing the costs generally associated with systems changes. Therefore, as stated in the PRA section, the SEC Staff estimates that it may cost the broker-dealers engaging in this business approximately $2.4 million<sup> 100 </sup> to update their systems to comply with the amendments to Rules 15c3-3 and 17a-4.<h>IX. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation </h>
+
+Section 3(f) of the Exchange Act<sup> 101 </sup> provides that whenever the SEC engages in rulemaking and must consider or determine whether an action is necessary or appropriate in the public interest, the SEC shall consider whether the action will promote efficiency, competition, and capital formation. In addition, section 23(a)(2) of the Exchange Act<sup> 102 </sup> requires the SEC, in adopting Exchange Act rules, to consider the impact any such rule would have on competition and to not adopt a rule that would impose a burden on competition not necessary or appropriate in furthering the purposes of the Exchange Act. 
+
+In the Proposal, the SEC solicited comments on the effect of the proposed rules and rule amendments on competition, efficiency, and capital formation. No comments were received that specifically addressed the effect the proposed rules and rule amendments may have on competition, efficiency, and capital formation. However, one commenter stated, "requiring a signed acknowledgment from a customer trading through a Full FCM/Full BD [...] imposes inequitable burdens on a Full FCM/Full BD" and "[because] notice registrants are not required to obtain a signed acknowledgment from their customers [...] Full FCM/Full BDs [are penalized] vis a vis notice registrants."<sup> 103 </sup> As stated above, the Commissions determined not to adopt the acknowledgment requirement.
+
+The SEC believes the amendments are necessary to eliminate conflicting or duplicative rules regarding customer protection and recordkeeping applicable to SFPs. These amendments, which provide Full FCM/Full BDs the flexibility to choose whether SFPs will be held in a futures account (subject to the CEA segregation requirements) or a securities account (subject to the Exchange Act and SIPA requirements), allow these entities to determine and apply the less burdensome regulatory scheme. Further, the amendments also exempt certain Notice BDs from Exchange Act Rules 17a-3, 17a-5, 17a-7, 17a-11, and 17a-13 because the CFTC has similar rules that would apply to these firms. 
+
+These amendments should provide an efficient and cost-effective means for Full FCM/Full BDs to reconcile their conflicting customer protection and segregation requirements with respect to SFPs. The amendments also should promote efficiency because they allow firms the flexibility to utilize their present systems for processing SFPs, allow firms and/or customers to choose the regulatory scheme that will be applied to accounts in which customer SFP positions are held, and help educate customers regarding the different regulatory schemes (which may be applicable to their accounts) that serve to protect their assets. The SEC believes that the amendments will not create any anti-competitive effects and, in fact, should promote competition by decreasing the costs associated with engaging in an SFP business. Finally, the SEC does not believe that the amendments will hinder capital formation, as they harmonize SEC and CFTC customer protection rules to eliminate duplicative regulation that would have required duplication of reserves/segregated funds.<h>X. Summary of Regulatory Flexibility Act Certification CFTC: </h>
+
+<END MAIN TEXT>
+
+1 Pub. L. No. 106-554, 114 Stat. 2763 (2000).
+
+2 CEA section 1a(25)(A) (7 U.S.C. 1a(25)(A)) and Exchange Act section 3(a)(55)(B) and (C) (15 U.S.C. 78c(a)(55)(B) and (C)). See also 66 FR 44489 (August 23, 2001), Exchange Act Release No. 44724 (August 20, 2001).
+
+3 The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under Section 3(a)(12) of the Exchange Act as in effect on the date of enactment of the Futures Trading Act of 1982 (other than any municipal security as defined in Section 3(a)(29) of the Exchange Act as in effect on the date of enactment of the Futures Trading Act of 1982). The term "security future" does not include any agreement, contract, or transaction excluded from the CEA under Sections 2(c), (d), (f), or (g) of the CEA (as in effect on the date of enactment of the CFMA) or Title IV of the CFMA. CEA section 1a(31) (7 U.S.C. 1a(31)) and Exchange Act section 3(a)(55) (15 U.S.C. 78c(a)(55)).
+
+4 The term "security futures product" includes both a security future and any option on a security future. CEA section 1a(32) (7 U.S.C. 1a(32)) and Exchange Act section 3(a)(56) (15 U.S.C. 78c(a)(56)). Section 6(g)(5)(A) of the Exchange Act provides that it is unlawful for any person to execute or trade a security futures product until the later of: "(i) 1 year after the date of enactment of the Commodity Futures Modernization Act of 2000; or (ii) such date that a futures association registered under Section 17 of the Commodity Exchange Act has met the requirements set forth in Section 15A(k)(2) of this title." 15 U.S.C. 78f(g)(5)(A). There is an exception to this provision, however, for principal-to-principal transactions between eligible contract participants. Exchange Act section 6(g)(5)(B) (15 U.S.C. 78f(g)(5)(B)). The term "eligible contract participant" is defined at CEA section 1a(12) (7 U.S.C. 1a(12)).
+
+5 FCMs that are registered pursuant to CEA section 4f(a)(1) (7 U.S.C. 6f(a)(1)).
+
+6 Broker-dealers that are registered pursuant to Exchange Act section 15(b)(1) (15 U.S.C. 78 o (b)(1)).
+
+7 CEA section 4d(c) (7 U.S.C. 6d(c)) and Exchange Act section 15(c)(3)(B) (15 U.S.C. 78 o (c)(3)(B)).
+
+8 66 FR 50785 (Oct. 4, 2001), Exchange Act Release No. 44854 (Sept. 26, 2001).
+
+9 See infra notes 15 and 17.
+
+10 On October 29, 2001, the Commissions extended the comment period on the Proposal to December 5, 2001. 66 FR 55608 (November 2, 2001), Exchange Act Release No. 44996 (Oct. 29, 2001).
+
+11 Exchange Act sections 3(a)(10) and (11), respectively (15 U.S.C. 78c(a)(10) and 15 U.S.C. 78c(a)(11)).
+
+12 See note 3.
+
+13 See note 4.
+
+14 The CFTC implemented notice registration procedures on August 17, 2001 by adopting rules pursuant to Section 4f(a)(2) of the CEA (7 U.S.C. 6f(a)(2) ( see 66 FR 43080 (August 17, 2001)). The SEC implemented notice registration procedures on August 21, 2001 by adopting rules pursuant to Section 15(b)(11) of the Exchange Act (15 U.S.C. 78 o (b)(11)(A)(i) ( see 66 FR 45137 (August 27, 2001), Exchange Act Release No. 44730 (August 21, 2001)).
+
+15 A Notice FCM is a broker-dealer that registers with the CFTC as an FCM pursuant to section 4f(a)(2) of the CEA (7 U.S.C. 6f(a)(2)) and rules adopted by the CFTC ( see 66 FR 43080 (August 17, 2001)).
+
+16 CEA section 4f(a)(4)(A) (7 U.S.C. 6f(a)(4)(A)).
+
+17 A Notice BD is an FCM or IB that registers with the SEC as a broker-dealer pursuant to section 15(b)(11) of the Exchange Act (15 U.S.C. 78 o (b)(11)(A)(i)) and the rules adopted by the SEC ( see 66 FR 45137 (August 27, 2001), Exchange Act Release No. 44730 (August 21, 2001)).
+
+18 Exchange Act section 15(b)(11)(B) (15 U.S.C. 78 o (b)(11)(B)).
+
+19 15 U.S.C. 78aaa et seq .
+
+20 17 CFR 240.15c3-3(a)(1), 240.17a-3, 240.17a-4, 240.17a-5, 240.17a-7, 240.17a-11, and 240.17a-13, respectively.
+
+21 Each commenter sent substantially the same letter to the CFTC and the SEC.
+
+22 However, one commenter stated that although the proposed rule amendments appeared to be flexible, Full FCM/Full BDs would likely be compelled to carry SFPs in securities accounts due to operational difficulties that would be created if the proposed customer margin rules published for comment on October 4, 2001 were adopted by the Commissions. See Customer Margin Rules Relating to Security Futures, 66 FR 50719 (October 4, 2001), Exchange Act Release No. 44853 (September 26, 2001).
+
+23 The first five pages of NFA's comment letter provide further background and historical perspective upon the customer fund protection frameworks of the futures and securities industries. This letter may be accessed through the CFTC's website at http://www.cftc.gov/files/foia/comment01/foicf0119c002.pdf.
+
+24 See note 7.
+
+25 The Proposal designated the CFTC's security futures products accounts rule as Rule 41.42. However, because the CFTC is adopting this rule and the rules pertaining to customer margin as Subpart E of Part 41, the CFTC has redesignated Rule 41.41 as Rule 41.3 and adopted the SFP accounts rule as Rule 41.41.
+
+26 See NFA Letter, pps. 6-7.
+
+27 As stated in the Proposal, 66 FR 50785 at 50795, the CFTC reiterates that if the model disclosure document incorporates a discussion of the segregation requirements and SIPA as required under Rule 41.41, the CFTC will not require the discussion to be set forth in a separate risk disclosure document. NFA supported this aspect of the Proposal.
+
+28 The terms "futures account" and "securities account" are defined in new paragraphs (vv) and (ww) of CFTC Rule 1.3, and corresponding paragraphs (a)(15) and (a)(14) of Rule 15c3-3. The Commissions did not receive any comments concerning these definitions in response to the Proposal. Separately, CFTC Rule 41.41(f) clarifies that money, securities, or property held to margin, guarantee or secure SFPs held in a futures account are subject to the segregation requirements of Section 4d of the CEA (7 U.S.C. 6d). No comments were received regarding this provision, and it has been adopted as proposed.
+
+29 To the extent that a Full FCM/Full BD allows a customer to choose the account type, this includes policies regarding the process by which a customer may elect the type or types of account(s) in which SFPs will be held (including the procedure to be followed if a customer fails to make an election of account type).
+
+30 NFA suggested a technical change to CFTC Rule 41.41(a)(2) to make clear that the reference therein to "FCM" pertains to an FCM that is fully registered with the CFTC pursuant to CEA Section 4f(a)(1). The CFTC notes that the other type of FCM, i.e. , a Notice FCM, does not have any discretion in determining where SFPs may be held. A Notice FCM may hold SFPs only in a securities account. See CFTC Rule 41.41(a)(1). Accordingly, CFTC Rule 41.41(a)(2), which requires FCMs to establish policies or procedures for determining where SFPs can be held applies only to FCMs that are fully registered under CEA Section 4f(a)(1). Nevertheless, in the interest of providing clarity in the rules, the CFTC has incorporated the change suggested by NFA and, thus, CFTC Rule 41.41(a)(2), as adopted, provides that the requirement for establishing written policies or procedures applies only to Full FCM/Full BDs. No corresponding change has been made to Rule 15c3-3(o)(1)(ii), which was organized differently, and makes clear that the requirement for establishing written policies or procedures applies only to Full FCM/Full BDs.
+
+31 The Proposal referred to requirements that a firm would be required to meet before accepting an SFP order from a customer. The Commissions have adopted language that makes clear that these requirements are to be met before accepting the first SFP order from a customer and need not be repeated for each SFP order.
+
+32 The Commissions requested comment on whether the rules should mandate specific language to be included in the disclosure document. None of the commenters suggested that any specific disclosure language be required.
+
+33 A group of industry participants, including the NFA and the NASD, is developing a uniform disclosure statement. See note 26 and accompanying text.
+
+34 Firms may provide these statements to the customer prior to the transfer ( e.g. , in the case of a transfer initiated by the customer, the required disclosures may be provided to the customer when the customer initiates the transfer request).
+
+35 See notes 15 through 18 and accompanying text.
+
+36 See CME/CBOT Letter, p. 3.
+
+37 Id .
+
+38 When it considered adopting the final rules, the SEC also noted that the acknowledgement requirement could be misconstrued against customers and, therefore, should not be adopted as proposed.
+
+39 The Commissions have clarified that when an account is transferred and a customer's account type will change as a result of that transfer, the required disclosures must be provided to the customer at least ten days before the effective date of the transfer to allow the customer time to move the account to another firm ( See infra note 44 and accompanying text).
+
+40 As discussed above, a firm would be required to establish procedures as to whether and when a customer or firm could change the account type (see section C.1. above).
+
+41 See infra notes 42 and 43
+
+42 See CME/CBOT Letter, p. 4.
+
+43 See FIA/SIA Letter, p. 3.
+
+44 Specifically, a customer must receive (1) a description of the protections afforded futures accounts under Section 4d of the CEA and securities accounts under Rule 15c3-3 and SIPA; (2) a statement indicating whether a customer's SFPs will be held in a futures account or in a securities account and whether customers will be permitted to make or change an election concerning account type; and (3) a statement that the protections provided by the alternative regulatory framework will not be available with respect to that account.
+
+45 See NFA Letter, p. 8.
+
+46 See CME/CBOT Letter, p. 4.
+
+47 Id .
+
+48 See e.g. , NASD Rule 2110 and NYSE Rule 2401. Generally, firms may initiate a change of account type for any reason, provided it does not violate the CEA, Exchange Act, and self-regulatory organization rules.
+
+49 Because many of the record retention obligations in Exchange Act Rule 17a-4 are dependant on the obligation to create the record under Exchange Act Rule 17a-3, the relief provided in paragraph (f) of Rule 17a-3 will also relieve firms from certain Rule 17a-4 record retention obligations.
+
+50 As noted in the Proposal, CFTC Rule 1.31 (17 CFR 1.31) requires that all books and records required to be kept by an FCM must be kept for a period of five years from the date thereof, and further, that the required books and records may be stored on micrographic or electronic storage media unless the documents are trading cards or other documents on which trade information is originally recorded in writing, whereas certain records required to be preserved pursuant to the Exchange Act Rule 17a-4 (17 CFR 240.17a-4) must be held for either three or six years, depending upon the particular record.
+
+51 17 CFR 1.33(a). FCMs may send a quarterly statement if the account has neither open positions at the end of the statement period nor any changes to the account balance since the prior statement period.
+
+52 See e.g. , Exchange Act Rule 15c3-2 (17 CFR 240.15c3-2) and NYSE Rule 409. However, in some cases broker-dealers must send account statements to customers more frequently ( see, e.g. , NYSE Rule 730), and, as a general business practice, most broker-dealers send a monthly statement to each customer whose account has experienced activity during that month.
+
+53 17 CFR 1.33 and 1.46.
+
+54 67 FR 39647 (June 10, 2002), Exchange Act Release No. 46014 (May 31, 2002).
+
+55 67 FR 39752 (June 10, 2002), Exchange Act Release No. 46015 (May 31, 2002).
+
+56 Exchange Act Release No. 46471 (September 6, 2002).
+
+57 See 17 CFR 1.3(k) and 1.3(y).
+
+58 17 CFR 240.15c3-3(e).
+
+59 New paragraph 15c3-3(o) requires that when effecting a change of an SFP customer's account type a Full FCM/Full BD must make a record of the change.
+
+60 See Report of the CFTC's Division of Trading and Markets: Exchanges of Futures for Physicals (October 1987).
+
+61 66 FR 55817, at 55841 (November 2, 2001), Exchange Act Release No. 44992 (Oct. 26, 2001).
+
+62 Broker-dealers are required to file monthly and/or quarterly reports (commonly referred to as FOCUS Reports), annual audited statements, and send financial statements to customers pursuant to Rule 17a-5 (17 CFR 240.17a-5).
+
+63 Non-resident brokers and dealers are required, pursuant to Rule 17a-7 (17 CFR 240.17a-7), to maintain certain records at a location, designated by the firm, within the United States, or provide the SEC with a signed undertaking stating that it will furnish such records to representatives of the SEC upon demand.
+
+64 See Rule 17a-11 (17 CFR 240.17a-11).
+
+65 See Rule 17a-13 (17 CFR 240.17a-13).
+
+66 See, e.g. , 17 CFR 1.10 and 1.12.
+
+67 15 U.S.C. 78f(a) and 15 U.S.C. 78 o -3(a). This does not include any national securities exchanges or national securities associations that are registered pursuant to Section 6(g) or 15A(k) of the Exchange Act (15 U.S.C. 78f(g) or 15 U.S.C. 78 o -3(k)).
+
+68 5 U.S.C. 553(d).
+
+69 See supra note 8.
+
+70 See supra notes 15 and 17.
+
+71 The final rule amendments eliminated the proposed requirement that firms obtain a signed acknowledgement from a customer before accepting an SFP order.
+
+72 44 U.S.C. 3501 et seq.
+
+73 As stated above, the SEC submitted amendments to the information collection requirements contained in the proposed amendments to Rules 15c3-3 and 17a-4 to OMB, and was notified of its approval of those amendments. The SEC's estimates in those submissions (100 respondent broker-dealers and 97.6 million customer accounts) were based on information provided by broker-dealers in their December 31, 2000 FOCUS filings. However, the SEC has received FOCUS filings since those submissions were made to OMB, and we have updated our estimates to include this new information.
+
+74 See infra notes 75 and 76. ((20 hours + 8 hours for the disclosure document) + (3 hours + ½ hour for the notification of account type change)) = 31½.
+
+75 The Staff estimates (based on its experience) that, on average, one attorney will spend approximately 20 hours to create the disclosure document, and one senior attorney will spend approximately 8 hours reviewing and editing the document.
+
+76 The Staff estimates (based on its experience) that, on average one attorney will spend approximately 3 hours to create the notification, and one senior attorney will spend approximately 30 minutes reviewing and editing the document.
+
+77 Broker-dealers reported, in their December 31, 2001 FOCUS Schedule 1 filings, that they maintained 102,800,000 customer accounts. The SEC Staff estimates, based on the number of active options accounts and conversations with industry representatives, that 8% of these customers may engage in SFP transactions (102,800,000 accounts x 8% = 8,224,000) (this would include accounts transferred from one broker-dealer to another). Further, the Staff estimates that 20% per year may change account type. Thus, broker-dealers would be required to create this record for 1,644,800 accounts (or 8,224,000 accounts x 20%). The Staff believes that it will take approximately 3 minutes to create each record. Thus, the total annual burden associated with creating this record of change of account type, as required pursuant to new paragraph (o)(3)(i) of Rule 15c3-3, will be 82,240 hours (1,644,800 accounts x (3min/60min)).
+
+78 The estimates of costs of printing the disclosure documents are based on the number of estimated customer accounts that will be opened to effect transactions in SFPs. The SEC Staff estimates that the cost of printing and sending each disclosure document will be approximately $.10 per document sent. This estimate is based on past conversations with industry representatives regarding other rule changes that required similar printing and postage costs: postage may be minimized by including the disclosure document with other information mailed to customers. Thus, the total cost to the industry of printing and sending disclosure documents will be approximately $822,400 (or (8,244,000 x $.10)). The SEC Staff estimates that the cost of printing and posting each notification of account type change will be approximately $.10 per document sent. Therefore, the SEC Staff estimates that the cost of sending this notification to customers will be $164,480 (1,644,800 accounts x $.10). (($822,400 + $164,480) = $986,880).
+
+79 Only broker-dealers that engage in SFP business will be subject to the changes to Rule 17a-4. The Staff believes that 91 broker-dealers may decide to engage in a security futures product business (see text accompanying note 74). The Staff estimates that it will take, on average, one compliance person approximately 1 hour per year to assure that the broker-dealer is in compliance with the record maintenance provisions of Rule 17a-4(b)(9) as it relates to new paragraph 15c3-3(o). Thus, the total yearly burden of assuring compliance with the amendment to Rule 17a-4(b)(9) is approximately 91 hours (1 hour x 91 broker-dealers).
+
+80 The SEC Staff believes this requirement is analogous to bluesheet requests made by the SEC to broker-dealers. Bluesheet requests are only sent to clearing firms, 661 of which were registered with the SEC as of December 31, 2000 (according to FOCUS Schedule 1 filings). The SEC sent 32,278 bluesheet request letters to 294 broker-dealers from January 1, 2000 to December 31, 2000. Thus, 45% of the broker-dealers that could be affected received letters (or 294 broker-dealers that received bluesheet requests / 661 total clearing firms), and those broker-dealers that did receive letters received, on average, 110 letters each (or 32,278 bluesheet requests / 294 broker-dealers that received bluesheet requests). Therefore, the SEC Staff estimates that 41 clearing firms (45% x 91 clearing firms that engage in SFP business) will receive approximately 110 requests each for the information required to be collected and provided pursuant to new paragraph (k) of Rule 17a-4, or a total of 4,510 requests (or 41 broker-dealers x 110 requests each). The SEC Staff estimates (based on its experience) that it will take approximately 2 hours for a broker-dealer to respond to a request to provide this information to a regulator. Therefore, the SEC Staff believes that it would take a total of approximately 9,020 hours each year for broker-dealers to comply with this requirement (4,510 requests x 2 hours per request).
+
+81 This estimate is based on representations made by industry representatives relating to other Commission rules that required similar systems modifications.
+
+82 Section 15(a)(3) sets forth three exceptions to the requirement for conducting a cost-benefit analysis, none of which would be applicable to these rules.
+
+83 See note 26 and accompanying text.
+
+84 See note 7.
+
+85 See CME/CBOT Letter, p. 2.
+
+86 See NFA Letter, p. 6.
+
+87 See FIA/SIA Letter, p.2.
+
+88 See e.g. , NASD Rule 3010.
+
+89 See note 26 and accompanying text.
+
+90 See text accompanying note 73.
+
+91 See note 75. According to the SIA's Report on Management and Professional Earnings in the Securities Industry 2000 , Tables 107, 108 and 110 (plus 35% overhead), the hourly cost of an attorney is approximately $156.00 and the hourly cost of a deputy general counsel is $225.00. ((($156.00 x 20 hours) + ($225.00 x 8 hours)) x 91 broker-dealers)
+
+92 See note 78.
+
+93 See note 77. According to Table 119 of the SIA's Report on Office Salaries In the Securities Industry 2000 , the hourly cost of an operations specialist is approximately $42.00 (which includes an additional 35% to account for overhead costs) (82,240 hours x $42.00).
+
+94 See note 47 and accompanying text.
+
+95 See note 76. According to the SIA's Report on Management and Professional Earnings in the Securities Industry 2000 , Tables 107, 108 and 110 (and adding an additional 35% to account for overhead costs), the hourly cost of an attorney is approximately $156.00 and the hourly cost of a deputy general counsel is $225. ((156.00 x 3 hours) + ($225 x (30 min/60 min))) x 91 broker-dealers.
+
+96 See note 78.
+
+97 See note 79. Based on the SIA's Report on Management and Professional Earnings in the Securities Industry 2000 , Table 051 (plus 35% overhead), the hourly cost of a compliance manager is approximately $101.25. (($101.25 x 1 hour per broker-dealer) x 91 broker-dealers)).
+
+98 See note 80.
+
+99 Based on the SIA's Report on Management and Professional Earnings in the Securities Industry 2000 , Table 051 (and adding an additional 35% to account for overhead costs), the hourly cost of a compliance manager is approximately $101.25. ($101.25 x 2 hours x 4,510 requests).
+
+100 See note 81 and accompanying text.
+
+101 15 U.S.C. 78c(f).
+
+102 15 U.S.C. 78w(a)(2).
+
+103 See CME/CBOT Letter, p. 3.
+
+104 5 U.S.C. 601 et seq .
+
+105 5 U.S.C. 603(a).
+
+106 47 FR 18618 (April 30, 1982).
+
+107 Id . at 18619.
+
+108 Id .
+
+109 See note 8.

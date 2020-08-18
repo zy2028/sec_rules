@@ -1,0 +1,439 @@
+https://www.sec.gov/rules/final/34-46471.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Background
+
+	III.0.0.0: III. The Solicitation of General Comments and the Proposing Release
+
+	IV.0.0.0: IV. Overview of the Comments Received
+
+	V.0.0.0: V. Discussion and Basis for Adoption
+
+		V.A.0.0: A. Rule 10b-10
+
+		V.B.0.0: B. Rule 10b-10 SIPC Disclosure Requirement
+
+		V.C.0.0: C. Rule 11d2-1
+
+		V.D.0.0: D. Technical Corrections to Rule 10b-10
+
+	VI.0.0.0: VI. Paperwork Reduction Act
+
+		VI.A.0.0: A. Rule 10b-10
+
+			VI.A.1.0: 1. Collection of Information Under the Confirmation of Transactions Amendment
+
+			VI.A.2.0: 2. Use of Information
+
+			VI.A.3.0: 3. Respondents
+
+			VI.A.4.0: 4. Total Annual Reporting and Recordkeeping Burden
+
+			VI.A.5.0: 5. Collection of Information is Mandatory
+
+			VI.A.6.0: 6. Confidentiality
+
+			VI.A.7.0: 7. Record Retention Period
+
+		VI.B.0.0: B. Rule 11d2-1
+
+	VII.0.0.0: VII. Costs and Benefits of Amendments
+
+		VII.A.0.0: A. Introduction
+
+		VII.B.0.0: B. Rule 10b-10
+
+			VII.B.1.0: 1. Benefits
+
+			VII.B.1.a: a. Elimination of Conflicting and Duplicative Regulation
+
+			VII.B.1.b: b. Customer Understanding
+
+			VII.B.2.0: 2. Costs
+
+		VII.C.0.0: C. Rule 11d2-1
+
+			VII.C.1.0: 1. Benefits
+
+			VII.C.2.0: 2. Costs
+
+	VIII.0.0.0: VIII. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+	IX.0.0.0: IX. Final Regulatory Flexibility Act
+
+	X.0.0.0: X. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule
+
+Confirmation Requirements for Transactions of Security Futures Products Effected in Futures Accounts Securities and Exchange Commission 17 CFR Part 240 [Release No. 34-46471; File No. S7-19-02] RIN 3235-AI50 Confirmation Requirements for Transactions of Security Futures Products Effected in Futures Accounts 
+
+ Agency: Securities and Exchange Commission.
+
+ Action: Final rule.
+
+ Summary: In accordance with the Commodity Futures Modernization Act of 2000 ("CFMA"), the Securities and Exchange Commission ("SEC" or "Commission") is adopting rule amendments and a new rule under the Securities Exchange Act of 1934 ("Exchange Act"). The rule amendments and new rule are designed to clarify the disclosures broker-dealers effecting transactions in security futures products in futures accounts must make in the confirmations sent to customers regarding those transactions. The amendments provide that broker-dealers effecting transactions in security futures products in futures accounts do not have to disclose all of the information required by the SEC's confirmation disclosure rule, but rather require that the transaction confirmations for these accounts disclose specific information and notify customers that certain additional information will be available upon written request. The new rule also exempts broker-dealers effecting transactions for customers in security futures products in a futures account from the disclosure requirements of Exchange Act Section 11(d)(2).
+
+ Dates: Effective Date : October 15, 2002.
+
+ Compliance Date : October 15, 2002 and June 1, 2003. Section V of this document contains more information on transition prior to June 1, 2003.
+
+ For Further Information Contact : Catherine McGuire, Chief Counsel, or Norman Reed, Special Counsel, at (202) 942-0073, Office of the Chief Counsel, Division of Market Regulation, Securities and Exchange Commission, 450 5th Street, NW, Washington, DC 20549-1001.
+
+ Supplementary Information: The Commission today is adopting amendments to Rule 10b-10, 17 CFR 240.10b-10(e), and adopting new Rule 11d2-1, 17 CFR 240.11d2-1, under the Exchange Act, which the Commission published for comment in the Federal Register on June 10, 2002.<sup> 1 </sup>
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+The CFMA permits the trading of security futures, i.e ., futures contracts on individual securities and on narrow-based security indexes.<sup> 2 </sup> Under the CFMA, security futures are both "securities" under the federal securities laws,<sup> 3 </sup> and futures contracts for purposes of the Commodity Exchange Act ("CEA").<sup> 4 </sup> Accordingly, the SEC and the Commodity Futures Trading Commission ("CFTC") have joint jurisdiction over the intermediaries and markets that trade security futures products ("SFPs").
+
+Because they are subject to regulation both as securities and as futures contracts, SFPs must be traded on trading facilities and through intermediaries that are registered with both the SEC and the CFTC. The CFMA amended the CEA and the Exchange Act to provide notice registration procedures for persons that may be required to register with the SEC or the CFTC solely because they are effecting SFP transactions. Under the notice registration procedures, a futures commission merchant ("FCM") may register with the SEC pursuant to Section 15(b)(11) of the Exchange Act and the rules adopted by the SEC<sup> 5 </sup> ("Notice BD") and a broker-dealer may register with the CFTC pursuant to Section 4f(a)(2) of the CEA and rules adopted by the CFTC<sup> 6 </sup> ("Notice FCM").
+
+Notice BDs are exempt from certain provisions of the Exchange Act,<sup> 7 </sup> and Notice FCMs are exempt from certain provisions of the CEA.<sup> 8 </sup> These statutory provisions were designed to allow persons that previously had engaged "solely" in either the securities or futures business to participate in SFP business without being subject to conflicting or duplicative regulation with regard to the specified provisions. The CFMA does not exempt firms that are authorized to do business in all securities and futures ("fully-registered" with both the CFTC and the SEC ("Full FCMs/Full BDs")) from any provisions of the Exchange Act or the CEA.
+
+The CFMA requires the SEC, in consultation with the CFTC, to issue such rules, regulations, or orders as are necessary to avoid duplicative or conflicting regulations applicable to Full FCMs/Full BDs with respect to the treatment of customer funds, securities, or property, maintenance of books and records, financial reporting, or other financial responsibility rules, involving SFPs.<sup> 9 </sup> As a transitional measure, the Commission exempted Notice BDs and Full FCMs/Full BDs from the requirements of Exchange Act Rule 10b-10 and exempted Full FCMs/Full BDs from the requirements of Exchange Act Section 11(d)(2) with respect to any SFP transaction effected in a futures account until amendments to Exchange Act Rule 10b-10 and a new Rule 11d2-1 become effective.<sup> 10 </sup> But for the exemption, and in the absence of the rule amendments and the new rule we are adopting today, every firm effecting transactions in SFPs would need to comply with all of the confirmation disclosure requirements of the Exchange Act and the CEA, which would create the kind of duplicate regulation for SFPs that the CFMA attempts to avoid.<h>II. Background </h>
+
+Exchange Act Rule 10b-10 generally requires broker-dealers that effect transactions for customers in securities, other than U.S. savings bonds or municipal securities,<sup> 11 </sup> to provide a confirmation, at or before the completion of each transaction, disclosing certain basic terms of the transaction. The confirmation must, among other things, disclose the date, identity, price, and number of shares bought or sold;<sup> 12 </sup> the capacity of the broker-dealer;<sup> 13 </sup> the net dollar price and yield of a debt security;<sup> 14 </sup> and, under specified circumstances, the amount of compensation paid to the broker-dealer and whether payment for order flow is received.<sup> 15 </sup> The customer confirmation requirement, portions of which have been in effect for over 60 years, provides basic investor protections by conveying information allowing investors to verify the terms of their transactions; alerting investors to potential conflicts of interest with their broker-dealers; acting as a safeguard against fraud; and providing investors a means to evaluate the costs of their transactions and the quality of their broker-dealer's execution.<sup> 16 </sup>
+
+Although the CFMA exempted Notice BDs from certain Exchange Act provisions, including Exchange Act Section 11,<sup> 17 </sup> it did not exempt them from Exchange Act Sections 10 and 17(a) and the rules thereunder, including Exchange Act Rule 10b-10.<sup> 18 </sup> In addition, as stated previously, the CFMA did not exempt Full FCMs/Full BDs from any provisions of the Exchange Act or the rules thereunder. Accordingly, without the rule and rule amendments we are adopting today, entities effecting SFP transactions in futures accounts would be required to meet the confirmation disclosure requirements of both the CEA and the Exchange Act and the rules thereunder. 
+
+CEA Rule 1.33(b)<sup> 19 </sup> provides the disclosure requirements FCMs effecting futures transactions must follow. However, although CEA Rule 1.33(b) requires an FCM to provide a customer with a "written confirmation of each commodity futures transaction,"<sup> 20 </sup> it does not specify what information must be included in the confirmation.<sup> 21 </sup> The rules of certain futures exchanges, such as the Chicago Mercantile Exchange ("CME") and the Chicago Board of Trade ("CBOT"),<sup> 22 </sup> require an FCM to disclose in writing no later than the following business day after each transaction specific information regarding that transaction effected in a futures account. Information that must be disclosed includes the commodity bought or sold, the quantity, the price, and the delivery month.<sup> 23 </sup> The CBOT also requires disclosure of the name of the other party to the contract (in other words, the FCM on the opposite side of the contract) or a notice disclosing that such information is available upon request.<sup> 24 </sup><h>III. The Solicitation of General Comments and the Proposing Release </h>
+
+In a joint release issued by the SEC and the CFTC ("the Commissions") proposing customer protection, recordkeeping, reporting, and bankruptcy rules for accounts holding SFPs,<sup> 25 </sup> the Commissions requested comment on the application to transactions in SFPs of their confirmation rules (Rule 10b-10 under the Exchange Act<sup> 26 </sup> and Rule 1.33(b) under the CEA<sup> 27 </sup>). Of the three comment letters the Commissions received, two specifically addressed the Commissions' requests for comments on the subject of confirmations for SFPs.<sup> 28 </sup> 
+
+After carefully considering the comments received,<sup> 29 </sup> the Commission published for comment proposed amendments to Rule 10b-10 and proposed new Rule 11d2-1 (the "Proposing Release").<sup> 30 </sup> The proposed rule amendments and new rule were designed to clarify the disclosures broker-dealers effecting transactions in SFPs in futures accounts must make in the confirmations sent to customers regarding those transactions. The proposed amendments provided that certain broker-dealers effecting transactions in SFPs in futures accounts do not have to disclose all of the information required by the SEC's confirmation disclosure rule, but rather required that the transaction confirmations for these accounts disclose specific information and notify customers that certain additional information will be available upon written request. Our proposals for specific confirmation disclosure were based on the type of information that is customarily required to be in confirmations for futures transactions. Our proposals for disclosure that certain information will be available upon written request of the customer were based on the Rule 10b-10 requirements that provide basic customer protection under the Exchange Act. The new rule we proposed provided that broker-dealers effecting transactions for customers in SFPs in a futures account are exempt from the disclosure requirements of Exchange Act Section 11(d)(2).<h>IV. Overview of the Comments Received </h>
+
+The Commission received two comment letters on the Proposing Release. One letter was from the National Futures Association ("NFA").<sup> 31 </sup> The other letter was submitted jointly by the Futures Industry Association ("FIA"), a trade association that represents FCMs, and the Securities Industry Association ("SIA"), a trade association that represents broker-dealers (collectively, the "FIA/SIA" or the "Industry Associations").<sup> 32 </sup>
+
+Both the NFA and the FIA/SIA were generally supportive of the proposed amendments to Rule 10b-10 and proposed new Rule 11d2-1. The NFA stated that "the SEC's proposed amendments to Rule 10b-10 are a reasonable response to the tension between the current provisions of Rule 10b-10 and futures industry practices, and we support those amendments."<sup> 33 </sup> Similarly, the Industry Associations stated that "the proposed rules strike an appropriate balance between the more prescriptive confirmation disclosure requirements set forth in Rule 10b-10 for securities transactions effected in customer securities accounts and the disclosure requirements set forth in Commodity Futures Trading Commission Rule 1.33(b) . . . for futures transactions effected in customer futures accounts."<sup> 34 </sup> 
+
+Each commenter chose to address some of the specific questions the Commission asked in the Proposing Release; these comments are discussed below in Section V. Both commenters also made specific technical comments and asked for some minor clarifications regarding the interpretation of certain provisions of proposed Rule 10b-10(e). These technical comments and requests for clarification are discussed in Section V below. After carefully considering all of the comments received and with the exception of the modifications discussed below, the Commission is adopting the rule and the rule amendments as proposed.<h>V. Discussion and Basis for AdoptionA. Rule 10b-10 </h><h>A. Rule 10b-10 </h>
+
+As adopted today, new paragraph (e) of Rule 10b-10 clarifies the type and nature of information a Notice BD and a Full FCM/Full BD must disclose under Rule 10b-10 in confirmations of SFP transactions effected in futures accounts. In developing these requirements, we have taken into account the disclosure requirements of CEA Rule 1.33(b) and the disclosure rules of the CME and the CBOT.<sup> 35 </sup> 
+
+Rule 10b-10(e) requires essentially the same type and nature of information required under CEA Rule 1.33(b) and the above-described futures exchange rules, as well as additional information concerning the capacity in which the Notice BD or Full FCM/Full BD is acting when effecting an SFP transaction and, where appropriate, information regarding payment for order flow. It also conforms to the timing requirements that are customary for futures confirmations.
+
+Specifically, Rule 10b-10(e)(1) provides that, as long as certain conditions are met, the requirements of paragraphs (a) and (b) of Rule 10b-10 will not apply to a Notice BD or a Full FCM/Full BD that effects transactions for customers in SFPs in a futures account (as that term is defined in proposed Exchange Act Rule 15c3-3(a)(15)).<sup> 36 </sup> As adopted, under subparagraph (i) of amended paragraph (e)(1), the Notice BD or Full FCM/Full BD must give or send to the customer, no later than the next business day after execution of any SFP transaction, written notification disclosing: the date the transaction was executed, the identity of the single security or narrow-based security index underlying the contract for the SFP, the number of contracts of such SFP purchased or sold, the price, and the delivery month.
+
+The Industry Associations asked whether the term "units" in this provision as it was proposed should be interpreted to mean contracts.<sup> 37 </sup> In particular, they suggested that the confirmation should disclose the number of contracts for a particular single security futures or narrow based index future the customer has purchased or sold, rather than the aggregate number of shares that underlie each contract. In light of this suggestion, we have modified the rule to make it clear that the confirmation must disclose the number of contracts rather than the aggregate number of shares or units or the principal amount underlying the contracts. 
+
+Under subparagraph (ii) of proposed paragraph (e)(1), the Notice BD or Full FCM/Full BD would have been required to give or send to the customer, no later than the next business day after execution of any SFP transaction, written notification disclosing the source and amount of any remuneration received or to be received in connection with the transaction. Remuneration includes, but is not limited to, any markup, commissions, costs, fees, and other charges incurred in connection with the transaction.
+
+As we noted in the Proposing Release, we understand that this information is routinely disclosed in confirmations on futures transactions.<sup> 38 </sup> We also understand that customers in the futures markets may negotiate to pay commissions or fees on futures transactions based on the purchase and subsequent liquidating sale or based on the sale and subsequent covering purchase rather than paying the commissions or fees at both the initiating and closing trade.<sup> 39 </sup> We believe that these confirmation statements should reflect how the customers have chosen to pay commissions and fees. 
+
+The NFA requested we clarify the requirements of this provision. Specifically, the NFA asserted that the proposed language would require disclosure in the confirmation for the initiating transaction of charges that are not payable until the liquidating transaction. The NFA explained that FCMs commonly charge commissions and fees for futures transactions when the position is liquidated rather than charging a portion when the transaction is initiated, and the confirmation includes these charges only when they are due.<sup> 40 </sup> Hence, the NFA urged the Commission to modify the final rule to provide that remuneration does not have to appear in the confirmation until it is payable.<sup> 41 </sup> To respond to the NFA's point, we modified paragraph 10b-10(e)(1)(ii) so that confirmations for SFPs will reflect industry practice. As adopted, paragraph 10b-10(e)(1)(ii) specifically provides that the amount of remuneration for such transactions may be disclosed solely in the confirmation for the liquidating transaction.
+
+Subparagraph (iii) of Rule 10b-10(e)(1) also requires the Notice BD or Full FCM/Full BD to give or send to the customer no later than the next business day after execution of any SFP transaction, written notification disclosing the fact that certain information will be available upon written request of the customer. This includes information about the time of the execution of the transaction and the identity of the other party to the contract. We believe that, while this information does not necessarily need to appear on the confirmation statement itself, the customer should have notice that it is available and will be provided upon written request.
+
+Subparagraph (iii) also requires the Notice BD or Full FCM/Full BD to disclose that it will provide upon written request of the customer information regarding whether the broker or dealer is acting as agent for such customer, as agent for some other person, as agent for both such customer and some other person, or as principal for its own account; and, if the broker or dealer is acting as principal, whether it is engaging in a block transaction or an exchange of SFPs for physical securities ("Exchange For Physicals" or "EFP"). Although Rule 10b-10(a)(2) requires this information to appear in a confirmation of a securities transaction, we note that confirmations of futures transactions do not generally include this information. The NFA has noted that customers would be aware of block trades and EFPs because these transactions require customer consent and that it would be unduly burdensome to require futures confirmations systems to capture and transmit this information.<sup> 42 </sup>
+
+Again, as we noted in the Proposing Release, the nature of the futures markets appears to provide the reasons for this disparity. Therefore, Rule 10b-10(e)(1)(iii) requires only that the information be made available upon written request of the customer. 
+
+Finally, subparagraph (iv) of Rule 10b-10(e)(1), as proposed, would have required a Notice BD or Full FCM/Full BD to give or send to the customer no later than the next business day after execution of any SFP transaction, written notification disclosing whether it receives payment for order flow for effecting SFP transactions. It must also disclose the fact that the source and nature of any compensation received in connection with the particular transaction will be furnished upon the customer's written request. We understand, however, that payment for order flow is not currently practiced in the futures industry, <sup> 43 </sup> and we have no reliable method to predict whether the practice of payment for order flow will develop in relation to SFP transactions.
+
+The NFA, however, asked the Commission to revise section (e)(1)(iv) to clarify that disclosure of payment for order flow is required only if a Notice BD or a Full FCM/Full BD engages in this practice.<sup> 44 </sup> The NFA confirmed the Commission's statement in the Proposing Release that payment for order flow does not currently exist in the futures industry, and acknowledged the Commission's concern that this practice could develop in connection with securities futures. The NFA generally supported the requirement that the confirmation statement should notify the customer if a Notice BD or Full FCM/Full BD receives payment for order flow for effecting security futures transactions.<sup> 45 </sup> After considering the NFA's views, we are modifying the rule to make it clear that such a disclosure need not appear on confirmations unless and until an a Notice BD or a Full FCM/Full BD engages in the practice of receiving payment for order flow.<sup> 46 </sup>
+
+We are also adopting a conforming technical amendment to Rule 10b-10(a)(2)(i)(C) to clarify the requirement for broker-dealers to disclose receipt of payment for order flow generally. When we revised Rule 10b-10 in 1994 to require payment for order flow disclosure, we explained that broker-dealers need not make such a confirmation disclosure if they never receive payment for order flow.<sup> 47 </sup> Because the meaning of this provision appears to have been unclear -- as demonstrated by the NFA's comments -- we are amending the rule to clarify that broker - dealers that do not receive payment for order flow for any transactions have no disclosure requirement under Rule 10b-10. 
+
+The futures industry may need additional time to make the necessary changes to comply with all of the requirements of Rule 10b-10(e)(1). Specifically, firms must implement a process to capture additional information when necessary, and also to disclose on the confirmation itself that the information is available upon a customer's written request. As proposed, Rule 10b-10(e)(2)(i) would have provided that broker-dealers would not be required to include in the confirmation the disclosures prescribed in proposed Rule 10b-10(e)(1)(iii) until June 1, 2003, provided that if, "the broker-dealer receives a written request from a customer for the information paragraph (e)(1)(iii) of this section requires the broker-dealer to disclose upon a customer's written request, the broker-dealer makes the information available to the customer."<sup> 48 </sup> 
+
+The Industry Associations, however, found the terms of this provision to be unclear. They asked the Commission to confirm that all broker-dealers will have until June 1, 2003 to revise their confirmations to provide the written disclosure required under paragraph (e)(1)(iii). In addition, they asked the Commission to clarify that, notwithstanding the delayed effective date of the written disclosure requirement, if a customer requests the information described in paragraph (e)(1)(iii) prior to June 1, 2003, the broker-dealer must provide that information to the customer.<sup> 49 </sup> We modified the transitional provision of this rule to make it clear that the Industry Associations' understanding is correct. 
+
+We also sought comment in the Proposing Release on whether broker-dealers executing transactions in SFPs in futures accounts for certain sophisticated institutional investors should be exempt from the provisions of Rule 10b-10 entirely. The Industry Associations responded that such an exemption would be of little value. They explained that from an operational point of view, it would be extremely expensive, if not impossible, to provide different types of confirmation statements depending on the nature of the sophistication of the customer.<sup> 50 </sup> We have, therefore, determined not to further explore the possibility of crafting such an exemption at this time.
+
+In adopting these amendments to Rule 10b-10, we believe it is important to remind broker-dealers that they continue to be subject to the antifraud provisions of the federal securities laws, including Exchange Act Rule 10b-5. We note in this regard that the preliminary note to Rule 10b-10 explains that the confirmation disclosure requirements of Rule 10b-10 are in addition to "a broker-dealer's obligation under the general antifraud provisions of the federal securities laws to disclose additional information to a customer at the time of the customer's investment decision." In addition, broker-dealers are still subject to self-regulatory organization rules that, in their current form, require broker-dealers to disclose information that would not be required by our amendments to Rule 10b-10.<sup> 51 </sup><h>B. Rule 10b-10 SIPC Disclosure Requirement </h>
+
+As noted in the Proposing Release, Exchange Act Rule 10b-10(a)(9)<sup> 52 </sup> generally requires a broker-dealer effecting securities transactions for a customer, or a broker-dealer clearing or carrying a customer's account, to disclose in the confirmation if such broker-dealer is not a member of the SIPC.<sup> 53 </sup> This requirement is intended to make clear when customers are not protected by SIPC.
+
+Under the Securities Investor Protection Act of 1970 ("SIPA"), most broker-dealers must be members of SIPC.<sup> 54 </sup> However, notice registrants are not required to be SIPC members.<sup> 55 </sup>
+
+We solicited comment in the Proposing Release on whether Notice BDs should be required, pursuant to Exchange Act Rule 10b-10(a)(9), to inform customers on a transaction-by-transaction basis that they are not members of SIPC. In addition, we requested comment on whether customers would benefit from being informed on a transaction-by-transaction basis that the protections provided by Rule 15c3-3 and SIPA do not apply to SFPs held in futures accounts by Full FCMs/Full BDs. Both commenters stated that transaction-by-transaction disclosure was unnecessary. Instead, both commenters indicated that disclosure that transactions in futures accounts will not be covered by SIPC could be more efficiently addressed at the account opening stage. The Industry Associations pointed out that the National Association of Securities Dealers and the NFA are currently preparing a disclosure document that will be provided by their members to each customer that trades in SFPs.<sup> 56 </sup> The NFA noted the Commission and the CFTC have proposed rules that would require firms carrying SFPs to provide disclosure regarding the operation of the segregation provisions under the CEA and the applicability of SIPC protection to accounts including SFPs.<sup> 57 </sup> In light of these comments, we have not included a requirement for confirmation disclosure on a transaction-by-transaction basis concerning SIPC coverage.<h>C. Rule 11d2-1 </h>
+
+As we noted in the Proposing Release, Exchange Act Rule 10b-10(a)(2)<sup> 58 </sup> generally requires that a broker-dealer effecting a transaction for a customer must provide written notification at or before the completion of a transaction disclosing the capacity in which the broker-dealer acted when effecting a securities transaction. Similarly, Exchange Act Section 11(d)(2)<sup> 59 </sup> prohibits a broker-dealer from effecting any transaction for a customer with respect to any security (other than an exempted security) unless the broker-dealer "discloses to such customer in writing at or before the completion of the transaction whether he is acting as a dealer for his own account, as a broker for such customer, or as a broker for some other person." 
+
+As explained above, amended Rule 10b-10 provides Full FCMs/Full BDs and Notice BDs a conditional exception from the requirement in Exchange Act Rule 10b-10 to disclose the capacity in which they are acting when they effect SFP transactions for a customer in a futures account. Amended Rule 10b-10, however, does not provide an exception from the disclosure requirement of Exchange Act Section 11(d)(2). Under the CFMA, Notice BDs are exempt from the provisions of Exchange Act Section 11.<sup> 60 </sup> This exemption, however, does not apply to Full FCMs/Full BDs.
+
+As we noted in the Proposing Release, we believe that requiring Full FCMs/Full BDs to comply with the disclosure requirement of Exchange Act Section 11(d)(2) would be inconsistent with the relief provided in the amendments to Rule 10b-10. Therefore, to provide consistent relief, we are adopting an exemption from the disclosure requirement of Exchange Act Section 11(d)(2).<sup> 61 </sup> This exemption is available only to Full FCMs/Full BDs that effect SFP transactions in futures accounts and allows them to effect SFP transactions in futures accounts without being required to disclose the capacity in which they are acting when they effect these transactions.
+
+We requested comment on whether this exemption for Full FCMs/Full BDs would have any anticompetitive effect on broker-dealers that are not eligible for this exemption. We received no comments on this issue. The Industry Associations, however, supported the rule as proposed.<sup> 62 </sup> We are, therefore, adopting Rule 11d2-1 as proposed.<h>D. Technical Corrections to Rule 10b-10 </h>
+
+We are also adopting today several technical amendments to Rule 10b-10 that are necessary to correct errors in the rule text resulting from previous amendments. These technical amendments are discussed below.
+
+First, the Commission adopted amendments to Rule 10b-10 in a release that was published in the Federal Register on November 17, 1994.<sup> 63 </sup> In that release, references to paragraph (c)(1) were incorrectly adopted in paragraphs (b)(2) and (b)(3). These references, however, should have been to paragraph (b)(1) of Rule 10b-10. We are correcting this error by amending both paragraphs 10b-10(b)(2) and 10b-10(b)(3) so that these paragraphs properly refer to Rule 10b-10(b)(1). 
+
+Second, in addition to the amendments to Rule 10b-10 that were published in the Federal Register on November 17, 1994,<sup> 64 </sup> the Commission issued three other releases within five months that, among other things, either adopted amendments to Rule 10b-10, corrected amendments to Rule 10b-10, or delayed the effectiveness of amendments to Rule 10b-10. These releases were published in the Federal Register on November 2, 1994,<sup> 65 </sup> November 25, 1994,<sup> 66 </sup> and March 17, 1995,<sup> 67 </sup> respectively. Due to the close proximity of these releases in time and the redesignation of certain paragraph numbers, the rule as published in the Code of Federal Regulations currently contains several redundant provisions. In addition, one provision that the Commission adopted in the release published in the Federal Register on November 17, 1994 was never published in the Code of Federal Regulations. We are, therefore, amending the rule, as described below, to eliminate these redundancies and codify the provision that was inadvertently omitted from the Code of Federal Regulations.
+
+In particular, we are deleting paragraph (a)(7)(iii) of Rule 10b-10 because it is duplicative of paragraph (a)(2)(i)(C). In addition, we are deleting paragraph (a)(7)(iv) because it is duplicative of paragraph (a)(2)(i)(D). In light of these changes, we are also deleting paragraphs (a)(7)(i) and (a)(7)(ii), which had been reserved, as unnecessary.
+
+Moreover, we are deleting current paragraph (a)(8) of Rule 10b-10, because paragraphs (i)(A) and (B) of that paragraph are substantially duplicative of paragraphs (a)(2)(ii)(A) and (B), and paragraph (a)(8)(ii) is substantially duplicative of paragraph (a)(2). In lieu of deleted paragraph (a)(8), we are codifying new paragraph (a)(8) as adopted by the Commission in the release that was published in the Federal Register on November 17, 1994.<sup> 68 </sup> This paragraph requires disclosure if a debt security, other than a government security, has not been rated by a nationally recognized statistical rating organization. As we explained when we adopted the paragraph, this disclosure is not intended to suggest that an unrated security is inherently riskier than a rated security. Rather, it is intended to alert customers that they may wish to obtain further information or clarification from their broker-dealers.<sup> 69 </sup>
+
+Under Section 553(b) of the Administrative Procedures Act, notice of proposed rulemaking is not required when the agency for good cause finds that notice and public procedure thereon are "impracticable, unnecessary, or contrary to the public interest."<sup> 70 </sup> Because the amendments to Rule 10b-10 discussed in this section are technical corrections to eliminate redundancy, correct a cross reference, and add a paragraph that was adopted by the Commission, published in the Federal Register, and inadvertently never published in the Code of Federal Regulations, the Commission finds that publishing these amendments for comment would be unnecessary. The rules being amended were adopted after notice and the opportunity for public comment. The changes are responsive to concerns raised with the staff relating to ambiguity and redundancy in the current language of the rules.<sup> 71 </sup><h>VI. Paperwork Reduction Act </h>
+
+Certain provisions of the amendments to Exchange Act Rule 10b-10 we are adopting today contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995.<sup> 72 </sup> Accordingly, the Commission submitted the proposed rule amendments and proposed new rule to the Office of Management and Budget ("OMB") in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. OMB approved the new collection and assigned it OMB Control No. 3235-0444. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+
+In the Proposing Release, the Commission solicited comment on these collection of information requirements. The Commission received no comments that specifically addressed the Paperwork Reduction Act portion of the Proposing Release. Because Rule 10b-10(e) as adopted is substantially similar to the proposed amendments to Rule 10b-10, the SEC continues to believe that the estimates published in the Proposing Release regarding the proposed collection of information burdens associated with the new Rule 10b-10(e) are appropriate. 
+
+As discussed above, pursuant to the enactment of the CFMA, SFPs are regulated both as securities and as futures contracts. Absent the action today by the Commission in adopting these amendments to Rule 10b-10 and new Rule 11d2-1 and pursuant to the operation of the CFMA, once SFPs begin trading, Notice BDs and Full BD/Full FCMs would be required to comply with the existing requirements for confirmations.<sup> 73 </sup> The rule amendments and new rule are designed to avoid both duplicate regulation and the requirement that SFP intermediaries conform their systems to satisfy the full requirements of Rule 10b-10 as it existed prior to these amendments. The Commission's action to adopt these amendments to Rule 10b-10 will eliminate major systems changes and significant costs that Notice BDs and Full BD/Full FCMs would have incurred, although we estimate that the amendments to Rule 10b-10 and new Rule 11d-1 likely will have little effect on the cost of each confirmation.<h>A. Rule 10b-101. Collection of Information Under the Confirmation of Transactions Amendment </h><h>1. Collection of Information Under the Confirmation of Transactions Amendment </h>
+
+As discussed previously in this release and in the Proposing Release, the amendments to Rule 10b-10 that we are adopting today permit alternative information disclosure requirements in confirmations provided to customers for transactions in SFPs in a futures account. This alternative information includes, the date the transaction was executed; the identity and number of the contracts bought or sold; the price and delivery month; the source and amount of broker remuneration; whether the broker received payment for order flow and the amount of such payment; and, the fact that other specified information about the execution of the transaction will be available upon written request. This information will be provided to a customer in the form of a confirmation.<h>2. Use of Information </h>
+
+Specifically, Rule 10b-10(e) provides that a Full FCM/Full BD or a Notice BD that effects transactions for customers in SFPs in a futures account (as that term is defined in Exchange Act Rule 15c3-3(a)(15)) does not have to comply with the disclosure requirements of paragraphs (a) and (b) of Rule 10b-10 if the Full FCM/Full BD or Notice BD discloses on the SFP transaction confirmations the date the transaction was executed; the identity and number of contracts bought or sold; the price and delivery month; the source and amount of broker remuneration; and the fact that the time of the execution of the transaction, the identity of the other party to the contract, and the capacity in which the broker-dealer was acting in effecting the transaction will be available to the customer upon written request. In addition, the information contained in the confirmations may be used by the Commission, self-regulatory organizations, and other securities regulatory authorities in the course of examinations, investigations, and enforcement proceedings. No governmental agency regularly would receive any of the information described above.<h>3. Respondents </h>
+
+Rule 10b-10(e) will apply to the approximately 5,600 fully registered broker-dealers that conduct SFP business with the general public and the approximately 1,399 projected notice registered broker-dealers that conduct SFP business with the general public.<h>4. Total Annual Reporting and Recordkeeping Burden </h>
+
+We received no comments on our proposed estimates. Pursuant to the enactment of the CFMA, SFPs are regulated both as securities and as futures contracts. We estimate, as we did in the Proposing Release, that there will be 100 million confirmations during the first year of trading of SFPs.<sup> 74 </sup>
+
+Because the process of generating a confirmation is automated, the Commission staff estimates from information provided by industry participants that it takes about one minute to generate and send a confirmation. This is true for confirmations required to be sent for SFPs as well as for currently traded securities. The Commission staff also estimates from information provided by industry participants that broker-dealers effecting SFP transactions will spend 1.7 million hours complying with the amendments to Rule 10b-10 (100 million confirmations at one minute per confirmation = 100 million minutes; 100 million minutes/60 minutes per hour = 1.7 million hours). This burden results from the enactment of the CFMA and the anticipated trading of SFPs.
+
+Broker-dealers routinely use confirmations for billing purposes. In addition, broker-dealers would send customers some type of statement regardless of the requirements of Rule 10b-10(e). The number of confirmations sent and the cost of the confirmations vary from firm to firm. Smaller firms send fewer confirmations than larger firms because they effect fewer transactions. 
+
+As stated earlier, the Commission staff estimates that, as a result of the enactment of the CFMA, broker-dealers effecting SFP transactions will send approximately 100 million confirmations annually. According to the information provided by industry participants, the average cost per confirmation is estimated to be 89 cents, including postage. The annual cost to the industry for Rule 10b-10 generally for fiscal year 2003 is therefore estimated to be $89 million.
+
+This cost of $89 million, however, is simply the costs of complying with existing rules when SFPs begin to trade and thus is not attributable to paragraph (e) of Rule 10b-10. Like all transactions in securities and futures products, transactions in SFPs will need to have confirmations sent to customers. The paperwork costs of Rule 10b-10(e) are not measured as totals, but against a baseline of what the world would look like without the rule . In this case, the baseline is the cost that firms effecting transactions in SFPs in futures accounts would be subject to if the rule amendments to Rule 10b-10 were not adopted. As noted above, CEA Rule 1.33(b) already requires transactions in futures to be confirmed. Specifically, Rule 1.33(b)(1) requires that FCMs effecting transactions for customers provide, no later than the next business day after the transaction, "a written confirmation of each commodity futures transaction caused to be executed by it for the customer."<sup> 75 </sup> Similarly, Exchange Act Rule 10b-10 generally requires a broker-dealer that effects a securities transaction for a customer to provide that customer with a confirmation, at or before the transaction. This confirmation must disclose certain basic terms of the transaction. Broker-dealers, therefore, would be required to send customers some type of confirmation statement regardless of the requirements of new paragraph (e) of Rule 10b-10. Therefore, the baseline cost against which the incremental costs of new paragraph (e) of Rule 10b-10 is measured is $89 million.
+
+The incremental costs of new paragraph (e) of Rule 10b-10 are difficult to quantify. The incremental costs of this rule amendment are the amounts that broker-dealers effecting transactions in SFPs in futures accounts must pay beyond merely generating and mailing a confirmation statement to their customers. In other words, the cost of the rule amendments is the cost of making the necessary programming and operational changes to capture the information required by new paragraph (e), e.g. , capturing the capacity of the particular broker-dealer effecting the transaction or whether the broker-dealer in question is receiving payment for order flow. We expect the cost of programming to comply with the rule amendments will be approximately the same as the costs firms would have otherwise incurred had the Commission not adopted the amendment.<h>5. Collection of Information is Mandatory </h>
+
+This collection of information is mandatory.<h>6. Confidentiality </h>
+
+The collection of information pursuant to the amendments to Rule 10b-10 will be provided by broker-dealers to customers, and also will be maintained by broker-dealers.<h>7. Record Retention Period </h>
+
+Exchange Act Rule 17a-4(b)(1)<sup> 76 </sup> requires broker-dealers to preserve confirmations for three years, the first two years in an accessible place.<h>B. Rule 11d2-1 </h>
+
+For the reasons discussed above, new Exchange Act Rule 11d2-1 provides an exemption from the capacity disclosure requirement in Exchange Act Section 11(d)(2) for Full FCM/Full BDs that are effecting transactions for customers in SFPs in futures accounts. As we noted in the Proposing Release, this exemption from a statutory requirement does not impose recordkeeping or information collection requirements, or other collections of information that require approval of the Office of Management and Budget under 44 U.S.C. 3501, et seq. Accordingly, the Paperwork Reduction Act does not apply.<h>VII. Costs and Benefits of AmendmentsA. Introduction </h><h>A. Introduction </h>
+
+Passage of the CFMA in December of 2000 permitted the trading of SFPs and established a framework for joint regulation of SFPs by the CFTC and the SEC. This framework was necessary because the CFMA defined an SFP to be, at the same time, both a security and a contract for future delivery and therefore subject to regulation under both the CEA and the Exchange Act and the rules thereunder. Recognizing that some entities may be subject to duplicative or conflicting regulations, the CFMA amended the CEA and the Exchange Act to: (1) exempt notice-registrants from certain (but not all) sections of the CEA, Exchange Act, and the rules thereunder, and (2) direct the CFTC and the SEC to issue rules, regulations, or orders, as necessary, to avoid certain duplicative or conflicting regulations relating to Full FCMs/Full BDs.<sup> 77 </sup> Although not required under the CEA, the SEC is amending Exchange Act Rule 10b-10 by adding new paragraph (e) to Rule 10b-10, and is adopting new Exchange Act Rule 11d2-1.
+
+In the Proposing Release, the Commission considered preliminarily the costs and benefits of the amendments to Rule 10b-10 and requested comment on all aspects of its cost-benefit analysis, including identification of any additional costs or benefits of the proposed amendments to Rule 10b-10. Neither of the commenters provided estimates regarding the overall costs and benefits of the proposed amendments to Rule 10b-10.<h>B. Rule 10b-10 </h>
+
+Rule 10b-10(e) strives to avoid duplicative regulation by requiring disclosure of essentially the same type and nature of information currently required to be disclosed in confirmations of futures transactions at essentially the same time. Specifically, Rule 10b-10(e) provides that a Full FCM/Full BD or a Notice BD that effects transactions for customers in SFPs in a futures account (as that term is defined in Exchange Act Rule 15c3-3(a)(15)) does not have to comply with the disclosure requirements of paragraphs (a) and (b) of Rule 10b-10 if the Full FCM/Full BD or Notice BD discloses on the SFP transaction confirmations the date the transaction was executed; the identity and number of contracts bought or sold; the price and delivery month; the source and amount of broker remuneration; and the fact that the time of the execution of the transaction, the identity of the other party to the contract, and the capacity in which the broker-dealer was acting in effecting the transaction will be available to the customer upon written request. The information to be made available upon written request is the same type of information that futures confirmations currently disclose is available to the customer upon written request. Rule 10b-10(e) also provides that Full FCMs/Full BDs and Notice BDs must disclose if they receive payment for order flow, and if so, require that the entity must provide the amount of payment and the fact that the source and nature of such remuneration will be furnished upon written request. In addition, new Rule 10b-10(e)(2) provides a phase-in period. Under that provision, broker-dealers are not required until June 1, 2003, to disclose in SFP confirmations information on payment for order flow and the fact that certain information will be provided upon request unless the broker-dealer receives a written request from a customer for the information described in subparagraph (e)(1)(iii) of Rule 10b-10(e)(2).
+
+In considering the potential costs and benefits of the new Rule 10b-10(e), we have considered the existing legal obligations of Notice BDs and Full FCMs/Full BDs under the CFMA, the transaction confirmation practices of both the futures industry and the securities industry and our duty to protect consumers by requiring adequate disclosure on securities transactions. In addition, we have considered how Full FCMs/Full BDs and Notice BDs effecting SFP transactions in futures accounts will have to restructure their confirmation technology. Finally, we have identified specific costs and benefits, and requested comment on additional costs or benefits that may stem from Rule 10b-10(e).<h>1. Benefitsa. Elimination of Conflicting and Duplicative Regulation </h><h>a. Elimination of Conflicting and Duplicative Regulation </h>
+
+As stated previously, under the CFMA, Notice BDs and Full FCMs/Full BDs effecting SFP transactions in futures accounts are currently required to meet the disclosure requirements of both the CEA and the Exchange Act and the rules thereunder. The amendments we are adopting to Rule 10b-10 are designed to benefit Notice BDs and Full FCMs/Full BDs by avoiding conflicting and duplicative regulation of the disclosure requirements of SFP transactions effected in futures accounts. The new amendments accomplish this benefit by clarifying the type and nature of information these entities must disclose under Rule 10b-10 in confirmations of SFP transactions effected in futures accounts. Without the amendments to Rule 10b-10 we are adopting today, all Notice BDs and Full FCMs/Full BDs would need to change their confirmation systems to comply with all of the disclosure requirements of Rule 10b-10.
+
+New Rule 10b-10(e) requires delivery of a confirmation at the same point in time and containing essentially the same type and nature of information these registrants currently provide in confirmations of transactions in futures accounts. In addition, Rule 10b-10(e) provides a phase-in period that gives the affected entities until June 1, 2003 to disclose in SFP confirmations information on payment for order flow, if it is received, and the fact that certain information will be provided upon request. Because such information is not generally provided in confirmations of futures transactions, the transitional period will allow these broker-dealers time to make the necessary adjustments to their confirmation technology, not only to amend their confirmations to make the required additional disclosures, but also to ensure that their systems are capturing all of the information that customers are entitled to receive if they make a written request.<h>b. Customer Understanding </h>
+
+The confirmations for SFP transactions effected in futures accounts pursuant to the Rule 10b-10(e) should benefit customers who choose to effect SFP transactions in a futures account but have not previously traded in a futures account by providing them with information similar to the type of information they would receive if they receive confirmations of trades effected in a securities account. In addition, the confirmations of the SFP transactions effected in the futures accounts will disclose the option to obtain specific additional information that the customer may receive if he makes a written request. The amendments should also benefit customers that already have experience in the futures markets and decide to effect SFPs in a futures account by providing customers with a confirmation that is similar in type and information to the kind of confirmations they are used to receiving on transactions effected in futures accounts. In addition, customers should also benefit from the new Rule 10b-10 requirement that, if entities begin to receive payment for order flow for SFP transactions executed in futures accounts, they must disclose that fact along with the amount of payment received and disclose upon written request the source and nature of the remuneration.<h>2. Costs </h>
+
+But for the exemption issued as a transitional measure by the Commission on May 31, 2002,<sup> 78 </sup> under the CFMA, Notice BDs and Full FCMs/Full BDs effecting SFP transactions in futures accounts must meet the requirements of the CEA and the Exchange Act, including confirmation requirements. However, pursuant to paragraph (e)(1)(i) of Rule 10b-10, a Full FCM/Full BD and a Notice BD that effect transactions in SFPs in a customer's futures account will not be required to meet the disclosure requirements of Exchange Act Rule 10b-10(a) and (b), which broker-dealers effecting securities transactions must generally meet. Rather, the Full FCM/Full BD and Notice BD are required to disclose certain information in the confirmation and also disclose in the confirmation the fact that certain additional information is available upon a customer's written request.
+
+Subparagraphs (i) and (ii) of Rule 10b-10(e)(1) require Full FCMs/Full BDs and Notice BDs to give or send to the customer no later than the next business day after execution of any SFP transaction, written notification disclosing the date the transaction was executed, the identity of the single security or narrow-based security index underlying the contract for the SFP, the number of contracts of such SFP purchased or sold, the price, the delivery month, the source and amount of any remuneration received or to be received by the broker in connection with the transaction, including, but not limited to markups, commissions, costs, fees, and other charges incurred in connection with the transaction. We understand that futures confirmations already provide this information.<sup> 79 </sup> Therefore, the SEC does not believe that requiring this information on confirmations of SFP transactions effected in futures accounts generates any additional costs to the futures industry.
+
+Subparagraph (iii) of Rule 10b-10(e)(1) requires the Notice BD or Full FCM/Full BD to give or send to the customer no later than the next business day after execution of any SFP transaction, written notification disclosing the fact that certain information will be available upon written request of the customer. This includes information about the time of the execution of the transaction, and the identity of the other party to the contract. We understand that futures confirmations generally disclose that this information is available upon the customer's request.<sup> 80 </sup> Therefore, the SEC does not anticipate that this requirement will impose additional costs on the futures industry.
+
+Subparagraph (iii) of Rule 10b-10(e)(1) also requires a Notice BD or Full FCM/Full BD to give or send to the customer no later than the next business day after execution of any SFP transaction, written notification disclosing that information regarding whether the broker or dealer is acting as agent for such customer, as agent for some other person, as agent for both such customer and some other person, or as principal for its own account; and if the broker or dealer is acting as principal, whether it is engaging in a block transaction or an exchange of SFPs for physical securities, will be available upon written request of the customer. From discussions with industry representatives, the SEC staff understands that Full FCMs/Full BDs and Notice BDs will not incur substantial expense by adding a disclosure that information regarding the capacity in which the Full FCM/Full BD or Notice BD acted in effecting the transaction is available upon a customer's written request.<sup> 81 </sup> We understand that there will be some expense involved in requiring the collection of information relating to the capacity in which the orders are executed in the trading systems, although industry representatives were unable to quantify the potential expenses.<sup> 82 </sup> Because the futures industry has never previously been required to provide this type of information on a regular basis, it may need time to adjust its members' operational systems, not only to capture this information when necessary, but also to disclose on the confirmation itself that the information is available upon a customer's written request. Thus, Rule 10b-10(e) contains a transitional provision. Under Exchange Act Rule 10b-10(e)(2), Notice BDs and Full FCMs/Full BDs have until June 1, 2003 to disclose that specified information will be provided upon written request, as long as that information will be made available if a customer submits a written request. This transitional provision should provide the futures industry with sufficient time to make the necessary adjustments to their systems to comply with this provision of Exchange Act Rule 10b-10(e)(1)(iv). 
+
+If a Notice BD or a Full FCM/Full BD receives payment for order flow, subparagraph (iv) of Rule 10b-10(e)(1) also requires that the Notice BD or Full FCM/Full BD give or send to the customer no later than the next business day after execution of any SFPs transaction, written notification disclosing if the entity receives payment for order flow for such transactions and, if it does, it must disclose the amount of such payment and the fact that the source and nature of the compensation will be furnished upon written request of the customer. We understand that payment for order flow is not currently a practice in the futures industry.<sup> 83 </sup> Accordingly, if the practice does not arise in connection with SFP transactions effected in futures accounts, there would be no costs associated with the disclosure requirement of subparagraph (iii) because there would be nothing to report. 
+
+If, however, Full FCMs/Full BDs or Notice BDs begin to receive payment for order flow for SFP transactions effected in futures accounts then those entities would need to adjust their operating systems to capture this information. Based on discussions with industry representatives, the SEC understands that systems development costs should be relatively low given the fact that the rule allows for the use of a generic disclaimer, as opposed to information that would require a trade-by-trade coding change. The SEC also understands from these discussions that more extensive costs would be associated with providing specific disclosures upon request about the nature and source of any payment for order flow received in connection with a transaction. Industry representatives, however, could not quantify the potential costs, in part, perhaps, because the representatives were uncertain whether payment for order flow will become a practice in connection with SFP transactions.<sup> 84 </sup>
+
+In considering the costs Notice BDs and Full FCMs/Full BDs will incur to effect changes to their confirmation systems to comply with Rule 10b-10(e), we understand from discussions with industry representatives that these costs are less than the costs these entities would incur if they had to adjust their confirmation systems to meet all of the Rule 10b-10 disclosure requirements,<sup> 85 </sup> which they would be required to do pursuant to the CFMA absent these amendments. Accordingly, the amendments to Rule 10b-10 actually reduce the costs to the affected entities.
+
+As we noted above, the amendments to Rule 10b-10 we are adopting today will apply only to the approximately 5,600 Full FCMs/Full BDs that conduct business with the general public and the approximately 1,399 of the expected Notice BDs that conduct business with the general public. Also, as noted above, we estimate that there will be 100 million confirmations during the first year of trading of SFPs. According to the information provided by industry participants, the average cost per confirmation is estimated to be 89 cents, including postage. Therefore, we estimate that the annual paperwork cost to the industry for fiscal year 2003 will be $89 million.
+
+This paperwork cost results from the enactment of the CFMA and the fact that SFPs are regulated as both securities and futures contracts. It does not, however, result from the amendments to Rule 10b-10 adopted today.<h>C. Rule 11d2-1 </h>
+
+New Exchange Act Rule 11d2-1 provides Full FCMs/Full BDs that are effecting SFP transactions for customers in futures accounts with an exemption from the requirement in Exchange Act Section 11(d)(2) that a broker-dealer effecting a transaction for a customer disclose in writing, at or before the completion of the transaction, the capacity in which the broker-dealer acted when effecting the transaction. Requiring Full FCMs/Full BDs to comply with the capacity disclosure requirement of Exchange Act 11(d)(2) would be inconsistent with the exemptive relief provided in Rule 10b-10(e), which does not require automatic disclosure of capacity. Therefore, new Rule 11d2-1 provides consistent relief.
+
+As we noted in the Proposing Release, we do not anticipate that this exemption will generate large benefits or impose great costs. We have, however, identified some potential benefits and costs that could result from Rule 11d2-1.<h>1. Benefits </h>
+
+This exemption benefits Full FCMs/Full BDs by avoiding any potential conflicting regulation regarding the disclosure of capacity when Full FCMs/Full BDs effect SFP transactions for customers in futures accounts. This exemption is also designed so that Notice BDs and Full FCMs/Full BDs effecting SFP transactions in futures accounts will not have different disclosure requirements. Finally, if the Commission did not adopt an exemption from Exchange Act Section 11(d)(2), certain of the anticipated benefits of the new Rule 10b-10(e) would be undermined.<h>2. Costs </h>
+
+Rule 11d2-1 will exempt Full FCMs/Full BDs that effect SFP transactions in futures accounts from a statutory requirement to provide specific information to customers regarding the capacity those entities acted in when effecting such transactions. The exemption, therefore, means that customers would not receive this information on the confirmations they receive about these transactions. This cost, however, is ameliorated to a large extent by the fact that, pursuant to the amendments to Rule 10b-10, the confirmations of these transactions will inform the customers that information on capacity is available upon the customers' written requests.<h>VIII. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation </h>
+
+Section 3(f) of the Exchange Act requires the SEC, when it is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation.<sup> 86 </sup> Section 23(a)(2) of the Exchange Act requires the SEC, in adopting rules under the Exchange Act, to consider the impact such rule would have on competition.<sup> 87 </sup> Further, Section 23(a)(2) prohibits the SEC from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. In the Proposing Release, the SEC requested comments on these statutory considerations.
+
+The SEC received no comments on the issues of efficiency and capital formation. We believe paragraph (e) of Rule 10b-10 and new Rule 11d2-1 should promote efficiency. The rule amendments and rule, which were modeled in great part on the existing confirmation requirements of futures contracts, will allow Notice BDs and Full FCMs/Full BDs to use present confirmation systems, after making the required adjustments, rather than having to build new confirmation systems to meet their confirmation obligations for SFPs held in futures accounts.
+
+In addition, paragraph (e) of Rule 10b-10 and new Rule 11d2-1 are designed to give investors the information necessary to evaluate their securities transactions and the broker-dealers effecting those transactions. We believe that these new rules will improve investor confidence and will therefore promote capital formation.
+
+The SEC also believes that the rules would not impose any significant burden on competition. The SEC received one comment on the issue of competition. The NFA stated that "the proposed rule actually creates a more level playing field by alleviating the competitive burden that would exist if FCMs were required to modify their futures systems to include the transaction-by-transaction information currently required by Rule 10b-10(a)(2)."<sup> 88 </sup> We therefore find that Rule 10b-10(e) and Rule 11d2-1 should promote competition, improve efficiency and capital formation and should not impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.<h>IX. Final Regulatory Flexibility Act </h>
+
+Pursuant to Section 605(b) of the Regulatory Flexibility Act,<sup> 89 </sup> the Chairman of the Commission has certified, based on the representations of the Division of Market Regulation, and the analysis of the Office of Economic Analysis and Office of General Counsel, that the proposed amendments to Rule 10b-10 and new Rule 11d2-1 would not have a significant economic impact on a substantial number of small entities. This certification was attached to the Proposing Release No. 34 - 46014 (May 31, 2001) as Appendix A. The Commission solicited comments concerning the impact on small entities and the Regulatory Flexibility Act certification, but received no comments.<h>X. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 Exchange Act Release No. 46014 (May 31, 2002), 67 FR 39647 (June 10, 2002).
+
+2 Pub. L. No. 106-554, 114 Stat. 2763 (2000). Under Exchange Act Section 3(a)(55)(A), the term "security future" is defined as a contract of sale for future delivery of a single security or of a narrow-based security index. 15 U.S.C. 78c(a)(55)(A). Under Exchange Act Section 3(a)(56), the term "security futures product" is defined as a security future or an option on security future. 15 U.S.C. 78C(a)(56).
+
+3 See, e.g., Exchange Act Section 3(a)(10) (15 U.S.C. 78c(a)(10)).
+
+4 The term "security future" is defined in CEA Section 1a(31) (7 U.S.C. 1a(31)) as a contract of sale for future delivery of a single security or of a narrow-based security index. Under CEA Section 1a(33) (7 U.S.C. 1a(33)), the term "security futures product" is defined as a security future or an option on a security future.
+
+5 15 U.S.C. 78o(b)(11)(A)(i) and Exchange Act Release No. 44730 (August 21, 2001), 66 FR 45137 (August 27, 2001).
+
+6 7 U.S.C. 6f(a)(2) and 66 FR 43080 (August 17, 2001).
+
+7 Exchange Act Section 15(b)(11)(B) (15 U.S.C. 78o(b)(11)(B)).
+
+8 CEA Section 4f(a)(4)(A) (7 U.S.C. 6f(a)(4)(A)).
+
+9 Exchange Act Section 15(c)(3)(B) (15 U.S.C. 78o(c)(3)(B)). Cf . CEA Section 4d(c) (7 U.S.C. 6d(c)) (providing the same requirement for the CFTC).
+
+10 Exchange Act Release No. 46015 (May 31, 2002).
+
+11 Municipal securities are covered by a parallel rule MSRB rule G-15, which applies to all municipal securities brokers and dealers — both bank and non-bank.
+
+12 17 CFR 240.10b-10(a)(1). Subparagraph (1) also provides that the confirmation include either the time of the transaction or the fact that it will be furnished upon written request.
+
+13 17 CFR 240.10b-10(a)(2) and (8).
+
+14 17 CFR 240.10b-10(a)(5) and (6).
+
+15 See, e.g., 17 CFR 240.10b-10(a)(2)(i)(B), (C) and (D); 17 CFR 240.10b-10(a)(8)(i)(A).
+
+16 Exchange Act Release No. 34962 (November 10, 1994), 59 FR 59612, 59613 (November 17, 1994).
+
+17 See Exchange Act Section 15(b)(11)(B) (15 U.S.C. 78o(b)(11)(B)).
+
+18 17 CFR 240.10b-10.
+
+19 17 CFR 1.33(b). Specifically, CEA Rule 1.33(b)(1) requires FCMs that effect futures transactions for customers to provide, no later than the next business day after the transaction, "a written confirmation of each commodity futures transaction caused to be executed by it . . . ."
+
+20 17 CFR 1.33(b)(1).
+
+21 CEA Rule 1.33b(2) (17 CFR 1.33(b)(2)) does specify the detail required in a confirmation of a commodity option transaction. In addition, CEA Rule 1.46(a) (17 CFR 1.46(a)) requires an FCM to furnish a futures or options customer a purchase-and-sale statement when an offsetting transaction is executed showing the financial result of the transactions in involved.
+
+22 See, e.g., CME Rule 537; CBOT Rules 421.00 & 421.01.
+
+23 CME Rule 537; CBOT Rules 421.00.
+
+24 See, e.g., CBOT Rules 421.00 & 421.01.
+
+25 Exchange Act Release. No. 44854 (September 26, 2001), 66 FR 50786 (October 4, 2001).
+
+26 17 CFR 240.10b-10.
+
+27 17 CFR 1.33(b).
+
+28 Letter dated December 5, 2001, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission; Letter dated December 5, 2001, from John M. Damgard, President, Futures Industry Association, and Mark E. Lackritz, President, Securities Industry Association, to Jonathan G. Katz, Secretary, U.S. Securities & Exchange Commission. The other letter, dated December 4, 2001, from James J. McNulty, Chicago Mercantile Exchange, Inc. and David J. Vitale, Board of Trade of the City of Chicago, Inc., to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission, did not address the application of the confirmation requirements of the Commission and the CFTC but did support account specific recordkeeping requirements.
+
+29 A discussion of these comments is found in the release proposing the rule amendments and the new rule. Exchange Act Release No. 46014 (May 31, 2002), 67 FR 39647 (June 10, 2002).
+
+30 Id .
+
+31 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+32 Letter dated July 24, 2002, from Jonathan Barton, Chairman, FIA/SIA Steering Committee on Security Futures, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+33 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+34 Letter dated July 24, 2002, from Jonathan Barton, Chairman, FIA/SIA Steering Committee on Security Futures, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+35 See CME Rule 537; CBOT Rules 421.00 and 421.01. As noted above, the exchanges that plan to trade SFPs have not yet proposed or adopted confirmation rules.
+
+36 Exchange Act Release No. 44854 (September 25, 2001), 66 FR 50785 (October 4, 2001).
+
+37 Letter dated July 24, 2002, from Jonathan Barton, Chairman, FIA/SIA Steering Committee on Security Futures, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+38 See Memorandum to file number S7-17-01 regarding February 12, 2002 Conference call between Commission staff members and representatives of Morgan Stanley Dean Witter (March 13, 2002).
+
+39 See Memorandum to file number S7-17-01 regarding February 27, 2002 and March 5, 2002 conversations between Securities and Exchange Commission staff member and representative of Morgan Stanley Dean Witter (March 12, 2002).
+
+40 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+41 Id .
+
+42 Letter dated December 5, 2001, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission. See, e.g. , CME Rules 526 and 538, BrokerTec Futures Exchange ("BTEX") Rules 406 and 407; see also Chicago Board of Trade's Proposal to Adopt Block Trading Procedures, 65 FR 58051 (September 27, 2000).
+
+43 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission; see also Memorandum to file number S7-17-01 regarding March 11, 2002, and March 12, 2002, conversations between Securities and Exchange Commission staff member and representative of Credit Suisse First Boston (March 12, 2002).
+
+44 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+45 Id .
+
+46 The National Association of Securities Dealers, Inc. also attempted to clarify this provision in the September 1997 issue of NASD Regulatory & Compliance Alert explaining that: "[b]roker-dealers that never receive payment-for-order flow have no disclosure requirement under SEC Rule 10b-10." Confirmation Disclosures: Payment-For-Order-Flow Practices And Yield-To-Maturity Calculations on Treasury Bills, Bonds, And Notes , NASD REGULATORY & COMPLIANCE ALERT, Vol. 11, No. 3 September 1997 at 30.
+
+47 Exchange Act Release No. 34902 (October 27, 1994) 59 FR 55006 (November 2, 1994).
+
+48 Proposed Rule 10b-10(e)(2)(i). See Exchange Act Release No. 46014 (May 31, 2002), 67 FR 39647 (June 10, 2002).
+
+49 Letter dated July 24, 2002, from Jonathan Barton, Chairman, FIA/SIA Steering Committee on Security Futures, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+50 Id .
+
+51 See, e.g. , Exchange Act Release No. 46186 (July 11, 2002), 67 FR 47412 (July 18, 2002). This release proposed new rules and proposed amending existing rules to prepare for the trading of SFPs. For example, the release proposed amending Interpretative Material 2310-2 (Fair Dealing with Customers) to refer to new proposed Rule 2865 regarding security futures sales practices as well as creating new Rule 2865 to regulate security futures sales practices. See also National Association of Securities Dealers Rule 2230.
+
+52 17 CFR 240.10b-10(a)(9).
+
+53 See Exchange Act Release No. 34962 (November 10, 1994), 59 FR 59612 (November 17, 1994).
+
+54 15 U.S.C. 78ccc(a)(2) and 78ddd.
+
+55 15 U.S.C. 78fff-3(a)(1). When a SIPC member is liquidated in a SIPC proceeding, due to bankruptcy or other financial difficulties, SIPC will return to customers their cash and securities held by the broker-dealer. To the extent that the broker-dealer does not have sufficient resources to return the cash and securities to customers, SIPC will replace the missing assets, up to $500,000 per customer (including $100,000 for cash claims).
+
+56 Letter dated July 24, 2002, from Jonathan Barton, Chairman, FIA/SIA Steering Committee on Security Futures, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+57 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+58 17 CFR 240.10b-10(a)(2).
+
+59 15 U.S.C. 78k(d)(2).
+
+60 See Exchange Act Section 15(b)(11)(B)(ii) (15 U.S.C. 78o(b)(11)(B)(ii)).
+
+61 Exchange Act Section 36(a)(1) (15 U.S.C. 78mm(a)(1)); see also Exchange Act Section 23(a)(1) (15 U.S.C. 78w(a)(1)).
+
+62 ("The [Industry] Associations also support the adoption of proposed Rule 11d2-1 as published for comment."). See Letter dated July 24, 2002, from Jonathan Barton, Chairman, FIA/SIA Steering Committee on Security Futures, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission fn. 3.
+
+63 Exchange Act Release No. 34962 (November 10, 1994), 59 FR 59612 (November 17, 1994).
+
+64 Id .
+
+65 Exchange Act Release No. 34902 (October 27, 1994), 59 FR 55006 (November 2, 1994).
+
+66 Exchange Act Release No. 34962A (November 18, 1994), 59 FR 60555 (November 25, 1994).
+
+67 Exchange Act Release. No. 35473 (March 10, 1995), 60 FR 14366 (March 17, 1995).
+
+68 Exchange Act Release No. 34962 (November 10, 1994), 59 FR 59612 (November 17, 1994).
+
+69 Id ., 59 FR 59612, 59617.
+
+70 5 U.S.C. 553(b).
+
+71 See, e.g ., Letter dated March 10, 1998, from Frederick Wertheim, Sullivan & Cromwell, to Catherine McGuire, Associate Director and Chief Counsel, Division of Market Regulation, U.S. Securities and Exchange Commission.
+
+72 44 U.S.C. 3501 et seq .
+
+73 As such, the Commission amended its estimate of the paperwork burden for Rule 10b-10 to reflect the additional transactions (and the resulting confirmations) the Commission estimated will be required once SFPs begin trading. We note, however, that this increase in the paperwork burden for Rule 10b-10 is pursuant to the enactment of the CFMA and the expected increased trading brought about by the anticipated trading in SFPs.
+
+74 In our April 29, 2002 order adjusting the fee rates under Section 31 of the Exchange Act, we estimated that we would collect $450,000 in assessments on round turn transactions in security futures in fiscal 2003. This estimate was based on the Congressional Budget Office's August 28, 2001 estimate of collections for that fiscal year, adjusted to reflect the reduction in the assessment rate included in the Investor and Capital Markets Fee Relief Act. Dividing the estimated $450,000 in collections on round turn transactions in security futures by the assessment rate of $0.009 per round turn transaction yields 50 million round turn transactions. Because each of the estimated 50 million round turn transactions will involve at least two confirmations, we estimate that there will be approximately 100 million confirmations.
+
+75 17 CFR 1.33(b)(1).
+
+76 17 CFR 240.17a-4(b)(1).
+
+77 CEA section 4d(c) (7 U.S.C. 6d(c)) and Exchange Act section 15(c)(3)(B) (15 U.S.C. 78 o (c)(3)(B)) respectively.
+
+78 Exchange Act Release No. 46015 (May 31, 2002).
+
+79 See CME Rule 537; CBOT Rules 421.00 and 421.01; see also Memorandum to file number S7-17-01 regarding February 12, 2002 conference call between Commission staff members and representatives of Morgan Stanley Dean Witter (March 13, 2002).
+
+80 See Memorandum to file number S7-17-01 regarding February 12, 2002 conference call between Commission staff members and representatives of Morgan Stanley Dean Witter (March 13, 2002).
+
+81 See Memorandum to file number S7-17-01regarding February 27, 2002 and March 5, 2002 conversations between Securities and Exchange Commission staff member and representative of Morgan Stanley Dean Witter (March 12, 2002).
+
+82 See id .
+
+83 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission. See also Memorandum to file number S7-17-01 regarding February 12, 2002 conference call between Commission staff members and representatives of Morgan Stanley Dean Witter (March 13, 2002); Memorandum to file number S7-17-01 regarding March 11, 2002, and March 12, 2002, conversations between Securities and Exchange Commission staff member and representative of Credit Suisse First Boston (March 12, 2002).
+
+84 See Memorandum to file number S7-17-01 regarding March 11, 2002, and March 12, 2002, conversations between Securities and Exchange Commission staff member and representative of Credit Suisse First Boston (March 12, 2002).
+
+85 See Memorandum to file number S7-17-01 regarding February 12, 2002 conference call between Commission staff members and representatives of Morgan Stanley Dean Witter (March 13, 2002); Memorandum to file number S7-17-01 regarding March 11, 2002, and March 12, 2002, conversations between Securities and Exchange Commission staff member and representative of Credit Suisse First Boston (March 12, 2002).
+
+86 15 U.S.C. 78c(f).
+
+87 15 U.S.C. 78w(a)(2).
+
+88 Letter dated July 10, 2002, from Thomas W. Sexton, Vice President and General Counsel, National Futures Association, to Jonathan G. Katz, Secretary, U.S. Securities and Exchange Commission.
+
+89 5 U.S.C. 605(b).
+
+90 15 U.S.C. 78j, 78k, 78q, 78w(a), and 78mm(a)(1).

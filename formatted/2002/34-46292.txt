@@ -1,0 +1,1337 @@
+https://www.sec.gov/rules/final/34-46292.htm
+
+	I.0.0.0: I. BACKGROUND
+
+		I.A.0.0: A. Statutory Provisions
+
+		I.B.0.0: B. Proposed Rules
+
+		I.C.0.0: C. Overview of the Comment Letters
+
+		I.D.0.0: D. Overview of the Final Rules
+
+	II.0.0.0: II. DISCUSSION OF THE FINAL RULES
+
+		II.A.0.0: A. Who is Covered by the Final Rules
+
+		II.B.0.0: B. Exclusions from Coverage
+
+			II.B.1.0: 1. Financial Relations between a Customer and a Security Futures Intermediary under a Portfolio Margining System
+
+			II.B.2.0: 2. Financial Relations between a Security Futures Intermediary and a Foreign Person
+
+			II.B.3.0: 3. Margin Requirements Imposed by Clearing Agencies or Derivatives Clearing Organizations
+
+			II.B.4.0: 4. Financial Relations between Security Futures Intermediaries and Broker-Dealers, and Certain Members of National Securities Exchanges
+
+			II.B.4.a: a. Financial Relations with an Exempted Person
+
+			II.B.4.b: b. Margin Arrangements with a Borrower Otherwise Excluded Pursuant to Section 7(c)(3) of the Exchange Act
+
+			II.B.4.c: c. Financial Relations between a Security Futures Intermediary and a Member of a National Securities Exchange or Association in Connection with Market Making Activities
+
+		II.C.0.0: C. Interpretations of, and Exemptions from, the Final Rules
+
+		II.D.0.0: D. Definitions
+
+		II.E.0.0: E. Application of Regulation T to Security Futures
+
+		II.F.0.0: F. Account Administration Rules
+
+			II.F.1.0: 1. Separation and Consolidation of Accounts
+
+			II.F.2.0: 2. Accounts of Partners
+
+			II.F.3.0: 3. Contribution to a Joint Venture
+
+			II.F.4.0: 4. Extensions of Credit
+
+		II.G.0.0: G. Customer Margin Levels for Security Futures
+
+			II.G.1.0: 1. Definition of Current Market Value
+
+			II.G.2.0: 2. Margin Levels for Unhedged Positions
+
+			II.G.3.0: 3. Margin Offsets
+
+			II.G.4.0: 4. Higher Margin Levels
+
+			II.G.5.0: 5. Procedures for Certain Margin Level Adjustments
+
+		II.H.0.0: H. Satisfaction of Required Margin
+
+			II.H.1.0: 1. Type, Form and Use of Collateral
+
+			II.H.1.a: a. Acceptable Collateral Deposits
+
+			II.H.1.b: b. Use of Money Market Mutual Funds
+
+			II.H.2.0: 2. Computation of Equity
+
+			II.H.2.a: a. Security Futures
+
+			II.H.2.b: b. Option Value
+
+			II.H.2.c: c. Open Trade Equity
+
+			II.H.2.d: d. Margin Equity Securities
+
+			II.H.2.e: e. Other Securities
+
+			II.H.2.f: f. Foreign Currency
+
+			II.H.2.g: g. Other Components of Equity
+
+			II.H.2.h: h. Guarantees
+
+			II.H.3.0: 3. Satisfaction of the Required Margin for Positions Other than Security Futures
+
+		II.I.0.0: I. When Margin May Be Withdrawn
+
+			II.I.1.0: 1. Withdrawal of Margin by the Customer
+
+			II.I.2.0: 2. Withdrawal of Margin by the Security Futures Intermediary
+
+	III.0.0.0: III. PAPERWORK REDUCTION ACT
+
+		III.A.0.0: A. CFTC
+
+		III.B.0.0: B. SEC
+
+	IV.0.0.0: IV. COSTS AND BENEFITS OF THE FINAL RULES
+
+		IV.A.0.0: A. CFTC
+
+		IV.B.0.0: B. SEC
+
+			IV.B.1.0: 1. Costs
+
+			IV.B.1.a: a. Compliance with Regulation T
+
+			IV.B.1.b: b. Levels of Margin
+
+			IV.B.1.c: c. Computation of Margin
+
+			IV.B.1.d: d. Undermargined Accounts
+
+			IV.B.2.0: 2. Benefits
+
+			IV.B.2.a: a. Benefits to Security Futures Intermediaries
+
+			IV.B.2.b: b. Benefits to Customers
+
+	V.0.0.0: V. CONSIDERATION OF BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY AND CAPITAL FORMATION
+
+	VI.0.0.0: VI. REGULATORY FLEXIBILITY ACT
+
+		VI.A.0.0: A. CFTC
+
+		VI.B.0.0: B. SEC
+
+	VII.0.0.0: VII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule: Customer Margin Rules Relating to Security Futures COMMODITY FUTURES TRADING COMMISSION 17 CFR Part 41 RIN 3038-AB71 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 242 [Release No. 34-46292; File No. S7-16-01] RIN 3235-AI22 Customer Margin Rules Relating to Security Futures 
+
+ AGENCIES: Commodity Futures Trading Commission and Securities and Exchange Commission.
+
+ ACTION: Joint final rules.
+
+ SUMMARY: The Commodity Futures Trading Commission ("CFTC") and the Securities and Exchange Commission ("SEC") (collectively, "Commissions") are adopting rules to establish margin requirements for security futures. The final rules preserve the financial integrity of markets trading security futures, prevent systemic risk, and require that the margin requirements for security futures be consistent with the margin requirements for comparable exchange-traded option contracts.
+
+ EFFECTIVE DATE: September 13, 2002
+
+ FOR FURTHER INFORMATION CONTACT: 
+
+ CFTC: Phyllis P. Dietz, Special Counsel; or Michael A. Piracci, Attorney, Division of Clearing and Intermediary Oversight, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, DC 20581. Telephone: (202) 418-5000. E-mail: ( PDietz@cftc.gov); or (MPiracci@cftc.gov).
+
+ SEC: Onnig Dombalagian, Attorney Fellow, at (202) 942-0737; Theodore R. Lazo, Senior Special Counsel, at (202) 942-0745; Hong-anh Tran, Special Counsel, at (202) 942-0088; and Lisa Jones, Attorney, at (202) 942-0063, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+ SUPPLEMENTARY INFORMATION: 
+
+The CFTC is adopting Rules 41.42 through 41.49, 17 CFR 41.42 through 41.49, and the SEC is adopting Rules 400 through 406, 17 CFR 242.400 through 242.406, (the "Final Rules") under authority delegated by the Federal Reserve Board pursuant to the Securities Exchange Act of 1934 ("Exchange Act").
+
+<END HEADER>
+
+<h>I. BACKGROUNDA. Statutory Provisions </h><h>A. Statutory Provisions </h>
+
+The Commodity Futures Modernization Act of 2000 ("CFMA"),<sup> 1 </sup> which became law on December 21, 2000, lifted the ban on single stock and narrow-based stock index futures ("security futures"). In addition, the CFMA established a framework for the joint regulation of security futures by the CFTC and the SEC. 
+
+As part of the statutory scheme for the regulation of security futures, the CFMA provided for the issuance of rules governing customer margin for transactions in security futures. Specifically, the CFMA added a new subsection (2) to Section 7(c) of the Exchange Act,<sup> 2 </sup> which directs the Board of Governors of the Federal Reserve System ("Federal Reserve Board") to prescribe rules establishing initial and maintenance customer margin requirements imposed by brokers, dealers, and members of national securities exchanges for security futures products. In addition, Section 7(c)(2)(B) provides that the Federal Reserve Board may delegate this rulemaking authority jointly to the Commissions. On March 6, 2001, the Federal Reserve Board delegated its authority under Section 7(c)(2)(B) to the Commissions.<sup> 3 </sup> Pursuant to that authority, the SEC and the CFTC have adopted customer margin requirements for security futures.<sup> 4 </sup>
+
+Section 7(c)(2) provides that the customer margin requirements for security futures must satisfy four requirements. First, they must preserve the financial integrity of markets trading security futures products. Second, they must prevent systemic risk. Third, they must (a) be consistent with the margin requirements for comparable option contracts traded on any exchange registered pursuant to Section 6(a) of the Exchange Act; and (b) provide for initial and maintenance margin levels that are not lower than the lowest level of margin, exclusive of premium, required for comparable exchange-traded options. Fourth, they must be and remain consistent with the margin requirements established by the Federal Reserve Board under Regulation T.<sup> 5 </sup><h>B. Proposed Rules </h>
+
+On September 26, 2001, the CFTC and the SEC issued for public comment proposed rules (the "Proposed Rules") relating to customer margin requirements for security futures.<sup> 6 </sup> In response to a joint request from the Futures Industry Association ("FIA") and the Securities Industry Association ("SIA") for an extension of the public comment period, the Commissions granted a 30-day extension until December 5, 2001.<sup> 7 </sup><h>C. Overview of the Comment Letters </h>
+
+The Commissions received a total of 19 comment letters from securities and futures industry associations,<sup> 8 </sup> exchanges,<sup> 9 </sup> a clearing organization,<sup> 10 </sup> financial services firms,<sup> 11 </sup> systems vendors,<sup> 12 </sup> a member of the academic community,<sup> 13 </sup> and two members of the public.<sup> 14 </sup> In general, the comment letters focused on three major issues raised by the Proposed Rules: the applicability of Regulation T and the desirability of an account-specific margin regime; the appropriateness of the proposed 20% margin level; and the permissibility of portfolio margining.
+
+The majority of commenters expressed the view that Regulation T should not be applied to futures accounts. They stated their concern that application of Regulation T to security futures carried in futures accounts would impose heavy costs on carrying firms in the form of reprogramming of systems and training of staff. Some believed that it would discourage futures commission merchants ("FCMs") from trading security futures. One commenter, however, supported the application of Regulation T to security futures, regardless of the type of account in which they are carried. Several commenters identified specific provisions of Regulation T that would have to be addressed in order to accommodate carrying security futures in a securities account, e.g. , rules for variation margin payments.
+
+Ten of the commenters specifically endorsed the concept that the margin rules should build on the existing regulatory infrastructure and that, to the extent possible, the rules applicable to security futures should be determined by the type of account in which the security futures are carried. Under this "account-specific" approach, for example, rules relating to acceptable collateral, collateral haircuts, timing for collection of margin, and calculations of current market value would be determined in accordance with the rules otherwise applicable to a securities account or futures account, respectively. Several commenters observed that this would be consistent with the Commissions' proposed customer funds rules<sup> 15 </sup> and would be the most prudent and cost effective approach. 
+
+Most commenters found the proposed 20% minimum margin level to be acceptable, although some thought the minimum should instead be 25%. The SIA/FIA Letter noted that "members of the Associations are divided" as to whether the minimum level of initial and maintenance margin should be 20% or 25%. Another commenter expressed the view that the 20% level could be either too high or too low depending on the circumstances, and that for certain positions 50% initial margin would be appropriate.
+
+Eleven commenters supported the implementation of full portfolio margining for security futures, as soon as possible. Two other commenters emphasized the need for experience with a proposed pilot program.<sup> 16 </sup> One commenter supported portfolio margining only for sophisticated customers, with another commenter joining in the view that portfolio margining might not be appropriate for all customers.
+
+After carefully considering the public comments, the Commissions have adopted Final Rules that reflect modifications to the Proposed Rules in response to the views and concerns expressed by the commenters. The Commissions believe that the Final Rules fulfill the statutory requirements and that the changes made to the Proposed Rules will more effectively promote market efficiency and liquidity.<h>D. Overview of the Final Rules </h>
+
+The Commissions have carefully considered the commenters' views, and have modified the Proposed Rules in various respects. The Final Rules, among other things:
+
+ 
+
+Establish stand-alone requirements that are consistent with Regulation T, but do not apply Regulation T in its entirety to futures accounts.
+
+Establish minimum initial and maintenance margin levels for unhedged positions in security futures at 20% of their "current market value." 
+
+Permit self-regulatory authorities to set margin levels lower than 20% of current market value for customers with certain strategy-based offset positions involving security futures and one or more related securities or futures. 
+
+Identify the types of collateral acceptable as margin deposits and establish standards for the valuation of such collateral and other components of equity.
+
+Establish standards for the withdrawal of margin by customers and security futures intermediaries.
+
+Set forth procedures applicable to undermargined accounts.
+
+Set forth procedures for filing proposed rule changes with the CFTC.<h>II. DISCUSSION OF THE FINAL RULESA. Who is Covered by the Final Rules </h><h>A. Who is Covered by the Final Rules </h>
+
+The Commissions are adopting the Final Rules under the authority delegated to them by the Federal Reserve Board under Section 7(c)(2) of the Exchange Act, which applies to brokers, dealers, and members of national securities exchanges extending credit to or for customers, or collecting margin from customers, in connection with security futures. In the Proposed Rules, the Commissions used the term "creditor," as defined in Regulation T, to delineate those persons who would be subject to the margin rules.<sup> 17 </sup> Because FCMs that effect transactions in security future products are broker-dealers,<sup> 18 </sup> they were included in the definition of "creditor" under the Proposed Rules.
+
+To avoid characterizing the collection of margin for a security futures contract as involving an extension of credit, the Final Rules use the term "security futures intermediary" instead of the term "creditor."<sup> 19 </sup> The term "security futures intermediary" is intended to include the same persons as are included in the Regulation T definition of "creditor," but solely with respect to their financial relations involving security futures. SEC Rule 401(a)(29) defines security futures intermediary by reference to the term creditor. For the sole purpose of clarifying the scope of the Final Rules for market participants that are not subject to Regulation T, the definition of security futures intermediary in CFTC Rule 41.43(a)(29) specifies that the term includes FCMs and enumerated affiliated persons.<sup> 20 </sup>
+
+The Commissions believe that the term security futures intermediary is defined identically for all substantive purposes, and emphasize that the difference in the language used in the two rules to define a security futures intermediary is not intended to mean that the scope of the two rules is different.
+
+In addition, the term "customer" is defined under the Final Rules as any person or persons acting jointly on whose behalf a security futures intermediary effects a security futures transaction or carries a security futures position, or who would be considered a customer of the security futures intermediary according to the ordinary usage of the trade.<sup> 21 </sup> The definition of customer further includes (i) any partner in a security futures intermediary that is organized as a partnership who would be considered a customer of the security futures intermediary absent the partnership relationship, and (ii) any joint venture in which a security futures intermediary participates and which would be considered a customer of the security futures intermediary if the security futures intermediary were not a participant.<sup> 22 </sup> This definition is derived from the Regulation T definition of customer.<sup> 23 </sup><h>B. Exclusions from Coverage </h>
+
+The Final Rules include specific exclusions for certain categories of financial relations, substantially as proposed. The exclusions are described below.<h>1. Financial Relations between a Customer and a Security Futures Intermediary under a Portfolio Margining System </h>
+
+The Proposed Rules provided an exclusion for margin calculated by a portfolio margining system that has been approved by the SEC and, as applicable, the CFTC.<sup> 24 </sup> The Commissions are adopting this exclusion substantially as proposed.<sup> 25 </sup> The Final Rules add a provision requiring that the portfolio margining system meet the criteria set forth in Section 7(c)(2)(B) of the Exchange Act.<sup> 26 </sup> This addition is intended to clarify that the portfolio margining system must be consistent with a risk-based system used for comparable exchange-traded options. This requirement does not preclude the use of an existing portfolio margining system that interfaces with an FCM's bookkeeping system, so long as the portfolio margining system is modified to produce results that comply with the Final Rules.<sup> 27 </sup>
+
+Portfolio margining establishes margin levels by assessing the market risk of a "portfolio" of positions in securities or commodities. Under a portfolio margining system, the amount of required margin is determined by analyzing the risk of each component position in a customer account ( e.g. , a class of option with the same expiration date) and by recognizing any risk offsets in an overall portfolio of positions ( e.g. , across options and futures on the same underlying instrument). So that adequate margin is deposited to cover extraordinary market events, one or more additional adjustments may be applied in calculating a customer's required margin. A portfolio margining system may also be used in conjunction with a risk-based margining system, which assesses margin based on the historical performance of individual instruments, rather than as a fixed percentage of current market value. Depending upon the risks attributable to one or more positions, the amount of required margin in a portfolio margining system may be greater than or less than the margin levels currently required for securities positions in a fixed-percentage, strategy-based margining system.
+
+The Commissions received 14 comment letters that addressed the issue of portfolio margining, all of which supported the concept of portfolio margining for security futures.<sup> 28 </sup> Ten of the commenters strongly supported the implementation of full portfolio margining for security futures as soon as possible.<sup> 29 </sup>
+
+Five commenters observed that portfolio margining recognizes the market risk associated with a specific position more accurately than a fixed-percentage margin scheme.<sup> 30 </sup> One commenter criticized the Proposed Rules for limiting customers to an "archaic strategy-based system."<sup> 31 </sup> 
+
+One commenter stated its opinion that portfolio margining should be allowed immediately for security futures, and that the higher margin levels collected under a strategy-based approach would make it difficult for U.S. markets to attract liquidity in security futures.<sup> 32 </sup> This commenter raised concerns that strategy-based margining would disadvantage U.S. markets and would encourage investors to seek foreign markets.<sup> 33 </sup> Another commenter supported portfolio margining for security futures, securities, and securities options to promote global competitiveness.<sup> 34 </sup> It observed that portfolio margining has become the international standard for major futures markets and without it, the U.S. markets will be at a disadvantage.<sup> 35 </sup> 
+
+One commenter expressed the view that portfolio margining should not be approved for security futures before it is approved for options, and stated that it was critical that any portfolio margining system applicable to security futures apply to all related products, including options and the underlying securities.<sup> 36 </sup> Another commenter supported implementation of a portfolio margining framework under which the margin requirements for portfolios comprised of securities and security futures would be determined through a risk-based analysis.<sup> 37 </sup> 
+
+Two other commenters, while strongly supporting the concept of portfolio margining, expressed the opinion that portfolio margining was not necessarily appropriate for all investors, and that it might be appropriate to limit the use of portfolio margining for security futures to sophisticated investors.<sup> 38 </sup>
+
+The SEC and the CFTC have approved the use of portfolio margining systems for certain purposes. The CFTC has approved portfolio margining using the SPAN system for all currently traded futures contracts, at both the clearing level and the customer level.<sup> 39 </sup> The SEC has approved portfolio margining using The Options Clearing Corporation's ("The OCC") Theoretical Intermarket Margin System ("TIMS") for margin collected by The OCC for the options positions of its clearing members.<sup> 40 </sup> The SEC and CFTC also have approved self-regulatory organization ("SRO") rules that permit the use of SPAN and TIMS in connection with certain cross-margining arrangements involving futures and securities.<sup> 41 </sup> In addition, as noted previously, on March 22, 2002, the SEC published notice of a proposed rule change filed by the CBOE to implement a portfolio margining system on a pilot basis for certain customers.<sup> 42 </sup> 
+
+Section 7(c)(2)(B)(iii) of the Exchange Act<sup> 43 </sup> provides that the margin requirements for security futures must be consistent with the margin requirements for comparable exchange-traded options, and that the initial and maintenance margin levels for security futures may not be lower than the lowest level of margin, exclusive of premium, required for any comparable exchange-traded option. After considerable deliberation about the application of this standard to security futures margin, the Commissions have determined that risk-based portfolio margining for security futures will not be permitted until a similar methodology is introduced for comparable exchange-traded options. 
+
+Three commenters expressed opinions regarding the future selection and use of SPAN or TIMS as a portfolio margining system.<sup> 44 </sup> The Commissions will consider issues related to the use of any particular portfolio margining system at such time as the Commissions consider the actual implementation of portfolio margining for security futures. 
+
+The Commissions strongly encourage the efforts of market participants to develop a portfolio margining proposal for security futures, and are committed to working with these participants to resolve any outstanding issues as quickly as feasible. Such a portfolio margining system would be in keeping with current practices in the futures industry and would be responsive to the Federal Reserve Board's desire to encourage the development of more risk-sensitive, portfolio-based approaches to margining security futures products.<sup> 45 </sup><h>2. Financial Relations between a Security Futures Intermediary and a Foreign Person </h>
+
+The Proposed Rules provided an exclusion from the margin requirements for financial relations between a foreign branch of a creditor and a foreign person involving foreign security futures.<sup> 46 </sup> This exclusion was intended to be consistent with the way Regulation T treats financial relations between a foreign branch of a creditor and a foreign person involving foreign securities.<sup> 47 </sup> The Commissions are adopting this exclusion with two modifications.<sup> 48 </sup>
+
+First, in response to concerns raised by a commenter,<sup> 49 </sup> the scope of the exclusion is being expanded so that it applies to the U.S. offices as well as foreign branch offices of a security futures intermediary. This commenter expressed the view that the exclusion, as proposed, would create a competitive disadvantage for U.S. firms whose existing foreign futures customers would likely migrate to foreign offices or competing foreign firms to obtain the margin levels available on the foreign exchange. After considering the commenter's view, the Commissions have concluded that expanding the exclusion is appropriate and, in light of the potential competitive issues, is not inconsistent with Regulation T.
+
+The second modification clarifies the scope of this exclusion. Because the Proposed Rules did not define the term "foreign security future," the Final Rules provide that the exclusion applies to financial relations between a security futures intermediary and a foreign person involving "security futures traded on or subject to the rules of a foreign board of trade." Thus, the exclusion applies regardless of whether the underlying security is issued in the United States or a foreign country.<sup> 50 </sup><h>3. Margin Requirements Imposed by Clearing Agencies or Derivatives Clearing Organizations </h>
+
+The Proposed Rules provided an exclusion from the margin requirements for margin collected by registered clearing agencies from their members.<sup> 51 </sup> The Commissions received no comments relating to this provision. The text of the proposed exclusion has been revised to specify that the Final Rules exclude clearing agencies registered under Section 17A of the Exchange Act and derivatives clearing organizations registered under Section 5b of the CEA.<sup> 52 </sup> These textual changes do not affect the meaning of the provision and, therefore, the Commissions have effectively adopted the provision as proposed.
+
+Section 7(c)(2) of the Exchange Act directs the Federal Reserve Board to prescribe rules regarding customer margin for security futures products, but it does not confer authority over margin requirements for clearing agencies and derivatives clearing organizations. Accordingly, the Federal Reserve Board stated in its delegation letter that "[t]he authority delegated by the Board is limited to customer margin requirements imposed by brokers, dealers, and members of national securities exchanges. It does not cover margin requirements imposed by clearing agencies on their members." The margin rules of clearing agencies registered with the SEC are approved by the SEC pursuant to Section 19(b)(2) of the Exchange Act.<sup> 53 </sup> The CFTC has authority to ensure compliance with core principles for derivatives clearing organizations registered with the CFTC under Sections 5b and 5c of the CEA.<sup> 54 </sup> This exclusion clarifies that margin requirements that clearing agencies registered with the SEC or derivatives clearing organizations registered with the CFTC impose on their members are not subject to the Final Rules.<h>4. Financial Relations between Security Futures Intermediaries and Broker-Dealers, and Certain Members of National Securities Exchangesa. Financial Relations with an Exempted Person </h><h>a. Financial Relations with an Exempted Person </h>
+
+The Proposed Rules provided an exclusion from the margin requirements for credit arrangements between a creditor and a borrower that is a member of a national securities exchange or is a registered broker-dealer (including an FCM registered as a broker-dealer under Section 15(b)(11) of the Exchange Act) if the creditor made a good faith determination that the borrower was an "exempted borrower" under Regulation T.<sup> 55 </sup> The Regulation T criteria for an "exempted borrower" establish standards for the exception from federal margin regulation for exchange members and registered brokers and dealers, a substantial portion of whose business consists of transactions with persons other than brokers or dealers.<sup> 56 </sup> In addition, the Proposed Rules provided that a person that ceased to qualify for the exempted borrower exclusion would be required to notify the creditor of this fact before establishing any new security futures positions.<sup> 57 </sup> Any security futures positions subsequently established by that person would be subject to the Commissions' customer margin requirements. 
+
+One commenter addressed the exclusion, asserting that an FCM or floor broker whose only securities business consists of trading security futures would not likely qualify as an exempted borrower under Regulation T.<sup> 58 </sup> The commenter asked the Commissions to clarify that the scope of the exclusion includes FCMs or floor brokers that do not have a substantial securities or security futures business, as long as they have a substantial customer futures business. 
+
+After considering the commenter's view, the Commissions have adopted the exclusion with several modifications to clarify the application of the exclusion.<sup> 59 </sup> As a preliminary matter, the Commissions are replacing the term "exempted borrower" with the new term, "exempted person," to avoid characterizing the collection of margin for a security futures contract as involving an extension of credit.
+
+Consequently, the Commissions are also adding to the Final Rules a definition of "exempted person." The Commissions believe that the definition of exempted person is consistent with the definition of exempted borrower in Regulation T. More specifically, the Final Rules define an exempted person as a member of a national securities exchange, a registered broker or dealer, or a registered futures commission merchant, a substantial portion of whose business consists of transactions in securities, commodity futures, or commodity options with persons other than brokers, dealers, futures commission merchants, floor brokers, or floor traders, including a person who:
+
+ 
+
+Maintains at least 1000 active accounts on an annual basis for persons other than brokers, dealers, persons associated with a broker or dealer, futures commission merchants, floor brokers, floor traders, and persons affiliated with a futures commission merchant, floor broker, or floor trader that are effecting transactions in securities, commodity futures, or commodity options;
+
+Earns at least $10 million in gross revenues on an annual basis from transactions in securities, commodity futures, or commodity options with persons other than brokers, dealers, persons associated with a broker or dealer, futures commission merchants, floor brokers, floor traders, and persons affiliated with a futures commission merchant, floor broker, or floor trader; or
+
+Earns at least 10 percent of its gross revenues on an annual basis from transactions in securities, commodity futures, or commodity options with persons other than brokers, dealers, persons associated with a broker or dealer, futures commission merchants, floor brokers, floor traders, and persons affiliated with a futures commission merchant, floor broker, or floor trader.<sup> 60 </sup>
+
+ 
+
+Although the commenter recommended that floor brokers as well as FCMs be permitted to qualify as exempted borrowers, the Commissions have not included floor brokers in the definition of exempted person. This is because the exemption cannot readily be applied to floor brokers given that they do not carry the type of customer accounts contemplated by the Regulation T exempted borrower provision. The Commissions note that, although floor brokers are not included in the definition of exempted person, they may still qualify for an exclusion from the security futures margin requirements if they meet the criteria for a market maker under the Final Rules, as discussed below.<sup> 61 </sup>
+
+The Final Rules also set forth an express definition of "persons affiliated with" a futures commission merchant, floor broker, or floor trader,<sup> 62 </sup> which parallels the definition in the Exchange Act of "person associated with a broker or dealer."<sup> 63 </sup> The purpose of this definition is to establish consistency with the Regulation T definition of exempted borrower, which excludes transactions with "persons associated with a broker or dealer," as that term is defined in Section 3(a)(18) of the Exchange Act.<sup> 64 </sup> The phrase "persons affiliated with" has been used in the definition with respect to transactions with FCMs, floor brokers and floor traders, and the phrase "persons associated with" has been used with respect to transactions with brokers and dealers. This is not intended to create a substantive difference in the provisions applicable to the securities and futures industries. Rather, it is intended to avoid confusion insofar as the CFTC's definition of "affiliated person" (which includes corporate affiliates)<sup> 65 </sup> more closely matches the Exchange Act definition of "persons associated with a broker or dealer," than does the CFTC definition of "associated person," which is a registration category.<sup> 66 </sup>
+
+The Final Rules clarify that a person may qualify as an exempted person based on transactions in commodity futures and commodity options, as well as securities. For purposes of the "1000 active accounts" threshold, an FCM or broker or dealer that clears a bona fide customer omnibus account for another FCM or broker or dealer may treat that account as a single customer account. For purposes of the $10 million and 10% thresholds, the gross revenues from transactions for bona fide customer omnibus accounts may be included in the computation. An omnibus account will not be considered a bona fide customer account if it is used to clear transactions for market professionals that would otherwise be excluded from the exempted person computation. A fully disclosed customer account will be considered a single customer account of the clearing firm, as well as the introducing firm. 
+
+The exempted person provision further states that a member of a national securities exchange or a registered broker, dealer, or futures commission merchant that has been in existence for less than one year may meet the definition of exempted person based on a six-month period.<sup> 67 </sup> This incorporates the standard set forth in Regulation T.<sup> 68 </sup>
+
+In response to one commenter's suggestion,<sup> 69 </sup> the Commissions are also defining the term "good faith," consistent with the definition of that term in Regulation T,<sup> 70 </sup> for the purposes of determining what steps a security futures intermediary must take to assure itself that a person is an exempted person.<sup> 71 </sup> The Final Rules further provide that a person who ceases to qualify as an exempted person must notify the security futures intermediary of that fact, and become subject to the provisions of the Final Rules, but only before entering into any new security futures transaction or related transaction that would require additional margin to be deposited.<sup> 72 </sup> This would permit a person to enter into new offsetting transactions that reduce the required margin in an account without triggering higher margin requirements.<h>b. Margin Arrangements with a Borrower Otherwise Excluded Pursuant to Section 7(c)(3) of the Exchange Act </h>
+
+The Proposed Rules included an exclusion for credit extended, maintained, or arranged by a creditor to or for a registered broker-dealer, or member of a national securities exchange (including an FCM registered as a broker-dealer under Section 15(b)(11) of the Exchange Act) that is otherwise excluded under Section 7(c)(3) of the Exchange Act.<sup> 73 </sup> The Commissions have decided not to adopt this exclusion. 
+
+Under Section 7(c)(3)(B) of the Exchange Act,<sup> 74 </sup> the financing of the market making or underwriting activities of a member of a national securities exchange or a registered broker-dealer is excluded from the scope of federal margin regulation. The Federal Reserve Board has expressed the view that floor traders on open-outcry futures exchanges act as market makers and therefore would be excluded from the margin requirements for security futures pursuant to Section 7(c)(3)(B).<sup> 75 </sup> The proposed exclusion was intended to codify this view. 
+
+One commenter addressed this exclusion and maintained that the exclusion was confusing because the Commissions did not provide any guidance as to the factors under which a broker-dealer would qualify for the exclusion.<sup> 76 </sup> The commenter asked the Commissions to clarify the circumstances under which a floor trader on an open outcry exchange qualifies for the market maker exclusion. 
+
+The Commissions have not adopted the proposed exclusion. As noted above, the Federal Reserve Board has taken the position that floor traders on open-outcry futures exchanges qualify for the statutory market maker exception. However, any further interpretation of Section 7(c)(3) of the Exchange Act is within the purview of the Federal Reserve Board. As a result, the Commissions would not be able to provide specific guidance as requested by the commenter as to the circumstances under which Section 7(c)(3) applies to floor traders on an open-outcry futures exchange. The Commissions emphasize that any person excluded from federal margin regulation under Section 7(c)(3) of the Exchange Act is not subject to the rules adopted by the Commissions today. The Commissions encourage market participants to seek interpretive guidance from the Federal Reserve Board regarding the circumstances in which the exception under Section 7(c)(3) of the Exchange Act applies.<h>c. Financial Relations between a Security Futures Intermediary and a Member of a National Securities Exchange or Association in Connection with Market Making Activities </h>
+
+The Commissions proposed to exclude from the scope of the margin requirements credit extended, maintained, or arranged to or for members of a national securities exchange or a national securities association in connection with market making activities.<sup> 77 </sup> As proposed, the exclusion had two conditions. First, the borrower could not directly or indirectly accept or solicit customer orders or provide advice to any customer in connection with the trading of security futures. Second, the borrower had to be registered with the exchange or association as a security futures dealer, pursuant to regulatory authority rules that require the borrower: (a) to be registered as a floor trader or floor broker with the CFTC, or as a dealer with the SEC; (b) to comply with applicable SEC or CFTC net capital requirements; (c) to maintain records sufficient to demonstrate compliance with the exclusion and the rules of the exchange or association; (d) to hold itself out as willing to buy and sell security futures for its own account on a regular or continuous basis; and (e) to be subject to disciplinary action if it failed to comply with the Commissions' margin rules or the rules of the exchange or association.<sup> 78 </sup> The Commissions are adopting this exclusion with modifications in light of commenters' views.<sup> 79 </sup>
+
+The Commissions received four comments on the exclusion.<sup> 80 </sup> These comments generally supported the proposed exclusion, but suggested that the Commissions clarify certain aspects of the conditions.
+
+One commenter expressed the view that a person is a market maker in security futures if it provides liquidity on a regular basis, even if it is not under an affirmative obligation to do so.<sup> 81 </sup> Based on that view, the commenter suggested two alternatives to the Commissions' proposal to determine whether a trader is a liquidity provider. First, the commenter recommended that the Commissions consider a person to be a liquidity provider solely because that person is registered with either the SEC or the CFTC as a trading professional ( e.g. , as a broker-dealer or FCM) and is a member of an exchange. In the alternative, the commenter recommended that the Commissions consider a trader to be a liquidity provider if that person can demonstrate through its business activity that it is a professional liquidity provider, regardless of its regulatory status or membership in an exchange.<sup> 82 </sup> This commenter further stated that the net capital requirements for persons acting as market makers in security futures should be uniform in order to prevent security futures market makers subject to CFTC financial responsibility rules from obtaining an unfair competitive advantage over security futures market makers (or security options market makers) subject to SEC financial responsibility rules.<sup> 83 </sup>
+
+Another commenter asked the Commissions to modify the condition to the exclusion for exchange members that requires that the member "hold itself out as being willing to buy and sell security futures for its own account on a regular or continuous basis."<sup> 84 </sup> The commenter maintained that market makers on a screen-based trading system either should have an enforceable obligation to provide liquidity or should meet an objective standard for supplying liquidity.<sup> 85 </sup> Specifically, the commenter suggested that the condition be narrowed further with respect to members of screen-based trading systems so that it would apply only to members of such systems that: (1) have a continuous, affirmative obligation to quote a two-sided market; or (2) effect more than two-thirds of their security futures trades on that exchange with persons other than registered market makers on that exchange.<sup> 86 </sup> 
+
+A third commenter asked the Commissions to eliminate the condition to the exclusion for exchange members that requires that the member not "directly or indirectly accept or solicit orders from any customer or provide advice to any customer in connection with the trading of security futures."<sup> 87 </sup> The commenter maintained that a broker-dealer acting as a market maker should not be precluded from also carrying out a customer securities business.
+
+The fourth commenter asked the Commissions to confirm that registered floor brokers and floor traders would qualify for the exclusion even if they are not subject to a net capital requirement under CFTC rules.<sup> 88 </sup> In support of this request, the commenter stated that market makers in options are exempt from the SEC's net capital rule.<sup> 89 </sup>
+
+After considering the commenters' views, the Commissions have adopted the exclusion with certain modifications. First, the Commissions are clarifying that the provision relating to accepting or soliciting customer orders was not intended to bar a member from engaging in such activities. That provision was intended to limit the exclusion from the margin requirements to circumstances where the member was trading for its own account, not for the account of others. Accordingly, the rule has been modified to make clear that the exclusion is available to a member only with respect to trading activity for its own account.<sup> 90 </sup> Thus, the member may conduct a customer business and still qualify for the exclusion from the Commissions' margin requirements for security futures with regard to its market making activity. 
+
+The Commissions have also decided that it is unnecessary to restate the applicability of existing net capital requirements under CFTC and SEC rules, or to impose additional net capital requirements, as a condition of the exclusion for persons acting as market makers. Firms will continue to be subject to applicable CFTC or SEC net capital requirements. Further, even if a member is not subject to net capital requirements, the member's carrying firm will be subject to the treatment provided in existing SEC or CFTC net capital rules, whichever are applicable, with respect to the member's security futures transactions. 
+
+As noted above, the Commissions received several comments regarding the circumstances under which an exchange member should be considered a market maker for purposes of the margin rules, other than in circumstances that fall within the exception in Section 7(c)(3) of the Exchange Act. These comments largely refer to the requirement that the exchange member "hold itself out as being willing to buy and sell security futures for its own account on a regular or continuous basis" in order to qualify for the exclusion. The Commissions do not believe that registration with the SEC or CFTC is, by itself, sufficient to show that a market participant is holding itself out as willing to buy and sell security futures. However, the Commissions believe that there are a number of different ways that an exchange member could satisfy this condition. For example, an exchange's or association's rules could require the member to effect a certain percentage of its security futures trades on that exchange or association with persons other than registered market makers on that exchange or association.<sup> 91 </sup> Alternatively, such rules could require that a large majority of such exchange member's revenue is derived from business activities or occupations from trading listed financial-based derivatives ( i.e. , security futures, stock index futures, stock and index options, foreign currency futures and options, and interest rate futures and options) on any exchange in the capacity of a member. As another alternative, the exchange member could be subject to rules that impose on it an affirmative obligation to quote on a regular or continuous basis in security futures.<h>C. Interpretations of, and Exemptions from, the Final Rules </h>
+
+The Commissions are adopting two provisions in the Final Rules to clarify the Commissions' authority to respond to issues that arise in connection with the implementation of the Final Rules. First, the Commissions are adding a provision regarding the interpretation of the security futures margin rules. The Final Rules provide that the Commissions shall jointly interpret the margin rules, consistent with the criteria set forth in clauses (i) through (iv) of Section 7(c)(2)(B) of the Exchange Act and Regulation T.<sup> 92 </sup>
+
+Second, the Final Rules add a provision providing that each Commission may issue an exemption from any provision of the Final Rules.<sup> 93 </sup> CFTC Rule 41.42(d) provides that the CFTC may grant an exemption with respect to any provision of CFTC Rules 41.42 through 41.49, provided that the CFTC finds that the exemption is consistent with the public interest and the protection of customers. Similarly, SEC Rule 400(d) provides that the SEC may grant an exemption with respect to any provision of SEC Rules 400 through 406, provided that the exemption is necessary or appropriate in the public interest and consistent with the protection of investors. Because financial relations involving security futures are subject to the Final Rules as adopted by both the CFTC and the SEC, any person seeking an exemption under these rules must request and obtain the same exemption from both the CFTC and SEC. The Commissions intend to work together on exemption requests to establish uniform policies for security futures trading.<h>D. Definitions </h>
+
+The definition section of the Proposed Rules has been expanded to include all applicable defined terms. Under the Proposed Rules, many of these definitions and provisions would have been incorporated through the application of Regulation T. 
+
+The terms "contract multiplier," "daily settlement price," and "Regulation T" are defined in the Final Rules as proposed.<sup> 94 </sup> The Proposed Rules defined the terms "examining authority," "initial margin," and "maintenance margin."<sup> 95 </sup> These terms are not, however, included in the Final Rules because modifications made to the Proposed Rules make them unnecessary. The Final Rules also define the term "self-regulatory authority,"<sup> 96 </sup> instead of the term "regulatory authority" as proposed,<sup> 97 </sup> and its definition has been revised to include a reference to registration under the CEA. In addition, the Final Rules define the term "current market value" with respect to a security other than a security future consistently with the Regulation T definition.<sup> 98 </sup> Some of the defined terms incorporate by reference definitions from the CEA, the Exchange Act, or CFTC or SEC rules.<sup> 99 </sup> 
+
+Terms that are not otherwise defined in the definition section of the Final Rules will have the meaning set forth in the margin rules applicable to the account.<sup> 100 </sup> Terms that are neither defined in the definition section nor in the margin rules applicable to the account will have the meaning set forth in the Exchange Act and the CEA.<sup> 101 </sup> If the definitions of a term in the Exchange Act and the CEA are inconsistent as applied in particular circumstances, such term shall have the meaning set forth in rules, regulations, or interpretations jointly promulgated by the SEC and the CFTC.<h>E. Application of Regulation T to Security Futures </h>
+
+Section 7(c)(2)(B)(iv) of the Exchange Act requires that the margin requirements for security futures (other than levels of margin), including the type, form, and use of collateral, must be consistent with the requirements of Regulation T.<sup> 102 </sup> To carry out that statutory mandate, the Commissions proposed that Regulation T would apply to all transactions in security futures, to the extent consistent with the Proposed Rules. Thus, under the Proposed Rules, Regulation T would have applied both to securities accounts (which are already subject to Regulation T) and to futures accounts (which are not otherwise subject to Regulation T) that carry security futures.<sup> 103 </sup> This approach also would have applied existing and future Federal Reserve Board interpretations of Regulation T to the margin requirements for security futures and kept the margin requirements consistent with Regulation T without the need for amendments to the Final Rules. 
+
+The Commissions, however, also recognized that there could be more than one approach to prescribing rules that are "consistent" with Regulation T. Accordingly, the Commissions specifically requested commenters' views on alternative approaches to establishing consistency with Regulation T. In particular, the Commissions solicited comment on the approach of issuing comprehensive "stand-alone" margin rules that would parallel Regulation T requirements for securities to the extent that such requirements are relevant to security futures. Under that approach, the stand-alone rules would apply to security futures and any related securities or futures contracts that are used to offset positions in such security futures. However, the stand-alone rules would not apply to any other securities or futures transactions. 
+
+The Commissions received a total of 12 comment letters on the application of Regulation T to security futures transactions.<sup> 104 </sup> One commenter supported the Commissions' proposed approach regarding Regulation T.<sup> 105 </sup> Nine commenters opposed general application of Regulation T to security futures carried in futures accounts,<sup> 106 </sup> and two other commenters specifically opposed applying the Regulation T account structure to FCMs.<sup> 107 </sup>
+
+The commenter that supported application of Regulation T to all security futures transactions believed that the alternative approach of stand-alone rules would not satisfy the statutory requirement that the margin requirements for security futures (other than levels of margin) be "consistent" with those imposed on securities.<sup> 108 </sup> The commenter expressed the view that the term "consistent" should mean that there is no appreciable difference between rules applicable to exchange-traded options and rules applicable to security futures. In addition, the commenter noted that if the Commissions adopt stand-alone margin rules there is a risk that over time such rules will vary materially from Regulation T because of the difficulty of promptly incorporating the Federal Reserve Board's future interpretations of Regulation T into stand-alone rules. 
+
+Commenters opposing the general application of Regulation T to security futures did not believe that the CFMA required such application. One commenter contended that application of Regulation T to futures accounts "is impractical and unnecessary" and "not required," and that the CFMA's "consistent" standard did not necessarily require rules "identical" or "equivalent" to the rules applicable to exchange-traded options.<sup> 109 </sup> Rather, this commenter argued, Regulation T permits commodity futures to be recorded in an account other than a margin account (a "good faith" account) and, as a result, permitting security futures to be carried in a futures account (not a margin account) is "consistent" with Regulation T.<sup> 110 </sup> Another commenter observed that while "consistency requires reasonable comparability. . .[, i]f Congress had meant `consistent' to mean `identical,' however, it would have used that word" or would have clearly directed that Regulation T be applied to security futures.<sup> 111 </sup> Similarly, another commenter pointed out that "the CFMA did not mandate the application of Reg[ulation] T to security futures maintained in a futures account" and that the "imposition of Reg[ulation] T with respect to security futures is inconsistent with Congress's goal of facilitating trading in security futures."<sup> 112 </sup>
+
+Commenters that disagreed with the Commissions' proposed approach generally urged the Commissions to adopt "stand-alone" margin rules for security futures.<sup> 113 </sup> All of these commenters maintained that the programming changes necessary to enable FCMs to comply with Regulation T would be overly costly.<sup> 114 </sup> Generally, those commenters believed that it would be operationally difficult or impossible to carry security futures in a standard futures account without costly and time-consuming reprogramming.<sup> 115 </sup> Commenters were concerned that this would place FCMs at a considerable disadvantage in comparison to broker-dealers and would discourage them from trading security futures. One commenter pointed out that a broker-dealer "would need to do little, relative to an FCM, to bring itself into compliance with the Proposed Rules."<sup> 116 </sup> Another commenter expressed concern that FCMs would have to undertake a substantial development project requiring "the restructuring of FCMs' accounts and related systems changes."<sup> 117 </sup> The commenter estimated that this would result in the expenditure of "several thousands of personnel hours,"<sup> 118 </sup> while another commenter believed that costs would "run well into six figures."<sup> 119 </sup>
+
+Eight commenters recommended the adoption of an account-specific margin regime for purposes of account administration.<sup> 120 </sup> The adoption of an account-specific margin regime was effectively endorsed by two other commenters that advocated retention of specific existing practices<sup> 121 </sup> and one other that believed the imposition of Regulation T on FCMs would be highly burdensome.<sup> 122 </sup> One commenter argued against the adoption of an account-specific margin regime, stating that FCMs will have to revise a number of their operating procedures and there is no compelling reason to make an exception for margin procedures.<sup> 123 </sup>
+
+After considering the commenters' suggestions, the Commissions have determined that it is not necessary to apply Regulation T in its entirety to security futures transactions to satisfy the requirements under Section 7(c)(2) of the Exchange Act.<sup> 124 </sup> Given the relative infrequency of the Federal Reserve Board adopting amendments to Regulation T and issuing formal regulatory guidance, the Commissions do not believe that it will be unduly burdensome or impractical to amend these rules to maintain consistency with Regulation T. Accordingly, the Commissions have adopted stand-alone margin rules that include certain requirements of Regulation T. The Commissions believe that the inclusion of these requirements in the Final Rules satisfies the statutory requirement that margin requirements for security futures be and remain consistent with Regulation T.
+
+The Commissions believe that many of the rules governing margin for positions carried in securities accounts are similar enough to the rules governing margin for positions carried in futures accounts that the differences do not, by themselves, create an incentive for customers either to trade security futures instead of options, or to hold security futures in a futures account rather than a securities account. Accordingly, the Commissions are adopting an "account-specific" approach for those aspects of account administration that need not be conformed to satisfy the requirement that the margin rules for security futures be consistent with Regulation T. Thus, the Final Rules provide that security futures held in a securities account are subject to the Final Rules, Regulation T, and to the margin requirements of the self-regulatory authorities of which the security futures intermediary is a member.<sup> 125 </sup> Security futures held in a futures account, on the other hand, will be subject to the Final Rules and the margin requirements of the self-regulatory authorities of which the security futures intermediary is a member.<sup> 126 </sup> 
+
+Notwithstanding the Commissions' determination not to apply Regulation T in its entirety to security futures, the Final Rules include certain uniform provisions that govern account administration, type, form, and use of collateral, calculation of equity, withdrawals from accounts, and treatment of undermargined accounts. The Commissions believe that the inclusion of these provisions in the Final Rules satisfies the statutory requirement that the margin rules for security futures be consistent with Regulation T.<h>F. Account Administration Rules1. Separation and Consolidation of Accounts </h><h>1. Separation and Consolidation of Accounts </h>
+
+Regulation T establishes specific types of accounts for recording different types of customer transactions ( e.g. , a margin account, a cash account, a good faith account).<sup> 127 </sup> Regulation T generally provides that a customer can have only one margin account.<sup> 128 </sup> While a margin account may be divided into separate parts for bookkeeping purposes, as authorized by the customer, all parts must be considered as one unit in determining whether or not any transaction is permissible under Regulation T.<sup> 129 </sup> The determination as to whether an account satisfies the requirements of Regulation T, moreover, may not take into consideration items in any other account; bookkeeping entries must be made whenever cash or securities in one account are used for purposes of meeting requirements in another account.<sup> 130 </sup> Consistent with Regulation T, the Final Rules provide that the margin requirements for one account may not be met by considering items in another account, except where excess margin is transferred using appropriate bookkeeping entries.<sup> 131 </sup> To facilitate the enforcement of this general prohibition, this provision also requires that if withdrawals of cash, securities, or other assets deposited as margin are permitted under the Final Rules, a security futures intermediary must make and keep accurate bookkeeping entries when those assets are used to meet requirements in another account.<sup> 132 </sup> This provision parallels Section 220.3(b)(1) of Regulation T, and is intended to be consistent with existing futures account practices under Section 4d of the CEA,<sup> 133 </sup> CFTC Rules 1.20 and 1.22, and applicable futures exchange rules.
+
+Currently, futures exchange rules or practices similarly recognize accounts of different types for different customer transactions ( e.g. , customer segregated, customer secured, nonsegregated). Customers may maintain multiple accounts of the same regulatory classification or account type, although futures exchange rules provide that identically owned accounts within the same regulatory classification or account type should be combined for margin purposes.<sup> 134 </sup> Moreover, an FCM may not apply free funds in an account under identical ownership but of a different regulatory classification or account type to an account's margin deficiency.<sup> 135 </sup> As is the case under Regulation T, however, the Final Rules require the FCM to actually document through bookkeeping entries the transfer of funds from one account to satisfy the margin deficiency in another account. The Commissions do not believe that this provision will create any substantial operational burdens for FCMs carrying security futures in futures accounts.
+
+The Final Rules provide that all futures accounts of the same regulatory type or classification that carry security futures shall be considered a single account for purposes of the Regulation.<sup> 136 </sup> The Final Rules also permit a securities futures intermediary to further consolidate all futures accounts of the same regulatory classification or account type, regardless of whether they carry security futures, for purposes of determining whether the required margin for all of a customer's futures positions (including security futures) is satisfied.<sup> 137 </sup><h>2. Accounts of Partners </h>
+
+The Final Rules provide that if a partner of a security futures intermediary (organized as a partnership) has an account with the security futures intermediary in which security futures or related positions are held, the security futures intermediary must disregard the partner's financial relations with the firm (as shown in the partner's capital and ordinary drawing accounts) in calculating the margin or equity of any such account.<sup> 138 </sup> This provision parallels Section 220.4(b)(5) of Regulation T,<sup> 139 </sup> and is consistent with current futures exchange practices. The provision is intended to reinforce the principle of "separation of accounts" with respect to partners in a security futures intermediary organized as a partnership, when a partner maintains a trading account with the firm.<h>3. Contribution to a Joint Venture </h>
+
+Under the Final Rules, if an account in which security futures or related positions are held is the account of a joint venture in which the security futures intermediary participates, any interest of the security futures intermediary in the joint account in excess of the interest which the security futures intermediary would have on the basis of its right to share in the profits must be margined in accordance with the Final Rules.<sup> 140 </sup> This provision parallels Section 220.4(b)(6) of Regulation T,<sup> 141 </sup> which is intended to prevent firms from indirectly extending credit to customers in circumstances where the customer does not deposit equity in the account corresponding to its share of the profits in the account ( e.g. , if the customer is entitled to 90% of the profits in an account, but only deposits 40% of the equity at the outset, the broker-dealer is effectively extending credit to the customer in the amount of 50% of the equity in the account).<h>4. Extensions of Credit </h>
+
+The Final Rules prohibit any extension of credit with respect to security futures, if the extension of credit is designed to evade or circumvent the security futures margin requirements.<sup> 142 </sup> Among other things, this provision is intended to prevent security futures intermediaries from extending unsecured credit to customers, or extending credit secured by securities or other assets in excess of the value such assets would have under the Final Rules,<sup> 143 </sup> to satisfy or maintain the required margin for security futures carried in the customer's account.<sup> 144 </sup> For example, a security futures intermediary may not lend a customer $100 in cash secured by less than $200 in margin equity securities to meet a margin call for a security future. This provision does not, however, preclude a security futures intermediary from advancing funds to a customer to meet variation settlement calls on behalf of an undermargined customer account, in the ordinary course of business, provided that the security futures intermediary issues a margin call for the funds advanced. 
+
+The Final Rules permit a security futures intermediary to arrange for an extension of credit to or for a customer by a person, provided that the extension of credit would not constitute a violation of Regulations T, U, or X by such person.<sup> 145 </sup> In this connection, the Commissions believe that credit extended for the purpose of satisfying or maintaining the required margin for a security future is "purpose credit" for purposes of the Federal Reserve Board's credit regulations. For example, a security futures intermediary may not arrange for a Regulation T creditor to extend credit to a customer against securities or other assets in a nonpurpose or nonsecurities credit account to enable the customer to meet a margin requirement with respect to a security future. Likewise, a security futures intermediary may not arrange for a bank or other Regulation U lender to extend credit secured directly or indirectly by margin stock in excess of the maximum loan value of the collateral ( i.e. , 50% of current market value) securing the credit for the purpose of purchasing or carrying a security future. Similarly, a security futures intermediary may not arrange for a Regulation X borrower to obtain an extension of credit within or from outside the United States for the purpose of effecting or carrying a security futures transaction unless the credit conforms to the Federal Reserve Board's margin regulations, as provided in Regulation X.<h>G. Customer Margin Levels for Security Futures </h>
+
+The Commissions proposed to require both the seller and the buyer of a security future to provide and maintain, on a daily basis, cash or other acceptable assets equal to a percentage of the "current market value" of the security future. The Commissions are adopting those requirements substantially as proposed.<h>1. Definition of Current Market Value </h>
+
+The Commissions proposed to define the term "current market value" of a security future as the product of the daily settlement price of the security future (as shown by any regularly published reporting or quotation service) and either the applicable number of shares per contract (when the underlying instrument is a single stock), or the applicable contract multiplier (when the underlying instrument is a narrow-based security index).<sup> 146 </sup> The Commissions also proposed to define the term "current market value" with respect to a narrow-based security index future to mean the product of the daily settlement price of such security future, as shown by any regularly published reporting or quotation service, and the applicable contract multiplier.<sup> 147 </sup> 
+
+The Commissions received one comment on these definitions, which suggested that the pricing convention for determining current market value need not be the same for security futures held in a security account and for security futures held in a futures account.<sup> 148 </sup> The Commissions, however, believe that a uniform definition of current market value is necessary to ensure that identical contracts are not subject to different margin requirements based on the type of account in which they are carried.
+
+As noted above, Section 7(c)(2)(B)(3)(I) of the Exchange Act<sup> 149 </sup> requires that the margin requirements for security futures be consistent with the margin requirements for comparable exchange-traded options. The Commissions believe that using the daily settlement price<sup> 150 </sup> at the end of each trading day to calculate margin requirements for security futures on that day is consistent with the use of the closing price of the option and the underlying security for determining maintenance margin for equity options.<sup> 151 </sup> In addition, the Commissions continue to believe that using the daily settlement price of a security future on the day of a transaction to calculate the initial margin (rather than the daily settlement price on the day preceding the transaction) is consistent with using the underlying stock's closing price on the preceding business day. The daily settlement price of a security future on the preceding business day, for example, may not exist if such security future were not available for trading on the preceding business day. Accordingly, the Commissions are adopting the definition of "current market value" as proposed.<h>2. Margin Levels for Unhedged Positions </h>
+
+The Commissions proposed that the minimum initial and maintenance margin levels required of customers for each security future carried in a long or short position be 20% of the current market value of such security future.<sup> 152 </sup> This proposed level was based on the requirement under Section 7(c)(2) of the Exchange Act that the initial and maintenance margin levels for a security future not be lower than the lowest level of margin, exclusive of premium, required for any comparable option contracts traded on any exchange registered pursuant to Section 6(a) of the Exchange Act.<sup> 153 </sup> 
+
+Twelve commenters commented on this aspect of the Proposed Rules.<sup> 154 </sup> Six commenters found 20% to be an acceptable level.<sup> 155 </sup> Two commenters advocated a 25% margin level,<sup> 156 </sup> and one commenter, joined by a second, stated that its members could not reach a consensus as between 20% and 25%.<sup> 157 </sup> One commenter expressed the view 20% could be either too high or low, and suggested that for certain positions, 50% initial margin would be appropriate.<sup> 158 </sup> 
+
+One commenter considered the 20% level to be consistent with the margin requirements for exchange-traded options, but "more than adequate" in terms of preserving the financial integrity of the market and preventing systemic risk.<sup> 159 </sup> Another commenter stated that it "does not oppose" the 20% level, but favors portfolio margining.<sup> 160 </sup>
+
+One commenter said that its members were split between recommending 20% and 25%.<sup> 161 </sup> Those supporting the 20% level believed that it was consistent with the levels applicable to exchange-traded options and consistent with the intent of the CFMA. This margin level in combination with a T+1 settlement period and the fact that the Proposed Rules permit higher margin levels, made some members conclude that 20% is a prudent minimum level.<sup> 162 </sup> Other members thought that 20% is too low, failing to take into account the varying volatility/share price profiles of equity securities and the credit risk implications of those differences. Those members favored a 25% minimum, finding this to be "consistent" with margin levels for options.<sup> 163 </sup> They further noted that a comparable option position consists of a long (short) call/short (long) put option pair struck at the forward price of the underlying security.<sup> 164 </sup>
+
+Finally, one commenter urged the Commissions to adopt a 25% margin level, citing historical data and stating that this level is consistent with the minimum margin level applied under SRO rules to long equity positions.<sup> 165 </sup> It argued that the 20% level would create an advantage for security futures as compared to listed option put/call pairs, noting margin levels in excess of 30% for combinations based on relatively high volatility stocks, and margin levels in excess of 20% for combinations based on relatively low volatility stocks.<sup> 166 </sup>
+
+After considering the commenters' views, the Commissions have adopted the margin levels as proposed. The Commissions believe that a security future is comparable to a short, at-the-money option, as discussed in the release accompanying the Proposed Rules ("Proposing Release").<sup> 167 </sup> Currently, the margin requirement for a short, at-the-money option, where the underlying instrument is either an equity security (such as a stock or an instrument immediately convertible into a stock) or an index, is 100% of the option proceeds plus 20% of the value of the underlying security or index.<sup> 168 </sup> 
+
+Unlike an options contract, however, a futures contract involves obligations of both parties to perform in the future: the buyer (long) to purchase the asset underlying the future, and the seller (short) to deliver the asset. As a result, both the buyer and the seller of a futures contract must post and maintain margin on a daily basis to assure contract performance and the integrity of the marketplace. In addition, all market participants pay or receive daily variation settlement as a result of all open futures positions being marked to current market value. Accordingly, the margin levels apply equally for both buyers and sellers of security futures. 
+
+The Commissions have considered the comments, and have determined that a minimum margin level of 20% satisfies the comparability standard of Section 7(c)(2) of the Exchange Act.<sup> 169 </sup> In addition, the Commissions note that the Final Rules permit self-regulatory authorities and security futures intermediaries to establish higher margin levels or to take appropriate action to preserve their own financial integrity.<sup> 170 </sup> As a result, the Commissions are adopting the minimum initial and maintenance margin levels for unhedged positions, as proposed.<h>3. Margin Offsets </h>
+
+The Proposed Rules included a provision to allow national securities exchanges and national securities associations to adopt rules that reduce the margin levels below 20% of current market value for customers with certain positions in securities or futures that offset the risk of their positions in security futures.<sup> 171 </sup> The Proposed Rules provided further that the resulting margin levels could not be lower than the lowest customer margin levels required for comparable offset positions involving exchange-traded options.<sup> 172 </sup> In addition, the Commissions published a table that included offsets for security futures that the Commissions had preliminarily identified as consistent with those permitted for comparable offset positions involving options and that would qualify for reduced margin levels.<sup> 173 </sup>
+
+The Commissions received three comments with respect to the proposed offsets.<sup> 174 </sup> One of the commenters stated that offsets involving security futures and options should be recognized only if the risk from the security future is completely offset by the option.<sup> 175 </sup> Another commenter expressed concern that the offsets would produce margin levels that did not accurately reflect the risk of the positions and suggested that the Commissions adopt general provisions regarding margin levels for offsetting positions instead of providing specific examples.<sup> 176 </sup> Finally, one commenter suggested modifying the existing strategy-based rules to put security futures on a par with cash equities in connection with offsetting strategies involving listed options and to reduce the margin requirements for certain calendar and basket spreads involving security futures.<sup> 177 </sup> This commenter also suggested that the Commissions address the treatment of spreads involving non-fungible security futures.<sup> 178 </sup>
+
+After considering the commenters' views, the Commissions have adopted, substantially as proposed, rules that permit self-regulatory authorities to establish margin levels for offset positions involving security futures that are lower than the required margin levels for unhedged positions.<sup> 179 </sup> Under the Final Rules, a self-regulatory authority may set the required initial or maintenance margin level for an offsetting position involving security futures and related positions at a level lower than the level that would be required if the positions were margined separately. Such rules must meet the criteria set forth in Section 7(c)(2)(B) of the Exchange Act<sup> 180 </sup> and must be effective in accordance with Section 19(b)(2) of the Exchange Act<sup> 181 </sup> and, as applicable, Section 5c(c) of the CEA.<sup> 182 </sup> 
+
+The Commissions have retained, with certain revisions, the table of offsets that they deem to be consistent with offsets recognized for comparable exchange-traded options. In particular, the revised table of offsets reflects an adjustment in the level of margin required for certain calendar and basket spreads involving security futures to more accurately reflect the risk of such positions relative to comparable spreads involving exchange-traded options. An offset position for spreads involving non-fungible security futures also has been added to the table. 
+
+When it approved strategy-based offsets for options, the SEC found that it was appropriate for the SROs to recognize the hedged nature of certain combined options strategies and prescribe margin requirements that better reflect the risk of those strategies.<sup> 183 </sup> The SEC also found that the SROs' proposals relating to strategy-based offsets involving options contracts were carefully crafted as they were based on the SROs' experiences in monitoring the credit exposures of options strategies. In particular, the SEC noted that the SROs regularly examine the coverage of options margin as it relates to price movements in the underlying securities and index components. Moreover, the SROs' proposals were thoroughly reviewed by the NYSE Rule 431 Review Committee, which is comprised of securities industry participants who have extensive experience in margin and credit matters. As a result of these factors, the SEC was confident that the SROs' proposed margin requirements were consistent with investor protection and properly reflected the risks of the underlying options positions.
+
+The table of offsets reflects a reduction in the minimum initial and maintenance margin requirement for calendar spreads<sup> 184 </sup> and basket spreads,<sup> 185 </sup> in response to the comment that the risk posed by certain spreads involving security futures is lower than the risk posed by comparable spreads involving exchange-traded options.<sup> 186 </sup> In light of the observation that security futures are not subject to early exercise and therefore do not exhibit the same price volatility as options, the minimum initial and maintenance margin requirement recognized for calendar spreads and basket spreads has been reduced to 5% of the current market value of the long or short position.<sup> 187 </sup> The Commissions deliberated as to whether risk-based margin computations using SPAN could be applied to these strategies, so long as the offsetting positions were the only positions included in the margin computation. The Commissions have decided not to permit risk-based margin computations for these offsets at this time. 
+
+The table of offsets, likewise, reflects a reduction in the required margin recognized for spreads involving a long or short security future and a short or long position in the same security underlying the security future, given that these spreads are economically analogous to calendar spreads.<sup> 188 </sup> The Commissions intend to review the margin levels for the offsets discussed above after six months of security futures trading to determine whether the margin levels have resulted in regulatory arbitrage with comparable positions involving exchange-traded options, and may jointly undertake appropriate action.
+
+Based on the same commenter's suggestion, the Commissions believe that an additional offset should be recognized for spreads involving identical, non-fungible security futures.<sup> 189 </sup> Because there is a possibility that certain security futures may not be fungible across markets, a customer may simultaneously hold a long security future and a short security future on the same underlying security even when those security futures have identical contract terms. As a result, the customer will be economically neutral but will be required to hold both positions to expiration and meet daily variation settlement calls with respect to each contract. The commenter expressed the view that a minimum margin level of 1% would be appropriate.<sup> 190 </sup> The Commissions recognize that the rules of a clearing agency or derivatives clearing organization may effectively net the two contracts at final settlement. However, due to potential differences in daily settlement prices across markets or other market-specific events, the Commissions have determined that such offset positions will be subject to a minimum margin requirement of 3%. 
+
+The Commissions believe that the offsets identified in the following table are consistent with the strategy-based offsets permitted for comparable offset positions involving exchange-traded options. The Commissions expect that self-regulatory authorities seeking to permit trading in security futures will submit to the Commissions proposed rules that impose levels of required margin for offsetting positions involving security futures in accordance with the minimum margin requirements identified in the following table of offsets.
+
+ Description of Offset Security Underlying the Security Future Initial Margin Requirement Maintenance Margin Requirement 1 Long security future or short security future Individual stock or narrow-based security index 20% of the current market value of the security future. 20% of the current market value of the security future. 2 Long security future (or basket of security futures representing each component of a narrow-based securities index( 1 ))
+
+and
+
+long put option( 2 ) on the same underlying security (or index) Individual stock or narrow-based security index 20% of the current market value of the long security future, plus pay for the long put in full. The lower of: (1) 10% of the aggregate exercise price( 3 ) of the put plus the aggregate put out-of-the-money( 4 ) amount, if any; or (2) 20% of the current market value of the long security future. 3 Short security future (or basket of security futures representing each component of a narrow-based securities index)
+
+and
+
+short put option on the same underlying security (or index) Individual stock or narrow-based security index 20% of the current market value of the short security future, plus the aggregate put in-the-money amount, if any. Proceeds from the put sale may be applied. 20% of the current market value of the short security future, plus the aggregate put in-the-money amount, if any.( 5 ) 4 Long security future 
+
+and
+
+short position in the same security (or securities basket) underlying the security future Individual stock or narrow-based security index The initial margin required under Regulation T for the short stock or stocks. 5% of the current market value as defined in Regulation T of the stock or stocks underlying the security future. 5 Long security future 
+
+(or basket of security futures representing each component of a narrow-based securities index)
+
+and
+
+Short call option on the same underlying security (or index) Individual stock or narrow-based security index 20% of the current market value of the long security future, plus the aggregate call in-the-money amount, if any. Proceeds from the call sale may be applied. 20% of the current market value of the long security future, plus the aggregate call in-the-money amount, if any. 6 Long a basket of narrow-based security futures that together tracks a broad based index and short a broad-based security index call option contract on the same index Narrow-based security index 20% of the current market value of the long basket of narrow-based security futures, plus the aggregate call in-the-money amount, if any. Proceeds from the call sale may be applied. 20% of the current market value of the long basket of narrow-based security futures, plus the aggregate call in-the-money amount, if any. 7 Short a basket of narrow-based security futures that together tracks a broad-based security index and short a broad-based security index put option contract on the same index Narrow-based security index 20% of the current market value of the short basket of narrow-based security futures, plus the aggregate put in-the-money amount, if any. Proceeds from the put sale may be applied. 20% of the current market value of the short basket of narrow-based security futures, plus the aggregate put in-the-money amount, if any. 8 Long a basket of narrow-based security futures that together tracks a broad-based security index
+
+and
+
+long a broad-based security index put option contract on the same index Narrow-based security index 20% of the current market value of the long basket of narrow-based security futures, plus pay for the long put in full. The lower of: (1) 10% of the aggregate exercise price of the put, plus the aggregate put out-of-the-money amount, if any; or (2) 20% of the current market value of the long basket of security futures. 9 Short a basket of narrow-based security futures that together tracks a broad-based security index
+
+and 
+
+long a broad-based security index call option contract on the same index Narrow-based security index 20% of the current market value of the short basket of narrow-based security futures, plus pay for the long call in full. The lower of: (1) 10% of the aggregate exercise price of the call, plus the aggregate call out-of-the-money amount, if any; or (2) 20% of the current market value of the short basket of security futures. 10 Long security future
+
+and
+
+short security future on the same underlying security (or index) Individual stock or narrow-based security index The greater of: 5% of the current market value of the long security future; or (2) 5% of the current market value of the short security future. The greater of: 5% of the current market value of the long security future; or (2) 5% of the current market value of the short security future. 11 Long security future,
+
+long put option 
+
+and
+
+short call option. The long security future, long put and short call must be on the same underlying security and the put and call must have the same exercise price. (Conversion) Individual stock or narrow-based security index 20% of the current market value of the long security future, plus the aggregate call in-the-money amount, if any, plus pay for the put in full. Proceeds from the call sale may be applied. 10% of the aggregate exercise price, plus the aggregate call in-the-money amount, if any. 12 Long security future,
+
+long put option
+
+and
+
+short call option. The long security future, long put and short call must be on the same underlying security and the put exercise price must be below the call exercise price. (Collar) Individual stock or narrow-based security index 20% of the current market value of the long security future, plus the aggregate call in-the-money amount, if any, plus pay for the put in full. Proceeds from call sale may be applied. The lower of: (1) 10% of the aggregate exercise price of the put plus the aggregate put out-of-the-money amount, if any; or (2) 20% of the aggregate exercise price of the call, plus the aggregate call in-the-money amount, if any. 13 Short security future
+
+and
+
+long position in the same security (or securities basket) underlying the security future Individual stock or narrow-based security index The initial margin required under Regulation T for the long stock or stocks. 5% of the current market value, as defined in Regulation T, of the long stock or stocks. 14 Short security future
+
+and
+
+long position in a security immediately convertible into the same security underlying the security future, without restriction, including the payment of money Individual stock or narrow-based security index The initial margin required under Regulation T for the long security 10% of the current market value, as defined in Regulation T, of the long security 15 Short security future (or basket of security futures representing each component of a narrow-based securities index)
+
+and
+
+long call option or warrant on the same underlying security (or index) Individual stock or narrow-based security index 20% of the current market value of the short security future, plus pay for the call in full. The lower of: (1) 10% of the aggregate exercise price of the call, plus the aggregate call out-of-the-money amount, if any; or (2) 20% of the current market value of the short security future. 16 Short security future,
+
+Short put option
+
+and
+
+long call option. The short security future, short put and long call must be on the same underlying security and the put and call must have the same exercise price. (Reverse Conversion) Individual stock or narrow-based security index 20% of the current market value of the short security future, plus the aggregate put in-the-money amount, if any, plus pay for the call in full. Proceeds from put sale may be applied. 10% of the aggregate exercise price, plus the aggregate put in-the-money amount, if any. 17 Long (short) a basket of security futures, each based on a narrow-based security index that together tracks the broad-based index
+
+and
+
+short (long) a broad based-index future Narrow-based security index 5% of the current market value of the long (short) basket of security futures. 5% of the current market value of the long (short) basket of security futures. 18 Long (short) a basket of security futures that together tracks a narrow-based index
+
+and
+
+short (long) a narrow based-index future Individual stock
+
+and
+
+narrow-based security index The greater of: (1) 5% of the current market value of the long security future(s); or (2) 5% of the current market value of the short security future(s). The greater of: (1) 5% of the current market value of the long security future(s); or (2) 5% of the current market value of the short security future(s). 19 Long (short) a security future and short (long) an identical security future traded on a different market.( 6 ) Individual stock and narrow-based security index The greater of: (1) 3% of the current market value of the long security future(s); or (2) 3% of the current market value of the short security future(s). The greater of: (1) 3% of the current market value of the long security future(s); or (2) 3% of the current market value of the short security future(s). Table Notes 
+
+ 1 Baskets of securities or security futures contracts must replicate the securities that comprise the index, and in the same proportion.
+
+ 2 Generally, for the purposes of these rules, unless otherwise specified, stock index warrants shall be treated as if they were index options.
+
+ 3 "Aggregate exercise price," with respect to an option or warrant based on an underlying security, means the exercise price of an option or warrant contract multiplied by the numbers of units of the underlying security covered by the option contract or warrant. "Aggregate exercise price" with respect to an index option means the exercise price multiplied by the index multiplier. See , e.g. , Amex Rules 900 and 900C; CBOE Rule 12.3; and NASD Rule 2522.
+
+ 4 "Out-of-the-money" amounts must be determined as follows:
+
+(1) for stock call options and warrants, any excess of the aggregate exercise price of the option or warrant over the current market value of the equivalent number of shares of the underlying security;
+
+(2) for stock put options or warrants, any excess of the current market value of the equivalent number of shares of the underlying security over the aggregate exercise price of the option or warrant;
+
+(3) for stock index call options and warrants, any excess of the aggregate exercise price of the option or warrant over the product of the current index value and the applicable index multiplier; and
+
+(4) for stock index put options and warrants, any excess of the product of the current index value and the applicable index multiplier over the aggregate exercise price of the option or warrant. See , e.g. , NYSE Rule 431 (Exchange Act Release No. 42011 (October 14, 1999), 64 FR 57172 (October 22, 1999) (order approving SR-NYSE-99-03)); Amex Rule 462 (Exchange Act Release No. 43582 (November 17, 2000), 65 FR 71151 (November 29, 2000) (order approving SR-Amex-99-27)); CBOE Rule 12.3 (Exchange Act Release No. 41658 (July 27, 1999), 64 FR 42736 (August 5, 1999) (order approving SR-CBOE-97-67)); or NASD Rule 2520 (Exchange Act Release No. 43581 (November 17, 2000), 65 FR 70854 (November 28, 2000) (order approving SR-NASD-00-15)).
+
+ 5 "In the-money" amounts must be determined as follows:
+
+(1) for stock call options and warrants, any excess of the current market value of the equivalent number of shares of the underlying security over the aggregate exercise price of the option or warrant;
+
+(2) for stock put options or warrants, any excess of the aggregate exercise price of the option or warrant over the current market value of the equivalent number of shares of the underlying security;
+
+(3) for stock index call options and warrants, any excess of the product of the current index value and the applicable index multiplier over the aggregate exercise price of the option or warrant; and
+
+(4) for stock index put options and warrants, any excess of the aggregate exercise price of the option or warrant over the product of the current index value and the applicable index multiplier.
+
+( 6 ) Two security futures will be considered "identical" for this purpose if they are issued by the same clearing agency or cleared and guaranteed by the same derivatives clearing organization, have identical contract specifications, and would offset each other at the clearing level.
+
+ 
+
+The Commissions note that positions in a securities account may not be cross-margined with positions in a futures account except in accordance with the rules of a self-regulatory authority that have become effective under Section 19(b)(2) of the Exchange Act and, as applicable, Section 5c(c) of the CEA. At present, the Commissions have not approved the use of a cross-margining methodology for customer securities and futures accounts. Accordingly, security futures or other positions carried in a futures account may not currently be offset against security futures or other positions carried in a securities account to reduce a customer's total margin requirement.<h>4. Higher Margin Levels </h>
+
+The Proposed Rules expressly provided that self-regulatory authorities could impose on their members initial and maintenance margin levels that are higher than the minimum levels otherwise specified in the rules.<sup> 191 </sup> The Proposed Rules also provided that self-regulatory authorities could permit their members to use a method for computing required margin that could result in margin levels that are higher than the minimum levels specified in the rules.<sup> 192 </sup>
+
+The Commissions have decided that it is not necessary to adopt these provisions of the Proposed Rules because other provisions of the Final Rules make clear the ability of a self-regulatory authority to establish higher margin levels. The Final Rules establish minimum levels and do not set any limitations as to maximum levels. Moreover, the Final Rules expressly do not preclude a self-regulatory authority or a security futures intermediary from imposing additional margin requirements, including higher initial and maintenance margin levels, consistent with the Final Rules.<sup> 193 </sup> As noted previously, a portfolio margining system such as SPAN may be used to compute required margin based on the parameters established in accordance with the Final Rules. Each security futures intermediary remains responsible for collecting margin in compliance with the Final Rules.<h>5. Procedures for Certain Margin Level Adjustments </h>
+
+The Commissions proposed to allow national securities exchanges registered under Section 6(g) of the Exchange Act<sup> 194 </sup> and national securities associations registered under Section 15A(k) of the Exchange Act<sup> 195 </sup> to raise or lower margin levels in accordance with Section 19(b)(7) of the Exchange Act,<sup> 196 </sup> as long as the resulting levels satisfy the minimum level requirements.<sup> 197 </sup> The Commissions received no comments on this aspect of the proposal, and are adopting it as proposed.<sup> 198 </sup><h>H. Satisfaction of Required Margin </h>
+
+Section 7(c)(2)(B)(iv) of the Exchange Act<sup> 199 </sup> requires that the type, form and use of collateral for security futures products be and remain consistent with the requirements of Regulation T. To fulfill this statutory requirement, the Commissions proposed to permit security futures intermediaries to accept as margin for security futures any of the types of collateral permitted under Regulation T to satisfy a margin deficiency in a margin account.<sup> 200 </sup> The Commissions also proposed to allow self-regulatory authorities to establish their own margin collateral requirements as long as those requirements were consistent with the requirements of Regulation T.<sup> 201 </sup> 
+
+The Final Rules continue to limit the type, form, and use of collateral deposits that security futures intermediaries may accept to satisfy the required margin for security futures to those permitted under Regulation T.<sup> 202 </sup> The Commissions are, however, permitting security futures intermediaries to include the net value of certain additional items -- specifically, long options<sup> 203 </sup> and open trade equity<sup> 204 </sup> -- in computing the equity in an account. Moreover, for purposes of determining whether the required margin in an account is satisfied, the final rules permit security futures intermediaries to compute equity in accordance with applicable self-regulatory authority rules, subject to certain adjustments to ensure consistency with Regulation T.<sup> 205 </sup><h>1. Type, Form and Use of Collaterala. Acceptable Collateral Deposits </h><h>a. Acceptable Collateral Deposits </h>
+
+The Commissions proposed to permit security futures intermediaries to accept as margin for security futures a deposit of any combination of cash, margin securities as defined in Regulation T,<sup> 206 </sup> exempted securities as defined in Section 3(a)(12) of the Exchange Act,<sup> 207 </sup> and other collateral permitted under Regulation T to satisfy a margin deficiency in the margin account.<sup> 208 </sup> 
+
+The Commissions received four comments on this issue.<sup> 209 </sup> One commenter supported the Commissions' proposal with respect to permissible collateral.<sup> 210 </sup> The other three commenters suggested that the Commissions should permit security futures intermediaries to accept other forms of collateral in addition to those permitted by Regulation T.<sup> 211 </sup> 
+
+Two of these commenters suggested that the type of collateral permitted should be determined based on the type of account. Under an account-specific approach, for security futures held in futures accounts, the types of permissible collateral would be determined by SRO rules; and for security futures held in securities accounts, the types of permissible collateral would be governed by Regulation T.<sup> 212 </sup> The other commenter maintained that, unless the Commissions recognize other instruments that are commonly accepted as collateral within a futures account ( e.g. , letters of credit), the margin requirements would disadvantage the futures community and would make it unlikely that customers would carry security futures products in a futures account.<sup> 213 </sup>
+
+The Commissions have considered the commenters' views, and have adopted the provisions regarding acceptable collateral deposits substantially as proposed. In particular, the Commissions do not believe that it would be consistent with the requirements regarding type, form, and use of collateral under Regulation T to permit customers to satisfy the required margin for security futures in a futures account using letters of credit or other types of collateral not currently permitted under Regulation T. Any types of collateral the Federal Reserve Board may subsequently permit in a Regulation T margin account, however, may also be used to satisfy the required margin for security futures under the Final Rules.<sup> 214 </sup><h>b. Use of Money Market Mutual Funds </h>
+
+The definition of "margin security" under Regulation T includes, among other securities, money market mutual funds. A number of futures exchanges currently accept money market mutual fund shares as performance bond deposits for futures and options on futures, subject to certain conditions imposed under CFTC Rule 1.25.<sup> 215 </sup> Regulation T also permits creditors to extend good faith loan value to shares in money market mutual funds and other mutual funds carried in a securities account, although the limitations on extensions of credit in connection with new issues of securities under Section 11(d)(1) of the Exchange Act have limited the practicability of their use.<sup> 216 </sup> 
+
+The Final Rules permit the use of money market mutual fund shares<sup> 217 </sup> to satisfy the required margin for security futures and related positions carried in a securities account or futures account, subject to certain conditions.<sup> 218 </sup> These conditions are intended to facilitate a security futures intermediary's hypothecation or liquidation of money market mutual fund shares deposited as margin for security futures, as necessary to meet a customer's clearing obligations. 
+
+Specifically, a security futures intermediary may accept money market mutual fund shares as margin if the following conditions are met ( e.g. , under the rules of a self-regulatory authority or pursuant to a three-way agreement among the security futures intermediary, the customer, and the money market mutual fund or its transfer agent):
+
+(1) The customer waives any right to redeem the fund shares without the consent of the security futures intermediary and instructs the fund or its transfer agent accordingly; 
+
+(2) The security futures intermediary (or clearing agency or derivatives clearing organization with which the security is deposited as margin) obtains the right to redeem the shares in cash, promptly upon request; and 
+
+(3) The fund agrees to satisfy any conditions necessary or appropriate to ensure that the shares may be redeemed in cash, promptly upon request.<h>2. Computation of Equity </h>
+
+The Proposed Rules would have required security futures intermediaries to compute the equity in an account in accordance with Regulation T for purposes of determining whether the required margin for security futures is satisfied.<sup> 219 </sup> The Commissions received one comment on this issue.<sup> 220 </sup> The commenter expressed the opinion that the rules governing collateral haircuts in securities and futures accounts need not be identical, as long as the relevant standards do not create a material incentive for customers to carry security futures positions in a futures account rather than a securities account.<sup> 221 </sup>
+
+The Commissions have considered this commenter's views and have determined not to require security futures intermediaries to compute equity in accordance with Regulation T. The Final Rules provide that, for purposes of determining whether the required margin for security futures carried in an account is satisfied, the equity in an account shall be computed in accordance with the margin rules applicable to the account.<sup> 222 </sup> However, so that that collateral and other components of equity are valued consistently in securities and futures accounts, the Final Rules require security futures intermediaries to make certain adjustments to equity when determining whether the required margin for security futures carried in an account is satisfied.<sup> 223 </sup> Each of these components of equity is discussed in turn below.<h>a. Security Futures </h>
+
+The Proposed Rules provided that security futures would not be "margin securities" for purposes of the margin requirements and therefore would not have loan value for margin purposes.<sup> 224 </sup> One commenter addressed this provision and supported the view that security futures should not have loan value for margin purposes.<sup> 225 </sup> 
+
+The Commissions have considered the commenter's views and have adopted Final Rules that provide that security futures will have no value for purposes of determining whether the required margin in a securities or futures account is satisfied.<sup> 226 </sup> This is consistent with the treatment of other futures contracts carried in futures accounts. 
+
+To avoid confusion as to whether extensions of credit in connection with security futures are considered "purpose credit" for purposes of the Federal Reserve Board's credit regulations,<sup> 227 </sup> however, the Commissions have revised the Final Rules to eliminate the statement that security futures are not margin securities.<h>b. Option Value </h>
+
+The Proposed Rules did not address the question of whether the net value of options in a securities or futures account could be applied to satisfy the required margin for security futures.<sup> 228 </sup> The rules of the futures exchanges generally permit FCMs to include the value of listed options on contracts for future delivery in computing the equity in a futures account. The rules of the national securities exchanges and the NASD, however, generally deny value to options carried for a customer for the purpose of computing the equity in the customer's account.<sup> 229 </sup>
+
+One commenter expressed concern that the exclusion of net option value from the calculation of equity in a futures account would create significant operational difficulties for security futures intermediaries that carry security futures in futures accounts.<sup> 230 </sup> Two other commenters noted, however, that recognition of option value for purposes of determining whether the required margin for security futures is satisfied in a futures account would create a significant regulatory disparity with exchange-traded options carried in securities accounts.<sup> 231 </sup>
+
+The Commissions, having considered the commenters' concerns, are adopting Final Rules that provide that a net long or short position in a listed put or call option carried in a futures account shall be valued in accordance with the margin rules applicable to the account for purposes of determining whether the required margin for a security future in the account is satisfied.<sup> 232 </sup> For these purposes, the term "listed option" is defined to mean any put or call option that is (i) issued by a clearing agency that is registered under Section 17A of the Exchange Act<sup> 233 </sup> or cleared and guaranteed by a derivatives clearing organization that is registered under Section 5b of the CEA;<sup> 234 </sup> and (ii) traded on or subject to the rules of a self-regulatory authority.<sup> 235 </sup> 
+
+The SEC is willing to entertain proposed rule changes by the national securities exchanges and the NASD to grant value to listed options in a securities account under appropriate circumstances. In addition, the Commissions intend to review their determination to grant value to long options carried in futures accounts after six months of security futures trading to determine whether it has created a material disparity between the margin requirements for security futures and the margin requirements for comparable exchange-traded options, and may jointly undertake appropriate action.<h>c. Open Trade Equity </h>
+
+The Proposed Rules did not address in detail how "open trade equity" ( i.e. , the daily marked-to-market gain or loss in value of futures or other exchange-traded contracts) would be included in the equity in an account for purposes of determining whether the required margin for security futures is satisfied. However, eight commenters raised the issue and requested clarification from the Commissions.<sup> 236 </sup> Those commenters generally requested that the Commissions clarify that broker-dealers and FCMs could treat open trade equity on security futures positions as cash for purposes of margin and collateral.
+
+One of those commenters maintained that disallowing the use of open trade equity to satisfy margin on trades and position in other markets could dampen customers' interest in security futures.<sup> 237 </sup> Another of the commenters suggested that FCMs would have to make costly systems changes if they were not allowed to recognize open trade equity for security futures as they are permitted to do for other futures positions.<sup> 238 </sup>
+
+In light of commenters' views on this issue, the Final Rules clarify that "open trade equity" may be applied to satisfy the required margin for security futures and related positions. Specifically, the Final Rules define a new term, "variation settlement," to mean any credit or debit to a customer account, made on a daily or intraday basis, for the purpose of marking to market a security future or any other contract that is: (i) issued by a clearing agency that is registered under Section 17A of the Exchange Act<sup> 239 </sup> or cleared and guaranteed by a derivatives clearing organization that is registered under Section 5b of the CEA,<sup> 240 </sup> and (ii) traded on or subject to the rules of a self-regulatory authority.<sup> 241 </sup> The Final Rules provide that variation settlement receivable (or payable) by an account at the close of trading on any day shall be treated as a credit (or debit) to the account on that day.<sup> 242 </sup><h>d. Margin Equity Securities </h>
+
+The Final Rules generally limit the value of a margin equity security deposited as margin for security futures in a futures account to the security's "Regulation T collateral value," i.e. , the current market value of the security (based on its most recent closing price) less the percentage of required margin for a position in the security held in a margin account under Regulation T.<sup> 243 </sup> This amount, which is currently set at 50% of current market value, represents the amount of the value of a fully-paid margin equity security deposited into a securities margin account that would be available to satisfy the required margin for other positions in the account under Regulation T, e.g. , stock options. Margin equity securities deposited as collateral for security futures in a securities account remain subject to Regulation T margin requirements as well as the margin requirements of applicable self-regulatory authority rules.
+
+By requiring FCMs to value margin equity securities as collateral for security futures at the levels established under Regulation T,<sup> 244 </sup> the Commissions intend to provide that margin equity securities used to satisfy margin requirements for security futures are valued in a consistent manner, regardless of the type of account in which a security future is carried. The Commissions recognize, however, that the Regulation T margin requirement applies only to new transactions that create or increase a margin deficiency in an account.<sup> 245 </sup> As a result, a uniform 50% haircut on margin equity securities in a futures account may result in the collection of more margin for security futures carried in a futures account than would be required for comparable positions carried in a securities account. 
+
+Accordingly, the Final Rules provide an alternative method for valuing margin equity securities used as collateral for security futures in a futures account based on the same initial and maintenance computations required under Regulation T and securities SRO rules with respect to transactions in the account.<sup> 246 </sup> Under this alternative method, the haircut for margin equity securities is equal to the lowest percentage of margin required for a margin equity security under the rules of a national securities exchange (currently, 25%). On any day when security futures transactions or related transactions<sup> 247 </sup> are effected in the account, however, a customer must satisfy a special margin requirement equal to the amount of any margin deficiency created or increased in the account if the margin equity securities were valued at their Regulation T collateral value ( i.e. , 50% of current market value). 
+
+The Final Rules provide further that, if this alternative method for valuing margin equity securities is used in an account in which security futures or related positions are carried and such account is transferred from one security futures intermediary to another, the account may be treated as if it had been maintained by the transferee security futures intermediary from the date of its origin if the transferee accepts, in good faith, a signed statement of the transferor security futures intermediary (or, if that is not practicable, of the customer), that any margin call issued under the Final Rules has been satisfied.<sup> 248 </sup> This provision parallels Section 220.4(b)(7) of Regulation T, and is consistent with futures industry practices under Section 4d of the CEA.<sup> 249 </sup> It is intended to prevent one security futures intermediary from transferring an undermargined account to another security futures intermediary.<h>e. Other Securities </h>
+
+The Final Rules impose a haircut on exempt securities and nonequity securities deposited as margin for security futures carried in a futures account equal to the haircut established under the SEC's net capital rule.<sup> 250 </sup> This provision is intended to codify the haircut currently imposed on Treasury securities and other debt securities deposited as collateral for futures and options on futures under the rules of the designated contract markets. Exempt securities and nonequity securities deposited as collateral for security futures in a securities account will remain subject to the higher margin requirements applicable to such securities under Regulation T and self-regulatory authority rules.<h>f. Foreign Currency </h>
+
+The Final Rules provide that freely convertible foreign currency may be valued at an amount no greater than its daily marked-to-market U.S. dollar equivalent for purposes of determining whether the required margin for security futures carried in a securities or futures account is satisfied.<sup> 251 </sup> This provision reflects the maximum value assigned to foreign currencies under Regulation T.<sup> 252 </sup><h>g. Other Components of Equity </h>
+
+The Final Rules provide that each other acceptable margin deposit or component of equity in a securities or futures account shall be valued at an amount no greater than its value in a Regulation T securities margin account.<sup> 253 </sup> This provision is intended to provide that any additional forms of collateral permitted under Regulation T in the future or other items in an account are valued under the Final Rules in accordance with Regulation T.<h>h. Guarantees </h>
+
+The Final Rules provide that no guarantee of a customer's account shall be given any effect for purposes of determining whether the required margin in an account is satisfied, except as permitted under the margin rules applicable to the account.<sup> 254 </sup> This provision is consistent with both the requirements currently applicable to securities accounts under Regulation T<sup> 255 </sup> and the requirements currently applicable to futures accounts under CFTC Rule 1.10.<sup> 256 </sup> Thus, the account-specific practices related to guarantees that are currently followed in securities accounts and futures accounts, respectively, would remain effective under this provision.<h>3. Satisfaction of the Required Margin for Positions Other than Security Futures </h>
+
+Because the scope of the Final Rules is limited to security futures and related positions, the rules require additional margin to be deposited in an account only when the required margin for security futures is not satisfied by the equity in the account. The required margin for all other positions carried in an account, and acceptable collateral for such positions, shall be determined in accordance with the margin rules applicable to the account. 
+
+The Final Rules do not prohibit security futures intermediaries from accepting different collateral or assigning greater collateral value to assets deposited as collateral with respect to other positions carried in an account, if permitted under applicable self-regulatory authority rules. For example, security futures intermediaries may use letters of credit to satisfy the required margin for commodity futures and commodity options (other than security futures) in a futures account, even if a security future is carried in the account, as long as the collateral or other equity allocated to the security future is sufficient to satisfy the requirement established under the Final Rules. Likewise, security futures intermediaries may value margin equity securities deposited to satisfy the required margin for commodity futures or commodity options (other than security futures) according to the rules of the applicable board of trade.
+
+Moreover, security futures intermediaries may allocate collateral or other components of equity among security futures and such other positions as they consider appropriate. For example, a security futures intermediary may elect to allocate cash, open trade equity, option value, and nonequity securities to satisfy the required margin for security futures and related positions in a futures account, and allocate margin equity securities to satisfy the required margin for commodity futures and commodity options (other than security futures). This allocation would allow the security futures intermediary to value the margin equity securities as permitted by the applicable margin rules, rather than at the security's Regulation T collateral value, provided that the security futures in the account are adequately margined by the other collateral in the account.
+
+To prevent assets used to satisfy the required margin for security futures from being counted twice for margin purposes, the Final Rules provide that transactions, positions or deposits used to satisfy the required margin for security futures or related positions shall be unavailable to satisfy the required margin for any other position or transaction or any other requirement.<sup> 257 </sup> In particular, a related position used to reduce the required margin for a security future may not be used in a strategy-based offset with another item in the account. This provision is consistent with the satisfaction restriction in Section 220.4(c)(4) of Regulation T.<sup> 258 </sup> For example:
+
+ 
+
+A deposit of $1000 in margin equity securities used to satisfy the required margin for a $500 margin call on a security future cannot also be used to satisfy a $350 margin call on a broad-based index future in a futures account, even if, under the margin rules applicable to the account, equity securities used as collateral for the broad-based index future may be valued at 85% of current market value ( i.e. $850).
+
+A 100-share XYZ put option contract in a securities account may not be used to cover both a 100-share long XYZ security future contract as well as 100 shares of XYZ common stock. 
+
+ 
+
+The collateral used to satisfy the margin requirement with respect to a security future may of course be used to satisfy the margin requirement with respect to the same position under self-regulatory authority rules.<h>I. When Margin May Be Withdrawn </h>
+
+The Final Rules include provisions that specify when margin may be withdrawn from an account that contains security futures. Under the Proposed Rules, these provisions would have been incorporated into the Commissions' margin requirements through the application of Regulation T. Because the Final Rules do not expressly apply Regulation T, the Commissions have identified the circumstances in which a customer or a security futures intermediary may withdraw cash, securities or other collateral deposited as margin for security futures and related positions.<sup> 259 </sup><h>1. Withdrawal of Margin by the Customer </h>
+
+The Final Rules provide that a customer may withdraw cash, securities, or other assets deposited as margin for security futures or related positions, provided that the equity in the account after such withdrawal is sufficient to satisfy the required margin for the security futures and related positions in the account under the Final Rules.<sup> 260 </sup>
+
+Customers that use the alternative collateral valuation method for equity securities, pursuant to CFTC Rule 41.46(e) and SEC Rule 404(e), are subject to an additional restriction on withdrawals that parallels the withdrawal restrictions of Regulation T.<sup> 261 </sup> Specifically, cash, securities or other assets may not be withdrawn with respect to an account that uses the alternative method if:
+
+(i) additional cash, securities, or other assets are required to be deposited as margin for a transaction in the account on the same or a previous day pursuant to a special margin requirement; or 
+
+(ii) the withdrawal, together with other transactions, deposits, and withdrawals on the same day, would create or increase a margin deficiency if the margin equity securities were valued at their Regulation T collateral value.<sup> 262 </sup> 
+
+This restriction is intended to prevent a customer from withdrawing margin deposited to satisfy a special margin requirement unless the customer's equity exceeds the required margin in the account or the customer substitutes securities of equivalent value.<h>2. Withdrawal of Margin by the Security Futures Intermediary </h>
+
+The Final Rules provide that a security futures intermediary may deduct certain payments and charges from a customer account to meet the customer's obligations to the security futures intermediary and third parties.<sup> 263 </sup> Specifically, without regard to the other provisions of the rule, the security futures intermediary may deduct the following items from an account:
+
+(i) Variation settlement payable, directly or indirectly,<sup> 264 </sup> to a clearing agency or derivatives clearing organization to settle the customer's obligations under a security futures contract or other contracts cleared through the clearing agency or derivatives clearing organization;
+
+(ii) Interest charged on credit maintained in the account;
+
+(iii) Communication or shipping charges with respect to transactions in the account;
+
+(iv) Payment of commissions, brokerage, taxes, storage and other charges lawfully accruing in connection with the positions and transactions in the account; and
+
+(v) Any service charges that the security futures intermediary may impose.
+
+These items reflect the permissible withdrawals from a securities account and a futures account under Regulation T<sup> 265 </sup> and Section 4d of the CEA,<sup> 266 </sup> respectively. The Final Rules also permit a security futures intermediary to deduct any other items that may be deducted under Regulation T ( e.g. , premiums on securities borrowed, dividends, interest, or other distributions due on borrowed securities), to the extent permitted under applicable margin rules. 
+
+ J. Consequences of Failure to Collect Required Margin 
+
+The Commissions proposed that the amount of initial or maintenance margin required would be obtained as promptly as possible and in any event within three business days or within such shorter time period as may be imposed by applicable regulatory authority rules.<sup> 267 </sup> The Commissions also proposed that the time limits for collection of initial margin could be extended upon application by the creditor to its examining authority, as defined in Proposed CFTC Rule 41.44(a)(3) and Proposed SEC Rule 401(a)(3), to the extent permitted by applicable regulatory authority rules.<sup> 268 </sup> Failure to collect additional margin within the established period would have required the creditor to liquidate the account, as required by Regulation T.<sup> 269 </sup> 
+
+The Commissions received six comments on the issue of timing for collection of margin.<sup> 270 </sup> One commenter supported the proposed time limit for collection of margin, stating that a time limit of three business days or shorter, with the opportunity for extensions upon application, would be a reasonable time frame for initial and maintenance margin calls.<sup> 271 </sup>
+
+One commenter disagreed with the proposed time limits and recommended that the Commissions adopt the time limits provided in Regulation T, which requires the collection of margin within five business days after the position is established (T+5), and the collection of maintenance margin as promptly as possible and in any event within fifteen business days.<sup> 272 </sup> Another commenter supported a T+1 margin settlement cycle and a T+5 collection period.<sup> 273 </sup> The same commenter observed that "[g]iven that the initial margin collection period for securities and listed securities options is T+5, and that, as a result of required capital charges, futures have an effective collection period of T+5, the Associations' members feel strongly that a T+5 collection period should also apply to security futures."<sup> 274 </sup>
+
+Two other commenters urged the Commissions to recognize the existing time limits in both the securities and futures industries.<sup> 275 </sup> Specifically, these commenters believed that although the provisions governing the time of collection in Regulation T are different from those set forth by the CFTC and the futures exchange rules, the outcome is substantially similar.
+
+Finally, another commenter recommended that the period for collecting initial and maintenance margin be extended to four days (T+4) in order to be consistent with existing requirements in the futures and securities industries.<sup> 276 </sup> That commenter also expressed concern regarding the procedures that must be followed if margin is not received in the time prescribed, noting that the Proposed Rules would require liquidation of positions in accordance with Regulation T. The commenter believed that requiring a firm to liquidate positions if a margin call is not met, or providing that the time period for collection could be extended by the firm's examining authority, could create significant burdens for both an FCM and its examining authority because these are not the current practices in the futures industry.
+
+The Commissions have considered the commenters views and have decided not to adopt uniform time periods for collection of margin. The Commissions have determined that deference to account-specific rules in this instance will avoid operational costs that would be incurred in modifying existing practices, and will not provide an incentive for customers to select one type of account (securities or futures) over another. 
+
+In addition, the Commissions have decided not to require immediate liquidation of the positions in a customer account if the customer fails to deposit additional required margin within a prescribed number of days. The Commissions believe that, in general, a security futures intermediary should be adequately protected against potential adverse movements in customers' positions if it takes a capital charge for the amount by which the customer's account is undermargined. Accordingly, the Final Rules provide that if any margin call required by this Regulation is not met in full, the security futures intermediary shall take the deduction required under CFTC or SEC rules,<sup> 277 </sup> as applicable, in computing its net capital.<sup> 278 </sup> 
+
+The Commissions have decided, however, to require that a security futures intermediary liquidate positions in an account if the account would liquidate to a deficit.<sup> 279 </sup> To provide firms with the flexibility to control liquidation of positions during adverse market conditions, the Final Rules provide that firms shall liquidate such positions promptly and in an orderly manner. This is consistent with futures industry practices in which FCMs, pursuant to customer agreements, exercise discretion in making liquidation decisions. In this regard, the Commissions believe that it is prudent business practice for security futures intermediaries to take steps to liquidate customer accounts well before they are in a deficit condition. The uniform liquidation requirement adopted under the Final Rules differs from the liquidation requirements imposed under Regulation T and securities SRO rules with respect to undermargined accounts.<sup> 280 </sup> The Final Rules clarify that this Regulation T liquidation requirement does not apply to security futures held in a securities account.<sup> 281 </sup> 
+
+ K. CFTC Procedures for Notification of Proposed Rule Changes Related to Margin 
+
+In general, a designated contract market, including a "notice-designated" contract market,<sup> 282 </sup> or registered derivatives transaction execution facility ("DTF") that proposes to make a rule change regarding its security futures margin requirements (other than proposed rule changes that result in higher margin levels) must submit the proposed rule change to the SEC for approval in accordance with Section 19(b) of the Exchange Act.<sup> 283 </sup> In addition, contract markets designated pursuant to Section 5 of the CEA and registered DTFs are also required under Section 5c(c) of the CEA to make certain filings with the CFTC regarding rule changes, including those for security futures products.<sup> 284 </sup> Because ATSs are not SROs under the Exchange Act, notice-designated contract markets that are ATSs are not required to submit proposed rule changes to the SEC for approval in accordance with Section 19(b) of the Exchange Act. 
+
+Section 5c(c) of the CEA provides for two alternative procedures by which such a designated contract market or registered DTF may implement a proposed rule change.<sup> 285 </sup> First, in accordance with Section 5c(c)(1) of the CEA, a proposed rule change may be implemented by providing the CFTC with a written certification that the proposed rule change complies with the CEA.<sup> 286 </sup> Second, Section 5c(c)(2) of the CEA provides that, before the implementation of a proposed rule change, an entity may request that the CFTC grant prior approval of the rule change.<sup> 287 </sup>
+
+Proposed CFTC Rule 41.48(a) required any notice-designated contract market that files a proposed rule change regarding customer margin for security futures with the SEC for approval in accordance with Section 19(b)(2) of the Exchange Act<sup> 288 </sup> to concurrently provide to the CFTC a copy of such a proposed rule change and any accompanying documentation filed with the SEC.<sup> 289 </sup> Such notice-designated contract market was not required to provide any supplemental information, even if such information were subsequently provided to the SEC in the course of the SEC's review of the proposed rule change. The purpose of this Proposed Rule was to provide the CFTC, as a joint regulator of markets offering security futures products, with timely notification of a proposed rule change.
+
+Proposed CFTC Rule 41.48(b) established the notification process for contract markets designated pursuant to Section 5 of the CEA<sup> 290 </sup> and registered DTFs. The process by which such an entity would notify the CFTC of having filed a proposed rule change with the SEC would depend on which procedure under Section 5c(c) of the CEA<sup> 291 </sup> the entity elected to follow.
+
+Proposed CFTC Rule 41.48(b)(1) applied to any designated contract market registered under section 5 of the CEA or registered DTF that elects to seek the prior approval of the CFTC for a proposed rule change, in accordance with Section 5c(c)(2) of the CEA.<sup> 292 </sup> In such case, the contract market or DTF would file its requests with the SEC and CFTC concurrently.
+
+Under Proposed CFTC Rule 41.48(b)(2), an entity that elects to implement a proposed rule change by filing a written certification with the CFTC in accordance with Section 5c(c)(1) of the CEA<sup> 293 </sup> would be required to provide a copy of the proposed rule change and any accompanying documentation that was filed with the SEC, concurrent with the SEC filing. Promptly after the SEC approves the proposed rule change, the designated contract market or registered DTF would file the written certification with the CFTC.
+
+The CFTC requested comments on an alternative procedure under which an entity would file its written certification with the CFTC at the same time as it files the proposed rule change with the SEC, rather than after the SEC approves the proposed rule change. 
+
+The CFTC did not receive any comments relating to this issue, and it is therefore adopting the notification provisions as proposed, in all material respects.<h>III. PAPERWORK REDUCTION ACTA. CFTC </h><h>A. CFTC </h>
+
+The Paperwork Reduction Act of 1995 ("PRA")<sup> 294 </sup> imposes certain requirements on federal agencies (including the CFTC and the SEC) in connection with their conducting or sponsoring any collection of information as defined by the PRA. The Final Rules that have been adopted do not require a new collection of information on the part of any entities subject to these rules. Accordingly, the requirements imposed by the PRA are not applicable to these rules.<h>B. SEC </h>
+
+The Paperwork Reduction Act does not apply because the rules do not impose recordkeeping or information collection requirements, or other collections of information that require the approval of the Office of Management and Budget under 44 U.S.C. 3501, et. seq.<h>IV. COSTS AND BENEFITS OF THE FINAL RULESA. CFTC </h><h>A. CFTC </h>
+
+Section 15(a) of the CEA<sup> 295 </sup> requires that the CFTC, before promulgating a regulation under the CEA or issuing an order, consider the costs and benefits of its action. By its terms, Section 15(a) does not require the CFTC to quantify the costs and benefits of a new rule or determine whether the benefits of the rule outweigh its costs. Rather, Section 15(a) simply requires the CFTC to "consider the costs and benefits" of its action.
+
+Section 15(a) further specifies that costs and benefits shall be evaluated in light of the following considerations: (1) protection of market participants and the public; (2) efficiency, competitiveness, and financial integrity of futures markets; (3) price discovery; (4) sound risk management practices; and (5) other public interest considerations. Accordingly, the CFTC could, in its discretion, give greater weight to any one of the five considerations and could, in its discretion, determine that, notwithstanding its costs, a particular rule was necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the CEA.
+
+This rulemaking constitutes a package of related rule provisions. The Final Rules establish the amount of initial and maintenance customer margin for transactions in security futures. The CFTC believes that the customer margin requirements for security futures are, in accordance with the CFMA, consistent with the margin requirements for comparable option contracts traded on any exchange registered pursuant to Section 6(a) of the Exchange Act.<sup> 296 </sup> The CFTC has evaluated the costs and benefits of these rules in light of the specific considerations identified in Section 15(a) of the CEA:
+
+1. Protection of market participants and the public. In general, the Final Rules should further the protection of market participants and the public.
+
+2. Efficiency and competition. As noted above, the margin requirements are consistent with the margin requirements for comparable option contracts traded on any exchange registered pursuant to Section 6(a) of the Exchange Act, as required under the CFMA. To the extent that the Final Rules permit FCMs and futures exchanges to maintain existing operational and business practices, the Final Rules enable market participants to minimize operational costs associated with the introduction of security futures, and preserve meaningful customer choice as to the type of account (securities or futures) in which the customer may elect to carry security futures. In certain respects, the Final Rules promote a level playing field between options exchanges and security futures exchanges, and between broker-dealers/securities accounts and FCMs/futures accounts. Accordingly, the Final Rules are not expected to have a negative impact on competition.
+
+3. Financial integrity of futures markets and price discovery. The Final Rules should have a positive effect on the financial integrity of security futures markets by protecting against systemic risk.
+
+4. Sound risk management practices. The Final Rules are consistent with sound risk management practices.
+
+5. Other public considerations. The Final Rules are expected to preserve the financial integrity of markets trading security futures and prevent systemic risk, thereby benefiting the public. The CFTC believes that the Final Rules give rise to an acceptable level of cost in light of the expected benefits of the rules.
+
+After evaluating these considerations, the CFTC has determined to adopt the Final Rules discussed above. The CFTC invited public comment on its cost-benefit analysis, but did not receive any comments in response to this invitation. Moreover, insofar as the comments received raise any matters that might be deemed to relate to the cost-benefit analysis, the CFTC has addressed such comments in the foregoing discussion and through modifications to the Proposed Rules.<h>B. SEC </h>
+
+Section 7 of the Exchange Act, which governs the amount of credit that may be initially extended and subsequently maintained on any security (other than an exempted security), was amended by the CFMA to add provisions related to margin for security futures. On March 6, 2001, the Federal Reserve Board delegated its authority under Section 7(c)(2) of the Exchange Act to establish margin requirements for security futures to the SEC and CFTC. The Final Rules establish such margin requirements. 
+
+Specifically, the CFMA amended Section 7(c) of the Exchange Act to require that the rules preserve the financial integrity of markets trading security futures products, prevent systemic risk, and to require that: (1) the margin requirements for a security future be consistent with the margin requirements for comparable option contracts traded on any exchange registered pursuant to Section 6(a) of the Exchange Act;<sup> 297 </sup> and (2) the initial and maintenance margin levels for a security future not be lower than the lowest level of margin, exclusive of premium, required for any comparable option contract traded on any exchange registered pursuant to Section 6(a) of the Exchange Act, other than an option on a security future, and to ensure that the margin requirements (other than levels of margin), including the type, form, and use of collateral for security futures, are and remain consistent with the requirements established by the Federal Reserve Board under Regulation T.
+
+The SEC provided an estimate of the costs and benefits of the Proposed Rules, and requested comments on all aspects of its estimate, including identification of any additional costs or benefits of the proposed rules. The SEC encouraged commenters to identify and supply any relevant data, analysis and estimates concerning the costs and benefits of the proposed rules. Several commenters expressed the view that certain aspects of the Proposed Rules would impose costs. However, none of the commenters provided specific data regarding the overall costs and benefits of the Proposed Rules.
+
+The SEC has considered the costs and benefits of the Final Rules. We are sensitive to the costs and benefits that might arise from compliance with our rules and amendments. In response to commenters' concerns about the potential costs related to the application of Regulation T to all transactions in security futures, the Commissions are adopting stand alone margin rules for security futures that apply only certain requirements of Regulation T that are necessary to satisfy the statutory requirement that the margin requirements for security futures be and remain consistent with Regulation T. The SEC understands that some aspects of the Final Rules may impose costs on some persons or entities. However, the Final Rules are being adopted pursuant to statutory directive and are necessary to permit trading in security futures. In addition, the SEC notes that the Final Rules will apply only to those broker-dealers and FCMs that choose to do a business in security futures.<h>1. Costs </h>
+
+The Final Rules will impose administrative costs on security futures intermediaries. Further, security futures intermediaries are responsible for complying with the Final Rules and thus will incur various costs. The SEC has identified below areas where the Final Rules may impose costs.<h>a. Compliance with Regulation T </h>
+
+The Proposed Rules would have applied Regulation T to financial relations between brokers, dealers, and members of national securities exchanges and their customers with respect to transactions in security futures and any related securities or futures contracts that are used to offset positions in such security futures. Accordingly, under the Proposed Rules, Regulation T would have applied to all transactions in security futures, whether they were effected in a securities account or a futures account. Several commenters expressed concern that applying Regulation T to security futures in futures accounts would result in substantial costs to FCMs resulting from the need to reprogram their margin systems to comply with Regulation T.
+
+As noted above, the Final Rules do not apply Regulation T to all security futures transactions. Instead, as noted above, the Final Rules incorporate certain requirements of Regulation T as necessary to satisfy the requirement under Section 7(c)(2) of the Exchange Act that the Final Rules be and remain consistent with Regulation T. The SEC believes that this aspect of the Final Rules should only impose minimal administrative costs on security futures intermediaries. For broker-dealers and members of national securities exchanges that trade security futures, there should be little or no cost imposed by this aspect of the Final Rules because they already are subject to Regulation T for other securities transactions. For FCMs, there will be some administrative costs associated with this aspect of the final rules to program their systems to comply with the specific provisions of Regulation T that are included in the Final Rules.<h>b. Levels of Margin </h>
+
+SEC Rule 403(b)(1) sets the level of margin at 20 percent of current market value, which is the same level that would have been set under the Proposed Rules. The 20 percent level is necessary to fulfill the requirement under Section 7(c)(2)(B)(iii) that the margin requirements for security futures be consistent with the margin requirements for comparable exchange-traded options.<sup> 298 </sup> 
+
+When the Proposed Rules were issued for comment, the SEC noted that the 20 percent margin level could appear to be high when compared to margining methodologies currently used for futures other than security futures. As a result, a potential cost of the margin levels is that they may lead to reduced interest in trading security futures and, therefore, foregone hedging opportunities.
+
+However, while margin requirements on futures other than security futures generally range from 2-10 percent,<sup> 299 </sup> SEC staff estimated that applying traditional futures risk-based margining methods to security futures would require margin of greater than 10 percent.<sup> 300 </sup> In addition, however, SEC staff estimated that the proposed margin levels would reduce the chances that a margin account would not contain sufficient funds to cover a given day's price movement from approximately 5 percent using traditional risk-based futures margining to 0.3 percent. Further, economic research has thus far not been able to establish a strong relationship between futures margin levels and interest in the product.<sup> 301 </sup> Therefore, while the margin levels under the Final Rules may impose a cost, the SEC believes that the margin levels should lower chances of customer default and therefore lower systemic risk to the markets. For these reasons, and the statutory mandate that requires comparability between security futures margin and options margin, the SEC believes that the margin levels adopted in the Final Rules are appropriate.<h>c. Computation of Margin </h>
+
+The Final Rules require security futures intermediaries to compute and collect, on a daily basis, required margin for each customer's security future carried or held by such entity. This requirement is designed to assure contract performance and the integrity of the marketplace. In addition, all security futures intermediaries will pay or receive daily variation settlement ( i.e. , the daily net gain or loss on a security future) as a result of all open futures positions being marked to current market value by the clearing organization. 
+
+The SEC believes that the daily required computation of the initial and maintenance margin requirements and the collection and disbursement of daily settlement variation for security futures by security futures intermediaries will require these entities to program or reprogram their computer systems to implement the margin computations and the settlement variation procedures for security futures. These entities may also incur additional data storage costs and resource costs associated with these calculations.<h>d. Undermargined Accounts </h>
+
+SEC Rule 406(a) requires a security futures intermediary to take a deduction in computing its net capital to the extent that any margin call required by the Final Rules is not met in full. In addition, SEC Rule 406(b) requires that a security futures intermediary liquidate positions in a prompt and orderly manner in any account in which security futures are held at any time there is a liquidating deficit in the account. The SEC believes that these aspects of the Final Rules may impose costs on security futures intermediaries by requiring them to evaluate information to determine for each customer's account involving security futures when margin calls required under the Final Rules have not been met. Security futures intermediaries may also incur costs in the form of capital charges with respect to customers that do not meet margin calls. In addition, security futures intermediaries that have customer accounts that fall into a liquidating deficit may incur costs in complying with the mandatory liquidation provisions of the Final Rules.<h>2. Benefits </h>
+
+The benefits of the Final Rules are related to the benefits that will accrue as a result of the enactment of the CFMA. By repealing the ban on futures on single securities and futures on narrow-based security indexes, the CFMA will enable a greater variety of financial products to be traded that potentially could facilitate price discovery and the ability to hedge. Investors will benefit by having a wider choice of financial products to buy and sell, and markets and market participants will benefit by having the ability to trade these products. These rules are a prerequisite to the commencement of trading in the new products, and therefore they are also a prerequisite to any benefits that may derive from the availability of these products.<h>a. Benefits to Security Futures Intermediaries </h>
+
+SEC Rule 403(b)(1) provides that the minimum initial and maintenance margin levels for each security future would be 20 percent of the current market value of such contract. Moreover, SEC Rule 404(b) provides that a security futures intermediary may accept as collateral cash, margin securities, exempted securities, or other collateral permitted under Regulation T, as well as shares in money market mutual funds, to satisfy a margin deficiency. The SEC believes that these aspects of the Final Rules will provide sound protection from customer default by reducing chances of depletion of margin accounts. Accordingly, the Final Rules should reduce systemic risk associated with the trading of these new products.<h>b. Benefits to Customers </h>
+
+SEC Rule 403(b)(2) provides that customers be permitted to offset positions involving security futures with certain related securities or futures. Such offsets would be proposed by regulatory authority rules that would be approved by the SEC pursuant to Section 19(b)(2) of the Exchange Act and, as applicable, by the CFTC pursuant to Section 5c(c) of the CEA if such offsets were consistent with the requirements of Section 7(c)(2)(B) of the Exchange Act, including the requirement that margin requirements for security futures be no less restrictive than those imposed on options. These offsets will provide benefits to customers because they will recognize the hedged nature of certain specified combined strategies and will permit lower margin requirements that better reflect the true risk of those strategies.<h>V. CONSIDERATION OF BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY AND CAPITAL FORMATION </h>
+
+Section 3(f) of the Exchange requires the SEC, when it is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action would promote efficiency, competition, and capital formation.<sup> 302 </sup> Section 23(a)(2) requires the SEC, in adopting rules under the Exchange Act, to consider the impact any rule would have on competition.<sup> 303 </sup> Section 23(a)(2) further provides that the SEC may not adopt a rule not necessary or appropriate in furtherance of the purposes of the Exchange Act. In the proposing release, the SEC requested comments on these statutory considerations. The SEC received no comments on the issue of competition, efficiency, or capital formation. 
+
+The SEC believes that the rules should promote efficiency by setting forth clear guidelines for security futures intermediaries when collecting customer margin related to security futures. Further, the SEC believes that the rules will provide sound protection from customer default by reducing the chances of depletion of margin accounts, thereby reducing systemic risk associated with the trading of these new products.
+
+The SEC also believes that the rules would not impose any significant burden on competition. The Final Rules provide that security futures generally will be governed by the existing margin rules applicable to securities accounts and to futures accounts, which are not identical in all cases. However, the Final Rules also include uniform provisions, applicable to security futures regardless of the type of account in which they are held, which are designed to prevent competitive advantages from arising simply because security futures are held in one type of account rather than the other. The rules serve only to set forth margin requirements for security futures. In addition, the Final Rules satisfy Section 7(c)(2)(B)(iii) of the Exchange Act, which, among other things, requires that the margin rules for security futures be consistent with those for comparable exchange-traded options. Accordingly, the Final Rules are designed to prevent competitive advantages from arising solely out of differences between the margin requirements for security futures and those for exchange-traded options. Lastly, the SEC believes that the rules will not have any impact on capital formation because the rules, as adopted, merely establish requirements governing the collection of customer margin. The SEC reiterates that the margin requirements would protect security futures intermediaries from customers' default, thus encouraging participation by these market participants in the trading of futures on both single securities and narrow-based security indexes. Therefore, the SEC believes that there could be an increased demand for the underlying securities, resulting in increased capital formation.<h>VI. REGULATORY FLEXIBILITY ACTA. CFTC </h><h>A. CFTC </h>
+
+The Regulatory Flexibility Act ("RFA")<sup> 304 </sup> requires that federal agencies, in promulgating rules, consider the impact of those rules on small entities. The Final Rules will affect designated contract markets, registered DTFs, and FCMs. The CFTC has previously established certain definitions of "small entities" to be used by the CFTC in evaluating the impact of its rules on small entities in accordance with the RFA.<sup> 305 </sup>
+
+In its previous determinations, the CFTC has concluded that contract markets are not small entities for purposes of the RFA, based on the vital role contract markets play in the national economy and the significant amount of resources required to operate as SROs.<sup> 306 </sup> Recently, the CFTC determined that notice-designated contract markets are not small entities for purposes of the RFA.<sup> 307 </sup> In addition, the CFTC has determined that other trading facilities subject to its jurisdiction, including registered DTFs, are not small entities for purposes of the RFA.<sup> 308 </sup>
+
+In the Proposing Release, it was observed that the CFTC has previously determined that FCMs are not small entities for purposes of the RFA, based on the fiduciary nature of FCM-customer relationships as well as the requirements that FCMs meet certain minimum financial requirements.<sup> 309 </sup> The CFTC proposed to determine that notice-registered FCMs,<sup> 310 </sup> for the reasons applicable to FCMs registered in accordance with Section 4f(a)(1) of the CEA,<sup> 311 </sup> are not small entities for purposes of the RFA. Brokers or dealers that carry customer accounts and receive or hold funds for those customers, and are notice-registered as FCMs for the purpose of trading security futures, similarly have a fiduciary relationship with their customers and must meet analogous minimum financial requirements.<sup> 312 </sup>
+
+The CFTC invited the public to comment on its proposed determination that notice-registered FCMs would not be small entities for purposes of the RFA. The CFTC also invited comments on its finding that there would not be a significant economic impact on a substantial number of small entities. The CFTC notes that no comments were received regarding either of these issues. Additionally, the CFTC notes that Congress mandated that customer margin for security futures be consistent with the margin requirements for comparable option contracts traded on any exchange registered pursuant to Section 6(a) of the Exchange Act.<sup> 313 </sup> In adopting the Final Rules, the Commissions have striven to fulfill this requirement in the least burdensome way possible. The CFTC hereby determines that notice-registered FCMs are not small entities for purposes of the RFA. Further, the CFTC believes that the Final Rules will not have a significant economic impact on a substantial number of small entities.<h>B. SEC </h>
+
+Pursuant to Section 605(b) of the Regulatory Flexibility Act ("RFA"),<sup> 314 </sup> the SEC certified that the adopted rule would not have a significant economic impact on a substantial number of small entities. This certification was attached to the Proposing Release No. 34-50720 (October 4, 2001) as Appendix A.<sup> 315 </sup> The SEC solicited comments concerning the impact on small entities and the RFA certification, but received no comments.<h>VII. STATUTORY BASIS </h>
+
+<END MAIN TEXT>
+
+1 Appendix E of Pub. L. No. 106-554, 114 Stat. 2763 (2000).
+
+2 15 U.S.C. 78g(c)(2).
+
+3 Letter from Jennifer J. Johnson, Secretary of the Board, Federal Reserve Board, to James E. Newsome, Acting Chairman, CFTC, and Laura S. Unger, Acting Chairman, SEC (March 6, 2001) ("FRB Letter").
+
+4 Because Section 6(h)(6) of the Exchange Act (15 U.S.C. 78f(h)(6)) provides that options on security futures may not be traded for at least three years after the enactment of the CFMA, the margin requirements do not address options on security futures.
+
+5 12 CFR 220 et seq .
+
+6 Securities Exchange Act Release No. 44853 (September 26, 2001), 66 FR 50720 (October 4, 2001). The FRB Letter was attached as Appendix B. See id. at 50741.
+
+7 See Securities Exchange Act Release No. 44996 (October 29, 2001), 66 FR 55608 (November 2, 2001).
+
+8 See letters from Mark E. Lackritz, President, SIA, and John M. Damgard, President, FIA, dated December 5, 2001 ("SIA/FIA Letter"); George Ruth, Chairman, Rules and Regulations Committee, Securities Industry Association Credit Division, dated December 4, 2001 ("SIA Credit Division Letter"); Thomas W. Sexton, Vice President and General Counsel, National Futures Association, dated December 5, 2001 ("NFA Letter"); and John G. Gaine, President, Managed Funds Association, dated January 11, 2002 ("Managed Funds Letter").
+
+9 See letters from James J. McNulty, Chicago Mercantile Exchange Inc., and David J. Vitale, Board of Trade of the City of Chicago, Inc., dated December 4, 2001 ("CME/CBOT Letter"); the American Stock Exchange, Chicago Board Options Exchange, The Options Clearing Corporation, International Securities Exchange, Pacific Exchange, and Philadelphia Stock Exchange, dated December 5, 2001 ("Options Exchanges Letter"); Kathleen M. Hamm, Director of Market Regulation, Senior Vice President Regulation and Compliance, Nasdaq Liffe Markets, LLC, dated December 5, 2001 ("Nasdaq Liffe Letter"); Kenneth M. Rosenzweig, on behalf of OneChicago, LLC, dated December 6, 2001 ("OneChicago Letter"); Michael J. Ryan, Jr., Executive Vice President and General Counsel, American Stock Exchange, dated December 7, 2001 ("Amex Letter"); and William J. Brodsky, Chairman and Chief Executive Officer, Chicago Board Options Exchange, dated December 7, 2001 ("CBOE Letter"). The CBOE also joined in the Options Exchanges Letter.
+
+10 See letter from Susan Milligan, The Options Clearing Corporation, dated December 14, 2001 ("OCC Letter"). The OCC also joined in the Options Exchanges Letter.
+
+11 See letters from John P. Davidson III, Managing Director, Morgan Stanley, dated December 5, 2001 ("Morgan Stanley Letter"); James A. Gary, Executive Vice President, ABN AMRO Incorporated, dated December 5, 2001 ("ABN AMRO Letter"); and Russell R. Wasendorf, Sr., Chairman and Chief Executive Officer, Peregrine Financial Group, Inc., dated December 5, 2001 ("Peregrine Letter").
+
+12 See letters from John Munro, Senior Vice President, Product Design, Rolfe and Nolan Systems Inc ("Rolfe and Nolan Letter"); and Stephen P. Auerbach, Chief Operating Officer, SunGard Futures Systems, dated December 5, 2001 ("SunGard Letter").
+
+13 See letter from Frank Partnoy, Professor of Law, University of San Diego School of Law, dated October 29, 2001 ("Partnoy Letter").
+
+14 See letter from Robert Drinkard, dated September 28, 2001 ("Drinkard Letter"); and letter from Bernard E. Klein, dated December 18, 2001 ("Klein Letter").
+
+15 See Securities Exchange Act Release No. 44854 (September 26, 2001), 66 FR 50768 (October 4, 2001).
+
+16 See Securities Exchange Act Release No. 45630 (March 22, 2002), 67 FR 15263 (March 29, 2002) (notice of rules proposed by the CBOE related to customer portfolio and cross-margining requirements).
+
+17 Under Section 220.2 of Regulation T (17 CFR 220.2), the term "creditor" means any broker or dealer, member of a national securities exchange, or any person associated with a broker or dealer other than business entities controlling or under common control with the broker-dealer.
+
+18 See Sections 3(a)(4) and 3(a)(5) of the Exchange Act, 15 U.S.C. 78c(a)(4) and 78c(a)(5).
+
+19 For the same reason, the Final Rules do not use the term "borrower" to refer to persons who deposit margin in connection with security futures transactions.
+
+20 See CFTC Rule 41.43(a)(29); SEC Rule 401(a)(29).
+
+21 See CFTC Rule 41.43(a)(5)(i); SEC Rule 401(a)(5)(i).
+
+22 See CFTC Rule 41.43(a)(5)(ii) and (iii); SEC Rule 401(a)(5)(ii) and (iii).
+
+23 See 12 CFR 220.2.
+
+24 See Proposed CFTC Rule 41.43(b)(3)(i); Proposed SEC Rule 400(b)(3)(i).
+
+25 See CFTC Rule 41.42(c)(2)(i); SEC Rule 400(c)(2)(i).
+
+26 See CFTC Rule 41.42(c)(2)(i); SEC Rule 400(c)(2)(i). Section 7(c)(2)(B) requires that the margin requirements for security futures (i) be consistent with the margin requirements for comparable exchange-traded security options (and that margin levels for security futures not be lower than the levels of margin required for comparable exchange-traded options), and (ii) be and remain consistent with Regulation T of the Federal Reserve Board. 15 U.S.C. 78g(c)(2)(B).
+
+27 Under the Final Rules, a portfolio margining system can be used to compute required initial or maintenance margin that results in margin levels that are equal to or higher than the margin levels required by the Final Rules. In this regard, for example, the minimum margin requirement for unhedged security futures positions must be 20%, and the system cannot recognize any offset for combination positions that is not permitted under self-regulatory authority rules, as provided in CFTC Rule 41.45(b)(2) and SEC Rule 403(b)(2). See discussion of margin offsets, Section II.G.3. below.
+
+28 See SIA Credit Division Letter; Options Exchanges Letter; CME/CBOT Letter; SunGard Letter; SIA/FIA Letter; OCC Letter; Peregrine Letter; Nasdaq Liffe Letter; NFA Letter; Morgan Stanley Letter; OneChicago Letter; ABN AMRO Letter; Rolfe and Nolan Letter; and Managed Funds Letter.
+
+29 See CME/CBOT Letter; SunGard Letter; SIA/FIA Letter; Peregrine Letter; Nasdaq Liffe Letter; NFA Letter; OneChicago Letter; ABN AMRO Letter; Rolfe and Nolan Letter; and Managed Funds Letter.
+
+30 See SIA/FIA Letter at 2; Morgan Stanley Letter at 3; OneChicago Letter at 7-8; NFA Letter at 4-5; and Nasdaq Liffe Letter at 4.
+
+31 CME/CBOT Letter at 5.
+
+32 SunGard Letter at 2.
+
+33 Id .
+
+34 Nasdaq Liffe Letter at 5-6.
+
+35 Id .
+
+36 Options Exchanges Letter at 4.
+
+37 SIA/FIA Letter at 11. This commenter also recommended that the Commissions permit FCMs to use the Standard Portfolio Analysis of Risk ("SPAN") system for establishing the initial and maintenance margin requirements for security futures maintained in a futures account as long as the resulting margin levels are consistent with the margin requirements for security futures held in a securities account. Id . at 12.
+
+38 See SIA Credit Division Letter at 2; Morgan Stanley Letter at 4.
+
+39 The CFTC also has approved SPAN margining for all options on futures contracts.
+
+40 See Securities Exchange Act Release No. 28928 (March 1, 1991), 56 FR 9995 (March 8, 1991); Securities Exchange Act Release No. 23167 (April 22, 1986), 51 FR 16127 (April 30, 1986).
+
+41 To date, the Commissions have approved cross-margining programs between The OCC and the following futures clearing organizations: The Intermarket Clearing Corporation (1988); Chicago Mercantile Exchange ("CME") (1989); Board of Trade Clearing Corporation ("BOTCC") (1991); Kansas City Board of Trade Clearing Corporation (1992); and Comex Clearing Association (1992). The Commissions also have approved cross-margining programs between the Government Securities Clearing Corporation and the following futures clearing organizations: the New York Clearing Corporation (1999); BOTCC (2001); and CME (2001).
+
+42 See supra note 16 and accompanying text.
+
+43 15 U.S.C. 78g(c)(2)(B)(iii).
+
+44 See CME/CBOT Letter at 5; SIA/FIA Letter at 12-13 and Appendix I, Q 15; OCC Letter.
+
+45 In its delegation letter, the Federal Reserve Board requested that "the Commissions provide an assessment of progress toward adopting more risk-sensitive, portfolio-based approaches to margining security futures products." The Federal Reserve Board further stated that "[t]he Board has encouraged the development of such approaches by, for example, amending its Regulation T so that portfolio margining systems approved by the [SEC] can be used in lieu of the strategy-based system embodied in the Board's regulation. The Board anticipates that the creation of security future products will provide another opportunity to develop more risk-sensitive, portfolio based approaches for all securities, including security options and security futures products." FRB Letter at 2.
+
+46 See Proposed CFTC Rule 41.43(b)(3)(ii); Proposed SEC Rule 400(b)(3)(ii).
+
+47 See 12 CFR 220.1(b)(3)(iv).
+
+48 See CFTC Rule 41.42(c)(2)(ii); SEC Rule 400(c)(2)(ii).
+
+49 Meeting between SEC and CFTC staff and representatives of SIA/FIA (February 6, 2000).
+
+50 This exclusion does not address the application of Section 6(h)(1) of the Exchange Act (15 U.S.C. 78f(h)(1)) to transactions in security futures that are traded on or subject to the rules of a foreign board of trade.
+
+51 See Proposed CFTC Rule 41.43(b)(3)(iii); Proposed SEC Rule 400(b)(3)(iii).
+
+52 See CFTC Rule 41.42(c)(2)(iii); SEC Rule 400(c)(2)(iii).
+
+53 15 U.S.C. 78s(b)(2).
+
+54 7 U.S.C. 7a-1; 7 U.S.C. 7a-2.
+
+55 See Proposed CFTC Rule 41.43(b)(3)(iv)(A); Proposed SEC Rule 400(b)(3)(iv)(A).
+
+56 The term "exempted borrower" is defined in Section 220.2 of Regulation T as a member of a national securities exchange or a registered broker or dealer, a substantial portion of whose business consists of transactions with persons other than brokers or dealers, and includes a borrower who: (1) maintains at least 1,000 active accounts on an annual basis for persons other than brokers, dealers, and persons associated with a broker or dealer; (2) earns at least $10 million in gross revenues on an annual basis from transactions with persons other than brokers, dealers, and persons associated with a broker or dealer; or (3) earns at least 10% of its gross revenues on an annual basis from transactions with persons other than brokers, dealers, and persons associated with a broker or dealer. 12 CFR 220.2. Section 7(c)(3)(A) of the Exchange Act (15 U.S.C. 78g(c)(3)(A)) provides an exception from federal margin regulation for members of national securities exchanges and registered broker-dealers, "a substantial portion of whose business consists of transactions with persons other than brokers or dealers."
+
+57 See Proposed CFTC Rule 41.45(e); Proposed SEC Rule 402(e).
+
+58 OneChicago Letter at 8-9.
+
+59 See CFTC Rule 41.42(c)(2)(iv); SEC Rule 400(c)(2)(iv).
+
+60 See CFTC Rule 41.43(a)(9); SEC Rule 401(a)(9).
+
+61 See CFTC Rule 41.42(c)(2)(v); SEC Rule 400(c)(2)(v).
+
+62 See CFTC Rule 41.43(a)(9)(ii); SEC Rule 401(a)(9)(ii).
+
+63 See CFTC Rule 41.43(a)(23); SEC Rule 401(a)(23).
+
+64 15 U.S.C. 78c(a)(18).
+
+65 See 17 CFR 155.1; Section 4f(c)(1)(i) of the CEA, 7 U.S.C. 6f(c)(1)(i).
+
+66 See 17 CFR 1.3(aa).
+
+67 See CFTC Rule 41.43(a)(9)(iii); SEC Rule 401(a)(9)(iii).
+
+68 See 12 CFR 220.3(j)(1).
+
+69 Meeting between SEC and CFTC staff and representatives of SIA/FIA (February 6, 2002).
+
+70 See 12 CFR 220.2.
+
+71 See CFTC Rule 41.43(a)(15); SEC Rule 401(a)(15).
+
+72 See CFTC Rule 41.44(f); SEC Rule 402(f).
+
+73 See Proposed CFTC Rule 41.43(b)(3)(iv)(B); Proposed SEC Rule 400(b)(3)(iv)(B).
+
+74 15 U.S.C. 78g(c)(3)(B).
+
+75 In its delegation letter, the Federal Reserve Board stated that "[i]n the current open-outcry environment, the Board believes that floor traders act as market makers and therefore would be exempt [under Section 7(c)(3) of the Exchange Act]." FRB Letter at 2.
+
+76 CBOE Letter.
+
+77 See Proposed CFTC Rule 41.43(b)(3)(iv)(C); Proposed SEC Rule 400(b)(3)(iv)(C).
+
+78 Id .
+
+79 See CFTC Rule 41.42(c)(2)(v); SEC Rule 400(c)(2)(v). The Commissions note that the Final Rules include a definition of the term "member," which clarifies the applicability of that term to persons with trading privileges on an exchange, even if that exchange does not have a "membership" structure. More specifically, the term "member" has the meaning provided in Section 3(a)(3) of the Exchange Act and includes persons registered under Section 15(b)(11) of the Exchange Act that are permitted to effect transactions on a national securities exchange without the services of another person acting as executing broker. See CFTC Rule 41.43(a)(21); SEC Rule 401(a)(21).
+
+80 See Amex Letter; CBOE Letter; OneChicago Letter; SIA/FIA Letter. In addition, the ABN AMRO Letter endorsed the comments in the SIA/FIA Letter.
+
+81 CBOE Letter at 2-3.
+
+82 Id . at 4.
+
+83 Id . at 5-6.
+
+84 Amex Letter.
+
+85 Id . at 2, 4.
+
+86 Id . at 4.
+
+87 SIA/FIA Letter at 14, n.25; Appendix I, Q 17(a).
+
+88 OneChicago Letter at 9.
+
+89 Id .
+
+90 See CFTC Rule 41.42(c)(2)(v); SEC Rule 400(c)(2)(v).
+
+91 National securities exchanges registered under Section 6(a) of the Exchange Act require their options market makers to conduct at least 50% of their total contract volume in option classes to which they have been appointed. See Amex Rule 958; Philadelphia Stock Exchange ("Phlx") Rule 1014. In some cases, market makers are required to conduct at least 75 percent of their total contract volume in option classes to which they have been appointed. See CBOE Rule 8.7.03; International Securities Exchange Rule 805; Pacific Exchange ("PCX") Rule 6.37.
+
+92 See CFTC Rule 41.42(b); SEC Rule 400(b).
+
+93 See CFTC Rule 41.42(d); SEC Rule 400(d). The SEC and CFTC exemption standards contained in the Final Rules are the same as those set forth in the recently adopted rules relating to cash settlement and regulatory halt requirements for security futures products. See Securities Exchange Act Release No. 45956 (May 17, 2002), 67 FR 36740 (May 24, 2002). As noted in connection with those rules, the SEC version of the exemption provision refers to the protection of "investors," and the CFTC version of the provision refers to the protection of "customers." Id . at 36745, n.64. The difference in terminology is not intended to have any substantive significance. Rather, the terms are used for purposes of conformity with terminology used in the Exchange Act and CEA.
+
+94 See CFTC Rules 41.43(a)(3), (a)(6), and (a)(24); SEC Rules 401(a)(3), (a)(6), and (a)(24).
+
+95 See Proposed CFTC Rules 41.44(a)(3), (a)(4), and (a)(5); Proposed SEC Rules 401(a)(3), (a)(4), and (a)(5).
+
+96 See CFTC Rule 41.43(a)(30); SEC Rule 401(a)(30). The terminology was modified to eliminate confusion as to a "regulatory authority" being a governmental regulator rather than an SRO.
+
+97 See Proposed CFTC Rule 41.44(a)(7); Proposed SEC Rule 401(a)(7).
+
+98 See CFTC Rule 41.43(a)(4); SEC Rule 401(a)(4); see also 12 CFR 220.2.
+
+99 See, e.g. , definitions of "broker," CFTC Rule 41.43(a)(2) and SEC Rule 401(a)(2); "dealer," CFTC Rule 41.43(a)(7) and SEC Rule 401(a)(7); "exempted security," CFTC Rule 41.43(a)(10) and SEC Rule 401(a)(10); "futures account," CFTC Rule 41.43(a)(13) and SEC Rule 401(a)(13); "futures commission merchant," CFTC Rule 41.43(a)(14) and SEC Rule 401(a)(14); and "securities account," CFTC Rule 41.43(a)(28) and SEC Rule 401(a)(28).
+
+100 See CFTC Rule 41.43(b); SEC Rule 401(b). See also infra notes 125-126 and accompanying text.
+
+101 See CFTC Rule 41.43(c); SEC Rule 401(c).
+
+102 15 U.S.C. 78g(c)(2)(B)(iv).
+
+103 See Proposed CFTC Rule 41.43(b)(1); Proposed SEC Rule 400(b)(1).
+
+104 See NFA Letter; SIA/FIA Letter; Nasdaq Liffe Letter; ABN AMRO Letter; CME/CBOT Letter; OneChicago Letter; Morgan Stanley Letter; Peregrine Letter; SunGard Letter; Options Exchanges Letter; Managed Funds Letter; and Rolfe and Nolan Letter.
+
+105 Options Exchanges Letter at 3.
+
+106 NFA Letter at 2-3; SIA/FIA Letter at 2, 4-7; ABN AMRO Letter at 1; CME/CBOT Letter at 2-3; OneChicago Letter at 3-7; Morgan Stanley Letter at 2, 5-6; Peregrine Letter at 2; Managed Funds Letter at 1; and Rolfe and Nolan Letter at 1-2.
+
+107 Nasdaq Liffe Letter at 6-7; and SunGard Letter at 2-3.
+
+108 Options Exchanges Letter at 3.
+
+109 OneChicago Letter at 3.
+
+110 Id. at 3-4.
+
+111 NFA Letter at 2.
+
+112 SIA/FIA Letter at 5.
+
+113 See NFA Letter at 2; SIA/FIA Letter at 5; Nasdaq Liffe Letter at 7; ABN AMRO Letter at 1; CME/CBOT Letter at 10; OneChicago Letter at 7; SunGard Letter at 3; and Peregrine Letter at 2.
+
+114 See NFA Letter at 3; SIA/FIA Letter at 4; Nasdaq Liffe Letter at 6; ABN AMRO Letter at 1; CME/CBOT Letter at 3; OneChicago Letter at 5; SunGard Letter at 1; and Peregrine Letter at 2.
+
+115 See NFA Letter at 2; SIA/FIA Letter at 4-5; Nasdaq Liffe Letter at 6; ABN AMRO Letter at 1; CME/CBOT Letter at 3; OneChicago Letter at 4; SunGard Letter at 1; Peregrine Letter at 2.
+
+116 OneChicago Letter at 5.
+
+117 SIA/FIA Letter at 4.
+
+118 Id .
+
+119 Rolfe and Nolan Letter at 1.
+
+120 See NFA Letter at 1-2; SIA/FIA Letter at 3-4; Nasdaq Liffe Letter at 6-7; ABN AMRO Letter at 1; OneChicago Letter at 6-7; Peregrine Letter at 2; Morgan Stanley Letter at 1; and Managed Funds Letter at 2.
+
+121 See Rolfe and Nolan Letter at 2; and CME/CBOT Letter at 10.
+
+122 SunGard Letter at 2.
+
+123 Options Exchanges Letter at 3-4.
+
+124 15. U.S.C. 78g(c)(2).
+
+125 See CFTC Rule 41.44(a)(1); SEC Rule 402(a)(1).
+
+126 See CFTC Rule 41.44(a)(2); SEC Rule 402(a)(2).
+
+127 See 12 CFR 220.4(a)(1).
+
+128 See 12 CFR 220.4(a)(2).
+
+129 Fed. Res. Reg. Serv. § 5-634.11 (Staff Op. May 15, 1978).
+
+130 See 12 CFR 220.3(b)(1).
+
+131 See CFTC Rule 41.44(b)(1); SEC Rule 402(b)(1).
+
+132 See CFTC Rule 41.44(b)(1); SEC Rule 402(b)(1); see also Section 17(a) of the Exchange Act (15 U.S.C. 78q-1(a)), and the rules thereunder; Section 4g of the CEA (7 U.S.C. 6g), and the rules thereunder; National Association of Securities Dealers ("NASD") Rule 3110; and NFA Rule 2-10.
+
+133 7 U.S.C. 6d.
+
+134 See Joint Audit Committee Handbook, Chapter 9 (June 1999), available at .
+
+135 See id.
+
+136 See CFTC Rule 41.44(b)(2); SEC Rule 402(b)(2).
+
+137 Id .
+
+138 See CFTC Rule 41.44(c); SEC Rule 402(c).
+
+139 12 CFR 220.4(b)(5).
+
+140 See CFTC Rule 41.44(d); SEC Rule 402(d).
+
+141 12 CFR 220.4(b)(6).
+
+142 See CFTC Rule 41.44(e); SEC Rule 402(e). CFTC Rule 1.30 permits FCMs to lend their own funds to customers on pledged securities; the proceeds of such loans are treated as customer funds for purposes of the CEA. 17 CFR 1.30. Extensions of credit by brokers and dealers with respect to securities are governed by Regulation T and the margin rules of the national securities exchanges and securities associations.
+
+143 See CFTC Rule 41.46(c); SEC Rule 404(c).
+
+144 Futures exchange rules also impose certain restrictions on the financing of futures positions. See , e.g. , CME Rule 930.G ("Clearing members may not extend loans to account holders for performance bond purposes unless such loans are secured as defined in [17 CFR] 1.17(c)(3)"); New York Mercantile Exchange ("NYMEX") Rule 4.03 ("Clearing Members shall not be permitted to make loans to any customers for the purpose of financing margins on NYMEX Division contracts unless such loans are secured, as such term is defined in [17 CFR] 1.17").
+
+145 See CFTC Rule 41.44(e)(2); SEC Rule 402(e)(2).
+
+146 See Proposed CFTC Rule 41.44(a)(2)(i); Proposed SEC Rule 401(a)(2)(i).
+
+147 See Proposed CFTC Rule 41.44(a)(2)(ii); Proposed SEC Rule 401(a)(2)(ii).
+
+148 SIA/FIA Letter at Appendix I, Q 18.
+
+149 15 U.S.C. 78g(c)(2)(B)(3)(I).
+
+150 Under the Final Rules, the term "daily settlement price" means, with respect to a security future, the settlement price of such security future determined at the close of trading each day, as determined by the rules of the applicable exchange, clearing agency or derivatives clearing organization. See CFTC Rule 41.43(a)(6); SEC Rule 401(a)(6).
+
+151 Currently, the computation of the margin required on the sale of an uncovered option is based on the value of the security underlying the option. The initial margin on the sale of an uncovered option is based on the price at which the underlying security closed at the end of the business day before the day on which the option is sold. The maintenance margin on an uncovered short option is based on the closing price of the underlying security at the end of each business day.
+
+152 See Proposed CFTC Rule 41.45(b); Proposed SEC Rule 402(b).
+
+153 15 U.S.C. 78g(c)(2)(B)(iii)(II).
+
+154 See SIA Credit Division Letter; Morgan Stanley Letter; Drinkard Letter; Partnoy Letter; Klein Letter; SIA/FIA Letter; OneChicago Letter; NFA Letter; Peregrine Letter; Options Exchanges Letter; Nasdaq Liffe Letter; and Managed Funds Letter.
+
+155 See NFA Letter at 4; Nasdaq Liffe Letter at 5; Options Exchanges Letter at 5; OneChicago Letter at 2; Peregrine Letter at 2; Managed Funds Letter at 3.
+
+156 See Morgan Stanley Letter at 6; SIA Credit Division Letter at 1.
+
+157 See SIA/FIA Letter at 2-3, 10-11; ABN AMRO Letter at 1.
+
+158 Partnoy Letter at 10-14.
+
+159 NFA Letter at 4.
+
+160 Nasdaq Liffe Letter at 5.
+
+161 SIA/FIA Letter at 2.
+
+162 Id . at 10.
+
+163 Id .
+
+164 Id .
+
+165 Morgan Stanley Letter at 6-8.
+
+166 Id . at 7.
+
+167 See Securities Exchange Act Release No. 44853 (September 26, 2001), 66 FR at 50776 (October 4, 2001).
+
+168 See , e.g. , Amex Rule 462; CBOE Rule 12.3; NASD Rule 2520; New York Stock Exchange ("NYSE") Rule 431; PCX Rule 2.16; and Phlx Rule 722.
+
+169 See 15 U.S.C. 78g(c)(2).
+
+170 See CFTC Rule 41.42(c)(1); SEC Rule 400(c)(1).
+
+171 See Proposed CFTC Rule 41.45(d); Proposed SEC Rule 402(d).
+
+172 Id .
+
+173 See Securities Exchange Act Release No. 44853 (September 26, 2001), 66 FR at 50727-29 (October 4, 2001).
+
+174 See Options Exchanges Letter; Partnoy Letter; SIA/FIA Letter.
+
+175 Options Exchanges Letter at 6.
+
+176 Partnoy Letter at 14.
+
+177 SIA/FIA Letter at Appendix I, Q 19.
+
+178 Meeting between SEC and CFTC staff and representatives of SIA/FIA (February 6, 2002).
+
+179 See CFTC Rule 41.45(b)(2); SEC Rule 403(b)(2).
+
+180 15 U.S.C. 78g(c)(2)(B).
+
+181 15 U.S.C. 78s(b)(2).
+
+182 7 U.S.C. 7a-2(c).
+
+183 See Securities Exchange Act Release Nos. 41658 (July 27, 1999), 64 FR 42736 (August 5, 1999) (order approving SR-CBOE-97-67 amending CBOE Rule 12.3); 42011 (October 14, 1999), 64 FR 57172 (October 22, 1999) (order approving SR-NYSE-99-03 amending NYSE Rule 431); 43582 (November 17, 2000), 65 FR 70854 (November 28, 2000) (order approving SR-Amex-99-27 amending Amex Rule 462); and 43581 (November 17, 2000), 65 FR 71151 (November 29, 2000) (order approving SR-NASD-00-15 amending NASD Rule 2520).
+
+184 A calendar spread is an offset position consisting of a long security future and short security future on the same underlying security, each contract expiring in a different month. See table of offsets, item 10.
+
+185 A basket spread is an offset consisting of a security future based on an index and a basket of security futures that replicates the index, i.e. , a basket that contains the same securities, and in the same proportion, as the index. See table of offsets, items 17 and 18.
+
+186 Meeting between SEC and CFTC staff and representatives of SIA/FIA (February 6, 2002).
+
+187 By way of comparison, the minimum margin required for offsetting long and short positions in the same security under the rules of the national securities exchanges is 5% of the current market value of the long position. See , e.g. , NYSE Rule 431(e)(1).
+
+188 See table of offsets, items 4 and 13.
+
+189 See table of offsets, item 19.
+
+190 Meeting between SEC and CFTC staff and representatives of SIA/FIA (February 6, 2002).
+
+191 See Proposed CFTC Rule 41.45(b)(2)(i); Proposed SEC Rule 402(b)(2)(i).
+
+192 See Proposed CFTC Rule 41.45(b)(2)(ii); Proposed SEC Rule 402(b)(2)(ii).
+
+193 See CFTC Rule 41.42(c)(1); SEC Rule 400(c)(1).
+
+194 15 U.S.C. 78f(g).
+
+195 15 U.S.C. 78 o -3(k).
+
+196 15 U.S.C. 78s(b)(7).
+
+197 See Proposed CFTC Rule 41.45(c); Proposed SEC Rule 402(c).
+
+198 See CFTC Rule 41.45(c); SEC Rule 403(c).
+
+199 15 U.S.C. 78g(c)(2)(B)(iv).
+
+200 See Proposed CFTC Rule 41.47(a)(4); Proposed SEC Rule 404(a)(4).
+
+201 See Proposed CFTC Rule 41.47(b); Proposed SEC Rule 404(b).
+
+202 See CFTC Rule 41.46(a); SEC Rule 404(a).
+
+203 See CFTC Rule 41.46(c)(1)(iv); SEC Rule 404(c)(1)(ii).
+
+204 See CFTC Rule 41.46(c)(1)(vi) and (c)(2)(iii); SEC Rule 404(c)(1)(vi) and (c)(2)(iii).
+
+205 See CFTC Rule 41.46; SEC Rule 404.
+
+206 Under Section 220.2 of Regulation T (12 CFR 220.2), margin securities include: (1) any security registered or having unlisted trading privileges on a national securities exchange; (2) any security listed on the Nasdaq Stock Market; (3) any nonequity security; (4) any security issued by either an open-end investment company or unit investment trust which is registered under Section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8); (5) any foreign margin stock; and (6) any debt security convertible into a margin security.
+
+207 15 U.S.C. 78c(a)(12).
+
+208 See Proposed CFTC Rule 41.47(a)(4); Proposed SEC Rule 404(a)(4).
+
+209 See Options Exchanges Letter; NFA Letter; CME/CBOT Letter; SIA/FIA Letter.
+
+210 Options Exchanges Letter at 6-7.
+
+211 See NFA Letter at 6-7; CME/CBOT Letter at 3-4; and SIA/FIA Letter 6-8.
+
+212 See NFA Letter at 7; SIA/FIA Letter at 6.
+
+213 CME/CBOT Letter at 4.
+
+214 CFTC Rule 41.46(b)(1); SEC Rule 404(b)(1).
+
+215 See , e.g. , CME Rule 930.C.
+
+216 In a recent interpretive release providing guidance on the application of certain provisions of the federal securities laws to trading in security futures products, the SEC expressed the view that a security future is not an extension of credit under Section 11(d)(1) of the Exchange Act (15 U.S.C. 78k(d)(1)), and that margin collected in connection with a security futures transaction represents a good faith deposit against performance and not "partial payment" for the security. Securities Exchange Act Release No. 46101 (June 21, 2002), 67 FR 43234, 43245 (June 27, 2002). Accordingly, a deposit of money market mutual fund shares by a customer to satisfy the required margin for a security future does not, in the SEC's view, constitute a direct or indirect extension or maintenance of credit to or for the customer on such shares for purposes of Section 11(d)(1) (15 U.S.C. 78k(d)(1)).
+
+217 See CFTC Rule 41.43(a)(22); SEC Rule 401(a)(22).
+
+218 See CFTC Rule 41.46(b)(2); SEC Rule 404(b)(2).
+
+219 See Proposed CFTC Rule 41.43(b); Proposed SEC Rule 400(b).
+
+220 SIA/FIA Letter.
+
+221 Id ., at 6.
+
+222 See CFTC Rule 41.46(c); SEC Rule 404(c). For purposes of determining whether the required margin for security futures and related positions is satisfied under the Final Rules, the equity in a futures account is defined to include the account's net liquidating equity plus the collateral value of margin securities, exempted securities, and other acceptable margin deposits. See Joint Audit Committee, Margins Handbook, Chapter 1 (June 1999) (definition of "margin equity"). Securities may not be combined with security futures carried in a futures account to create an offset position except pursuant to a cross-margining arrangement, as described in Section II.G.3 of this release.
+
+223 See CFTC Rule 41.46(c), (d), and (e); SEC Rule 404(c), (d), and (e).
+
+224 See Proposed CFTC Rule 41.47(c); Proposed SEC Rule 404(c).
+
+225 Options Exchanges Letter at 6-7.
+
+226 See CFTC Rule 41.46(c)(1)(i) and (c)(2)(i); SEC Rule 404(c)(1)(i) and (c)(2)(i). As discussed below, open trade equity resulting from the daily settlement of security futures can be used to satisfy the required margin.
+
+227 See discussion of extensions of credit in Section II.F.4. of this release.
+
+228 Regulation T generally delegates the authority to specify the amount or other position to satisfy the required margin for put or call options on a security, certificate of deposit, securities index or foreign currency, or a warrant on a securities index or currency carried in a securities account to the registered securities exchange or association authorized to trade the option (in the case of exchange-listed options) and to the creditor's examining authority (in the case of all other options), subject in each case to approval by the SEC. See 12 CFR 220.12(f).
+
+229 The rules of the national securities exchanges and the NASD recognize an exception for long listed or OTC options and warrants with a remaining period to expiration exceeding 9 months. Such contracts are valued at their current market value (as defined in Section 220.2 of Regulation T (12 CFR 220.2)), subject to a 75% margin requirement. See, e.g. , NYSE Rule 431(f)(2)(C).
+
+230 Meeting between SEC and CFTC staff and representatives of SIA/FIA (February 6, 2002).
+
+231 Telephone conversations between SEC staff and The OCC staff (February 20, 2002) and between SEC staff and CBOE staff (February 5, 2002).
+
+232 See CFTC Rule 41.46(c)(1)(ii); SEC Rule 404(c)(1)(ii).
+
+233 15 U.S.C. 78q-1.
+
+234 7 U.S.C. 7a-1.
+
+235 See CFTC Rule 41.43(a)(16); SEC Rule 401(a)(16).
+
+236 See Peregrine Letter; OneChicago Letter; NFA Letter; CME Letter; SIA/FIA Letter; Nasdaq Liffe Letter; SunGard Letter; and Morgan Stanley Letter.
+
+237 OneChicago Letter at 6.
+
+238 SunGard Letter at 2.
+
+239 15 U.S.C. 78q-1.
+
+240 7 U.S.C. 7a-1.
+
+241 See CFTC Rule 41.43(a)(32); SEC Rule 401(a)(32).
+
+242 See CFTC Rule 41.46(c)(1)(vi) and (c)(2)(iii); SEC Rule 404(c)(1)(vi) and (c)(2)(iii).
+
+243 See CFTC Rule 41.43(a)(25); SEC Rule 401(a)(25). The Final Rules define the "current market value" of a security other than a security future to mean the most recent closing sale price of the security, as shown by any regularly published reporting or quotation service. CFTC Rule 41.43(a)(4); SEC Rule 401(a)(4). If there is no recent closing sale price, the security futures intermediary may use any reasonable estimate of the market value of the security as of the most recent close of business. Id .
+
+244 See CFTC Rule 41.46(c)(1)(iii); SEC Rule 404(c)(1)(iii).
+
+245 The initial margin required for the purchase of a margin equity security in a securities account under Regulation T is 50% of its current market value. However, the maintenance margin required for a position in a margin equity security under the rules of the securities self-regulatory organizations is 25% of current market value. See , e.g. , NYSE Rule 431(c)(1). Accordingly, a customer that seeks to use a fully paid equity security to satisfy the required margin for a new short option transaction may apply no more than 50% of the current market value of the security for that purpose. On subsequent days, the customer will not be required to deposit additional margin, regardless of changes in the price of the short option or equity security, unless the required margin for the short option exceeds 75% of the current market value of the equity security.
+
+246 See CFTC Rule 41.46(e); SEC Rule 404(e).
+
+247 A "related transaction" is defined to include any transaction in a related position that creates, eliminates, increases or reduces an offsetting position involving a security future, or any deposit or withdrawal of collateral (other than the deduction of variation settlement and other periodic deductions by a security futures intermediary from a customer account). CFTC Rule 41.43(a)(27); SEC Rule 401(a)(27). For example, if a customer unwinds an offsetting position in a futures account, such as by liquidating a long broad-based index future offsetting a basket of security futures, any margin equity securities used to satisfy the additional margin in the account required as a result of the transaction would have to be valued at their Regulation T value.
+
+248 See CFTC Rule 41.46(e)(3); SEC Rule 404(e)(3).
+
+249 12 CFR 220.4(b)(7) and 7 U.S.C. 6d. See also NASD Rule 11870(d) and NFA Rule 2-27.
+
+250 See CFTC Rule 41.46(c)(1)(iv); SEC Rule 404(c)(1)(iv).
+
+251 See CFTC Rule 41.46(c)(1)(v) and (c)(2)(ii); SEC Rule 404(c)(1)(v) and (c)(2)(ii).
+
+252 Many foreign currencies already are subject to significant additional haircuts or margin requirements in securities and futures accounts under self-regulatory authority rules. As discussed above, security futures intermediaries and their customers would also have to observe limitations under applicable margin rules.
+
+253 See CFTC Rule 41.46(c)(1)(vii); SEC Rule 404(c)(1)(vii).
+
+254 See CFTC Rule 41.46(f); SEC Rule 404(f).
+
+255 See 12 CFR 220.3(d). The Regulation T prohibition governs initial margin. The use of guarantees for purposes of maintenance margin is otherwise treated under applicable margin rules.
+
+256 17 CFR 1.10. CFTC Rule 1.10(d) requires that an FCM's financial report be completed in accordance with the CFTC's Form 1-FR-FCM Instructions for reporting an FCM's net capital position. These instructions provide further that "an FCM may not consider a guarantee agreement as a substitute for margin" in customers' accounts. Thus, margin deficits are only satisfied with the actual transfer of free funds from the guaranteeing account.
+
+257 See CFTC Rule 41.46(d); SEC Rule 404(d).
+
+258 12 CFR 220.4(c)(4).
+
+259 See CFTC Rule 41.47; SEC Rule 405.
+
+260 See CFTC Rule 41.47(a); SEC Rule 405(a).
+
+261 See 12 CFR 220.4(e).
+
+262 See CFTC Rule 41.46(e); SEC Rule 404(e).
+
+263 See CFTC Rule 41.47(b); SEC Rule 405(b).
+
+264 The phrase "directly or indirectly" is intended to encompass payments either directly to a clearing agency or derivatives clearing organization, or payments made through a clearing broker.
+
+265 12 CFR 220.4(f).
+
+266 7 U.S.C. 6d.
+
+267 See Proposed CFTC Rule 41.46(a) and (b); Proposed SEC Rule 403(a) and (b).
+
+268 See Proposed CFTC Rule 41.46(c); Proposed SEC Rule 403(c).
+
+269 12 CFR 220.4(d).
+
+270 See Peregrine Letter; SIA Credit Division Letter; SIA/FIA Letter; Morgan Stanley Letter; CME/CBOT Letter; and NFA Letter.
+
+271 Peregrine Letter at 2.
+
+272 SIA Credit Division Letter at 2.
+
+273 SIA/FIA Letter at 11.
+
+274 Id .
+
+275 See Morgan Stanley Letter at 10; CME/CBOT Letter at 5.
+
+276 NFA Letter at 5.
+
+277 17 CFR 1.17(c)(5)(viii) or (ix); 17 CFR 240.15c3-1(c)(2)(xii).
+
+278 CFTC Rule 41.48(a); SEC Rule 406(a).
+
+279 CFTC Rule 41.48(b); SEC Rule 406(b). This is the same standard that applies to options specialists under the SEC's net capital rule. Exchange Act Rule 15c3-1(c)(2)(x)(D) (17 CFR 240.15c3-1(c)(2)(x)(D)).
+
+280 Under Regulation T, if any initial margin call is not met in full within one payment period after a margin deficiency is created or increased, a creditor must liquidate securities sufficient to meet the margin call or to eliminate any margin deficiency existing on the day such liquidation is required, whichever is less (unless the margin deficiency created or increased is $1000 or less). 12 CFR 220.4(d). The Regulation T payment period is currently five business days, although it may be extended for one or more limited periods upon application by the creditor to its examining authority. Id. at 12 CFR 220.2, 220.4(c)(3). NYSE Rule 431 requires the amount of maintenance margin or mark to market required by any provision of the NYSE Rule 431 to be obtained within fifteen business days from the date such deficiency occurred, unless the Exchange has specifically granted the member organization additional time. NYSE Rule 431(f)(6).
+
+281 CFTC Rule 41.48(c); SEC Rule 406(c).
+
+282 A notice-designated contract market is a national securities exchange registered pursuant to Section 6(a) of the Exchange Act (15 U.S.C. 78f(a)), a national securities association registered pursuant to Section 15A(a) of the Exchange Act (15 U.S.C. 78 o -3(a)), or an alternative trading system ("ATS") as defined in Section 1a(1) of the CEA (7 U.S.C. 1a(1)) that is designated as a contract market pursuant to Section 5f of the CEA (7 U.S.C. 7b-1).
+
+283 15 U.S.C. 78s(b).
+
+284 7 U.S.C. 7a-2(c). Notice-designated contract markets are exempt from the requirements of Section 5c of the CEA pursuant to Section 5f(b)(1)(D) of the CEA (7 U.S.C. 7a-2(b)(1)(D)).
+
+285 See also 66 FR 42256 (August 10, 2001) (CFTC rules implementing these procedures, codified in a new Part 40 of Title 17, CFTC Rules 40.5 and 40.6).
+
+286 7 U.S.C. 7a-2(c)(1).
+
+287 7 U.S.C. 7a-2(c)(2).
+
+288 15 U.S.C. 78s(b)(2).
+
+289 The copy may be submitted to the CFTC electronically, by facsimile, or by delivery of a hard copy.
+
+290 7 U.S.C. 7a-2.
+
+291 7 U.S.C. 7a-2(c).
+
+292 7 U.S.C. 7a-2(c)(2).
+
+293 7 U.S.C. 7a-2(c)(1).
+
+294 44 U.S.C. 3501 et seq .
+
+295 7 U.S.C. 19(a).
+
+296 15 U.S.C. 78f(a).
+
+297 15 U.S.C. 78f(a).
+
+298 15 U.S.C. 78g(c)(2)(B)(iii).
+
+299 Catrath, A., Adrangi, B and Alleder, M. (2001), The Impact of Margins in Futures Markets: Evidence from the Gold and Silver Markets , The Quarterly Review of Economics and Finance, 279.
+
+300 The SEC staff examined all securities with average daily trading volume greater than 50,000, using data from 2000 from the Center for Research in Security Prices ("CRSP"). Based on these data, the SEC staff calculated the daily price returns and the 30-day historical price volatility for each of the securities examined. Based on the assumption that cash and futures prices typically move together, the SEC staff conducted a simulation, using actual security price movements as estimates for would be futures price movements. Based upon these security futures' price estimates, the staff determined the margin requirements for each of these security futures under both the 20 percent strategy-based approach and the traditional risk-based futures approach. The staff examined how often the funds attributable to margin requirements are insufficient to cover the daily price movements of these security futures. This is relevant to the examination of systemic risk because a necessary condition for customer default to occur is the depletion of the funds attributable to margin requirements (assuming no market risk to close out such position).
+
+301 For further details on these issues, see Fishe, R. P. H., Goldberg, L.G., (1986), The Effects of Margins on Trading in Futures Markets , Journal of Futures Markets, 261; Fishe, P.H., Goldberg, L.A., Gosnell, T.F. and Sinha, S. (1990), Margin Requirement in Futures Markets: Their Relationship to Price Volatility , The Journal of Futures Markets, 541.
+
+302 15 U.S.C. 78c(f).
+
+303 15 U.S.C. 78w(a)(2).
+
+304 5 U.S.C. 601 et seq .
+
+305 47 FR 18618-21 (April 30, 1982).
+
+306 Id. at 18619.
+
+307 66 FR 44960, 44964 (August 27, 2001).
+
+308 66 FR 42256, 42268 (August 10, 2001).
+
+309 47 FR at 18619.
+
+310 A broker or dealer that is registered with the SEC and that limits its futures activities to those involving security futures products, may notice register with the CFTC as an FCM in accordance with Section 4f(a)(2) of the CEA (7 U.S.C. 6f(a)(2)).
+
+311 7 U.S.C. 6f(a)(1).
+
+312 See Exchange Act Rule 15c3-1(a)(2), 17 CFR 240.15c3-1(a)(2).
+
+313 15 U.S.C. 78f(a).
+
+314 5 U.S.C. 601 et seq .
+
+315 See Proposing Release, supra note 6.

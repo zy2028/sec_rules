@@ -1,0 +1,829 @@
+https://www.sec.gov/rules/final/34-47225.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Regulation BTR
+
+		II.A.0.0: A. Statutory Trading Prohibition
+
+		II.B.0.0: B. Discussion
+
+			II.B.1.0: 1. Issuers Subject to Trading Prohibition
+
+			II.B.2.0: 2. Persons Subject to Trading Prohibition
+
+			II.B.3.0: 3. Securities Subject to Trading Prohibition
+
+			II.B.4.0: 4. Transactions Subject to Trading Prohibition
+
+			II.B.5.0: 5. Blackout Period
+
+			II.B.6.0: 6. Remedies
+
+			II.B.7.0: 7. Notice
+
+	III.0.0.0: III. Paperwork Reduction Act
+
+	IV.0.0.0: IV. Cost-Benefit Analysis
+
+		IV.A.0.0: A. Benefits
+
+		IV.B.0.0: B. Costs
+
+	V.0.0.0: V. Final Regulatory Flexibility Analysis
+
+		V.A.0.0: A. Reasons for, and Objectives of, New Rules
+
+		V.B.0.0: B. Significant Issues Raised by Public Comment
+
+		V.C.0.0: C. Small Entities Subject to the New Rules
+
+		V.D.0.0: D. Reporting, Record Keeping and Other Compliance Requirements
+
+		V.E.0.0: E. Duplicative, Overlapping or Conflicting Rules
+
+		V.F.0.0: F. Agency Action to Minimize Effect on Small Entities
+
+	VI.0.0.0: VI. Consideration of Burden on Competition
+
+	VIII.0.0.0: VIII. Promotion of Efficiency, Competition and Capital Formation
+
+	IX.0.0.0: IX. Effective Date
+
+	X.0.0.0: X. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 240, 245 and 249 [RELEASE NO. 34-47225; IC-25909; File No. S7-44-02] RIN 3235-AI71 Insider Trades During Pension Fund Blackout Periods 
+
+ Agency: Securities and Exchange Commission.
+
+ Action: Final rule.
+
+ Summary: We are adopting rules that clarify the application and prevent evasion of Section 306(a) of the Sarbanes-Oxley Act of 2002. Section 306(a) prohibits any director or executive officer of an issuer of any equity security from, directly or indirectly, purchasing, selling or otherwise acquiring or transferring any equity security of the issuer during a pension plan blackout period that temporarily prevents plan participants or beneficiaries from engaging in equity securities transactions through their plan accounts, if the director or executive officer acquired the equity security in connection with his or her service or employment as a director or executive officer. In addition, the rules specify the content and timing of the notice that issuers must provide to their directors and executive officers and to the Commission about a blackout period. The rules are designed to facilitate compliance with the will of Congress as reflected in Section 306(a), and to eliminate the inequities that may result when pension plan participants and beneficiaries are temporarily prevented from engaging in equity securities transactions through their plan accounts.
+
+ Dates: Effective Date : January 26, 2003. Compliance Date : Issuers must comply with §245.104(b)(3)(i) and (iii) of Regulation BTR beginning March 31, 2003.
+
+ For Further Information Contact: Mark A. Borges, Special Counsel, Office of Rulemaking, at (202) 942-2910, or Anne Krauskopf, Special Counsel, Office of Chief Counsel, at (202) 942-2900, at the Division of Corporation Finance, United States Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0312.
+
+ Supplementary Information: We are adopting new Regulation BTR <sup> 1 </sup> under the Securities Exchange Act of 1934 (the "Exchange Act") <sup> 2 </sup> and amendments to Exchange Act Rules 13a-11 <sup> 3 </sup> and 15d-11 <sup> 4 </sup> and to Forms 20-F, <SUP> 5 </sup> 40-F <sup> 6 </sup> and 8-K <sup> 7 </sup> under the Exchange Act.
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+On July 30, 2002, the Sarbanes-Oxley Act of 2002 (the "Act") was enacted. <sup> 8 </sup> Section 306(a) of the Act, <sup> 9 </sup> entitled "Prohibition of Insider Trading During Pension Fund Blackout Periods," makes it unlawful for any director or executive officer of an issuer of any equity security, directly or indirectly, to purchase, sell or otherwise acquire or transfer any equity security of the issuer during any pension plan blackout period with respect to such equity security, if the director or executive officer acquired the equity security in connection with his or her service or employment as a director or executive officer. <sup> 10 </sup> Section 306(a) also requires an issuer to timely notify its directors and executive officers and the Commission of a blackout period that could affect them. <sup> 11 </sup> Section 306(a) takes effect January 26, 2003, 180 days after the date of enactment of the Act. <sup> 12 </sup>
+
+Section 306(a) equalizes the treatment of corporate executives and rank-and-file employees with respect to their ability to engage in transactions involving issuer equity securities during a pension plan blackout period if the securities have been acquired in connection with their service to, or employment with, the issuer. When a director or executive officer engages in a transaction involving issuer equity securities at a time when participants or beneficiaries in the issuer's pension plans cannot engage in similar transactions through their plan accounts, the director or executive officer obtains an unfair advantage that the statute seeks to ameliorate. Section 306(a) restricts the ability of directors and executive officers to trade in such securities until a pension plan blackout period has ended and the ability to trade through the pension plan has been restored to plan participants and beneficiaries. This should align the interests of directors and executive officers more closely with those of the rank-and-file employees who engage in transactions involving issuer equity securities through an issuer's pension plans.
+
+After consulting with the Secretary of Labor, we proposed new Regulation Blackout Trading Restriction ("BTR") on November 6, 2002 to clarify the scope and operation of Section 306(a) and to prevent evasion of the statutory trading prohibition. <sup> 13 </sup> We received 18 letters commenting on the Proposing Release. <sup> 14 </sup> Many commenters suggested changes to the proposed rules to better achieve the purposes of Section 306(a). Today, we are adopting Regulation BTR, which has been revised as discussed below, to incorporate a number of the changes recommended by commenters.<h>II. Regulation BTRA. Statutory Trading Prohibition </h><h>A. Statutory Trading Prohibition </h>
+
+As adopted, Regulation BTR addresses the operation of Section 306(a) of the Act and its prohibition against trading in issuer equity securities by an issuer's directors and executive officers during a pension plan blackout period as follows: 
+
+ 
+
+New Rule 100 <sup> 15 </sup> defines terms used in Section 306(a) and Regulation BTR.
+
+New Rule 101 <sup> 16 </sup> clarifies the operation of the Section 306(a) trading prohibition and establishes several exemptions from the prohibition.
+
+New Rule 102 <sup> 17 </sup> describes the exceptions to the definition of "blackout period" set forth in Section 306(a)(4)(A) of the Act. <sup> 18 </sup>
+
+New Rule 103 <sup> 19 </sup> clarifies the operation of the private remedy for a violation of the Section 306(a) trading prohibition, including a method for calculation of recoverable profits.
+
+New Rule 104 <sup> 20 </sup> sets forth the content and delivery requirements for the notice that an issuer must provide in connection with a blackout period. 
+
+ 
+
+As proposed and adopted, in order to give effect to Section 306(a) in a manner consistent with Congressional intent, we are incorporating a number of concepts developed under Section 16 of the Exchange Act <sup> 21 </sup> into Regulation BTR. By doing so, we are able to take advantage of a well-established body of rules and interpretations concerning the trading activities of corporate insiders and, as to directors and executive officers of domestic issuers, facilitate enforcement of the Section 306(a) trading prohibition through monitoring of the reports publicly filed by directors and executive officers pursuant to Section 16(a) of the Exchange Act. <sup> 22 </sup><h>B. Discussion1. Issuers Subject to Trading Prohibition </h><h>1. Issuers Subject to Trading Prohibition </h>
+
+Section 306(a) of the Act applies to directors and executive officers of issuers as defined in Section 2(a)(7) of the Act. <sup> 23 </sup> Consistent with this definition, new Rule 100(k) of Regulation BTR <sup> 24 </sup> provides that the term "issuer" means an issuer (as defined in Section 3(a)(8) of the Exchange Act <sup> 25 </sup>): 
+
+ 
+
+the securities of which are registered under Section 12 of the Exchange Act; <sup> 26 </sup>
+
+that is required to file reports under Section 15(d) of the Exchange Act; <sup> 27 </sup> or 
+
+that files, or has filed, a registration statement that has not yet become effective under the Securities Act of 1933 (the "Securities Act") <sup> 28 </sup> and that the issuer has not withdrawn. 
+
+ 
+
+Accordingly, Section 306(a) and Regulation BTR apply to the directors and executive officers of domestic issuers, foreign private issuers, small business issuers and, in rare instances, registered investment companies. <sup> 29 </sup>
+
+While some commenters questioned the application of Section 306(a) to foreign private issuers, <sup> 30 </sup> the statute, by its terms, applies to these issuers. <sup> 31 </sup> However, Regulation BTR limits Section 306(a)'s application to the directors and executive officers of a foreign private issuer to situations where 50% or more of the participants or beneficiaries located in the United States in individual account plans maintained by the issuer are subject to a temporary trading suspension in issuer equity securities, and the affected participants and beneficiaries represent an appreciable portion of the issuer's worldwide employees. <sup> 32 </sup>
+
+Similarly, Section 306(a) does not distinguish between large and small issuers. Accordingly, the statute applies to any entity that satisfies the definition of "issuer" under Section 2(a)(7) of the Act without regard to the entity's size, including a "small business issuer." <sup> 33 </sup> One commenter indicated that the compliance burden for small business issuers would not be disproportionate to the benefits to be obtained from compliance with Section 306(a) since concerns related to trading by corporate insiders are not unique to large issuers. <sup> 34 </sup><h>2. Persons Subject to Trading Prohibition </h>
+
+Section 306(a) of the Act applies to directors and executive officers of issuers subject to the Act. While one commenter expressly supported the proposed definitions for these terms, <sup> 35 </sup> some commenters suggested that we use the existing definition in Exchange Act Rule 3b-7 <sup> 36 </sup> to define the term "executive officer." <sup> 37 </sup> We continue to believe that the broader definition in Exchange Act Rule 16a-1(f) <sup> 38 </sup> is more suitable for purposes of Section 306(a) and Regulation BTR because of its focus on the policy-making functions of the individual in question. <sup> 39 </sup> In addition, as some commenters noted, this definition will make it easier for domestic issuers to coordinate their trading policies for their corporate insiders who are subject to Section 16 of the Exchange Act and monitor compliance with both Section 16 and Section 306(a). Accordingly, new Rule 100(c)(1) of Regulation BTR <sup> 40 </sup> provides that, except in the case of a foreign private issuer, the term "director" has the meaning set forth in Section 3(a)(7) of the Exchange Act <sup> 41 </sup> and new Rule 100(h)(1) <sup> 42 </sup> provides that, except in the case of a foreign private issuer, the term "executive officer" has the same meaning as the term "officer" in Exchange Act Rule 16a-1(f).
+
+In the case of a foreign private issuer, the commenters supported our proposal to specifically identify the directors and executive officers that are subject to the Section 306(a) trading prohibition. <sup> 43 </sup> Thus, new Rule 100(c)(2) of Regulation BTR <sup> 44 </sup> provides that the term "director" means a director who is a management employee of the issuer and new Rule 100(h)(2) <sup> 45 </sup> provides that the term "executive officer" means the principal executive officer or officers, the principal financial officer or officers and the principal accounting officer or officers of the issuer.<h>3. Securities Subject to Trading Prohibition </h>
+
+Section 306(a) of the Act applies to any equity security of an issuer other than an exempt security. <sup> 46 </sup> We did not receive any comments regarding the proposed definitions for the terms "equity security," "equity security of the issuer" and "derivative security." Accordingly, new Rule 100(e) of Regulation BTR <sup> 47 </sup> provides that the term "equity security" has the meaning set forth in Section 3(a)(11) of the Exchange Act <sup> 48 </sup> and Exchange Act Rule 3a11-1, <sup> 49 </sup> new Rule 100(f) <sup> 50 </sup> provides that the term "equity security of the issuer" includes any equity security or derivative security relating to an issuer, whether or not issued by that issuer, and new Rule 100(d) <sup> 51 </sup> provides that the term "derivative security" has the same meaning as in Exchange Act Rule 16a-1(c). <sup> 52 </sup>
+
+In the case of a derivative security, the definition in new Rule 100(d) is to be interpreted in a manner consistent with the rules and interpretations under Section 16 of the Exchange Act. For example, an interest that may be settled only in cash, but the value of which is denominated or based on an equity security, such as phantom stock, will be considered a derivative security for purposes of Section 306(a) and Regulation BTR. Consequently, an acquisition of a "cash-only" derivative security or the exercise, sale or other transfer of the security during a blackout period will be subject to the Section 306(a) trading prohibition unless the transaction qualifies as an exempt transaction under Regulation BTR.<h>4. Transactions Subject to Trading Prohibition </h>
+
+Section 306(a) of the Act makes it unlawful for a director or executive officer of an issuer of any equity security, directly or indirectly, <sup> 53 </sup> to purchase, sell or otherwise acquire or transfer any equity security of the issuer during a pension plan blackout period with respect to the equity security, if the director or executive officer "acquires such equity security in connection with his or her service or employment as a director or executive officer." While Section 306(a) uses the word "acquires" to describe the equity securities that are subject to the statutory trading prohibition, we believe that Congress intended to cover both equity securities that a director or executive officer "acquired" before, or "acquires" during, a pension plan blackout period. <sup> 54 </sup> Thus, we read the Section 306(a) trading prohibition to cover: 
+
+ 
+
+an acquisition of issuer equity securities by a director or executive officer during a blackout period if the acquisition is in connection with his or her service or employment as a director or executive officer; and
+
+a disposition of issuer equity securities by a director or executive officer during a blackout period if the disposition involves issuer equity securities acquired in connection with his or her service or employment as a director or executive officer. <sup> 55 </sup>
+
+ (a)"Acquired in Connection with Service or Employment as a Director or Executive Officer" 
+
+As adopted, new Rule 100(a) of Regulation BTR <sup> 56 </sup> defines the term "acquired such equity security in connection with service or employment as a director or executive officer" to include equity securities acquired by a director or executive officer: 
+
+ 
+
+at a time when he or she was a director or executive officer under a compensatory plan, contract, authorization or arrangement, <sup> 57 </sup> including, but not limited to, plans relating to options, warrants or rights, pension, retirement or deferred compensation or bonus, incentive or profit-sharing (whether or not set forth in any formal plan document), including a compensatory plan, contract, authorization or arrangement with a parent, subsidiary or affiliate; 
+
+at a time when he or she was a director or executive officer as a result of any transaction or business relationship described in paragraph (a) or (b) of Item 404 of Regulation S-K <sup> 58 </sup> or, in the case of a foreign private issuer, Item 7.B of Form 20-F (but without application of the disclosure thresholds of such provisions), to the extent that he or she has a pecuniary interest <sup> 59 </sup> in the equity securities; 
+
+at a time when he or she was a director or executive officer, as "director's qualifying shares" or other securities that he or she must hold to satisfy minimum ownership requirements or guidelines for directors or executive officers;
+
+prior to becoming, or while, a director or executive officer where the equity security was acquired as a direct or indirect inducement to service or employment as a director or executive officer; or
+
+prior to becoming, or while, a director or executive officer where the equity security was received as a result of a business combination in respect of an equity security of an entity involved in the business combination that he or she had acquired in connection with service or employment as a director or executive officer of that entity.
+
+ 
+
+Several commenters expressed concern that, as proposed, the definition was overly broad. <sup> 60 </sup> One commenter objected to treating equity securities acquired in an arms-length, commercial transaction that is subject to disclosure under Item 404(a) or (b) of Regulation S-K as "acquired in connection with service or employment as a director or executive officer." <sup> 61 </sup> While this aspect of the definition may reach equity securities that were, in fact, acquired in arms-length, commercial transactions, we believe that it is necessary to prevent evasion of the trading prohibition of Section 306(a) of the Act.
+
+Some commenters opposed treating equity securities acquired to satisfy minimum ownership requirements or guidelines as subject to the Section 306(a) trading prohibition, arguing that securities purchased in the open market are not "acquired in connection with service or employment as a director or executive officer," regardless of the extrinsic motivation, and that the proposed definition was contrary to the statutory language and the intent of Section <sup> 62 </sup> They also asserted that requiring a director or executive officer subject to minimum ownership requirements or guidelines to identify and track equity securities purchased in the open market to satisfy such requirements or guidelines would impose an unjustified administrative burden.
+
+We agree that equity securities purchased in the open market before an individual becomes a director or executive officer (and, thus, before the minimum ownership requirements or guidelines apply) should not be subject to the Section 306(a) trading prohibition even if they are used to satisfy the ownership requirements or guidelines after the individual becomes a director or executive officer. We, therefore, revised this aspect of the definition to indicate that equity securities used as directors' qualifying shares or to satisfy an issuer's minimum security ownership requirements or guidelines will be considered "acquired in connection with service or employment as a director or executive officer" only where an individual acquires the equity securities at a time when he or she is a director or executive officer of the issuer. Since these equity securities are clearly "acquired in connection with service or employment as a director or executive officer," we do not believe that it is overly burdensome to require directors and executive officers to identify and track these securities for purposes of Section 306(a).
+
+Some commenters objected to treating equity securities acquired by an individual before becoming a director or executive officer as "acquired in connection with service or employment as a director or executive officer" if the equity securities were awarded to induce the individual to become an employee or non-executive officer of the issuer. <sup> 63 </sup> These commenters argued that subjecting these equity securities to the statutory trading prohibition at the time an employee or non-executive officer is promoted to director or executive officer status was contrary to the statutory language and did not serve the goals of Section They suggested that inducement awards be treated as "acquired in connection with service or employment as a director or executive officer" only if they are directly related to an individual becoming a director or executive officer. Because, in some situations, an equity securities award to an individual joining an issuer as an employee or non-executive officer may be an inducement related to subsequent service or employment as a director or executive officer, we chose not to exclude inducement awards related to becoming an employee or non-executive officer from the definition. Instead, to ensure that this type of inducement award is not used to evade the statutory trading prohibition, we revised the definition to make it clear that an award acquired as a direct or indirect inducement to service or employment as a director or executive officer will be considered "acquired in connection with service or employment as a director or executive officer." Awards that are an inducement to becoming an employee or non-executive officer, but are not a direct or indirect inducement to service or employment as a director or executive officer, will not be considered "acquired in connection with service or employment as a director or executive officer."
+
+Finally, commenters requested clarification on one other aspect of the definition. New Rule 100(a)(5) of Regulation BTR <sup> 64 </sup> makes clear that, in the case of equity securities acquired in connection with a merger, consolidation or other business combination by an individual who was a director or executive officer of the target entity and is to become a director or executive officer of the acquiring entity at the time of, or following the completion of, the transaction, the securities will be considered "acquired in connection with service or employment as a director or executive officer" to the extent that they are received in respect of equity securities of the target entity that were "acquired in connection with service or employment as a director or executive officer" of the target entity. <sup> 65 </sup> For example, where an executive officer of a target entity becomes an executive officer of the acquiring entity in connection with a business combination and, in the transaction, receives equity securities of the acquiring entity in respect of equity securities of the target entity that he or she owned, the equity securities received will be considered "acquired in connection with service or employment as a director or executive officer" only to the extent that they are received in respect of securities that were previously "acquired in connection with service or employment as a director or executive officer" of the target entity.
+
+ (b) Service or Employment Presumption 
+
+To simplify identification of equity securities involved in a disposition subject to the trading prohibition of Section 306(a)(1) of the Act and to prevent evasion of the trading prohibition, we proposed an irrebuttable presumption that any equity securities sold or otherwise transferred during a blackout period were "acquired in connection with service or employment as a director or executive officer" to the extent that a director or executive officer owned such securities at the time of the transaction, without regard to the actual source of the securities. One commenter supported the proposed presumption, citing the difficulty in tracing the actual source of the securities disposed. <sup> 66 </sup> However, most commenters opposed the presumption, asserting that because it would treat all equity securities held as fungible, it would act as an absolute bar on sales or other dispositions during a blackout period, regardless of how the securities actually were acquired. <sup> 67 </sup> Some commenters indicated that, because a violation of Section 306(a)(1) is not limited to a private action for profit recovery, an irrebuttable presumption would potentially expose directors and executive officers to civil and criminal penalties. <sup> 68 </sup> They argued that the proposed presumption would effectively erase the "acquired in connection with service or employment as a director or executive officer" requirement from Sectionof the Act.
+
+These commenters encouraged us to permit directors and executive officers to specifically identify, or "trace," the source of equity securities sold or otherwise transferred during a blackout period to establish that the transaction did not involve securities "acquired in connection with service or employment as a director or executive officer." They pointed out that because "tracing" is permitted under both the Internal Revenue Code <sup> 69 </sup> and some federal securities laws, <sup> 70 </sup> it would not impose an undue burden on directors and executive officers.
+
+We are persuaded by these comments that an irrebuttable presumption is unnecessary. Accordingly, new Rule 101(b) of Regulation BTR <sup> 71 </sup> provides that any equity securities sold or otherwise transferred during a blackout period by a director or executive officer of an issuer will be considered to have been "acquired in connection with service or employment as a director or executive officer" to the extent that the director or executive officer owned such securities at the time of the transaction, unless he or she establishes that the equity securities were not "acquired in connection with service or employment as a director or executive officer." To establish this defense, a director or executive officer must specifically identify the origin of the equity securities in question (which must not be "acquired in connection with service or employment as a director or executive officer" as defined in new Rule 100(a)), and demonstrate that this identification of the equity securities is consistent for all purposes related to the transaction (such as tax reporting and any applicable disclosure and reporting requirements). <sup> 72 </sup>
+
+For example, if an executive officer owned 1,000 shares of an issuer's common stock, 250 shares of which were acquired as the result of the exercise of an employee stock option, a sale of 250 shares of common stock during a blackout period will be treated as a sale of the option shares and, therefore, subject to the Section 306(a) trading prohibition, unless the executive officer establishes a different source of the shares sold and this identification is consistent for all purposes related to the transaction (such as tax reporting and any applicable disclosure and reporting requirements).
+
+ (c) Transitional Situations 
+
+Except as provided in new Rule 100(a), equity securities acquired by an individual before he or she becomes a director or executive officer are not "acquired in connection with service or employment as a director or executive officer" for purposes of Section 306(a) of the Act. Thus, equity securities acquired under a compensatory plan, contract, authorization or arrangement while an individual is an employee, but not a director or executive officer, will not be subject to the Section 306(a) trading prohibition. However, equity securities acquired by an employee before becoming a director or executive officer will be considered "acquired in connection with service or employment as a director or executive officer" if the equity securities are part of an inducement award. <sup> 73 </sup>
+
+In contrast, equity securities acquired by an individual in connection with service or employment as a director or executive officer before an entity becomes an "issuer" (as defined in Section 2(a)(7) of the Act and new Rule 100(k)) are considered "acquired in connection with service or employment as a director or executive officer" for purposes of Section 306(a) and Regulation BTR and are subject to the statutory trading prohibition. Similarly, equity securities acquired by a director or executive officer in connection with his or her service or employment as a director or executive officer of an "issuer" (as defined in Section 2(a)(7) of the Act and new Rule 100(k)) before the effective date of Section 306(a) are subject to that section and Regulation BTR.
+
+ (d) Exempt Transactions 
+
+Because some transactions by a director or executive officer involving issuer equity securities do not present the concerns that Section 306(a) of the Act is intended to remedy, we are adopting new Rule 101(c) of Regulation BTR, <sup> 74 </sup> which exempts from the statutory trading prohibition: 
+
+ 
+
+acquisitions of equity securities under dividend or interest reinvestment plans;
+
+purchases or sales of equity securities pursuant to a trading arrangement that satisfies the affirmative defense conditions of Exchange Act Rule 10b5-1(c); <sup> 75 </sup>
+
+purchases or sales of equity securities, other than discretionary transactions, <sup> 76 </sup> pursuant to certain "tax-conditioned" plans; <sup> 77 </sup> and
+
+increases or decreases in the number of equity securities held as a result of a stock split or stock dividend applying equally to all equity securities of that class.
+
+ 
+
+While commenters generally supported the proposed exemptions, some requested clarification as to the intent of the statement in the Proposing Release that "[a]wareness of an impending blackout period would be considered awareness of material, non-public information that could render the [proposed exemption for a trading arrangement that satisfies the affirmative defense conditions of Exchange Act Rule 10b5-1(c)] unavailable." In particular, commenters expressed concern that the statement could have implications beyond Section 306(a). One commenter noted that a broad reading of this statement could preclude a director or executive officer from establishing an Exchange Act Rule 10b5-1(c) trading arrangement indefinitely if he or she was aware that a pension plan blackout period was planned, even if the dates of the blackout period had not been established. <sup> 78 </sup> The same commenter asserted that the statement would not permit a director or executive officer to evaluate the materiality of his or her knowledge about an impending blackout period on the basis of applicable facts and circumstances. Another commenter noted that the statement created uncertainty as to whether "awareness" of an impending blackout period was material non-public information that would preclude trading in an issuer's securities by any person with such awareness until the blackout period was publicly disclosed. <sup> 79 </sup> A third commenter suggested that we clarify the statement to provide that "awareness" of an impending blackout period would require awareness of the actual or approximate beginning and ending dates of a specific blackout period (whether or not notice of the blackout period as required by Section 306(a)(6) of the Act had been received). <sup> 80 </sup>
+
+We did not intend for this statement to be read so broadly. The statement simply was intended to clarify that a director or executive officer who is aware of a scheduled blackout period could not subsequently enter into or modify an Exchange Act Rule 10b5-1(c) trading arrangement to circumvent the Section 306(a) trading prohibition. The "awareness" of an impending blackout period described in the statement would require awareness of the actual or approximate beginning or ending dates of a specific blackout period (whether or not notice of the blackout period as required by Section 306(a)(6) had been received), and not merely awareness of the potential for a blackout period. Accordingly, we have modified new Rule 101(c)(2) of Regulation BTR <sup> 81 </sup> to provide that transactions pursuant to a trading arrangement that satisfies the affirmative defense conditions of Exchange Act Rule 10b5-1(c) will be exempt from the Section 306(a) trading prohibition, as long as the arrangement is not entered into or modified during the blackout period in question or at a time when the director or executive officer is aware of the actual or approximate beginning or ending dates of the blackout period, whether or not the director or executive officer has received notice of the blackout period as required by Section 306(a)(6). This information may or may not be material non-public information for other purposes, depending on the applicable facts, including whether the information has not been disclosed or otherwise made public and whether the information is material under customary legal analysis. <sup> 82 </sup> We do not intend that our treatment of this information under Regulation BTR affect that customary legal analysis of materiality.
+
+The exemption for purchases or sales of equity securities pursuant to certain "tax-conditioned" plans in new Rule 101(c)(3) of Regulation BTR <sup> 83 </sup> has been expanded to include purchases or sales pursuant to an employee benefit plan of a foreign private issuer that either has been approved by the taxing authority of a foreign jurisdiction, or is eligible for preferential treatment under the tax laws of a foreign jurisdiction because the plan provides for broad-based employee participation. This change is intended to equalize the treatment of directors and executive officers of domestic and foreign private issuers where a foreign issuer has an employee benefit plan maintained outside the United States that is substantially similar to a "tax-conditioned" employee benefit plan. <sup> 84 </sup>
+
+As adopted, the exemption in new Rule 101(c)(3) does not extend to "discretionary transactions," such as an intra-plan transfer involving an issuer equity securities fund or a cash distribution funded by a volitional disposition of an issuer equity security, that occur during a blackout period. However, it would cover acquisitions or dispositions of equity securities made in connection with death, disability, retirement or termination of employment or transactions involving a diversification or distribution required by the Internal Revenue Code to be made available to plan participants because these transactions are not "discretionary transactions." <sup> 85 </sup>
+
+We have expanded new Rule 101(c) to include the following additional exemptions from the statutory trading prohibition that were suggested by commenters: 
+
+ 
+
+compensatory grants and awards of equity securities (including options and stock appreciation rights) pursuant to a plan that, by its terms, permits directors or executive officers to receive grants or awards, provides for grants or awards to occur automatically and specifies the terms and conditions of the grants or awards;
+
+exercises, conversions or terminations of derivative securities that were not written or acquired by a director or executive officer during the blackout period in question or while aware of the actual or approximate beginning or ending dates of the blackout period, and where (i) the derivative security, by its terms, may be exercised, converted or terminated only on a fixed date, with no discretionary provision for earlier exercise, conversion or termination, <sup> 86 </sup> or (ii) the derivative security is exercised, converted or terminated by a counterparty and the director or executive officer does not exercise any influence on the counterparty with respect to whether or when to exercise, convert or terminate the derivative security; 
+
+acquisitions or dispositions of equity securities involving a bona fide gift or a transfer by will or the laws of descent and distribution;
+
+acquisitions or dispositions of equity securities pursuant to a domestic relations order;
+
+sales or other dispositions of equity securities compelled by the laws or other requirements of an applicable jurisdiction; and
+
+acquisitions or dispositions of equity securities in connection with a merger, acquisition, divestiture or similar transaction occurring by operation of law. <sup> 87 </sup>
+
+ 
+
+Section 306(a)(3) of the Act <sup> 88 </sup> permits us to provide appropriate exemptions from the statutory trading prohibition, citing examples of transactions eligible for exemption such as purchases pursuant to an automatic dividend reinvestment program or purchases or sales made pursuant to an advance election. These examples reflect transactions that occur automatically, are made pursuant to an advance election or are otherwise outside the control of the director or executive officer. The exemptions that we originally proposed and are adopting embody one or both of these characteristics. The additional exemptions that we are adopting also reflect these characteristics.
+
+Compensatory grants and awards of equity securities during a blackout period pursuant to a plan that, by its terms, provides for grants and awards to be made to directors and executive officers automatically and specifies the terms and conditions of the grants or awards are outside the control of the directors and executive officers and do not present the concerns that Section 306(a) is intended to remedy. Similarly, an exercise, conversion or termination of a derivative security written or acquired by a director or executive officer before the blackout period in question and while not aware of the actual or approximate beginning or ending dates of the blackout period is a transaction that is outside the control of the director or executive officer where the derivative security either, by its terms, may be exercised, converted or terminated only on a fixed date, or is exercised, converted or terminated by a counterparty where the director or executive officer does not exercise any influence on the counterparty with respect to whether or when to exercise, convert or terminate the derivative security.
+
+The exemption for bona fide gifts and acquisitions or dispositions of equity securities by will or the laws of descent and distribution is modeled on a similar exemption under Section 16 of the Exchange Act. <sup> 89 </sup> The exemption for acquisitions or dispositions pursuant to a domestic relations order is modeled on the exemption in Exchange Act Rule 16a-12. <sup> 90 </sup>
+
+The exemption for sales or other dispositions of equity securities compelled by the laws or other requirements of an applicable jurisdiction addresses a category of involuntary transactions that do not provide the opportunity for improper self-dealing or present the unfairness Section 306(a) was designed to address. Finally, the exemption for acquisitions or dispositions of equity securities in connection with a merger, acquisition, divestiture or similar transaction occurring by operation of law is intended to cover an exchange of equity securities affecting substantially all of an entity's equity security holders that occurs upon a statutory merger, acquisition, divestiture or similar transaction that closes during a blackout period.<h>5. Blackout Period </h>
+
+Section 306(a)(4)(A) of the Act defines the term "blackout period" to mean any period of more than three consecutive business days during which the ability of not fewer than 50% of the participants or beneficiaries under all individual account plans maintained by an issuer to purchase, sell or otherwise acquire or transfer an interest in any equity security of the issuer held in such an individual account plan is temporarily suspended by the issuer or by a fiduciary <SUP> 91 </sup> of the plan. In the Proposing Release, we solicited comment on whether a trading suspension of three business days or less should be considered a "blackout period" for purposes of the statute.
+
+Several commenters opposed expanding the definition of the term "blackout period" to encompass periods of three business days or less. One commenter noted that the specific statutory language providing this standard had resulted from extensive discussions among policymakers and representatives of the voluntary employer-provided retirement system, and that blackout periods of three business days or less do not significantly impact the rights of plan participants and beneficiaries. <sup> 92 </sup> Two commenters requested that Regulation BTR be consistent with the rules under Section 306(b) of the Act adopted by the Department of Labor (the "DOL Rules"), so that issuers are not subject to different blackout period rules. <sup> 93 </sup> Two commenters noted that because there may be unforeseen technical problems or other emergencies that could result in unscheduled temporary trading suspensions lasting one or two business days which would not be subject to the advance notice requirement of the DOL Rules, it would be impracticable to comply with Section 306(a) of the Act in these circumstances. <sup> 94 </sup>
+
+Although Regulation BTR retains the "more than three consecutive business days" language in its definition of the term "blackout period," we remain concerned that the problems Section 306(a) is intended to address may not be limited to blackout periods that last longer than three consecutive business days. A sharp decline in the value of an issuer's equity securities can take place in a single day, and, if that decline coincides with a temporary trading suspension in the issuer's pension plans, it is still unfair that directors and executive officers may be able to dispose of the equity securities that they acquired in connection with service or employment as a director or executive officer while rank-and-file employees are precluded from selling issuer equity securities in their individual plan accounts. While most of these temporary trading suspensions are likely the result of unforeseeable technical problems or other emergencies, we are mindful that, given the requirements of the statute, issuers and plan administrators may be motivated to structure blackout periods to last three business days or less. We would view any such efforts to circumvent Section 306(a) as potential violations of Regulation BTR. We will continue to consider these issues, to attempt to ascertain whether blackout periods of three business days or less are or may become a concern and to talk to the Department of Labor about possible solutions.
+
+ (a) Individual Account Plan 
+
+New Rule 100(j) of Regulation BTR <sup> 95 </sup> sets forth the definition of the term "individual account plan" for purposes of Section 306(a) of the Act. As specified in Section 306(a)(5) of the Act, <sup> 96 </sup> this definition is based on Section 3(34) of ERISA. <sup> 97 </sup> This definition encompasses a variety of pension plans, including Section 401(k) plans, profit-sharing and savings plans, stock bonus plans and money purchase pension plans.
+
+As specified in the statute, the definition excludes a one-participant retirement plan. <sup> 98 </sup> In addition, we have modified the definition to exclude pension plans, including deferred compensation plans, in which participation is limited to directors of the issuer. In the case of a temporary trading suspension in issuer equity securities in such a plan, the unfairness of directors and executive officers being able to trade their equity securities while an issuer's employees may not does not exist. <sup> 99 </sup>
+
+ (b) Blackout Period 
+
+New Rule 100(b) of Regulation BTR <sup> 100 </sup> contains the definition of the term "blackout period" as clarified to achieve the purposes of Section 306(a) of the Act. The new rule makes clear that, in determining whether a temporary trading suspension in issuer equity securities constitutes a "blackout period," the individual account plans to be considered are individual account plans maintained by an issuer that permit participants or beneficiaries located in the United States to acquire or hold equity securities of the issuer. This includes individual account plans that: 
+
+ 
+
+permit participants or beneficiaries to invest their plan contributions in issuer equity securities;
+
+include an "open brokerage window" that permits participants or beneficiaries to invest in the equity securities of any publicly-traded company, including the issuer;
+
+match employee contributions with issuer equity securities; or
+
+reallocate forfeitures that include issuer equity securities to the remaining plan participants.
+
+ 
+
+This would include such an individual account plan, whether or not the plan actually contains equity securities of the issuer at the time of the temporary trading suspension and related determination. <sup> 101 </sup> In addition, new Rule 100(b)(3)(i) of Regulation BTR <sup> 102 </sup> provides that, for purposes of determining the individual account plans maintained by the issuer, the rules under Section 414(b), (c), (m) and (o) of the Internal Revenue Code <sup> 103 </sup> with respect to entities treated as a single employer are to be applied.
+
+Two commenters questioned whether all individual account plans maintained by an issuer that permit participants or beneficiaries located in the United States to acquire or hold equity securities of the issuer should be included in the percentage test for determining whether a temporary trading suspension constitutes a "blackout period." <sup> 104 </sup> These commenters noted that, as proposed, the 50% test would take into account any individual account plan (wherever located) maintained by an issuer that permits any participants or beneficiaries located in the United States to acquire or hold issuer equity securities. Thus, even though an individual account plan may be maintained outside the United States, if even a single participant or beneficiary was located in the United States, all of the participants or beneficiaries in the plan would have to be taken into account under the 50% test. One commenter asserted that although foreign issuers may have a small number of U.S. employees participating in their pension plans maintained outside the United States, because these issuers may not keep records of such participation (because the plans are not subject to ERISA), to avoid confusion and inaccurate calculations the 50% test should not apply to these plans. <sup> 105 </sup>
+
+We believe that a clarification is warranted. Accordingly, new Rule 100(b)(3)(ii) of Regulation BTR <sup> 106 </sup> excludes an individual account plan maintained outside of the United States primarily for the benefit of nonresident aliens from the determination of whether a temporary trading suspension constitutes a "blackout period." <sup> 107 </sup> This should focus the determination of whether a blackout period will occur on those individual account plans that are primarily for the benefit of participants and beneficiaries located in the United States. Because ERISA applies to any "individual account plan" that is primarily for the benefit of U.S. participants or beneficiaries and Sectionof ERISA <sup> 108 </sup> provides that the indicia of ownership of the assets of plans subject to ERISA may not be maintained outside the jurisdiction of the United States, we do not believe that this modification is inconsistent with the objectives of Section 306(a).
+
+ (c) Determining Participants and Beneficiaries 
+
+Once an issuer has identified the relevant individual account plans, it must determine whether the temporary suspension of trading in its equity securities affects 50% or more of the participants or beneficiaries under these plans. This is accomplished by comparing the number of participants or beneficiaries located in the United States who are subject to the temporary trading suspension in issuer equity securities to the number of participants or beneficiaries located in the United States under all individual account plans maintained by the issuer. <sup> 109 </sup> In the case of a domestic issuer, where this percentage is 50% or more the temporary trading suspension constitutes a "blackout period," so that the Section 306(a) trading prohibition applies to the issuer's directors and executive officers.
+
+We recognize that it may be difficult to determine the number of participants and beneficiaries in an individual account plan because participants and beneficiaries continuously enter and leave such plans. For example, newly eligible employees regularly enter plans, terminating and retiring employees regularly leave plans, beneficiaries of deceased employees frequently acquire benefit rights under plans and employees commonly enter and leave plans as a result of acquisitions and divestitures. <sup> 110 </sup> On any day, it may be difficult for an issuer to know precisely how many participants and beneficiaries are then covered by all of its individual account plans. As a result, issuers will need to apply the 50% test on the basis of estimates.
+
+For purposes of determining the number of participants and beneficiaries in an individual account plan, commenters suggested a variety of ways to establish a reasonably accurate estimate. <sup> 111 </sup> One commenter suggested that the determination be made using data as of any convenient date within the 12-month period preceding the start of the temporary trading suspension. <sup> 112 </sup> We believe that this approach strikes the proper balance between ensuring that reasonably accurate data is used to make the required calculation and minimizing the burden on issuers. New Rule 100(b)(4)(i) of Regulation BTR <sup> 113 </sup> provides that an issuer may use plan census data as of any date within the 12-month period preceding the beginning date of the temporary trading suspension in question (such as the last day of the most recently completed fiscal year) to determine the number of participants or beneficiaries in its individual account plans. However, where there has been a significant change in participation in an individual account plan since the date selected (for example, because of a merger or divestiture), an issuer is required to use plan census data as of the most recent practicable date that reflects such change (for example, the most recently completed fiscal quarter or month for that plan). This should provide adequate flexibility to issuers to determine the number of participants or beneficiaries in their individual account plans using reasonably accurate and available data.
+
+In addition, new Rule 100(b)(4)(ii) of Regulation BTR <sup> 114 </sup> provides that, in making the calculation, issuers may aggregate participants or beneficiaries under their individual account plans without regard to overlapping plan participation. This should alleviate the burden that might otherwise arise where individual employees participate in more than one individual account plan maintained by an issuer. Under this provision, an issuer is permitted to calculate the aggregate number of participants and beneficiaries under each of its individual account plans, even if an individual who participates in multiple plans is counted with respect to each plan in which he or she participates.
+
+ (d) Foreign Private Issuers 
+
+In the case of a foreign private issuer, we proposed a concurrent second calculation to be applied to determine if a temporary trading suspension in issuer equity securities in the individual account plans maintained by the issuer constitutes a "blackout period" for purposes of Section 306(a) of the Act. This calculation would have compared the number of participants or beneficiaries located in the United States who are subject to the temporary trading suspension in issuer equity securities to the number of participants or beneficiaries under all individual account plans maintained by the issuer worldwide. <sup> 115 </sup> Where this percentage exceeded 15% and the concurrent 50% test also was met, the Section 306(a) trading prohibition would have applied to the foreign private issuer's directors and executive officers.
+
+However, commenters expressed concern that, as proposed, the 15% test would not operate as intended. <sup> 116 </sup> These commenters noted that many foreign private issuers do not maintain pension plans that meet the ERISA definition of an "individual account plan," other than the plans they maintain for their U.S. employees. In particular, they noted that outside the United States employees customarily participate in defined benefit pension plans, rather than individual account plans. Because the proposed 15% test was based on the percentage of an issuer's employees who participate in individual account plans, an issuer maintaining individual account plans only in the United States that were subject to a temporary trading suspension in issuer equity securities almost always would meet the test, even where the number of participants or beneficiaries in those plans was insignificant. In addition, one commenter indicated that many foreign issuers do not maintain centralized information on the types of plans they maintain or the numbers of participants or beneficiaries under the plans subject to the laws of jurisdictions other than the United States. <sup> 117 </sup>
+
+These commenters suggested that the appropriate balance between protecting U.S. participants and beneficiaries and accommodating the interests of foreign private issuers with a limited U.S. presence could be achieved by comparing the number of participants and beneficiaries located in the United States who are subject to the temporary trading suspension in issuer equity securities to the number of employees of the issuer worldwide. While we agree with this suggestion, we are mindful that, in some situations, such a test may frustrate the purposes of Section 306(a) where a significant number of U.S. employees are affected by a temporary trading suspension in issuer equity securities, even though that number may not represent at least 15% of a foreign private issuer's total number of employees. Accordingly, we are modifying the separate calculation for foreign private issuers in new Rule 100(b)(2) of Regulation BTR <sup> 118 </sup> to provide that if the number of participants or beneficiaries located in the United States in individual account plans maintained by a foreign private issuer who are affected by a temporary trading suspension in issuer equity securities either exceeds 15% of the total number of employees of the issuer and its consolidated subsidiaries or 50,000 affected participants and beneficiaries <sup> 119 </sup> and the concurrent 50% test is satisfied, the Section 306(a) trading prohibition will apply to the issuer's directors and executive officers. Under new Exchange Act Rule 100(b)(2): 
+
+ 
+
+If the number of participants and beneficiaries located in the United States in individual account plans maintained by a foreign private issuer who are subject to a temporary trading suspension in issuer equity securities exceeds 15% of the number of employees of the issuer worldwide (and the concurrent 50% test is satisfied), the issuer will be considered to have a sufficient presence in the United States for purposes of applying the Section 306(a) trading prohibition to the issuer's directors and executive officers.
+
+If the number of participants and beneficiaries located in the United States in individual account plans maintained by a foreign private issuer who are subject to a temporary trading suspension in issuer equity securities does not exceed 15% of the number of employees of the issuer worldwide but exceeds 50,000 participants and beneficiaries (and the concurrent 50% test is satisfied), the issuer will be considered to have a sufficient presence in the United States for purposes of applying the Section 306(a) trading prohibition to the issuer's directors and executive officers.
+
+If the number of participants and beneficiaries located in the United States in individual account plans maintained by a foreign private issuer who are subject to a temporary trading suspension in issuer equity securities does not exceed 15% of the issuer's employees worldwide and is 50,000 or less participants and beneficiaries (even if the concurrent 50% test is satisfied), the issuer's presence in the United States will be considered sufficiently small so that its directors and executive officers will not be subject to the Section 306(a) trading prohibition.
+
+ 
+
+The application of these principles is illustrated by the following examples: 
+
+ 
+
+ Example 1. Company X is a foreign private issuer with 100,000 employees worldwide. 30,000 employees located in the United States participate in the company's two U.S. pension plans, which are individual account plans. A fiduciary of one of the U.S. pension plans temporarily suspends the ability of all plan participants to trade in issuer equity securities through their plan accounts. This temporary trading suspension affects 16,000 participants in the U.S. plans. Since the number of participants located in the United States in individual account plans maintained by the issuer who are subject to the temporary trading suspension comprises 50% or more of the total number of participants located in the United States in individual account plans maintained by the issuer (16,000/30,000), and since the number of participants located in the United States in individual account plans maintained by the issuer who are subject to the temporary trading suspension represents more than 15% of the issuer's employees worldwide (16,000/100,000), the temporary trading suspension is a "blackout period" for purposes of Section 306(a) of the Act and the statutory trading prohibition applies to the issuer's directors and executive officers.
+
+ Example 2. Company X is a foreign private issuer with 1,000,000 employees worldwide. 100,000 employees located in the United States participate in the company's two U.S. pension plans, which are individual account plans. A fiduciary of one of the U.S. pension plans temporarily suspends the ability of all plan participants to trade in issuer equity securities through their plan accounts. This temporary trading suspension affects 60,000 participants in the U.S. plans. Since the number of participants located in the United States in individual account plans maintained by the issuer who are subject to the temporary trading suspension comprises 50% or more of the total number of participants located in the United States in individual account plans maintained by the issuer (60,000/100,000), and since the number of participants located in the United States in individual account plans maintained by the issuer who are subject to the temporary trading suspension exceeds 50,000, the temporary trading suspension is a "blackout period" for purposes of Section 306(a) of the Act even though the 60,000 participants located in the United States in individual account plans maintained by the issuer who are subject to the temporary trading suspension represent less than 15% of the issuer's employees worldwide (150,000/1,000,000). Consequently, the statutory trading prohibition applies to the issuer's directors and executive officers.
+
+ Example 3. Company X is a foreign private issuer with 100,000 employees worldwide. 6,000 employees located in the United States participate in the company's two U.S. pension plans, which are individual account plans. A fiduciary of one of the U.S. pension plans temporarily suspends the ability of all plan participants to trade in issuer equity securities through their plan accounts. This temporary trading suspension affects 4,000 participants in the U.S. plans. Although the number of participants located in the United States in individual account plans maintained by the issuer who are subject to the temporary trading suspension is 50% or more of the total number of participants located in the United States in individual account plans maintained by the issuer (4,000/6,000), because this number represents 15% or less of the issuer's employees worldwide (4,000/100,000) and is less than 50,000 participants, the temporary trading suspension is not a "blackout period" for purposes of Section 306(a) of the Act. Consequently, the statutory trading prohibition does not apply to the issuer's directors and executive officers.
+
+ (e) Exceptions to Definition of Blackout Period 
+
+Section 306(a)(4)(B) of the Act <sup> 120 </sup> expressly excludes two types of temporary trading suspensions from the definition of the term "blackout period." These exceptions are for: 
+
+ 
+
+a regularly scheduled period in which the participants and beneficiaries may not purchase, sell or otherwise acquire or transfer an interest in any equity security of an issuer, if such period is:
+
+ 
+
+incorporated into the individual account plan; and
+
+timely disclosed to employees before they become participants under the individual account plan or as a subsequent amendment to the plan; <sup> 121 </sup> and 
+
+ 
+
+any temporary trading suspension that would otherwise be a "blackout period" that is imposed solely in connection with persons becoming participants or beneficiaries, or ceasing to be participants or beneficiaries, in an individual account plan by reason of a corporate merger, acquisition, divestiture or similar transaction involving the plan or plan sponsor. <sup> 122 </sup>
+
+ 
+
+New Rule 102 of Regulation BTR <sup> 123 </sup> addresses the application of these exceptions. <sup> 124 </sup> New Rule 102(a) of Regulation BTR <sup> 125 </sup> clarifies the exception for regularly scheduled trading suspensions. It provides that the requirement that the regularly scheduled period be incorporated into the individual account plan may be satisfied by including a description of the regularly scheduled trading suspension in issuer equity securities, including the suspension's frequency and duration and the plan transactions to be suspended or otherwise affected, in either the official plan documents or other documents or instruments that govern plan operations. In the latter case, these documents or instruments may include an ERISA Section 404(c) notice or an advance notice included in either the plan's summary plan description or any other official plan communication.
+
+The new rule also provides that disclosure of the regularly scheduled trading suspension will be considered timely if the employee is notified of the trading suspension at any time prior to, or within 30 calendar days after, the employee's formal enrollment in the plan, or, in the case of a subsequent amendment to the plan, within 30 calendar days after adoption of the amendment. The new rule provides that the notice may be in any graphic form that is reasonably accessible to the intended recipient. <sup> 126 </sup>
+
+Some commenters indicated that the 30-day notice requirement would present a problem for existing plans with a regularly scheduled trading suspension. <sup> 127 </sup> These commenters noted that ERISA typically requires delivery of information to a new plan participant within 90 days after enrollment in the plan, and that an issuer that previously provided notice of a regularly scheduled trading suspension in a summary plan description within this 90-day period would not qualify for the exception. To avoid this problem, they suggested that we establish a transition period during which issuers could cure any past failures to satisfy the 30-day notice requirement. Because we believe that the adoption of Regulation BTR should not penalize an issuer retroactively, we will consider an issuer to have satisfied the advance notice requirement of new Rule 102(a)(2) with respect to an individual account plan that includes a regularly scheduled trading suspension that is maintained by an issuer on January 26, 2003, the effective date of Section 306(a) of the Act, if the issuer previously provided the information described in the rule in the documents or instruments required by ERISA to be provided to plan participants within the time period authorized by ERISA. <sup> 128 </sup>
+
+In the case of a temporary trading suspension in issuer equity securities imposed in connection with a merger, acquisition, divestiture or similar transaction, new Rule 102(b) of Regulation BTR <sup> 129 </sup> provides that the temporary suspension will not constitute a "blackout period" for purposes of Section 306(a) if its principal purpose is to enable individuals to become participants or beneficiaries in an individual account plan by reason of the transaction, or to terminate participation in the plan, even though the suspension also is used to effect other administrative actions that are incidental to the admission or withdrawal of plan participants or beneficiaries. In addition, the new rule clarifies that the exception is available solely if the persons becoming participants or beneficiaries are not permitted to participate in the same class of equity securities after the merger, acquisition, divestiture or similar transaction as before the transaction. This will limit the scope of the exception to temporary trading suspensions affecting persons employed by or affiliated with the acquired or divested entity.<h>6. Remedies </h>
+
+As we discussed in the Proposing Release, Section 306(a) of the Act contains two distinct sets of remedies. A violation of the statutory trading prohibition in Section 306(a)(1) of the Act is treated as a violation of the Exchange Act and subject to all resulting sanctions, including Commission enforcement action. <sup> 130 </sup> In addition, where a director or executive officer realizes a profit from a prohibited transaction during a blackout period, Section 306(a)(2) of the Act <sup> 131 </sup> permits an issuer, or a security holder of the issuer on its behalf, to bring an action to recover that profit. <sup> 132 </sup>
+
+Under the latter provision, an issuer, or a security holder on its behalf, may initiate an action only if a director or executive officer realized a profit as a result of a prohibited purchase, sale or other acquisition or transfer of an equity security during a blackout period. As under Section 16(b) of the Exchange Act, this concept of "realized profits" means that the director or executive officer received a direct or indirect pecuniary benefit from the transaction. <sup> 133 </sup> Although we did not propose a specific method for calculating the amount recoverable by an issuer under Section 306(a)(2) in the Proposing Release, we suggested several possible ways to calculate recoverable profits and solicited comment on these alternatives, as well as any other method consistent with the purposes of the statute.
+
+Some commenters, acknowledging the potential complexity of the calculation, encouraged us not to provide a comprehensive rule. <sup> 134 </sup> One commenter suggested that the calculation be left to the courts to determine on a case-by-case basis or, alternatively, that we establish a specific formula or guidelines for use in enforcement and private civil actions. <sup> 135 </sup>
+
+In the Proposing Release, one of the potential methods to calculate profits on which we solicited comment was based on the difference between the actual amount paid or received by a director or executive officer as a result of the purchase, sale or other acquisition or transfer of an equity security during a blackout period and the market value of the issuer's equity securities on the first date after the end of the blackout period. <sup> 136 </sup> One commenter endorsed this approach as the appropriate measure of the profit recoverable in a private action for a violation of the Section 306(a) trading prohibition. <sup> 137 </sup> We believe that this approach has merit, both in terms of its simplicity and its adherence to the statute's purposes. Section 306(a)(2) seeks to equalize the treatment of corporate executives and rank-and-file employees with respect to their opportunity, during a pension plan blackout period, to engage in transactions in issuer equity securities that were acquired in connection with their service to, or employment with, the issuer. Since a plan participant or beneficiary may not engage in a transaction in issuer equity securities through his or her plan account until the blackout period has ended, the statute similarly restricts directors and executive officers. This profit recovery measure focuses on the difference between the amount that a director or executive officer actually paid or received in the transaction and the amount he or she would have paid or received had the transaction been conducted after the end of the blackout period.
+
+To provide guidance to the courts in Section 306(a)(2) private actions against directors and executive officers who have violated the statutory trading prohibition, new Rule 103(c) of Regulation BTR <sup> 138 </sup> provides that: 
+
+ 
+
+Where a transaction involves a purchase, sale or other acquisition or transfer (other than a grant, exercise, conversion or termination of a derivative security) of an equity security of the issuer that is registered pursuant to Section 12(b) or 12(g) of the Exchange Act <sup> 139 </sup> and listed on a national securities exchange or listed in an automated inter-dealer quotation system of a national securities association, profit is to be measured by comparing the difference between the amount paid or received for the equity security on the date of the transaction during the blackout period and the average market price of the equity security calculated over the first three trading days after the ending date of the blackout period.
+
+Where a transaction is not otherwise described in the preceding paragraph, profit is to be measured in a manner that is consistent with the objective of identifying the amount of any gain realized or loss avoided as a result of the transaction taking place during the blackout period rather than taking place outside of the blackout period.
+
+ 
+
+To mitigate the effect of large fluctuations in the market price of an issuer's equity securities after a blackout period and deter attempts to manipulate this market price, new Rule 103(c)(1) of Regulation BTR <sup> 140 </sup> uses a three-day average trading price to determine the amount that a director or executive officer would have paid or received if the transaction had occurred after the end of the blackout period. New Rule 103(c)(2) of Regulation BTR <sup> 141 </sup> addresses transactions that do not lend themselves to a simple calculation (such as derivative securities transactions, transactions involving an issuer that is required to file reports under Section 15(d) of the Exchange Act and transactions involving an issuer that has filed a registration statement for an initial public offering that has not yet become effective). This rule reflects a pragmatic approach that should permit consideration of equitable factors in determining the amount recoverable in a private action consistent with the purposes of the Section 306(a) trading prohibition. New Rule 103(c)(3) of Regulation BTR <sup> 142 </sup> provides that the calculation methods with respect to a private action under Section 306(a)(2) do not limit in any respect the authority of the Commission to seek or determine remedies as the result of a transaction taking place in violation of Section 306(a)(1) of the Act.
+
+This operation of the new rule is illustrated by the following examples: 
+
+ 
+
+ Example 1: The XYZ Company Section 401(k) plan imposes a temporary trading suspension on plan participants and beneficiaries from December 1<sup>st</sup> through the following January 3<sup>rd</sup> that is a "blackout period" for purposes of Section 306(a). Director A acquires 1,000 shares of XYZ Company common stock in connection with his or her service as a director on December 15<sup>th</sup> for $10.00. Between January 6<sup>th</sup> and 8<sup>th</sup> , the first three trading days after the end of the blackout period, XYZ Company common stock trades at an average price of $12.00 per share. Director A has "realized" a profit of $2000 that is recoverable under Section 306(a)(2).
+
+ Example 2: The XYZ Company Section 401(k) plan imposes a temporary trading suspension on plan participants and beneficiaries from December 1<sup>st</sup> through the following January 3<sup>rd </SUP>that is a "blackout period" for purposes of Section 306(a). Director A acquires 1,000 shares of XYZ Company common stock in connection with his or her service as a director on December 15<sup>th</sup> for $10.00. Between January 6<sup>th</sup> and 8<sup>th</sup> , the first three trading days after the end of the blackout period, XYZ Company common stock trades at an average price of $8.00 per share. There is no recoverable profit under Section 306(a)(2), as Director A received no price advantage over plan participants from purchasing the share of XYZ Company common stock during the blackout period.
+
+ Example 3: The XYZ Company Section 401(k) plan imposes a temporary trading suspension on plan participants and beneficiaries from December 1<sup>st</sup> through the following January 3<sup>rd</sup> that is a "blackout period" for purposes of Section 306(a). Director A disposes of 1,000 shares of XYZ Company common stock previously acquired in connection with his or her service as a director on December 15<sup>th</sup> for $20.00. Between January 6<sup>th</sup> and 8<sup>th</sup> , the first three trading days after the end of the blackout period, XYZ Company common stock trades at an average price of $12.00 per share. Director A has "realized" a profit of $8000 that is recoverable under Section 306(a)(2).
+
+ Example 4: The XYZ Company Section 401(k) plan imposes a temporary trading suspension on plan participants and beneficiaries from December 1<sup>st</sup> through the following January 3<sup>rd</sup> that is a "blackout period" for purposes of Section 306(a). Director A disposes of 1,000 shares of XYZ Company common stock previously acquired in connection with his or her service as a director on December 15<sup>th</sup> for $20.00. Between January 6<sup>th</sup> and 8<sup>th</sup> , the first three trading days after the end of the blackout period, XYZ Company common stock trades at an average price of $25.00 per share. There is no recoverable profit, as Director A received no price advantage over plan participants from selling the share of XYZ Company common stock during the blackout period.
+
+ 
+
+Without regard to whether any amount is recoverable under Section 306(a)(2), in each example Director A has violated Section 306(a)(1) and, as a result, is subject to sanctions, including Commission enforcement action.<h>7. Notice </h>
+
+Section 306(a)(6) of the Act <sup> 143 </sup> requires an issuer to provide timely notice to its directors and executive officers and to the Commission of the imposition of a blackout period that triggers the trading prohibition of Section 306(a) of the Act. New Rule 104 of Regulation BTR <sup> 144 </sup> specifies how issuers must satisfy this notice requirement. As discussed in the Proposing Release, an issuer's failure to provide notice will not preclude a Commission enforcement action for a violation of Section 306(a)(1) of the Act or a private action to recover profits under Section 306(a)(2) of the Act. In addition, an issuer's failure to provide notice, whether or not a director or executive officer subsequently violates the Section 306(a) trading prohibition, may result in a Commission enforcement action against the issuer for violating the Exchange Act. <sup> 145 </sup>
+
+ (a) Content of Notice 
+
+New Rule 104(b)(1) of Regulation BTR <sup> 146 </sup> sets forth the content requirements for the notice required by Section 306(a)(6) of the Act. With one exception, these content requirements track the requirements described in the Proposing Release. New Rule 104(b)(1)(iv) of Regulation BTR <sup> 147 </sup> requires that the notice specify the length of the blackout period. As proposed, this requirement contemplated that the notice specify the actual or expected beginning and ending dates of the blackout period. One commenter indicated that many issuers would find it difficult to project in advance the beginning and ending dates of a blackout period, noting that a wide range of events (such as problems with plan records or recordkeeper, extensive document reviews and data reconciliation, required modifications to systems and software and the like) could affect these dates. <sup> 148 </sup> As a result, the dates included in the notice could be missed and issuers would have to incur additional costs to furnish updated notices. To avoid this potential problem, this commenter speculated that issuers would be likely to establish longer blackout periods, thereby unnecessarily prolonging the inability of plan participants and beneficiaries, as well as directors and executive officers, to engage in transactions involving issuer equity securities. To address this concern, the commenter suggested that issuers be permitted to identify in the notice a range of possible dates during which the blackout period might begin or end.
+
+We recognize the difficulty of predicting specific beginning and ending dates for a blackout period well in advance of when the blackout will occur. We also note that the DOL Rules have been modified to permit a more flexible approach in describing the length of an impending pension plan blackout period. <sup> 149 </sup> We are persuaded that the rules should afford issuers some flexibility in disclosing the beginning and ending dates of a blackout period in the required notice. As adopted, new Rule 104(b)(1)(iv) permits the length of a blackout period to be specified using either the actual or expected beginning date and ending date of the blackout period, or the calendar week or weeks during which the blackout period is expected to begin and end, provided that during such week or weeks information as to whether the blackout period has begun or ended is readily available, without charge, to affected directors and executive officers (such as via a toll-free telephone number or access to a specified web site) and the notice describes how to access the information. <sup> 150 </sup> New Rule 104(b)(1)(iv) further permits the length of the blackout period to be described in the notice to the Commission using the calendar week or weeks during which the blackout period is expected to begin and end, provided that the notice also describes how a security holder or other interested person may obtain, without charge, the actual beginning and ending dates of the blackout period. Under the rule, it is permissible to use a "week of _____" beginning date and a "week of _____" ending date. It also is permissible to use a specific beginning date and a "week of _____" ending date, or the converse. For purposes of the rule, a calendar week is defined to mean a seven-day period beginning on Sunday and ending on Saturday. <sup> 151 </sup>
+
+As discussed in the Proposing Release, if an issuer elects to provide the actual or expected beginning and ending dates of a blackout period in the required notice, and either or both of those dates change, the issuer is required to provide directors and executive officers and the Commission with an updated notice identifying the changed date or dates, explaining the reasons for the change in the date or dates and identifying all material changes in the information contained in the prior notice. <sup> 152 </sup> The updated notice is required to be provided as soon as reasonably practicable.
+
+ (b) Timing of Notice to Directors and Executive Officers 
+
+As proposed, the required notice to directors and executive officers would have been due at least 15 calendar days in advance of beginning date of a blackout period. However, one commenter noted that while the content requirements of the notice required under Section 306(a) of the Act and the DOL Rules are essentially the same, the proposed timing requirements were very different and would have placed significantly increased reporting and compliance burdens on issuers. <sup> 153 </sup> This commenter suggested that there be a single triggering event that would harmonize the different notice requirements.
+
+We believe that, to the extent practicable, the notice requirement of Section 306(a)(6) of the Act should be coordinated with the required notice to pension plan participants and beneficiaries and the issuer under the DOL Rules. <sup> 154 </sup> Consequently, new Rule 104(b)(2) of Regulation BTR <sup> 155 </sup> provides that the notice to directors and executive officers will be considered timely if an issuer provides it no later than five business days after the issuer receives the notice from the pension plan administrator required by the DOL Rules. <sup> 156 </sup> If the issuer does not receive such notice, the issuer must provide its notice to directors and executive officers at least 15 calendar days before the actual or expected beginning date of the blackout period. This requirement will ensure that an issuer typically will not be required to provide the notice required by Section 306(a)(6) to its directors and executive officers until it has received notice of an impending blackout period from the pension plan administrator. Notwithstanding this general requirement, new Rule 104(b)(2)(ii) of Regulation BTR <sup> 157 </sup> provides that advance notice is not required in any case where an unforeseeable event or circumstances beyond the issuer's reasonable control prevent the issuer from providing advance notice to its directors and executive officers.
+
+ (c) Notice to the Commission on Form 8-K 
+
+To ensure widespread dissemination of information about an impending blackout period, we proposed that issuers file the notice to the Commission required by Section 306(a)(6) of the Act on Form 8-K. The proposed content of this Form 8-K report was the same as the content of the required notice to directors and executive officers. While one commenter supported the use of Form 8-K to provide the required notice to the Commission, <sup> 158 </sup> some commenters opposed the requirement, arguing that the disclosure would be of limited interest to investors. <sup> 159 </sup>
+
+One commenter noted that even if a director or executive officer engaged in a transaction in issuer equity securities during a blackout period, an investor who knew of the Form 8-K report would not know whether the securities in question were subject to the Section 306(a) trading prohibition, only that the transaction had taken place during a blackout period. <sup> 160 </sup> Another commenter suggested that if public disclosure was necessary, an issuer should be permitted to file a copy of the notice given to participants and beneficiaries by the pension plan administrator under the DOL Rules as an exhibit to its periodic report for the fiscal period during which the blackout period began. <sup> 161 </sup>
+
+We continue to believe that Congress intended for the notice to the Commission to be publicly available to security holders and other interested persons. Consequently, we believe that Form 8-K is an appropriate vehicle for ensuring timely notice to the Commission of a blackout period that triggers the Section 306(a) trading prohibition.
+
+Some commenters expressed concern about the proposed two business days filing requirement for the Form 8-K. <sup> 162 </sup> One commenter suggested that since the notice will contain the same information that is required in the notice to the issuer under the DOL Rules, a Form 8-K should be required only upon an issuer's receipt of notice from the pension plan administrator. <sup> 163 </sup> Otherwise, an issuer might learn of an impending blackout period, but not have the necessary information to satisfy the notice requirement. In addition, this commenter noted that requiring a Form 8-K to be filed before an issuer is prepared to communicate with plan participants and beneficiaries about an impending blackout period could result in significant confusion for the participants and beneficiaries and recommended that the issuer be permitted to give notice to the Commission only after it is prepared to give meaningful notice to plan participants and beneficiaries.
+
+As previously discussed, we believe that, to the extent practicable, the required notice under Section 306(a)(6) should be coordinated with the required notice to plan participants and beneficiaries and the issuer under the DOL Rules. Consequently, the instructions to Form 8-K have been revised to provide that the notice to the Commission on Form 8-K must be filed on the same day notice is transmitted to directors and executive officers. <sup> 164 </sup> This requirement will ensure that, in most situations, an issuer will provide notice of an impending blackout period to its directors and executive officers and to the Commission within five days following receipt of notice of the blackout from the pension plan administrator required by the DOL Rules.
+
+New Rule 104(b)(3)(ii) of Regulation BTR <sup> 165 </sup> provides that a foreign private issuer subject to Section 306(a) must file as an exhibit to its annual report on Form 20-F or 40-F a copy of each notice provided to directors and executive officers pursuant to Section 306(a)(6) and new Exchange Act Rule 104 during the most recently completed fiscal year, unless the notice previously was provided to the Commission in a report on Form 6-K. <sup> 166 </sup> A foreign private issuer may make the required disclosure sooner under cover of Form 6-K, and we encourage foreign private issuers to do so.
+
+We proposed to subject registered investment companies to Form 8-K requirements for the sole purpose of meeting their filing obligations under Regulation BTR. Two commenters objected to that proposal, suggesting instead alternative means of providing disclosure about blackout periods. <sup> 167 </sup> However, because we believe that registered investment companies should be subject to the same filing obligations as other issuers in the infrequent instances where the Form 8-K filing requirement would be triggered, <sup> 168 </sup> we do not believe it is appropriate to create a filing requirement for registered investment companies that is different from that applicable to other issuers under Regulation BTR. Accordingly, we are adopting the Form 8-K requirement for registered investment companies as proposed. <sup> 169 </sup>
+
+ (d) Transition Period 
+
+Section 306(a) of the Act takes effect on January 26, 2003. Consequently, for purposes of Regulation BTR, the notice requirement of Section 306(a)(6) of the Act applies to blackout periods commencing on or after January 26, 2003.
+
+For blackout periods commencing between January 26, 2003 and February 25, 2003 (the date 30 days after the effective date of Section 306(a)), issuers should furnish notice to directors and executive officers as soon as reasonably practicable. This approach is intended to ensure that the statutorily-required notice is provided with respect to blackout periods that commence before February 26, 2003. In no event, however, is notice required for a blackout period that commenced before January 26, 2003 and remains in effect on that date.
+
+In the case of notice to the Commission, new Rules 104(b)(3)(i) and (iii) of Regulation BTR are effective 60 days after publication in the Federal Register to allow time for the addition of new Form 8-K Item 11 to the Electronic Data Gathering, Analysis and Retrieval ("EDGAR") system. In the interim, an issuer may provide the required notice to the Commission by disclosing the information described in Item 11 under Item 5 of Form 10-Q <sup> 170 </sup> or 10-QSB, <sup> 171 </sup> "Other Information," in the first quarterly report filed by the issuer after commencement of the blackout period.<h>III. Paperwork Reduction Act </h>
+
+The new rules and rule and form amendments contain new and affect existing "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA"). <sup> 172 </sup> The title for the new collection of information is "Regulation BTR." The titles for the collections of information affected by the amendments are "Form 20-F" (OMB Control No. 3235-0288), "Form 40-F" (OMB Control Number 3235-0381) and "Form 8-K" (OMB Control No. 3235-0060). We estimated that preparation and distribution of the notice to directors and executive officers under the new rules would require approximately 2,357 hours and cost approximately $253,075 annually. We also estimated that preparation of current reports on Form 8-K to provide the required notice to the Commission would require approximately 2,490 hours and cost approximately $336,000 annually. The inclusion of the required information in annual reports on Form 20-F was estimated to require approximately 249 hours and cost approximately $33,625 annually, and the inclusion of the required information in annual reports on Form 40-F was estimated to require approximately 28 hours and cost approximately $3,735 annually.
+
+We published a notice requesting comments on the collection of information requirements and submitted requests to the Office of Management and Budget ("OMB") for approval of the new collection and changes to the existing collections in accordance with the PRA. <sup> 173 </sup> These requests are pending before the OMB. We did not receive any comments on the PRA analysis contained in the proposing release. An agency may not conduct or sponsor, and a person is not required to respond to, an information collection unless it displays a currently valid OMB control number.
+
+New Regulation BTR clarifies the application and prevents evasion of Section 306(a) of the Sarbanes-Oxley Act. Section 306(a) prohibits the directors and executive officers of an issuer from, directly or indirectly, purchasing, selling or otherwise acquiring or transferring any equity security of the issuer during a pension plan blackout period that prevents plan participants or beneficiaries from engaging in equity securities transactions, if the equity security was acquired in connection with the director's or executive officer's service or employment as a director or executive officer. Section 306(a) also requires an issuer to provide timely notice to its directors and executive officers and to the Commission of the commencement of a blackout period. Regulation BTR specifies the content and timing of this notice. Compliance with the new rules will be mandatory. The information required by the new rules will not be kept confidential.<h>IV. Cost-Benefit Analysis </h>
+
+Section 306(a) of the Act prohibits directors and executive officers of an issuer from purchasing, selling or otherwise acquiring or transferring any equity security of the issuer during a pension plan blackout period that prevents plan participants or beneficiaries from engaging in equity security transactions, if the equity security was acquired by the director or executive officer in connection with his or her service or employment as a director or executive officer. In addition, Section 306(a) requires an issuer to provide timely notice to its directors and executive officers, and to the Commission, of the imposition of a pension plan blackout period. The statute is intended to restrict the ability of corporate insiders to trade in the equity securities of an issuer at a time when a substantial portion of the issuer's employees are unable to engage in transactions involving equity securities of the issuer through their individual pension plan accounts.
+
+The new rules clarify the application of Section 306(a) and prevent evasion of its statutory trading prohibition. We recognize that any implementation of the Sarbanes-Oxley Act likely will result in costs as well as benefits and have an effect on the economy. We are sensitive to the costs and benefits of the new rules that specify the content and timing of the notice that issuers are required to provide to their directors and executive officers and that mandate the required notice to the Commission to be provided on a Form 8-K or, in the case of foreign private issuers, in their annual reports on Form 20-F or 40-F. We discuss these costs and benefits below.<h>A. Benefits </h>
+
+Section 306(a) and the new rules have several important benefits. By restricting the ability of directors and executive officers to trade in an issuer's equity securities when plan participants are unable to do so, the new rules mitigate the differential opportunities between plan participants and beneficiaries and the directors and executive officers of the issuer with respect to such securities.
+
+The content requirements for the notice contemplated by Section 306(a) will help ensure that directors and executive officers of an issuer have all relevant information about an impending blackout period. This will facilitate their compliance with the statutory trading prohibition. In addition, requiring that notice to the Commission be provided on Form 8-K or, in the case of a foreign private issuer, on Form 20-F or 40-F, will help ensure that an issuer's security holders have notice of an impending blackout period. In turn, this will enable security holders to monitor compliance with the statutory trading prohibition of Section 306(a). These benefits are difficult to quantify.<h>B. Costs </h>
+
+The costs associated with the new rules are attributable primarily to the statutory requirement to prepare and distribute advance notice of the imposition of a blackout period to directors and executive officers and to the Commission. For purposes of the Paperwork Reduction Act, we estimated the aggregate costs for issuers required to provide this notice to be approximately $625,000 per year and the related burden to be approximately 5,125 hours. <sup> 174 </sup>
+
+While compliance with Section 306(a)'s trading prohibition is the personal obligation of an issuer's directors and executive officers, it is likely that issuers will incur costs in assisting these individuals in observing the statutory trading prohibition. Accordingly, issuers may incur costs associated with assisting their directors and executive officers in determining whether transactions in equity securities of the issuer are exempt from the statutory trading prohibition and in identifying and tracking the equity securities that are subject to the trading prohibition. These costs are difficult to quantify, but are all imposed by the statute.
+
+We believe that many U.S. issuers already maintain internal procedures for assisting their directors' and officers' compliance with the provisions of Section 16 of the Exchange Act and preventing violations of Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5. It is likely that these issuers will enhance these internal procedures to address the trading prohibition of Section 306(a) and new Regulation BTR. Some issuers may need to institute appropriate internal procedures. Other issuers may need to modify existing procedures. Because the scope and sophistication of these internal procedures are likely to vary among issuers, it is difficult to provide an accurate estimate of the incremental cost of enhancing existing systems. Because we did not have data to quantify the cost of implementing, or upgrading and strengthening existing, internal insider trading procedures, we sought comments and supporting data on these costs. We did not receive any comments in response to our request.
+
+Section 306(a) also imposes costs on directors and executive officers that are subject to Section 306(a)'s trading prohibition. Restrictions on trading activities increase the financial exposure to directors and executive officers during blackout periods and reduce their financial flexibility. This may result in losses in their portfolios or reduced profits. To some extent, these restrictions may tend to discourage some individuals from serving as directors or executive officers. They also could discourage some directors and executive officers from investing in the equity securities of the companies they serve or discourage some issuers from requiring minimum equity security ownership requirements (which could, in turn, disconnect the interests of directors and executive officers from those of security holders).
+
+In addition, because many directors and executive officers of issuers that are subject to the reporting requirements of the Exchange Act are already subject to restrictions on their trading activities, such as the "short-swing" profits recovery provision of Section 16(b) of the Exchange Act, the introduction of an additional trading restriction to this existing framework may, in some instances, limit the ability of a director or executive officer to trade for significant periods. This also may result in losses in their portfolios or reduced profits. These costs are difficult to quantify, but may be mitigated somewhat by the timely notice required by Section 306(a).<h>V. Final Regulatory Flexibility Analysis </h>
+
+This Final Regulatory Flexibility Analysis, or FRFA, has been prepared in accordance with the Regulatory Flexibility Act. <sup> 175 </sup> The FRFA pertains to new rules that we are adopting to clarify the application of Section 306(a) of the Act and to prevent evasion of its statutory trading prohibition. The new rules also specify the content and timing of notice that issuers are required to provide to their directors and executive officers and the Commission about the imposition of a pension plan blackout period.<h>A. Reasons for, and Objectives of, New Rules </h>
+
+Section 306(a) of the Act prohibits directors and executive officers of an issuer from purchasing, selling or otherwise acquiring or transferring any equity security of the issuer during a pension plan blackout period that prevents plan participants or beneficiaries from engaging in equity security transactions, if the equity security was acquired in connection with the director or executive officer's service or employment as a director or executive officer. In addition, Section 306(a) requires issuers to provide timely notice to their directors and executive officers and the Commission of the imposition of a blackout period. The new rules, which clarify the application of Section 306(a) and prevent evasion of its statutory trading prohibition, are intended to further the statute's purpose of mitigating the differential opportunities between an issuer's directors and executive officers and its employees who participate in pension plans maintained by the issuer at a time when a substantial number of those participants are unable to engage in transactions involving issuer equity securities through their individual pension plan accounts.<h>B. Significant Issues Raised by Public Comment </h>
+
+One commenter indicated that the compliance burden for small business issuers would not be disproportionate to the benefits to be obtained from compliance with Section 306(a) since concerns related to trading by corporate insiders are not unique to large issuers. <sup> 176 </sup><h>C. Small Entities Subject to the New Rules </h>
+
+Section 306(a) of the Act affects, and the new rules affect, small entities the securities of which are registered under Section 12 of the Exchange Act, that are required to file reports under Section 15(d) of the Exchange Act or that file, or have filed, a registration statement that has not yet become effective under the Securities Act and that has not been withdrawn. For purposes of the Regulatory Flexibility Act, the Exchange Act <sup> 177 </sup> defines the term "small business," other than an investment company, to be an issuer that, on the last day of its most recent fiscal year, has total assets of $5 million or less. <sup> 178 </sup> Section 306(a) and the new rules apply only to issuers with pension plans as defined in Section 3(34) of ERISA; we do not have data to indicate the number of small issuers that maintain such pension plans, but according to DOL data, only 30% of all issuers maintain such plans. Furthermore, our data indicates that temporary trading suspensions that will be subject to Section 306(a) occur to a plan approximately once every five years. If these percentages are accurate regardless of an issuer's size, the new rules should only affect approximately 150 small entities per year. We estimate that there are approximately 2,500 issuers that are subject to the Act that are not investment companies and that have assets of $5 million or less. <sup> 179 </sup> There are approximately 225 registered investment companies that may be considered small entities. However, as noted in the Proposing Release, we anticipate that the burden imposed on investment companies by Section 306(a) and the new rules will be negligible.<h>D. Reporting, Record Keeping and Other Compliance Requirements </h>
+
+Section 306(a) of the Act requires issuers, including "small businesses," to provide timely notice to directors and executive officers and the Commission of a blackout period. The new rules specify the content and timing of this notice. The statute's basic prohibition against trading during blackout periods is largely self-executing and does not afford us with substantial discretion to exercise regulatory flexibility with respect to small businesses.
+
+While a cost will be incurred in complying with the notice requirement, we believe that these costs will be minimal for small businesses. A required notice is likely to be prepared once for each blackout period and distributed to affected directors and executive officers. In addition, a current report on Form 8-K will be prepared and filed with the Commission. The cost of preparing and distributing the required notice to directors and executive officers is estimated to be approximately $590 annually per issuer for both large and small businesses. <sup> 180 </sup> The notice requirement involves a design standard in that the content of the notice to directors and executive officers and the form and content of the notice to the Commission is dictated by the new rules and will be comparable for all issuers, including small, as well as large, entities. We do not believe that excepting small businesses from making the notice is in the interests of their directors and executive officers, or consistent with Section 306(a).
+
+While the new rules specify the content of the required notice to directors and executive officers, they do not dictate the specific form of the notice. In addition, the required notice to the Commission will be provided electronically through the filing of a current report on Form 8-K in the case of domestic issuers, or in an annual report on Form 20-F or 40-F in the case of foreign private issuers. We did not receive any information with respect to any special issues facing small businesses with respect to blackout period notices, or any alternatives consistent with the objectives of Section 306(a) of the Act that may serve to facilitate compliance by small businesses.<h>E. Duplicative, Overlapping or Conflicting Rules </h>
+
+We believe that there are no rules that duplicate, overlap or conflict with the new rules. We have intended the rules to coordinate with the rules adopted by the Department of Labor pursuant to Section 306(b) of the Sarbanes-Oxley Act of 2002. We also have coordinated the rules with the requirements under Section 16 of the Exchange Act for directors and officers to report transactions in their company's equity securities.<h>F. Agency Action to Minimize Effect on Small Entities </h>
+
+The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In that regard, we considered the following alternatives: (a) establishing different compliance or reporting requirements that take into account the resources of small entities, (b) clarifying, consolidating or simplifying compliance and reporting requirements under the rules for small entities and (c) exempting small entities from all or part of the proposed rules. The new rules generally are intended to ensure that corporate insiders do not trade in an issuer's equity securities during periods when the ability of participants or beneficiaries in the issuer's pension plans to purchase, sell or otherwise acquire or transfer equity securities of the issuer has been temporarily suspended. We do not currently believe that an exemption is necessary (since the cost of compliance is low) or appropriate (since Congress did not indicate that there should be different treatment for small businesses). While we solicited comment as to whether small business issuers should be excluded from the proposed rules, we did not receive any comments in response to our request. We also sought comment on the scope of the proposed disclosure, the cost of preparing it and whether the obligation can be simplified or clarified. We did not receive any comments in response to our request.<h>VI. Consideration of Burden on Competition </h>
+
+Section 23(a)(2) of the Exchange Act <sup> 181 </sup> requires us to consider the impact that any rule that we adopt will have on competition. In addition, Section 23(a)(2) prohibits us from adopting any rule that will impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+The new rules clarify the application and prevent evasion of Section 306(a) of the Act. Section 306(a) prohibits the directors and executive officers of an issuer from purchasing, selling or otherwise acquiring or transferring any equity security of the issuer during a pension plan blackout period that prevents plan participants or beneficiaries from engaging in issuer equity security transactions, if the equity security was acquired by the director or executive officer in connection with his or her service or employment as a director or executive officer. In addition, under Section 306(a) an issuer is required to provide timely notice to its directors and executive officers and the Commission of the imposition of a pension plan blackout period.
+
+The new rules further the Section 306(a)'s purpose of mitigating the differential opportunities between an issuer's directors and executive officers and its employees who participate in pension plans maintained by the issuer at a time when a substantial number of these participants are unable to engage in transactions involving issuer equity securities through their individual pension plan accounts. The statute may have a slight impact on competition by placing restrictions on the ability of directors and executive officers of some issuers with pension plans to trade that are not placed on other issuers, although we believe it to be necessary and appropriate in furtherance of the purposes of the Act. Issuers will incur some costs in complying with the new rules. These costs will include preparing the required notice with the information specified in the new rules and providing notice to the Commission on a current report on Form 8-K or, in the case of a foreign private issuer, on Form 20-F or 40-F. We requested comment on whether the proposed rules, if adopted, would impose a burden on competition. We did not receive any comments in response to our request.<h>VIII. Promotion of Efficiency, Competition and Capital Formation </h>
+
+Section 3(f) of the Exchange Act <sup> 182 </sup> requires us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition and capital formation. The new rules clarify the application and prevent evasion of Section 306(a) of the Act. Section 306(a) prohibits directors and executive officers of an issuer from purchasing, selling or otherwise acquiring or transferring any equity security of the issuer during a pension plan blackout period that prevents plan participants or beneficiaries from engaging in issuer equity security transactions, if the equity security was acquired in connection with the director or executive officer's service or employment as a director or executive officer. In addition, Section 306(a) requires issuers to provide timely notice to their directors and executive officers and the Commission of the imposition of a pension plan blackout period.
+
+The new rules further Section 306(a)'s purpose of mitigating the differential opportunities between an issuer's directors and executive officers and its employees who participate in pension plans maintained by the issuer at a time when a substantial number of these participants are unable to engage in transactions involving issuer equity securities through their individual pension plan accounts. The statute may have a slight impact on competition, including some burden on the efficiency of the market on an issuer's equity securities during a pension plan blackout period, although we believe it to be necessary and appropriate in furtherance of the purposes of the Act. The statute imposes this burden. We are not aware of any impact on capital formation that will result from the new rules. Issuers will incur some costs in complying with the new rules. These costs will include preparing the required notice to include the information specified in the new rules and providing notice to the Commission on a current report on Form 8-K or, in the case of a foreign private issuer, on Form 20-F or 40-F. We requested comment on whether the proposed rules, if adopted, would impose a burden on competition. We did not receive any comments in response to our request.<h>IX. Effective Date </h>
+
+The new rules are effective on January 26, 2003. The Administrative Procedure Act, or APA, generally requires that an agency publish an adopted rule in the Federal Register 30 days before it becomes effective. <sup> 183 </sup> This requirement, however, does not apply if the agency finds good cause for making the rule effective sooner. <sup> 184 </sup> The Commission believes that it is appropriate to waive advance publication of new Regulation BTR and the related rule and form amendments. Section 306(a) of the Act becomes effective on January 26, 2003. Congress has directed the Commission to clarify the operation of Section 306(a) by rule. <sup> 185 </sup> Our rules were coordinated with, and are dependent upon rules issued by the Department of Labor before January 26, 2003. It is impracticable to satisfy the advance publication requirement of the APA within the statutory deadline. It would be unnecessary and against the public interest to delay effectiveness of the new rules to satisfy this administrative requirement. Accordingly, the Commission finds good cause to make the new Regulation BTR, and the amendments to related rules and forms, effective on January 26, 2003.<h>X. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 245.100-104.
+
+2 15 U.S.C. §78a et seq .
+
+3 17 CFR 240.13a-11.
+
+4 17 CFR 240.15d-11.
+
+5 17 CFR 249.220f.
+
+6 17 CFR 249.240f.
+
+7 17 CFR 249.308.
+
+8 Pub. L. No. 107-204, 116 Stat. 745 (2002).
+
+9 15 U.S.C. §7244(a).
+
+10 Section 306(a)(1) of the Act [15 U.S.C. §7244(a)(1)].
+
+11 Section 306(a)(6) of the Act [15 U.S.C. §7244(a)(6)].
+
+12 Section 306(c) of the Act [15 U.S.C. §7244(c)].
+
+13 Release No. 34-46778 (Nov. 2, 2002) [67 FR 69430] (the "Proposing Release").
+
+14 The commenters included six members of the legal and accounting communities, eight professional associations, three issuers and one individual investor. These comment letters and a summary of comments are available for public inspection and copying in our Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549, in File No. S7-44-02. Public comments submitted electronically and the summary of comments is available on our Web site http://www.sec.gov .
+
+15 17 CFR 245.100.
+
+16 17 CFR 245.101.
+
+17 17 CFR 245.102.
+
+18 15 U.S.C. §7244(a)(4)(A).
+
+19 17 CFR 245.103.
+
+20 17 CFR 245.104.
+
+21 15 U.S.C. §78p. Because the purposes of Section 306(a) of the Act and Section 16 of the Exchange Act are not identical, however, we note that Section 306(a) and Regulation BTR will not always be interpreted the same as Section 16 if these purposes diverge or the interests of investors require a different interpretation.
+
+22 15 U.S.C. §78p(a).
+
+23 15 U.S.C. §7201(7).
+
+24 17 CFR 245.100(k).
+
+25 15 U.S.C. §78c(a)(8). Section 3(a)(8) of the Exchange Act defines the term "issuer" to mean "any person who issues or proposes to issue any security; except that with respect to certificates of deposit for securities, voting-trust certificates, or collateral-trust certificates, or with respect to certificates of interest or shares in an unincorporated investment trust not having a board of directors or of the fixed, restricted management, or unit type, the term issuer' means the person or persons performing the acts and assuming the duties of depositor or manager pursuant to the provisions of the trust or other agreement or instrument under which such securities are issued; and except that with respect to equipment-trust certificates or like securities, the term issuer' means the person by whom the equipment or property is, or is to be, used."
+
+26 15 U.S.C. §78 l .
+
+27 15 U.S.C. §78o(d).
+
+28 15 U.S.C. §77a et seq .
+
+29 For a discussion of the application of Regulation BTR to registered investment companies, see the Proposing Release at Section II.B.1.d.
+
+30 See the Letter dated December 24, 2002 of the American Bar Association (the "ABA Letter") and the Letter dated November 27, 2002 of the Organization for International Investment.
+
+31 Exchange Act Rule 3b-4(c) [17 CFR 240.3b-4(c)] defines the term "foreign private issuer" to mean "any foreign issuer other than a foreign government except an issuer meeting the following conditions: (1) more than 50% of the issuer's outstanding voting securities are directly or indirectly held of record by residents of the United States; and (2) any of the following: (i) the majority of the executive officers or directors are United States citizens or residents; (ii) more than 50% of the assets of the issuer are located in the United States; or (iii) the business of the issuer is administered principally in the United States."
+
+32 See Section II.B.5.d below.
+
+33 Item 10(a)(1) of Regulation S-B [17 CFR 228.10(a)(1)] defines the term "small business issuer" to mean "a company that meets all of the following criteria: (i) has revenues of less than $25,000,000; (ii) is a U.S. or Canadian issuer; (iii) is not an investment company; and (iv) if a majority-owned subsidiary, the parent corporation is also a small business issuer. Provided however , that an entity is not a small business issuer if it has a public float (the aggregate market value of the issuer's outstanding securities held by non-affiliates) of $25,000,000 or more."
+
+34 See the Letter dated December 16, 2002 of PricewaterhouseCoopers LLP (the "PWC Letter").
+
+35 See the PWC Letter.
+
+36 17 CFR 240.3b-7. This definition differs from the definition in Exchange Act Rule 16a-1(f) [17 CFR 240.16a-1(f)] in that it does not expressly include an issuer's principal financial officer or principal accounting officer (or controller). It also does not expressly cover officers of a parent corporation or explain how to identify an issuer's executive officers when the issuer is a limited partnership or trust.
+
+37 See the Letter dated December 16, 2002 of America's Community Bankers (the "ACB Letter") and the Letter dated December 16, 2002 of the Profit Sharing/401k Council of America (the "PSCA Letter").
+
+38 Exchange Act Rule 16a-1(f) defines the term "officer" to mean "an issuer's president, principal financial officer, principal accounting officer (or, if there is no such accounting officer, the controller), any vice-president of the issuer in charge of a principal business unit, division or function (such as sales, administration or finance), any other officer who performs a policy-making function, or any other person who performs similar policy-making functions for the issuer. Officers of the issuer's parent(s) or subsidiaries shall be deemed officers of the issuer if they perform such policy-making functions for the issuer. In addition, when the issuer is a limited partnership, officers or employees of the general partner(s) who perform policy-making functions for the limited partnership are deemed officers of the limited partnership. When the issuer is a trust, officers or employees of the trustee(s) who perform policy-making functions for the trust are deemed officers of the trust."
+
+39 Thus, the standard for determining whether an individual is an "executive officer" for purposes of Section 306(a) of the Act and Regulation BTR is the same as the standard applicable under Exchange Act Rule 16a-1(f). For example, the term "policy-making functions" does not include policy-making functions that are not significant. Similarly, if pursuant to Item 401(b) of Regulation S-K [17 CFR 229.401(b)], an issuer identifies an individual as an "executive officer," it will be presumed that the board of directors of the issuer made that judgment and that the individuals so identified are executive officers of the issuer for purposes of Section 306(a) and Regulation BTR, as are such other persons enumerated in Exchange Act Rule 16a-1(f) but not in Item 401(b). See the note to Exchange Act Rule 16a-1(f).
+
+40 17 CFR 245.100(c)(1).
+
+41 15 U.S.C. §78c(a)(7). As we have previously noted, this definition reflects a functional and flexible approach to determining whether a person is a director of an entity. See Release No. 34-46685 (Oct. 18, 2002) [67 FR 65325] at n. 7. Thus, for purposes of Section 306(a) of the Act and Regulation BTR, an individual's title is not dispositive as to whether he or she is a director. As under Section 16 of the Exchange Act, attention must be given to the individual's underlying responsibilities or privileges with respect to the issuer and whether he or she has a significant policy-making role with the issuer. See Release No. 34-28869 (Feb. 21, 1991) [56 FR 7242], at Section II.A.1. An individual may hold the title "director" and yet, because he or she is not acting as such, not be deemed a director. Release No. 34-26333 (Dec. 2, 1988) [53 FR 49997], at Section III.A.2.
+
+42 17 CFR 245.100(h)(1).
+
+43 See the ABA Letter and the Letter dated December 16, 2002 of Cleary, Gottlieb, Steen & Hamilton (the "Cleary Letter").
+
+44 17 CFR 245.100(c)(2).
+
+45 17 CFR 245.100(h)(2).
+
+46 New Rule 100(i) of Regulation BTR [17 CFR 245.100(i)] defines the term "exempt security" by reference to the definition in Section 3(a)(12) of the Exchange Act [15 U.S.C. §78c(a)(12)].
+
+47 17 CFR 245.100(e).
+
+48 15 U.S.C. §78c(a)(11). Section 3(a)(11) of the Exchange Act defines the term "equity security" to mean "any stock or similar security; or any security future on any such security; or any security convertible, with or without consideration, into such a security, or carrying any warrant or right to subscribe to or purchase such a security; or any such warrant or right; or any other security which the Commission shall deem to be of similar nature and consider necessary or appropriate, by such rules and regulations as it may prescribe in the public interest or for the protection of investors, to treat as an equity security."
+
+49 17 CFR 240.3a11-1. Exchange Act Rule 3a11-1 defines the term "equity security" to mean "any stock or similar security, certificate of interest or participation in any profit sharing agreement, preorganization certificate or subscription, transferable share, voting trust certificate or certificate of deposit for an equity security, limited partnership interest, interest in a joint venture, or certificate of interest in a business trust; any security future on any such security; or any security convertible, with or without consideration into such a security, or carrying any warrant or right to subscribe to or purchase such a security; or any such warrant or right; or any put, call, straddle, or other option or privilege of buying such a security from or selling such a security to another without being bound to do so."
+
+50 17 CFR 245.100(f).
+
+51 17 CFR 245.100(d).
+
+52 17 CFR 240.16a-1(c). Exchange Act Rule 16a-1(c) defines the term "derivative securities" to mean "any option, warrant, convertible security, stock appreciation right, or similar right with an exercise or conversion privilege at a price related to an equity security, or similar securities with a value derived from the value of an equity security, but shall not include: (1) rights of a pledgee of securities to sell the pledged securities; (2) rights of all holders of a class of securities of an issuer to receive securities pro rata, or obligations to dispose of securities, as a result of a merger, exchange offer, or consolidation involving the issuer of the securities; (3) rights or obligations to surrender a security, or have a security withheld, upon the receipt or exercise of a derivative security or the receipt or vesting of equity securities, in order to satisfy the exercise price or the tax withholding consequences of receipt, exercise or vesting; (4) interests in broad-based index options, broad-based index futures, and broad-based publicly traded market baskets of stocks approved for trading by the appropriate federal governmental authority; (5) interests or rights to participate in employee benefit plans of the issuer; or (6) rights with an exercise or conversion privilege at a price that is not fixed; or (7) options granted to an underwriter in a registered public offering for the purpose of satisfying over-allotments in such offering."
+
+53 Under Regulation BTR, a purchase, sale or other acquisition or transfer of an equity security will be attributed to a director or executive officer if he or she has a pecuniary interest in the transaction. To promote consistency and to simplify compliance, new Rule 100( l ) of Regulation BTR [17 CFR 100( l )] defines the terms "pecuniary interest" and "indirect pecuniary interest" by reference to the definitions in Exchange Act Rule 16a-1(a)(2) [17 CFR 240.16a-1(a)(2)]. The definition in new Rule 100( l ) also encompasses the portfolio exclusion of Exchange Act Rule 16a-1(a)(2)(iii) [17 CFR 240.16a-1(a)(2)(iii)].
+
+54 This interpretation of the statute is reflected in new Rule 101(a) of Regulation BTR [17 CFR 245.101(a)].
+
+55 Accordingly, a transaction involving equity securities that are not acquired in connection with service or employment as a director or executive officer is not subject to the Section 306(a) trading prohibition.
+
+56 17 CFR 245.100(a).
+
+57 The scope of the phrase "compensatory plan, contract, authorization or arrangement" includes a "plan" as defined in Item 402(a)(7)(ii) of Regulation S-K [17 CFR 229.402(a)(7)(ii)], as well as an "employee benefit plan" as defined in Securities Act Rule 405 [17 CFR 230.405].
+
+58 17 CFR 229.404(a) or (b). The descriptions in Item 404(a) and (b) of Regulation S-K are to be used without regard to whether the issuer is a "small business issuer" subject to the disclosure requirements of Regulation S-B [17 CFR 228.10 et seq .].
+
+59 See n. 53 above.
+
+60 See the ABA Letter, the ACB Letter, the PSCA Letter, the PWC Letter and the Letter dated December 16, 2002 of Sullivan & Cromwell (the "S&C Letter").
+
+61 See the ACB Letter.
+
+62 See the ABA Letter, the PSCA Letter and the S&C Letter.
+
+63 See the ACB Letter and the S&C Letter.
+
+64 17 CFR 245.100(a)(5).
+
+65 In addition, equity securities acquired in connection with a merger, consolidation or other business combination by an individual (whether or not a director or executive officer of the target entity) as an inducement to becoming a director or executive officer of the acquiring entity will be considered "acquired in connection with service or employment as a director or executive officer." See new Rule 100(a)(4) of Regulation BTR [17 CFR 245.100(a)(4)].
+
+66 See the PWC Letter.
+
+67 See, for example, the ABA Letter, the Letter dated December 16, 2002 of Intel Corporation (the "Intel Letter") and the PSCA Letter.
+
+68 See the ABA Letter and the S&C Letter.
+
+69 See Treas. Reg. 1.1012-1(c).
+
+70 See, for example, Securities Act Rule 144(d) [17 CFR 230.144(d)].
+
+71 17 CFR 245.101(b).
+
+72 While not required, a director or executive officer may want to add a note describing the date and nature of the transaction in which the securities were acquired in the "Explanation of Responses" section of the Form 4 [17 CFR 249.104] reporting the transaction.
+
+73 See the discussion in Section II.B.4.a above.
+
+74 17 CFR 245.101(c).
+
+75 17 CFR 240.10b5-1(c).
+
+76 As defined in Exchange Act Rule 16b-3(b)(1) [17 CFR 240.16b-3(b)(1)].
+
+77 These plans include Qualified Plans (as defined in Exchange Act Rule 16b-3(b)(4) [17 CFR 240.16b-3(b)(4)]), Excess Benefit Plans (as defined in Exchange Act Rule 16b-3(b)(2) [17 CFR 240.16b-3(b)(2)]) and Stock Purchase Plans (as defined in Exchange Act Rule 16b-3(b)(5) [17 CFR 240.16b-3(b)(5)]) and, with respect to foreign private issuers, specified similar plans. See n. 83 below and the accompanying text. Some commenters requested exemptions for specific transactions under these "tax-conditioned" plans. As discussed in this section, we do not believe that these exemptions are necessary. See n. 85 below and the accompanying text.
+
+78 See the PSCA Letter.
+
+79 See the Intel Letter.
+
+80 See the ABA Letter.
+
+81 17 CFR 245.101(c)(2).
+
+82 See TSC Industries, Inc. v. Northway, Inc. , 426 U.S. 438 (1976); Basic, Inc. v. Levinson , 485 U.S. 224 (1988).
+
+83 17 CFR 245.101(c)(3).
+
+84 See n. 77 above.
+
+85 See n. 76 above.
+
+86 For example, European-style options.
+
+87 See new Rules 101(c)(4) - (9) of Regulation BTR [17 CFR 245.101(c)(4) - (9)].
+
+88 15 U.S.C. §7244(a)(3).
+
+89 See Exchange Act Rule 16b-5 [17 CFR 240.16b-5].
+
+90 17 CFR 240.16a-12.
+
+91 For purposes of the Act and Regulation BTR, a plan administrator will be considered a "fiduciary" of the plan even if it has invoked the rules under Section 404(c) of the Employment Retirement Income Security Act of 1974 ("ERISA") [29 U.S.C. §1104(c)] to avoid liability for losses in participant or beneficiary accounts where participants and beneficiaries are provided an opportunity to exercise control over the assets in their individual accounts and are given an opportunity to choose from a broad range of investments.
+
+92 See the PSCA Letter.
+
+93 See the ACB Letter and the PWC Letter.
+
+94 See the ACB Letter and the Letter dated December 16, 2002 of The ERISA Industry Committee (the "ERIC Letter").
+
+95 17 CFR 245.100(j).
+
+96 15 U.S.C §7244(a)(5). Consequently, a temporary trading suspension in issuer equity securities in an individual account plan that is a pension plan as defined in ERISA may trigger the Section 306(a) trading prohibition, whether or not the plan is actually subject to ERISA.
+
+97 29 U.S.C. §1002(34). Section 3(2)(A) of ERISA [29 U.S.C. §1002(2)(A)] defines the term "pension plan" to mean "any plan, fund, or program . . . established or maintained by an employer or an employee organization, or by both, to the extent that by its express terms or as a result of surrounding circumstances such plan, fund, or program (i) provides retirement income to employees, or (ii) results in a deferral of income by employees for periods extending to the termination of covered employment or beyond, regardless of the method of calculating the contributions made to the plan, the method of calculating the benefits under the plan or the method of distributing benefits from the plan."
+
+98 See Section 306(a)(5) of the Act.
+
+99 This change was made in response to a comment in the Letter dated December 13, 2002 of the Investment Company Institute (the "ICI Letter"). We have made this exclusion applicable to all issuers, not just investment companies, because we believe that it is unnecessary to include director-only plans within the scope of the rule, whether or not the issuer is an investment company.
+
+100 17 CFR 245.100(b).
+
+101 Thus, a temporary trading suspension applicable to such an individual account plan in which no issuer equity securities are actually held by plan participants or beneficiaries will trigger a determination of whether a "blackout period" will occur in that plan. Similarly, an individual account plan maintained by an issuer that permits participants or beneficiaries to acquire or hold equity securities of the issuer, whether or not the plan actually contains equity securities of the issuer at the time of the determination, will be taken into account in determining whether a temporary trading suspension in a different plan constitutes a "blackout period."
+
+102 17 CFR 245.100(b)(3)(i).
+
+103 26 U.S.C. §414(b), (c), (m) and (o). Section 414(b) provides that, for purposes of various provisions of the Internal Revenue Code, all employees of all corporations that are members of a "controlled group" of corporations are to be treated as employed by a single employer. Section 414(c) provides "single-employer" treatment for certain groups of partnerships and proprietorships under common control, while Section 414(m) provides "single-employer" treatment for organizations that provide services for one another.
+
+104 See the ERIC Letter and the S&C Letter.
+
+105 See the S&C Letter.
+
+106 17 CFR 245.100(b)(3)(ii).
+
+107 This type of employee benefit plan is excluded from the coverage provisions of ERISA. See Section 4(b)(4) of ERISA [29 U.S.C. §1003(b)(4)].
+
+108 29 U.S.C. §1104(b).
+
+109 See new Rule 100(b)(1) of Regulation BTR.
+
+110 See the ERIC Letter.
+
+111 See, for example, the Letter dated December 16, 2002 of Computer Sciences Corporation, the PSCA Letter and the PWC Letter.
+
+112 See the ABA Letter.
+
+113 17 CFR 245.100(b)(4)(i).
+
+114 17 CFR 245.100(b)(4)(ii).
+
+115 See proposed Exchange Act Rule 100(b)(2).
+
+116 See the ABA Letter; the Cleary Letter; the S&C Letter and the Letter dated December 16, 2002 of Shearman & Sterling.
+
+117 See the S&C Letter.
+
+118 17 CFR 245.100(b)(2).
+
+119 We arrived at this number after examining the number of employees (including the number of employees based in the United States) of several foreign private issuers, applying the 15% calculation to these issuers and balancing the objectives of Section 306(a) of the Act with the interests of foreign private issuers.
+
+120 15 U.S.C. §7244(a)(4)(B).
+
+121 See Section 306(a)(4)(B)(i) of the Act [15 U.S.C. §7244(a)(4)(B)(i)].
+
+122 See Section 306(a)(4)(B)(ii) of the Act [15 U.S.C. §7244(a)(4)(B)(ii)].
+
+123 17 CFR 245.102.
+
+124 These clarifications are necessary to resolve ambiguities that might otherwise require literal compliance with the conditions of the exceptions in order to avoid having the described temporary trading suspensions be "blackout periods" for purposes of Section 306(a) of the Act.
+
+125 17 CFR 245.102(a).
+
+126 See new Rule 102(a)(2) of Regulation BTR [17 CFR 245.102(a)(2)].
+
+127 See the ABA Letter, the ERIC Letter and the S&C Letter.
+
+128 See Section 104(b) of ERISA [29 U.S.C. §1024(b)].
+
+129 17 CFR 245.102(b).
+
+130 See Sections 3(b)(1) and 306(a)(1) of the Act [15 U.S.C. §§7202(b)(1) and 7244(a)(1)]. See also the Proposing Release at Section II.B.6.a.
+
+131 15 U.S.C. §7244(a)(2).
+
+132 15 U.S.C. §7244(a)(2).
+
+133 See Exchange Act Rule 16a-1(a)(2)(i) [17 CFR 240.16a-1(a)(2)(i)]. See also Feder v. Frost , 220 F.3d 29, 34 (2d Cir. 2000).
+
+134 See the ACB Letter and the Cleary Letter.
+
+135 See the ACB Letter.
+
+136 See the Proposing Release, at Section II.B.6.c.
+
+137 See the ABA Letter.
+
+138 17 CFR 245.103(c).
+
+139 15 U.S.C. §78 l (b) or (g).
+
+140 17 CFR 245.103(c)(1).
+
+141 17 CFR 245.103(c)(2).
+
+142 17 CFR 245.103(c)(3).
+
+143 15 U.S.C. §7244(a)(6).
+
+144 17 CFR 245.104.
+
+145 See Section 3(b)(1) of the Act.
+
+146 17 CFR 245.104(b)(1).
+
+147 17 CFR 245.104(b)(1)(iv).
+
+148 See the ICI Letter.
+
+149 Comments about the difficulty in projecting in advance the beginning and ending dates of a blackout period were raised with the Department of Labor in response to the interim final rules adopted by the Department of Labor last year under Section 306(b) of the Act. See 67 FR 64766. As a result, the Department of Labor modified its rules to permit use of a limited range of dates for purposes of disclosing the beginning and ending dates of a blackout period.
+
+150 This rule is similar to the DOL Rules.
+
+151 See new Rule 104(b)(1)(iv)(C) of Regulation BTR [17 CFR 245.104(b)(1)(iv)(C)].
+
+152 See new Rules 104(b)(2)(iii) and 104(b)(3)(iii) of Regulation BTR [17 CFR 245.104(b)(2)(iii) and 104(b)(3)(iii)].
+
+153 See the Letter dated December 12, 2002 of Compass Bancshares, Inc.
+
+154 As enacted under Section 306(b) of the Act, Section 101(i)(2)(B) of ERISA [29 U.S.C. §1021(i)(2)(B)] requires that, at least 30 days in advance of a blackout period, a plan administrator notify affected plan participants and beneficiaries of the impending blackout period. In addition, Section 101(i)(2)(E) of ERISA [29 U.S.C. §1021(i)(2)(E)] requires a plan administrator to timely notify the issuer of the plan securities of the impending blackout period.
+
+155 17 CFR 245.104(b)(2).
+
+156 For purposes of the rule, notice will be considered provided as of the date of mailing, if mailed by first class mail, or as of the date of electronic transmission, if transmitted electronically.
+
+157 17 CFR 245.104(b)(2)(ii).
+
+158 See the PWC Letter.
+
+159 See the ABA Letter, the ACB Letter and the Intel Letter.
+
+160 See the ACB Letter.
+
+161 See the ABA Letter.
+
+162 See the ACB Letter and the Intel Letter.
+
+163 See the ACB Letter.
+
+164 See revised Instruction B.1 to Form 8-K.
+
+165 17 CFR 245.104(b)(3)(ii).
+
+166 17 CFR 249.306.
+
+167 See the ICI Letter and the PWC Letter.
+
+168 For a discussion of the application of Regulation BTR to registered investment companies, see the Proposing Release at Section II.B.1.d.
+
+169 See amended Exchange Act Rules 13a-11(b) and 15d-11(b) [17 CFR 240.13a-11(b) and 240.15d-11(b)].
+
+170 17 CFR 249.308a.
+
+171 17 CFR 249.308b.
+
+172 44 U.S.C. §3501 et seq .
+
+173 44 U.S.C. §3507(d) and 5 CFR 1320.11.
+
+174 We estimate that these burden hours will result in an aggregate cost of approximately $692,000 per year. This estimate is based on an estimated hourly rate of $100.00 to determine the estimated cost to issuers of having their employees handle the notice and filing requirements imposed by Section 306(a) of the Act and Regulation BTR. We arrived at this hourly rate estimate after consulting with several issuers and persons who assist issuers in filing reports with the Commission. We then multiplied this hourly rate by a factor of 1.35 to reflect appropriate overhead charges. 5,125 hours × $135.00 per hour = $691,875.
+
+175 5 U.S.C. §603.
+
+176 See the Letter dated December 16, 2002 of PricewaterhouseCoopers LLP.
+
+177 17 CFR 240.0-10(a).
+
+178 A similar definition is provided under Securities Act Rule 157 [17 CFR 230.157].
+
+179 This estimate is based on filings with the Commission.
+
+180 ($253,073 + (2,357 × $200 per hour))/1,230 blackouts = $589. See also Section IV.B above.
+
+181 15 U.S.C. §78w(a)(2).
+
+182 15 U.S.C. §78c(f).
+
+183 See 5 U.S.C. §553(d).
+
+184 Id .
+
+185 See Section 306(a)(3) of the Act.

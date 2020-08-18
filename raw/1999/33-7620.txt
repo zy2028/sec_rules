@@ -1,0 +1,371 @@
+https://www.sec.gov/rules/final/33-7620.txt
+
+	I.0.0.0: I. BACKGROUND
+
+	II.0.0.0: II. RULE CHANGES
+
+		II.A.0.0: A. Operating Segment Disclosure
+
+			II.A.1.0: 1. Description of Business - Item 101
+
+			II.A.1.a: a. Principal products or services
+
+			II.A.1.b: b. Retroactive restatement of information
+
+			II.A.1.c: c. Appendix A
+
+			II.A.2.0: 2. Property - Item 102
+
+			II.A.3.0: 3. Managements Discussion & Analysis - Item 303
+
+			II.A.4.0: 4. Form 20-F
+
+		II.B.0.0: B. Other Reporting Requirements
+
+			II.B.1.0: 1. Geographic areas
+
+			II.B.2.0: 2. Major customers
+
+		II.C.0.0: C. Segment Information Added to Interim Reports
+
+	III.0.0.0: III. CERTAIN FINDINGS
+
+	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
+
+	V.0.0.0: V. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT<sup> 46 </sup>
+
+	VII.0.0.0: VII. CODIFICATION UPDATE
+
+			VII.C.1.0: 1. Modify Section 501 by revising Section 501.06.a. to read as follows: a. Segment Analysis
+
+	VIII.0.0.0: VIII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 210, 229, 240 and 249
+
+[Release Nos. 33-7620; 34-40884; FR54; File No. S7-17-98]
+
+RIN 3235-AH43 Segment Reporting
+
+AGENCY: Securities and Exchange Commission 
+
+ACTION: Final Rules 
+
+SUMMARY: The Commission today is adopting technical amendments to conform our reporting requirements with the Financial Accounting Standards Boards ("FASB") Statement of Financial Accounting Standards ("SFAS") No. 131, governing disclosures relating to a business enterprises operating segments. 
+
+DATES: Effective Date: The rules will become effective on [insert date 30 days following publication in the Federal Register]. Compliance Date: Issuers may voluntarily comply with the revised rules before the effective date. 
+
+FOR FURTHER INFORMATION, CONTACT: James R. Budge, Special Counsel, Division of Corporation Finance, at (202) 942-2950, Louise M. Dorsey, Assistant Chief Accountant, Division of Corporation Finance, at (202) 942-2960, or Robert F. Lavery, Assistant Chief Accountant, Office of the Chief Accountant, at (202) 942-4400, U.S. Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549.
+
+SUPPLEMENTARY INFORMATION: The Commission today adopts technical amendments to Rules 3-03<sup> 1 </sup> and 12-16<sup> 2 </sup> of Regulation S-X,<sup> 3 </sup> Items 101<sup> 4 </sup> and 102<sup> 5 </sup> of Regulation S-K,<sup> 6 </sup> and Schedule 14A<sup> 7 </sup> in order to conform our reporting requirements with the FASBs recently adopted SFAS No. 131. We also are making consistent changes to Form 20-F<sup> 8 </sup> and to Section 501.06 of the Codification of Financial Reporting Policies ("CFRP").
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+In 1976, the FASB issued SFAS No. 14, "Financial Reporting for Segments of a Business Enterprise." SFAS No. 14 required corporations to disclose certain financial information by "industry segment" as defined in the statement and by geographic area. In December 1977, we adopted amendments to our rules to integrate the information to be furnished under SFAS No. 14 with the narrative and financial disclosures required in various disclosure forms.<sup> 9 </sup>
+
+After extensive deliberations, including solicitation of public comments, the FASB adopted a number of fundamental changes to its standards for segment reporting by publishing SFAS No. 131 in June of 1997. SFAS No. 131 superseded SFAS No. 14 and established standards for reporting information about "operating segments" of an enterprise rather than following the "industry segment" standards that were in place previously.
+
+On June 25, 1998, the Commission proposed for comment a number of technical changes to its reporting requirements to accommodate these modifications.<sup> 10 </sup> Twelve commenters responded to the solicitation for public views on the proposed approach. Generally, the commenters were supportive of our efforts to conform our rules with the FASB standards. We have determined to adopt the rules essentially as proposed. We believe that this action is in keeping with our long-standing policy to look to the private sector for the promulgation of generally accepted accounting principles ("GAAP").<sup> 11 </sup> It also furthers our goal of integrating existing accounting information into the narrative disclosure in documents mandated by the federal securities laws. This release explains the new reporting requirements. 
+
+<h>II. RULE CHANGES</h>
+
+<h>A. Operating Segment Disclosure</h>
+
+SFAS No. 14 required, and the Commissions rules and forms have required, disclosure along "industry segment" lines. An "industry segment," as defined by SFAS No. 14, was "a component of an enterprise engaged in providing a product or service or a group of related products and services primarily to unaffiliated customers . . . for a profit."<sup> 12 </sup> Recognizing that businesses often evaluate their operations using criteria not necessarily related to the products or services offered to the public, the FASB replaced the industry segment reporting standard with one that requires businesses to report financial information on the basis of "operating segments."<sup> 13 </sup> Under the new accounting standard, an operating segment is a component of a business, for which separate financial information is available, that management regularly evaluates in deciding how to allocate resources and assess performance.<sup> 14 </sup> Specifically, SFAS No. 131 states that an operating segment is a component of a business: 
+
+* that engages in activities from which it may earn revenues and incur expenses (including revenues and expenses relating to transactions with other components of the same business); 
+
+* whose operating results are regularly reviewed by the enterprises "chief operating decision maker"<sup> 15 </sup> to make decisions about resources to be allocated to the segment and assess its performance; and 
+
+* for which discrete financial information is available.
+
+Under SFAS No. 131, a company generally must report separately information about an operating segment that meets any of the following thresholds: 
+
+* Its reported revenue, including both sales to external customers and intersegment sales and transfers, is 10 percent or more of the combined revenue of all reported operating segments, whether generated inside or outside of the company;<sup> 16 </sup>
+
+* Its reported profit or loss is 10 percent or more of the greater of: (1) the combined reported profit of all operating segments that did not report a loss or (2) the combined reported loss of all operating segments that did report a loss; or
+
+* Its assets are 10 percent or more of the combined assets of all operating segments.<sup> 17 </sup>
+
+SFAS No. 131 not only changed how a business should identify its segments, it also changed the types of information to be disclosed for each segment. SFAS No. 14 required an issuer to report its revenues, operating profit (loss),<sup> 18 </sup> and identifiable assets<sup> 19 </sup> if a segments revenues, operating profit, or identifiable assets were 10% or more of all the industry segments revenues, operating profits, or assets, respectively. Issuers were to reconcile these three items to the consolidated amounts in the financial statements. In addition, SFAS No. 14 required issuers to report for each segment depreciation, depletion and amortization, capital expenditures, equity in net income of unconsolidated subsidiary or equity- method investee, and the effect of a change in accounting principle on operating profit (loss).
+
+By contrast, SFAS No. 131 requires that a company provide for each reportable segment quantitative disclosure of two basic items - total assets and a measure of profit or loss. The new standard defines neither segment profit (loss) nor assets. Instead, management must determine what they will report based on how they operate their business. In addition, companies must disclose the following items for each segment, but only if management includes them in measuring segment profit or loss:
+
+* revenues from external customers;
+
+* revenues from other operating segments;
+
+* interest income;<sup> 20 </sup>
+
+* interest expense;<sup> 21 </sup>
+
+* depreciation, depletion and amortization;
+
+* unusual items;
+
+* equity in net income of equity method investees;
+
+* income taxes;
+
+* extraordinary items; and
+
+* significant non-cash items other than depreciation, depletion, and amortization. A company also must disclose for each segment the amount of investment in equity-method investees and total expenditures for additions to long-lived assets if it includes the amount in its determination of segment assets.<sup> 22 </sup>
+
+The company must reconcile the totals of the reportable segments amounts for all of these listed items to consolidated amounts. The FASB required more items to be disclosed per segment under the new standard because analysts have long wanted more information and most of the items required should be already available in management reports.
+
+Today we are amending our narrative and financial reporting rules to conform their segment reporting requirements to the FASBs revised accounting standards. We retain, however, certain requirements relating to disclosure of principal products or services and major customers that traditionally have differed from the FASB standards.<sup> 23 </sup> We address below each of the rule changes.<sup> 24 </sup>
+
+<h>1. Description of Business - Item 101</h>
+
+In the past, Regulation S-K Item 101(b)<sup> 25 </sup> required issuers to disclose in the business description sections of documents that they filed with the Commission financial information based on GAAPs old "industry segment" standard. Under revised Item 101, registrants will report segment information in accordance with GAAPs new operating segment standard.<sup> 26 </sup> Other changes to Item 101 follow.
+
+<h>a. Principal products or services</h>
+
+Item 101 historically has required a discussion, by segment, of the principal products produced and services rendered by the issuer, as well as the principal markets for and methods of distribution of each segments products and services. On the other hand, GAAP required, and continues to require, disclosure of the types of products and services from which each segment derives its revenues, without reference to principal markets and methods of distribution. We continue to believe that information relating to principal markets and distribution methods is useful to investors; consequently we are retaining this provision.
+
+Item 101 further requires registrants to disclose the amounts of revenues from each class of similar products and services based on quantitative thresholds. Specifically, the issuer must state the amount or percentage of total revenue contributed by any class of similar products or services that accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years, or if total revenue did not exceed $50,000,000 during any of those three fiscal years, 15 percent or more of consolidated revenue.<sup> 27 </sup> SFAS No. 131 requires disclosure of revenues from external customers for each product and service or each group of similar products and services unless it is impracticable to do so.
+
+Because SFAS No. 131 requires disclosure regardless of amount, unless impracticable, it appears that the new accounting standard may require more disclosure than Item 101. Consequently, we sought public comment as to whether we needed to maintain the quantitative thresholds of Item 101(c)(1)(i). Several commenters advocated eliminating the quantitative thresholds and simply relying on the GAAP standard, which they said implied a materiality standard for minimum disclosure. We believe that SFAS No. 131 will result in disclosure of a range of amounts of products and services, depending upon how a company defines a class of related products or services. In fact, SFAS No. 131 may require disclosure of amounts below the existing 10% threshold of Item 101. We believe a clearly stated minimum threshold for disclosure is desirable to eliminate any possible ambiguity that may result from attempts to apply an unwritten materiality threshold to small amounts of reportable revenues and is in keeping with the 10% threshold used to report segments under SFAS No. 131. We therefore have retained these Item 101 thresholds.
+
+<h>b. Retroactive restatement of information</h>
+
+Item 101 has required issuers to restate retroactively previously reported financial information when there has been a material change in the way they group products or services into industry segments and that change affects the reported segment information. By contrast, SFAS No. 131 provides that if an issuer changes the structure of its internal organization in a manner that causes the composition of its reportable segments to change, the issuer must restate the corresponding information for earlier periods unless it is impracticable to do so.<sup> 28 </sup> In the final rule we conform the language of Item 101 with the language of SFAS No. 131 regarding when a company must restate information.
+
+<h>c. Appendix A</h>
+
+Item 101 has included an appendix illustrating how to present the required industry segment information in tabular form. As proposed, we are eliminating this appendix and will rely instead on the SFAS No. 131 instructions governing how to present information relating to operating segments.
+
+<h>2. Property - Item 102</h>
+
+Regulation S-K Item 102 requires descriptions of an issuers principal plants, mines, and other "materially important" physical properties. Companies must identify the industry segment(s) that use the described properties.<sup> 29 </sup> We are updating the item to reflect the new financial statement reporting requirements, as proposed.
+
+<h>3. Managements Discussion & Analysis - Item 303</h>
+
+Regulation S-K Item 303, which requires management to include a discussion and analysis of an issuers financial condition and results of operations, provides:
+
+Where in the registrants judgment a discussion of segment information or other subdivisions of the registrants business would be appropriate to an understanding of such business, the discussion shall focus on each relevant, reportable segment or other subdivision of the business and on the registrant as a whole.<sup> 30 </sup>
+
+The Commission historically has relied on the FASBs definition for segment disclosure in Managements Discussion and Analysis ("MD&A"). The Commission intends to continue to rely on the FASBs standards, thereby allowing issuers to use the management approach under SFAS No. 131. No rule change is necessary. Under the language in Item 303, a multi-segment registrant preparing a full fiscal year MD&A should analyze revenues, profitability (or losses) and total assets of each significant segment in formulating a judgment as to whether a discussion of segment information is necessary to an understanding of the business.
+
+While we are not adopting changes to the language of Item 303, we are amending CFRP 501.06.a, which provides informal guidance about MD&A. The revisions conform the Codifications language with that of SFAS No. 131, and adds a new footnote, that reads:
+
+Where consistent with the registrants internal management reports, SFAS No. 131 permits measures of segment profitability that differ from consolidated operating profit as defined by GAAP, or that exclude items included in the determination of the registrants net income. Under SFAS No. 131, a registrant also must reconcile key segment amounts to the corresponding items reported in the consolidated financial statements in a note to the financial statements. Similarly, the Commission expects that the discussion of a segment whose profitability is determined on a basis that differs from consolidated operating profit as defined by GAAP or that excludes the effects of items attributable to the segment also will address the applicable reconciling items in Managements Discussion and Analysis. For example, if a material charge for restructuring or impairment relates to a specific segment, but is not included in managements measure of the segments operating profit or loss, registrants would be expected to discuss in Managements Discussion and Analysis the applicable portion of the charge, the segment to which it relates and the circumstances of its incurrence. Likewise, the Commission expects that the effects of managements use of non-GAAP measures, either on a consolidated or segment basis, will be explained in a balanced and informative manner, and the disclosure will include a discussion of how that segments performance has affected the registrants GAAP financial statements.
+
+Several commenters said that the footnote as proposed could be read to require registrants to reconcile the internal measure of segment profitability to pre-tax income from continuing operations by segment, which partial reconciliation by segment would go significantly beyond the requirements of SFAS No. 131. We have revised this language, as set out above, to clarify that we are not requiring any incremental reconciliation of segment profit beyond what SFAS No. 131 requires. The note now makes it clear that we expect a narrative discussion in MD&A of items that affect the operating results of a segment but that are not included in segment operating profit defined by management.
+
+<h>4. Form 20-F</h>
+
+Form 20-F is the registration statement and annual report for foreign private issuers promulgated under the Securities Exchange Act of 1934 ("Exchange Act").<sup> 31 </sup> Form 20-F has permitted a foreign registrant that presents financial statements according to United States GAAP to omit SFAS No. 14 disclosures if it provides the information required by Item 1 of the form. As proposed, we are replacing the reference to SFAS No. 14 with one to SFAS No. 131.<sup> 32 </sup>
+
+Item 1 of Form 20-F requires registrants to disclose sales and revenues by categories of activity and geographical areas, as well as to discuss each category of activities that provide a disproportionate contribution to total "operating profit" of the registrant. We are not changing these requirements.
+
+<h>B. Other Reporting Requirements</h>
+
+SFAS No. 14 also set standards for disclosure of certain enterprise-wide information where the issuer did not provide the information in the segment disclosure, and Regulation S-K reflected those standards. As we proposed, we are updating our rules to conform with the revised requirements of SFAS No. 131, as we explain below.
+
+<h>1. Geographic areas</h>
+
+Regulation S-K Item 101(d) has required an issuer to disclose for each of the issuers last three fiscal years the amounts of revenue, operating profit or loss, and identifiable assets attributable to each of its geographic areas. It also required disclosure of the amount of export sales in the aggregate or by appropriate geographic area to which the issuer makes sales.
+
+Under SFAS No. 131, issuers must disclose revenues from external customers deriving from: 
+
+* the issuers country of domicile; 
+
+* all foreign countries in total from which the issuer derives revenues; and 
+
+* an individual foreign country, if material. An issuer also must disclose the basis for attributing revenues from external customers to individual countries.
+
+The new accounting standard also requires an issuer to disclose long-lived assets other than financial instruments, long-term customer relationships of a financial institution, mortgage and other servicing rights, deferred policy acquisition costs, as well as deferred tax assets located in its country of domicile and in all foreign countries, in total, in which the enterprise holds assets. If assets in an individual foreign country are material, an issuer must disclose those assets separately.<sup> 33 </sup>
+
+We are revising our disclosure requirements to conform entirely with the new accounting standard. Consequently, issuers, even those whose segments are defined by geography, will continue to report designated information based on geographic areas, unless the information is already provided as part of the reportable operating segment information required by the accounting standards.<sup> 34 </sup> Consistent with SFAS No. 131, the rules no longer will require companies to disclose geographic information relating to profitability, unless their segments are defined by geographic areas, or export sales.
+
+<h>2. Major customers</h>
+
+Since the adoption of SFAS No. 14, GAAP has required disclosure of revenues from major customers.<sup> 35 </sup> SFAS No. 131 now requires issuers to disclose the amount of revenues from each external customer that amounts to 10 percent or more of an enterprises revenue as well as the identity of the segment(s) reporting the revenues. The accounting standards, however, have never required issuers to identify major customers. On the other hand, Regulation S-K Item 101 historically has required naming a major customer if sales to that customer equal 10 percent or more of the issuers consolidated revenues and if the loss of the customer would have a material adverse effect on the issuer and its subsidiaries.<sup> 36 </sup> We continue to believe that the identity of major customers is material information to investors. This disclosure allows a reader to better assess risks associated with a particular customer, as well as material concentrations of revenues related to that customer. Consequently, we retain this Regulation S-K requirement, as we proposed.
+
+<h>C. Segment Information Added to Interim Reports</h>
+
+GAAP historically has not required segment reporting in interim financial statements. In SFAS No. 131, the FASB changed its position. Under the new accounting standards, issuers must include in condensed financial statements for interim periods the following information about each reportable segment: 
+
+* Revenues from external customers; 
+
+* Intersegment revenues; 
+
+* A measure of segment profit or loss; 
+
+* Total assets for which there has been a material change from the amount disclosed in the last annual report;
+
+* A description of differences from the last annual report in the basis of segmentation or in the basis of measurement of segment profit or loss; and 
+
+* A reconciliation of the total of the reportable segments measures of profit or loss to the enterprises consolidated income before income taxes, extraordinary items, discontinued operations, and the cumulative effect of changes in accounting principles.<sup> 37 </sup>
+
+Thus, for the first time, issuers must disclose in their interim financial statements, including those filed with the Commission, condensed financial information about the segments they have chosen as reportable segments for purposes of their annual reports. <sup> 38 </sup>
+
+SFAS No. 131 is effective for fiscal years beginning after December 15, 1997.<sup> 39 </sup> The FASB specified, however, that issuers need not apply the new provisions to interim financial statements in the initial year of application, but they must report comparative information for interim periods in that initial year in financial statements for interim periods in the second year of application.<sup> 40 </sup> Consequently, through the Rules of General Application of Regulation S-X, which state that financial statements not prepared in accordance with GAAP will be presumed to be misleading or inaccurate,<sup> 41 </sup> we expect to begin to see comparative segment information reported in filings made by companies whose fiscal years ended after December 15, 1998 in their filings relating to their first quarter ending after March 15, 1999. A calendar year end company would provide comparative interim segment information beginning in its March 31, 1999 interim financial statements. No changes to our rules are necessary to implement the FASBs changes in this regard.
+
+<h>III. CERTAIN FINDINGS</h>
+
+We requested comment on whether the proposed revisions, if adopted, would have an adverse effect on competition or would impose a burden on competition that is neither necessary nor appropriate in furthering the purposes of the Securities Act and the Exchange Act. No commenter addressed this issue. In complying with our responsibilities under Section 23(a)(2) of the Exchange Act, we have determined that there will be no adverse effect on competition and that the rule changes will not impose any unnecessary burden on competition that is not appropriate in furthering the purposes of the federal securities laws.<sup> 42 </sup>
+
+We also find that our action will promote efficiency, competition and capital formation by making our disclosure standards uniform with the accounting standards. This is in keeping with our responsibilities under Section 2(b) of the Securities Act<sup> 43 </sup> and Section 3(f) of the Exchange Act.<sup> 44 </sup>
+
+<h>IV. COST-BENEFIT ANALYSIS</h>
+
+We anticipate that these rule changes will not impose any new regulatory costs on registrants, since the changes simply conform our disclosure requirements with current accounting principles, to which registrants are already subject. To the contrary, registrants will benefit from the obligation to follow uniform standards rather than potentially conflicting ones.
+
+<h>V. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+Pursuant to section 605(b) of the Regulatory Flexibility Act,<sup> 45 </sup> Arthur Levitt, Chairman of the Commission, certified that the amendments proposed in this release would not, if adopted, have significant impact on a substantial number of small entities. The reason for this certification is that the amendments conform rules and forms to GAAP, as amended, to which registrants are already subject. We included the certification in the proposing release as Attachment A.
+
+<h>VI. PAPERWORK REDUCTION ACT<sup> 46 </sup></h>
+
+We determined that information collection burden hours will not change as a result of the technical amendments adopted today.
+
+<h>VII. CODIFICATION UPDATE</h>
+
+The "Codification of Financial Report Policies" announced in Financial Reporting Release No. 1 (April 15, 1982) [47 FR 21028] is updated to: 
+
+<h>1. Modify Section 501 by revising Section 501.06.a. to read as follows: a. Segment Analysis</h>
+
+In formulating a judgment as to whether a discussion of segment information is necessary to an understanding of the business, a multi-segment registrant preparing a full fiscal year MD&A should analyze revenues, profitability, and the cash needs of its significant segments.<sup> 47 </sup> To the extent any segment contributes in a materially disproportionate way to those items, or where discussion on a consolidated basis would present an incomplete and misleading picture of the enterprise, segment discussion should be included. This may occur, for example, when there are legal or other restrictions upon the free flow of funds from one segment, subsidiary, or division of the registrant to others; when known trends, demands, commitments, event, or uncertainties within a segment are reasonably likely to have a material effect on the business as a whole; when the ability to dispose of identified assets of a segment may be relevant to the financial flexibility of the registrant; and in other circumstances in which the registrant concludes that segment analysis is appropriate to an understanding of its business.
+
+The following example illustrates segment disclosure for a manufacturer with two segments. The two segments contributed to segment profit amounts that were disproportionate to their respective revenues. The registrant discusses sales and segment profit trends, factors explaining such trends, and where applicable, known events that will impact future results of operations of the segment.
+
+Net Sales by Segment
+
+Year 3 vs. Year 2
+
+Segment I sales increased 22% in Year 3 over the Year 2 period. The increase included the effect of the acquisition of Corporation T. Excluding this acquisition, sales would have increased by 16% over Year 2. Product Line A sales increased by 18% due to a 24% increase in selling prices, partially offset by lower shipments. Product Line B sales increased by 35% due to a 17% increase in selling prices and a 15% increase in shipment volume.
+
+Segment II sales increased 9% due to a 12% increase in selling prices partly offset by a 3% reduction in shipment volume. Year 2 vs. Year 1
+
+Segment I sales increased 14% in Year 2. Product Line A sales increased 22%, in spite of a slight reduction in shipments, because of a 23% increase in selling prices.
+
+Product Line B sales declined 5% due mainly to a 7% decrease in selling prices, partially offset by higher shipments.
+
+The 5% decline in Segment II sales reflected a 3% reduction in selling prices and a 2% decline in shipments.
+
+The substantial increases in selling prices of Product Line A during Year 3 and Year 2 occurred primarily because of heightened worldwide demand which exceeded the industrys production capacity. The Company expects these conditions to continue for the next several years. The Company anticipates that shipment volumes of Product Line A will increase as its new production facility reaches commercial production levels in Year 4.
+
+Segment II shipment volumes have declined during the past two years primarily because of the discontinuation of certain products that were marginally profitable and did not have significant growth potential.
+
+Year 3 vs. Year 2
+
+Segment I profit was $18 million (17%) higher in Year 3 than in Year 2. This increase includes the effects of higher sales prices and slightly improved margins on Product Line A, higher shipments of Product Line B and the acquisition of Corporation T. Excluding this acquisition, Segment I profit would have been 11% higher than in Year 2. Partially offsetting these increases are costs and expenses of $11 million related to new plant start-up, slightly reduced margins on Product Line B and a $9 million increase in research and development expenses.
+
+Segment II profit declined $9 million (18%) due mainly to substantially higher costs in Year 3 resulting from a 23% increase in average raw material costs which could not be fully recovered through sales prices increases. The Company expects that Segment II margins will continue to decline, although at a lesser rate than in Year 3 as competitive factors limit the Companys ability to recover cost increases. 
+
+Year 2 vs. Year 1
+
+Segment I profit was $41 million (61%) higher in Year 2 than in Year 1. After excluding the effect of the $34 million non- recurring charge for the early retirement program in Year 1, Segment I profit in Year 2 was $18 million (27%) higher than in Year 1. This increase reflected higher prices and a corresponding 21% increase in margins on Product Line A, and a 17% increase in margins on Product Line B due primarily to costs reductions resulting from the early retirement program.
+
+Segment II profit declined about $3 million (6%) due mainly to lower selling prices and slightly reduced margins in Year 2. 2. Replace paragraphs .01, .02 and .03 of Section 503 with new paragraph .01, to include the text of Section I of this release captioned "Background" and with new paragraph .02 to include the text of Section II.B.2 of this release captioned "Major Customers."
+
+The Codification is a separate publication of the Commission. It will not be published in the Code of Federal Regulations.
+
+<h>VIII. STATUTORY BASIS</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 210.3-03.
+
+2 17 CFR 210.12-16.
+
+3 17 CFR Part 210.
+
+4 17 CFR 229.101.
+
+5 17 CFR 229.102.
+
+6 17 CFR Part 229.
+
+7 17 CFR 240.14a-101.
+
+8 17 CFR 249.220f.
+
+9 Release No. 33-5893 (December 23, 1977) [42 FR 65554].
+
+10 Release No. 33-7549 (June 25, 1998) [63 FR 35886].
+
+11 Section 101 of the Codification of Financial Reporting Policies. The Commission initially issued its administrative policy concerning financial statements in 1938 and updated it in 1973 to recognize the establishment of the FASB.
+
+12 SFAS No. 14, 10.a.
+
+13 We use the proposed terms "segment" and "segments" as well as the phrase "segments as defined by generally accepted accounting principles" and similar terms or phrases in the rules rather than follow the accounting standards nomenclature of "operating segment." Registrants should construe these terms to mean a component of a business for which GAAP requires separate reporting in financial statements.
+
+14 We refer to this below as the "management approach."
+
+15 The term "chief operating decision maker" identifies a function, not a person with that title. This persons function is to allocate resources to and assess the performance of the companys segments. A chief operating decision maker frequently might be a companys chief executive officer or chief operating officer, but it also could be a group of decision makers, for example, the companys president, executive vice presidents and others.
+
+16 The FASB has proposed eliminating the word "reported" from the phrase "all reported operating segments." See 7.t.(1)(a) of Proposed Statement of Financial Accounting Standards - Amendment to FASB Statement No. 66, Rescission of FASB Statement No. 75, and Technical Corrections, File Reference No. 190-A, dated October 13, 1998 ("Exposure Draft").
+
+17 SFAS No. 131, 18.
+
+18 SFAS No. 14 specifically defined segment operating profit to be revenues less all operating expenses, which included depreciation and amortization. An issuer was to allocate operating expenses that were not directly traceable to a particular segment on a reasonable basis among the segments for whose benefit the expenses were incurred. The standard required an explanation of the amount and nature of any unusual or nonrecurring items added or deducted in determining operating profit of a segment. In addition, the standard defined any restructuring charges related to a specific segment as operating expenses of that segment and issuers were to deduct these charges in calculating that segments operating profit or loss. SFAS No. 14 excluded certain items in calculating segment profit. They were: general corporate expenses; interest expense (except included for financial institutions, insurance and leasing operations); equity in income (loss) of unconsolidated subsidiaries or equity investees; discontinued operations; extraordinary items; and, the effects of changes in accounting.
+
+19 Segment assets included all tangible and intangible assets used by the segment, including goodwill, other intangibles, and deferred income and expenses.
+
+20 Certain enterprises may report segment interest revenue net of interest expense. See SFAS No. 131, 27.
+
+21 Id.
+
+22 In its Exposure Draft, the FASB has proposed to modify the provisions of 27 and 28 of SFAS No. 131 to require companies to disclose the designated items for each segment, if included in the measure of profit or loss reviewed by or otherwise regularly provided to the chief operating decision maker. See 7.t.(3) and (4) of the Exposure Draft. 
+
+23 See Sections II.A.1.a. and II.B.2.
+
+24 We are also adopting several technical amendments to update cross references to the new accounting standard. These revisions are in Rules 3- 03(e) and 12-16 of Regulation S-X and Item 14(b)(2)(ii)(A)(3)(i) of Schedule 14A.
+
+25 17 CFR 229.101(b).
+
+26 We also retain the provisions allowing an issuer to refer to other sections of the registration statement that include the required information in order to avoid duplicative disclosure.
+
+27 17 CFR 229.101(c)(1)(i).
+
+28 See SFAS No. 131, 34.
+
+29 17 CFR 229.102.
+
+30 17 CFR 229.303(a).
+
+31 15 U.S.C. 78a et seq.
+
+32 See Instruction 3 to Item 17 of Form 20-F. One commenter suggested also referencing International Accounting Standard 14 in this instruction. In light of the technical nature of this rulemaking, we believe that we should reexamine this suggestion in connection with substantive rulemaking projects involving this form that may arise in the future rather than adopt a provision that was not introduced in the proposals.
+
+33 See SFAS No. 131, 38.
+
+34 See SFAS No. 121, 36. We are eliminating Appendix B of Regulation S-K Item 101. We also revise Instruction 2 to Item 101, which provides guidance about materiality analyses based on "interperiod comparability," to reflect the elimination of the requirements to disclose the quantitative geographic information once required by SFAS No. 14.
+
+35 SFAS No. 30 amended SFAS No. 14 and retained this provision to disclose revenues from major customers.
+
+36 17 CFR 229.101(c)(1)(vii).
+
+37 The FASB also amended Accounting Principles Board Opinion No. 28 ("APB No. 28"), governing interim financial reporting, to reflect this change. The stated purpose of APB No. 28 is "to clarify the application of accounting principles and reporting practices to interim financial information, including interim financial statements and summarized interim financial data of publicly traded companies issued for external reporting purposes." APB No. 28 1. 
+
+38 SFAS No. 131, 33 currently states that segment information must be included in "condensed financial statements of interim periods issued to shareholders." Since this language has caused some confusion relating to when segment information is required, the FASB has proposed, as a technical amendment, eliminating the words "issued to shareholders" to make it clear that the information is to be provided in all interim financial statements, regardless of whether delivered to shareholders. See Exposure Draft 7.t.(5). We understood this to be the FASBs interpretation of this requirement before we issued the proposals and we will expect to see segment information in all interim financial statements filed with the Commission.
+
+39 SFAS No. 131 40.
+
+40 Id.
+
+41 See 17 CFR 210.4-01(a)(1).
+
+42 15 U.S.C. 78w(a)(2).
+
+43 15 U.S.C. 77b(b).
+
+44 15 U.S.C. 78c(f).
+
+45 5 U.S.C. 605(b).
+
+46 44 U.S.C. 3501 et seq.
+
+47 Where consistent with the registrants internal management reports, SFAS No. 131 permits measures of segment profitability that differ from consolidated operating profit as defined by GAAP, or that exclude items included in the determination of the registrants net income. Under SFAS No. 131, a registrant also must reconcile key segment amounts to the corresponding items reported in the consolidated financial statements in a note to the financial statements. Similarly, the Commission expects that the discussion of a segment whose profitability is determined on a basis that differs from consolidated operating profit as defined by GAAP or that excludes the effects of items attributable to the segment also will address the applicable reconciling items in Managements Discussion and Analysis. For example, if a material charge for restructuring or impairment relates to a specific segment, but is not included in managements measure of the segments operating profit or loss, registrants would be expected to discuss in Managements Discussion and Analysis the applicable portion of the charge, the segment to which it relates and the circumstances of its incurrence. Likewise, the Commission expects that the effects of managements use of non-GAAP measures, either on a consolidated or segment basis, will be explained in a balanced and informative manner, and the disclosure will include a discussion of how that segments performance has affected the registrants GAAP financial statements.

@@ -1,0 +1,297 @@
+https://www.sec.gov/rules/final/34-44494.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Background
+
+	III.0.0.0: III. Summary of Comments
+
+		III.A.0.0: A. Transaction Information
+
+		III.B.0.0: B. Other Information
+
+	IV.0.0.0: IV. Discussion and Basis for Adoption
+
+		IV.A.0.0: A. Standard Transaction Information
+
+		IV.B.0.0: B. Additional Transaction Information
+
+			IV.B.1.0: 1. Prime Brokerage Identifiers
+
+			IV.B.2.0: 2. Average Price Account Identifiers
+
+			IV.B.3.0: 3.
+
+		IV.C.0.0: C. Information to Facilitate EBS Requests
+
+		IV.D.0.0: D. Other Information
+
+		IV.E.0.0: E. Exemptions
+
+		IV.F.0.0: F. Format
+
+	V.0.0.0: V. Effective Date
+
+	VI.0.0.0: VI. Paperwork Reduction Act
+
+		VI.A.0.0: A. Summary of Collection of Information Under Rule 17a-25
+
+		VI.B.0.0: B. Use of Information
+
+		VI.C.0.0: C. Respondents
+
+		VI.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+			VI.D.1.0: 1. Burden-Hours for Broker-Dealers<SUP> 35 </SUP>
+
+			VI.D.2.0: 2. Capital Cost to Broker-Dealers and SROs<SUP> 36 </SUP>
+
+	VII.0.0.0: VII. Costs and Benefits of the Rule
+
+	VIII.0.0.0: VIII. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+	IX.0.0.0: IX. Summary of Final Regulatory Flexibility Act Analysis
+
+	X.0.0.0: X. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Electronic Submission of Securities Transaction Information by Exchange Members, Brokers, and Dealers SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 200 and 240 
+
+[Release No. 34-44494; File No. S7-12-00] 
+
+RIN 3235-AH69
+
+Electronic Submission of Securities Transaction Information by Exchange Members, Brokers, and Dealers 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule.
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting Rule 17a-25 under Section 17 of the Securities Exchange Act of 1934 ("Exchange Act"), to require brokers and dealers to submit electronically to the Commission, upon request, information on customer and firm securities trading. Rule 17a-25 is designed to improve the Commission's capacity to analyze electronic submissions of transaction information, thereby facilitating Commission enforcement investigations and other trading reconstructions. 
+
+ EFFECTIVE DATE : [Insert date 30 after publication in the Federal Register ], except §240.17a-25(b), which shall become effective on [insert date 180 days after publication in the Federal Register ]. 
+
+ FOR FURTHER INFORMATION CONTACT: Alton Harvey, Office Chief, at (202) 942-4167; or Anitra Cassas, Special Counsel, at (202) 942-0089, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001.
+
+ SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+On May 2, 2000, the Commission proposed for comment Rule 17a-25<SUP> 1 </SUP> under the Exchange Act to require brokers and dealers to submit electronically to the Commission, upon request, information on customer and firm securities trading.<SUP> 2 </SUP> The rule is designed to more fully account for evolving trading strategies used primarily by institutional and professional traders, thereby improving the Commission's ability to analyze trading in complex market-wide reconstructions and enforcement investigations. Based on the Commission's experience in analyzing securities transaction information, and after careful consideration of the comments submitted in response to the proposed rule, the Commission is adopting Rule 17a-25 with certain changes discussed below.<h>II. Background </h>
+
+The securities industry has witnessed tremendous change in the past two decades, both in the types of market participants and in the variety of trading strategies and products. In particular, increasing numbers of institutional and professional traders now conduct their securities trading through multiple accounts maintained at different broker-dealers. These market participants include institutional investors such as pension funds, insurance companies, foundations, endowments, mutual funds, and hedge funds. 
+
+To identify buyers and sellers of securities in enforcement or other regulatory inquiries, the Commission staff regularly sends requests for securities trading records to the most active clearing firms in the relevant security. Firms are requested to submit, within ten business days, information concerning transactions by all proprietary and customer accounts that bought or sold a security during a specified review period. 
+
+For several decades, the Commission requested this information by mailing questionnaire forms (known as "blue sheets" because of the color on which the forms were printed) to broker-dealers to be manually completed and mailed back to the Commission. In the late 1980s, as the volume of trading and securities transactions dramatically increased, the Commission and the securities self-regulatory organizations ("SROs") worked together to develop and implement a system with a universal electronic format, commonly known as the "electronic blue sheet" or "EBS" system, to replace the manual process.<SUP> 3 </SUP> 
+
+The universal EBS format permits the Commission and the SROs to conduct timely and thorough surveillance and enforcement inquiries. Firms generally use software to scan their account records and download the appropriate information into the standard EBS format, and then transmit the data to the Securities Industry Automation Corporation ("SIAC"). In turn, SIAC routes the file electronically to the Commission's mainframe computer.<SUP> 4 </SUP> 
+
+In general, the Commission uses the EBS system to obtain securities transaction information for one of two purposes: (1) to assist in the examination for and investigation of possible federal securities law violations, primarily involving insider trading or market manipulation; and (2) to conduct market reconstructions, primarily following significant market volatility. Since its inception, the EBS system has performed effectively as an enforcement tool for analyzing trading in one or two securities over a limited time period. When used for large-scale investigations or market reconstructions involving numerous stocks during peak trading volume periods, however, the information provided by the EBS system has been insufficient. Specifically, the Commission has found it difficult to effectively aggregate EBS transaction information by market participants.<SUP> 5 </SUP> To ensure the continued effectiveness of the Commission's enforcement and regulatory programs that rely on EBS information, the Commission proposed Rule 17a-25. 
+
+As proposed, Rule 17a-25 would require broker-dealers to electronically submit securities transaction information, including identifiers for prime brokerage arrangements, average price accounts, and depository institutions, in a standardized format, when requested by the Commission staff for enforcement and other regulatory purposes. In addition, the rule would require broker-dealers to submit, and keep current, contact person information for EBS requests. Proposed Rule 17a-25 was largely patterned after existing SRO rules.<SUP> 6 </SUP><h>III. Summary of Comments </h>
+
+The Commission received comments from the Securities Industry Association ("SIA") and the Pacific Exchange ("PCX") on the proposed rule.<SUP> 7 </SUP> The SIA generally stated that it understood the Commission's need for proposed Rule 17a-25, but noted that there would be difficulties in implementing certain aspects of the proposal. The PCX asked for clarification on the application of the proposed rule to NASD Regulation's new web-based EBS system.<SUP> 8 </SUP><h>A. Transaction Information </h>
+
+ The SIA had a concern with respect to the standard transaction information required under subsection (a)(2) of the proposed rule. One of the data elements required under subsection (a)(2)(ii) of proposed Rule 17a-25 and existing SRO rules<SUP> 9 </SUP> is the employer's name of a customer who bought or sold a security that is under review. The SIA indicated that many firms would not be able to readily access this information on their EBS-related systems.<SUP> 10 </SUP> As a result, these firms would either have to manually enter this information, or redesign their recordkeeping systems to automatically insert the customer's employer identification. 
+
+The SIA also expressed concern about the additional information required under subsection (b) of the proposed rule. The SIA noted that, although the Proposing Release made it clear that subsection (b)(1)(i) of proposed Rule 17a-25 is designed for prime broker arrangements, the generic language might cover other types of transactions that involve shifting a position from one firm to another. These transactions include "give-ups" (the executing broker-dealer provides the clearing number of another broker-dealer when reporting a transaction for the comparison process) and "step-outs" (the executing broker-dealer provides the clearing number of another broker-dealer after submission of a transaction for the comparison process). The SIA requested rule language tailored more closely to prime brokerage arrangements.<SUP> 11 </SUP> 
+
+Subsection (b)(1)(ii) of proposed Rule 17a-25 requires the prime broker to indicate the clearinghouse number or alpha symbol of each executing broker-dealer that forwarded part or all of the transaction. The SIA indicated that information concerning prime brokerage arrangements is typically easier for executing brokers to automatically pull up on their systems than for prime brokers. As a result, prime brokers would be required to implement more systems changes than executing brokers.<SUP> 12 </SUP> 
+
+The SIA also asked for clarification on the amount of information required by subsection (b)(2) of Rule 17a-25, which pertains to average price account identifiers. Citing formatting difficulties and programming costs, the SIA urged the Commission to allow a single identifier to denote that an account is part of an average price account arrangement, rather than requiring broker-dealers to generate separate identifiers for the master account and each sub-account.<SUP> 13 </SUP><h>B. Other Information </h>
+
+In the Proposing Release, the Commission solicited comments on the feasibility of requiring EBS reports to include execution times or other indicators, such as "order sequence numbers" for transactions effected through an automated order routing system. In response, the SIA identified a number of practical problems in implementing these data elements, and suggested that the cost of reformatting broker-dealers' systems or building new systems would outweigh the regulatory need for this information.<SUP> 14 </SUP> 
+
+Finally, the SIA stressed that delays in implementing Rule 17a-25 may be required due to other systems challenges facing the securities industry over the coming months, such as preparations for the full implementation of decimal pricing.<SUP> 15 </SUP><h>IV. Discussion and Basis for Adoption </h>
+
+Today, the Commission is adopting Rule 17a-25 substantially as proposed, with certain changes designed to reflect the comments. The rule applies to all exchange members, brokers and dealers subject to Rule 17a-3 of the Exchange Act.<SUP> 16 </SUP> Rule 17a-25 will not impose any additional recordkeeping requirements for broker-dealers; broker-dealers already maintain all of the information required for the EBS reports pursuant to Section 17(a)(1) and Rules 17a-3 and 17a-4 under the Exchange Act.<SUP> 17 </SUP> 
+
+Rule 17a-25 is intended to accomplish three objectives. First, the rule codifies the requirement that brokers and dealers must electronically submit to the Commission, upon request, information on customer and proprietary securities transaction information. Second, the rule should improve the effectiveness of the Commission's enforcement and regulatory programs by enhancing certain aspects of the EBS system to take into account evolving trading strategies used primarily by institutional and professional traders. Specifically, subsection (b) of Rule 17a-25 requires firms, upon request, to supply three additional data elements that will assist the Commission in aggregating securities transactions by entities trading through multiple accounts at more than one broker-dealer.<SUP> 18 </SUP> Finally, by requiring broker-dealers to provide current contact person information, the proposed rule should help ensure that the Commission can effectively direct its EBS requests to broker-dealers.<h>A. Standard Transaction Information </h>
+
+Subsection (a) of the proposed rule requires submission of the same standard customer and proprietary transaction information the SROs request in connection with their market surveillance or enforcement inquiries.<SUP> 19 </SUP> For a proprietary transaction, the broker-dealer must include the following information: (1) clearing house number or alpha symbol used by the broker-dealer submitting the information; (2) clearing house number(s) or alpha symbol(s) of the broker-dealer(s) on the opposite side to the trade; (3) security identifier; (4) execution date; (5) quantity executed; (6) transaction price; (7) account number; and (8) identity of the exchange or market where each transaction was executed. Under the proposed rule, if a transaction was effected for a customer account (as opposed to a proprietary account), the broker-dealer would have been required to also include the customer's name, customer's address, name of the customer's employer, the customer's tax identification number, and other related account information. As noted below, the Commission has modified certain of these requirements in response to comments. Finally, if the transaction was effected for a customer of another firm or broker-dealer, the broker-dealer must state whether the other broker-dealer was acting as principal or agent on the transaction. 
+
+The SIA cited two concerns regarding submission of this standard transaction information. First, the SIA noted the practical difficulties faced by firms in readily obtaining the name of the customer's employer on their EBS-related systems. The Commission believes that the identity of a customer's employer, if accurate, would be extremely useful for many investigations, particularly those involving insider trading. However, the Commission, if necessary, can obtain this information from the specific broker-dealer and customer during follow-up inquiries. Accordingly, the Commission is deleting this requirement from subsection (a)(2)(ii) of Rule 17a-25, as adopted. 
+
+Second, the SIA asked for clarification as to whether the tax identification number is that of the customer or the customer's employer.<SUP> 20 </SUP> Subsection (a)(2)(ii) of Rule 17a-25, as adopted, makes it clear that it is intended to capture the customer's tax identification number, not that of the customer's employer.<h>B. Additional Transaction Information </h>
+
+Subsection (b) of proposed Rule 17a-25 requires broker-dealers, upon request by Commission staff, to provide prime brokerage identifiers, average price account identifiers, and depository institution identifiers. As described in detail below, these additional data elements are needed to aggregate trading by customers that use multiple accounts maintained at different broker-dealers. The Commission is adopting these additional data elements in Rule 17a-25(b) with certain modifications suggested by the SIA. 
+
+The SIA asked for additional information on how the Commission estimated that less than 100 broker-dealers would have to make modifications to their existing EBS software. The Commission estimates that EBS requests for prime-brokerage and average price account information will be made almost exclusively to active clearing broker-dealers. The Commission based its estimate of less than 100 clearing firms upon our experience with the EBS system -- specifically, the Division of Market Regulation's requests for information for market reconstructions in 1994 and 1997, and the Division of Enforcement's daily use of the EBS system for the last decade. Accordingly, the Commission continues to believe that its estimates are reasonable.<h>1. Prime Brokerage Identifiers </h>
+
+It is common for an institutional or professional trader to route buy or sell orders through different broker-dealers, who, in turn, forward executed orders to a single broker-dealer-the "prime broker." The prime broker maintains a master account for the institution or professional trader, which simplifies recordkeeping and oversight of trading activity. 
+
+Because broker-dealers use different means to identify prime brokerage accounts in EBS submissions, the Commission has had difficulty identifying instances where a transaction was reported twice -- by the executing broker-dealer and by the prime broker. As a result, when the Commission performed trading analyses, it may have inadvertently double-counted some trades. 
+
+To better analyze this increasingly frequent activity and to avoid inadvertently double-counting these transactions, the Commission proposed two new data elements to uniformly identify prime brokerage transactions. First, under subsection (b)(1)(i) of Rule 17a-25, if a reporting broker-dealer effects trades for a customer, and forwards the account's transactions to a prime broker, then the EBS submission will have to include an identifier for this type of transaction as specified by its designated SRO under Rule 17d-1 of the Exchange Act.<SUP> 21 </SUP> The SIA expressed concern that the language in subsection (b)(1)(i) of the proposed rule may cover other types of transactions that involve shifting a position from one firm to another, such as "give-ups" or "step-outs." The Commission reiterates that subsection (b)(1)(i) is intended to account for prime brokerage arrangements.<SUP> 22 </SUP> 
+
+Second, as proposed, subsection (b)(1)(ii) of Rule 17a-25 would have required a prime broker receiving transactions from multiple executing broker-dealers to include in its EBS submission the clearing house number or alpha symbol used by each of the executing brokers. Both the SIA and the SROs<SUP> 23 </SUP> raised concerns, however, that this reporting requirement would pose formatting problems. 
+
+The Commission believes that the reporting framework as proposed in subsection (b)(1)(ii) of Rule 17a-25 would have provided the Commission staff with the optimal crosschecking capabilities for transactions involving prime brokerage arrangements. Nevertheless, in response to the concerns raised by the SIA and the SROs, the Commission has modified the language in subsection (b)(1)(ii) of Rule 17a-25, as adopted, to require prime brokers to report using an identifier for this type of transaction as specified by their designated SRO under Rule 17d-1 of the Exchange Act.<SUP> 24 </SUP> The Commission will work with the SROs to develop a universal identifier that will help the Commission identify a prime brokerage arrangement.<h>2. Average Price Account Identifiers </h>
+
+Broker-dealers often use "average price accounts" as a mechanism to buy or sell large amounts of a given security for their customers. Under this arrangement, a broker-dealer's average price account may buy or sell a security in small increments throughout a trading session, and then transfer the accumulated long or short position to one or more accounts for an average price or volume-weighted average price after the market close. 
+
+Similar to transactions involving prime brokerage arrangements, there currently is no uniformity in how broker-dealers identify these transactions in EBS submissions. As a result, the Commission's trading analyses may have inadvertently double-counted these transactions -- once in the EBS submission for the firm's average price account, and again in the EBS submission for the accounts receiving positions from the average price account. Therefore, the Commission proposed two new data elements in subsection (b)(2) of Rule 17a-25 to uniformly identify average price account transactions. 
+
+As proposed, under subsection (b)(2)(i), an EBS report for a customer account receiving average price transactions would have had to include identifiers for each relevant average price account. Under subsection (b)(2)(ii), as proposed, an EBS report for a firm's average price account would need to include identifiers for each of the accounts receiving positions from the average price account. 
+
+Both the SIA and the SROs<SUP> 25 </SUP> cited formatting difficulties and programming costs if subsection (b)(2) was adopted as proposed. While the Commission believes that the reporting framework as proposed in subsection (b)(2) of Rule 17a-25 would have provided the optimal crosschecking capabilities for transactions involving average price accounts, the Commission has modified the language in subsections (b)(2)(i) and (b)(2)(ii) to require a firm to distinguish average price account arrangements with an identifier for this type of transaction as specified by the broker-dealer's designated SRO under Rule 17d-1 of the Exchange Act.<SUP> 26 </SUP> The Commission will work with the SROs to develop simple universal identifiers that will help the Commission identify an average price account arrangement.<h>3. Identifiers Used by Depository Institutions </h>
+
+The Commission did not receive any comments on subsection (b)(3) of proposed Rule 17a-25, which requires a broker-dealer that processes a trade for an account through a depository institution to report the account's depository identifier. The inclusion of a depository account identifier in EBS reports should greatly expedite efforts by the Commission staff to aggregate trading when conducting complex trading reconstructions.<h>C. Information to Facilitate EBS Requests </h>
+
+The Commission did not receive any comments on paragraph (c) of proposed Rule 17a-25. Paragraph (c) requires broker-dealers to submit to the Commission, upon request, certain information about their contact persons, and to keep this information current. The Commission proposed this portion of the rule because it has encountered a recurring problem, due to frequent staff turnover and reorganizations at broker-dealers, in directing EBS requests to the appropriate personnel at broker-dealers. The Commission contemplates initially asking only those broker-dealers that have recently received EBS requests from the Commission to supply current contact information.<SUP> 27 </SUP><h>D. Other Information </h>
+
+In the Proposing Release, the Commission specifically requested comment on other types of information that could be useful in analyzing trading in more complex market-wide trading reconstructions and enforcement investigations. For example, the Commission noted that execution times would be useful in trading reconstructions, particularly those that focus on trading during sharp market swings. To date, however, execution times have not been included in EBS reports because this information generally has not been available through the broker-dealer account records systems that are used to prepare EBS reports (although execution time information may be available in other broker-dealer recordkeeping systems). 
+
+The Commission also noted in the Proposing Release that some representatives of the securities industry have previously indicated to the Commission staff that, at least for transactions effected through automated order-routing systems, "order sequence" identifiers might be used for EBS reports in lieu of actual execution times.<SUP> 28 </SUP> The inclusion of order sequence identifiers in EBS reports would enable the Commission staff to derive order entry times for particular trades. Once such trades are isolated, the transactions' order sequence numbers could be matched with timed order entry reports captured by either the broker-dealer's internal systems or with timed audit trails and related SRO reports. 
+
+The SIA identified a number of problems with expanding the EBS system to include execution times or order sequence identifiers. For example, the SIA noted that many clearing firms that handle proprietary accounts of an introducing broker do not typically keep this type of information about the introducing firm. Further, many broker-dealers do not have an automated link between the order file, where this type of information would be kept, to the trade file, which interfaces with the EBS system.<SUP> 29 </SUP> 
+
+The Commission continues to believe that, in view of the large number of trades that are routed and executed using automated systems, the capture of the appropriate order sequence identifiers in EBS reports could greatly expedite trading reconstructions in which precise timing of particular trading activity is critical. Nevertheless, due to the current configuration of broker-dealers' systems, broker-dealers would incur certain costs and practical difficulties in capturing execution times or order sequence identifiers. Accordingly, the Commission is not modifying Rule 17a-25 to require this type of information at this time.<h>E. Exemptions </h>
+
+The Commission notes that it has traditionally been flexible when working with small broker-dealers who need to supply transaction reports. In cases in which a small broker-dealer does not already have the capacity to submit the information over the EBS system, the Commission staff has accepted manual transmissions. Proposed Rule 17a-25 is neither intended to, nor will it, change this flexible approach in obtaining necessary transaction reports from small broker-dealers. In addition, the Commission may rely on its general exemptive authority under Section 36 of the Exchange Act<SUP> 30 </SUP> to exempt particular broker-dealers when the application of the reporting requirements of Rule 17a-25 would not be necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of the rule.<SUP> 31 </SUP><h>F. Format </h>
+
+Broker-dealers will submit the information required under Rule 17a-25 in the format specified by the broker-dealer's SRO that is designated under Rule 17d-1 of the Exchange Act, unless otherwise specified by Commission rule. At the current time, we understand that the SROs intend to have their technical specifications revised by 120 days before the effective date for Rule 17a-25(b). In the absence of the necessary SRO technical specifications to implement this paragraph by 120 days before the effective date, the Commission will promulgate rules specifying the technical filing format for EBS submissions.<SUP> 32 </SUP>
+
+The PCX asked how the implementation of the NASDR's new web-based EBS system would alter the scope and goals of Rule 17a-25. The Commission believes that the framework for Rule 17a-25 provides sufficient flexibility to allow broker-dealers to report transactions in whatever EBS formats are established by their designated SROs. In particular, the Commission's computer systems are prepared to accommodate the new NASDR system.<h>V. Effective Date </h>
+
+The provisions of Rule 17a-25 will be effective on [insert 30 days after publication in the Federal Register ], except for subsection (b) of Rule 17a-25, which shall become effective on [insert 180 days after publication in the Federal Register ]. 
+
+The SIA requested that, in adopting and implementing Rule 17a-25, the Commission be mindful of the ongoing systems challenges in the securities industry, including conversion of the trading cycle from a three-day to a one-day cycle and the full implementation of decimal pricing in stocks and options. The Commission is cognizant of the technological challenges that will be faced by the securities industry over the next few months. Thus, the Commission is delaying the effective date of subsection (b) of Rule 17a-25, and is committed to working with the SROs and the securities industry in developing a strategy for reformatting the EBS system in a manner that does not disrupt other critical systems initiatives in the coming months.<h>VI. Paperwork Reduction Act </h>
+
+As described in the Proposing Release, Rule 17a-25 contains "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995,<SUP> 33 </SUP> and the Commission submitted them to the Office of Management and Budget ("OMB") for review. OMB approved the collection of information, and assigned control number 3235-0540. The collection of information is in accordance with the clearance requirements of 44 U.S.C. 3507. 
+
+The title for the collection of information is: Rule 17a-25, Electronic Submission of Securities Transaction Information by Exchange Members, Brokers, and Dealers. The final rule does not contain substantive or material modifications to the collections of information originally set forth in the Proposing Release. The collection of information obligations imposed by Rule 17a-25 is mandatory. The retention periods for the collection of information are already specified in Rule 17a-4 of the Exchange Act.<SUP> 34 </SUP> The information filed pursuant to Rule 17a-25 will be kept confidential, subject to the provisions of the Freedom of Information Act, 5 U.S.C. 552. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. 
+
+The Commission solicited public comment on the collection of information requirements contained in the Proposing Release. As discussed below, the SIA submitted one comment concerning the number of broker-dealers that will have to modify their EBS-related software to capture and report the new data elements pursuant to subsection (b) of Rule 17a-25.<h>A. Summary of Collection of Information Under Rule 17a-25 </h>
+
+Rule 17a-25 requires broker-dealers to electronically submit securities transaction information, including identifiers for prime brokerage arrangements, average price accounts, and depository institutions, in a standardized format when requested by the Commission staff for enforcement and other regulatory purposes. In addition, the rule will also require broker-dealers to submit, and keep current, contact person information for EBS requests.<h>B. Use of Information </h>
+
+The Commission will use the information collected pursuant to proposed Rule 17a-25 for enforcement inquiries or investigations and trading reconstructions, as well as for inspections and examinations.<h>C. Respondents </h>
+
+As explained in the Proposing Release, although Rule 17a-25 will apply to all of the approximately 7,700 broker-dealers that are currently registered with the Commission, most provisions would apply only to the 5,500 broker-dealers who do business with the general public. The Commission further estimated in the Proposing Release that the requirement for submission of identifiers for prime brokerage arrangements, average price accounts, and depository institutions would affect a significantly smaller number of broker-dealers, estimated at less than 100 firms. 
+
+In its comment letter, the SIA asked for further explanation of the basis for the Commission's estimate that less than 100 firms would need to perform a one-time modification of their EBS-related software to capture and report the new data elements. As previously discussed, the Commission has used the EBS system for over a decade. For example, the Division of Market Regulation used the EBS reports for market reconstructions in 1994 and 1997, and the Division of Enforcement sends out EBS requests almost on a daily basis. Based on this experience, the Commission estimated the number of active clearing firms that regularly receive EBS requests. Accordingly, the Commission continues to believe that its estimate of less than 100 firms is reasonable.<h>D. Total Annual Reporting and Recordkeeping Burden </h>
+
+As stated in the Proposing Release, Rule 17a-25 should not impose additional burdens on the vast majority of broker-dealers. The Commission staff will work with the few broker-dealers who might not have EBS systems in place to develop cost-effective means of obtaining requested securities transaction information, whether using the EBS system or other mechanisms. In addition, if electronic reporting of securities transaction information is not feasible or is unreasonably expensive for a particular small broker-dealer, the Commission may use its general exemptive authority under Section 36 of the Exchange Act.<h>1. Burden-Hours for Broker-Dealers<SUP> 35 </SUP> </h>
+
+As discussed in the Proposing Release, the annual hour burden of the proposed rule for individual broker-dealers varies widely because of differences in the levels of activities of the respondents and because of differences in the current recordkeeping systems of the respondents. However, it is estimated that electronic response firms would spend approximately 8 minutes and manual response firms would spend 1 1/2 hours responding to an average blue sheet request. Based on its experience with the EBS system, the Commission estimates that it sends approximately 14,000 electronic blue sheet requests per year, of which approximately 350 are sent to manual response firms. Accordingly, the annual aggregate hour burden for electronic response firms is estimated to be 1,820 hours (13,650 x 8 ÷ 60). The annual aggregate hour burden for manual response firms is estimated to be 525 hours (350 x 90 ÷ 60). 
+
+In addition, the Commission estimates that it will request 1,400 broker-dealers to supply the contact information identified in proposed Rule 17a-25(c), and the submission should take each broker-dealer approximately 5 minutes to prepare. To be conservative, the Commission estimates that each of these broker-dealers will revise the contact information twice a year, and each revision will also take approximately 5 minutes to prepare (10 minutes total). The annual aggregate burden for supplying the information requested in proposed Rule 17a-25(c) is 350 hours (1400 x 15 ÷ 60). 
+
+Overall, the annual aggregate burden for all respondents to the collection of information requirements of Rule 17a-25 is estimated to be 2,695 hours (1,820 + 525 + 350).<h>2. Capital Cost to Broker-Dealers and SROs<SUP> 36 </SUP> </h>
+
+As stated in the Proposing Release, the Commission estimates that less than 100 broker-dealers will have to perform a one-time modification of their EBS-related software to capture and report new data elements. On average, each of these broker-dealers will incur capital or start-up costs of $150,000 to modify their EBS systems . The Commission also estimates that there will be no additional costs associated with the operation and maintenance of the modified EBS systems. Accordingly, the total cost burden for broker-dealers to modify their EBS systems is estimated to be $15 million (100 x $150,000). 
+
+In addition, based on its discussions with the SROs, the Commission estimates that three SROs will each incur approximately $29,500 in capital costs to make their systems compatible with the broker-dealers. The Commission also estimates that the SROs will not incur additional costs for the operation and maintenance of the modified EBS systems.<h>VII. Costs and Benefits of the Rule </h>
+
+The Commission identified several benefits and costs to investors and market participants in the Proposing Release. To assist the Commission in its evaluation of the costs and benefits that may result from Rule 17a-25, commenters were requested to provide analyses and data relating to the costs and benefits associated with the proposal. As previously noted, the SIA questioned the Commission's estimate of the number of broker-dealers that must modify their existing EBS software to capture prime brokerage identifiers, average price account identifiers, and depository institution identifiers. However, as explained above, the Commission continues to believe that its estimates, including its costs estimates, are reasonable. 
+
+The Commission is not making any changes to Rule 17a-25, as adopted, which will increase the cost estimates for broker-dealers or SROs. In particular, subsection (a) of Rule 17a-25 merely codifies existing SRO requirements for EBS. The estimated annual aggregate hour burden for all respondents to the collection of information requirements is 2,695 hours. The total annualized cost burden for those broker-dealers to modify their existing EBS software is estimated to be $15 million in capital or start-up costs. And the estimated total annualized cost burden for SROs is $88,500. The Commission believes that neither the broker-dealers nor the SROs will incur additional costs for the operation and maintenance of the modified EBS systems. 
+
+The Commission continues to believe that any costs to market participants are justified by the overall benefits of Rule 17a-25. The rule will significantly assist the Commission's ability to conduct timely and accurate trading analyses for market reconstructions and complex enforcement inquiries or investigations, as well as inspections and examinations. The current system severely limits the Commission's ability to aggregate transactions effected by entities that use multiple accounts at broker-dealers, and can produce trading compilations that double-count these transactions. Augmented trading analyses will improve the Commission's ability to monitor the securities markets, and, thereby, promote investor protection.<h>VIII. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation </h>
+
+Section 23(a)(2) of the Exchange Act<SUP> 37 </SUP> requires the Commission, when promulgating rules under the Exchange Act, to consider the impact any rule would have on competition, and not adopt any rule that would impose a burden on competition that is not necessary or appropriate in furtherance of the Exchange Act. Section 3(f) of the Exchange Act<SUP> 38 </SUP> requires the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. In the Proposing Release, the Commission solicited comments on the effects of Rule 17a-25 on competition, efficiency, and capital formation. The Commission did not receive any comments regarding these specific issues. 
+
+The Commission has considered Rule 17a-25 in light of the standards cited in Sections 3(f) and 23(a)(2) of the Exchange Act, and believes that the rule will not impose any significant burden on competition not necessary or appropriate in furtherance of the Exchange Act. As discussed in the cost-benefit section, only some broker-dealers will incur capital or start-up costs to modify their EBS-related software. However, the Commission believes the modifications are necessary to promote efficiency in the blue-sheeting process, and promote investor protection.<h>IX. Summary of Final Regulatory Flexibility Act Analysis </h>
+
+A Final Regulatory Flexibility Analysis ("FRFA") has been prepared in accordance with Section 4 of the Regulatory Flexibility Act ("RFA"), to provide a description and estimate of the number of small entities that will be affected by Rule 17a-25. The following summarizes the FRFA. 
+
+The Commission estimates that approximately 12% of registered broker-dealers, or approximately 1,000 broker-dealers, qualify as small broker-dealers.<SUP> 39 </SUP> As discussed more fully in the FRFA, Rule 17a-25 will affect these small broker-dealers because all broker-dealers will be required to submit securities transaction information to the Commission, upon request. However, the Commission believes that only a relatively few EBS requests are sent to small broker-dealers. Generally, EBS requests are sent to large clearing firms or those broker-dealers that self-clear. These entities fall outside the definition of a small broker-dealer.
+
+In addition, the Commission's experience with the EBS system over the last ten years indicates that entities that trade through multiple accounts at different firms generally do not effect their trades through "small" broker-dealers. Accordingly, the Commission does not believe that any small broker-dealer will be required to modify its EBS-related software to capture and report the new data elements in subsection (b) of Rule 17a-25. 
+
+The FRFA further states that proposed Rule 17a-25 would not impose any additional recordkeeping requirements for small broker-dealers. The elements of trade information required for EBS reports to the Commission are already maintained by broker-dealers pursuant to Rules 17a-3 and 17a-4 of the Exchange Act and SRO rules. When small broker-dealers receive the occasional EBS request, they will incur some costs when they report transaction information pursuant to requests by the Commission staff for enforcement purposes. The Commission believes, however, that any new costs associated with Rule 17a-25 will be minimal because broker-dealers are already required to have in place adequate systems and procedures to submit transaction reports to the appropriate SRO. Moreover, the Commission staff has traditionally been flexible when working with small broker-dealers who need to supply transaction reports. In cases in which a small broker-dealer does not already have the capacity to submit information over the EBS system, the Commission staff has accepted manual transmissions. Proposed Rule 17a-25 is not intended to change this flexible approach in obtaining necessary transaction reports from small broker-dealers. 
+
+The FRFA also discusses the various alternatives considered by the Commission in connection with the proposed rule that might minimize the effect on small entities. These include, among others, creating differing compliance or reporting requirements or timetables that take into account the resources available to small entities, and whether such entities could be exempted from the proposed rule, or any part thereof. The Commission has drafted the proposal to be consistent with the concerns of small entities. For example, as discussed above, the Commission has often permitted small broker-dealers to submit the transaction information manually, rather than electronically. The Commission may also use its exemptive authority under Section 36 of the Exchange Act. A wholesale exemption from the proposed rule for small broker-dealers, however, would prevent the Commission from fully protecting investors and maintaining the fair and orderly operation of the nation's securities markets. 
+
+The Commission received no comments on the Initial Regulatory Flexibility Analysis ("IRFA") prepared in connection with the Proposing Release. A copy of the FRFA may be obtained by contacting Anitra Cassas, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001; (202) 942-0089.<h>X. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 §240.17a-25.
+
+2 See Securities Exchange Act Release No. 42741 (May 2, 2000), 65 FR 26534 (May 8, 2000) ("Proposing Release").
+
+3 For the last decade, the SROs have required their member firms to use the EBS system to submit customer and proprietary trading data for use in connection with market surveillance and enforcement inquiries, particularly investigations into insider trading and market manipulation. See , e.g. , Securities Exchange Act Release Nos. 25859 (June 27, 1988), 53 FR 25029 (July 1, 1988) (approving both the New York Stock Exchange (NYSE) and the American Stock Exchange's (Amex) rules for the electronic submission of transaction information); 26235 (November 1, 1988), 53 FR 44688 (November 4, 1988) (approving the Chicago Board Options Exchange's (CBOE) rule for the electronic submission of transaction information); 26539 (February 13, 1989), 54 FR 7318 (February 17, 1989) (approving the National Association of Securities Dealer's (NASD) rule for the electronic submission of transaction information); and 27170 (August 23, 1989), 54 FR 37066 (September 6, 1989) (approving the Philadelphia Stock Exchange's (Phlx) rule for the electronic submission of transaction information).
+
+4 If an SRO's surveillance or enforcement staff issues the request, SIAC routes the EBS data from the broker-dealer to the appropriate SRO.
+
+5 Aggregation of EBS transaction data is rarely a problem for trading reconstructions conducted by Enforcement and OCIE staff because most such inquiries or investigations involve trading in a limited number of stocks over a relatively short time frame. The EBS data transmissions under these circumstances are almost always small enough to permit the Commission staff to use standardized desk-top applications or even manual reviews to eliminate potential double-counting of some transactions. For massive market reconstructions performed by Market Regulation staff, however, the magnitude of the EBS data transmissions precludes the effective use of desk-top applications or manual reviews. As a result, market reconstructions normally require that mainframe computer applications be used for aggregation purposes. The new data elements set forth in Rule 17a-25 will permit the staff to develop mainframe computer applications to sort through massive EBS data transmissions to avoid double counting transactions for market reconstructions.
+
+6 See , e.g ., NYSE Rule 410A; Amex Rule 153A; CBOE Rule 15.7; NASD Rule 8211; and Phlx Rule 785.
+
+7 See Letter from Bernard L. Madoff, Chair, SIA Ad hoc Committee on Electronic Bluesheeting, SIA, to Jonathan G. Katz, Secretary, Commission, dated June 15, 2000; and E-mail from Sarah E. Althoff, PCX, dated May 4, 2000.
+
+8 The PCX indicated that certain clearing firms have opted out of the SIAC EBS system, and now exclusively use the NASDR's new web-based EBS system. The PCX asked if this change alters the scope and goals of proposed Rule 17a-25.
+
+9 See supra note 4.
+
+10 SIA Letter, at 5-6.
+
+11 SIA Letter, at 4-5.
+
+12 SIA Letter, at 5.
+
+13 Id.
+
+14 SIA Letter, at 6-7.
+
+15 SIA Letter, at 3.
+
+16 17 CFR 240.17a-3.
+
+17 Section 17(a)(1) of the Exchange Act requires registered broker-dealers to make, keep, furnish, and disseminate records and reports prescribed by the Commission "as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of" the Exchange Act. 15 U.S.C. 78q(a)(1). Rules 17a-3 and 17a-4 under the Exchange Act specify minimum requirements with respect to the records that must be maintained by broker-dealers, as well as the periods during which these records and other documents relating to a broker-dealer's business must be preserved. 17 CFR 240.17a-3 and 240.17a-4.
+
+18 As noted in the Proposing Release, the Commission believes that an enhanced EBS system will provide a more efficient and cost-effective way to conduct timely and accurate reviews of the activities of large traders for regulatory or enforcement purposes, than would further efforts to design and implement the large trader reporting system authorized by the Market Reform Act of 1990,<SUP> </SUP> and incorporated into section 13(h) of the Exchange Act. 15 U.S.C. 78m(h). See Proposing Release, at 7.
+
+19 See supra note 2.
+
+20 SIA Letter, at 6.
+
+21 17 CFR 240.17d-1.
+
+22 If a broker-dealer has a question concerning whether a transaction should be reported under Rule 17a-25(b), as adopted, the broker-dealer can request interpretive guidance from the Commission staff.
+
+23 Commission staff discussed THE FEASIBILITY OF CAPTURING THE PRIME BROKERAGE IDENTIFIERS, AVERAGE PRICE ACCOUNT IDENTIFIERS, AND DEPOSITORY INSTITUTION IDENTIFIERS, INCLUDING COST ESTIMATES, WITH THE INTERMARKET SURVEILLANCE GROUP AND THE SIA ON MAY 10, 2000 AND MAY 16, 2000, RESPECTIVELY.
+
+24 17 CFR 240.17d-1.
+
+25 See supra note 23.
+
+26 17 CFR 240.17d-1.
+
+27 The Commission has determined that the most efficient means of obtaining EBS contact information from the appropriate broker-dealers is by request, rather than imposing a general reporting obligation on all broker-dealers. Thousands of broker-dealers who clear their trades through other firms never receive EBS data requests from the Commission. In addition, firms who do not trade with the public or are otherwise inactive traders are rarely asked to supply transaction information. Accordingly, the Commission believes it would be most cost-effective to maintain its list of EBS contacts based on the staff's experience with the types of broker-dealers that are likely to be recipients of future EBS requests.
+
+28 Firms use these identifiers to trace orders routed through automated systems. These identifiers are also routinely captured by some audit trail systems and other recordkeeping systems, such as the NYSE's daily program trading reports from member firms. The Commission further noted in the Proposing Release that other types of information captured by the SROs' audit trail systems, such as the NASD's Order Audit Trail System, may also be useful to the Commission in its trading analyses. For example, these systems generally capture the date and time of origination or receipt of the order, and information on when the order is transmitted to another department within the member firm, to another member firm, or to a non-member. The SIA noted, however, that connecting information maintained under OATS to the EBS system would raise difficulties and costs. SIA Letter, at 6-7.
+
+29 Id.
+
+30 15 U.S.C. 78mm. Procedures for filing applications for orders for exemptive relief under Section 36 are found in the Commission's Rules of General Application, 17 CFR 240.0-12.
+
+31 The Commission is amending Rules 30-3, 30-4, and 30-18 of its Rules of Practice to add new paragraphs (a)(69), (a)(12), and (h), respectively. 17 CFR 200.30-3, 200.30-4, and 200.30-18. These paragraphs delegate the authority to the Directors of the Division of Market Regulation, the Division of Enforcement, and the Office of Compliance Inspections and Examinations to grant or deny, in whole or in part, exemptions from the requirements of Rule 17a-25. The Office of Compliance Inspections and Examinations uses the EBS system as part of its inspections and examinations.
+
+32 If the Commission sets the technical filing requirements for EBS submissions, we anticipate adopting these requirements using a similar approach to that used by the Commission in specifying the technical formatting requirements for electronic filings through the EDGAR system. Securities Act Release No. 7858 (May 16, 2000), 65 FR 34079 (May 26, 2000).
+
+33 44 U.S.C. 3501 et seq .
+
+34 17 CFR 240.17a-4.
+
+35 The time burden was derived from information supplied by several broker-dealers.
+
+36 The costs estimates were derived using information supplied by the broker-dealers and the SROs.
+
+37 15 U.S.C. 78w(a)(2).
+
+38 15 U.S.C. 78c(f).
+
+39 For purposes of the regulatory flexibility analysis, a broker-dealer is considered a small entity if its total capital is less than $500,000, and it is not affiliated with a broker-dealer that has $500,000 or more in total capital. 17 CFR 240.0-10.  http://www.sec.gov/rules/final/34-44494.htm

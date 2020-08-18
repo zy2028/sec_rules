@@ -1,0 +1,589 @@
+https://www.sec.gov/rules/final/2007/34-56206.pdf
+
+I.0.0.0 Background
+
+II.0.0.0 Discussion of Amendments
+
+	II.A.0.0 Bona Fide Purchase Exception
+
+	II.B.0.0 Separate Accounts and Investment Company Exceptions
+
+		II.B.1.0 Separate Accounts.
+
+		II.B.1.0 The accounts have separate and distinct investment and trading strategies and objectives;
+
+		II.B.2.0 Personnel for each account do not coordinate trading among or between the accounts;
+
+		II.B.3.0 Information barriers separate the accounts, and information about securities positions or investment decisions is not shared between accounts;
+
+		II.B.4.0 Each account maintains a separate profit and loss statement;
+
+		II.B.5.0 There is no allocation of securities between or among accounts; and
+
+		II.B.6.0 Personnel with oversight or managerial responsibility over multiple accounts in a single entity or affiliated entities, and account owners of multiple accounts, do not have authority to execute trades in individual securities in the accounts and in fact, do not execute trades in the accounts, and do not have the authority to pre-approve trading decisions for the accounts and in fact, do not pre-approve trading decisions for the accounts.
+
+		II.B.3.0 We believe that these factors are important indicators that accounts are separate for purposes of the exception. Thus, if trading is coordinated between accounts, the accounts will not be considered separate for purposes of this exception.
+
+		II.B.2.0 Investment Companies
+
+	II.C.0.0 Additional Amendments
+
+III.0.0.0 Derivatives
+
+IV.0.0.0 Paperwork Reduction Act
+
+V.0.0.0 Cost-Benefit Analysis
+
+	V.A.0.0 Adopted Amendments to Rule 105 of Regulation M
+
+	V.B.0.0 Benefits
+
+	V.C.0.0 Costs
+
+VI.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation
+
+VII.0.0.0 Final Regulatory Flexibility Analysis
+
+	VII.A.0.0 Need for the Amendments
+
+	VII.B.0.0 Objectives of the Amendments
+
+	VII.C.0.0 Significant Issues Raised by Public Comments
+
+	VII.D.0.0 Small Entities Subject to the Rule
+
+	VII.E.0.0 Projected Reporting, Recordkeeping and Other Compliance Requirements
+
+	VII.F.0.0 Agency Action to Minimize Effect on Small Entities
+
+VIII.0.0.0 Statutory Basis and Text of Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR PART 242
+
+[Release No. 34-56206; File No. S7-20-06] RIN: 3235-AJ75
+
+Short Selling in Connection with a Public Offering AGENCY: Securities and Exchange Commission ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to Regulation M to further safeguard the integrity of the capital raising process and protect issuers from manipulative activity that can reduce issuer’s offering proceeds and dilute security holder value. The amendments eliminate the covering element of the former rule.
+
+EFFECTIVE DATE: October 9, 2007.
+
+FOR FURTHER INFORMATION CONTACT: James Brigagliano, Associate Director, Josephine Tao, Assistant Director, Elizabeth Sandoe, Branch Chief, Victoria Crane, Branch Chief, and Joan Collopy, Special Counsel, at (202) 551-5720, Office of Trading Practices and Processing, in the Division of Market Regulation, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-6628.
+
+SUPPLEMENTARY INFORMATION: We are amending Rule 105 of Regulation M [17 CFR 242.105].
+
+<END HEADER>
+
+<h>I. Background</h>
+
+Pricing integrity is essential to the capital raising process. A fundamental goal of Regulation M, Anti-Manipulation Rules Concerning Securities Offerings, is protecting the independent pricing mechanism of the securities market so that offering prices result from thenatural forces of supply and demand unencumbered by artificial forces. <sup>1</sup> Rule 105 of Regulation M governs short selling in connection with public offerings and concerns short sales that are effected prior to pricing an offering. The rule is particularly concerned with short selling that can artificially depress market prices which can lead to lower than anticipated offering prices, thus causing an issuer’s offering proceeds to be reduced. <sup>2</sup> The rule is intended to foster secondary and follow-on offering prices that are determined by independent market dynamics and not by potentially manipulative activity. Rule 105 is prophylactic. Thus, its provisions apply irrespective of a short seller’s intent. <sup>3</sup>
+
+Former Rule 105 (“former rule”) prohibited covering short sales effected during a defined restricted period with securities purchased in an offering (“offered securities”). <sup>4</sup> “Covering” was the prohibited activity. Specifically, the former rule made it unlawful for any person to cover a short sale with offered securities purchased from an underwriter or broker or dealer participating in the offering, if such short sale occurred during the shorter of (1) the period beginning five business days before the pricing of the offered securities and ending with such pricing or (2) the period beginning with the initial filing of such registration statement or notification on Form 1-A and ending with pricing. <sup>5</sup>
+
+In recent years, the Commission has become aware of non-compliance with Rule 105, and in some cases, strategies used to disguise Rule 105 violations. <sup>6</sup> In particular, the Commission has become aware of attempts to obfuscate the prohibited covering. <sup>7</sup> Due to continued violations of the rule, including a proliferation of trading strategies and structures attempting to accomplish the economic equivalent of the activity that the rule seeks to prevent, the Commission published proposed amendments to Rule 105 for notice and comment. <sup>8</sup>
+
+The Commission proposed to eliminate the covering requirement in order to end the progression of trading strategies designed to hide activity that violated the rule. In particular, the Commission proposed to make it unlawful for a person to effect a short sale during the Rule 105 restricted period and then purchase, including enter into a contract of sale for, such security in the offering. <sup>9</sup> In effect, the proposal imposed an absolute prohibition against purchasing offered securities in firm commitment offerings by any person that effected a restricted period short sale(s).
+
+We received 13 comment letters in response to the Proposing Release from one self- regulatory agency, one issuer, one academic, one investment company, four associations, andfive law firms. <sup>10</sup> Some commenters supported the proposal, others opposed it, and some commenters suggested modifications or alternative approaches. We have carefully considered each of the comments. While the comment letters are publicly available to be read in their entirety, we highlight many of the issues, concerns, and suggestions raised in the letters below.
+
+Some commenters were supportive of the proposal and its goals. Comment letters from an issuer and a self-regulatory organization supported the specific proposal to eliminate the rule’s covering component and instead prohibit purchasing in the offering. <sup>11</sup> One commenter stated that, “[t]he proposed amendments to Rule 105 meaningfully address the proliferation of trading strategies and structures, which are designed to disguise prohibited covering activity, by prohibiting any purchase of offered shares by someone who sold short during the restricted period. By eliminating the covering component and expanding the prohibition to all purchases of offered securities, the proposed amendments will efficiently prevent persons from engaging in strategies to avoid the appearance that offering shares are used to cover Rule 105 restricted period short sales.” <sup>12</sup> In addition, an issuer stated the proposal would “prevent manipulative activity by those short sellers who inappropriately reap economic gains to the detriment ofissuers and selling shareholders who receive reduced public offering proceeds.” <sup>13</sup> Commenters, including commenters that disagreed with aspects of the proposal, supported the goals of protecting independent pricing, bolstering investor confidence in the capital raising process and curbing non-compliance with former Rule 105. <sup>14</sup>
+
+Other commenters voiced opposition to the proposed amendments. <sup>15</sup> One commenter stated that the proposal would: (i) force investors to make an investment decision at an earlier point in time before an offering price is determined; (ii) allow issuers and underwriters to price offerings without any market counterbalance; and (iii) harm issuers by reducing the number of buyers for certain offerings. <sup>16</sup> This commenter stated, in relevant part, “I believe that the proposed amendments to Rule 105 would have a deleterious effect on the market for secondary offerings by removing from the price discovery process those investors that pay careful attention to issuers and that the result will be over-optimistic pricing that does not reflect the true value of an issuer’s securities. Further, I believe the proposal will harm issuers as they will face greater costs in carrying out their secondary offerings.” <sup>17</sup> Another commenter stated its belief that therule as proposed may not achieve, and in fact may be contrary to, the Commission’s investor and market protection goals. <sup>18</sup>
+
+In addition to statements of support or opposition to the proposed amendments, commenters also expressed concerns about the universe of potential investors, price discovery, and investment company and investment adviser violations. With respect to the investor pool, commenters believed that the proposal could reduce the number of investors for secondary offerings. One concern was that investors would be forced out of secondary offerings if they effected certain trading strategies that involved short sales during the restricted period. <sup>19</sup> One commenter stated that short sales are “effected as part of, among other things, initial and dynamic hedging strategies, long/short strategies, convertible arbitrage, bona-fide market making or customer facilitation activities.” <sup>20</sup> Some commenters noted that preventing persons that effect these strategies during a restricted period from purchasing in an offering minimizes the pool of potential investors and can have a negative effect on price discovery. <sup>21</sup> A second concern raised by some commenters was that investors who had no knowledge of an offering at the time of a short sale would be prohibited from purchasing in the offering. <sup>22</sup> Commenters generally asserted that short sales effected without knowledge of a secondary offering or takedown, such as an“overnight deal,” would not be manipulative, yet an investor would be prohibited from participating in the offering under the proposed amendments. <sup>23</sup>
+
+Commenters were also concerned about the impact of the proposed amendments on investment companies and investment advisers. <sup>24</sup> Generally, commenters discussed two possible scenarios. First, there would be a violation of the proposed rule if “one fund within a fund complex (or a series of a fund) effects a short sale during the five day period and another fund in the same complex (or another series of a fund) purchases the security in the offering.	” <sup>25</sup>
+
+Second, commenters were also concerned about proposed rule violations “if a subadviser to a fund enters into a short sale in a security during the five-day period prior to an offering, and a separate subadviser to the same fund purchases the security in the offering. . . .” <sup>26</sup> Similarly, in response to a question in the release, commenters suggested incorporating the aggregation unit relief concept of Regulation SHO to Rule 105 for broker-dealers. <sup>27</sup>
+
+Some commenters advocated modifications to the proposed amendments such as confining the rule’s application to equity offerings and incorporating the concept of a “subject” security from Regulation M so that convertible offerings would not be impacted by theamendments. <sup>28</sup> Commenters also suggested amending the restricted period to incorporate the concept of public announcement of an offering. <sup>29</sup> Another suggestion was to create an exception for certain trading strategies. <sup>30</sup> Another proposed modification was an exception based on the Rule 101 exception for actively traded securities. <sup>31</sup> Many commenters supported an exception raised by a question in the Commission’s Proposing Release to allow restricted period short sellers to participate in an offering if they covered such short sale(s) with a bona fide purchase prior to the offering. <sup>32</sup> However, some commenters were opposed to creating exceptions that would undercut the rule’s prophylactic nature. <sup>33</sup>
+
+However, one issuer was opposed to such an exception stating that, “[h]edging strategies, including hedging by option market markers, should not be permitted in an issuer’s securities during the restricted period if the hedging involves receiving securities purchased from the issuer in its public offering. Fairfax respectfully submits that if the hedging is bona fide then any short covering can be done using open market purchases.
+
+There is no hedging justification that warrants encumbering issuers’ capital realization or that sufficiently outweighs the issuer’s need for market prices and offering prices that are unencumbered by artificial and manipulative forces.” Fairfax letter.
+
+Furthermore, in response to questions raised in the Proposing Release, some commenters felt that Rule 105 should not address derivatives, <sup>34</sup> PIPE transactions, <sup>35</sup> long sales, <sup>36</sup> convertible offerings, <sup>37</sup> or best efforts offerings. <sup>38</sup> Many commenters also were opposed to the question in the Proposing Release as to whether we should require underwriters to obtain certifications from investors stating that they had not sold short during the restricted period. <sup>39</sup> Other commenters sought additional interpretive guidance with respect to former Rule 105 instead of amending the rule. <sup>40</sup>
+
+After considering the comments received and the purposes underlying Rule 105, we are adopting the amendments with some modifications to refine provisions and address commenters’ concerns as discussed below. <sup>41</sup>
+
+<h>II. Discussion of Amendments</h>
+
+The amendments are carefully and narrowly tailored to further the anti-manipulation goals of Rule 105 by ending the progression of strategies designed to conceal the covering of restricted period short sales with offered securities without unduly expanding the scope of the rule or unnecessarily restricting the pool of secondary and follow-on offering purchasers. The amended rule seeks to achieve this goal by eliminating the covering element of the former rule. However, in response to comments, as adopted, amended Rule 105 refines the amendment as proposed in several aspects, including limiting its application to equity offerings, and adding a “bona fide purchase provision” that allows a restricted period short seller to participate in an offering. The amended rule also includes new exceptions concerning separate accounts and investment companies. The exception for separate accounts allows a person to purchase the offered securities in an account where there was a short sale in another account if decisions regarding securities transactions for each account are made separately and without any coordination of trading or cooperation among or between the accounts. The exception for certain investment companies allows an investment company to participate in an offering if an affiliated investment company or any series of such investment company sold short during the restricted period.
+
+The proposed amendments would have imposed an outright ban on purchasing offered securities if a person sold short during a restricted period. The amended rule refines that approach. As proposed and as adopted, the amendment changes the prohibited activity from covering to purchasing the offered security, in order to put an end to strategies that obfuscatedthe prohibited covering but replicated its economic effect. <sup>42</sup> However, the amended rule also includes the three exceptions.
+
+Generally, the offering prices of follow-on and secondary offerings are priced at a discount to a stock’s closing price prior to pricing. This discount provides a motivation for a person who has a high expectation of receiving offering shares to capture this discount by aggressively short selling just prior to pricing and then covering the person’s short sales at the lower offering prices with securities received through an allocation. <sup>43</sup> Covering the short sale with a “specified amount of registered offering securities at a fixed price allows a short seller largely to avoid market risk and usually guarantee a profit.” <sup>44</sup> Eliminating the covering component and prohibiting a purchase in the offering in amended paragraph (a) reduces a potential investor’s incentive to aggressively sell short prior to pricing solely due to the anticipation of this discount. Such activity can exert downward pressure on market prices for reasons other than price discovery that result in lowered offering prices and therefore reduced offering proceeds to issuers and selling security holders. <sup>45</sup> The prohibition on purchasing offered securities also provides a bright line demarcation of prohibited conduct consistent with theprophylactic nature of Regulation M. <sup>46</sup>
+
+<h>A. Bona Fide Purchase Exception</h>
+
+In response to commenters’ concerns, the amended rule adds a provision that allows restricted period short sellers to purchase the offered securities if they make a bona fide purchase of the same security prior to pricing. <sup>47</sup> This provision advances the goals of facilitating offering price integrity and protecting issuers from potentially manipulative activity, while not unduly restricting capital formation or short sales. The provision provides that persons can purchase offered securities even if they sell short during the Rule 105 restricted period if they make a purchase equivalent in quantity to the amount of the restricted period short sale(s) prior to pricing. <sup>48</sup> This provides an opportunity for a trader who had no knowledge of an offering at the time of his short sale to participate in the offering. Thus, a person who did not intend a strategy of shorting into an offering has an opportunity to participate in the offering, provided the person complies with the provision. The amendments also preserve a person’s ability to change his or her mind. For example, a person may initially decide not to participate in an offering, and in doing so, may sell short during the Rule 105 restricted period. If that person subsequentlydecides to participate in the offering after selling short during the Rule 105 restricted period, the bona fide purchase provision provides an opportunity to do so.
+
+In order to take advantage of this exception, the rule requires there to be a bona fide purchase of the security that is the subject of the offering. <sup>49</sup> While the determination as to whether a purchase is a bona fide purchase will depend on the facts and circumstances, we note that any transaction that, while made in technical compliance with the exception, is part of a plan or scheme to evade the Rule, for example, a transaction that does not include the economic elements of risk associated with a purchase for value, would not be bona fide for purposes of amended Rule 105. <sup>50</sup>
+
+The purchase must be at least equivalent in quantity to the entire amount of the Rule 105 restricted period short sale. <sup>51</sup> Partial purchases are insufficient. This condition is designed to help ensure that the person is making a bona fide purchase rather than simply a purchase to evade Rule 105’s prohibitions. For example, the provision is not available if during a Rule 105 restricted period a person sells short 1,000 shares of common stock, subsequently purchases 500 shares of common stock prior to pricing, and then purchases 500 shares of common stock in the offering. The 500 share pre-pricing purchase is not equivalent in quantity to the entire amount of the Rule 105 restricted period short sale. Thus, the provision is unavailable. In that scenario, the person violated amended Rule 105 by short selling 1,000 shares during the Rule 105 restricted period and purchasing the offered security.
+
+The provision also requires that the person effect the bona fide purchase during regular trading hours <sup>52</sup> and that the bona fide purchase is reported pursuant to an effective transaction reporting plan. <sup>53</sup> This is designed to ensure transparency of the activity to the market so that the effects of the purchase can be reflected in the security’s market price. Next, the bona fide purchase must be made after the last Rule 105 restricted period short sale and prior to pricing. <sup>54</sup> Purchases made during the Rule 105 restricted period but before the last Rule 105 restricted period short sale do not qualify as a bona fide purchase for purposes of this provision. Requiring the bona fide purchase to be made after the last Rule 105 restricted period short sale facilitates the dissipation of downward pressure exerted by short selling and allows any downward pressure to be offset by upward price pressure exerted by the purchase. It also helps to ensure that the person effected a bona fide purchase for purposes of closing out a short sale position.
+
+The bona fide purchase also must occur prior to pricing to allow market reaction to the purchase before an offering is priced. <sup>55</sup> In addition, the bona fide purchase must occur no later than the business day prior to the day of pricing. <sup>56</sup> The element that the bona fide purchase occur no later than the business day prior to the day of pricing also allows an opportunity for market reaction prior to pricing an offering. <sup>57</sup> For example, if an offering is priced on Wednesday afterthe close of regular trading hours, the bona fide purchase could not be made during regular trading on Wednesday. Therefore, this provision may not be available in a truly “overnight deal” when an offering commences after the close of regular trading on the day of pricing. <sup>58</sup> However, this is not an impediment to participating in an overnight deal (or shelf offering) <sup>59</sup> for potential investors who did not short sell the security that is the subject of the offering during the Rule 105 restricted period.
+
+Although it would not be available to some investors in this situation, the bona fide purchase provision is available to potential investors in many other scenarios. For example, a person could use the bona fide purchase provision if a Rule 105 restricted period commenced on Monday and ended with pricing on Friday and that person sold short on Tuesday before becoming aware of the offering on Wednesday. That person could make bona fide purchase on Thursday as the last business day before pricing on Friday. The bona fide purchase provision would also be available in that situation if that person continued to sell short on Wednesday after becoming aware of the offering. The provision would still be available to that person if the person effected additional short sales on Thursday prior to making a bona fide purchase on Thursday. Thus, the bona-fide purchase provision is available so long as the conditions specified in the amended rule are satisfied.
+
+The condition that the bona fide purchase occur no later than the business day prior to the day of pricing gives the market an opportunity to consider and react to both the Rule 105 restricted period short sales and the bona fide purchase. It provides the market with anopportunity to consider a trading day uninfluenced by a person with a heightened incentive to manipulate.
+
+In addition, a person relying on this provision may not effect a Rule 105 restricted period short sale within the 30 minutes before the close of regular trading hours on the business day prior to the day of pricing. <sup>60</sup> This condition guards against potentially manipulative activity near the close of trading that can lower offering prices and, thereby reduce an issuer’s offering proceeds, by influencing market price, including the following day’s opening price.
+
+<h>B. Separate Accounts and Investment Company Exceptions</h>
+
+In the proposing release, we asked whether the principles for independent trading unit aggregation that the Commission set out in Regulation SHO Rule 200(f) should be extended to non-broker-dealers, such as investment companies, and asked about appropriate criteria. <sup>61</sup> Under Rule 200 of Regulation SHO and its predecessors, <sup>62</sup> a person has to aggregate all of its positions to determine whether it is net long or short. The Commission, however, permits independent trading unit aggregation within the same broker-dealer under certain conditions.
+
+In the Adopting Release for Regulation SHO, we noted that the conditions required for independent trading unit aggregation were adopted to limit the potential for trading rule violations through coordination among units and are designed to maintain the independence ofthe units. <sup>63</sup> We believe the principles for independent trading unit aggregation should be used to address concerns expressed by commenters about the proposed rule. Specifically, commenters to the Rule 105 proposing release expressed concerns stemming from the Commission’s use of the term “person” in the proposal. The proposed rule would have prohibited “any person” from purchasing in an offering if they effected restricted period short sales. Although the former rule also used the word “person,” commenters stated that eliminating the covering element could, for funds with multiple independent accounts, “create difficulties for funds effecting transactions in securities that are the subject of offerings.” <sup>64</sup>
+
+Commenters expressed concern that the term “person,” for purposes of the proposed rule, might encompass each fund within a fund complex, each series of a series fund, or each subadvised portion of a single fund. Commenters stated that, as a result, the proposed rule might prohibit one fund within a fund complex (or a series of a fund) from purchasing offered securities if another fund in the same complex (or another series of a fund) sold short within the Rule 105 restricted period even where those funds (or series of a fund) were trading independently. Commenters also stated that the proposal would trigger a Rule 105 violation if a sub-adviser to a portion of a fund purchased offered securities after another sub-adviser to a different portion of the same fund sold short during the restricted period even if those sub- advisers were not coordinating their trading. Thus, commenters stated that we should treat funds within a fund complex, different series of a fund, and separate subadvised portions of a fund asindependent for purposes of Rule 105. Commenters also stated Regulation SHO’s concept of independent trading unit aggregation should be expanded to unregistered entities. <sup>65</sup>
+
+In light of our solicitation of comment on the questions whether the principles for independent trading unit aggregation should be extended, and under what criteria, and in response to comments received, we have determined to apply the principles to Rule 105 for separate accounts in circumstances where the decisions regarding securities transactions are made separately and without coordination of trading or cooperation. <sup>66</sup> In addition, we have included an exception to address commenters’ concerns regarding funds within the same fund complex and different series of a fund. <sup>67</sup>
+
+<h>1. Separate Accounts.</h>
+
+We are adopting an exception that will permit a purchase of the offered security in an account of a person where such person sold short during the Rule 105 restricted period in a separate account, if decisions regarding securities transactions for each account are made separately and without coordination of trading or cooperation among or between the accounts. This exception incorporates the principles of Rule 200(f) of Regulation SHO that permit a registered broker or dealer to treat non-coordinating units separately.
+
+Rule 105 is directed at persons who short sell into an offering because they have a high likelihood of receiving discounted offering shares. These persons have a special incentive to sell short and thus do not contribute to efficient pricing. Where an account that sells short is not the account that purchases shares in the offering, if decisions regarding securities transactions foreach account are made separately and without coordination of trading or cooperation among or between the accounts even though the accounts may be affiliated or otherwise related, the incentive that motivates the Rule 105 violation is not present because the short seller cannot lock in a profit by purchasing the discounted offering shares. The exception is, therefore, narrowly tailored to address the abuses that Rule 105 is designed to prevent without triggering inadvertent violations by accounts that do not coordinate their trading activity.
+
+Indicia of Separate Accounts
+
+For purposes of this exception, accounts are separate and operating without coordination of trading or cooperation if:
+
+<h>1. The accounts have separate and distinct investment and trading strategies and objectives;</h>
+
+<h>2. Personnel for each account do not coordinate trading among or between the accounts;</h>
+
+<h>3. Information barriers separate the accounts, and information about securities positions or investment decisions is not shared between accounts;</h>
+
+<h>4. Each account maintains a separate profit and loss statement;</h>
+
+<h>5. There is no allocation of securities between or among accounts; and</h>
+
+<h>6. Personnel with oversight or managerial responsibility over multiple accounts in a single entity or affiliated entities, and account owners of multiple accounts, do not have authority to execute trades in individual securities in the accounts and in fact, do not execute trades in the accounts, and do not have the authority to pre-approve trading decisions for the accounts and in fact, do not pre-approve trading decisions for the accounts.</h>
+
+Depending on the facts and circumstances, accounts not satisfying each of these conditions may nonetheless fall within the exception if the accounts are separate and operating without coordination of trading or cooperation. Policies and procedures reasonably designed to ensure that the above safeguards are fully implemented would be indications that accounts are separate, as would regular reviews to help ensure that such policies and procedures are up to date and fully implemented. For example, such reviews may include reviewing activities that are indicative of coordination between accounts and reviewing trading activity of a particular account that does not appear to be consistent with the stated strategy or objectives of such account.
+
+We believe that accounts that have separate and distinct investment and trading strategies and personnel that are prohibited from coordinating trading between or among accounts would be considered to make separate decisions regarding securities transactions for purposes of Rule105. <sup>68</sup> These two factors are similar to the requirements of Regulation SHO Rule 200(f)(1) and
+
+<h>3. We believe that these factors are important indicators that accounts are separate for purposes of the exception. Thus, if trading is coordinated between accounts, the accounts will not be considered separate for purposes of this exception.</h>
+
+We believe that to meet the requirements of the exception there can be no communication of securities positions, investment decisions or other trading matters between accounts. <sup>69</sup> Information barriers, similar to information barriers required for registered broker-dealers under Section 15(f) of the Securities Exchange Act of 1934 (“Exchange Act”), will also inhibit coordination and help maintain the separation of accounts. Information leakage, which can occur for various reasons such as close proximity of trading desks or because traders are unawarethat they should not pass information between or among accounts, can give rise to either deliberate or inadvertent coordination of shorting into an offering. Similarly, the sharing of personnel with decision-making authority regarding trading activities in different accounts may lead to information leakage, whether deliberate or inadvertent, between or among accounts.
+
+Information barriers should include, at a minimum, appropriate physical barriers as well as training for all personnel.
+
+In the case of an owner of multiple separate accounts, information barriers may not be necessary so long as the account owner is not influencing the trading decisions, i.e ., the owner does not allocate securities between or among accounts; has no authority to execute trades in individual securities in the accounts; and has no authority to pre-approve trading decisions for the accounts.
+
+Another indicator that accounts are separate is the maintenance of separate profit and loss statements for each account. While an entity may also want to ensure that accounts have separate legal identities and separate taxpayer identification numbers, we believe that maintaining separate profit and loss statements indicates that an account is operating separately from other accounts, and is being treated by common management as separate.
+
+Another factor that indicates separateness is restricting personnel with management or oversight responsibilities over the entity from allocating securities between or among accounts. This factor is designed to ensure that when one account receives an offering allocation after the other account sells short, the offering allocation is not transferred to the account that sold short. Such a transfer would be contrary to the exception, which is that accounts be separate and free of coordination or cooperation among or between other accounts.
+
+A further factor that indicates separateness is restricting a person with oversight or managerial responsibility over multiple separate accounts from having authority to execute trades in individual securities in the accounts or the authority to pre-approve trading decisions for the accounts and such person does not execute trades for the account and does not pre-approve trading decisions for the accounts. This is designed to ensure non-coordination by a single person with control over multiple accounts. Thus, such person may neither direct an account to sell short during the restricted period, nor direct another account to purchase securities in an offering. In some circumstances, the manager may receive allocations and his allocating offering shares to an account that has a restricted period short sale would be a violation of Rule 105. If allocation of the offered securities is effected by a formula or predetermined basis, an account that has a restricted period short sale must not receive the offering shares.
+
+Examples of persons eligible for the separate account exception include:
+
+An individual investor who invests capital in two or more accounts and grants full discretionary trading authority to the respective managers of each account, if the individual investor cannot coordinate trading between the accounts or make investment decisions for the accounts, and the managers do not coordinate trading between the accounts.
+
+An adviser that provides capital to two or more advisers or two private investment funds, if the funds are separate legal entities, maintain different accounts and separate profit and loss statements, and do not coordinate trading or share information or allocate securities between the accounts.
+
+A money manager that provides capital to two separate advisers, if the funds managed by the advisers are separate legal entities, competitive with one another, maintain different accounts and separate profit and loss statements, and do not coordinate trading or share information or allocate securities.
+
+An adviser that operates a black box using a trading algorithm, if the black box is separate from another black box or another trading unit.
+
+We note that a fund that invests in multiple funds and owns shares of each fund rather than shares of each fund’s underlying investments will likely not need to rely on this exception whenone of the multiple funds sells short during the restricted period and another one purchases offered securities. In such cases, the shares of each fund are different securities from the underlying securities. For example, a hedge fund that invests in several other, unaffiliated hedge funds and does not coordinate the trading activity of these funds would not violate Rule 105 if a particular hedge fund in which the fund invested may have sold short underlying securities during a restricted period and another hedge fund in which the fund has invested purchased securities in a subsequent offering.
+
+Some registered investment companies retain multiple investment sub-advisers whose activities are subject to the supervision of a single, primary investment adviser. In such instances, each sub-advised portion of that fund or series may be able to rely on the exception in amended Rule 105(b)(2). In particular, if a sub-adviser to a registered fund, or a series of that fund, engages in a short sale of a security while another sub-adviser to the same fund or series goes long in that security through an offering enumerated in the rule, those decisions would be viewed as being made separately and without coordination of trading or cooperation among or between the sub-advised portions, provided that the sub-advisers met the elements of Rule 17a- 10(a)(1) - (2) under the Investment Company Act of 1940 (“Investment Company Act”), and provided further that the fund’s, or series’, primary investment adviser does not execute trades in individual securities, and does not pre-approve trading decisions for the sub-advised portions.
+
+We believe the exception provides a carefully honed response to the comments we received on this issue. The factors regarding separateness are provided to assist entities in determining whether they qualify for the exception. We note that these factors are not exhaustive, and persons otherwise may be able to rely on this exception. We understand that there may be other types of structures and entities that have safeguards and protections that fallwithin the exception. In addition, we will consider specific requests for exemptive relief on a case-by-case basis.
+
+We will closely monitor whether use of the exception in any way undermines the purposes of Rule 105, and will consider whether further guidance or changes to the exception are appropriate. We note that an entity that does not comply with the exception may be in violation not only of Rule 105, but also the antifraud provisions. For instance, evidence of coordination, cooperation, or attempts to circumvent the rule or hide coordinated or cooperative activity could be evidence of fraud or manipulation for purposes of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+
+<h>2. Investment Companies</h>
+
+In adopting Regulation SHO, we noted that the conditions required for independent trading unit aggregation were adopted to limit the potential for abuse associated with coordination among units and are designed to maintain the independence of the units. <sup>70</sup> The fact that brokers and dealers are subject to the oversight of self-regulatory organizations and have compliance responsibilities with regard to supervisory procedures and books and records requirements provided additional assurances that the Commission’s concerns would be addressed.
+
+Similarly, provisions of the Investment Company Act generally prohibit concerted action between funds in a complex and between different series of the same fund. Section 17(d) of the Investment Company Act and Rule 17d-1 thereunder prohibit an affiliated person of a registered investment company, and the affiliates of that affiliated person, acting as principal, from participating in any joint enterprise, or other joint enterprise or arrangement with their affiliatedinvestment company. Funds in the same investment company complex will generally be affiliates of each other. <sup>71</sup> An arrangement by which one fund sells a security short while another affiliated fund intentionally goes long to cover that position would generally be the type of joint arrangement that is prohibited by Section 17(d) and Rule 17d-1. As a result, Section 17(d) and Rule 17d-1 would prevent these persons from engaging in activities that the amended rule 105 seeks to prohibit.
+
+Rule 105 is directed at persons who sell short into an offering because they have a high expectation of receiving discounted offering shares. These persons have a heightened incentive to sell short to affect the price of the offered securities that they intended to purchase in order to lock in a profit. However, if the account that sells short during the restricted period is prohibited from concerted action with the account that purchases in the offering, the ability to lock in a profit from selling short prior to pricing and purchasing the offered securities is not present.
+
+Thus, in response to comments, we are including an exception in amended Rule 105 related to registered investment companies. Under this exception, an individual fund within a fund complex, or a series of a fund, will not be prohibited from purchasing the offered security if another fund within the same complex or a different series of the fund sold short during the Rule 105 restricted period. <sup>72</sup>
+
+By applying Regulation SHO’s aggregation unit concept in this manner, we believe we have addressed commenters’ concerns regarding the amended rule’s scope with respect toinvestment companies registered under the Investment Company Act and accomplished the goals of Rule 105, the prevention of manipulation and the facilitation of offering prices based on the natural forces of supply and demand.
+
+<h>C. Additional Amendments</h>
+
+The amendments modify paragraph (a) of the former rule in several other ways. First, the amendment refines the scope of the rule by restricting its application to offerings of “equity” securities for cash. The former rule was silent as to the rule’s application solely to “equity” securities. However language in Rule 10b-21, the predecessor to Rule 105, did limit application of the rule’s prohibitions to short sales of “equity securities of the same class as securities offered for cash” and the Commission, in adopting Rule 105, did not express its intent to alter the reach of the rule beyond equity securities. <sup>73</sup> We received comment on the Proposing Release suggesting that including debt securities in the rule is unnecessary because debt securities are less susceptible to manipulation. <sup>74</sup> According to commenters, this is because debt securities trade more on the basis of factors such as yield and credit rating and are priced on factors such as interest rates, and short sales of debt securities prior to pricing of a debt offering are not common. <sup>75</sup> Although the amendments clarify the scope of the rule to apply only to “equity” securities, the Commission intends to continue to monitor whether trading patterns in debt securities raise manipulative concerns in connection with debt offerings. We also received comment on the Proposing Release suggesting that the proposal be modified to include anexception for actively-traded securities within the meaning of Rule 101(c)(1) of Regulation M. <sup>76</sup> However, many of the securities that were involved in the enforcement cases brought by the Commission alleging violations of former Rule 105 far exceeded the public float value in the Regulation M “actively-traded” threshold level (that is, having an average daily trading volume value of at least $1 million and a public float value of at least $150 million). <sup>77</sup> Moreover, we believe that the bona fide purchase provision will address commenters’ concerns for additional flexibility for actively-traded securities without having to carve out an additional exception for such securities.
+
+The amendments also encompass offerings made pursuant to Form 1-E, Notification under Regulation E. Regulation E exempts from registration under the Securities Act of 1933 (“Securities Act”) securities issued by registered small business investment companies or by investment companies that have elected to be regulated as business development companies pursuant to Section 54(a) of the Investment Company Act. <sup>78</sup> Regulation E was originally patterned after Regulation A under the Securities Act. <sup>79</sup>
+
+We have long recognized the danger posed by market participants using securities obtained pursuant to an offering under Regulation A to cover short positions. <sup>80</sup> We asked the following question in the Proposing Release: Regulation E under the Securities Act provides certain small business investment companies and business development companies with a registration exemption that is similar to Regulation A. Should Rule 105 apply to offerings made pursuant to Form 1-E, Notification under Regulation E? <sup>81</sup> We received no public comment arguing against including Regulation E in Rule 105’s purview, or articulating why offerings under Regulation E should not be subject to Rule 105.
+
+In light of the important investor protections that Rule 105 provides, we have determined that it is prudent that offerings under Regulation A and Regulation E should be treated identically under Rule 105. We are concerned that short selling of securities issued pursuant to Regulation E during a Rule 105 restricted period raises the same manipulative concerns to which Rule 105 is directed, and which are present with offerings made pursuant to Regulation A. Subjecting offerings made pursuant to Regulation E to the provisions of Rule 105 is designed to ensure that participants in the secondary market for the securities of small business investment companies and business development companies will enjoy the same protections afforded to participants in the secondary market for the securities of similarly placed non-investment companies. Including offerings made pursuant to Form 1-E will place small business investment companies and business development companies on an equal footing with small issuers thatutilize Regulation A. Consequently, we have amended Rule 105 to encompass offerings made on Form 1-E.
+
+We have also amended the language of Rule 105(a) to include the term “subject security” and harmonize it with language used in other Regulation M rules. The amended rule states that it is unlawful for any person to sell short the security that is the “subject” of the offering and purchase offered securities. The term “subject” security is included in Regulation M Rule 100’s definition of covered security. <sup>82</sup> Rule 100 defines a covered security as “any security that is the subject of the distribution, or any reference security.” <sup>83</sup> While amended and former Rule 105 apply to offerings of securities rather than to distributions, the “subject” security language is consistent with Regulation M and, in response to commenters concerns, clarifies that the amended rule does not apply to reference securities. Therefore, in an offering of securities convertible into common equity, even though the convertible securities are themselves equity securities, <sup>84</sup> a person may still sell short the underlying common equity and purchase the convertible security in the offering without violating Rule 105. <sup>85</sup> Convertible offerings appear to be priced on many factors in addition to the underlying equity’s price, such as credit rating, which may make convertible offerings less susceptible to manipulation through pre-pricing short sales. However, the Commission will continue to monitor the convertible offering market and may re-evaluate these offerings.
+
+In response to commenters’ concerns, amended paragraph (a) retains the language of the former rule that the purchase of the offered security is made “from an underwriter or broker or dealer participating in the offering.” Although we stated in the Proposing Release that the language “from an underwriter or broker or dealer participating in the offering” was unnecessary because Rule 105 covers shelf offerings now, three of the commenters stated their belief that retaining this language is necessary in order not to extend the scope of the rule to unnecessarily preclude a broker or dealer from participating in an offering as a distribution participant, and purchasing the offering securities from the issuer as part of the distribution process, in situations where a unit within the same broker-dealer firm may have effected a Rule 105 restricted period short sale. <sup>86</sup> Thus, a broker or dealer is not precluded from participating in an offering as a distribution participant and may purchase the offering securities from an issuer as part of the distribution process if a unit within the same firm effected a short sale(s) during the Rule 105 restricted period.
+
+Amended paragraph (a) also retains the “purchase” language of the former rule. The Proposing Release used the language “purchase, including enter into a contract of sale for, the security in the offering.” We have determined that it is not necessary to include the additional language regarding “enter into a contract of sale” because a purchase or sale under the Securities Act includes any contract of sale. <sup>87</sup> Thus, for purposes of amended Rule105, the purchase occurs at the time the investor becomes committed by agreement or is commitment to buy the offeredsecurity, whether such agreement is oral or written. <sup>88</sup>
+
+The amendments to Rule 105 are targeted and narrow, and thus do not restrict short sales beyond what the Commission believes is necessary to address recent non-compliance and strategies to conceal the prohibited covering of the former rule. While some commenters suggested shortening the rule’s restricted period to incorporate the concept of public announcement of an offering, <sup>89</sup> we believe that there is a risk that an investor could learn about a potential shelf offering before it is publicly announced and would still be permitted to sell short even with the knowledge of an upcoming offering. <sup>90</sup> In addition, the amendments will help promote the process of capital formation. Moreover, in response to commenters, the absolute ban on purchasing offered securities in the Proposing Release has been refined to address many of the commenters’ concerns, while still advancing the goals of the Rule.
+
+The amended rule does not ban short sales. Traders can sell short during a Rule 105 restricted period if they choose not to purchase offered securities. Traders can sell short prior to the restricted period and receive an offering allocation. Compliance with the bona fide purchase provision also allows traders to sell short during the Rule 105 restricted period and receive an allocation. The bona fide purchase provision is designed to promote capital formation while theconditions for the provision are designed to reduce artificial influences on pricing. As such, the bona fide purchase provision advances the Commission’s investor and market protection goals. At the same time, the provision addresses commenters’ concerns regarding not having to make investment decisions before the offering price is determined, allowing issuers and underwriters to price offerings with “market counterbalance,” and not reducing the number of buyers for certain offerings. <sup>91</sup> Additionally, while several commenters suggested that a better approach for the Commission would be to simply provide additional interpretive guidance to the investment community as to what constitutes “covering” for purposes of former Rule 105, we believe that the amendments provide a bright line demarcation of prohibited activity that is consistent with the prophylactic nature of Regulation M and that will likely better deter non-compliance with Rule 105. Thus, the amendments provide additional guidance to the investment community in terms of compliance with Rule 105, but while still addressing potentially manipulative activity in a manner that may more effectively bolster issuer and investor confidence in the offering process and thus encourage capital formation.
+
+<h>III. Derivatives</h>
+
+In the Proposing Release, we stated our understanding that persons may use options or other derivatives in ways that may cause the harm that Rule 105 is designed to prevent and requested comment on trading strategies involving derivatives that may depress market prices and result in lower offering prices to issuers in ways not covered by then current Rule 105 or the proposal. <sup>92</sup> The Commission requested specific detail about particular derivatives used, transactions, and the role of the parties involved in the transactions. Commenters did address theissue of derivatives but only to a limited extent. <sup>93</sup> For example, one commenter requested that the Commission specifically prohibit short sales of, and equivalent transactions in, derivative securities from Rule 105. <sup>94</sup> This commenter noted that Commission guidance about the applicability of the general anti-manipulation rules has not been effective in preventing short sellers intent on manipulating an issuer’s securities from using various synthetic shorts, married puts and sham transactions to accomplish indirectly what Rule 105 prohibits directly. <sup>95</sup> Similarly, another commenter also noted that derivatives strategies, including married puts and sham swap transactions, have been utilized to avoid the prohibitions of Rule 105 and that new creative strategies that involve other derivatives which fall outside these parameters are likely in the future. <sup>96</sup> One commenter stated its belief that applying Rule 105 to transactions in derivatives “would be another significant departure from the Commission’s philosophy underlying Regulation M and the covering of derivatives in its prophylactic rules. <sup>97</sup> Another commenter stated its belief that “derivatives” is a term that is both too broad and too vague to properly be addressed as one all encompassing entity under a rule. <sup>98</sup>
+
+In view of above-referenced comments, the Commission will continue to monitor the use of derivative strategies that may replicate the economic effect of the activity that Rule 105 isdesigned to prevent. Among the issues we will monitor and evaluate further is whether the link between the derivatives trading and the underlying equities is sufficiently attenuated as not to warrant additional regulation. In addition, we will consider the extent to which derivative strategies are a functional substitute for the equity trading covered by the rule. We also note that any transaction or series of transactions remain subject to the anti-fraud and anti-manipulation provisions of the securities laws even if they do not implicate Rule 105.
+
+<h>IV. Paperwork Reduction Act</h>
+
+There is no collection of information requirement within the meaning of the Paperwork Reduction Act for Rule 105.
+
+<h>V. Cost-Benefit Analysis</h>
+
+We are sensitive to the costs and benefits of Rule 105 and we have considered the costs and benefits of the adopting amendments. To assist us in evaluating the costs and benefits, in the Proposing Release, we encouraged commenters to discuss any costs or benefits associated with the proposal. Commenters were requested to provide analysis and data to support their views on the costs and benefits associated with the proposal. Commenters were encouraged to discuss any additional costs or benefits or reductions in costs in addition to those discussed in the Proposing Release. The Commission requested comment on potential costs for modification to any computer systems and any surveillance mechanisms as well as any potential benefits resulting from the proposal for issuers, investors, broker or dealers, other securities industry professional, regulators, or other market participants. No comment letters provided estimates of specific costs.
+
+<h>A. Adopted Amendments to Rule 105 of Regulation M</h>
+
+In general, former Rule 105 prohibited persons who sold short prior to pricing certain offerings during a defined restricted period from covering such short sales with offeringsecurities. The prohibited activity was the covering. Under the amendments, the prohibited activity is now purchasing in the offering. As amended, Rule 105 of Regulation M makes it unlawful in connection with an offering of equity securities for cash pursuant to a registration statement or a notification on Form 1-A (§239.90) or Form 1-E (§239.200) filed under the Securities Act (“offered securities”), for any person to sell short the security that is the subject of the offering and purchase the offered securities from an underwriter or broker or dealer participating in the offering if such short sale was effected during the period that is the shorter of the period beginning five business days before the pricing of the offered securities and ending with such pricing or beginning with the initial filing of such registration statement or notification on Form 1-A or Form 1-E and ending with the pricing. The amendments provide, however, that it shall not be unlawful for such person to purchase the offered securities if such person makes a bona fide purchase(s) of the security that is the subject of the offering that is at least equivalent in quantity to the entire amount of the Rule 105 restricted period short sale(s). The purchase must be effected during regular trading hours, reported to an effective transaction reporting plan, and effected after the last Rule 105 restricted period short sale, prior to pricing and no later than the business day prior to the day of pricing. In order to rely on the bona fide purchase provision, a person may not effect a short sale, which is reported to an effective transaction reporting plan, within the 30 minutes prior to the close of regular trading hours on the business day prior to the day of pricing.
+
+In addition, the amendments provide exceptions for separate accounts and investment companies. Accordingly, the purchase of the offered security in an account of a person shall not be prohibited where such person sold short during the Rule 105 restricted period in a separate account, if decisions regarding securities transactions for each account are made separately andwithout coordination of trading or cooperation among or between accounts. Further, the amendments include an exception for investment companies registered under Section 8 of the Investment Company Act that allow such an investment company to participate in an offering if an affiliated investment company or any series of such company sold short during the restricted period.
+
+The goal of Rule 105 is to promote offering prices that are based upon market prices determined by supply and demand rather than artificial forces. The rule is prophylactic and prohibits the conduct irrespective of the short seller's intent. The amended rule eliminates the covering requirement of the former rule because there had been non-compliance with the former rule coupled with persons effecting strategies to hide the prohibited covering.
+
+<h>B. Benefits</h>
+
+The amendments are intended to end the proliferation of strategies designed to hide covering restricted period short sales with offered securities. The amendments seek to fulfill this objective by eliminating the covering requirement. Putting an end to activity designed to conceal covering with offered securities but replicate the same economic outcome is expected to better deter those attempting to place artificial downward pressure on market prices, which can lower offering prices and thereby reduce an issuer’s offering proceeds. The amendments are expected to benefit issuers because they likely will receive offering proceeds that are not lower than anticipated due to short sales prior to pricing by persons who would cover such short sales with offering securities and then attempt to conceal the prohibited covering. Academic research shows that prices decline by 1 – 3 % on average during the five days before pricing for follow-onofferings under the current restrictions. <sup>99</sup> In its comment letter, Fairfax Financial indicated that the academic literature underestimates the effect of short selling during the Rule 105 restricted period and provided an example of an offering with a larger price decline. No commenters provided arguments suggesting that this price decline is due to factors other than noncompliance with former Rule 105.
+
+The amendments will work to safeguard the integrity of the capital raising process by promoting offering prices based on the independent forces of supply and demand rather than artificial prices due to potentially manipulative short sales prior to pricing. This may boost investor confidence that investment decisions can be based on market prices and offering prices that are unencumbered by artificial forces, and thus may facilitate capital formation.
+
+Prohibiting purchasing in the offering when one has sold short during the restricted period provides a bright line demarcation of prohibited activity consistent with the prophylactic nature of Regulation M. The amended rule likely will better deter non-compliance with Rule 105 because it may be more difficult to conceal an offering purchase than to conceal covering. The amendments also benefit traders who want to comply with Regulation M by providing a bright line delineation of unlawful conduct. This bright line demarcation of prohibited conduct is also a benefit to regulators surveilling for and investigating potential Rule 105 violations.
+
+The amendments clarify the pool of securities offerings to which Rule 105 applies. Application of the rule is limited to offerings of “equity” securities. This precise language benefits persons determining whether or not the rule is applicable in a particular situation. Theamended rule also harmonizes its language with other rules of Regulation M by using the term “subject” security. The amendments also benefit traders by making it clear that the rule does not apply to reference securities so that, in a convertible offering, a trader can sell short the underlying common equity and purchase the convertible security in the offering without violating Rule 105.
+
+The new provisions concerning bona fide purchases, separate accounts, and investment companies benefit issuers because they narrowly tailor the rule to address a specific abuse in a manner consistent with the goals of Rule 105 without unnecessarily shrinking the potential universe of offering investors. The bona fide purchase provision also benefits issuers because it requires that the bona fide purchase must occur no later than the business day prior to the day of pricing. This benefits issuers because it provides an opportunity for market reaction to the purchase prior to pricing the offering.
+
+The bona fide purchase provision also benefits short sellers because they are able to effect certain short sales without being precluded from making an offering purchase where we believe the price impact of the purchase offsets the price impact of the short sales. The separate account exception benefits short sellers who will not have to restrict their short sales because of the possibility of a separate but related account purchasing offered securities. Similarly, the investment company exception benefits investment companies who sell short because they will not have to restrict their short sales do to the possibility of an affiliated investment company or any series of such company purchasing offered securities. The separate account and investment company provisions also benefit potential investors who may want to purchase offered securities. These potential investors will not be precluded from doing so because of restricted period short sales in a separate account or affiliated investment company.
+
+The amendments do not ban short sales. Rather, the amendments maintain much of the prior rule’s flexibility for effecting short sales such as allowing traders to sell short prior to the restricted period and receive an allocation, and to sell short during the restricted period if they do not participate in an offering. Persons can also sell short during the restricted period and participate in the offering if they make a bona fide purchase. The amendments benefit the securities market generally because they allow for short sales that may contribute to pricing efficiency and price discovery.
+
+The amendments also benefit issuers by expanding the rule’s scope to cover offerings made pursuant to Form 1-E. Issuers making such offerings should be less likely to receive reduced offering proceeds due to short sales effected immediately before pricing an offering. Subjecting offerings made pursuant to Regulation E to the provisions of Rule 105 will help to ensure that participants in the secondary market for the securities of small business investment companies and business development companies will enjoy the same protections afforded to participants in the secondary market for the securities of similarly placed non-investment companies. Similarly, including offerings made pursuant to Form 1-E will place small business investment companies and business development companies on an equal footing with small issuers that utilize Regulation A.
+
+By putting an end to activity designed to conceal covering with offered securities but in a manner designed to replicate the same economic outcome, the amendments are expected to lead to a reduction in short sales in violation of Rule 105 that place artificial downward pressure on market prices, which can lower offering prices and thereby reduce an issuer’s offering proceeds. Therefore, the amendments will likely strengthen the ability of underwriters to set offering pricesbased on independent supply and demand without being encumbered by artificial activity in the market.
+
+<h>C. Costs</h>
+
+We recognize that the amendments to Rule 105 may result in some costs to certain market participants. Under the former rule, persons that effected restricted period short sales were prohibited from covering such short sales with offering securities. Thus, persons were required to have systems and surveillance mechanisms for information gathering, management and recordkeeping systems or procedures in order to comply with the former rule. For that reason, persons are not expected to incur costs for having to develop new surveillance mechanisms. Any existing mechanisms may need to be modified but we do not anticipate that any costs associated with such modification will be significant. We note, however, that one commenter stated that in order to comply with the proposed amendments, a large trading organization would need to implement significant changes to its trading infrastructure to identify and track offerings subject to Rule 105. However, while there are some differences in what persons will have to track under the amended Rule, including potential added costs associated with the bona fide purchase provision, persons needed to identify and track offerings subject to the former rule, and thus, such costs were likely already incurred when the rule was first adopted and, therefore, any additional costs are likely to be minimal.
+
+The adopting amendments provide that a person who sells short during the restricted period cannot purchase in the offering. We believe that this bright line demarcation of prohibited conduct may perhaps even be easier to surveil and comply with, and which may lead to reduced costs. Further, we believe that this bright line demarcation of prohibited conduct may also leadto a reduction in costs given the anticipated reduction in schemes that may currently be in place to conceal covering.
+
+We anticipate that some entities may incur costs associated with educating traders regarding the adopted amendments and updating compliance manuals. We do not anticipate that such costs will be significant.
+
+We do not anticipate that registered investment companies will incur significant costs associated with the amendments. Many registered investment companies do not effect short sale strategies. In addition, the separate account exception may used by sub-advisers to the same investment company. If the sub-advisers’ accounts are separate, one sub-adviser can purchase the offered securities if another sub-adviser sold short during the Rule 105 restricted period.
+
+Further, the investment company exception can be used by an individual fund within the same complex or a series of a fund so that one fund or series can purchase an offered security if another fund within the same complex or a different series of the fund sold short during the Rule 105 restricted period. Accordingly, sub-advisers and investment companies relying on these exceptions will not incur costs from altering their trading.
+
+There may be some costs to short sellers relying on the bona fide purchase provision as they will need to make a market purchase in order to participate in the offering. Moreover, under the amendments, restricted period short sellers relying on the bona fide purchase provision must make a purchase prior to pricing, but the purchase must occur no later than the business day prior to the day of pricing. In rare circumstances, there also may be costs to a person who sells short near the 30 minutes prior to close of regular trading hours on the business day prior to the day of pricing and is then approached to participate in an offering. That person may incur some costs inmaking the market purchase in order to participate in the offering as well as some costs in determining the exact time of the short sale. We expect any such cost will be minimal.
+
+We anticipate that many persons will be able to rely on the separate account exception based on their current structures. For example, the exception would be available to an individual investor who invests capital in two or more accounts, grants full discretionary trading to the respective managers of each account, does not coordinate trading between the accounts or make investment decisions for the accounts and has managers that do not coordinate trading. We expect that many individual investors with multiple accounts currently have such a structure in place and would not incur costs to comply with this exception. By way of another example, a pension fund that provides capital to two or more advisers may currently fall within the exception and would not incur costs in order to comply with the separate account exception.
+
+We do not anticipate significant costs to be incurred by persons relying on the investment company exception. This exception allows certain investment companies to participate in an offering if an affiliated investment company or any series of such company sold short during the restricted period. We expect that the investment companies at which the exception is directed currently have structures in place that will allow them to take advantage of the exception and thus should not incur significant costs, if any, in relying on the exception.
+
+There may be persons who are unable to rely on the investment company or separate account exceptions. We note that such persons are not required to use the exceptions and thus there is no cost associated with the exception that a person would incur. Rather than rely on these exceptions, such persons may instead choose not to purchase an offered security, refrain from selling short during the restricted period if they choose to purchase the offered security, or use the bona fide purchase exception. A person may however, choose to voluntarily adjust theirstructures so as to be able to use the investment company or separate account exceptions and may incur costs in doing so.
+
+There may be costs to a person that is unable to rely on the new exceptions and chooses to seek to obtain exemptive relief from the Commission. However, we anticipate the three new exceptions will be used by many persons and accordingly should reduce the need for exemptive relief. Therefore, we do not anticipate numerous requests for exemptive relief. In addition, persons can tailor their trading so as to not run afoul of the rule and eliminate the need for exemptive relief.
+
+In response to the Proposing Release, one commenter noted potential costs associated with the possibility of the proposals impairing trading strategies of hedge funds and other active traders, with likely negative consequences for capital raising. <sup>100</sup> Another commenter noted that the proposals will have an adverse impact on capital raising through secondary offerings and impose greater costs to issuers by: forcing investors to make an investment decision at an earlier point in time before an offering price is determined; allowing issuers and underwriters to price offerings without market counterbalance; and reducing the number of buyers for secondary offerings. <sup>101</sup> However, we believe that modifying the proposal to include the bona fide purchase provision will address commenters’ concerns about the potential negative consequences or impact on capital raising, including concerns about a decrease in the number of potential buyers in an offering and increased costs to issuers. The provision also allows potential buyers to decide to invest at a time much closer to the pricing of an offering than as originally proposed.
+
+We do not expect the amendments to result in a major increase in costs. We expect that the amendments likely will curtail the potential for manipulative activity that can reduce offering proceeds. The change will provide a protective measure against abusive conduct that hampers the capital raising process and negatively impacts issuers. We believe that any costs associated with the amendments are justified by the benefits derived from preventing the manipulative activity of effecting restricted period short sales and covering with offering shares.
+
+<h>VI. Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation</h>
+
+Section 3(f) of the Exchange Act <sup>102</sup> requires us, when engaging in rulemaking and where we are required to consider or determine where an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. Section 23(a)(2) of the Exchange Act <sup>103</sup> requires the Commission, in adopting rules under the Exchange Act, to consider the anticompetitive effects of any rules it adopts under the Exchange Act. Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. In the Proposing Release, we solicited comment on the proposal’s effects on efficiency, competition, and capital formation.
+
+Additionally, we requested comment on the potential impact of the proposed amendments on the economy on an annual basis pursuant to the Small Business Regulatory Enforcement Act of 1966 (“SBREFA”). <sup>104</sup>
+
+In response to the Proposing Release, one commenter stated its belief that the proposed amendments could result in unintended negative consequences, including the creation of new hurdles that hinder the efficiency of the capital formation process – to the ultimate detriment of the issuers the Rule is seeking to protect. <sup>105</sup> This commenter also expressed concern about the impact of the proposed amendments in situations where investors effect short sales during the rule’s restricted period without any knowledge that the offering is going to occur; and that by effectively precluding a group of investors from receiving an allocation, the proposed amendments could negatively impact underwriters’ decision on whether to commit to some offerings. <sup>106</sup> We believe that the bona fide purchase provision addresses these concerns, in that most of these investors will not be precluded from participating in such offerings.
+
+We believe that the amendments are expected to promote capital formation through enhanced investor confidence in the integrity of the U.S. securities market because the amendments prohibit conduct that can manipulate market prices and could result in lower offering prices. <sup>107</sup> Capital formation may also be facilitated because issuers may be more likely to offer securities for sale in the U.S. securities market because there are rules in place to deter potentially manipulative conduct that effects offering prices. The bona fide purchase provision will likely contribute to capital formation by helping to ensure that the universe of potential offering investors is not unduly limited.
+
+The amendments also promote pricing efficiency. Short sales contributing to price discovery and efficiency can occur at any time under Rule 105 if a person chooses not topurchase in an offering. Persons can sell short prior to the restricted period and purchase offering securities. In addition, the bona fide purchase provision retains an opportunity for persons to sell short during the Rule 105 restricted period and still participate in certain offerings. The amendments are expected to lessen the incentive to engage in trading activity that could lead to a loss in pricing efficiency prior to when an offering is priced because it is now more difficult to obscure the prohibited activity of making an offering purchase.
+
+The amendments are not expected to impose a burden on competition that is not necessary or appropriate in furtherance of the purposes of the Exchange Act. An individual fund within a fund complex, or a series of a fund, may rely on the investment company exception if the conditions of the exception are met. A separately subadvised portion of a fund may rely on the separate account exception if the conditions of the exception are satisfied. Because of the broad diversity of other fund structures, we will consider individual requests on a case-by-case basis.
+
+The Commission believes that the amendments are in the public interest because of the strategies designed to hide the covering prohibited by former Rule 105 and the resulting artificial downward pressure placed on market prices, which can lower offering prices and thereby reduce an issuer’s offering proceeds.
+
+<h>VII. Final Regulatory Flexibility Analysis</h>
+
+This Final Regulatory Flexibility Analysis has been prepared in accordance with 5 U.S.C.603. An Initial Regulatory Flexibility Analysis (“IRFA”) was prepared in accordance with the Regulatory Flexibility Act in conjunction with the Proposing Release. The Proposing Release included, and solicited comment on, the IRFA.
+
+<h>A. Need for the Amendments</h>
+
+There has been non-compliance with former Rule 105 and persons engaging in strategies to hide that non-compliance. In particular, persons engineered strategies to conceal the prohibited covering. We have observed that these strategies evolved over time. The Commission is adopting these amendments to forestall the continuation of these obfuscating transactions and protect the integrity of the U.S. capital raising process. We believe the amendments are necessary to cut-off the likely future development of more complex attempts to disguise violations of the Rule.
+
+<h>B. Objectives of the Amendments</h>
+
+The amendments are designed to facilitate offering prices determined by independent market forces. The amendments enhance market integrity by prohibiting conduct that can be manipulative around the time an offering is priced so that market prices can be fairly determined by an independent market. The amendments are designed to promote offering prices that are determined by the natural forces of supply and demand. We believe the amendments safeguard the integrity of the capital raising process and protect issuers from potentially manipulative activity that can reduce offering proceeds. The amendments are expected to promote investor confidence in the market which should foster capital formation.
+
+<h>C. Significant Issues Raised by Public Comments</h>
+
+The IRFA appeared in the Proposing Release. <sup>108</sup> We requested comment on the IRFA on “(1) the number of persons that are subject to Rule 105 and the number of such persons that are small entities; (2) the nature of any impact the proposed amendments would have on small entities and empirical data supporting the extent of the impact . . . and (3) how to quantify the<sup>108</sup>
+
+See Proposing Release Section X, 71 FR at 75009.number of small entities that would be affected by and/or how to quantify the impact of the proposed amendments.” <sup>109</sup> We received one comment letter that discussed the IRFA. <sup>110</sup>
+
+<h>D. Small Entities Subject to the Rule</h>
+
+The amendments apply to persons that effect short sales during the restricted period. For purposes of amended Rule 105, the term “person” is unchanged from the former rule. The persons covered by the amendments include small entities. Generally, these entities were already subject to former Rule 105 and were likely to have been monitoring restricted period short sales. For that reason, we do not anticipate that there will be any significant additional costs associated with compliance with the amendments for these businesses. Although it is impossible to quantify every type of small entity that may sell short during a Rule 105 restricted period, paragraph (c)(1) of Rule 0-10 <sup>111</sup> states that the term “small business” or “small organization” when referring to a broker-dealer means a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to §240.17a-5(d); and is not affiliated with any person (other than a natural person) that is not a small business or small organization. As of the start of 2006, the Commission estimates that there were approximately 911 broker dealers that qualified as small entities as defined above. <sup>112</sup>
+
+Any business, however, regardless of industry, will be subject to Rule 105 if they sell short during the applicable restricted period. The Commission believes that, except for the broker-dealers discussed above, especially in the absence of commenters addressing the issue, an estimate of the number of small entities that fall under the amendments is not feasible.
+
+As with the former rule, the amended rule does not distinguish offerings by whether an issuer is small or large. Its provisions apply equally to any offering that falls within the rule’s conditions regardless of the size of the issuer.
+
+<h>E. Projected Reporting, Recordkeeping and Other Compliance Requirements</h>
+
+The amendments may impose limited new compliance requirements on any affected party, including broker-dealers that are small entities. Under the amendments, persons covered by the rule who sell short during the restricted period cannot purchase securities in the offering. While compliance is required to ensure the prohibition is not violated, there are no new recordkeeping or reporting obligations.
+
+The amendments do not modify the measurement of restricted periods that apply.
+
+Therefore, since the former rule also addresses conduct around short selling that occurs during a Rule 105 restricted period, the monitoring that is required of market participants to ensure compliance with the amended rule will not change.
+
+We note that the compliance with the amended rule is expected to be simpler than compliance with the former rule, which prohibited covering. Monitoring for an offering purchase, notwithstanding any additional monitoring that may be needed to help ensure compliance with the bona fide purchase provision, is simpler than monitoring for covering because it is so easily identifiable. As with the former rule, responsibility for compliance with the amendments rests with the person that sells short during the Rule 105 restricted period. Theamendments are focused on eliminating schemes to disguise the covering prohibited by the former rule and are not intended to change compliance responsibilities.
+
+There are no new reporting or recordkeeping requirements in the amended rule. The amendments do not contain recordkeeping or reporting requirements for broker-dealers or any recordkeeping or reporting requirements unique to small entities.
+
+<h>F. Agency Action to Minimize Effect on Small Entities</h>
+
+We have considered various alternatives to accomplish our objectives which minimize any significant adverse impact on small entities and other entities. While we proposed a stricter rule, we modified the proposal to include a limited bona fide purchase provision in response to commenters’ concerns. We believe that the amendments are narrowly tailored to address particular conduct, hiding the covering prohibited by the former rule. The amendments apply restrictions where they are most needed and ease the proposed amendments, in light of comments, where the risk of potentially manipulative activity is not as great. The amendments are not expected to adversely effect small entities because they do not impose any new recordkeeping, or reporting requirements.
+
+<h>VIII. Statutory Basis and Text of Amendments</h>
+
+<END MAIN TEXT>
+
+1 See Securities Exchange Act Release No. 54888 (Dec. 6, 2006), 71 FR 75002 (Dec. 13, 2006) (“Proposing Release”). See also Securities Exchange Act Release No. 38067 (Dec. 20, 1996), 62 FR 520 (Jan. 3, 1997) (“Regulation M Adopting Release”).
+
+2 See Proposing Release, 71 FR at 75002.
+
+3 See id. at 75003.
+
+4 Former Rule 105(a) stated, “[i]n connection with an offering of securities for cash pursuant to a registration statement or a notification on Form 1-A (§239.90 of this chapter) filed under the Securities Act, it shall be unlawful for any person to cover a short sale with offered securities purchased from an underwriter or broker or dealer participating in the offering if such short sale occurred . . .” during the applicable Rule 105 restricted period.
+
+5 See former Rule 105(a).
+
+6 See Proposing Release, 71 FR at 75002.
+
+7 See id. at 75004.
+
+8 See id. at 75002.
+
+9 See id.
+
+10 The comment letters are available on the Commission’s Internet Web site at 20-06/s72006.shtml. Comment letters were received from (1) Millenium Partners, L.P. dated March 19, 2007 (Millenium letter), (2) Fairfax Financial Holdings Limited dated March 9, 2007 (Fairfax letter), (3) Sullivan & Cromwell LLP dated Feb. 28, 2007 (Sullivan letter), (4) NYSE Regulation, Inc. dated Feb. 27, 2007 (NYSE letter), (5) Cleary Gottlieb Steen Hamilton LLP dated Feb. 16, 2007 (Cleary letter), (6) James J. Angel, PH.D., CFA dated Feb. 14, 2007 (Angel letter), (7) Schiff Hardin LLP dated Feb. 14, 2007 (Schiff letter), (8) Securities Industry and Financial Markets Association dated Feb. 13, 2007 (SIFMA letter), (9) Davis Polk & Wardwell dated Feb. 13, 2007 (Davis letter), (10) Managed Funds Association dated Feb. 12, 2007 (MFA letter), (11) Investment Company Institute dated Feb. 12, 2007 (ICI letter), (12) Morgan, Lewis Bockius LLP dated Feb. 12, 2007(Morgan letter), and (13) International Association of Small Broker-Dealers and Advisers dated Dec. 14, 2006 (IASBDA).
+
+11 See NYSE and Fairfax letters.
+
+12 NYSE letter.
+
+13 Fairfax letter.
+
+14 See, e.g., NYSE letter stating that the proposal will “bolster investors confidence” and “will protect independent pricing mechanisms and price integrity and advance the intent of Regulation M, which is to prevent market manipulation and facilitate offering prices based on the natural forces of supply and demand, unencumbered by artificial influence.” The NYSE letter further states that it “applauds the efforts of the Commission in proposing amendments to Rule 105 which will promote market integrity by precluding persons from engaging in manipulative conduct around the pricing of an offering so that markets can be fairly determined by supply and demand without the influence of artificial forces.” See also, Fairfax letter stating “Fairfax strongly supports the Commission’s continued efforts to protect the integrity of the securities markets’ independent mechanism for pricing publicly offered securities.” See, e.g., ICI letter stating that “the Institute supports the goals of the proposal. . . .” See also, the Millennium letter stating “Millennium fully agrees with the Commission’s stated goals of reducing the risk of manipulation in connection with the pricing of offerings and eliminating ‘sham’ type arrangements designed to avoid compliance with existing Rule 105.”
+
+15 See, e.g., Morgan letter.
+
+16 See id.
+
+17 See id.
+
+18 See MFA letter.
+
+19 See SIFMA, Sullivan, MFA, Cleary letters.
+
+20 Cleary letter.
+
+21 See, e.g., Davis letter stating that “[t]rading techniques have gotten more sophisticated and there are numerous strategies that involve short sales . . . Often times these strategies are employed by investors that are interested in a particular issuer and accordingly would otherwise be likely potential purchasers in an offering. By excluding potential investors . . . the proposed rule would interfere with price discovery and potentially adversely impact the pricing of the offering.” See also, SIFMA letter stating “[m]oreover, by effectively precluding a certain group of investors from receiving an allocation, the proposed changes could negatively affect pricing efficiency and could impact underwriters’ decisions on whether to commit to some offerings.”
+
+22 See, e.g., MFA and Davis letters.
+
+23 See, e.g., Millenium letter. See also Sullivan letter (noting that shelf offerings also would be particularly affected by the proposed amendments since shelf offerings are essentially “overnight” deals).
+
+24 See Schiff letter stating that the proposal “will have a disparate negative and unfair effect on funds advised by registered investment advisers that utilize multiple investment strategies or employ multiple sub-advisers.” See also, ICI letter suggesting that the “Commission clarify that each individual fund within a fund complex (and each series of a fund), and each subadvised portion of a particular fund, is a separate ‘person’ for purposes of Rule 105” or extend the aggregation unit concept set forth in Rule 200(f) of Regulation SHO to funds.
+
+25 ICI letter.
+
+26 ICI letter.
+
+27 See MFA, Schiff, and SIFMA letters supporting the expansion of Regulation SHO’s aggregation unit concept to registered and unregistered entities. See also discussion regarding aggregation units in Section II below.
+
+28 See, e.g., SIFMA letter.
+
+29 See, e.g., Davis letter recommending “that the restricted period not commence until the later of public announcement of the offering or five business days before pricing.” See also, SIFMA letter suggesting that the restricted period “not begin earlier than the point of public announcement of the offering.” See also, Fairfax letter stating that “[f]airfax recommends that, instead of the current pre-set five day restricted period, the restricted period should be the lesser of ten days and the period between public announcement and pricing.”
+
+30 See, e.g., MFA suggesting exceptions for bona fide arbitrage and bona fide hedging. See also, SIFMA letter suggesting exceptions for “(i) convertible arbitrage; (ii) merger arbitrage; (iii) volatility trading; (iv) long/short strategies; (v) other hedging strategies; and (vi) bona-fide market making and customer facilitation activities.” See also, Cleary letter suggesting an exception for among other things, “bona fide hedging activities conducted in accordance with pre-established trading strategies.”
+
+31 See, e.g., Cleary letter, suggesting an exception for securities that are actively-traded within the meaning of Rule 101(c)(1) of Regulation M.
+
+32 See Morgan, Sullivan, Davis, SIFMA and MFA letters suggesting that an investor that sells short during the restricted period should be able to cover such short sales prior to the offering and participate in the offering. Other commenters were opposed to such an exception. See, e.g., Fairfax letter stating that, “covering restricted period short sales in advance of pricing would not necessarily cure any manipulative impact of the short sales if the covering purchases have no mitigating effect on an underwriter’s decision to lower an offering’s price (e.g., if the purchase is made immediately prior to pricing such that there is no opportunity for market reaction to the purchase in order to dissipate any downward impact from the short sale).”
+
+33 See, e.g., NYSE letter.
+
+34 See, e.g., MFA letter.
+
+35 See, e.g., SIFMA and MFA letters.
+
+36 See, e.g., SIFMA and Morgan letters.
+
+37 See, e.g., SIFMA letter.
+
+38 See, e.g., SIFMA letter, noting that exchange-traded funds (ETFs) are non-firm commitment offerings that “do not involve the type of discount which provides a motivation to ‘capture the discount by aggressively short selling just prior to pricing,’ and, as a result, do not raise the policy concern that the proposed rule changes are intended to address.” See also Morgan and Cleary letters.
+
+39 See, e.g., SIFMA letter. However, one commenter was not opposed to that concept. See Millennium letter.
+
+40 See, e.g., Morgan letter suggesting that “a far better approach would be for the Commission to provide additional guidance to the investing community regarding the specific means that it believes would result in compliance with existing Rule 105.”
+
+41 We note that certain issues discussed in the Proposing Release and comment letters have not been incorporated into amended Rule 105 at this time. However, the Commission intends to monitor whether further action is warranted. For example, amended Rule 105 continues to retain the exception for best efforts offerings. If we become aware of potentially manipulative short selling prior to the pricing of best efforts offerings or other concerns with this exception, the Commission may re-evaluate this exception. By way of another example, PIPEs generally did not fit within the elements of former Rule 105. One reason for this is that PIPEs are typically not conducted on a firm commitment basis. PIPE offerings not conducted on a firm commitment basis continue to be excepted from Rule 105, however other areas of the securities laws continue to apply to PIPE offerings. See e.g., SEC v. Hilary L. Shane, Lit. Release No. 19227 (May 18, 2007).
+
+42 Obfuscating the prohibited covering is one way that persons have attempted to conceal Rule 105 violations. Derivatives have also been used to conceal Rule 105 violations by attempting to disguise a short sale as a long sale. See e.g., Commission Guidance on Rule 3b-3 and Married Put Transactions, Securities Exchange Act Release No. 48795 (Nov. 17, 2003), 68 FR 65820 (Nov. 21, 2003) (“Married Put Release”). The Commission will continue to scrutinize the use of derivatives and other attempts to conceal Rule 105 violations.
+
+43 See 71 FR 75003.
+
+44 Id.
+
+45 See Fairfax letter stating that they “experienced a decline in the price of a security well in excess of 3% during the period between the public announcement of an offering and the pricing of such offering.”
+
+46 The Commission cautions that any transaction or series of transactions, whether or not subject to the provisions of amended Rule 105, continue to be subject to the anti-fraud and anti-manipulation provisions of the federal securities laws. Moreover, we remind persons intending to purchase securities in any registered secondary or follow-on offering that selling short the same securities prior to the offering continues to be subject to the registration requirements of Section 5 of the Securities Act of 1933. See, e.g., SEC v. Friedman, Billings, Ramsey & Co., Inc., et al., Civil Action No. 06-CV-02160 (D.D.C.) at and (alleging short selling CompuDyne stock prior to the effective date of the resale registration statement and covering those short sales with shares of CompuDyne stock purchased from FBR’s customers who obtained shares in the PIPE offering).
+
+47 Amended Rule 105(b)(1).
+
+48 In the Proposing Release, we had solicited specific comment as to whether the proposed rule should provide an exception to allow persons who effect a restricted period short sale to purchase offered securities in certain described circumstances, including any alternatives, and also whether such an exception should include a documentation requirement to demonstrate compliance. See 71 FR at 75006.
+
+49 Amended Rule 105(b)(1)(i).
+
+50 See, e.g., discussion regarding sham transactions in Securities Exchange Act Release No. 50103 (July 28, 2004), 69 FR 48008 (Aug. 6, 2004); see also Married Put Release, supra note 42.
+
+51 Amended Rule 105(b)(1)(i)(A).
+
+52 Amended Rule 105(b)(1)(i)(B).
+
+53 Amended Rule 105(b)(1)(i)(C).
+
+54 Amended Rule 105(a)(1)(i)(D).
+
+55 Id.
+
+56 Id.
+
+57 Amended Rule 105(b)(1). But see NYSE comment letters stating that “[s]hort sales have the effect of driving down the price of a security even if covered in the open market.” See Fairfax letter stating “[m]oreover, covering restricted period short sales in advance of pricing would not necessarily cure any manipulative impact of the short sales if the covering purchases have no mitigating effect on an underwriter’s decision to lower an offering’s price. ”
+
+58 For example, if an offering is priced after the close of regular trading on Tuesday and underwriters begin to contact potential investors to purchase in the offering on Tuesday evening after pricing, the bona fide purchase provision is not available to those investors. It would not be possible for a bona fide purchase to be effected because the last business day prior to the day of pricing would have already occurred.
+
+59 See Sullivan letter.
+
+60 Amended Rule 105(b)(1)(ii).
+
+61 Rule 200 of Regulation SHO provides that, in order to determine its net position, a broker or dealer shall aggregate all of its positions in a security unless it qualifies for independent trading unit aggregation, in which case each independent trading unit shall aggregate all of its positions in a security to determine its net position. Rule 200(f) of Regulation SHO provides that independent trading unit aggregation is available only if: (1) The broker or dealer has a written plan of organization that identifies each aggregation unit, specifies its trading objective(s), and supports its independent identity; (2) Each aggregation unit within the firm determines, at the time of each sale, its net position for every security that it trades; (3) All traders in an aggregation unit pursue only the particular trading objective(s) or strategy(s) of that aggregation unit and do not coordinate that strategy with any other aggregation unit; and (4) Individual traders are assigned to only one aggregation unit at any time.
+
+62 See, e.g., Rule 3b-3.
+
+63 Securities Exchange Act Release No. 50103 (July 28, 2004) 69 FR 48008 at 48011 (Aug. 6, 2004) (Regulation SHO Adopting Release).
+
+64 See, e.g., ICI letter. We note that we use the term “account” as a general term that may encompass the separate accounts that commenters described in many different ways including “portions of a particular fund” (ICI letter), “unit” (MFA and SIFMA letters), “departments” (SIFMA letter) and “identifiable divisions” (SIFMA letter).
+
+65 See e.g, MFA, Schiff, SIFMA, and Millenium letters.
+
+66 For example, two sub-advised portions of the same registered investment company may be separate accounts.
+
+67 Amended Rule 105(b)(3).
+
+68 See, e.g., Millenium letter; Schiff letter.
+
+69 Commenters believed that information barriers were important to ensure separation of accounts See, e.g., Millenium and Sullivan letters.
+
+70 Regulation SHO Adopting Release, 69 FR at 48011.
+
+71 See, e.g., Steadman Security Corp., 46 S.E.C. 896, 920 n.81 (1977) (”the investment adviser almost always controls the fund. Only in the very rare case where the adviser’s role is simply that of advising others who may or may not elect to be guided by his advice . . . can the adviser realistically be deemed not in control.”).
+
+72 Where there are multiple subadvisers to the same fund or series, each sub-advised portion of that fund or series may be able to rely on the exception in amended Rule 105(b)(2) for separate accounts, for example, if each sub- adviser relies on and acts consistently with rules or exemptions that require the implementation of contractual provisions prohibiting consultation between subadvisers.
+
+73 Former Rule 10b-21.
+
+74 See, e.g., SIFMA letter.
+
+75 See e.g., Id. This commenter also noted that including debt securities in the amended rule would be inconsistent with the overall limited application of Regulation M’s prohibitions to debt securities. See id.
+
+76 See, e.g., Cleary, SIFMA, MFA letters.
+
+77 See e.g, SEC v. Galleon Management , L.P, Civil Action No. 1: 05CV1006 (RMU) (May 19, 2005) in which Galleon participated in an August 2003 offering of Centene Corp. The Form 10-K for Centene Corp., for the fiscal year ended December 31, 2003, reported a $404,751,936 aggregate market value of the voting and non- voting common equity held by non-affiliates which exceeds the $150 million public float threshold in Regulation M’s actively-traded securities exception.
+
+78 17 CFR 230.601 - 610a (2007).
+
+79 See Amendments to the Offering Exemption Under Regulation E of the Securities Act of 1933, Securities Act Release No. 6526 (Apr. 25, 1984). Although we subsequently amended Regulation A to change its requirements, those amendments do not affect the trading activities that are subject to Rule 105.
+
+80 See, e.g., Short Sales in Connection with a Public Offering, Securities Exchange Act Release No. 26028 (Aug. 25, 1988)(subjecting offerings made pursuant to an offering under Regulation A to the provisions of Rule 10b- 21(T), a predecessor rule to Rule 105).
+
+81 71 FR at 75007.
+
+82 17 CFR 242.100.
+
+83 17 CFR 242.100.
+
+84 Any security convertible into an equity security is, likewise, an equity security. See Exchange Act Rule 3a11-1.
+
+85 While, for purposes of Regulation M, the underlying common equity is not the subject of the convertible securities distribution, sellers should be aware that the registration provisions of the Securities Act of 1933 may still apply to both the convertible security and the underlying equity security at the time of the offering.
+
+86 See SIFMA, Davis, MFA letters.
+
+87 See, e.g., Securities Offering Reform, Release No. 33-8591, 70 FR 44722, 44765 and at note 391 (“Securities Offering Reform”). See also MFA Letter (commenting on the “contract of sale” language).
+
+88 See Securities Offering Reform at n.391(referring to Securities Act Section 2(a)(3) and noting, in relevant part, that, “Courts have held consistently that the date of a sale is the date of contractual commitment, not the date that a confirmation is sent or received or payment is made. See, e.g., Radiation Dynamics, Inc. v. Goldmuntz, 464 F.2d 876, 891 (2d Cir. 1972) (holding that a purchase occurs at “the time when the parties to the transaction are committed to one another”); In re Alliance Pharmaceutical Corp., Secs. Lit., 279 F. Supp. 2d 171, 186-187 (S.D.N.Y. 2003) (following the holding in Radiation Dynamics with respect to the timing of a contract of sale); Pahmer v. Greenberg, 926 F. Supp. 287 (citing Finkel v. Stratton Corp., 962 F.2d 169, 173 (2d Cir. 1992) (“[A] sale occurs for Section 12[(a)](2) purposes when the parties obligate themselves to perform what they have agreed to perform even if the formal performance of their agreement is to be after a lapse of time”)); Adams v. Cavanaugh Communities Corp., 847 F. Supp. 1390, 1402 (N.D. Ill. 1994) (noting that the Seventh Circuit has followed the Radiation Dynamics decision).”
+
+89 See, e.g., Davis, SIFMA, Fairfax letters, supra note 29.
+
+90 See Sullivan letter.
+
+91 See, e.g., Morgan letter.
+
+92 Proposing Release, 71 FR at 75005.
+
+93 See, e.g., Fairfax letter.
+
+94 Id.
+
+95 Id.
+
+96 NYSE letter.
+
+97 MFA letter.
+
+98 Morgan letter (noting also that the Commission had previously seen the linkages between prices in these markets and the primary market as too attenuated to be a direct influence and too attenuated to permit effective manipulation of the primary market and that, because of the large number of different types of derivatives and the attenuated price relationship among the derivatives and the underlying stock, a blanket application to derivatives would result in unnecessary and complicated regulation).
+
+99 See, e.g., Shane A. Corwin, The Determinants of Underpricing for Seasoned Equity Offers, 58 J. Fin 2249 (Oct. 2003). Although the study does not purport to explain why this happened, it is worth noting that that the study found that prices did in fact decline during the five day restricted period prior to the pricing of the offering. Various reasons for this price decline have been posited in the literature of which short selling is only one possible explanation.
+
+100 See MFA letter.
+
+101 See Morgan letter.
+
+102 15 U.S.C.78c(f).
+
+103 15 U.S.C.78w(a)(2).
+
+104 Pub. L. 104-121, tit. II, 110 Stat. 857 (1996).
+
+105 See SIFMA letter
+
+106 See id.
+
+107 Academic research shows that prices decline during the five days before pricing for follow-on offerings under the current restrictions. See supra note 99. See also Fairfax letter.
+
+109 Proposing Release, 71 FR at 75010.
+
+110 See letter from Cleary (disagreeing with the statement that there are no duplicative rules). However, we note that the amendments do not replace, but are designed to work in conjunction with other provisions under the federal securities laws, such as Exchange Act Section 10(b) and Rule 10b-5 and Securities Act Section 5.
+
+111 17 CFR 240.0-10(c)(1).
+
+112 These numbers are based on the Office of Economic Analysis’ review of 2006 FOCUS Report filings reflecting registered broker dealers. The number does not include broker-dealers that are delinquent on FOCUS Report filings.

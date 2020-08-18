@@ -1,0 +1,687 @@
+https://www.sec.gov/rules/final/ic-26031.htm
+
+	I.0.0.0: I. BACKGROUND
+
+		I.A.0.0: A. Section 326 of the USA PATRIOT Act
+
+		I.B.0.0: B. Overview of Comments Received
+
+		I.C.0.0: C. Codification of the Joint Final Rule
+
+		I.D.0.0: D. Compliance Date
+
+	II.0.0.0: II. Section-by-Section Analysis
+
+	III.0.0.0: III. The Commission's Analysis of the Costs and Benefits Associated with the Final Rule
+
+		III.A.0.0: A. Benefits Associated with the Final Rule
+
+		III.B.0.0: B. Costs Associated with the Final Rule
+
+			III.B.1.0: 1. Costs associated with establishing a CIP
+
+			III.B.2.0: 2. Ongoing costs
+
+	IV.0.0.0: IV. Final Regulatory Flexibility Analysis
+
+		IV.A.0.0: A. Need for and Objectives of the Rule
+
+		IV.B.0.0: B. Significant Issues Raised by Public Comment
+
+		IV.C.0.0: C. Small Entities Subject to the Rule
+
+		IV.D.0.0: D. Projected Reporting, Recordkeeping, and other Compliance Requirements
+
+		IV.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	V.0.0.0: V. Paperwork Reduction Act
+
+		V.A.0.0: A. Collection of Information Under the Final Rule
+
+		V.B.0.0: B. Proposed Use of the Information
+
+		V.C.0.0: C. Respondents
+
+		V.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+			V.D.1.0: 1. Recordkeeping
+
+			V.D.2.0: 2. Providing Notice to Customers
+
+		V.E.0.0: E. Collection of Information is Mandatory
+
+		V.F.0.0: F. Confidentiality
+
+		V.G.0.0: G. Record Retention Period
+
+		V.H.0.0: H. Request for Comment
+
+	VI.0.0.0: VI. EXECUTIVE ORDER 12866
+
+	VII.0.0.0: VII. STATUTORY AUTHORITY AND TEXT OF RULES
+
+
+
+<END TABLE OF CONTENTS>
+
+Joint Final Rule:
+
+Customer Identification Programs for Mutual Funds SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Part 270
+
+[Release No. IC-26031; File No. S7-26-02]
+
+DEPARTMENT OF THE TREASURY
+
+31 CFR Part 103
+
+RIN 1506-AA33
+
+Customer Identification Programs for Mutual Funds 
+
+ AGENCIES : Financial Crimes Enforcement Network, Treasury; Securities and Exchange Commission.
+
+ ACTION : Joint final rule.
+
+ SUMMARY : The Department of the Treasury, through the Financial Crimes Enforcement Network (FinCEN), and the Securities and Exchange Commission are jointly adopting a final rule to implement section 326 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (the Act). Section 326 requires the Secretary of the Treasury (the Secretary or Treasury) to jointly prescribe with the Securities and Exchange Commission (the Commission or SEC) a regulation that, at a minimum, requires investment companies to implement procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable; to maintain records of the information used to verify the person's identity; and to determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to investment companies by any government agency. This final regulation applies to investment companies that are mutual funds.
+
+ DATES : Effective Date : June 9, 2003.
+
+ Compliance Date : Each mutual fund must comply with this final rule by October 1, 2003. Section I.D. contains additional information concerning the compliance date for the final rule.
+
+ FOR FURTHER INFORMATION CONTACT: 
+
+ Securities and Exchange Commission : Division of Investment Management, Office of Regulatory Policy at (202) 942-0690.
+
+ Treasury : Office of the Chief Counsel (FinCEN) at (703) 905-3590; Office of the General Counsel (Treasury) at (202) 622-1927; or the Office of the Assistant General Counsel for Banking & Finance (Treasury) at (202) 622-0480.
+
+ SUPPLEMENTARY INFORMATION: Treasury and the Commission are jointly adopting (1) a new final rule, 31 CFR 103.131, proposed in July 2002,<SUP> 1 </SUP> to implement section 326 of the USA PATRIOT Act<SUP> 2 </SUP> and (2) a new rule 0-11 [17CFR 270.0-11] under the Investment Company Act of 1940<SUP> 3 </SUP> (the "1940 Act") that cross-references this new final rule.
+
+<END HEADER>
+
+<h>I. BACKGROUNDA. Section 326 of the USA PATRIOT Act </h><h>A. Section 326 of the USA PATRIOT Act </h>
+
+On October 26, 2001, President Bush signed into law the USA PATRIOT Act. Title III of the Act, captioned "International Money Laundering Abatement and Anti-terrorist Financing Act of 2001," adds several new provisions to the Bank Secrecy Act (BSA).<SUP> 4 </SUP> These provisions are intended to facilitate the prevention, detection, and prosecution of international money laundering and the financing of terrorism. Section 326 of the Act adds a new subsection (l) to 31 U.S.C. 5318 of the BSA that requires the Secretary to prescribe regulations "setting forth the minimum standards for financial institutions and their customers regarding the identity of the customer that shall apply in connection with the opening of an account at a financial institution."
+
+Section 326 applies to all "financial institutions." This term is defined broadly in the BSA to encompass a variety of entities, including commercial banks, agencies and branches of foreign banks in the United States, thrifts, credit unions, private banks, trust companies, investment companies, brokers and dealers in securities, futures commission merchants, insurance companies, travel agents, pawnbrokers, dealers in precious metals, check-cashers, casinos, and telegraph companies, among many others.<SUP> 5 </SUP> Although "investment companies" are "financial institutions" for purposes of the BSA,<SUP> 6 </SUP> the BSA does not define "investment company."<SUP> 7 </SUP> The 1940 Act defines the term broadly and subjects investment companies to comprehensive regulation by the SEC.<SUP> 8 </SUP> This final rule applies only to those investment companies that are "open-end companies" required to register with the SEC under section 8 of the 1940 Act.<SUP> 9 </SUP> These entities are commonly referred to as "mutual funds."
+
+The regulations implementing section 326 must require, at a minimum, financial institutions, including investment companies, to implement reasonable procedures for (1)verifying the identity of any person seeking to open an account, to the extent reasonable and practicable; (2) maintaining records of the information used to verify the person's identity, including name, address, and other identifying information; and (3) determining whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency. In prescribing these regulations, the Secretary is directed to take into consideration the types of accounts maintained by different types of financial institutions, the various methods of opening accounts, and the types of identifying information that are available.
+
+Final rules governing the applicability of section 326 to other financial institutions, including broker-dealers, banks, thrifts, credit unions, and futures commission merchants, are being issued separately.<SUP> 10 </SUP> Treasury, the SEC, the CFTC and the banking agencies consulted extensively in the development of all rules implementing section 326 of the Act. These participating agencies intend the effect of the final rules to be uniform throughout the financial services industry.<SUP> </SUP><h>B. Overview of Comments Received </h>
+
+On July 23, 2002, Treasury and the SEC jointly proposed a rule to implement section 326 with respect to mutual funds.<SUP> 11 </SUP> Treasury and the SEC proposed general standards that would require each mutual fund to design and implement a customer identification program (CIP) tailored to the mutual fund's size, location, and type of business. The proposed rule also included certain specific standards that would be mandated for all mutual funds. 
+
+Treasury and the SEC received eight comments in response to the proposal.<SUP> 12 </SUP> Commenters included investment companies, a financial services holding company, a registered investment adviser, a transfer agent, trade associations, and a company engaged in the sale of technologies and services used to locate persons and authenticate identities. Commenters generally supported the proposal but suggested revisions.
+
+Two commenters agreed with the largely risk-based approach set forth in the proposal, which allows each mutual fund to develop a CIP based on its specific operations, taking into consideration variables such as size and type of business. Five commenters suggested that the final rule make greater use of a risk-based approach, in lieu of specific identification and verification requirements. They suggested that such a comprehensively risk-based approach would give mutual funds appropriate discretion to focus efforts and resources on the high-risk accounts that are most likely to be used by money launderers and terrorists. All of the commenters recommended that the final rule include more specific requirements addressing the risks presented by particular situations.<SUP> 13 </SUP> Seven of the eight commenters suggested that we had underestimated the burdens that would be imposed by certain elements of the proposal. Three commenters suggested that mutual funds be given greater flexibility when dealing with established customers and be permitted to rely on identification and verification of customers performed by third parties, including other funds in the same fund complex. 
+
+All of the commenters asked for additional guidance concerning one or more elements of the proposed rule. Six commenters requested guidance regarding the requirement to check government lists of known and suspected terrorists and terrorist organizations. Four commenters requested guidance concerning the proposal to require notice to customers that the mutual fund is requesting information to verify the customer's identity. Seven commenters requested that the final rule contain a delayed implementation date in order to provide mutual funds with sufficient time to design CIPs, obtain board approval, alter existing policies and procedures, forms, and software, and train staff.
+
+We have modified the proposed rule in light of these comments. The section-by-section analysis that follows discusses the comments and the modifications that we have made to the rule.<h>C. Codification of the Joint Final Rule </h>
+
+The final rule is being issued jointly by Treasury, through FinCEN, and by the SEC. The substantive requirements of this joint final rule are being codified as part of Treasury's BSA regulations located in 31 CFR Part 103. In addition, to provide a reference to the joint final rule in the SEC regulations for investment companies, the SEC is concurrently publishing a provision in its own regulations in 17 CFR Part 270 that cross-references this final rule.<SUP> 14 </SUP><h>D. Compliance Date </h>
+
+Six commenters requested that mutual funds be given adequate time to develop and implement the requirements of any final rule implementing section 326. The transition periods suggested by commenters ranged from 90 days to 12 months after the publication of a final rule.
+
+The final rule modifies various aspects of the proposed rule and eliminates some of the requirements that commenters identified as being most burdensome. Nonetheless, we recognize that some mutual funds will need time to develop a CIP, obtain board approval, and implement the CIP, which will include various measures, such as training staff, reprinting forms, and developing new software. Accordingly, although this rule will be effective 30 days after publication, mutual funds will have a transition period to implement the rule. Treasury and the Commission have determined that each mutual fund must fully implement its CIP by October 1, 2003.<h>II. Section-by-Section Analysis </h>
+
+ §103.131(a) Definitions. 
+
+ §103.131(a)(1) Account. We proposed to define "account" as any contractual or other business relationship between a customer and a mutual fund established to effect financial transactions in securities, including the purchase or sale of securities.<SUP> 15 </SUP> The final rule limits the definition of "account" to relationships between a person and a mutual fund that are established to effect transactions in securities issued by the mutual fund in order to clarify that the purchase or sale of a mutual fund's underlying portfolio securities does not establish an "account" for purposes of this rule.<SUP> 16 </SUP>
+
+The proposed rule stated that transfers of accounts from one mutual fund to another are outside the definition of "account" for purposes of the proposed rule.<SUP> 17 </SUP> The final rule codifies and clarifies this "transfer exception," by excluding from the definition of "account" any account that a mutual fund acquires through an acquisition, merger, purchase of assets, or assumption of liabilities from any third party. Because these transfers are not initiated by customers, the accounts do not fall within the scope of section 326.<SUP> 18 </SUP> 
+
+Finally, the rule excludes from the definition of "account" accounts opened for the purpose of participating in an employee benefit plan established pursuant to the Employee Retirement Income Security Act of 1974.<SUP> 19 </SUP> Two commenters recommended that these accounts be excluded from the rule. We believe that these accounts are less susceptible to use for the financing of terrorism and money laundering, because, among other reasons, they are funded through payroll deductions in connection with employment plans that must comply with federal regulations that impose various requirements regarding the funding and withdrawal of funds from such accounts, including low contribution limits and strict distribution requirements. Therefore, we have decided to exclude them from the definition of "account" in the final rule.
+
+ §103.131(a)(2) Customer. We proposed to define "customer" to mean any mutual fund shareholder of record who opens a new account with a mutual fund, and any person authorized to effect transactions in the shareholder of record's account.<SUP> 20 </SUP> The proposed rule described various relationships that would be included in, or excluded from, the definition of "customer."<SUP> 21 </SUP> Seven commenters expressed concern about the proposed definition. Three commenters recommended that the final rule provide that persons who do not actually establish an account or receive services from a mutual fund are not "customers." One commenter recommended that the rule define "customer" as a person who opens a new account, and explicitly exclude existing customers. Two commenters suggested that a person who exchanges fund shares within a fund family be excluded, whether or not the exchange occurred in a single account. 
+
+We have revised the definition of "customer" to address these and other issues. The final rule defines "customer" as "a person that opens a new account."<SUP> 22 </SUP> For example, in the case of a trust account, the "customer" would be the trust. For purposes of this rule, a mutual fund is not required to look through a trust, or similar account to verify the identities of beneficiaries, and instead is required only to verify the identity of the named accountholder.<SUP> 23 </SUP> Similarly, with respect to an omnibus account established by an intermediary, a mutual fund generally is not required to look through the intermediary to the underlying beneficial owners.<SUP> 24 </SUP> 
+
+The final rule clarifies the treatment of a minor child or an informal group with a common interest ( e.g., a civic club), where there is no legal entity. In those circumstances, "customer" includes "an individual who opens a new account for (1) an individual who lacks legal capacity, such as a minor; or (2) an entity that is not a legal person, such as a civic club."<SUP> 25 </SUP> 
+
+In order to make the rule less burdensome, the final rule excludes from the definition of "customer" certain readily identifiable entities, including: (1)financial institutions regulated by a federal functional regulator; (2) banks regulated by a state bank regulator; and (3)governmental agencies and instrumentalities and companies that are publicly traded ( i.e., the entities described in §103.22(d)(2)(ii)-(iv)).<SUP> 26 </SUP> Finally, the definition of "customer" excludes a person that has an existing account with a mutual fund, provided that the mutual fund has a reasonable belief that it knows the true identity of the person.<SUP> 27 </SUP> 
+
+Five commenters objected to the proposal to define "customer" to include all persons with authority to effect transactions in the account of a shareholder of record.<SUP> 28 </SUP> While acknowledging that there are circumstances in which it would be appropriate to verify the identity of all such persons ( e.g., accountholders that are small or closely held corporations), they asserted that the proposal in this respect was overbroad and unduly burdensome, and would not further the goals of the statute. In light of these comments, we have revisited the issue and have determined that requiring a mutual fund to verify the identity of all such parties could interfere with the mutual fund's ability to focus on identifying customers that present a significant risk of not being properly identified. Accordingly, the final rule does not define "customer" to include persons authorized to effect transactions in the account of a shareholder of record. Rather, a mutual fund's CIP must address situations in which the mutual fund will take additional steps to verify the identity of a customer that is not an individual (such as a corporation or partnership) by seeking information about individuals with authority or control over the account, including persons with authority to effect transactions in the account.<SUP> 29 </SUP>
+
+ §103.131(a)(3) Federal functional regulator. The proposed rule did not define "federal functional regulator." The final rule uses the term in several provisions, including the provisions concerning government lists and reliance on other financial institutions. The final rule defines the term by reference to § 103.120(a)(2), meaning each of the banking agencies, the SEC, and the CFTC.
+
+ §103.131(a)(4) Financial institution. The proposed rule did not define "financial institution." The final rule uses the term in several provisions, including the definition of "customer" and the provisions on verification through non-documentary methods, notice, and reliance on other financial institutions. Therefore, the final rule defines the term by cross-reference to the BSA.<SUP> 30 </SUP> 
+
+ §103.131(a)(5) Mutual fund. We proposed to define "mutual fund" as an "investment company" that is an "open-end company" (as those terms are defined in the 1940 Act).<SUP> 31 </SUP> We have revised the definition to limit it to entities that are registered or are required to register with the SEC under section 8 of the 1940 Act.<SUP> 32 </SUP> This change clarifies that the rule does not apply to foreign mutual funds that meet the statutory definition but are not subject to the registration requirements of the 1940 Act. 
+
+ §103.131(a)(6) Non-U.S. person. We proposed to define "non-U.S. person" as a person that is not a U.S. person.<SUP> 33 </SUP> There were no comments on this definition and we are adopting it as proposed.
+
+ §103.131(a)(7) Taxpayer identification number. We proposed to define "taxpayer identification number" by reference to section 6109 of the Internal Revenue Code and the regulations of the Internal Revenue Service.<SUP> 34 </SUP> There were no comments on this approach and we are adopting it substantially as proposed, with minor technical modifications.
+
+ §103.131(a)(8) U.S. person . We proposed to define "U.S. person" as a U.S. citizen, or a corporation, partnership, trust, or person (other than a natural person) established or organized under the laws of a State or the United States.<SUP> 35 </SUP> There were no comments on this definition and we are adopting it substantially as proposed, with technical changes that conform the definition to that used in the final CIP rules for other financial institutions.
+
+ §103.131(b) Customer Identification Program: Minimum Requirements. 
+
+ §103.131(b)(1) General Rule. We proposed to require that each mutual fund establish, document, and maintain a written CIP as part of its required anti-money laundering (AML) program, and that the procedures of the CIP enable the fund to form a reasonable belief that it knows the true identity of a customer.<SUP> 36 </SUP> The mutual fund's CIP procedures were to be based on the type of identifying information available and on an assessment of relevant risk factors, including (1) the mutual fund's size; (2) the manner in which accounts are opened, fund shares are distributed, and purchases, sales and exchanges are effected; (3) the mutual fund's types of accounts; and (4) the mutual fund's customer base.<SUP> 37 </SUP> The proposed rule discussed these risk factors and explained that, although the rule requires certain minimum identifying information and suitable verification methods, mutual funds should consider on an ongoing basis whether other information or methods are appropriate, particularly as they become available in the future.<SUP> 38 </SUP> Commenters generally supported the approach of the proposed general CIP requirements and we are adopting them substantially as proposed, although the final rule reorganizes the provisions of the CIP requirements section.<SUP> 39 </SUP> 
+
+The proposed rule would have required a mutual fund's CIP to be approved by the fund's board of directors or trustees.<SUP> 40 </SUP> Four commenters requested clarification that the provision would not require ongoing review or monitoring by the board. One commenter observed that fund AML programs must already be approved by the board, and suggested that it would be redundant to require that the CIP, which is part of the fund's AML program, be separately approved.<SUP> 41 </SUP> In order to eliminate any duplicative requirements we are eliminating the board approval requirement from the final rule. We note, however, that a fund with an AML program that the board has approved as required, must nonetheless obtain board approval of a new CIP. The addition of the CIP is a material change that must be approved by the board.
+
+ §103.131(b)(2) Identity verification procedures. We proposed to require that a mutual fund's CIP include procedures for verifying the identity of customers, to the extent reasonable and practicable, using information specified in the rule, and that such verification occur within a reasonable time before or after the customer's account is opened or the customer is granted authority to effect transactions with respect to an account.<SUP> 42 </SUP> Commenters supported these general requirements, although five commenters recommended greater use of a risk-based approach. 
+
+The final rule continues to strike a balance between flexibility and detailed guidance, and we are adopting the provisions on identity verification procedures substantially as proposed. Under the final rule, a mutual fund's CIP must include risk-based procedures for verifying the identity of each customer to the extent reasonable and practicable.<SUP> 43 </SUP> Such procedures must enable the mutual fund to form a reasonable belief that it knows the true identity of each customer.<SUP> 44 </SUP> The procedures must be based on the mutual fund's assessment of the relevant risks, including those presented by the manner in which accounts are opened, fund shares are distributed, and purchases, sales and exchanges are effected, the various types of accounts maintained by the mutual fund, the various types of identifying information available, and the mutual fund's customer base.<SUP> 45 </SUP> As noted in the proposed rule, a mutual fund's CIP need not include procedures for verifying identities of persons whose transactions are conducted through an omnibus account.<SUP> 46 </SUP> The holder of the omnibus account ( e.g., a broker-dealer) is considered to be the customer for purposes of this rule.<SUP> 47 </SUP>
+
+ §103.131(b)(2)(i) Customer information required. 
+
+The proposed rule would have required a mutual fund's CIP to require the fund to obtain certain identifying information about each customer, including, at a minimum: (1) names; (2)dates of birth, for natural persons; (3) certain addresses;<SUP> 48 </SUP> and (4) certain identification numbers.<SUP> 49 </SUP> The proposed rule further stated that in certain circumstances a mutual fund should obtain additional identifying information, and that the CIP should set forth guidelines regarding those circumstances and the additional information that should be obtained.<SUP> 50 </SUP>
+
+Commenters expressed some concerns about this aspect of the proposal. Two commenters objected to the proposed requirement to obtain more than one address from a customer. Two commenters pointed out that a non-U.S. person may not have any of the specified identification numbers. One commenter recommended that the rule permit a mutual fund to obtain the foreign equivalent of a taxpayer identification number from non-U.S. persons, or a number and country of issuance of any government-issued document evidencing nationality or residence, without the requirement of a photograph or similar safeguard, from non-U.S. entities. Two commenters argued that the final rule should provide financial institutions with flexibility to determine what information to obtain, using a risk-based approach. 
+
+We are adopting the customer information provisions substantially as proposed, with changes to accommodate individuals who may not have physical addresses. Prior to opening an account, a mutual fund must obtain, at a minimum, a customer's (1) name; (2) date of birth, for an individual; (3) address; and (4) identification number.<SUP> 51 </SUP> The address must be (1)for an individual, a residential or business street address, or for an individual who does not have a residential or business street address, an Army Post Office or Fleet Post Office box number, or the residential or business street address of next of kin or another contact individual; or (2) for a person other than an individual, a principal place of business, local office or other physical location.<SUP> 52 </SUP> 
+
+We are adopting the identification number requirement substantially as proposed. For a customer that is a U.S. person, the identification number is a taxpayer identification number (social security number, individual taxpayer identification number, or employer identification number). For a customer that is not a U.S. person, the identification number is one or more of the following: a taxpayer identification number, passport number and country of issuance, alien identification card number, or number and country of issuance of any other government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard.<SUP> 53 </SUP> This provision provides a mutual fund with some flexibility to choose among a variety of identification numbers that it may accept from a non-U.S. person.<SUP> 54 </SUP> However, the identifying information the mutual fund accepts must permit the fund to establish a reasonable belief that it knows the identity of the customer.<SUP> 55 </SUP>
+
+The proposed rule included an exception from the requirement to obtain a taxpayer identification number from a customer opening a new account. The exception would have allowed a mutual fund to open an account for a person that has applied for, but has not yet received, an employer identification number (EIN).<SUP> 56 </SUP> We are adopting an expanded version of this exception in the final rule. As proposed, the exception was limited to persons that are not natural persons.<SUP> 57 </SUP> On further consideration, we have determined that it is appropriate to expand the exception to include natural persons who have applied for, but have not received, a taxpayer identification number.<SUP> 58 </SUP> We have also modified the exception to reduce the recordkeeping burden for mutual funds. The proposed rule would have required the mutual fund to retain a copy of the customer's application for a taxpayer identification number. The final rule permits the fund to exercise discretion to determine how to confirm that a customer has filed an application.<SUP> 59 </SUP> 
+
+ §103.131(b)(2)(ii) Customer verification. 
+
+We proposed to require that a mutual fund's CIP include procedures for verifying the identity of customers, to the extent reasonable and practicable, using the information obtained under the rule.<SUP> 60 </SUP> We also proposed to require such verification to occur within a reasonable time before or after the customer's account is opened or the customer is granted authority to effect transactions with respect to an account.<SUP> 61 </SUP> The proposed rule stated that a mutual fund need not verify each piece of identifying information if it is able to form a reasonable belief that it knows the customer's identity after verifying only certain of the information.<SUP> 62 </SUP> The proposed rule also stated that the flexibility to undertake verification within a reasonable time must be exercised in a reasonable manner, that verifications too far in advance may become stale and verifications too long after the fact may provide opportunities to launder money while verification is pending, and that the appropriate amount of time may depend on the type of account opened, whether the customer opens the account in person, and the type of identifying information available.<SUP> 63 </SUP>
+
+The final rule adopts the customer verification requirements substantially as proposed, with modifications that conform this provision of the final rule to the revised definition of "customer," described above. The final rule requires that the CIP contain procedures for verifying the identity of the customer, using the customer information obtained in accordance with paragraph (b)(2)(i), within a reasonable time after the account is opened.<SUP> 64 </SUP> The final rule does not require verification if a person is granted authority to effect transactions with respect to an account. As stated in the proposed rule, mutual funds must exercise in a reasonable manner the flexibility to undertake verification within a reasonable time. The amount of time may depend on various factors, such as the type of account opened, whether the customer opens the account in-person, and the type of identifying information that is available.<SUP> 65 </SUP> 
+
+The final rule also requires that a mutual fund's CIP include procedures that describe when the fund will use documents, non-documentary methods, or a combination of both to verify customer identities.<SUP> 66 </SUP> Depending on the type of customer and the method of opening an account, it may be more appropriate to use either documentary or non-documentary methods, and in some cases it may be appropriate to use both methods. The CIP should set forth guidelines describing when documents, non-documentary methods, or a combination of both will be used. These guidelines should be based on the mutual fund's assessment of the relevant risk factors.<SUP> 67 </SUP> 
+
+ §103.131(b)(2)(ii)(A) Customer verification - through documents. 
+
+We proposed to require that a mutual fund's CIP describe documents that the fund will use to verify customers' identities. Suitable documents for verification would include: (1)for natural persons, unexpired government-issued identification evidencing nationality or residence and bearing a photograph or similar safeguard; and (2) for persons other than natural persons, documents showing the existence of the entity, such as registered articles of incorporation, a government-issued business license, partnership agreement, or trust instrument.<SUP> 68 </SUP>
+
+Three commenters noted problems with the use of documents to verify customers' identities. Two commenters stated that it is impossible to obtain objective verification that documents are authentic, complete or current. One commenter pointed out that some states do not require documentation of certain legal entities, and that, as a result, there may be no documentary evidence of such entities. One commenter stated that documents, even government-issued identification cards, are inadequate as a sole means of verification, and recommended that the rule require a mutual fund also to obtain information about customers from unrelated sources. The final rule attempts to strike an appropriate balance between the benefits of requiring additional documentary verification and the burdens that may arise from such a requirement. The final rule requires a mutual fund's CIP to contain procedures that set forth the documents that the mutual fund will use for verification.<SUP> 69 </SUP> Each mutual fund will conduct its own risk-based analysis of the types of documents that it believes will enable it to verify customer identities, given the risk factors that are relevant to the mutual fund.<SUP> 70 </SUP>
+
+In light of recent increases in identity theft and the availability of fraudulent documents, we believe that the value of documentary verification is enhanced by redundancy. The rule gives examples of types of documents that are considered reliable. However, we encourage mutual funds to obtain more than one type of documentary verification to ensure that it has a reasonable belief that it knows the customer's true identity. Moreover, we encourage mutual funds to use a variety of methods to verify the identity of a customer, especially when the mutual fund does not have the ability to examine original documents.
+
+The final rule continues to include, without significant change, an illustrative list of identification documents.<SUP> 71 </SUP> A mutual fund may use other documents, provided that they allow the fund to establish a reasonable belief that it knows the true identity of the customer. In addition to the risk factors described in paragraph (b)(2), the mutual fund should take into account the problems of authenticating documents and the inherent limitations of documents as a means of identity verification. These limitations will affect the types of documents that will be necessary to establish a reasonable belief that the fund knows the true identity of the customer, and may require the use of non-documentary methods in addition to documents. 
+
+ §103.131(b)(2)(ii)(B) Customer verification - through non-documentary methods. 
+
+Recognizing that some accounts are opened by telephone, by mail and over the Internet, we proposed to require a mutual fund's CIP to describe what non-documentary methods the fund would use to verify customers' identities and when the fund would use these methods in addition to, or instead of, relying on documents.<SUP> 72 </SUP> We explained that the proposed rule allowed the exclusive use of non-documentary methods because some accounts are opened by telephone, mail, or over the Internet.<SUP> 73 </SUP> We also noted that even if the customer presents identification documents, it may be appropriate to use non-documentary methods as well.<SUP> 74 </SUP>
+
+The proposed rule provided examples of non-documentary verification methods that a mutual fund may use, including: contacting a customer; independently verifying information through credit bureaus, public databases, and other sources; and checking references with other financial institutions.<SUP> 75 </SUP> In the proposed rule we observed that mutual funds may wish to analyze whether there is logical consistency between the identifying information provided, such as the customer's name, street address, ZIP code, telephone number (if provided), date of birth, and social security number.<SUP> 76 </SUP> 
+
+We proposed to require mutual funds to use non-documentary methods when: (1)a customer who is a natural person cannot present an unexpired, government-issued identification document that bears a photograph or similar safeguard; (2) the mutual fund is presented with unfamiliar documents to verify the identity of a customer; or (3) the mutual fund does not obtain documents to verify the identity of a customer, does not meet face-to-face with a customer who is a natural person, or is otherwise presented with circumstances that increase the risk the mutual fund will be unable to verify the true identity of a customer through documents.<SUP> 77 </SUP> In the proposed rule we explained that we recognize that identification documents may be obtained illegally and may be fraudulent.<SUP> 78 </SUP> In light of the recent increase in identity theft, we encouraged mutual funds to use non-documentary methods even when the customer has provided identification documents.<SUP> 79 </SUP> 
+
+One commenter requested that we clarify that account applicants who are not physically present at an account opening may be treated under the mutual fund's non-documentary verification methods. Another commenter suggested that the proposed non-documentary methods of verification would be ineffective for foreign individuals, and therefore could preclude foreign individuals who are not physically present in the United States from investing in mutual funds. 
+
+ We recognize that there are many scenarios and combinations of risk factors that mutual funds may encounter, and we have decided to adopt general principles that are illustrated by examples, in lieu of a lengthy and possibly unwieldy regulation that attempts to address a wide variety of situations with particularity. Under the final rule, for a mutual fund relying on non-documentary verification methods, the CIP must contain procedures that describe non-documentary methods the mutual fund will use. The final rule includes an illustrative list of methods, similar to the list that was included in the proposed rule. These methods may include: (1)contacting a customer; (2) independently verifying the customer's identity through the comparison of information provided by the customer with information obtained from a consumer reporting agency, public database, or other source; (3) checking references with other financial institutions; and (4) obtaining a financial statement.<SUP> 80 </SUP> As we stated in the proposed rule, we recommend that mutual funds analyze whether there is logical consistency between the identifying information provided, such as the customer's name, street address, ZIP code, telephone number (if provided), date of birth, and social security number. 
+
+The final rule also includes a list, similar to that in the proposal, of circumstances that may require the use of non-documentary procedures. The final rule requires that non-documentary procedures address circumstances in which: (1) an individual is unable to present an unexpired government-issued identification document that bears a photograph or similar safeguard; (2) the mutual fund is not familiar with the documents presented; (3) the account is opened without obtaining documents; (4) the customer opens the account without appearing in person; and (5) the circumstances increase the risk that the mutual fund will be unable to verify the true identity of a customer through documents.<SUP> 81 </SUP> 
+
+As we stated in the proposed rule, because identification documents may be obtained illegally and may be fraudulent, and in light of the recent increase in identity theft, we encourage mutual funds to use non-documentary methods even when the customer has provided identification documents.
+
+ §103.131(b)(2)(ii)(C) Customer verification - additional verification for certain customers. 
+
+As described above, we proposed to require verification of the identity of any person authorized to effect transactions in a shareholder's account with a mutual fund. Most commenters objected to this requirement, and it does not appear in the final rule.<SUP> 82 </SUP> For the reasons discussed below, however, the rule does require that a mutual fund's CIP address the circumstances in which it will obtain information about such individuals in order to verify the customer's identity. Treasury and the SEC believe that while mutual funds may be able to verify the majority of customers adequately through the documentary or non-documentary verification methods described above, there may be circumstances when these methods are inadequate. The risk that the mutual fund will not know the customer's true identity may be heightened for certain types of accounts, such as an account opened in the name of a corporation, partnership, or trust that is created or conducts substantial business in a jurisdiction that has been designated by the United States as a primary money laundering concern or has been designated as non-cooperative by an international body. We believe that a mutual fund must identify customers that pose a heightened risk of not being properly identified and that a mutual fund's CIP must prescribe additional measures that may be used to obtain information about the identity of the individuals associated with the customer, when standard documentary or non-documentary methods prove to be insufficient. 
+
+The final rule, therefore, includes a new provision on verification procedures.<SUP> 83 </SUP> This provision requires that the CIP address circumstances in which, based on the mutual fund's risk assessment of a new account opened by a customer that is not an individual, the mutual fund also will obtain information about individuals with authority or control over the account, including persons authorized to effect transactions in the shareholder's account, in order to verify the customer's identity.<SUP> 84 </SUP> This additional verification method will apply only when the mutual fund cannot adequately verify the customer's identity using the documentary and non-documentary verification methods.<SUP> 85 </SUP> 
+
+ §103.131(b)(2)(iii) Lack of verification. 
+
+We proposed to require that a mutual fund's CIP include procedures for responding to circumstances in which the fund cannot form a reasonable belief that it knows the true identity of the customer.<SUP> 86 </SUP> We explained in the proposed rule that the CIP should specify the actions to be taken, which could include closing the account or placing limitations on additional purchases.<SUP> 87 </SUP> We also explained that there should be guidelines for when an account will not be opened ( e.g. , when the required information is not provided), and that the CIP should address the terms under which a customer may conduct transactions while the customer's identity is being verified.<SUP> 88 </SUP>
+
+The final rule adopts this provision substantially as proposed, and adds a description of recommended features of these procedures, based on the features described in the proposed rule.<SUP> 89 </SUP> The final rule states that the procedures should describe: (1) when the mutual fund should not open an account; (2) the terms under which a customer may use an account while the mutual fund attempts to verify the customer's identity; (3) when the mutual fund should file a Suspicious Activity Report (SAR) in accordance with applicable law;<SUP> 90 </SUP> and (4)when the mutual fund should close an account, after attempts to verify a customer's identity have failed.<SUP> 91 </SUP> 
+
+ §103.131(b)(3) Recordkeeping. 
+
+ §103.131(b)(3)(i) Required Records. We proposed to require mutual fund CIPs to include certain recordkeeping procedures.<SUP> 92 </SUP> First, the proposed rule would have required that a mutual fund maintain a record of the identifying information provided by customers.<SUP> 93 </SUP> Second, if a mutual fund relies on a document to verify a customer's identity, the proposed rule would have required the mutual fund to maintain a copy of the document.<SUP> 94 </SUP> Third, the proposed rule would have required mutual funds to record the methods and results of any additional measures undertaken to verify the identity of customers.<SUP> 95 </SUP> Finally, the proposed rule would have required mutual funds to record the resolution of any discrepancy in the identifying information obtained.<SUP> 96 </SUP>
+
+Six commenters expressed concern that the recordkeeping requirements as proposed were unduly burdensome. Two commenters recommended that the rule be modified to incorporate a materiality standard so that a fund need retain only those records that reflect the resolution of material discrepancies. Three commenters recommended that we eliminate the requirement that mutual funds retain copies of documents used to verify customer identities. One commenter requested clarification on the types of records that will suffice to memorialize non-documentary customer verification methods and their results.
+
+In light of these comments, we have reconsidered and modified the recordkeeping requirements of the rule. The final rule provides that a mutual fund's CIP must include procedures for making and maintaining a record of all information obtained under the procedures implementing the requirement that a mutual fund develop and implement a CIP.<SUP> 97 </SUP> However, the final rule is significantly more flexible than the proposed rule. Under the final rule, in addition to required identifying information about a customer, a mutual fund's records must include a description , rather than a copy, of any document that the mutual fund relied on to verify the identity of the customer, noting the type of document, any identification number contained in the document, the place of issuance, and the issuance and expiration dates, if any.<SUP> 98 </SUP> The record must include "a description" of the methods and results of any measures undertaken to verify the identity of the customer, and of the resolution of any "substantive" discrepancy discovered when verifying the identifying information obtained, rather than any documents generated in connection with these measures.<SUP> 99 </SUP>
+
+As we stated in the proposed rule, nothing in the rule modifies, limits, or supersedes Section 101 of the Electronic Signatures in Global and National Commerce Act.<SUP> 100 </SUP> A mutual fund may use electronic records to satisfy the requirements of this final rule, in accordance with guidance that the Commission has issued.<SUP> 101 </SUP>
+
+ § 103.131(b)(3)(ii) Record Retention. 
+
+We proposed to require that a mutual fund retain all required records for five years after the account is closed.<SUP> 102 </SUP> Six commenters expressed concern about this aspect of the proposal, recommending that the recordkeeping period be shortened, or that mutual funds be required to retain records only for five years after verification of the customer's identity. 
+
+We believe that, by eliminating the requirement that a mutual fund retain copies of documents used to verify customer identities, the final rule addresses many of the commenters' concerns. Nonetheless, we believe that, while the identifying information provided by customers should be retained, there is little value in requiring mutual funds to retain the remaining records for five years after an account is closed, because this information is likely to be stale. Therefore, the final rule prescribes a bifurcated record retention schedule that is consistent with a general five-year retention requirement. Under the final rule, the mutual fund must retain the information referenced in paragraph (b)(3)(i)(A) ( i.e., information obtained about a customer) for five years after the date the account is closed.<SUP> 103 </SUP> The mutual fund need only retain a record that it must make and maintain under the other recordkeeping provisions, paragraphs (b)(3)(i)(B), (C), and (D) ( i.e., information that verifies a customer's identity) for five years after the record is made.<SUP> 104 </SUP>
+
+ §103.131(b)(4) Comparison with government lists. 
+
+We proposed to require that a mutual fund's CIP have procedures for determining whether the customer appears on any list of known or suspected terrorists or terrorist organizations prepared by any federal government agency and made available to the fund.<SUP> 105 </SUP> In addition, the proposed rule stated that mutual funds must follow all federal directives issued in connection with such lists.<SUP> 106 </SUP> 
+
+Six commenters recommended that the final rule specify which government lists must be checked and provide a mechanism for communicating that information to mutual funds. These commenters also suggested that all such lists be consolidated, and that mutual funds not be required to check such lists until an account is established or a customer receives services from the fund. 
+
+The final rule states that a mutual fund's CIP must include procedures for determining whether the name of the customer appears on any list of known or suspected terrorists or terrorist organizations issued by any federal government agency and designated as such by Treasury in consultation with the federal functional regulators.<SUP> 107 </SUP> Because Treasury and the federal functional regulators have not yet designated any such lists, the final rule cannot be more specific with respect to the lists that mutual funds must check. However, mutual funds will not have an affirmative duty under this rule to seek out all lists of known or suspected terrorists or terrorist organizations compiled by the federal government. Instead, mutual funds will receive notification by way of separate guidance regarding the lists that they must consult for purposes of this provision. 
+
+We also have modified this provision to give guidance as to when a mutual fund must consult a list of known or suspected terrorists or terrorist organizations. The final rule states that the CIP's procedures must require the mutual fund to determine whether a customer appears on a list "within a reasonable period of time" after the account is opened, or earlier if required by another federal law or regulation or by a federal directive issued in connection with the applicable list.<SUP> 108 </SUP> 
+
+The final rule also requires a mutual fund's CIP to include procedures that require the fund to follow all federal directives issued in connection with such lists. Again, because no lists have yet been designated under this provision, the final rule cannot provide more guidance in this area.
+
+ §103.131(b)(5) Customer notice. 
+
+We proposed to require that a mutual fund's CIP include procedures for providing customers with adequate notice that the fund is requesting information to verify their identities.<SUP> 109 </SUP> The proposed rule stated that a mutual fund could satisfy that notice requirement by generally notifying its customers about the fund's verification procedures.<SUP> 110 </SUP> It stated that if an account is opened electronically, such as through an Internet website, the mutual fund could provide notice electronically. 
+
+Three commenters generally supported the proposal, but asked that we provide model language and additional guidance about the circumstances in which a mutual fund would be deemed to comply with the requirement. One commenter stated that the proposed notice requirement was overbroad. 
+
+The Act requires that our rules "at a minimum, require financial institutions to . . . [give] customers . . . adequate notice" of the procedures they adopt concerning customer identification. Based on this statutory requirement, the final rule requires a mutual fund's CIP to include procedures for providing fund customers with adequate notice that the fund is requesting information to verify their identities.<SUP> 111 </SUP> The final rule provides additional guidance regarding what constitutes adequate notice and the timing of the notice requirement. The final rule states that notice is adequate if the mutual fund generally describes the identification requirements of the final rule and provides notice in a manner reasonably designed to ensure that a customer views the notice, or is otherwise given notice, before opening an account.<SUP> 112 </SUP> The final rule states that a mutual fund may, depending on how an account is opened, post a notice on its website, include the notice on its account applications, or use any other form of oral or written notice.<SUP> 113 </SUP> In addition, the final rule includes sample language that, if appropriate, will be deemed adequate notice to a mutual fund's customers when provided in accordance with the requirements of this final rule.<SUP> 114 </SUP>
+
+ §103.131(b)(6) Reliance on other financial institutions. 
+
+In the proposed rule we recognized that because mutual funds typically conduct their operations through separate entities, some elements of the CIP will best be performed by personnel of these separate entities.<SUP> 115 </SUP> As we stated, it is permissible for a mutual fund to contractually delegate the implementation and operation of its CIP to another affiliated or unaffiliated service provider, such as a transfer agent.<SUP> 116 </SUP> However, the mutual fund remains responsible for assuring compliance with the rule, and therefore must actively monitor the operation of its CIP and assess its effectiveness.<SUP> 117 </SUP> 
+
+Four commenters suggested that, in certain circumstances, mutual funds be permitted to rely on customer identification and verification performed by other financial institutions (including other funds in the same fund complex). Two commenters suggested that an investor that opens an account or conducts a transaction with a mutual fund through another financial institution that is itself subject to BSA anti-money laundering and CIP requirements should be considered a customer of the other financial institution and not a customer of the mutual fund. One commenter suggested that all intermediated accounts ( i.e., accounts that are opened through another financial institution) be treated similarly to omnibus accounts when the intermediary has identification and verification responsibilities under the BSA.
+
+We recognize that there may be circumstances in which a mutual fund should be able to rely on the performance by another financial institution of some or all of the elements of the fund's CIP. Therefore, the final rule provides that a mutual fund's CIP may include procedures that specify when the fund will rely on the performance by another financial institution of any procedures of the fund's CIP and thereby satisfy the mutual fund's obligations under the rule.<SUP> 118 </SUP> Reliance is permitted if a customer of the mutual fund is opening, or has opened, an account or has established a similar business relationship with the other financial institution to provide or engage in services, dealings, or other financial transactions.<SUP> 119 </SUP> 
+
+In order for a mutual fund to rely on the other financial institution, (1) such reliance must be reasonable under the circumstances, (2) the financial institution must be subject to a rule implementing the anti-money laundering compliance program requirements of 31 U.S.C. 5318(h) and be regulated by a federal functional regulator, and (3) the other financial institution must enter into a contract with the mutual fund requiring it to certify annually to the mutual fund that it has implemented an anti-money laundering program and will perform (or its agent will perform) the specified requirements of the mutual fund's CIP.<SUP> 120 </SUP> The contract and certification will provide a standard means for a mutual fund to demonstrate the extent to which it is relying on another institution to perform its CIP and that the institution has in fact agreed to perform these requirements.<SUP> 121 </SUP> If it is not clear from these documents, a mutual fund must be able to otherwise demonstrate when it is relying on another institution to perform its CIP with respect to a particular customer. The mutual fund will not be held responsible for the failure of the other financial institution to fulfill adequately the mutual fund's CIP responsibilities, provided that the mutual fund can establish that its reliance was reasonable and that it has obtained the requisite contracts and certifications. Treasury and the SEC emphasize that the mutual fund and the other financial institution upon which it relies must satisfy all of the conditions set forth in this final rule. If they do not, then the mutual fund remains solely responsible for applying its own CIP to each customer in accordance with this rule.<SUP> 122 </SUP> 
+
+All of the federal functional regulators are adopting comparable provisions in their CIP rules to permit such reliance. Furthermore, the federal functional regulators expect to cooperate and share information to determine whether the institutions subject to their jurisdiction are in compliance with the conditions of the reliance provision of this rule. 
+
+ §103.131(c) Exemptions. 
+
+The proposed rule provided that the SEC, with the concurrence of Treasury, may by order or regulation exempt any mutual fund or type of account from the requirements of the rule.<SUP> 123 </SUP> Under the proposal, in issuing such exemptions, the SEC and Treasury were to consider whether the exemption is consistent with the purposes of the BSA, and in the public interest.<SUP> 124 </SUP> The proposal stated that the SEC and Treasury could also consider other necessary and appropriate factors.<SUP> 125 </SUP> 
+
+Six commenters recommended that various types of accounts and customers be exempted from the final rule ( e.g., participants in qualified retirement plans, court-appointed executors and guardians, and individuals granted authority to effect transactions in an account upon the death of a shareholder). We have incorporated any suggested exemptions that we have determined to be appropriate into the definitions of "account" and "customer," for the reasons described above.<SUP> 126 </SUP> We are adopting this provision of the rule as proposed.
+
+ §103.131(d) Other requirements unaffected. 
+
+The final rule includes a provision, parallel to that in the rules that require other financial institutions to adopt and implement CIPs,<SUP> 127 </SUP> to the effect that nothing in §103.131 shall be construed to relieve a mutual fund of its obligations to obtain, verify, or maintain information that is required by another regulation in Part 103. This provision will resolve any ambiguity if mutual funds in the future become obligated to obtain, verify, or maintain information under such regulations.<h>III. The Commission's Analysis of the Costs and Benefits Associated with the Final Rule </h>
+
+Treasury and the Commission are sensitive to the costs and benefits imposed by their rules. Nevertheless, we believe that the rule imposes no costs in addition to those that would result from compliance with the USA PATRIOT Act by mutual funds. While the Commission believes the costs of the rule are attributable to the statute, the Commission has nonetheless undertaken an analysis of these requirements. 
+
+Section 326 requires Treasury and the Commission to prescribe regulations setting forth minimum standards for mutual funds regarding verification of the identities of customers.<SUP> 128 </SUP> The rule requires mutual funds to implement a written CIP as part of the anti-money laundering programs required by 31 U.S.C. 5318(h). The CIP must include risk-based procedures for verifying the identity of each customer, to the extent reasonable and practicable. As required by section 326, these procedures must (1) specify the identifying information that the mutual fund will obtain with respect to each customer, (2) contain procedures for verifying the identity of the customer, within a reasonable time after the account is opened, using documents, non-documentary methods, or a combination of both, and (3) include procedures for responding to circumstances in which the mutual fund cannot form a reasonable belief that it knows the true identity of the customer. The CIP also must include procedures for (1)maintaining a record of all information obtained (for either five years after the date the account is closed or five years after the record is made, depending on the type of information), (2) determining whether the customer appears on any list of known or suspected terrorists or terrorist organizations issued by any federal agency and designated as such by the Department of the Treasury in consultation with the federal functional regulators, and (3)providing customers with adequate notice that the mutual fund is requesting information to verify their identities. 
+
+As discussed in more detail below, the Commission estimates that approximately 890 registered mutual funds and fund "families" are required to comply with section 326.<SUP> 129 </SUP> The requirements of section 326 as implemented by today's rule will impose initial, one-time costs and ongoing costs on mutual funds and fund families. The costs associated with establishment of CIPs and modification of computer systems and account applications (both paper and web-based applications) to conform to the information and notice requirements of the CIP will represent initial, one-time costs. Ongoing costs for mutual funds and fund families will include: (1)collecting the information required by the CIP; (2) verifying customers' identities; (3)determine whether customers appear on designated lists issued by federal government agencies; and (4)making and maintaining required records. The magnitude of these ongoing costs will, in large part, depend on of the number of new accounts opened. 
+
+The Commission and Treasury believe that the requirements in the final rule are reasonable and practicable and that, accordingly, the costs to mutual funds and fund families of compliance with the rule's requirements are attributable to the statute. In the proposed rule, we requested comment and specific data regarding the costs and benefits of the proposed rule. We did not receive any data in comment letters concerning the costs and benefits of the proposed rule.<h>A. Benefits Associated with the Final Rule </h>
+
+We anticipate that mutual funds, fund customers, and the nation as a whole will benefit from the new rule. The anti-money laundering provisions of the USA PATRIOT Act are intended to facilitate the prevention, detection, and prosecution of money laundering and terrorist financing. Today's rule implements an important part of those provisions. By requiring that mutual funds establish CIPs, section 326 and the rule will limit the ability of criminals, including terrorists, to use mutual fund accounts to finance their activities, or shelter the proceeds of criminal conduct. Moreover, mutual fund CIPs should deter criminals from using mutual fund accounts to perpetrate fraud on the fund complex (by placing fictitious buy and sell orders) and identity theft of legitimate mutual fund customers. We also believe that the rules provide greater certainty to the private sector on how to comply with the USA PATRIOT Act because they are consistent with and comparable to the rules adopted by the other federal functional regulators. Finally, in order to reduce compliance burdens, the final rule allows mutual funds flexibility to adopt CIPs and to distribute notices that are best suited to the funds' businesses and needs. These benefits are difficult to quantify. We received no data from commenters quantifying the value of these benefits.<h>B. Costs Associated with the Final Rule </h>
+
+Section 326 of the USA PATRIOT Act, and the new rule, allow for great flexibility in the development of CIPs. Differences in the ways that mutual fund accounts are opened, fund shares are distributed, and fund purchases, sales and exchanges are effected; differences in the various types of accounts maintained by mutual funds; and differences among mutual fund customer bases make it difficult to quantify accurately a universally applicable cost per mutual fund. Most mutual funds currently have some procedures in place for collecting information about and verifying the identities of their customers, and for detecting fraud in the account opening process by looking for inconsistencies in the information provided by customers and/or checking customer names against certain databases. We anticipate that the requirements of section 326 as implemented by today's rule nonetheless will impose initial, one-time costs and ongoing costs on mutual funds and fund families in connection with formulating and implementing programs that comply with today's rule, and modifying existing procedures to conform to those new programs. Initial one-time costs associated with establishment of CIPs would include: (1) the development, adoption, and implementation of a CIP; (2) the creation or modification of computer systems and account applications (both paper and web-based applications) to collect required information and disseminate required notices; (3)the modification of electronic recordkeeping systems to verify and retain the required information; and (4) personnel training. Ongoing costs for mutual funds and fund families will include: (1) collecting the information required by the CIP; (2) verifying customers' identities; (3) determining whether customers appear on designated lists issued by federal government agencies; and (4) making and maintaining required records. As discussed above, the magnitude of these ongoing costs will, in large part, depend on the number of new accounts opened. From January 1, 1990 through December 31, 2001, approximately 16 million mutual fund accounts were opened annually.<SUP> 130 </SUP><h>1. Costs associated with establishing a CIP </h>
+
+ Program Implementation 
+
+Section 326 of the Act and the new rule require mutual funds to develop written CIPs. Based on discussions with industry representatives, the Commission estimates that it will take approximately 50 hours for a fund, or fund family, to develop a CIP at a cost of approximately $3,810.<SUP> 131 </SUP> Based on these assumptions, we estimate that the aggregate cost of developing CIPs will be approximately $3.4 million ($3,810 per program x 890 fund families).
+
+We believe this is a reasonable estimate of the cost of developing and implementing CIPs. We recognize that the actual development costs associated with establishing a CIP may vary from this estimate depending upon the size of the mutual fund or fund family, the distribution channels used by the fund or fund family, the fund's customer base, number of affiliates, and the extent to which a fund or fund family relies on third parties or allocates responsibilities under its CIP. For mutual funds that delegate implementation of their CIPs to unaffiliated service providers, the burden per mutual fund may be less because those service providers will likely use the same or similar software and systems for several different registrants. Similarly, the cost per fund for funds that use a CIP developed by their fund family may be less. 
+
+ Systems Modifications 
+
+The Commission anticipates that the new rule will cause individual mutual funds and mutual fund families to incur costs to modify items such as account applications and websites, to create or modify electronic links to other databases, and to modify their electronic recordkeeping systems in order to collect, verify, and retain the required information, and to provide the required notice to customers. The cost-benefit analysis in the proposed rule did not discuss the time and costs associated with computer system modifications, but commenters suggested that these costs could be substantial. The Commission estimates, based on discussions with industry representatives, that it will cost each fund or fund family approximately $40,000 to make these types of system modifications.<SUP> 132 </SUP> Therefore the Commission estimates that there will be a one-time aggregate cost of approximately $36 million for these systems modifications.<h>2. Ongoing costs </h>
+
+As mentioned above, ongoing costs for mutual funds will be associated with the need to: (1) collect the information required by the CIPs, (2) verify customers' identities, (3) determine whether customers appear on lists provided by federal agencies, and (4) make and maintain records related to CIPs. 
+
+ Information Collection 
+
+Although mutual funds generally require customers to provide a name and mailing address in order to open an account, mutual funds currently may not require all fund customers to provide all of the information required to be collected pursuant to a CIP. Moreover, mutual funds may not be collecting all such information with respect to all of the persons who will be considered to be customers for purposes of the new rule. Therefore the Commission anticipates that mutual funds will incur costs in connection with the collection of identifying information from their customers. Based on discussions with industry participants, the staff of the SEC estimates that the average time spent collecting the required information will be between one and four minutes per account and that the hourly personnel and overhead cost associated with these requirements will be $25 per hour. Therefore, the SEC staff estimates that this burden will result in an aggregate annual cost to the industry of between $6.7 million and $26.7 million.<SUP> 133 </SUP>
+
+ Information Verification 
+
+The new rule also requires CIPs to contain procedures for funds to verify customer identities. The rule provides funds with substantial flexibility to decide how they will verify identification information. The purpose of making the rule flexible is to give funds the ability to select verification methods that are, as section 326 requires, reasonable and practicable. The new rule allows a mutual fund to employ such verification methods as permit it to form a reasonable belief that it knows the true identities of its customers.
+
+The rule sets forth non-exclusive lists of methods that a fund may use to verify customer identification. A fund may use other reasonable methods that are currently available, or that become available in the future. The Commission believes that verifying the identifying information could result in costs for mutual funds because some firms currently may not use verification methods. Based on discussions with industry participants, the SEC staff estimates that the total annual cost to the industry to verify the identifying information will be between $49.3 million and $98.6 million.<SUP> 134 </SUP> 
+
+ Resolution of discrepancies 
+
+Based on discussions with industry participants, the staff of the SEC believes that initial detection of discrepancies in information collected will be automated and conducted on a batch-file basis. Once discrepancies have been detected, staff of the SEC estimates that the average time spent by compliance personnel to resolve discrepancies in information collected will be between one and four minutes per account and that the hourly personnel and overhead cost associated with these requirements will be $25 per hour. Therefore, the SEC staff estimates that this burden will result in an aggregate annual cost to the industry of between $6.7 million and $26.7 million. 
+
+ Comparison with government lists of known or suspected terrorists 
+
+Section 326 and the new rule require that mutual fund CIPs include reasonable procedures for determining whether a customer's name appears on designated lists of known or suspected terrorists or terrorist organizations issued by any federal government agency. Mutual funds should already have procedures for determining whether customers' names appear on some federal government lists. There are substantive legal requirements associated with the lists circulated by Treasury's Office of Foreign Asset Control (OFAC). Failure to comply with these requirements may result in criminal and civil penalties. Based on discussions with industry representatives the SEC staff estimates that the annual cost to the mutual fund industry of this requirement will be $3.4 million.<SUP> 135 </SUP>
+
+ Recordkeeping 
+
+The Commission believes that the recordkeeping requirement in the new rule will result in additional costs for mutual funds that currently do not maintain certain of the records for the prescribed time period. We believe that most funds already retain certain of the records required by the new rule as a matter of good business practice. 
+
+The proposed rule provided that mutual fund CIPs provide for the retention of all information for five years after a customer account is closed. The final rule bifurcates the record retention provisions so that funds will be required to retain customer identification information for five years after the account is closed, and to retain a description of (1) the documents relied upon to verify the customer's identity, (2) the methods and results of measures undertaken to verify the identity a customer and (3) the resolution of any substantive discrepancies discovered during the identity verification process for five years after the date the record was made. The SEC staff estimates, based on discussions with representatives of the mutual fund industry, that this recordkeeping requirement will cost $13.3 million annually.<SUP> 136 </SUP><h>IV. Final Regulatory Flexibility Analysis </h>
+
+Treasury and the Commission are sensitive to the impact our rules may impose on small entities. Congress enacted the Regulatory Flexibility Act<SUP> 137 </SUP> to address concerns related to the effects of agency rules on small entities. Treasury and the Commission believed that the proposed rule likely would not have a "significant economic impact on a substantial number of small entities."<SUP> 138 </SUP> First, the economic impact on small entities should not be significant because most small entities are likely to have a relatively small number of accounts, and thus compliance should not impose a significant economic impact. Second, the economic impact on mutual funds, including small entities, is imposed by the statute itself, and not by the rule. Treasury and the Commission sought comment on whether the proposed rule would have a significant economic impact on a substantial number of small entities and whether the costs are imposed by the statute itself and not the proposed rule. Treasury and the Commission did not receive any comments in response to this request. 
+
+While Treasury and the Commission believed that the proposed rule likely would not have a significant economic impact on a substantial number of small entities, we prepared an Initial Regulatory Flexibility Analysis that was published in the proposed rule. Therefore, a Final Regulatory Flexibility Analysis has been prepared for this final rule in accordance with 5 U.S.C. 604.<h>A. Need for and Objectives of the Rule </h>
+
+Section 326 requires Treasury and the Commission jointly to issue a regulation setting forth minimum standards for mutual funds and their customers regarding the identities of customers that will apply in connection with the opening of an account at a mutual fund.<SUP> 139 </SUP> 
+
+The purpose of section 326, and the regulations promulgated thereunder, is to make it easier to prevent, detect, and prosecute money laundering and the financing of terrorism. In issuing the final rule, Treasury and the Commission are seeking to fulfill their statutorily mandated responsibilities under section 326 and to achieve its important purpose.
+
+The objective of the final rule is to make it easier to prevent, detect, and prosecute money laundering and the financing of terrorism. The rule seeks to achieve this goal by specifying the information mutual funds must obtain from or about customers that can be used to verify the identity of the customers. This will make it more difficult for persons to use false identities to establish customer relationships with mutual funds for the purposes of laundering money or moving funds to effectuate illegal activities, such as financing terrorism.<h>B. Significant Issues Raised by Public Comment </h>
+
+In the proposed rule, Treasury and the Commission specifically requested public comments on any aspect of the IRFA, as well as the number of small entities that might be affected by the proposed rule. The agencies received no comments on the IRFA.<h>C. Small Entities Subject to the Rule </h>
+
+A small business or organization (collectively, "small entity") for purposes of the Regulatory Flexibility Act, is a small entity if the fund, together with other funds in the same group of related funds, has net assets of $50 million or less as of the end of its most recent fiscal year.<SUP> 140 </SUP> Of approximately 3,060 registered mutual funds, approximately 158 are small entities. These 158 small entities are divided into approximately 154 fund families.<SUP> 141 </SUP> As discussed above in Section III, in most cases, a single customer identification program will be developed and used by all of the mutual funds in a family of funds.<h>D. Projected Reporting, Recordkeeping, and other Compliance Requirements </h>
+
+The rule requires a mutual fund to adopt a written CIP that, at a minimum, includes each of the following: (1) risk-based procedures for verifying the identity of each customer, to the extent reasonable and practicable;<SUP> 142 </SUP> (2) procedures for maintaining records of all information obtained under its customer identity verification procedures, (3) procedures for determining whether a customer appears on any list of known or suspected terrorists or terrorist organizations issued by the federal government and designated by Treasury, and (4) procedures for providing notice to customers. 
+
+As noted above, the rule is not expected to have a significant economic impact on a substantial number of small entities. Commission staff estimates that developing a CIP will require approximately 50 hours of each fund or fund family developing a CIP, at a cost of approximately $3,810,<SUP> 143 </SUP> and that systems modification will entail approximately 655 hours at a cost of $40,610 to each fund or fund family.<SUP> 144 </SUP> 
+
+Although small entities will also incur ongoing costs, the Commission expects that they will not have a significant economic impact. For each new account, a fund will require what we estimate to be 1-4 minutes for collecting customer information, 5-10 minutes for verifying customer information, 1-4 minutes for resolution of discrepancies in customer information, half a minute for comparison to government lists, and 2 minutes for record retention, each at a cost of approximately $25 per hour. Small entities are likely to have a relatively small number of accounts; therefore, they will incur the ongoing costs of individual customer identifications relatively infrequently.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+Treasury and the Commission considered significant alternatives to the proposed rule that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. In connection with the proposed rule, we considered the following alternatives: (1) the establishment of differing compliance or reporting requirements or timetables that take into account the resources of small entities; (2) the clarification, consolidation, or simplification of compliance and reporting requirements under the rule for small entities; (3) the use of performance rather than design standards; and (4) an exemption from coverage of the rule, or any part thereof, for small entities.
+
+The final rule provides for substantial flexibility in how each mutual fund may meet its requirements. This flexibility is designed to account for differences between mutual funds, including size. Nonetheless, Treasury and the Commission did consider the alternatives described above. Treasury and the Commission believe that the alternative approaches to minimize the adverse impact of the rule on small entities are not consistent with the statutory mandate of section 326. In addition, Treasury and the Commission do not believe that an exemption for small mutual funds is appropriate, given the flexibility built into the rule to account for, among other things, the differing sizes and resources of mutual funds, as well as the importance of the statutory goals and mandate of section 326. Money laundering can occur in small firms as well as large firms.<h>V. Paperwork Reduction Act </h>
+
+Certain provisions of the final rule contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995.<SUP> 145 </SUP> An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. Treasury submitted the final rule to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C 3507(d). The OMB has approved the collection of information requirements in today's rule under control number 1506-0033. 
+
+In the proposed rule Treasury and the Commission estimated the paperwork burden that would be imposed by the rule and sought comments on the estimates. None of the commenters specifically addressed the paperwork burden associated with the rule.<h>A. Collection of Information Under the Final Rule </h>
+
+The final rule contains recordkeeping and disclosure requirements that are subject to the Paperwork Reduction Act of 1995. Like the proposed rule, the final rule requires mutual funds to (1) maintain records of the information used to verify customers' identities and (2) provide notice to customers that information they supply may be used to verify their identities. These recordkeeping and disclosure requirements are required under section 326 of the Act. The final rule also contains a new recordkeeping provision -- a mutual fund that relies on another financial institution to perform some or all of the elements of its CIP must obtain and retain an annual certification from the financial institution that it has implemented its anti-money laundering program, and that it will perform (or its agent will perform) the specified requirements of the mutual fund's CIP.<h>B. Proposed Use of the Information </h>
+
+Section 326 of the Act requires Treasury and the Commission jointly to issue a regulation setting forth minimum standards for mutual funds to verify the identities of their customers. Furthermore, section 326 provides that the regulations must, at a minimum, require mutual funds to implement reasonable procedures for (1) verifying the identity of any person seeking to open an account, to the extent reasonable and practicable; (2) maintaining records of the information used to verify the person's identity, including name, address, and other identifying information; and (3) determining whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency. 
+
+The purpose of section 326, and the regulations promulgated thereunder, is to make it easier to prevent, detect and prosecute money laundering and the financing of terrorism. In issuing the final rule, Treasury and the Commission are seeking to fulfill their statutorily mandated responsibilities under section 326 and to achieve its important purpose.
+
+The final rule requires each mutual fund to establish a written CIP that must include recordkeeping procedures and procedures for providing customers with notice that the mutual fund is requesting information to verify their identity. The final rule requires a mutual fund to maintain a record of (1) the identifying information provided by the customer, the type of identification document(s) reviewed, if any, and the identification number of the document(s); (2) the means and results of any additional measures undertaken to verify the identity of the customer; and (3) the resolution of any discrepancy in the identifying information obtained.
+
+The final rule also requires each mutual fund to give customers "adequate notice" of the identity verification procedures. Depending on how an account is opened, a mutual fund may satisfy this disclosure requirement by providing customers with any form of written or oral notice. Accordingly, a mutual fund may choose among a variety of methods of providing adequate notice and may select the least burdensome method, given the circumstances under which customers seek to open new accounts.
+
+The final rule permits a mutual fund to rely on performance of elements of its CIP by other financial institutions. The required contract and certification will provide mutual fund examiners with a standard means of ascertaining that the other financial institution has agreed to undertake the mutual fund's CIP requirements.<h>C. Respondents </h>
+
+The final rule will apply to approximately 3,060 mutual fund companies that are registered with the Commission.<SUP> 146 </SUP><h>D. Total Annual Reporting and Recordkeeping Burden1. Recordkeeping </h><h>1. Recordkeeping </h>
+
+The requirement to make and maintain records related to the CIP will be an annual burden. As adopted, the rule differs from the proposed rule in its requirements for the retention of records of information obtained under customer identification procedures. Whereas the proposed rule required that such records be retained until five years after the date the account of a customer is closed or the grant of authority to effect transactions with respect to an account is revoked, the final rule has two different times for the start of the five-year period for record retention: (1) the date the account is closed, for identifying information about the customer, and (2) the date the record is made, for descriptions of any documents relied on for verification of identity, of the methods and results of any measures undertaken to verify customer identity and of the resolution of any substantive discrepancy discovered when verifying identifying information. 
+
+We believe that most mutual funds already retain certain of the records required by the new rule as a matter of good business practice, but that the recordkeeping requirement will result in additional costs for mutual funds that do not currently maintain records for the prescribed time period. The total industry-wide burden will depend on the number of new accounts added each year. We estimate that data entry will require approximately two minutes per customer, and therefore that the annual, industry-wide burden will be approximately 533,000 hours.<SUP> 147 </SUP>
+
+We believe that there is a nominal burden associated with the new recordkeeping requirement. Under the final rule, a mutual fund may rely on another financial institution to perform some or all its CIP under certain conditions, including that the financial institution must enter into a contract requiring the financial institution to certify annually to the fund that it has implemented its anti-money laundering program and that it will perform (or its agent will perform) the specified elements of the fund's CIP. Not all mutual funds will choose to rely on a third party. The minimal burden of retaining the certification described above should allow a mutual fund to reduce its net burden under the rule by relying on another financial institution to perform some or all of its CIP.<h>2. Providing Notice to Customers </h>
+
+The requirement for mutual funds to provide the required notice to customers regarding use of customers' information will create a one-time burden by necessitating the amendment of mutual funds' account applications, both paper and web-based. As adopted, the rule differs from the proposed rule in providing additional guidance regarding what constitutes adequate notice and on the timing of the notice requirement, and in including sample language that, if appropriate, will be deemed adequate notice to a mutual fund's customers. We estimate that the estimated 3,060 registered mutual funds will each spend approximately two hours modifying their account applications. Thus, we estimate that the industry-wide burden will be approximately 6,120 hours.<h>E. Collection of Information is Mandatory </h>
+
+These recordkeeping and disclosure (notice) requirements are mandatory.<h>F. Confidentiality </h>
+
+The collection of information pursuant to the final rule would be provided by customers and other sources to mutual funds and maintained by mutual funds. In addition, the information may be used by federal regulators and other authorities in the course of examinations, investigations, and judicial proceedings. No governmental agency regularly would receive any of the information described above.<h>G. Record Retention Period </h>
+
+The final rule requires that the identifying information obtained about a customer be retained until five years after the date the account of the customer is closed and that other records relating to the verification of the customer be retained until five years after the record is made.<h>H. Request for Comment </h>
+
+Treasury and the Commission invite comment on the accuracy of the burden estimates and suggestions on how to further reduce these burdens. Comments should be sent (preferably by fax (202-395-6974)) to Desk Officer for the Department of the Treasury, Office of Information and Regulatory Affairs, Office of Management and Budget, Paperwork Reduction Project (1506), Washington, DC 20503 (or by the Internet to jlackeyj@omb.eop.gov ), with a copy to FinCEN by mail or the Internet at the addresses previously specified.<h>VI. EXECUTIVE ORDER 12866 </h>
+
+The Department of the Treasury has determined that this rule is not a significant regulatory action for purposes of Executive Order 12866. As noted above, the final rule parallels the requirements of section 326 of the Act. Accordingly, a regulatory impact analysis is not required.<h>VII. STATUTORY AUTHORITY AND TEXT OF RULES </h>
+
+<END MAIN TEXT>
+
+1 Customer Identification Programs for Mutual Funds, 67 FR 48318 (July 23, 2002) (proposed rule).
+
+2 Pub. L. 107-56.
+
+3 15 U.S.C. 80a-1.
+
+4 31 U.S.C. 5311 et seq .
+
+5 See 31 U.S.C. 5312(a)(2) and (c)(1)(A). For any financial institution engaged in financial activities described in section 4(k) of the Bank Holding Company Act of 1956, the Secretary is required to prescribe the regulations issued under section 326 jointly with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, and the National Credit Union Administration (collectively, the banking agencies), the SEC, and the Commodity Futures Trading Commission (CFTC).
+
+6 See 31 U.S.C. 5312(a)(2)(I).
+
+7 Treasury has not yet adopted rules defining "investment company" for purposes of the BSA. By interim rule published on April 29, 2002, Treasury required that certain "open-end companies," as that term is defined in the 1940 Act (mutual funds) adopt anti-money laundering programs pursuant to section 352 of the Act. 67 FR 21117 (Apr.29,2002). Treasury temporarily exempted investment companies other than mutual funds from the requirement that they establish anti-money laundering programs and temporarily deferred determining the definition of "investment company" for purposes of the BSA. Id . On September 26, 2002, Treasury issued a rule proposal that, if adopted, would require certain "unregistered investment companies" to adopt and implement anti-money laundering programs. 67 FR 60617 (Sept. 26, 2002). Treasury has also submitted, jointly with the SEC and the Board of Governors of the Federal Reserve System, a report to Congress recommending that customer identification requirements be applied to unregistered investment companies. See A Report to Congress in Accordance with § 356(c) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act) (December 31, 2002) at 38 (available at www.treasury.gov/press/releases/reports/356report.pdf). We anticipate that this recommendation will be addressed by separate rulemaking.
+
+8 Section 3(a)(1) of the 1940 Act defines "investment company" as any issuer that (A) is or holds itself out as being engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities; (B) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or (C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
+
+9 See §103.131(a)(8). Section 5(a)(1) of the 1940 Act defines "open-end company." Other types of investment companies regulated by the SEC include closed-end companies and unit investment trusts. The Secretary and the SEC will continue to consider whether a CIP requirement would be appropriate for the issuers of these products, or whether they are effectively covered by the CIP requirements of other financial institutions involved in their distribution ( e.g., broker-dealers).
+
+10 Treasury intends to issue separate rules under section 326 for non-bank financial institutions that are not regulated by the federal functional regulators.
+
+11 Proposed rule, supra note 1. Treasury simultaneously published (1) jointly with the banking agencies, a proposed rule applicable to banks (as defined in 31 CFR 103.11(c)) and foreign branches of insured banks; (2) a proposed rule applicable to credit unions, private banks and trust companies that do not have a federal functional regulator; (3) jointly with the SEC, a proposed rule applicable to broker-dealers; and (4) jointly with the CFTC, a proposed rule applicable to futures commission merchants and introducing brokers. Customer Identification Programs for Banks, Savings Associations, and Credit Unions, 67 FR 48290 (July 23, 2002); Customer Identification Programs for Certain Banks (Credit Unions, Private Banks and Trust Companies) That Do Not Have a Federal Functional Regulator, 67 FR 48299 (July 23, 2002); Customer Identification Programs for Broker-Dealers, 67 FR 48306 (July 23, 2002); Customer Identification Programs for Futures Commission Merchants and Introducing Brokers, 67 FR 48328 (July 23, 2002). Treasury, the Commission, the CFTC, and the banking agencies received approximately five hundred comments in response to these proposed rules. Many of those commenters raised issues similar to those we received in connection with the proposal respecting mutual fund customer identification programs.
+
+12 The comment letters are available for public inspection and copying in the SEC's Public Reference Room, 450 5<SUP>th</SUP> Street, NW, Washington, DC (File No. S7-26-02).
+
+13 For example, two commenters suggested that the rule exclude accounts opened by participants in qualified retirement plans or other qualified benefit plan customers.
+
+14 17 CFR 270.0-11.
+
+15 See proposed §103.131(a)(1).
+
+16 See § 103.131(a)(1)(i). Three commenters suggested that the definition of "account" be limited to formal ongoing relationships, as in the CIP rules proposed by Treasury and the banking agencies. These commenters suggested that, as proposed, the definition could be read to include isolated transactions where an account relationship with the mutual fund is not established. Treasury and the banking agencies proposed to limit the definition of "account" to "ongoing transactions" to specifically address situations where a person obtains certain services or products from a bank such as cashing or buying a check or purchasing a wire transfer or money order. The final rules being issued by the Treasury and the banking agencies do not include the term "ongoing" in their definitions of "account." Instead, their definitions of "account" now specifically exclude these types of products or services and any others where a "formal banking relationship" is not established with a person. Mutual funds do not offer these types of products or services to persons who are not fund shareholders. Thus, we did not include the term "ongoing" in the definition of account or adopt the specific exclusions included in the bank rules.
+
+17 See proposed rule, supra note 1, Section I.A.
+
+18 Section 326 of the Act provides that the regulations thereunder shall require financial institutions to implement reasonable procedures for "verifying the identity of any person seeking to open an account ." (emphasis added) If a financial institution acquires a pre-existing account, the customer is not opening an account with the financial institution. Nevertheless, there may be situations involving the transfer of accounts where it would be appropriate for a mutual fund to verify the identity of customers associated with the accounts that it acquires from another financial institution. We expect financial institutions to implement reasonable procedures to detect money laundering in any accounts, however acquired. A mutual fund may, as part of its AML compliance program, need to take additional steps to verify the identity of customers, based on its assessment of the relevant risks.
+
+19 § 103.131(a)(1)(ii)(B).
+
+20 Proposed §103.131(a)(3).
+
+21 See proposed rule, supra note 1, Section II.A.
+
+22 §103.131(a)(2)(i). Each person named on a joint account is a "customer" under this final rule unless otherwise provided.
+
+23 However, based on its risk assessment of a new account opened by a customer that is not an individual, a mutual fund may need to take additional steps to verify the identity of the customer by seeking information about individuals with ownership or control over the account in order to identify the customer, as described in §103.121(b)(2)(ii)(C). See notes 82-84 infra and accompanying text, discussing procedures for additional verification for certain customers. A mutual fund may, as a part of its AML compliance program, need to take additional steps to verify the identity of customers, based on its assessment of the relevant risks.
+
+24 See also note 47 infra and accompanying text, discussing omnibus accounts.
+
+25 §103.131(a)(2)(i)(B).
+
+26 §103.131(a)(2)(ii)(A)-(B). Section 103.22(d)(2)(ii)-(iv) exempts such companies only to the extent of their domestic operations. Accordingly, a mutual fund's CIP will apply to any foreign offices, affiliates, or subsidiaries of such entities that open new accounts.
+
+27 §103.131(a)(2)(ii)(C). Although a customer of one mutual fund would not necessarily be considered an existing customer of other funds in the same fund complex, one fund may rely on another fund's performance of any elements of its CIP. See discussion at notes 115-122 and accompanying text, infra describing circumstances in which a fund may rely on the performance of all or part of its CIP by another financial institution, including another fund in the fund complex.
+
+28 Proposed § 103.131(a)(3)(ii).
+
+29 § 103.131(b)(2)(ii)(C). See discussion at notes 82-84 and accompanying text, infra.
+
+30 § 103.131(a)(4), referring to 31 U.S.C. §§ 5312(a)(2) and (c)(1). This definition is more expansive than the definition of "financial institution" in 31 CFR 103.11, and includes entities such as futures commission merchants and introducing brokers.
+
+31 Proposed §103.131(a)(4).
+
+32 § 103.131(a)(5).
+
+33 Proposed §103.131(a)(8).
+
+34 Proposed §103.131(a)(6).
+
+35 Proposed §103.131(a)(7).
+
+36 Proposed § 103.131(b). 31 CFR 103.130 requires mutual funds to develop and implement AML programs.
+
+37 Id .
+
+38 Proposed rule, supra note 1, Section II.B.
+
+39 In the final rule, §103.131(b)(1) specifies the general requirement that a mutual fund adopt a written CIP appropriate for its size and type of business, and that the CIP must be a part of the mutual fund's AML program under 31 CFR 103.130. The discussion of the factors to be considered in implementing a CIP now is in §103.131(b)(2).
+
+40 Proposed § 103.131(i).
+
+41 See 31 CFR 103.130(b) (requiring that each mutual fund's AML program be approved in writing by its board of directors or trustees).
+
+42 Proposed §103.131(d).
+
+43 § 103.131(b)(2). Other elements of the fund's CIP, such as procedures for recordkeeping or checking of government lists, are requirements that may not vary depending on risk factors.
+
+44 Id .
+
+45 Id .
+
+46 Proposed rule, supra note 1, Section II.B.
+
+47 See note 24 supra and accompanying text . This treatment of omnibus accounts is consistent with the legislative history of the Act, which includes the following: "[W]here a mutual fund sells its shares to the public through a broker-dealer and maintains a `street name' or omnibus account in the broker-dealer's name, the individual purchasers of the fund shares are customers of the broker-dealer, rather than the mutual fund. The mutual fund would not be required to `look through' the broker-dealer to identify and verify the identities of those customers. Similarly, where a mutual fund sells its shares to a qualified retirement plan, the plan, and not its participants, would be the fund's customers. Thus the fund would not be required to `look through' the plan to identify its participants." H.R. Rep. 107-250, pt. 1, at 62 (2001).
+
+48 Proposed § 103.131(c)(1)(iii). We proposed to require funds to obtain residence and mailing addresses (if different) for a natural person, or principal place of business and mailing address (if different) for a person other than a natural person.
+
+49 Proposed §103.131(c)(1)(iv). We proposed to require funds to obtain: (1) for a customer that is a U.S. person, a taxpayer identification number, or (2) for a customer that is not a U.S. person, a taxpayer identification number, passport number and country of issuance, alien identification card number, or number and country of issuance of any other government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard.
+
+50 Proposed rule, supra note 1, Section II.C.
+
+51 §103.131(b)(2)(i)(A).
+
+52 §103.131(b)(2)(i)(A)(3).
+
+53 §103.131(b)(2)(i)(A)(4).
+
+54 The rule provides this flexibility because there is no uniform identification number that non-U.S. persons would be able to provide to a mutual fund. See Treasury Department, "A Report to Congress in Accordance with Section 326(b) of the USA PATRIOT Act," October 21, 2002.
+
+55 We emphasize that the rule neither endorses nor prohibits a mutual fund from accepting information from particular types of identification documents issued by foreign governments. The mutual fund must determine, based upon appropriate risk factors, including those discussed above, whether the information presented by a customer is reliable. We recognize that a foreign business or enterprise may not have a taxpayer identification number or any other number from a government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard. Therefore the final rule notes that when opening an account for such a customer, the mutual fund must request alternative government-issued documentation certifying the existence of the business or enterprise.
+
+56 Proposed §103.131(c)(2). This position is analogous to that in regulations issued by the Internal Revenue Service (IRS) concerning "awaiting - TIN [taxpayer identification number] certificates." The IRS permits a taxpayer to furnish an "awaiting-TIN certificate" in lieu of a taxpayer identification number to exempt the taxpayer from the withholding of taxes owed on reportable payments ( i.e. interest and dividends) on certain accounts. See 26 CFR 31.3406(g)-3.
+
+57 In the proposed rule, we explained that the exception was for businesses that may need to open a mutual fund account before they receive an EIN from the Internal Revenue Service. Proposed rule, supra note 1, Section II.C.
+
+58 § 103.131(b)(2)(i)(B).
+
+59 The mutual fund's CIP must include procedures to confirm that the application was filed before the person opens the account and obtain the taxpayer identification number within a reasonable period of time after the account is opened. §103.131(b)(2)(i)(B).
+
+60 Proposed §103.131(d).
+
+61 Id .
+
+62 Proposed rule, supra note 1, Section II.D.
+
+63 Id .
+
+64 §103.131(b)(2)(ii).
+
+65 It is possible, however, that a mutual fund would violate other laws by permitting a customer to transact business prior to verifying the customer's identity. See, e.g. , 31 CFR part 500 (regulations of Treasury's Office of Foreign Asset Control prohibiting transactions involving designated foreign countries or their nationals).
+
+66 Id . In the proposed rule, this language was in the provisions on verification through documents and non-documentary methods. Proposed §103.131(d)(1) and (2).
+
+67 §103.131(b)(2) describes these risk factors.
+
+68 Proposed §103.131(d)(1).
+
+69 §103.131(b)(2)(ii)(A).
+
+70 Once a mutual fund obtains and verifies the identity of a customer through a document, such as a driver's license or passport, the fund is not required to take steps to determine whether the document has been validly issued. A fund generally may rely on government issued identification as verification of a customer's identity; however, if a document shows obvious indications of fraud, the fund must consider that factor in determining whether it can form a reasonable belief that it knows the customer's true identity.
+
+71 For an individual, these documents may include unexpired government-issued identification evidencing nationality or residence and bearing a photograph or similar safeguard, such as a driver's license or passport. §103.131(b)(2)(ii)(A)( 1 ). For a person other than an individual, these documents may include documents showing the existence of the entity, such as certified articles of incorporation, a government-issued business license, a partnership agreement, or trust instrument. §103.131(b)(2)(ii)(A)( 2 ).
+
+72 Proposed §103.131(d)(2).
+
+73 Proposed rule, supra note 1, Section II.D.2.
+
+74 Id .
+
+75 Proposed §103.131(d)(2).
+
+76 Proposed rule, supra note 1, Section II.D.2.
+
+77 Proposed §103.131(d)(2).
+
+78 Proposed rule, supra note 1, Section II.D.2.
+
+79 Id .
+
+80 §103.131(b)(2)(ii)(B)( 1 ).
+
+81 §103.131(b)(2)(ii)(B)( 2 ). The final clause acknowledges that there may be circumstances, beyond those specifically described in this provision, when a mutual fund should use non-documentary verification procedures.
+
+82 See supra notes 28 - 29, and accompanying text.
+
+83 § 103.131(b)(2)(ii)(C).
+
+84 Id .
+
+85 Id . A mutual fund need not undertake any additional verification if it chooses not to open an account when it cannot verify the customer's true identity using standard documentary and non-documentary verification methods.
+
+86 Proposed § 103.131(g).
+
+87 See proposed rule, supra note 1, at Section II.G.
+
+88 Id .
+
+89 §103.131(b)(2)(iii).
+
+90 Although mutual funds are not currently required to file SARs, they are encouraged to do so voluntarily. On January 21, 2003, Treasury proposed new rule 31 CFR 103.15 which, if adopted, will require mutual funds to file SARs in certain circumstances. 68 FR 2716 (Jan. 21, 2003).
+
+91 §103.131(b)(2)(iii)(A)-(D).
+
+92 Proposed § 103.131(h).
+
+93 Proposed § 103.131(h)(1).
+
+94 Id .
+
+95 Proposed § 103.131(h)(2).
+
+96 Proposed § 103.131(h)(3).
+
+97 § 103.131(b)(3).
+
+98 § 103.131(b)(3)(i)(A)-(B).
+
+99 § 103.131(b)(3)(i)(C)-(D).
+
+100 Pub. L. 106-229, 114 Stat. 464 (15 U.S.C. 7001).
+
+101 See Electronic Recordkeeping by Investment Companies and Investment Advisers, Investment Company Act Release No. 24991 (May 24, 2001) [66 FR 29224 (May 30, 2001)].
+
+102 Proposed § 103.131(h).
+
+103 § 103.131(b)(3)(ii). The Secretary has determined that the records required to be kept by section 326 of the Act have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, to protect against international terrorism.
+
+104 Id .
+
+105 Proposed § 103.131(e).
+
+106 Id .
+
+107 § 103.131(b)(4).
+
+108 Id .
+
+109 Proposed § 103.131(f).
+
+110 Proposed rule, supra note 1, at section II.F.
+
+111 § 103.131(b)(5)(i).
+
+112 Although a fund may include the notice in its prospectus, the prospectus would need to be provided to the investor no later than the trade date in order to satisfy the requirement that the notice be provided in a manner reasonably designed to ensure that a customer receives it before the account is opened.
+
+113 § 103.131(b)(5)(ii).
+
+114 § 103.131(b)(5)(iii).
+
+115 Proposed rule, supra note 1, section II.B.
+
+116 Id .
+
+117 Id .
+
+118 See § 103.131(b)(6).
+
+119 Id .
+
+120 Id .
+
+121 A mutual fund must be able to demonstrate that the other financial institution has agreed to perform the relevant requirements of the fund's CIP, regardless of whether the other financial institution is an affiliated person of the fund. Accordingly, the contract and certification requirement in the final rule applies equally to affiliated person or unaffiliated person reliance.
+
+122 This provision of the rule does not affect the ability of a mutual fund to contractually delegate the implementation and operation of its CIP to another service provider. However, the mutual fund remains responsible for assuring compliance with the rule, and therefore must actively monitor the operation of its CIP and assess its effectiveness.
+
+123 Proposed § 103.131(j).
+
+124 Id .
+
+125 Id .
+
+126 See notes 15-19, 20-30 and accompanying text supra.
+
+127 As to the rules that require other financial institutions to adopt and implement CIPs, see supra Section I.A.
+
+128 As discussed above, section 326 provides that such regulations, at a minimum, must require financial institutions to implement, and customers to comply with, reasonable procedures for - (A) verifying the identity of any person seeking to open an account to the extent reasonable and practicable; (B) maintaining records of the information used to verify a person's identity, including name, address, and other identifying information; and (C) consulting lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list. See Section I.A. supra .
+
+129 Currently there are an estimated 3,060 mutual funds registered with the SEC. The 3,060 registered mutual funds are advised by approximately 890 different primary investment advisers. We assume, for purposes of this analysis, that mutual funds that share a common primary investment adviser are part of the same fund family. Therefore, we assume that 890 fund families will be required by today's rule to develop and implement a CIP. For purposes of estimating the total costs associated with section 326 requirements in the Proposed rule, we assumed that each mutual fund would be responsible for establishing a CIP. See proposed rule, supra note 11 at Section V.B.1. Consequently, the initial cost for the 3,060 mutual funds was estimated to be approximately $19,125,000. In the proposed rule, we acknowledged that using the number of mutual funds to estimate the costs may result in a high estimate of those costs, and said that we assumed that, in many instances, a single CIP will be developed by a mutual fund family and used by all of the funds in that family. See proposed rule, supra note 11, at n.20.
+
+130 This estimate is derived from information reported in the Investment Company Institute's 2002 Mutual Fund Fact Book. It represents the net annual increase in the number of mutual fund accounts. The actual number of new accounts that were opened during this period is probably higher because this estimate is reduced by the number of accounts that were closed during the same period. No data are available regarding the number of accounts that were closed. The number of accounts with respect to which customers' identities will be required to be verified is, however, significantly lower than the aggregate number of new accounts that are created annually. A mutual fund will not be required to verify the identity of a customer who has an existing account with the mutual fund, provided that the mutual fund has a reasonable belief that it knows the true identity of the person. See note 27 supra and accompanying text. A mutual fund may also, in certain circumstances, rely on the performance by another financial institution of any procedures of the mutual fund's CIP with respect to a customer. See notes 118-122 supra and accompanying text.
+
+131 We estimate that it will take compliance personnel 45 hours at a cost of $62 per hour, attorneys 4 hours at a cost of $130 per hour, and directors 1 hour at $500 per hour, to develop a CIP. We have revised this estimate since the proposal to more accurately reflect the hourly costs of the various types of persons who must be involved in the creation and implementation of a CIP. This estimate of the cost of developing a CIP includes the cost of the rule's requirement that the mutual fund's CIP include procedures for providing fund customers with notice that the fund is requesting information to verify their identities. A mutual fund may satisfy the notice requirement by generally notifying its customers about the procedures the fund must comply with to verify their identities. Depending on how accounts are opened, the mutual fund may post a notice on its website, or provide customers with any other form of written or oral notice.
+
+132 Based on discussions with industry representatives, SEC staff estimates that it will take compliance personnel fifteen hours, at $62 per hour ($930) to modify fund account applications in order to collect all of the required information from and provide required notice to fund customers. The SEC staff estimates that the aggregate cost of such modifications will be approximately $828,000 ($930 per fund family x 890 fund families). Based on discussions with industry representatives, the SEC staff estimates that it will take computer programmers 640 hours at $62 per hour to implement the necessary computer system modifications ($39,680). The SEC staff estimates the aggregate cost of these modifications to be $35.3 million ($39,680 per fund family x 890 fund families). Thus, the SEC staff estimates the total costs of systems modifications to be $36.1 million ($35.3 million + $828,000).
+
+133 We estimate that there are 16 million new mutual fund shareholder accounts created each year. Therefore, we estimate the range of cost to be between $6.7 million (16 million new accounts per year x 1/60 of an hour x $25) and $26.7 million (16 million new accounts per year x 1/15 of an hour x $25).
+
+134 The SEC staff believes that the processing costs associated with verification methods will be between $1.00 and $2.00 per account. The SEC staff further estimates that the average time spent verifying an account will be between five and ten minutes. The hourly cost of the person who would undertake the verification is estimated to be $25 per hour including overhead. Therefore, the estimated costs to the industry reported above are between: $49.3 million ((16 million new accounts per year) x ($1.00) + (16 million new accounts per year) x (1/12 of an hour) x ($25)) and $98.6 million ((16 million new accounts per year) x ($2.00) + (16 million new accounts per year) x (1/6 of an hour) x ($25)).
+
+135 Based on discussions with industry representatives, the SEC staff estimates that it takes a data entry clerk approximately 30 seconds to ascertain whether a customer's name is on a government list. We assume that for most mutual fund customers this check will be automated and conducted on a batch-file basis. Therefore we estimate that cost of this requirement is $.21 per customer (1/120 hour x $25 per hour (cost per hour of data entry)). We estimate the aggregate annual cost of this requirement to be $3.4 million ($.21 per customer x 16 million customers).
+
+136 The staff estimates that it will take a data entry clerk approximately two minutes per customer to maintain the records required by the rule. The staff assumes that for most mutual fund accounts performance of this requirement will be automated. The staff estimates that the cost of this requirement will be $.83 per customer (1/30 hour x $25 per hour (estimated cost per hour of data entry)). We estimate the aggregate annual cost of this requirement to be $13.3 million ($.83 per customer x 16 million new accounts per year).
+
+137 5 U.S.C. 601 et seq .
+
+138 5 U.S.C. 605(b).
+
+139 As discussed previously, section 326 provides that such regulations, at a minimum, must require mutual funds to implement, and customers to comply with, reasonable procedures for -- (1)verifying the identity of any person seeking to open an account to the extent reasonable and practicable; (2) maintaining records of the information used to verify a person's identity, including name, address, and other identifying information; and (3) consulting lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
+
+140 Rule 0-10 [17 CFR 27.0-10]
+
+141 The estimates of the number of registered mutual funds that are small entities and of the number of fund families are based on figures compiled by the Commission staff from outside databases.
+
+142 These procedures must specify the identifying information that the mutual fund will obtain with respect to each customer, such information to include, at a minimum, name, date of birth (for an individual), street address, and identification number.
+
+143 See note 131 supra regarding the cost of developing a CIP.
+
+144 See note 132 supra regarding the cost of systems modifications.
+
+145 44 U.S.C. 3501 et seq .
+
+146 This estimate is based on figures compiled by the Commission staff from Commission filings.
+
+147 Since mutual funds will not be required to comply with the requirements of this final rule until October 1, 2003, the industry-wide burden during the first year will be approximately 133,250 hours. <sup> * </sup> Note: When opening an account for a foreign business or enterprise that does not have an identification number, the mutual fund must request alternative government-issued documentation certifying the existence of the business or enterprise.  http://www.sec.gov/rules/final/ic-26031.htm

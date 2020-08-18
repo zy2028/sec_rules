@@ -1,0 +1,665 @@
+https://www.sec.gov/rules/final/2009/34-60789.pdf
+
+I.0.0.0 INTRODUCTION
+
+II.0.0.0 DISCUSSION
+
+	II.A.0.0 Amendments to Rules under the Exchange Act
+
+		II.A.1.0 Rule 3a1-1
+
+		II.A.2.0 Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS
+
+		II.A.3.0 Form ATS-R and Form PILOT
+
+		II.A.4.0 Discussion
+
+	II.B.0.0 Amendments to Rules under the Investment Company Act
+
+		II.B.1.0 Refunded Securities (Rule 5b-3)
+
+		II.B.2.0 Affiliated Underwritings (Rule 10f-3)
+
+III.0.0.0 PAPERWORK REDUCTION ACT
+
+	III.A.0.0 Rule and Form Amendments under the Exchange Act
+
+	III.B.0.0 Rule Amendments under the Investment Company Act
+
+IV.0.0.0 COST-BENEFIT ANALYSIS
+
+	IV.A.0.0 Rule and Form Amendments under the Exchange Act
+
+		IV.A.1.0 Benefits
+
+		IV.A.2.0 Costs
+
+	IV.B.0.0 Rule Amendments under the Investment Company Act
+
+		IV.B.1.0 Benefits
+
+		IV.B.2.0 Costs
+
+V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+	V.A.0.0 Rule and Form Amendments under the Exchange Act
+
+	V.B.0.0 Rule Amendments under the Investment Company Act
+
+VI.0.0.0 FINAL REGULATORY FLEXIBILITY CERTIFICATION AND ANALYSIS
+
+	VI.A.0.0 Rule and Form Amendments under the Exchange Act
+
+	VI.B.0.0 Rule Amendments under the Investment Company Act
+
+		VI.B.1.0 Need for and Objectives of the Rule Amendments
+
+		VI.B.2.0 Significant Issues Raised By Public Comment
+
+		VI.B.3.0 Small Entities Subject to the Rule Amendments
+
+		VI.B.4.0 Reporting, Recordkeeping and Other Compliance Requirements
+
+		VI.B.5.0 Commission Action to Minimize Effect on Small Entities
+
+			VI.B.5.a Different reporting or compliance standards or timetables. We believe that the credit quality and liquidity considerations required by the amendments to Rule 10f-3 should apply to all funds relying on the rules, including small entities. We believe that special compliance requirements or timetables for small entities are unnecessary because the substituted standards require a level of credit quality and liquidity that is similar to the standards in the
+
+			VI.B.5.b Clarification, consolidation or simplification of reporting and compliance
+
+			VI.B.5.c Performance rather than design standards. Rules 5b-3 and 10f-3, as amended, do not dictate any particular design standards that must be employed to meet the objectives of the rules. In fact, the amendments to the rules substitute a performance standard for references to NRSRO ratings.
+
+			VI.B.5.d Exempting small entities. Continuing to require small entities to rely exclusively on NRSRO ratings for the credit quality and liquidity determinations required by the amendments to Rule 10f-3 would not be consistent with the goals underlying our amendments. Moreover, fund boards may incorporate ratings reports, analyses and other assessments issued by third parties, including NRSROs, in making their determinations, although an NRSRO rating, by itself, could not substitute for the evaluation required to be performed under the amendments.
+
+VII.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 240, 242, 249 and 270
+
+Release Nos. 34-60789, IC-28939; File Nos. S7-17-08 , S7-19-08 RIN 3235-AK17, 3235-AK19
+
+References to Ratings of Nationally Recognized Statistical Rating Organizations AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to certain of its rules and forms to remove references to securities credit ratings. The Commission is eliminating certain references to credit ratings issued by nationally recognized statistical rating organizations (“NRSROs”) in rules and forms under the Securities Exchange Act of 1934 related to the regulation of self-regulatory organizations and alternative trading systems, and in rules under the Investment Company Act of 1940 that affect an investment company’s ability to purchase refunded securities and securities in underwritings in which an affiliate is participating. The Commission believes that the references to credit ratings in these rules and forms are no longer warranted as serving their intended purposes. The amendments are designed to address concerns that references to NRSRO ratings in Commission rules may have contributed to an undue reliance on those ratings by market participants. In a companion release, the Commission is re-opening the comment period for certain other proposed rule and form amendments that would eliminate additional references to NRSRO ratings.
+
+EFFECTIVE DATE: November 12, 2009.
+
+FOR FURTHER INFORMATION CONTACT: For the rule and form amendments under the Securities Exchange Act of 1934, Michael Gaw, Assistant Director, at (202) 551-5602, Brian
+
+Trackman, Special Counsel, at (202) 551-5616, and Sarah Albertson, Special Counsel, at (202) 551-5647, in the Division of Trading and Markets; for rules under the Investment Company Act of 1940, Penelope W. Saltzman, Assistant Director, and Daniel K. Chang, Attorney, at (202) 551-6792, in the Division of Investment Management, at the Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549.
+
+SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to Rule 3a1-1 <sup>1</sup> under the Securities Exchange Act of 1934 (the “Exchange Act”), <sup>2</sup> Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS, <sup>3</sup> Form ATS-R <sup>4</sup> and Form PILOT. <sup>5</sup> The Commission also is adopting amendments to Rules 5b-3 <sup>6</sup> and 10f-3 <sup>7</sup> under the Investment Company Act of 1940 (“Investment Company Act”). <sup>8</sup>
+
+TABLE OF CONTENTS
+
+<END HEADER>
+
+<h>I. INTRODUCTION</h>
+
+Last year the Commission issued rulemaking initiatives in furtherance of the Credit Rating Agency Reform Act of 2006. <sup>9</sup> The Commission also proposed to eliminate from certain Commission rules and forms references to credit ratings. <sup>10</sup> The Commission proposed to amend(footnote continued)these rules and forms to address concerns that the inclusion of requirements relating to credit ratings could create the appearance that the Commission had, in effect, given its “official seal of approval” on ratings, which could adversely affect the quality of due diligence and investment analysis and lead to undue reliance on NRSRO ratings. <sup>11</sup>
+
+Today the Commission is adopting several of the amendments that we proposed last year to rules and forms under the Exchange Act and rules under the Investment Company Act. <sup>12</sup> The Commission believes that the references to credit ratings in these rules are no longer warranted as serving their intended purposes. These amendments would reduce reliance on credit ratings in our rules under the Exchange Act and the Investment Company Act, consistent with the protection of investors.
+
+Proposing Release”) (proposing amendments to rules under the Investment Company Act and Investment Advisers Act of 1940 (“Investment Advisers Act”)). See also Security Ratings, Securities Act Release No. 8940 (July 1, 2008) [73 FR 40106 (July 11, 2008)] (proposing amendments to rules and forms under the Securities Act of 1933 (“Securities Act”) and the Exchange Act).
+
+<h>II. DISCUSSION</h>
+
+<h>A. Amendments to Rules under the Exchange Act</h>
+
+The Commission today is revising Rule 3a1-1 under the Exchange Act; <sup>13</sup> Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS; <sup>14</sup> Form ATS-R; <sup>15</sup> and Form PILOT <sup>16</sup> to remove references to NRSRO ratings. Each of these rules and forms was adopted in 1998 as part of the Commission’s new framework for the regulation of exchanges and alternative trading systems (“ATSs”). <sup>17</sup> That framework provides the operator of a securities market the choice whether to register as a national securities exchange or to register as a broker-dealer and comply with the requirements of Regulation ATS.
+
+<h>1. Rule 3a1-1</h>
+
+The amendments to Rule 3a1-1 are being adopted as proposed. Rule 3a1-1(a) provides an exemption from the Exchange Act definition of “exchange” – and thus the requirement to register as an exchange – for a trading system that, among other things, is in compliance with Regulation ATS. <sup>18</sup> Rule 3a1-1(b) contains an exception to the exemption from the exchange definition. Under this exception, the Commission may require a trading system that is a “substantial market” to register as a national securities exchange if it finds that such action is necessary or appropriate in the public interest or consistent with the protection of investors. <sup>19</sup>
+
+Thus, pursuant to Rule 3a1-1, the Commission may require a “dominant” ATS to register as an exchange. <sup>20</sup>
+
+Prior to the amendments being adopted today, Rule 3a1-1 set forth eight classes of securities in any one of which an ATS might achieve “dominant” status: (1) equity securities;(2) listed options; (3) unlisted options; (4) municipal securities; (5) investment grade corporate debt securities; (6) non-investment grade corporate debt securities; (7) foreign corporate debt securities; and (8) foreign sovereign debt securities. <sup>21</sup> Under the definitions that were provided in Rule 3a1-1, investment grade and non-investment grade corporate debt securities have three elements in common. They are securities that: (1) evidence a liability of the issuer of such security; (2) have a fixed maturity date that is at least one year following the date of issuance; and (3) are not exempted securities, as defined in Section 3(a)(12) of the Exchange Act. <sup>22</sup> The distinguishing characteristic of an investment grade corporate debt security was that it has been rated in one of the four highest categories by at least one NRSRO. <sup>23</sup> A non-investment grade corporate debt security under our rules was a corporate debt security that has not received such a rating. <sup>24</sup>
+
+The Commission is revising Rule 3a1-1 by replacing paragraphs (b)(3)(v) and (b)(3)(vi), which define investment grade corporate debt securities and non-investment grade corporate debtsecurities, respectively, with a single category “corporate debt securities” in paragraph (b)(3)(v). <sup>25</sup> This new definition retains verbatim the three elements common to the existing definitions of investment grade and non-investment grade debt securities. The 5% and 40% thresholds beyond which the Commission could require an ATS to register as an exchange also remain unchanged. <sup>26</sup> Under amended Rule 3a1-1, the Commission can, for example, determine that an ATS must register as an exchange if the system had – during three of the preceding four calendar quarters – 50% or more of the average daily dollar trading volume in any security and 5% or more of the average daily dollar trading volume in corporate debt securities, or 40% of the average daily dollar trading volume in corporate debt securities. <sup>27</sup>
+
+<h>2. Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS</h>
+
+As proposed, the Commission is making similar changes to Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS. Rule 300 sets forth definitions used in Regulation ATS, including of “investment grade corporate debt security” and “non-investment grade corporate debt security.” <sup>28</sup>
+
+Rule 301(b)(5) of Regulation ATS imposes a “fair access” requirement, whereby an ATS that exceeds certain volume thresholds in any class of securities must establish written standards for granting access to trading on its system and not unreasonably prohibit or limit any person in respect to access to the services it offers. <sup>29</sup> Prior to today's amendments, the fair access standard applied if an ATS had 5% or more of the average daily volume during at least four of the preceding six calendar months in any of the following: (1) any individual National Market System stock (“NMS stock”); <sup>30</sup> (2) any individual equity security that is not an NMS stock and for which transactions are reported to a self-regulatory organization (“SRO”); (3) municipal securities; (4) investment grade corporate debt securities; or (5) non-investment grade corporate debt securities.
+
+Rule 301(b)(6) of Regulation ATS <sup>31</sup> requires an ATS that exceeds certain volume thresholds in any class of securities to comply with standards regarding the capacity, integrity and security of its automated systems. Five classes of securities were identified in Rule 301(b)(6): (1) NMS stocks; (2) equity securities that are not NMS stocks and for which transactions are reported to a SRO; (3) municipal securities; (4) investment grade corporate debt securities; and (5) non-investment grade corporate debt securities. <sup>32</sup>
+
+The Commission is amending Rules 300, 301(b)(5) and 301(b)(6) as proposed to establish a single class of "corporate debt securities" and to eliminate the existing separate classes of investment grade and non-investment grade corporate debt securities. Accordingly, paragraphs (i) and (j) of Rule 300 are replaced with a new paragraph (i) defining “corporate debtsecurity” to mean any security that: (1) evidences a liability of the issuer of such security;(2) has a fixed maturity date that is at least one year following the date of issuance; and (3) is not an exempted security, as defined in Section 3(a)(12) of the Exchange Act. <sup>33</sup> Former paragraphs (i)(D) and (i)(E) of Rule 301(b)(5) are replaced with a new paragraph (i)(D) providing that an ATS must comply with the access requirements set out in Rule 301(b)(5) if, with respect to corporate debt securities, such system accounts for 5% or more of the average daily volume traded in the United States for the requisite number of months. The 5% threshold at which an ATS would have to grant fair access to its system also remains unchanged. <sup>34</sup> Former paragraphs (i)(D) and (i)(E) of Rule 301(b)(6) are replaced with a new paragraph (i)(D) providing that an ATS must comply with the capacity, integrity and security requirements of Rule 301(b)(6) if, with respect to corporate debt securities, such system accounts for 20% or more of the average daily volume traded in the United States for the requisite number of months. The 20% threshold and the other three classes of securities remain unchanged. As with the changes to Rule 3a1-1, the other classes of securities referenced in these rules remain unchanged.
+
+<h>3. Form ATS-R and Form PILOT</h>
+
+The Commission is making corresponding amendments as proposed to Form ATS-R and Form PILOT. Form ATS-R is used by ATSs to report certain information about their activities to the Commission on a quarterly basis. <sup>35</sup> Form ATS-R requires each ATS to report the total unit volume and total dollar volume in the previous quarter for various categories of securities,including – prior to today's amendments – investment grade and non-investment grade corporate debt securities. Consistent with the amendments to Regulation ATS described above, we are revising Form ATS-R to eliminate the separate categories for investment grade and non- investment grade corporate debt securities, and instead creating a single category for “corporate debt securities.”
+
+As with the changes to Regulation ATS, “corporate debt securities” is defined in the instructions to Form ATS-R to mean any security that: (1) evidences a liability of the issuer of such security; (2) has a fixed maturity date that is at least one year following the date of issuance; and (3) is not an exempted security, as defined in Section 3(a)(12) of the Exchange Act. Because separate classes for investment grade and non-investment grade corporate debt securities are eliminated for purposes of the thresholds in Rule 3a1-1 and Rules 301(b)(5) and 301(b)(6) of Regulation ATS, no purpose is served by requiring ATSs to separately report their trading volumes for investment grade and non-investment grade debt securities on Form ATS-R. The figures for the separate classes will be added together and reported as a single item on the amended form. The Commission is not making any other changes to Form ATS-R.
+
+Ordinarily, Section 19 of the Exchange Act <sup>36</sup> and Rule 19-4 thereunder <sup>37</sup> require a SRO to file with the Commission proposed rule changes on Form 19b-4 regarding any changes to anymaterial aspect of its operations, including any trading system. Rule 19b-5 under the Exchange Act <sup>38</sup> sets forth a limited exception to that requirement by permitting an SRO to operate a pilot trading system without filing proposed rule changes with respect to that system if certain criteriaare met. One of those criteria is that the SRO files a Form PILOT in accordance with the instructions on that form. Like Form ATS-R, Form PILOT – prior to today's amendments – required quarterly reporting of trading activity by classes of securities, including investment grade and non-investment grade corporate debt securities. For the same reasons we are amending Rule 3a1-1 and Regulation ATS, we are also revising Form PILOT to eliminate these two categories, replacing them with a single category of “corporate debt securities.” Corporate debt securities are defined identically in Form PILOT and Form ATS-R. The Commission believes that it is appropriate to obtain trading volumes from pilot trading systems for the combined class of corporate debt securities, and that separate reporting of the two classes is not necessary to adequately monitor the development of pilot trading systems. The Commission notes that, in over nine years since Rule 19b-5 and Form PILOT were adopted, no SRO has ever established a pilot trading system pursuant to Rule 19b-5 to trade corporate debt securities.
+
+<h>4. Discussion</h>
+
+In the Exchange Act Proposing Release, the Commission sought comment on proposed changes to certain Exchange Act rules and forms, including the changes to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT that the Commission is adopting today. With respect to Rule 3a1-1 under the Exchange Act and Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS, the Commission sought comment on whether, in light of the proposed combination of investment grade and non-investment grade corporate debt securities into a single class, it should adopt lower thresholds at which an ATS that trades corporate debt securities should be required to register as an exchange. The Commission also solicited comment on whether the proposed amendments to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT would significantly affect investors, market participants, the national market system or the public interest.
+
+The Commission received many comments broadly arguing that the elimination of references to NRSRO ratings would not reduce undue reliance on the NRSROs and could have a potentially destabilizing effect, but these comments focused on NRSRO references in rules where the NRSRO credit rating was relied upon to determine the credit risk or liquidity of a particular security in order to achieve the rules’ regulatory purpose. <sup>39</sup> For example, one commenter suggested that credit ratings are a necessary part of an effective risk measurement, along with each participant’s independent analysis of credit risk, and questioned the availability and quality of substitutes for such ratings. <sup>40</sup>
+
+In contrast, the amendments to Regulation ATS and the related Exchange Act rules discussed herein simply use NRSRO ratings to categorize trading activity into market segmentsfor purposes of these rules’ reporting and other requirements. The two commenters who expressly addressed the specific changes that the Commission is adopting in this release raised no objection to the elimination of references to NRSRO ratings in Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT. <sup>41</sup> One commenter, an NRSRO, was generally supportive of these proposed changes, stating that the current distinction between investment grade and non- investment grade corporate debt securities in these rules and forms was “superfluous and can be eliminated without any untoward consequences for investors.” <sup>42</sup> The other commenter was also generally supportive of the proposals, and advocated various additional rule changes that, in its view, would enhance transparency for investors in fixed income securities. <sup>43</sup>
+
+Consistent with the reasons set forth in the Exchange Act Proposing Release and based on the Commission’s experience since the adoption of Regulation ATS in 1998, the Commission believes that distinguishing investment grade corporate debt securities and non-investment grade corporate debt securities as separate classes of securities under Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT is no longer necessary. In each case, as discussed, we believe that combining all corporate debt securities into a single class is appropriate. Consolidated reporting is adequate for Commission purposes and removal of NRSRO references in these rulesmay help marginally reduce any undue reliance on credit ratings.
+
+With regard to Rule 3a1-1, the Commission believes that exceeding a volume threshold for a combined class of all corporate debt securities is a sufficient indication of significant trading activity that could warrant requiring an ATS to register as an exchange, and that it is not necessary to assess trading volumes in the narrower segments of investment grade and non- investment grade corporate debt securities. While the amendment to Rule 3a1-1 adopted today increases the dollar volume of trading in corporate debt securities that an ATS must execute before it is required to register as an exchange, which could potentially reduce the likelihood that an ATS would be required to register as an exchange, <sup>44</sup> we believe that this change is nevertheless appropriate. As noted above, the Commission believes that these NRSRO references are no longer necessary and thus there is no need to analyze “dominance” in separate classes of investment grade and non-investment grade corporate debt securities. We specifically asked in the Exchange Act Proposing Release whether the Commission should lower the threshold in Rule 3a1-1 for the combined class of corporate debt securities. The Commission received no comments in response to this question and no suggestion for an alternate threshold. Following the amendment adopted today, we will continue to analyze for dominance in six other classes of securities (in addition to the new single class for corporate debt securities). <sup>45</sup>
+
+For the same reasons we are amending Rule 3a1-1, we believe that amending Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS is appropriate because these NRSRO references are no longer necessary to serve their regulatory purpose and such removal may help reduce any undue reliance on credit ratings. The Commission believes that a volume threshold for acombined class of all corporate debt securities is sufficient for the fair access requirement and the capacity, integrity and security requirements. The Commission believes that the purposes of Regulation ATS will be fulfilled if investment grade and non-investment grade corporate debt securities are combined into a single class. ATSs will continue to be subject to the existing fair access requirement and capacity, integrity and security requirements with respect to the other existing classes of securities set forth in Rules 301(b)(5) and 301(b)(6) of Regulation ATS.
+
+For the reasons described above, the Commission believes that the changes to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT that we are adopting today to removereferences to NRSRO ratings are necessary and appropriate in the public interest and consistent with the protection of investors. While the removal of the distinction between investment grade and non-investment grade corporate debt in the context of ATS reporting may marginally reduce the information immediately available to the Commission regarding corporate debt traded, the Commission believes that these specific references are not necessary. <sup>46</sup> Eliminating these references may help marginally reduce undue reliance on credit ratings and the removal of these requirements relating to credit ratings could marginally reduce compliance costs for ATSs.
+
+Moreover, as discussed above, the Commission does not believe that the broad concerns raised by many commenters regarding the risks inherent in removing NRSRO ratings and replacing them with a substitute in response to the Exchange Act Proposing Release are applicable to the specific changes being adopted in today's amendments. Finally, the Commission notes that the two commenters who specifically commented on these changes supported them.
+
+<h>B. Amendments to Rules under the Investment Company Act</h>
+
+Four of the Commission’s rules under the Investment Company Act (Rules 2a-7, 3a-7,5b-3 and 10f-3) and one rule under the Investment Advisers Act of 1940 <sup>47</sup> (“Investment Advisers Act”) (Rule 206(3)-3T) reference credit ratings by NRSROs. These rules use the credit ratings issued by NRSROs in different contexts, and for different purposes, to distinguish among various grades of debt and other rated securities.
+
+In July 2008, we proposed to amend each rule to omit references to NRSRO ratings and, except with respect to one of the rules, substitute alternative provisions that were designed to achieve the same purpose as the ratings. <sup>48</sup> We received 66 comments on the proposal. <sup>49</sup> Six commenters generally advocated eliminating references to NRSRO ratings in Commission rules. <sup>50</sup> However, most commenters opposed the amendments. Many of those commenters(footnote continued)supported the Commission’s reevaluation of the use of NRSRO ratings in its rules, but suggested that the Commission continue its evaluation pending implementation of the additional requirements for NRSROs that we recently adopted under the Credit Rating Agency Reform Act. <sup>51</sup> Most commenters also addressed specific proposed rule amendments, which we discuss in more detail below.
+
+Today we are amending Rules 5b-3 and 10f-3 under the Investment Company Act. <sup>52</sup> Asquestioning the breadth of certain proposed changes and urging retention of current regulation for certain rules).(footnote continued)discussed further below, we believe that these amendments eliminate unnecessary references to credit ratings. The amendments may marginally reduce any undue reliance on credit ratings and may advance the goal of promoting better analysis of underlying investment decisions. In addition, because the references are no longer necessary and an adequate substitute exists for the reference in Rule 10f-3, reliance on credit ratings in these contexts is no longer justified. We believe the amendments to Rule 5b-3 are necessary and appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of the Investment Company Act. <sup>53</sup> We also believe that the amendments to Rule10f-3 are consistent with the protection of investors. <sup>54</sup>
+
+<h>1. Refunded Securities (Rule 5b-3)</h>
+
+Under Rule 5b-3, a “refunded security” is a debt security whose principal and interest payments are to be paid by U.S. government securities that have been irrevocably placed in an escrow account and are pledged only to the payment of the debt security. <sup>55</sup> Section 5(b)(1) of the Investment Company Act limits the amount that a fund that holds itself out as being “diversified” may invest in the securities of any one issuer (other than the U.S. Government). Rule 5b-3 permits a fund that acquires a refunded security to treat it as an acquisition of the escrowed government securities for purposes of the diversification requirements of Section 5(b)(1) of the Act, if certain conditions are met. <sup>56</sup>when the fund acquires those securities, and do not require subsequent monitoring of credit ratings by various NRSROs. See Rule 5b-3(c)(iv); Rule 10f-3(a)(3).(footnote continued)
+
+One of the conditions of Rule 5b-3 is that an independent certified public accountant (“independent accountant”) must have certified to the escrow agent that the escrowed securities will satisfy all scheduled payments of principal, interest, and applicable premiums on the refunded securities. <sup>57</sup> The rule requires the certification by an independent accountant (together with the other conditions) to ensure that the bankruptcy of the issuer of the pre-refunded securities would not affect payments on the securities from the escrow account. <sup>58</sup> This condition is not required, however, if the refunded security has received a debt rating in the highest rating category from an NRSRO. <sup>59</sup> The Commission included this exception because in rating refunded securities, NRSROs typically require the same determination. <sup>60</sup>
+
+Last year the Commission proposed to eliminate the exception to the certification requirement for securities that have received the highest credit rating from an NRSRO. Under the proposed amendment, the accountant certification condition would apply uniformly to all refunded securities, regardless of the securities’ credit rating.
+
+We are amending Rule 5b-3, as proposed, to eliminate the exception for refunded securities with certain credit ratings. <sup>61</sup> Under the amended rule, an independent accountant must2a-7(a)(20) (definition of “refunded security”).have certified to the escrow agent that the deposited securities will satisfy all scheduled payments of principal, interest and applicable premiums on the refunded securities. <sup>62</sup> Thus, the same standard will apply for securities with the highest NRSRO debt rating as currently apply to those that have received lower or no ratings.
+
+Three commenters objected to the proposed amendment, asserting that requiring funds to obtain independent accountants’ certifications for refunded securities is inefficient, could increase fund expenses and could decrease liquidity if funds choose not to bid on refunded securities for which certificates are not readily available. <sup>63</sup> The amended rule, however, does not require that funds obtain such a certification. Rather, it requires that an independent accountant certify to the escrow agent that the escrowed securities will satisfy all scheduled payments. This requirement may be met, for example, by the fund manager confirming that a certification meeting the requirements of the rule was provided to the escrow agent.
+
+Bond indentures or resolutions authorizing the issuance of the refunded bonds typically require that the escrow agent receive a certificate from an independent accountant that the escrowed securities will satisfy all scheduled payments on the refunded securities. Fund managers could confirm that the escrow agent has received such a certification, and this confirmation could come from any of multiple sources at little expense, such as the issuer’s Web site, a municipal dealer’s Web site or the escrow agent’s Web site. <sup>64</sup> Moreover, and as explained in the Proposing Release, a fund could satisfy the certification requirement of Rule 5b-3 bydetermining that a third party such as an NRSRO, in the course of evaluating an offering of refunded securities, already has determined that an independent accountant provided the required certification to the escrow agent. <sup>65</sup>
+
+Because we understand that accountant certifications are typically provided during the course of a refunding transaction, we believe that it will not be difficult or expensive for fund managers to confirm that the certification has been provided to the escrow agent. Thus, we do not believe that eliminating the ratings requirement exception in Rule 5b-3 is likely to result in significant additional costs to purchasers. Fund managers’ ability to confirm without significant difficulty or expense that the requisite certification has been provided to the escrow agent should address concerns that the amendment could decrease the liquidity of refunded securities as a result of funds choosing not to bid on refunded securities for which certificates are unavailable.
+
+<h>2. Affiliated Underwritings (Rule 10f-3)</h>
+
+Section 10(f) of the Investment Company Act prohibits a registered fund from knowingly purchasing any security for which an underwriter having certain relationships with the fund or its5b-3. See, e.g. , Moody’s Investors Services, R ATINGS M ETHODOLOGY : R EFUNDED B ONDS (June 2007) (available at http://www.moodys.com/moodys/cust/research/MDCdocs/29/2006700000441141.pdf?doc_id=20 06700000441141&frameOfRef=municipal ) (“The initial verification reports should be prepared by an individual Certified Public Accountant (CPA), a CPA firm, a Public Accounting Firm, or by another entity with nationally recognized proficiency in providing verification reports.
+
+Importantly, the verification should be provided by an entity independent of the issuer and refunding transaction.”); Fitch Ratings, Guidelines for Rating Prerefunded Municipal Bonds (Apr. 2, 2009) available at http://www.fitchratings.com/creditdeskreports/report_frame.cfm?rpt_id=431370 ; Standard & Poor’s, Criteria/Governments/U.S. Public Finance: Defeasance (June 26, 2007) available at http://www2.standardandpoors.com/portal/site/sp/en/us/page.article/2,1,1,0,1204836565946.html #ID199 .investment adviser (“affiliated underwriter”) is acting as a principal underwriter <sup>66</sup> during the existence of an underwriting or selling syndicate for that security. <sup>67</sup> The prohibition was designed to prevent the “dumping” of unmarketable securities on affiliated funds, either by forcing the fund to purchase unmarketable securities from the underwriting affiliate itself or by forcing or encouraging the fund to purchase the securities from another member of the syndicate. <sup>68</sup>
+
+The Commission adopted Rule 10f-3 in 1958 to permit a fund that is affiliated with a member of an underwriting syndicate to purchase securities from the syndicate if certain conditions are met. <sup>69</sup> The conditions are designed to address the risks raised by purchases that(footnote continued)could benefit fund affiliates. For example, one condition of the rule requires that securities be purchased before the end of the first day on which any sales are made, at a price that is not more than the price paid by each other purchaser of securities in that offering or in any concurrent offering of the securities. <sup>70</sup> In addition, the commission, spread or profit received or to be received by the principal underwriters must be reasonable and fair compared to the commission, spread or profit received by other such persons in connection with the underwriting of similar securities being sold during a comparable time period. <sup>71</sup> The rule also requires public reporting of securities purchases made in reliance on the rule. A fund must report the existence of any such purchases on Form N-SAR, and provide a written record of each transaction, setting forth from whom the securities were acquired, the identity of the underwriting syndicate’s members, the terms of the transaction, and the information or materials on which the board has made a determination that the transaction complied with the procedures approved by the board. <sup>72</sup>
+
+We amended Rule 10f-3 in 1979 to add municipal securities to the class of securities that funds could purchase under the rule. <sup>73</sup> The rule defines municipal securities that may be purchased during an underwriting in reliance on the rule (“eligible municipal securities”) to include securities that have an investment grade rating from at least one NRSRO or, if the issuer or the entity supplying the revenues or other payments from which the issue is to be paid has been in continuous operation for less than three years ( i.e., the security is a less seasonedfrom Section 10(f) to permit them to purchase specific securities.security), one of the three highest ratings from an NRSRO. <sup>74</sup> The rating requirement was designed to prevent the purchase of less seasoned and lower quality securities, and thereby reduce the risk of unloading unmarketable securities on the fund. <sup>75</sup>
+
+In July 2008, we proposed to eliminate the references to NRSRO ratings in Rule 10f-3 and substitute alternate provisions that require the assessment of liquidity and credit risk. <sup>76</sup> Those alternate provisions were designed to achieve the same purpose as that served by the references to credit ratings, in addressing concerns that funds might purchase less seasoned, unmarketable securities in affiliated underwritings. <sup>77</sup>
+
+Most commenters on the proposed amendments did not specifically address the amendments to Rule 10f-3. As noted above, some of those commenters agreed generally with eliminating references to NRSRO ratings from Commission rules, while other commenters did not. <sup>78</sup> One commenter specifically supported the proposed amendments to Rule 10f-3. <sup>79</sup> It noted that, although the duty to make credit determinations “may appear to require expertise beyond typical board experience, boards would be allowed to rely on information and assessments provided by other sources.” <sup>80</sup> Seven commenters specifically opposed the amendments to Rule10f-3. <sup>81</sup> Some expressed concerns that the proposed standards would likely increase the time and costs of the board of directors’ oversight and could result in a lack of consistency among funds as to what is an eligible municipal security, and a lack of transparency in the board’s subjective determinations. <sup>82</sup>
+
+Today we are adopting the amendments as proposed, and we address the concerns of commenters below. The amended rule eliminates the references to ratings and revises the rule’s definition of “eligible municipal security” to mean securities that are sufficiently liquid that they can be sold at or near their carrying value within a reasonably short period of time. <sup>83</sup> In addition, the securities would have to be either: (1) subject to no greater than moderate credit risk; or(2) if they are less seasoned securities, subject to a minimal or low amount of credit risk. <sup>84</sup>
+
+The standards we are adopting require a level of liquidity and credit quality that is very similar to that of the current rule, but without the reference to NRSRO ratings. <sup>85</sup> These standards(footnote continued)are designed to address the investor protection concerns that a fund and its investors might be harmed by the fund’s purchase of unmarketable securities in an affiliated underwriting. A fund that purchases municipal securities that are sufficiently liquid should, by the terms of the amended rule, be able to sell the securities at or near their carrying value within a reasonably short period of time. Thus, the fund should be able to sell the securities, and thereby unwind its position and reduce its exposure, relatively quickly. Furthermore, securities that are subject to no greater than moderate credit risk or, if less seasoned, are subject to minimal or low credit risk, are similarly less likely to be unmarketable securities that have been “dumped” on the fund. <sup>86</sup> Securities that meet these quality standards are likely to be more liquid, and thus able to be sold relatively quickly by the fund. <sup>87</sup>
+
+Protection of the fund is further provided by other existing provisions in the rule that require the fund’s board of directors, including a majority of disinterested directors, to(1) approve procedures under which the fund purchases securities under the rule, (2) approve any needed changes to those procedures and (3) review purchases quarterly to assure that they conformed to the fund’s procedures. <sup>88</sup> Those provisions will continue to apply to affiliatedsecurities meet the amended rule’s standards of credit quality and liquidity will be sufficiently consistent for the purposes that Rule 10f-3 was adopted to promote, i.e. , the protection of funds and their investors from the purchase of unmarketable securities.(footnote continued)underwritings under the amended rule, <sup>89</sup> and the board’s responsibilities with regard to fund procedures will apply to the new standards in the rule regarding liquidity and credit quality. <sup>90</sup>
+
+We believe that the standards provided in the amended rule – that an “eligible security” must be sufficiently liquid that it can be sold at or near its carrying value within a reasonably short period of time, and either subject to no greater than moderate credit risk, or, if less seasoned, subject to a minimal or low amount of credit risk – are sufficiently clear to permit a fund board or fund investment adviser to understand the risks acceptable under the amended rule without significantly increasing the time and costs of board oversight. In addition, as we pointed out when we proposed the amendments to Rule 10f-3, the amendments may emphasize for funds the need to independently evaluate the credit risks associated with the underwritten security, and may possibly benefit funds by enabling them to acquire a wider range of securities, including unrated securities, that present attractive investment opportunities and the requisite level of credit quality, even though they do not meet the current rule’s ratings requirement. <sup>91</sup> In exercising caution to ensure compliance with the revised standards, funds also might limit their acquisitions of municipal securities in reliance on the amended rule to securities of higher credit quality than
+
+Commission expects that investment company directors, in establishing procedures under the rule and determining compliance with such procedures, will address the concerns embodied in section 10(f) of the Act against overreaching and the placing of otherwise unmarketable securities with an investment company.”); Exemption for the Acquisition of Securities During the Existence of an Underwriting or Selling Syndicate, Investment Company Act Release No. 22775 (July 31, 1997) [62 FR 42401 (Aug. 7, 1997)] (“1997 Rule 10f-3 Adopting Release”), at text followingn.51 (“A fund’s board should be vigilant in reviewing the procedures and transactions as required by rule 10f-3 as well as in conducting any additional reviews that it determines are needed to protect the interests of investors, particularly if the fund purchases significant amounts of securities in reliance on rule 10f-3.”).required under the current rule.
+
+In developing procedures under the rule, the board of directors may incorporate ratings, reports, analyses, opinions and other assessments issued by third-parties, including NRSROs, although an NRSRO rating, by itself could not substitute for the evaluation performed by the board. We would expect the board to evaluate assessments it intends to incorporate and the third-party sources that provide those assessments. <sup>92</sup> The board could then incorporate in its procedures those third party assessments that it determines are reliable. The ability to incorporate outside assessments may mitigate the potential increased burdens about which some commenters expressed concern. <sup>93</sup>
+
+<h>III. PAPERWORK REDUCTION ACT</h>
+
+<h>A. Rule and Form Amendments under the Exchange Act</h>
+
+Certain provisions of the amendments to the forms contain “collection of information”
+
+N-SAR [17 CFR 274.101], Item 770 (reporting of transactions effected in reliance on rule 10f-3); Form N-CSR [17 CFR 274.128], Item 6(a) (disclosure in shareholder reports of portfolio holdings); Form N-Q [17 CFR 274.130], Item 1 (quarterly schedule of portfolio holdings).requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>94</sup> The hours and costs associated with preparing and filing the disclosure, filing the forms and schedules and retaining records required by these regulations constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The titles of the affected information forms are “Form ATS-R” (OMB Control Number 3235-0509) and “Form PILOT” (OMB Control Number 3235-0507). Responses to this collection are mandatory for broker-dealers that comply Regulation ATS (in the case of Form ATS-R) and for SROs that operate pilot trading systems (in the case of Form PILOT). For the reasons discussed below, we do not believe the amendments will result in a material or substantive revision to these collections of information. <sup>95</sup>
+
+The amendments to Form ATS-R and Form PILOT revise the forms to require that information which had been reported as separate items ( i.e ., investment grade debt corporate debt securities and non-investment grade corporate debt securities) now will be combined and reported as a single item ( i.e. , corporate debt securities). In all other respects, as discussed in the Exchange Act Proposing Release, the information collected on these forms remains unchanged. <sup>96</sup> Accordingly, the Commission does not believe the amendments will result in a substantive or material revision to those collections of information <sup>97</sup> within the meaning of the PRA. <sup>98</sup> The Commission received no comments on the PRA analysis in the Exchange Act Proposing Releaseapplicable to Forms ATS-R and PILOT.
+
+<h>B. Rule Amendments under the Investment Company Act</h>
+
+Certain provisions of the amendments to Rule 10f-3 contain “collection of information” requirements within the meaning of the PRA. <sup>99</sup> The title for the collection of information is “Rule 10f-3 under the Investment Company Act of 1940, Exemption for the Acquisition of Securities During the Existence of an Underwriting and Selling Syndicate” (OMB Control No. 3235-0226). Responses to this collection are mandatory for funds that intend to rely on Rule 10f-3. Records of information made in connection with this requirement are required to be maintained for inspection by Commission staff, but the collection will not otherwise be submitted to the Commission. There are currently no approved collections of information for Rule 5b-3, and the amendments we are adopting today would not create any new collections.
+
+We requested comment on the collection of information requirements in the Investment Company Act Proposing Release and submitted the revisions to the collections of information to OMB for review and approval in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. We received no comments that specifically addressed the collection of information requirements. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.
+
+Rule 10f-3 permits a fund that is affiliated with a member of an underwriting syndicate to purchase securities from the syndicate if certain conditions are met. In the case of a municipal security, the security generally must have received an investment grade rating by at least one NRSRO, or if it is a less seasoned security, one of the three highest ratings by an NRSRO. Theamended rule eliminates this condition and includes a substitute therefor. <sup>100</sup> Under the amendment an “eligible municipal security” means a security that is sufficiently liquid that it can be sold at or near its carrying value within a reasonably short period of time, and is either:(1) subject to no greater than moderate credit risk; or (2) if it is a less seasoned security, subject to a minimal or low amount of credit risk.
+
+Rule 10f-3 also requires fund boards to (1) approve procedures under which the fund purchases securities in reliance on the rule, (2) approve needed changes to the procedures and(3) review purchases quarterly to ensure they were effected in compliance with the procedures. <sup>101</sup> Accordingly, fund boards currently review purchases of municipal securities made in reliance on Rule 10f-3, and should continue to do so under the amended rule.
+
+In our most recent PRA submission, Commission staff estimated that each year, approximately 350 funds engage in transactions in reliance on Rule 10f-3. <sup>102</sup> Staff further estimated that each fund would, on average, take two hours to review and revise, as needed, written procedures for these transactions. In the Investment Company Act Proposing Release, we stated that we believed that any revisions funds would have to make to comply with the proposed amendment would be incorporated in the two hours of review. <sup>103</sup> Some commenters asserted that the proposed amendment would likely increase the time and costs of the board of directors’ oversight. <sup>104</sup>
+
+We continue to believe that the specific changes a board might make to the proceduresthat are designed to comply with the amendments would not be significant. As noted above, we are adopting a standard regarding liquidity and credit quality that is very similar to that of the current rule. <sup>105</sup> In addition, directors may incorporate securities quality assessments by third party sources that the directors determine are reliable in the procedures they approve and their review of municipal securities purchases made in reliance on Rule 10f-3, which may mitigate the potential increased burdens on fund boards. <sup>106</sup> Nevertheless, in consideration of the comments, we recognize that there may be an additional one-time burden for fund boards to review and approve revised procedures designed to ensure compliance with the amendment to Rule 10f-3. <sup>107</sup> Commission staff estimates that each fund board would incur a one-time burden of two hours for a total burden for all fund boards of 700 hours at a cost of $2.8 million. <sup>108</sup> Amortized over three years, this would be an annual burden of 0.67 hours per fund and 235 hours for all funds. <sup>109</sup>
+
+<h>IV. COST-BENEFIT ANALYSIS</h>
+
+<h>A. Rule and Form Amendments under the Exchange Act</h>
+
+The Commission is sensitive to the costs and benefits imposed by its rules. The Commission notes that no comments addressed the Commission's analysis of the costs and benefits associated with the proposed amendments to Rule 3a1-1, Regulation ATS, Form ATS-Rand Form PILOT contained in the Exchange Act Proposing Release.
+
+<h>1. Benefits</h>
+
+The amendments to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT eliminate the separate definitions of and references to investment grade corporate debt securities and non-investment grade corporate debt securities and replace them with a single category, “corporate debt securities.” The Commission believes that the inclusion of requirements relating to securities credit ratings are no longer necessary to achieve the regulatory purpose of these rules, and may help marginally reduce any undue reliance on credit ratings.
+
+For reasons discussed above, the Commission believes that it is no longer necessary to assess trading volumes in the narrower segments of investment grade and non-investment grade corporate debt securities to fulfill the purposes of those rules and forms. Broker-dealers that are subject to Regulation ATS will no longer have to purchase and keep track of credit ratings solely for the purpose of Regulation ATS. The other classes of securities and the threshold levels themselves remain unchanged. With respect to the changes to Form ATS-R and Form PILOT, we believe that combining investment grade and non-investment grade corporate debt securities into a single class for purposes of those two forms will benefit market participants by making reporting slightly more streamlined and may reduce undue reliance on references to ratings issued by credit rating agencies. At the same time, the Commission does not believe that the amendments to these rules and forms will significantly affect market participants because the total units and total dollar volume of corporate debt securities transacted will still be reported. In addition, the removal of these requirements relating to credit ratings reduces compliance costs for ATSs.
+
+<h>2. Costs</h>
+
+The amendments to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT eliminate the separate definitions of and references to investment grade corporate debt securities and non-investment grade debt securities and replace them with a single category, “corporate debt securities.” We believe that these changes will not impose any significant costs on market participants.
+
+The amendments to Rule 3a1-1 and Regulation ATS will marginally reduce the likelihood of an ATS meeting the thresholds in those rules. For example, under Rule 3a1-1 as it existed prior to today's action, an ATS that had 40% of the average daily dollar trading volume in non-investment grade corporate debt securities and 0% of the average daily dollar trading volume in investment grade corporate debt securities for at least four of the preceding six calendar months could have been required to register as an exchange. Under amended Rule3a1-1, the Commission can no longer require the ATS to register as an exchange, because its average daily dollar trading volume in corporate debt securities combined is less than 40%. A potential cost of the amendments to Rule 3a1-1 and Regulation ATS is that an ATS that exceeded one of the thresholds that existed prior to today and thus would have become subject to additional regulatory requirements (in the case of Regulation ATS) or must register as an exchange (in the case of Rule 3a1-1) will no longer exceed the threshold and will not have to meet the attendant requirements. However, the Commission believes that this possibility is remote, and that the amendments are unlikely to impose any costs on investors, market participants or the national market system generally.
+
+We believe that any costs associated with the changes to Form ATS-R and Form PILOT will be minimal. Respondents already determine and report the total units and total tradingvolume for investment grade and non-investment grade corporate debt securities separately. On the revised forms, respondents will report them together as a single item for “corporate debt securities.” Combining the categories of investment grade and non-investment grade debt on these forms will not significantly affect the level of information available to the Commission in monitoring ATSs. We expect that any programming costs to market participants to implement the reporting changes to these forms will be minimal and involve adding two previously reported items together and reporting the combined amount.
+
+In addition, broker-dealers that are subject to Regulation ATS will no longer be required to purchase and keep track of credit ratings solely for the purpose of Regulation ATS. If broker- dealers subject to Regulation ATS no longer purchase credit rating data from NRSROs, the amendments may marginally reduce the revenues of NRSROs that charge subscriber fees.
+
+However, we believe that the number of broker-dealers subject to Regulation ATS is small and these broker-dealers represent a very small portion of NRSRO customers. Further, these broker- dealers may subscribe to NRSRO ratings for other purposes. Therefore, we believe that any impact on the revenues of the NRSROs will likely be small.
+
+Also, combining the categories of investment grade and non-investment grade debt on these forms also will marginally reduce the level of information available to the Commission in monitoring ATSs. This may marginally reduce the ability of the Commission to stay abreast of changes to the trading of corporate debt securities. However, the Commission believes that the elimination of this detailed information will not significantly affect monitoring of ATSs because the Commission will still be able to monitor the volume of corporate debt traded by an ATS.
+
+<h>B. Rule Amendments under the Investment Company Act</h>
+
+As discussed above, the rule amendments we are adopting today eliminate certainreferences to NRSRO ratings in Rules 5b-3 and 10f-3. The amendments to Rule 5b-3 remove an exception based on credit ratings. The amendments to Rule 10f-3 substitute references to alternative credit quality and liquidity criteria that are similar to that of the current rule. We prepared a cost-benefit analysis in the Investment Company Act Proposing Release, and received comments relating to that analysis.
+
+<h>1. Benefits</h>
+
+The amendments to Rules 5b-3 and 10f-3 are part of our larger initiative to eliminate references to NRSRO ratings from Commission rules where possible. This initiative is designed to address the concern that the inclusion in the Commission’s rules and forms of requirements relating to security ratings could create the appearance that the Commission had, in effect, given its “official seal of approval” on ratings, which could adversely affect the quality of due diligence and investment analysis performed and lead to undue reliance on ratings. We noted that the proposed amendments to eliminate ratings as a whole might result in increased market efficiency by affording funds access to securities that do not meet the rating requirements in the current rules, but that would satisfy the credit risk and liquidity standards in the proposed amendments. <sup>110</sup> It is difficult to estimate specifically the benefits of the amendments to Rules 5b-3 and 10f-3 in isolation. We believe that the amendments to these rules remove unnecessary references to credit ratings, which may reduce undue reliance on credit ratings. Because these references are no longer necessary, and an appropriate substitute exists for the reference in Rule 10f-3, reliance in these contexts is no longer justified. In addition, the amendment to Rule 10f-3 could emphasize the importance to funds that acquire municipal securities in an affiliated underwriting of making an independent evaluation of the credit risks associated with theunderwritten security. Finally, by moving away from a required reliance on credit ratings in our rules, funds may possibly benefit by acquiring a wider range of securities that present attractive investment opportunities and the requisite level of credit quality, even though they do not meet the current rule’s ratings requirement.
+
+<h>2. Costs</h>
+
+We anticipate that funds and investment advisers may incur certain costs as a result of the amendments we are adopting today. These costs will principally relate to the replacement of the NRSRO ratings standard with the new credit quality and liquidity criteria. Commenters asserted that elimination of a bright-line standard could create additional costs and uncertainty in the application of, compliance with, and enforcement of the rule. <sup>111</sup> They also asserted that the subjective judgment-based standard in the proposed amendments might cause funds to acquire securities that do not meet the particular ratings requirement and that could result in the concerns that the rating requirements were designed to address ( e.g ., poor liquidity or credit quality). We understand these concerns. However, we believe that the alternative credit quality and liquidity criteria we are substituting for NRSRO ratings will achieve the same purpose the ratings were designed to meet, and that they are sufficiently clear to permit a fund board and adviser to understand the risks acceptable under the rules. In determining a security’s credit quality and liquidity, fund boards and advisers will, of course, be free to incorporate ratings, reports and analyses issued by, third parties, including NRSROs. We believe that most fund advisers, in the ordinary course of managing portfolios, already evaluate third party opinions, including those of ratings agencies, that provide assessments of the credit quality and liquidity of debt instruments.
+
+We also believe that the boards and advisers of funds that rely on Rule 10f-3 are likely to look to those third parties in which they have confidence when incorporating third party assessments in making their determinations. For these reasons, we do not anticipate that the amendments will result in significant costs or compromise investor protection.
+
+We are making changes today to two rules under the Investment Company Act, which are limited in scope. As noted above, we believe that the standards in the Rule 10f-3 amendments are similar to the NRSRO ratings they replace. Thus, we believe it is unlikely that the amendments will result in unintended adverse consequences or involve conflicts with other regulations, as some commenters have suggested. <sup>112</sup> Those comments appeared to address the consequences of eliminating references to other rules, such as Rule 2a-7 or the entire group of rules we proposed to amend, the consequences of which could be more substantial.
+
+Rule 5b-3 . The amendments we are adopting today eliminate references to NRSRO ratings in the definition of “refunded security” in Rule 5b-3. We anticipate that our elimination of references to NRSRO ratings in the definition of “refunded security” in Rule 5b-3 is unlikely to result in significant additional costs for funds that rely on the rule. <sup>113</sup> Under the amendment, in order to meet the definition of a “refunded security” for purposes of the rule, an independent accountant must have certified to the escrow agent that the deposited securities will satisfy all scheduled payments of principal, interest and applicable premiums on the refunded securities. <sup>114</sup> This standard will apply to all securities regardless of their rating.
+
+Without providing specific estimates, some commenters stated this amendment couldcreate higher costs for funds and adversely affect the liquidity of refunded securities by requiring them to obtain an independent accountant’s certification. <sup>115</sup> The amended rule, however, does not require funds to obtain accountants’ certificates, but requires the escrow agent to have received an accountant’s certification. Commenters also indicated that it may not always be clear whether the escrow agent for a refunded security has received the necessary certification, thus requiring funds to incur costs related to determining the certification status of each refunded security. <sup>116</sup> As noted above, we understand that an independent accountant typically provides the escrow agent a certification during the course of a refunding transaction. <sup>117</sup> We believe that fund managers could consult any of multiple sources at little expense to confirm the escrow agent’s receipt of this certification, including, for example, the issuer’s Web site, a municipal dealer’s Web site or the escrow agent’s Web site. <sup>118</sup> In addition, funds may be able to satisfy the certification requirement of Rule 5b-3 by confirming that an NRSRO determined that an independent accountant has provided the required certification to the escrow agent. <sup>119</sup> For these reasons, we believe that eliminating the ratings requirement exception in Rule 5b-3 is unlikely to result in additional costs to purchasers. Based on our belief that the amendment to Rule 5b-3 would not result in additional costs or pose compliance difficulties for fund managers, we do not share commenters’ concerns that the rule amendment could decrease the liquidity of refunded securities.
+
+Rule 10f-3 . In the Investment Company Act Proposing Release, we stated that our beliefthat the proposed amendment to Rule 10f-3 would not impose costs on funds that rely on Rule 10f-3 to purchase municipal securities. <sup>120</sup> Some commenters asserted that the proposed amendments might increase the costs and time devoted to board oversight of these transactions and could result in a lack of consistency among funds as to what is an eligible municipal security, and a lack of transparency in the board’s subjective determinations. <sup>121</sup> Rule 10f-3 requires the fund’s board to determine that the fund has procedures reasonably designed to ensure that purchases are made in compliance with the rule and to determine each quarter that purchases made have been effected in compliance with the procedures. <sup>122</sup> As noted above in our PRA analysis, we currently estimate that boards spend, on average, two hours each year revising procedures designed to ensure compliance with the rule and reviewing transactions to determine whether they have been effected in compliance with the procedures. <sup>123</sup> We anticipate that the specific changes a board might make to the procedures that are designed to comply with the amendments would not be significant because, as noted above, we are adopting a level of credit quality and liquidity that is very similar to that of the current rule. In addition, directors may use securities quality assessments by outside sources that they determine are reliable in the procedures they approve and their review of municipal securities purchases made in reliance on Rule 10f-3. We anticipate this ability to use assessments of third parties may mitigate the potential increased oversight burdens on fund boards. <sup>124</sup> After consideration of the comments,however, we recognize that fund boards may incur one-time costs to approve revised policies and procedures as a result of the amendment to Rule 10f-3. Staff estimates that a board may take two hours to review and approve revised procedures designed to ensure that transactions entered into in reliance on the rule comply with the amendment to Rule 10f-3. Staff further estimates that approximately 350 funds engage in transactions in reliance on Rule 10f-3. Staff estimates that boards of these funds would incur one-time costs of $8000 to review and approve revised procedures for a total cost to all funds of $2.8 million. <sup>125</sup>
+
+We do not believe that the amendments would significantly change the amount of time the board would spend to review transactions each quarter. We believe that a fund adviser, rather than the board, determines whether a security meets the definition of an eligible municipal security for purposes of Rule 10f-3. We also believe that the standards in the amended definition are sufficiently clear to allow a fund adviser to understand the risks and level of liquidity acceptable under the rule. <sup>126</sup> Fund advisers may use securities quality assessments by third parties, including NRSROs, that the board or adviser determines are reliable in its review of municipal securities purchases made in reliance on Rule 10f-3, which may offset concerns about additional costs that may result from the amendment. We do not believe that the proposed amendments would result in increased costs for advisers in determining whether securities are “eligible municipal securities” under the amended rule. When the board performs its quarterly$2,800,000.review of transactions, we believe that the board would focus on reviewing whether the purchase was effected in compliance with the procedures the board has established. <sup>127</sup> For these reasons, we continue to believe that the standards we are substituting with respect to eligible municipal securities will not require significantly greater consideration of these transactions on the part of the board than we have previously estimated.
+
+<h>V. CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION</h>
+
+<h>A. Rule and Form Amendments under the Exchange Act</h>
+
+Section 3(f) of the Exchange Act <sup>128</sup> requires the Commission, whenever it engages in rulemaking and is required to consider or to determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition and capital formation. In addition, Section 23(a)(2) of the Exchange Act <sup>129</sup> requires the Commission, when promulgating rules under the Exchange Act, to consider the impact any such rules would have on competition. Section 23(a)(2) further provides that the Commission may not adopt a rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. The Commission notes that no commenters addressed the effect that the proposed changes to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT would have on efficiency, competition and capital formation.
+
+We believe that the amendments to Rule 3a1-1 under the Exchange Act and Rules 300 and 301 of Regulation ATS will not create any adverse impact on efficiency, competition or capital formation. The Commission believes that the inclusion of requirements relating to creditratings are no longer necessary to achieve the regulatory purpose of these rules, and may help marginally reduce any undue reliance on credit ratings. Broker-dealers that are subject to Regulation ATS will no longer be required to purchase and keep track of credit ratings solely for the purpose of Regulation ATS. This reduces the cost to comply with Regulation ATS. However, we believe that any impact on the revenues of the NRSROs will be inconsequential.
+
+Therefore, these changes should not impose any additional burdens on competition.
+
+The Commission believes that combining investment grade and non-investment grade corporate debt securities into a single class of securities for purposes of the thresholds in those rules is unlikely to affect whether an ATS crosses one of those thresholds. Moreover, the other classes of securities for which the thresholds are applied – and the levels of the thresholds themselves – remain unchanged. Therefore, these changes should not affect the development of ATSs or capital formation.
+
+The amendments being adopted today also will increase the effective thresholds for Rule 3a1-1(a) under the Exchange Act and Rules 301(b)(5) and 301(b)(6) of Regulation ATS for systems that trade corporate debt securities. The Commission believes that these changes will not impact whether any ATS crosses one of these thresholds. However, as outlined above, <sup>130</sup> the changes could have the effect of reducing the regulatory requirements for some ATSs at some time in the future by potentially reducing the likelihood that an ATS would be required to register as an exchange. The Commission believes that the efficiency gains from combining the two categories of investment-grade and non-investment grade corporate debt into the single category of corporate debt justifies these risks.
+
+The changes to Form ATS-R and Form PILOT will simplify reporting for ATSs and
+
+SROs that operate pilot trading systems. Form ATS-R and Form PILOT respondents are already required to determine and report the volumes of corporate debt securities. A single reporting item for “corporate debt securities” will replace the existing separate entries for “investment grade corporate debt securities” and “non-investment grade corporate debt securities.” Since respondents will no longer have to keep track of ratings, the calculation of these items does not force the respondent to purchase credit ratings solely for the purpose of Form ATS-R or Form PILOT.
+
+For the reasons discussed above, we believe that the changes to Form ATS-R and Form PILOT are unlikely to have any significant impact on efficiency, competition or capital formation.
+
+<h>B. Rule Amendments under the Investment Company Act</h>
+
+Investment Company Act Section 2(c) requires us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition capital formation. <sup>131</sup>
+
+In the Investment Company Act Proposing Release, we indicated our belief that that the amendments to Rules 5b-3 and 10f-3 would not significantly affect competition or have an adverse affect on capital formation. We noted that the proposed amendments to eliminate ratings as a whole might have some negative effect on efficiency by eliminating an objective standard in credit quality determinations, or might result in increased market efficiency by affording funds access to securities that do not meet the rating requirements in the current rules, but that theywould satisfy the credit risk and liquidity standards in the proposed amendments. <sup>132</sup> We also stated that we did not believe that the amendments to Rules 5b-3 and 10f-3 would result in significant costs to investment companies, advisers or investors. We did not receive any comments that specifically addressed the effect of the proposed amendments to Rules 5b-3 and 10f-3 on efficiency, competition and capital formation.
+
+As discussed above, the amendments we are adopting today to Rules 5b-3 and 10f-3 are part of a larger initiative to eliminate certain references to NRSRO ratings from Commission rules. The amendments to Rule 5b-3 remove an exception based on credit ratings, and do not require an analysis of liquidity or credit quality. In the amendment to Rule 10f-3, we have substituted standards that require a level of credit quality and liquidity that is similar to the standards in the current rule, but without references to NRSRO ratings. These standards are designed to achieve the same purpose as ratings references were designed to meet, with minimal costs and consistent with the protection of investors. We believe that the amendments eliminate unwarranted references to credit ratings, which may reduce undue reliance on credit ratings and advance the goal of promoting better analysis of underlying investment decisions. Because these references are no longer necessary and an adequate substitute exists for the reference in Rule10f-3, reliance on credit ratings in these contexts is no longer justified. With respect to the standards in amended Rule 10f-3, in developing procedures under the rule, boards may incorporate ratings reports, analyses and other assessments issued by third parties, including NRSROs, although an NRSRO rating, by itself, could not substitute for the evaluation required to be performed under the amendments to the rules. For these reasons, we continue to believe that the amendments to Rules 5b-3 and 10f-3 are unlikely to result in any significant impact oncompetition or capital formation. We also believe that the amendment to Rule 10f-3 which is limited in scope, is unlikely to have a significant effect on efficiency by eliminating an objective standard in credit quality determinations, or to result in significant market efficiency by affording funds access to securities that do not meet the rating requirement in the current rule but that would satisfy the revised standards. Similarly, because we believe that fund managers will not have significant difficulty or incur significant expense to confirm that an escrow agent has received the requisite certification from an independent accountant, we do not believe that the amendment to Rule 5b-3 eliminating the exception to this requirement for highly rated securities is likely to have a significant effect on efficiency.
+
+<h>VI. FINAL REGULATORY FLEXIBILITY CERTIFICATION AND ANALYSIS</h>
+
+<h>A. Rule and Form Amendments under the Exchange Act</h>
+
+Section 3(a) of the Regulatory Flexibility Act of 1980 <sup>133</sup> (“RFA”) requires the Commission to undertake an initial regulatory flexibility analysis of proposed rule amendments on small entities unless the Commission certifies that the rule, if adopted, would not have a significant economic impact on a substantial number of small entities. <sup>134</sup> The Commission notes that no comments addressed the effect that the proposed changes to Rule 3a1-1, Regulation ATS, Form ATS-R and Form PILOT would have on small entities.
+
+For purposes of Commission rulemaking in connection with the RFA, small entities include broker-dealers with total capital (net worth plus subordinated liabilities) of less than$500,000 on the date in the prior fiscal year as of which its audited financial statements wereprepared pursuant to Rule 17a-5(d) under the Exchange Act, <sup>135</sup> or, if not required to file such statements, a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the last day of the preceding fiscal year (or in the time that it has been in business, if shorter); and is not affiliated with any person (other than a natural person) that is not a small business or small organization. <sup>136</sup>
+
+An ATS that complies with Regulation ATS must, among other things, register as a broker-dealer. <sup>137</sup> Thus, the Commission's definition of small entity as it relates to broker-dealers also will apply to ATSs. An ATS that approaches the volume thresholds for investment grade or non-investment grade corporate debt securities in Rule 3a1-1 or Regulation ATS would be very large and thus unlikely to be a small entity or small organization. With respect to the proposed changes to Form ATS-R, even if an ATS is a “small entity” or “small organization” for purposes of the RFA, the only change being proposed to the form is to eliminate the distinction between investment grade and non-investment grade corporate debt securities and to require reporting for the combined class of corporate debt securities. We believe this will impose only negligible costs on ATSs, even if they were small entities or small organizations.
+
+Similarly, SROs are the only respondents to Form PILOT and are not “small entities” for purposes of the RFA. Accordingly, no small entities would be affected by the proposed amendments to Form PILOT.
+
+Under Section 605(b) of the RFA, <sup>138</sup> we certified that, when adopted, the rule amendments would not have a significant economic impact on a substantial number of smallentities. We included this certification in Part VIII of the Exchange Act Proposing Release. While we encouraged written comments regarding this certification, no commenters responded to this request as it pertains to the action taken in this release.
+
+<h>B. Rule Amendments under the Investment Company Act</h>
+
+This Final Regulatory Flexibility Analysis (“FRFA”) has been prepared in accordance with 5 U.S.C. 604. We published in the Investment Company Act Proposing Release an Initial Regulatory Flexibility Analysis (“IRFA”), which we prepared in accordance with the RFA. It relates to amendments to Rules 5b-3 and 10f-3 under the Investment Company Act. The amendments remove references to, and the required use of, NRSRO ratings from these rules.
+
+<h>1. Need for and Objectives of the Rule Amendments</h>
+
+The rule amendments are designed to address the concern that the inclusion in the Commission’s rules and forms of requirements relating to security ratings could create the appearance that the Commission had, in effect, given its “official seal of approval” on ratings, which could adversely affect the quality of due diligence and investment analysis and lead to undue reliance on ratings.
+
+<h>2. Significant Issues Raised By Public Comment</h>
+
+When the Commission proposed amendments to Rules 5b-3 and 10f-3, we requested comment on the proposal and the accompanying IRFA. In particular, we sought comments regarding:
+
+The number of small entities that might be affected by the amendments;
+
+The existence or nature of the potential impact of the amendments on small entities; and
+
+How to quantify the impact of the amendments, including any empirical datasupporting the extent of the impact.
+
+We received no comments that addressed the proposed amendments’ impact on small entities.
+
+<h>3. Small Entities Subject to the Rule Amendments</h>
+
+The amendments to Rules 5b-3 and 10f-3 will affect funds, including entities that are considered to be small businesses or small organizations (collectively, “small entities”) for purposes of the RFA. Under the Investment Company Act, for purposes of the RFA, a fund is considered a small entity if it, together with other funds in the same group of related funds, has net assets of $50 million or less as of the end of its most recent fiscal year. <sup>139</sup> Based on Commission filings, we estimate that 122 investment companies may be considered small entities. The Commission staff estimates that all of these investment companies may potentially rely on Rules 5b-3 and 10f-3.
+
+<h>4. Reporting, Recordkeeping and Other Compliance Requirements</h>
+
+The amendments to Rule 5b-3 eliminate the exception for certification requirements in conditions relating to the treatment of refunded securities, by removing the exception for rated debt in the definition of “refunded security.” <sup>140</sup> Under the amended rule, in order to meet the definition of “refunded security,” an independent accountant must have certified to the escrow agent that the deposited securities will satisfy all scheduled payments of principal, interest and applicable premiums on any refunded securities. <sup>141</sup> The amendment eliminates the current exception that does not require the certification if the refunded security is rated in the highestcategory by an NRSRO.
+
+The amendments to Rule 10f-3 eliminate references to NRSRO ratings in the rule’s definition of “eligible municipal security” and substitute alternative provisions that require securities to be sufficiently liquid that they can be sold at or near their carrying value within a reasonably short period of time. In addition, the securities must be either:
+
+Subject to no greater than moderate credit risk; or
+
+If they are less seasoned securities, subject to a minimal or low amount of creditrisk. <sup>142</sup>
+
+Small entities registered with the Commission as investment companies seeking to rely on each of the rules will be subject to the same requirements as larger entities. As discussed in the IRFA and in this FRFA, in developing the amendments to Rules 5b-3 and 10f-3, we considered the extent to which the amendments will have a significant impact on a substantial number of small entities.
+
+<h>5. Commission Action to Minimize Effect on Small Entities</h>
+
+The RFA directs us to consider significant alternatives that may accomplish our stated objective, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered several alternatives, including the following:
+
+<h>a. Different reporting or compliance standards or timetables. We believe that the credit quality and liquidity considerations required by the amendments to Rule 10f-3 should apply to all funds relying on the rules, including small entities. We believe that special compliance requirements or timetables for small entities are unnecessary because the substituted standards require a level of credit quality and liquidity that is similar to the standards in thecurrent rule, but without reference to NRSRO ratings. Thus, these standards are designed to achieve the same purpose that the ratings were designed to achieve without resulting in significant costs for funds, including small entities. In addition, funds that rely on Rule 10f-3 may continue to use or rely on NRSRO ratings in making determinations under the amended rule. Moreover, different or special compliance requirements for small entities consistent with the Commission’s goal of removing references to NRSRO ratings in the rule may create a risk that those entities could purchase securities with insufficient liquidity and credit quality, to the detriment of the fund and its investors. As discussed above, we do not believe that the requirement that the escrow agent for all refunded securities (not just those that are not top-rated) have received an independent accountant’s certification would result in significant cost burdens for funds. We believe that fund managers may be able to obtain this information from multiple sources at little expense, including, for example, the issuer’s Web site, a municipal dealer’s Web site or the escrow agent’s Web site. <sup>143</sup> In addition, funds can satisfy the certification requirement of Rule 5b-3 by determining that an NRSRO required an independent accountant to make the same determination. <sup>144</sup> Because we understand that these certifications are typically provided during the course of refunding transactions, we believe that it will not be difficult or expensive for fund managers to confirm that the certification has been provided to the escrow agent.</h>
+
+<h>b. Clarification, consolidation or simplification of reporting and compliancerequirements . Where we have substituted alternative credit quality and liquidity criteria for ratings references in the amended rules, we have endeavored to make the criteria as clear and straightforward as possible. We believe that the standards provided by the amended rule aresufficiently clear to permit a fund (or a fund adviser conducting the analysis on behalf of the fund board) to understand the risks acceptable under the rule. The amended rules are designed to minimize the regulatory burden, consistent with the Commission’s objectives, on all entities eligible to rely on the respective rules, including small entities.</h>
+
+<h>c. Performance rather than design standards. Rules 5b-3 and 10f-3, as amended, do not dictate any particular design standards that must be employed to meet the objectives of the rules. In fact, the amendments to the rules substitute a performance standard for references to NRSRO ratings.</h>
+
+<h>d. Exempting small entities. Continuing to require small entities to rely exclusively on NRSRO ratings for the credit quality and liquidity determinations required by the amendments to Rule 10f-3 would not be consistent with the goals underlying our amendments. Moreover, fund boards may incorporate ratings reports, analyses and other assessments issued by third parties, including NRSROs, in making their determinations, although an NRSRO rating, by itself, could not substitute for the evaluation required to be performed under the amendments.</h>
+
+<h>VII. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.3a1-1.
+
+2 15 U.S.C. 78a. Unless otherwise noted, all references to rules under the Exchange Act will be to Title 17, Part 240 or Part 242 of the Code of Federal Regulations [17 CFR 240 or 17 CFR 242].
+
+3 17 CFR 242.300, 242.301(b)(5), and 242.301(b)(6).
+
+4 17 CFR 249.638.
+
+5 17 CFR 249.821.
+
+6 17 CFR 270.5b-3.
+
+7 17 CFR 270.10f-3.
+
+8 15 U.S.C. 80a. Unless otherwise noted, all references to rules under the Investment Company Act will be to Title 17, Part 270 of the Code of Federal Regulations [17 CFR 270].
+
+9 Pub. L. No. 109-291, 120 Stat. 1327 (2006). See, e.g., Proposed Rules for Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 57967 (June 16, 2008) [73 FR 36212 (June 25, 2008)].
+
+10 See References to Ratings of Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 58070 (July 1, 2008) [73 FR 40088 (July 11, 2008 (“Exchange Act Proposing Release”)] (proposing amendments to rules and forms under the Exchange Act); References to Ratings of Nationally Recognized Statistical Rating Organizations, Investment Company Act Release No. 28327 (July 1, 2008) [73 FR 40124 (July 11, 2008)] (“Investment Company Act
+
+11 See Exchange Act Proposing Release, supra note 10, at Section I; Investment Company Act Proposing Release, supra note 10, at Section I. We note that the Department of Treasury similarly has expressed concern that investors were overly reliant on credit rating agencies, and that credit ratings often failed to accurately describe the risk of rated products. The Department of Treasury recommended that regulators reduce the use of credit ratings in regulations and supervisory practices wherever possible. See U.S. Department of the Treasury, Financial Regulatory Reform – A New Foundation: Rebuilding Financial Supervision and Regulation 6, 46 (July 2009).
+
+12 The Commission is deferring consideration of action and reopening the comment period on other proposed amendments to remove NRSRO ratings references to rules under the Securities Act, Exchange Act, Investment Company Act, and Investment Advisers Act. See References to Ratings of Nationally Recognized Statistical Rating Organizations, Securities Act Release No. 9069, Exchange Act Release No. 60790, Investment Advisers Act Release No. 2932, Investment Company Act Release No. 28940 (Oct 5, 2009) (“NRSRO Comment Re-Opening Release”).
+
+13 17 CFR 240.3a1-1.
+
+14 17 CFR 242.300, 242.301(b)(5), and 242.301(b)(6).
+
+15 17 CFR 249.638.
+
+16 17 CFR 249.821.
+
+17 See Exchange Act Release No. 40760 (Dec. 8, 1998) [63 FR 70844 (Dec. 22, 1998)] ("Regulation ATS Adopting Release").
+
+18 See 17 CFR 240.3a1-1(a)(2).
+
+19 See 17 CFR 240.3a1-1(b); Regulation ATS Adopting Release, 63 FR at 70857.
+
+20 Specifically, the Commission may – after notice to an ATS and an opportunity for it to respond – require the ATS to register as an exchange if, during three of the preceding four calendar quarters, the ATS had: (1) 50% or more of the average daily dollar trading volume in any security and 5% or more of the average daily dollar trading volume in any class of securities; or (2) 40% or more of the average daily dollar volume in any class of securities. See 17 CFR 240.3a1-1(b)(1).
+
+21 See 17 CFR 240.3a1-1(b)(3).
+
+22 Compare 17 CFR 240.3a1-1(b)(3)(v) with 17 CFR 240.3a1-1(b)(3)(vi).
+
+23 See 17 CFR 240.3a1-1(b)(3)(v).
+
+24 See 17 CFR 240.3a1-1(b)(3)(vi).
+
+25 Existing paragraphs (b)(3)(vii) and (b)(3)(viii) are unchanged but redesignated as paragraphs (b)(3)(vi) and (b)(3)(vii), respectively.
+
+26 See supra note 19. While the percentage thresholds remain unchanged, the dollar volume needed to reach these thresholds has increased. For example, under Rule 3a1-1 as it existed prior to today's action, an ATS that had 40% of the average daily dollar trading volume in non-investment grade corporate debt securities and 0% of the average daily dollar trading volume in investment grade corporate debt securities for three consecutive months could have been required by the Commission to register as an exchange. Under the amended Rule 3a1-1, the Commission will not be able to require the ATS to register as an exchange because the ATS’s combined average daily dollar trading volume in corporate debt securities would be less than 40%.
+
+27 The other six classes of securities – equity securities, listed options, unlisted options, municipal securities, foreign corporate debt securities, and foreign sovereign debt securities – remain unchanged. Therefore, as under Rule 3a1-1 prior to today's amendments, the Commission may also determine that an ATS must register as an exchange if the system exceeds the volume thresholds in any of these other classes of securities.
+
+28 See 17 CFR 242.300(i) and (j).
+
+29 See 17 CFR 242.301(b)(5).
+
+30 See 17 CFR 240.600(a)(47) (defining "NMS stock").
+
+31 17 CFR 242.301(b)(6).
+
+32 17 CFR 242.301(b)(6)(i).
+
+33 15 U.S.C. 78c(a)(12).
+
+34 When the Commission originally adopted Regulation ATS, it set the fair access threshold at 20%. It later lowered the threshold to 5% in connection with the adoption of Regulation NMS. See Exchange Act Release No. 51808 (June 9, 2005) [70 FR 37496, 37550 (June 29, 2005)].
+
+35 Each ATS must file a Form ATS-R within 30 days of the end of each calendar quarter, and within ten days of a cessation of operations. See 17 CFR 242.301(b)(9).
+
+36 15 U.S.C. 78s.
+
+37 17 CFR 240.19b-4.
+
+38 17 CFR 240.19b-5.
+
+39 The comment letters are available for public inspection and copying in the Commission’s Public Reference Room, 100 F Street, NE, Washington, DC 20549 on official business days between the hours of 10:00 am and 3:00 pm (File No. S7-17-08), and also are available on the Commission’s Internet Web site (). The Commission received 20 comments in response to the Exchange Act Proposing Release. Many of the comments commended the Commission’s efforts to reform the credit rating process, but opposed the proposals outlined in the proposed rulemakings. See, e.g., Comment Letter of Charles Schwab (Sept. 5, 2008) (labeling the Commission’s proposed amendments to remove NRSRO rating from its rules as premature and ultimately destabilizing) (“Schwab Comment Letter”); Comment Letter of the Securities Industry and Financial Markets Ass’n. (Sept. 4, 2008) (“SIFMA Comment Letter”) (noting that SIFMA has not found that the possibility of undue reliance on credit ratings supports the deletion of references to, and the use of, credit ratings in regulations while stating that the appropriate degree of use of credit ratings by market participants is less of a regulatory issue and more one of best practices within the marketplace). One commenter also encouraged the Commission to analyze the potential consequences of removing particular references to ratings, as opposed to a wholesale abandonment of NRSRO-ratings based criteria. See Comment Letter of Moody’s Investor Services (Sept. 5, 2008). Another commenter encouraged the Commission to withdraw the proposals from active consideration until the Commission has coordinated with other regulatory agencies to prevent the proposals from conflicting with existing or proposed regulation of other financial services industries. See Comment Letter of Mortgage Bankers Ass’n. (Sept. 5, 2008). In addition, the majority of commenters specifically opposed the other proposed amendments in the Exchange Act Proposing Release. The Commission is deferring action and seeking additional comments on those other proposed amendments. See NRSRO Comment Re-Opening Release, supra note 12.
+
+40 See Schwab Comment Letter (specifically commenting on Rule 15c3-1 under the Exchange Act (the “Net Capital Rule”), Rule 2a-7 under the Investment Company Act and Rule 206(3)-3T under the Investment Advisers Act).
+
+41 See Comment Letter of DBRS (Sept. 8, 2008) (“DBRS Comment Letter”); Comment Letter of Multiple-Markets (Sept. 5, 2008) (“Multiple-Markets Comment Letter”).
+
+42 See DBRS Comment Letter.
+
+43 See Multiple-Markets Comment Letter. The commenter also suggested reducing the volume threshold in Rule 3a1-1 for the determination of a “substantial market” and distinguishing market centers based on client and product types, and a corresponding reduction of the threshold in Rule 301(b)(6) for determining the applicability of capacity, integrity, and security requirements. The commenter also advocated that the Commission undertake a review of electronic trading platforms to evaluate fair access under Rule 301(b)(5). In addition, the commenter encouraged the Commission to make public the data filed on both Forms ATS and ATS-R. Although these comments go beyond the scope of the initial proposal, the Commission will consider them in connection with any future proposals in this area.
+
+44 See supra note 25.
+
+45 In over ten years since adopting Rule 3a1-1, the Commission has never determined to require an ATS to register as an exchange because it has become “dominant.”
+
+46 The Commission retains the authority to request more specific information regarding the securities traded by ATSs. See 17 CFR 242.302-303.
+
+47 15 U.S.C. 80b.
+
+48 See Investment Company Act Proposing Release, supra note 10, at Section III.
+
+49 The comment letters are available for public inspection and copying in the Commission’s Public Reference Room, 100 F Street, NE, Washington, DC 20549 on official business days between the hours of 10:00 am and 3:00 pm (File No. S7-19-08), and also are available on the Commission’s Internet Web site
+
+50 Comment Letter of Professor Frank Partnoy (received Sept. 5, 2008) (“I am submitting comments to applaud the Commission’s proposed rules, to indicate that there is strong academic support for its proposal ….”) (“Partnoy Comment Letter”); Comment Letter of Lawrence J. White, Professor of Economics, Stern School of Business (Sept. 5, 2008) (“White Comment Letter”) (“I endorse [the] general spirit of the SEC’s proposed rules and urge the SEC to go even further and to eliminate the NRSRO category entirely.”); Comment Letter of the Government Finance Officers Ass’n. (Sept. 5, 2008) (“GFOA Comment Letter”) (“We also generally support the Commission’s proposals to deemphasize the reliance on ratings throughout its Rules.”); Comment Letter of The Reserve (Sept. 5, 2008) (advocating removal of the designation of any entities as NRSROs); Comment Letter of Financial Economists Roundtable (Dec. 1, 2008) (“FER Comment Letter”) (“strongly endors[ing] eliminating from SEC regulations every prescriptive mandate that is or would be based solely on credit ratings set by NRSROs” but acknowledging a division of opinion with regard to assessing the net benefits of “quasi-safe-harbors (offered mainly to officers and directors of money market mutual funds) based on credit ratings”); Comment Letter of CFA Institute (Mar. 26, 2009) (“CFA Institute Comment Letter”) (“agree[ing] with the objectives … to eliminate, modify or substitute references to ratings assigned by an NRSRO in an effort to reduce reliance on ratings that may have inadvertently conveyed an ‘official seal of approval’” but
+
+51 See, e.g., Comment Letter of the Investment Company Institute (“ICI Comment Letter”) (Sept. 5, 2008); Comment Letter of the American Securitization Forum (Sept. 5, 2008) (“ASF Comment Letter”); Comment Letter of the Vanguard Group (Aug. 1, 2008) (“Vanguard Comment Letter”). We proposed and adopted rules under the Credit Rating Agency Reform Act in 2007. See Oversight of Credit Rating Agencies Registered as Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 55231 (Feb. 2, 2007) [72 FR 6378 (Feb. 9, 2007)] (proposing release); Oversight of Credit Rating Agencies Registered as Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 55857 (June 5, 2007) [72 FR 33564 (June 18, 2007)] (adopting release). We also have, among other things, adopted amendments to those rules this year to impose additional requirements on NRSROs to address concerns about the integrity of their rating procedures and methodologies. See, e.g., Amendments to Rules for Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 59342 (Feb. 2, 2009) [74 FR 6456 (Feb. 9, 2009)]. We believe, however, that the amendments eliminating the references to NRSRO ratings in certain rules would address our separate concerns discussed above. See supra text accompanying note 11.
+
+52 As discussed below and in a companion release, we are adopting amendments to Rule 5b-3 with respect to investments in refunded securities, and are deferring consideration of action on and requesting further comment on, amendments to Rule 5b-3 with respect to investments in repurchase agreements. See NRSRO Comment Re-Opening Release, supra note 12. We are also requesting further comment on the proposed amendments to Rule 3a-7 under the Investment Company Act and Rule 206(3)-3T under the Investment Advisers Act. See id. In June 2009, as part of our proposal on money market fund reform, we requested further comment on whether we should eliminate the use of NRSRO ratings in Rule 2a-7. See Money Market Fund Reform, Investment Company Act Release No. 28807 at Section II.A.a (June 30, 2009) [74 FR 32688 (July 8, 2009)] (“Money Market Fund Proposing Release”). We also sought comment on what other alternatives we could adopt to encourage more independent credit risk analysis and meet the regulatory objectives of the requirement in Rule 2a-7 regarding NRSRO ratings. We asked whether we should consider a roadmap for phasing in the eventual removal of NRSRO references from the rule. We specifically noted that we were considering an approach under which a money market fund’s board would designate three (or more) NRSROs that the fund would look to for all purposes under Rule 2a-7 in monitoring whether a security held by a fund continues to be an “eligible security” for purposes of the rule. We are not pursuing this approach with regard to the rules we are amending today because Rules 5b-3 and 10f-3 require that certain standards be met
+
+53 See Section 6(c) of the Investment Company Act.
+
+54 See Section 10(f) of the Investment Company Act.
+
+55 Rule 5b-3(c)(4).
+
+56 Rule 5b-3(b). Similarly under Rule 2a-7, a money market fund may treat the acquisition of a refunded security, as defined in Rule 5b-3(c)(4), as the acquisition of the escrowed government securities for purposes of Rule 2a-7’s diversification requirements. Rule 2a-7(c)(4)(ii)(A), (B),
+
+57 Rule 5b-3(c)(4)(iii).
+
+58 See Treatment of Repurchase Agreements and Refunded Securities as an Acquisition of the Underlying Securities, Investment Company Act Release No. 25058 (July 5, 2001) [66 FR 36156 (July 11, 2001)] (“Rule 5b-3 Adopting Release”), at text accompanying n.25 (explaining that the conditions required in the definition of refunded security correspond to those in the definition of the term in Rule 2a-7); Revisions to Rules Regulating Money Market Funds, Investment Company Act Release No. 21837 (Mar. 21, 1996) [61 FR 13956 (Mar. 28, 1996)] (“Rule 2a-7 1996 Amending Release”), at Section II.D.2.
+
+59 Rule 5b-3(c)(4)(iii).
+
+60 See Technical Revisions to the Rules and Forms Regulating Money Market Funds, Investment Company Act Release No. 22921 (Dec. 2, 1997) [62 FR 64968 (Dec. 9, 1997)], at Section I.B.2.c.
+
+61 Amended Rule 5b-3(c)(4)(iii).
+
+62 Id.
+
+63 See Calvert Comment Letter (Sept. 5, 2008); Letter of Connecticut Treasurer (Sept. 4, 2008) (“Connecticut Treasurer’s Comment Letter”); Oppenheimer Comment Letter (Sept. 4, 2008).
+
+64 Although such information may not be readily available from all of these sources today, issuers, dealers, escrow agents or NRSROs are likely to provide such information to meet the needs of fund managers.
+
+65 See Investment Company Act Proposing Release, supra note 10, at text accompanying n.59. Some rating agencies require certifications that we understand meet the requirements of Rule
+
+66 The term “principal underwriter” means (in relevant part) an underwriter who, in connection with a primary distribution for securities: (1) is in privity of contract with the issuer or an affiliated person of the issuer; (2) acting alone or in concert with one or more other persons, initiates or directs the formation of an underwriting syndicate; or (3) is allowed a rate of gross commission, spread, or other profit greater than the rate allowed another underwriter participating in the distribution. 15 U.S.C. 80a-2(a)(29).
+
+67 Section 10(f) prohibits a registered fund from knowingly purchasing a security during the existence of an underwriting or selling syndicate if a principal underwriter of the security is an officer, director, member of an advisory board, investment adviser, or employee of the fund or is a person of which any such officer, director, member of an advisory board, investment adviser, or employee is an affiliated person. An affiliated person of a fund includes, among others: (1) any person directly or indirectly owning, controlling, or holding with power to vote, five percent or more of the outstanding voting securities of the fund; (2) any person five percent or more of whose outstanding voting securities are directly or indirectly owned, controlled, or held with power to vote by the fund; and (3) any person directly or indirectly controlling, controlled by, or under common control with the fund. 15 U.S.C. 80a-2(a)(3)(A), (B) and (C).
+
+68 See REPORT OF THE SEC, INVESTMENT TRUSTS AND INVESTMENT COMPANIES, H.R. DOC. NO. 279, 76th Cong., 2d Sess., pt. 3, at 2581, 2589 (1939). The sales were also used to alleviate certain of an affiliated underwriter’s financial difficulties. For example, an underwriter could benefit by rapidly turning over its securities inventory to produce working capital and to reduce the related expenses of carrying the inventory. Congress also expressed concern regarding the amount of underwriting fees earned by the sponsors and affiliated persons who placed the securities with the fund. See HEARINGS ON S.3580 BEFORE A SUBCOMMITTEE OF THE COMMISSION ON BANKING AND CURRENCY, 76th Cong., 3d Sess. 209, 212-23 (1940).
+
+69 Exemption of Acquisition of Securities During Existence of Underwriting Syndicate, Investment Company Act Release No. 2797 (Dec. 1, 1958) [23 FR 9548 (Dec. 10, 1958)]. The rule codified the conditions of orders that the Commission had granted prior to 1958 exempting certain funds
+
+70 See Rule 10f-3(c)(2) (also providing an exception from the pricing provision for rights offerings required by law in certain foreign offerings).
+
+71 See Rule 10f-3(c)(6).
+
+72 See Rule 10f-3(c)(9).
+
+73 Rule 10f-3(c)(1)(iii). See Exemption of Acquisition of Securities During the Existence of Underwriting Syndicate, Investment Company Act Release No. 10736 (June 14, 1979) [44 FR 36152 (June 20, 1979)] (“Rule 10f-3 1979 Adopting Release”).
+
+74 Rule 10f-3(a)(3). As noted above, an investment grade debt security is a security that has been rated in one of the four highest categories by at least one NRSRO. See supra text following note 22.
+
+75 See Rule 10f-3 1979 Adopting Release, supra note 73; Exemption of Acquisition of Securities During the Existence of Underwriting Syndicate, Investment Company Act Release No. 10592 (Feb. 13, 1979) [44 FR 10580 (Feb. 21, 1979)], at Section B.2.
+
+76 See Investment Company Act Proposing Release, supra note 10, at Section III.D.
+
+77 See id. at Section III.
+
+78 See supra note 50 and accompanying text; Schwab Comment Letter; Calvert Comment Letter; SIFMA Comment Letter.
+
+79 See CFA Institute Comment Letter.
+
+80 Id.
+
+81 See, e.g., Independent Trustees of Fidelity Fixed-Income Funds Comment Letter (Oct. 3, 2008) (“Fidelity Independent Trustees Comment Letter”); SIFMA Comment Letter; Realpoint Comment Letter (Aug. 14, 2008).
+
+82 See Fidelity Independent Trustees Comment Letter; SIFMA Comment Letter. SIFMA also asserted that the proposed amendment would provide “little added benefit while creating substantial market uncertainty.”
+
+83 For a discussion of the proposed amendments to Rule 10f-3, see Investment Company Act Proposing Release, supra note 10, at Section III.D.
+
+84 The amended rule defines “eligible municipal securities” to mean “‘municipal securities’ as defined in Section 3(a)(29) of the [Exchange Act], that are sufficiently liquid such that they can be sold at or near their carrying value within a reasonably short period of time and either (i) [a]re subject to no greater than moderate credit risk; or (ii) [i]f the issuer of the municipal securities, or the entity supplying the revenues or other payments from which the issue is to be paid, has been in continuous operation for less than three years, including the operation of any predecessors, the securities are subject to a minimal or low amount of credit risk.” Amended Rule 10f-3(a)(3).
+
+85 As discussed above, some commenters expressed concerns about a possible lack of consistency among funds as to what constitutes an “eligible municipal security” under the amended rule. See supra note 82 and accompanying text. Those commenters did not specify whether such lack of consistency might directly affect funds or investors, or might affect the municipal securities markets in an indirect way. We believe that funds’ determinations as to whether particular
+
+86 A municipal security (or its issuer) subject to a moderate level of credit risk would present average creditworthiness relative to other municipal or tax exempt issues or issuers. Moderate credit risk also would denote current low expectations of default risk, with an adequate capacity for payment of principal and interest. Municipal securities subject to minimal or low credit risk would be less susceptible to default risk (i.e., have a low risk of default) than those with moderate credit risk. These securities (or their issuers) also would demonstrate a strong capacity for principal and interest payments and present above-average creditworthiness relative to other municipal or tax exempt issues (or issuers).
+
+87 See M. DAVID GELFAND, STATE AND LOCAL GOVERNMENT DEBT FINANCING § 8:72 (2nd. ed. 2007) (noting that municipal securities trade largely on the basis of creditworthiness).
+
+88 See Rule 10f-3(c)(10)(i)-(iii). See also Rule 10f-3 1979 Adopting Release, supra note 73 (“[T]he
+
+89 Rule 10f-3(c)(10); Investment Company Act Proposing Release, supra note 10, at n.69 and accompanying text.
+
+90 See amended Rule 10f-3(a)(3), (c)(10)(i).
+
+91 See Investment Company Act Proposing Release, supra note 10, at Section VI.A.
+
+92 When a fund’s determination with regard to a security departs from ratings provided by NRSROs (including ratings by “unsolicited” NRSROs), the board may choose to require in its policies and procedures that the fund document the rationale underlying the determination. See Realpoint Comment Letter (recommending that the Commission require that a fund document when its determinations differ from those of “unsolicited” NRSROs). We are not adopting such a requirement because we believe the board should make the determination regarding the extent to which it will rely on the rating of any NRSRO as an appropriate indication of credit quality or liquidity.
+
+93 See supra note 82 and accompanying text. The ability to rely on outside assessments also addresses to some extent the concerns expressed by one commenter about market uncertainties. See SIFMA Comment Letter. Any remaining increase in uncertainty (for funds and their shareholders) that results from the exercise of discretion by funds and their advisers in determining which municipal securities to purchase under the amended rule, is an inherent corollary of the flexibility added by the rule amendments. We also note, with regard to concerns about transparency, that investors and fund analysts will continue to have access to information about the securities that funds hold and have purchased in reliance on rule 10f-3. See Form
+
+94 44 U.S.C. 3501 et seq.
+
+95 5 CFR 1320.5(g).
+
+96 See Exchange Act Proposing Release, 73 FR at 40097.
+
+97 5 CFR 1320.5(g).
+
+98 44 U.S.C. 3501 et seq.
+
+99 44 U.S.C. 3501-3520.
+
+100 See supra notes 83-84 and accompanying text.
+
+101 Rule 10f-3(c)(10).
+
+102 See Submission for OMB Review, Comment Request, Rule 10f-3 [73 FR 13263 (Mar. 12, 2008)].
+
+103 See Investment Company Act Proposing Release, supra note 10, at Section V.B.
+
+104 See supra note 82 and accompanying text.
+
+105 See supra text accompanying note 85.
+
+106 See supra note 93 and accompanying text. These concerns were expressed with respect to the proposed amendments generally, and commenters did not provide any estimates of the increased burden that boards might incur under the proposed amendments.
+
+107 We do not anticipate the revised procedures would require an increase in the current estimated time the board spends each quarter to review acquisitions of securities for compliance with Rule 10f-3.
+
+108 These estimates are based on the following calculations: 350 fund boards x 2 hours = 700 hours; 700 hours x $4000 = $2,800,000. The estimate for the hourly cost for a fund board is based on an average board size of 8 directors and a cost of $500 per hour for each director.
+
+109 This estimate is based on the following calculation: 350 fund boards x 0.67 hours = 234.5 hours.
+
+110 See Investment Company Act Proposing Release, supra note 10, at Section VII.
+
+111 See, e.g., Oppenheimer Comment Letter (“a subjective standard is difficult to apply, difficult to test for compliance, and causes uncertainty regarding enforcement”).
+
+112 See, e.g., SIFMA Comment Letter; Comment Letter of Institutional Money Market Funds Ass’n (Sept. 5, 2008).
+
+113 See supra Section II.A.2.
+
+114 Amended Rule 5b-3(c)(4).
+
+115 See, e.g., Calvert Comment Letter.
+
+116 See, e.g., Connecticut Treasurer’s Comment Letter.
+
+117 See supra text preceding note 64.
+
+118 See supra note 64 and accompanying text.
+
+119 See supra note 65 and accompanying text.
+
+120 See Investment Company Act Proposing Release, supra note 10, at text preceding n.107.
+
+121 See, e.g., Fidelity Independent Trustees Comment Letter (“The proposed standards, given their emphasis on judgment, would likely increase the time and costs devoted to that oversight.”).
+
+122 Rule 10f-3(c)(10)(i), (iii).
+
+123 See supra text following note 102.
+
+124 See supra text accompanying note 106. These commenters did not provide any estimates of the increased burden that boards might incur under the proposed amendments.
+
+125 This is based on the following calculation: 350 funds x 2 hours x $4000 per hour of board time =
+
+126 As discussed above, we believe that funds’ determinations as to whether particular securities meet the amended rule’s standards of credit quality and liquidity will be sufficiently consistent for the purposes that Rule 10f-3 was adopted to promote, i.e., the protection of funds and their investors from the purchase of unmarketable securities. See supra note 85. With regard to concerns about transparency, we note that investors and fund analysts will continue to have access to information about the securities that funds hold and have purchased in reliance on Rule 10f-3. See supra note 93.
+
+127 See 1997 Rule 10f-3 Adopting Release, supra note 88, at text following n.51.
+
+128 15 U.S.C. 78c(f).
+
+129 15 U.S.C. 78w(a)(2).
+
+130 See supra Section II.A.4.
+
+131 15 U.S.C. 80a-2(c).
+
+132 See Investment Company Act Proposing Release, supra note 10, at Section VII.
+
+133 5 U.S.C. 603(a).
+
+134 5 U.S.C. 605(b).
+
+135 17 CFR 240.17a-5(d).
+
+136 See 17 CFR 240.0-10(c).
+
+137 See 17 CFR 242.301(b)(1).
+
+138 5 U.S.C. 605(b).
+
+139 17 CFR 270.0-10.
+
+140 See supra Section II.A.1.
+
+141 Amended Rule 5b-3(c)(4)(iii).
+
+142 Amended Rule 10f-3(a)(3).
+
+143 See supra note 64 and accompanying text.
+
+144 See supra note 65 and accompanying text.

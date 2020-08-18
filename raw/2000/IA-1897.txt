@@ -1,0 +1,519 @@
+https://www.sec.gov/rules/final/ia-1897.htm
+
+	I.0.0.0: I. DISCUSSION
+
+		I.B.0.0: B. Transition to Electronic Filing
+
+			I.B.3.0: 3. Hardship Exemptions
+
+			I.B.4.0: 4. Setting Up an IARD Account
+
+			I.B.5.0: 5. Getting Help.
+
+		I.C.0.0: C. Amendments to Form ADV
+
+			I.C.1.0: 1. Part 1 of Form ADV
+
+			I.C.2.0: 2. Part 2 of Form ADV
+
+	II.0.0.0: II. EFFECTIVE DATE
+
+	III.0.0.0: III. COST-BENEFIT ANALYSIS
+
+	IV.0.0.0: IV. PAPERWORK REDUCTION ACT
+
+		IV.A.0.0: A. Need for the Rule and Form Amendments
+
+		IV.B.0.0: B. Significant Issues Raised by Public Comment
+
+		IV.C.0.0: C. Small Entities Subject to the Rules
+
+			IV.C.1.0: 1. Electronic Filing Requirements
+
+			IV.C.2.0: 2. Amendments to Form ADV
+
+		IV.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VI.0.0.0: VI. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Electronic Filing by Investment Advisers; Amendments to Form ADV 
+
+ 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+
+ 17 CFR Parts 200, 275, and 279 
+
+ Release No. IA-1897; 34-43282; File No. S7-10-00 
+
+ RIN 3235-AD21 
+
+ Electronic Filing by Investment Advisers; Amendments to Form ADV 
+
+ AGENCY: Securities and Exchange Commission. 
+
+ ACTION: Final rule. 
+
+ SUMMARY: The Commission is adopting new rules and rule amendments under the Investment Advisers Act of 1940 to require that advisers registered with the Commission make filings under the Act with the Commission electronically through the Investment Adviser Registration Depository (IARD). The Commission is also adopting amendments to Forms ADV and ADV-W that prepare those forms for electronic filing. The new rules implement our statutory mandate to create a one-stop electronic filing system for investment advisers and to provide investors with a readily accessible database of information about investment advisers and persons associated with investment advisers. 
+
+ EFFECTIVE DATE: October 10, 2000. The transition to electronic filing, beginning in January 2001, is discussed in Section I.B of this Release. 
+
+ FOR FURTHER INFORMATION: Visit the IARD page on our website at www.sec.gov/divisions/investment/iard.shtml , or email . Or contact Jennifer B. McHugh, Special Counsel, or Jennifer L. Sawin, Special Counsel, at (202) 942-0691, Office of Investment Adviser Regulation, Division of Investment Management, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-0506. We urge interested persons with access to the Internet to review information about the IARD and the new rules on our website before contacting our staff. 
+
+ SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to rules 30-5 and 30-11 of the SEC's Organization and Program Management rules [17 CFR 200.30-5 and 200.30-11], new rule 203-3 and Form ADV-H; adopting amendments to rules 0-2, 0-7, 203-1, 203-2, 203A-1, 203A-2, and 204-1 [17 CFR 275.0-2, 275.0-7, 275.203-1, 275.203-2, 275.203A-1, 275.203A-2, and 275.204-1]; and Form ADV, Form ADV-W, and Form 4-R [17 CFR 279.1, 279.2, and 279.4] under the Investment Advisers Act of 1940 [15 U.S.C. 80b-1] (the Advisers Act or the Act). The Commission also is withdrawing rule 204-5 [17 CFR 275.204-5] and Forms 5-R, 6-R, 7-R, and ADV-Y2K [17 CFR 279.5, 279.6, 279.7, and 279.9] under the Advisers Act.
+
+<END HEADER>
+
+<h>EXECUTIVE SUMMARY </h>
+
+The Commission is adopting new rules and rule amendments under the Advisers Act to require registered investment advisers to make filings with us electronically through the Investment Advisers Registration Depository (IARD). The IARD, which will be operated by NASD Regulation, Inc. (NASDR), will permit investment advisers to satisfy their filing obligations under state and federal law with a single electronic filing made over the Internet.
+
+ 
+
+We are also amending Forms ADV and ADV-W to update the forms and prepare them for electronic filing. The amendments to Form ADV primarily affect Part 1 of the form. We are deferring, for later consideration, adoption of amendments to Part 2 of Form ADV and related rules.
+
+ 
+
+An applicant for registration as an adviser after January 1, 2001 must submit its application electronically through the IARD using amended Form ADV. Advisers registered with the Commission must transition to electronic filing by submitting amendments to their Form ADVs through the IARD during the first four months of 2001 in accordance with a transition schedule we are today adopting. After April 2001, the Commission will no longer accept paper filings of Form ADV unless the adviser has been granted a hardship exemption. 
+
+ I. DISCUSSION 
+
+In April, the Commission proposed amendments to the filing rules under the Advisers Act as well as amendments to Forms ADV and ADV-W.<SUP> 1 </SUP> We received over 70 comments on the proposed rules.<SUP> 2 </SUP> Commenters overwhelmingly supported electronic filing by advisers. Today we are adopting those amendments, but are deferring adoption of amendments to Part 2 of Form ADV for reasons we describe below.<SUP> 3 </SUP> 
+
+ 
+
+ A. The Investment Adviser Registration Depository 
+
+ 
+
+The Commission and the state securities authorities have created an electronic filing system, the IARD, through which investment advisers will make filings with us and the states over the Internet. NASDR is building and will operate the IARD under contracts with the Commission and the North American Securities Administrators Association (NASAA).<SUP> 4 </SUP> NASDR will be responsible for certain ministerial tasks as operator of the IARD, but will not act as a self-regulatory organization for advisers.<SUP> 5 </SUP> 
+
+The IARD will be "rolled out" in a series of releases beginning early next year. 
+
+ 
+
+ SEC-Registered Adviser Filings . Firms registered or applying for registration with us will use the IARD to file Forms ADV and ADV-W beginning in January 2001.<SUP> 6 </SUP> We have approved a schedule of filing fees that NASDR will charge to support operation of the system,<SUP> 7 </SUP> and are today adopting rules requiring all advisers to transition to electronic filing during the first four months of 2001.<SUP> 8 </SUP> These rules and the transition schedule are described in more detail in Section I.B of this Release. 
+
+SEC-registered advisers will be able to make notice filings to, and submit filing and other fees to, the states through the IARD after January 1, 2001. The IARD will automatically calculate the amount of the fees due and will remit funds to the states.<SUP> 9 </SUP> SEC-registered advisers will need to fund their IARD accounts with NASDR because the IARD will not accept filings if there are insufficient funds on account to pay IARD filing fees and state fees. We discuss setting up an IARD account in Section I.B.4 of this Release. 
+
+ 
+
+ State-Registered Adviser Filings .<SUP> 10 </SUP> In January 2001, the IARD will also be ready to accept filings of state-registered advisers. State-registered advisers will pay IARD filing fees based on the same schedule as SEC-registered advisers. We understand that all states will accept filing of Forms ADV and ADV-W through the IARD and that some states may require state-registered advisers to use the IARD. State-registered advisers that are unsure of the requirements of a state in which they are registered should contact the state securities authority. 
+
+ 
+
+ Public Access . The information filed through the IARD will form a database of information on advisers. Investors will be able to search the IARD database using the name of the adviser or an individual and obtain access to current information filed on Form ADV. We expect the public disclosure component of the IARD to begin operating in mid-2001. In later system releases we hope to be able to expand the search capabilities of the public access system so that investors may be able to search for an adviser that meets certain other criteria , e.g ., search for all advisers that provide financial planning services and have offices in a particular state. 
+
+In the Proposing Release, we explained that we would block Internet access to social security numbers and sole proprietors' home addresses reported on Form ADV.<SUP> 11 </SUP> As urged by some commenters, we will also block Internet disclosure of all private residence addresses identified in the form,<SUP> 12 </SUP> as well as "contact employee" information reported on the form.<SUP> 13 </SUP> 
+
+ 
+
+ Investment Adviser Representative Filings . Advisers will also be able to use the IARD for investment adviser representative license filings and renewals and to pay fees associated with those filings. This portion of the system will not be operational until later in 2001. Because we do not separately register or license advisers' employees, we have not been involved in development or deployment of this part of the IARD. 
+
+ 
+
+ Part 2 of Form ADV . The IARD will, in a later system release, accept Part 2 of Form ADV. As noted above, the Commission is not now adopting amendments to Part 2. Until we adopt revisions, advisers must continue to deliver "old" Part II to prospective clients and annually offer them to clients under our brochure rule.<SUP> 14 </SUP> As proposed, we will not require advisers to submit Part II of Form ADV to us until the IARD is able to accept advisers' brochures electronically.<SUP> 15 </SUP> Under the rules we are adopting, however, Part II will be considered filed with us during this interim period.<SUP> 16 </SUP> We discuss Part II and the interim rules in Section I.C.2 of this release.<h>B. Transition to Electronic Filing </h>
+
+ 
+
+The Commission is adopting, substantially as proposed, amendments to our filing rules to implement electronic filing and create a transition process for advisers currently filing with the Commission on paper. The following sections describe the revised requirements both for applicants for registration under the Advisers Act and for current registrants. Additional guidance may be found in the revised instructions to Form ADV and our web site.
+
+ 
+
+ 1. Applicants For Registration as an Investment Adviser 
+
+ 
+
+Persons applying for registration with the Commission as an investment adviser after January 1, 2001 must file Form ADV, as amended, through the IARD.<SUP> 17 </SUP> Paper filings on Form ADV will be accepted only if the person has obtained a hardship exemption, described below.<SUP> 18 </SUP>
+
+ 
+
+ 2. Advisers Currently Registered with the Commission 
+
+ 
+
+Each adviser registered with the Commission on January 1, 2001 must re-file its Form ADV with us through the IARD, using amended Form ADV, during one of the first four months of 2001.<SUP> 19 </SUP> All subsequent amendments must be made electronically, and if the adviser should withdraw its registration, Form ADV-W must be filed electronically.<SUP> 20 </SUP> 
+
+To facilitate a smooth transition to electronic filing, we have assigned each adviser registered with us to one of four groups. Members of each group must file amendments to their registration forms by the end of one of the first four months of 2001.<SUP> 21 </SUP> They must use revised Form ADV, and must file electronically through the IARD unless they have obtained a hardship exemption. We have assigned each adviser with a fiscal year ending in December to one of the first three months by reference to its SEC filing number,<SUP> 22 </SUP> which will permit those advisers to use the transitional filing to also satisfy their annual updating requirement under our rules.<SUP> 23 </SUP> We have assigned advisers having fiscal years ending in months other than December to the group that must file no later than the last day of April 2001.<SUP> 24 </SUP><h>3. Hardship Exemptions </h>
+
+ 
+
+An adviser may request one of two types of hardship exemptions by submitting Form ADV-H (on paper) to NASDR.<SUP> 25 </SUP> A temporary hardship exemption permits the adviser to extend the deadline for a filing for seven business days if unexpected difficulties, such as a computer malfunction or electrical outage, prevent it from filing.<SUP> 26 </SUP> The temporary hardship exemption is available automatically upon filing Form ADV-H. A continuing hardship exemption is available only to an adviser that is a "small business" and can demonstrate that filing electronically would create an undue hardship ( e.g ., the adviser has no computer and is unable to afford a filing service).<SUP> 27 </SUP> Although advisers requesting a continuing hardship exemption will submit Form ADV-H to NASDR, the decision whether to grant an exemption will be made by the Commission.<SUP> 28 </SUP><h>4. Setting Up an IARD Account </h>
+
+ 
+
+In order to file electronically, an adviser must first request and obtain access to the IARD and set up an IARD account with NASDR. This fall, we will mail each SEC-registered adviser the forms and instructions needed to set up an IARD user account with NASDR. Advisers must complete these forms, sign them, and mail them back to NASDR. NASDR will then create the adviser's IARD account for fee payments, assign the adviser a CRD number,<SUP> 29 </SUP> and issue passwords for the adviser's authorized personnel. NASDR will also provide the adviser with instructions on funding its IARD billing account; the adviser must fund its IARD billing account by check or wire transfer before it can make an electronic filing through the IARD.<SUP> 30 </SUP><h>5. Getting Help. </h>
+
+ 
+
+We designed the IARD with the assistance of an advisory industry committee whose members represented different types of advisory firms. The committee helped us design the IARD to be easy for advisers to use. Under a pilot program, scheduled to begin next month, a small group of advisers will make filings through the IARD to test the system. Persons completing Form ADV on the IARD will be able to use an on-line help function that our staff will update from time to time with answers to frequently asked questions. We recognize, however, that the IARD and our rule amendments may raise questions for persons filing for the first time. Our staff and the staff of NASDR will provide assistance to advisers during this transition period. We have created a page on our web site to provide information to advisers about electronic filing.<SUP> 31 </SUP> We will use the IARD web page to post copies of forms, instructions on gaining IARD access, instructions on how to make an electronic filing, and answers to frequently asked questions about the IARD and electronic filing. We have established a hot line to answer questions,<SUP> 32 </SUP>and the NASDR will operate a help desk for advisers.<SUP> 33 </SUP> Before calling, we urge advisers and their personnel to consult the instructions to Form ADV and our web site.<h>C. Amendments to Form ADV </h>
+
+ 
+
+Form ADV consists of two parts. The first part asks for information about the adviser and persons associated with the adviser, which provides us with information we need to make registration decisions and manage our regulatory and examinations program. The second part contains the requirements for a written statement that advisers must provide to prospective clients and annually offer to clients under our rules.<SUP> 34 </SUP><h>1. Part 1 of Form ADV </h>
+
+ 
+
+We proposed substantial revisions to Part 1 to accommodate electronic filing, and to reflect changes in the advisory industry and the laws regulating investment advisers.<SUP> 35 </SUP> We proposed to reorganize Part 1 using simpler language, and introduce the items with brief explanations of why we need the information. We proposed substantial revisions to the schedules to Part 1, on which advisers must provide information about control persons and details about disciplinary events. Finally, we proposed to divide Part 1 further into two parts, segregating those items to which all advisers must respond (Part 1A) from those additional items to which only state-registered advisers must respond (Part 1B).<SUP> 36 </SUP> 
+
+Many of the commenters on Part 1A requested technical changes or suggested that we clarify some of the language. These comments have led us to make several minor changes to the Instructions, Glossary of Terms,<SUP> 37 </SUP> and Items<SUP> 38 </SUP> that we believe improve the form. The most significant changes we proposed to Part 1A involved Item 11, which requires disclosure of disciplinary information about the adviser and certain of its advisory personnel. We are adopting this item substantially as proposed with one ch ange urged by commenters. 
+
+Item 11 requires that each adviser responding affirmatively to a disciplinary question complete a Disclosure Reporting Page (DRP). Part 1A has three DRPs, one each for criminal, civil, and regulatory actions. Advisers must complete a separate DRP for each reported event; the DRPs elicit details regarding the disciplinary events in a structured format and replace current Schedules D and E. Item 11 includes an expanded list of disciplinary events that must be reported on a DRP. Advisers must now report actions of foreign courts and regulatory authorities ,<SUP> 39 </SUP> cease-and-desist orders issued by the Commission ,<SUP> 40 </SUP> and military court convictions, misdemeanor perjury convictions, and convictions for conspiracy to commit certain offenses.<SUP> 41 </SUP> Advisers must only report disciplinary events occurring within the last ten years,<SUP> 42 </SUP> and, by checking a box on the appropriate DRP, advisers can remove from their current Form ADV disciplinary events reported for advisory affiliates no longer associated with the firm.
+
+ 
+
+We proposed to expand the current requirement that advisers report certain pending criminal proceedings to require disclosure of any felony charges, and certain misdemeanor charges, brought against the adviser or an advisory affiliate during the preceding ten years. Many commenters opposed this change, pointing out that it would require disclosure even when the charges were later dropped or the person acquitted. 
+
+ 
+
+We have decided to require SEC-registered advisers to disclose only pending charges, as currently required by the form.<SUP> 43 </SUP><h>2. Part 2 of Form ADV </h>
+
+ 
+
+As noted above, we are deferring adoption of amendments to Part 2 of Form ADV. Deferment will allow us time to fully consider the many comments we received on our proposed revisions to Part II. We have left the (old) form, Part II, in place and are also retaining the current rules on delivery of old Part II. As a result, advisers must continue to provide prospective clients with (old) Part II of Form ADV or a brochure containing at least the same required information.<SUP> 44 </SUP> Advisers also must maintain an updated copy of their (old) Part II in their files, and must provide it to the Commission staff upon request. However, we are not requiring advisers to submit these documents to us until we have acted on the Part 2 amendments and the IARD is ready to accept (new) Part 2 brochures electronically.<SUP> 45 </SUP> We will notify advisers when the IARD is ready and will provide a grace period before advisers are required to file (new) Part 2 brochures. 
+
+A consequence of our decision not to require an adviser to submit its old Part II of Form ADV to us during this interim period is that our updating requirements will no longer apply.<SUP> 46 </SUP> However, under the Advisers Act's anti-fraud rules, advisers are prohibited from materially misleading their clients, and thus have an obligation not to provide their clients with a materially misleading Part II or brochure.<SUP> 47 </SUP> Therefore, even though our updating rules may no longer apply, an adviser continues to have an obligation to update the disclosure it provides to clients to avoid misleading them.<SUP> 48 </SUP><h>II. EFFECTIVE DATE </h>
+
+The effective date for the rules and rule amendments is October 10, 2000. Under the Administrative Procedure Act, we may establish an effective date less than 30 days after the publication of these rules if we find good cause to do so.<SUP> 49 </SUP> Mandatory filing through the IARD system will not begin until January 1, 2001. Until January 1, 2001, the rules will only affect the approximately 100 advisers that have volunteered to participate in the IARD's pilot program and submit their Form ADV through the system before mandatory filing begins. Due to the voluntary nature of use of the new system until January 1, 2001, no investment advisers will be disadvantaged by effectiveness of these rules with less than 30 days' notice.<h>III. COST-BENEFIT ANALYSIS </h>
+
+In the Proposing Release, we carefully analyzed the costs and benefits of our proposals and requested comment and data regarding the costs and benefits of the rule and form amendments on individual advisers and on the industry as a whole. As noted above, most commenters strongly favored electronic filing and several asserted that electronic filing would result in efficiencies and would ease the regulatory burden on advisers. Others, however, disagreed with our cost-benefit analysis in the Proposing Release, and felt that the benefits of electronic filing would not justify the overall costs.<SUP> 50 </SUP> 
+
+After reviewing the comments, and evaluating information about the potential costs and benefits that has come to our attention since we proposed these rules, we have concluded that the benefits of electronic filing and the related rule amendments justify their costs. 
+
+ 
+
+ Costs . The amendments implement electronic filing through the IARD. As we discussed in the Proposing Release, electronic filing will impose certain costs on advisers. Advisers will need to become familiar with the IARD and will pay filing fees to NASDR. Since we published our proposals, we have approved NASDR's schedule of filing fees, and the costs our rules will impose on advisers have become clearer. Annual filing fees will range from $100 for advisers with less than $25 million of assets under management to $550 for advisers with more than $100 million of assets under management. We estimate that advisers registered with us will annually pay $2.5 million in filing fees. 
+
+The amendments revise Forms ADV and ADV-W. We believe SEC-registered advisers will experience few additional costs in completing revised Part 1. The only additional information that new Part 1A requires is information that should be readily available to an adviser. We do not believe the revisions to Form ADV-W impose additional costs on advisers. 
+
+ 
+
+ Benefits . We believe that electronic filing will yield substantially greater benefits to advisers and to investors, including allowing us to establish the public access system that Congress mandated in NSMIA.<SUP> 51 </SUP> 
+
+Electronic filing will eliminate many costs advisers currently incur in filing their Form ADV. Today, advisers must prepare registration materials on paper, copy them, and submit the paper copies to both the SEC and states. Many of these paper copies must be manually signed and notarized. Correcting a mistake requires the adviser to repeat the entire process. The IARD, in contrast, will permit the adviser to satisfy all of its filing obligations by submitting a single electronic filing prepared using a personal computer in its office. On the IARD, an adviser will be able to correct mistakes by simply typing over incorrect information and re-sending the electronic submission.<SUP> 52 </SUP> Today, advisers must determine the amount of filing fees due to each state, prepare checks and mail them so that they are delivered in a timely manner.<SUP> 53 </SUP> Errors can result in penalties or cause disruptions in business. The IARD, in contrast, will eliminate these costs by automatically determining the amount of filing fees owed and debiting the adviser's account when those fees are due. We believe these benefits will justify the filing fees and other expenses for advisers registered with the Commission.<SUP> 54 </SUP> 
+
+Revised Form ADV and the IARD system also benefit advisers by offering additional ways to reduce costs. An adviser may save a partially completed form as a "draft" that the adviser can access and complete at a later time. An on-line glossary allows advisers' personnel to refer to explanations of key terms while completing Form ADV, and an on-line "help" function answers frequently-asked questions and provides guidance on completing the form.<SUP> 55 </SUP> When an adviser prepares an amendment to its Form ADV, the IARD will fill in most of the items from the adviser's previous IARD filings, reducing the adviser's time (and therefore expense) in completing the amendment. Further, the IARD will allow advisers that also are registered as broker-dealers to complete schedules to their Form ADV by "linking" to parallel responses in their Form BD already on file.<SUP> 56 </SUP> These firms should recognize additional cost savings by avoiding entering certain data twice. 
+
+We have adopted a continuing hardship exemption, considering that not all advisers may have Internet access. We have provided the exemption for advisers that are small businesses and are unable to file through the IARD without undue burden and expense.<SUP> 57 </SUP> 
+
+The IARD also has the potential to speed the registration process for investment adviser representatives of SEC-registered advisers. Registration of investment adviser representatives on the IARD will be a matter for state securities authorities; we do not register or license investment adviser representatives. Our experience with the CRD system, however, provides an analogy. Our understanding of how broker-dealer agent filings on the CRD system are processed suggests that electronic filings on the IARD for investment adviser representatives are likely to be more efficient and cost effective than the current system of paper filings. 
+
+Electronic filing also will produce substantial benefits for investors. First, and most important, the information on these filings will be available for investors to view, quickly and without cost, on a web site.<SUP> 58 </SUP> Investors will be able to determine, for example, whether a prospective adviser has reported disciplinary events, what types of fees it charges, and whether the types of advisory services it offers are designed to meet their needs. As a result, investors - clients and potential clients -- will be in a better position to make informed decisions. 
+
+The added "sunlight" the web disclosure will shine on advisers may have additional, secondary benefits. Information from advisers' filings will be available through a web site, and easy availability of information about advisers and advisory affiliates may, for example, discourage advisers from engaging in certain practices or hiring certain persons (such as those with a disciplinary history or limited qualifications). Facilitating investors' access to information may also result in greater competition among advisers, which may in turn lower prices or encourage the development of different fee structures or different kinds of services that may benefit clients. These types of benefits are difficult to isolate or to quantify, but our experience is that they are real and are often the result of better disclosure. 
+
+Electronic filing will also give us better access to information about advisers to administer our regulatory programs. We expect this information will permit us to increase both the efficiency and effectiveness of our programs and thus increase investor protection. The IARD will permit us to better monitor advisers' failure to make required filings, identify advisers whose activities suggest a need for closer scrutiny, and manage our regulatory programs. The IARD will generate reports on the industry, its characteristics and trends. These reports will help us anticipate regulatory problems, allocate and reallocate our resources, and more fully evaluate and anticipate the implications of various regulatory actions we may consider taking. 
+
+The revisions to Form ADV are also likely to benefit advisers. We have re-drafted Part 1A in plain English, improved its organization, and added instructions to clarify some items. The revised schedules make it much simpler for an adviser to provide information about its control persons.<SUP> 59 </SUP> While smaller advisers may find these benefits limited, larger advisers (particularly advisers that are part of a larger, more intricate corporate structure) should see cost savings from the changes. The new Disclosure Reporting Pages (DRPs) require substantially more detailed information about disciplinary events than is specified in the current form, but the DRPs should serve mainly to clarify existing disclosure obligations, which are worded more generally.<SUP> 60 </SUP> Moreover, we are only requiring advisers to report disciplinary events occurring in the past ten years,<SUP> 61 </SUP> and have removed information about the educational and business background of employees. We believe these changes will justify any additional costs associated with amendments to Part 1A. 
+
+Advisers will also benefit from the revisions to Form ADV-W. In amended Form ADV-W, the adviser must complete only those items needed to process its withdrawal. Form ADV-W will also become effective immediately, rather than after a sixty-day "waiting period," thereby smoothing the transition period for advisers switching to state registration.<h>IV. PAPERWORK REDUCTION ACT </h>
+
+As explained in the Proposing Release, the rule and form amendments (including new rule 203-3 and new Form ADV-H) that we are adopting today contain several "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995. In the Proposing Release, the Commission published notice soliciting comment on the collection of information requirements. The Commission submitted the collection of information requirements to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11.<SUP> 62 </SUP> An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. To correct an error in the proposed collection of information for Form ADV, the Commission has submitted a PRA change worksheet to OMB. Modifications made to the amendments as proposed do not affect the collection of information. 
+
+We use the information we require from advisers to determine eligibility for registration with us, as well as in managing our regulatory, examinations, and enforcement programs. The information will also form a database, easily accessible to investors, about advisers and their personnel.
+
+ 
+
+ Form ADV 
+
+ 
+
+As amended, rule 203-1 requires every applicant for investment adviser registration with the Commission to file Form ADV through the IARD. Rule 204-1 requires each registered adviser to file amendments to Form ADV through the IARD at least annually,<SUP> 63 </SUP> and requires currently registered advisers to transition to the IARD and the revised form. We expect the efficiencies of filing through the IARD to, over time, reduce the initial burdens associated with completing the revised Form ADV. 
+
+The total burden for all advisers filing current Form ADV is 19,448 hours.<SUP> 64 </SUP> There are currently approximately 8,100 advisers registered with us, and, based on recent experience, the Commission staff has now estimated that each year we receive approximately 1,000 new applications for registration as an adviser. As discussed in the Proposing Release, this increase in the number of respondents has increased the collection of information by 3,703 hours, independent of today's amendments.<SUP> 65 </SUP> 
+
+The revised burden estimate for the collection of information on Form ADV reflects the amendments to the form as well as the requirement that currently-registered advisers re-file their Form ADV electronically in order to transition to use of the revised form and IARD system. The revised collection of information also incorporates the burden of current Schedule I to Form ADV.<SUP> 66 </SUP> 
+
+The Commission staff had estimated an average burden increase for Form ADV of 1.47 hours per adviser per year for a 15-year period.<SUP> 67 </SUP> This burden increase reflected new registrants' filings of revised Form ADV as well as currently-registered advisers' IARD transition filings. Several commenters expressed concerns that the estimates for initial completion of revised Form ADV were too low, particularly for large firms.<SUP> 68 </SUP> The estimated hours are averages that take into consideration small advisers as well as those with thousands of employees. 
+
+The Commission has submitted a PRA change worksheet to OMB to correct an error in the collection of information, which error may have contributed to commenters' concerns. The increase in burden due to the amendments was presented as the total burden of the collection of information, omitting reference to the current burden to which the incremental hours were added. 
+
+As discussed in the Proposing Release, the Commission staff has estimated that advisers will file a total of 13,250 Form ADV amendments with us each year.<SUP> 69 </SUP> We anticipate that electronic filing will reduce the information collection burden of filing an amendment to Form ADV by approximately thirty percent,<SUP> 70 </SUP> and the estimated burden for Form ADV amendments is 9,938 hours per year.<SUP> 71 </SUP> 
+
+The collection of information burden due to rulemaking for advisers to file and complete the revised Form ADV is approximately 23,315 hours per year.<SUP> 72 </SUP> The total increase in the collection of information burden therefore is 27,018 hours,<SUP> 73 </SUP> and the total collection of information burden for Form ADV is therefore 46,466 hours.<SUP> 74 </SUP> 
+
+This collection of information appears at 17 CFR 275.203-1, 275.204-1, and 279.1. Responses are not kept confidential. The information collection requirements are required for all advisers registered with us or applying for registration after January 1, 2001. 
+
+ 
+
+ Form ADV-W and Rule 203-2 
+
+ 
+
+The Commission is amending rule 203-2 to (i) require advisers to file Form ADV-W through the IARD and (ii) make adviser withdrawals effective upon filing.<SUP> 75 </SUP> The Commission is also amending Form ADV-W to permit advisers filing for "partial withdrawals" to omit certain items that we do not need from an adviser continuing in business as a state-registered adviser. The Commission staff has estimated that approximately 50 percent of advisers filing for withdrawal will file for full withdrawal, incurring a burden of approximately 0.75 hours (45 minutes) per response, and the remaining 50 percent will file for partial withdrawal, incurring a burden of approximately 0.25 hours (15 minutes) per response. The weighted average total time for each respondent to complete Form ADV-W as amended is estimated to be 0.5 hours (30 minutes), a decrease from the one hour required for the current form. Based on the Commission's recent experience in processing investment adviser withdrawals, however, the Commission staff has estimated that approximately 1,300 advisers withdraw from SEC registration each year, which is an increase from the current burden.<SUP> 76 </SUP> The total collection of information burden is estimated to be 650 hours.<SUP> 77 </SUP> 
+
+This collection of information is found at 17 CFR 275.203-2 and 17 CFR 279.2. Responses are not kept confidential. The information collection requirements are required for all advisers registered with the Commission once the transition period to electronic filing is complete.
+
+ 
+
+ Rule 0-2 and Form ADV-NR 
+
+ 
+
+The Commission is amending rule 0-2, adding Form ADV-NR, and deleting Forms 4-R, 5-R, 6-R and 7-R. Rule 0-2 permits service of process on non-resident advisers and on non-resident general partners or managing agents of advisers by service on their agents. The amended Form ADV execution page for non-resident advisers incorporates the substance of Forms 4-R through 6-R, and designates the Secretary of the Commission, among others, as the adviser's agent for service of process; accordingly, the paperwork burdens of Forms 4-R through 6-R have been incorporated into the collection of information requirements for Form ADV, discussed above. The substance of Form 7-R is contained in new Form ADV-NR. Form ADV-NR designates the Secretary of the Commission, among others, as the non-resident general partner's or managing agent's agent for service of process. 
+
+The Commission staff has estimated that approximately 380 respondents each year will be subject to rule 0-2. Of these, approximately 285 respondents will be non-resident advisers that will now comply with rule 0-2 simply by executing Form ADV. The remaining 95 respondents will be non-resident general partners or managing agents of SEC-registered investment advisers, and must file Form ADV-NR with the Commission.<SUP> 78 </SUP> The staff has estimated that preparing and filing Form ADV-NR will continue to require approximately one hour of the non-resident general partner's or managing agent's time.<SUP> 79 </SUP> The total estimated burden therefore is 95 hours. 
+
+This collection of information is found at 17 CFR 275.0-2 and 17 CFR 279.4. Responses are not kept confidential. The information collection requirements are required for each non-resident adviser, and for each non-resident general partner or managing agent of any SEC-registered adviser. 
+
+ 
+
+ Rule 203-3 and Form ADV-H 
+
+We are adopting new rule 203-3 and new Form ADV-H. Rule 203-3 requires advisers requesting either a temporary or continuing hardship exemption to submit the request on Form ADV-H. An adviser requesting a temporary hardship is required to file Form ADV-H, providing a brief explanation of the nature and extent of the temporary technical difficulties. Form ADV-H requires an adviser requesting a continuing hardship exemption to indicate the reasons the adviser is unable to submit electronic filings without undue burden and expense.<SUP> 80 </SUP> A continuing hardship exemption will be available only to an adviser that is a small entity.<SUP> 81 </SUP> 
+
+ 
+
+Commission records indicate that approximately 1,500 SEC-registered advisers are small entities. There are, therefore, approximately 1,500 potential respondents that could apply for a continuing hardship exemption, and approximately 8,100 potential respondents that could apply for a temporary hardship exemption.<SUP> 82 </SUP> The Commission staff has estimated that, each year, 50 advisers will request a temporary hardship exemption and 20 will apply for a continuing hardship exemption. Form ADV-H and rule 203-3 have been estimated to create a collection of information burden of approximately 60 minutes per respondent, for a total of 70 hours.<SUP> 83 </SUP> This collection of information is found at 17 CFR 275.203-3 and 17 CFR 279.3. Responses are not kept confidential. The information collection requirements are required only if the adviser seeks an exemption. 
+
+ V. SUMMARY OF FINAL REGULATORY FLEXIBILITY ANALYSIS 
+
+We have prepared a Final Regulatory Flexibility Analysis (FRFA) in accordance with section 3(a) of the Regulatory Flexibility Act (RFA)<SUP> 84 </SUP> regarding the amendments to Form ADV and other rules and forms under the Advisers Act. We prepared an Initial Regulatory Flexibility Analysis (IRFA) in conjunction with the Proposing Release and made it available to the public. We received no comments specifically on the IRFA.<h>A. Need for the Rule and Form Amendments </h>
+
+As discussed in more detail in the FRFA, and above, the rule and form amendments<SUP> 85 </SUP> are necessary to: (i) facilitate the development of a system of electronic filing by investment advisers; (ii) update the registration forms for advisers to reflect recent legislative and regulatory developments; and (iii) develop a database of information about advisers that is easily accessible to investors.<h>B. Significant Issues Raised by Public Comment </h>
+
+The Commission received 70 comment letters in response to the Proposing Release. The commenters generally supported the proposal, although some expressed concerns with specific provisions, and some suggested alternative approaches for addressing particular issues. As discussed above, the Commission has concluded that certain suggestions from commenters are appropriate and has adopted the rule and form amendments with changes to reflect those suggestions. 
+
+ 
+
+The Commission specifically requested comment with respect to the IRFA. No comments were received specifically on the IRFA, but one commenter did urge the Commission to disregard any comments from Wyoming advisers if the commenters argued that the rule and form amendments would be burdensome. We did not receive any comments from Wyoming advisers. Some commenters, however, did address aspects of the proposed amendments that could potentially affect small businesses. The comments received concerning those issues are discussed below.<h>C. Small Entities Subject to the Rules </h>
+
+In developing the rule and form amendments, we have considered their potential effect on small entities that may be affected, which is discussed in the FRFA. The rule and form amendments will not affect most advisers that are small entities<SUP> 86 </SUP> (small advisers) because those advisers are registered with one or more state securities authorities rather than with us. Congress amended the Advisers Act in 1996 so that small advisers generally are regulated by state regulators and not the Commission.<SUP> 87 </SUP> Those small advisers that remain registered with us are located in Wyoming (which does not have an investment adviser statute), or are eligible for an exemption that permits SEC registration. Of the approximately 20,000 advisers in the United States, approximately 8,100 (approximately 40%) are registered with us. Of those 8,100, the FRFA estimates that approximately 1,500 (approximately 18%) qualify as small advisers. We have based this estimate on registration information advisers file with the Commission. 
+
+ 
+
+ D. Projected Reporting, Recordkeeping, and Other Compliance Requirements 
+
+ 
+
+The FRFA states that the rule and form amendments impose certain reporting and compliance requirements on small advisers, requiring them (i) to file electronically through the IARD and (ii) to use amended Form ADV when applying for registration (or amending an existing registration). These requirements are discussed more fully in the FRFA and Section II of the Proposing Release, and the burdens on small advisers are discussed below.<h>1. Electronic Filing Requirements </h>
+
+ 
+
+The FRFA explains that electronic filing is likely to impose two types of burdens on small advisers - filing fees and the time and expense of familiarizing themselves with the system. 
+
+ Filing Fees. The IARD system operator will charge filing fees to all advisers, including small advisers.<SUP> 88 </SUP> Small advisers will pay substantially smaller fees than larger advisers. This sliding scale is designed to minimize the burdens of electronic filing on small advisers while maintaining the economic viability of the IARD. It also recognizes that larger advisers, which are more likely to have filing requirements in multiple states, will benefit more from the IARD than small advisers. 
+
+ Other Burdens. The FRFA explains that, to use the IARD, small advisers must also establish an account with NASDR, familiarize themselves with the IARD's filing rules, and obtain Internet access if they do not already have it. We believe that these burdens are small and that advisers will incur most of the costs when they first begin to use the IARD. Thereafter, using the IARD should actually reduce regulatory burdens for all advisers, including small advisers. 
+
+Our information suggests that almost all investment advisers, including small advisers, currently have Internet access, and use the Internet for various purposes.<SUP> 89 </SUP> Nonetheless, our rule and form amendments provide for a continuing hardship exemption, available only to small advisers. The exemption will permit the adviser to continue submitting paper filings if using the IARD would impose an "unreasonable burden or expense."<SUP> 90 </SUP> The operator of the IARD will convert the paper filing to electronic format and charge the adviser an additional fee to cover conversion costs. The IARD will also accommodate advisers' use of commercial filing service bureaus, which we understand many small advisers currently use to make regulatory filings. We have included these alternative means of making filings to minimize the burdens the electronic filing rules will have on small advisers. 
+
+Many small advisers today use filing services because they cannot hire professional compliance staff, and do not themselves have the knowledge, time, or expertise to understand the details of the various federal and state forms, deadlines, and fees. The IARD will have a number of features designed to make it easy to complete Form ADV, even if the user is unfamiliar with the form. We have written the new instructions in plain English and reorganized the form in a simpler manner. We have re-drafted questions that previously presented interpretive difficulties for small advisers, and have provided for an on-line "help" function that will provide easy access to answers to questions advisers frequently ask about the form. Advisers using the system will also have easy on-line access to the text of the Advisers Act and our rules. Together, these features should substantially benefit small advisers that may not have lawyers or other professional compliance personnel or staff. 
+
+The FRFA concludes that, although small advisers will experience some modest start-up costs in using the IARD, over time the system will actually reduce overall costs. As advisers become more familiar with the IARD, use of the system should substantially reduce administrative costs associated with making regulatory filings, and improve advisers' compliance with regulatory requirements, allowing them to reduce their dependence, in more routine matters, on lawyers, compliance firms and others who assist them in meeting their regulatory obligations.<h>2. Amendments to Form ADV </h>
+
+ 
+
+ Part 1. The FRFA explains that the amendments to Part 1A of Form ADV should have a minimal effect on small advisers. None of the new items requests information that should not be readily available to the advisers. For example, advisers must provide the e-mail address of a contact person (if she has one), and the address of any web site the adviser sponsors. Further, because small advisers tend to have simpler business arrangements, fewer control persons, and fewer employees, the burdens of completing Part 1A should be significantly less for small advisers than for larger advisers. 
+
+The FRFA acknowledges that small advisers whose control persons have disciplinary histories will likely spend more resources than other advisers in completing the necessary DRPs for reporting of disciplinary events. Based on information filed on current Form ADV, we estimate that only approximately 14% of advisers will be required to report disciplinary information, and thus most small advisers will be unaffected by this requirement.<SUP> 91 </SUP> 
+
+ Part 2. The Commission proposed significant amendments to Part 2 of Form ADV. These amendments would have imposed additional costs on advisers, including small advisers. The proposed amendments to Part 2 would have required advisers to begin preparing and disseminating narrative brochures. The Commission has elected to defer adoption of Part 2 and related rules until a later date.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+The FRFA discusses the various alternatives that the Commission considered, in adopting the rule and form amendments, that might minimize the effect on small advisers, including (i)establishing different compliance or reporting requirements or timetables that take into account the resources available to small advisers; (ii)clarifying, consolidating, or simplifying compliance and reporting requirements for small advisers; (iii)using performance rather than design standards; and (iv)exempting small advisers from coverage of all or part of the amended rules and forms. 
+
+Regarding the first alternative, the Commission considered establishing different compliance or reporting requirements for small advisers. As explained in the FRFA, establishing different compliance or reporting requirements would be inconsistent with our mandate to provide a system of public disclosure of investment adviser information. The FRFA states that a small adviser will, by the nature of its business, likely spend fewer resources in completing the new Form ADV, and will pay lower filing fees, than a larger adviser. 
+
+Regarding the second alternative, it does not appear that the rules and forms can be formatted differently for small advisers and still achieve the stated objectives of the amendments. Nonetheless, the amendments clarify and simplify the form for all advisers, including small advisers. As discussed more fully in the FRFA, we are also adding a new item to Form ADV to identify small advisers so we can better assess the number of small advisers registered with us and the burdens our rules impose on them. 
+
+Regarding the third alternative, the FRFA explains that the rules and forms would permit advisers to use performance rather than design standards in some instances. In other contexts, however, the use of performance rather than design standards would be inconsistent with our statutory mandate to protect investors, as advisers must provide certain registration information in a uniform and quantifiable manner so that it is useful to our regulatory and examination programs. Design standards, therefore, are necessary to achieve many objectives of the amended rules and forms. 
+
+Regarding the fourth alternative, the FRFA states that it would be inconsistent with the purposes of the Advisers Act to exempt small advisers from the amendments. As discussed, the information advisers file will form a publicly-accessible database, allowing investors to obtain information about, among other things, the disciplinary histories of an adviser and its personnel. Clients and potential clients of small advisers are entitled to obtain the same information, with the same ease, as those of larger advisers, and exempting small advisers from any of the rule and form amendments would be inconsistent with a central purpose of the Advisers Act. 
+
+We have incorporated several features, such as the "help" function, intended to minimize the burden on small advisers. Small advisers can also apply for a continuing hardship exemption from the electronic filing requirements, as discussed above. 
+
+The FRFA states that, having considered the above alternatives in the context of the proposed rule and form amendments, and after taking into account the resources available to small advisers and the potential burden the rule and form amendments could place on investment advisers, the alternatives, except as noted above, would not accomplish the stated objectives of the rule and form amendments. 
+
+A copy of the FRFA is available for public inspection in File No. S7-10-00, and a copy may be obtained by contacting Jennifer Sawin, Special Counsel, Securities and Exchange Commission, 450 5<SUP>th</SUP> Street, N.W., Washington, DC 20549-0506.<h>VI. STATUTORY AUTHORITY </h>
+
+<END MAIN TEXT>
+
+1 Investment Advisers Act Release No. 1862. (Apr. 5, 2000) [65 FR 20524 (Apr. 17, 2000)] ("Proposing Release").
+
+2 A summary of comments prepared by our staff is available in our Public Reference Room in File No. S7-10-00, and on our web site at www.sec.gov/rules/extra/iardsumm.htm .
+
+3 We changed the numbering of the parts of Form ADV from Roman (Part I and II) to Arabic (Part 1 and Part 2) numbers. In this Release, however, we use Arabic numbers to refer to the parts of Form ADV before and after amendment. At some points, we refer separately to old Part II and proposed Part 2 in order to clarify which rules advisers must follow during an interim period.
+
+4 NASDR is a wholly-owned subsidiary of the National Association of Securities Dealers (NASD), a self-regulatory organization which supervises broker-dealers that conduct a public business in securities other than on an exchange of which the broker-dealer is a member. NASAA represents the 50 U.S. state securities authorities responsible for the administration of state securities laws, also known as "blue sky laws." Currently, 49 states (all except Wyoming) and the District of Columbia, Guam, and Puerto Rico have investment adviser statutes. See www.nasaa.org/search/memberslinks.html .
+
+5 In July, we formally designated NASDR as operator of the IARD. Investment Advisers Act Release No. 1888 (July 28, 2000) [65 FR 47807 (Aug. 3, 2000)].
+
+6 The following other forms under the Advisers Act will continue to be submitted to us on paper: Form ADV-E (Certificate of Accounting of Client Securities and Funds in the Possession or Custody of an Investment Adviser); ADV-NR (Appointment of Agent for Service of Process by Non-Resident General Partner and Non-Resident Managing Agent of an Investment Adviser); and ADV-H (Application for a Temporary or Continuing Hardship Exemption). In addition, advisers that are institutional investment managers will continue to make Form 13F filings through our EDGAR system. Form 13F filings are made by many firms other than investment advisers, and it would not be feasible to include these filings on the IARD.
+
+7 In Investment Advisers Act Release No. 1888, supra note 5, we approved a schedule of filing fees NASDR will charge. The fee schedule is available on our web site at www.sec.gov/divisions/investment/iard.shtml .
+
+8 Rule 204-1(b) [17 CFR 275 204-1(b)].
+
+9 An SEC-registered adviser must indicate in Item 2.B of Part 1A the states in which it has notice filing obligations. IARD will determine the amount of state fees due from the adviser based on its response.
+
+10 In this Release, we refer to both applicants for registration as an adviser with a state securities authority and persons registered as an adviser with a state securities authority as "state-registered advisers."
+
+11 As we explained in the Proposing Release, Form ADV will continue to request social security numbers of persons who have not been assigned a CRD number. NASDR needs this information when assigning a CRD number to distinguish between persons having the same name. Proposing Release, supra note 1, at note 77.
+
+12 We have revised each item and schedule of Form ADV that requires an address to inquire whether the address reported is a private residence. Items 1.F and 1.G of Part 1A and Sections 1.F, 1.K and 10 of Schedule D.
+
+13 The contact employee information is provided in response to Item 1.J of Form ADV. Commenters expressed concern that the contact employee might be inundated with phone calls that would more appropriately be directed elsewhere in the advisory firm.
+
+14 Rule 204-3 [17 CFR 204-3].
+
+15 Rules 203-1(b)(2) and 204-1(c) [17 CFR 275.203-1(b)(2) and .204-1(c)].
+
+16 Rule 203-1(b)(2). As a result, state securities authorities may continue to require SEC-registered advisers to file with them a paper copy of the adviser's Part II of Form ADV. See section 307 (a) of The National Securities Markets Improvement Act of 1996 (NSMIA), (Pub. L. No. 104-290, 110 Stat. 3438) (1996). Several commenters objected to this rule, arguing that states have no interest in the brochures of SEC-registered advisers. We believe that states should continue to be able to require Part II during this hiatus in our requirements. Under our rule, a state is free to require Part II from all advisers that meet its jurisdictional requirements, from no advisers, or upon request.
+
+17 Rule 203-1(b)(1) [17 CFR 275.203-1(b)(1)]. The Advisers Act provides that, within 45 days after a person files an application for registration with us, we must either grant registration under the Act or institute a proceeding to determine whether registration should be denied. Section 203(c)(2) [15 U.S.C. 80b-3(c)(2)]. Under our rules, as today amended, an application for registration under the Act is considered filed with us on the date that the application is accepted by the IARD. Rule 203-1(c) [17 CFR 275.203-1(c)]. The IARD will only accept filings that are complete and for which filing fees are paid. Some affiliated advisers have filed a single Form ADV to register all or some of the affiliates. Our experience is that such joint registrations do not work well since each adviser may have different responses to the same items. We will no longer accept joint registration; each affiliate must file a separate application for registration.
+
+18 See infra Section I.B.3 .
+
+19 Rule 204-1(b).
+
+20 Rules 204-1(b)(4) and 203-2(b) [17 CFR 275.204-1(b)(4) and 203-2(b)]. Form ADV-W is in Appendix B to this Release.
+
+21 Until an adviser makes its first electronic filing it must comply with the updating requirements of our rules by making paper filings of Part 1 of Form ADV with us, using "old" Form ADV, i.e., Form ADV that does not reflect the current amendments. If an adviser should withdraw its registration before making its first electronic filing on Form ADV, it must file its Form ADV-W with us on paper. It may use either "old" Form ADV-W or Form ADV-W as we are amending it today.
+
+22 If an adviser's fiscal year (as reported in its current Form ADV) ends in December, the adviser must transition to electronic filing by submitting an amendment to its Form ADV through the IARD no later than: (i) January 31, 2001, if the adviser's SEC file number is 801-1 through 801-36806;  (ii) February 28, 2001, if the adviser's SEC file number is 801-36807 through 801-54145; and (iii) March 30, 2001, if the adviser's SEC file number is 801-54146 or higher. Rule 204-1(b)(1) [17 CFR 275.204-1(b)(1)].
+
+23 An adviser is required to update its registration forms at least annually within 90 days of the end of its fiscal year. Rule 204-1(a)(1). [17 CFR 204-1(a)(1)].
+
+24 Rule 204-1(b)(1)(ii) [17 CFR 275.204-1(b)(1)(ii)]. Advisers are free to file as soon as they complete the entitlement process with NASDR as described below. As a result, some advisers may have filing options. An adviser having a fiscal year ending on October 31, for example, could submit an annual updating amendment to us on paper in January 2001 and then make subsequent electronic filing by the end of April 2001, or could transition to electronic filing early, by the end of January.
+
+25 Form ADV-H is in Appendix C to this Release.
+
+26 See rule 203-3(a) [17 CFR 275.203-3(a)]. Some commenters on the proposed rule argued that seven days was inadequate. We are adopting the rule as proposed. As we noted in the Proposing Release, advisers facing a persistent filing impediment should make alternative filing arrangements, such as hiring a service bureau.
+
+27 Rule 203-3(b) [17 CFR 275.203-3(b)]. An investment adviser generally is a small business if it (a) manages assets of less than $25 million, (b) has total assets of $5 million or less, and (c) is not in a control relationship with another investment adviser that is not a small business. Rule 0-7 [17 CFR 275.0-7]. Since SEC-registered advisers are primarily larger firms, we expect that few will qualify for a continuing hardship exemption.
+
+28 We are delegating authority to grant or deny a continuing hardship exemption to our Division of Investment Management. See rule 30-5(e)(7) of our Organization and Program Management Rules. [17 CFR 200.30e-5(e)(7)].
+
+29 Advisers that already have a CRD account with NASDR will use that account. These firms, however, must still complete the entitlement forms and return them to NASDR in order to obtain IARD access.
+
+30 New applicants for SEC registration can obtain copies of the entitlement forms from NASDR at www.iard.com
+
+31 The site address is www.sec.gov/divisions/investment/iard.shtml .
+
+32 Advisers registered with the Commission or applying for registration with the Commission can call the Commission staff at (202) 942-0691 with legal and regulatory questions relating to Forms ADV and ADV-W.
+
+33 Advisers should call NASDR's help desk at (240) 386-4848 with questions about filling out entitlement forms, setting up an IARD account, and using the IARD system.
+
+34 Rule 204-3. Form ADV, as amended, is in Appendix A to this Release
+
+35 Form ADV will exist in both an electronic and a paper version. We have appended to this release the paper version, which will only be filed by advisers that have received a continuing hardship exemption. The electronic version of the form, which will be available only through the IARD, will elicit the same information but will have minor differences necessary to reflect and, in some cases take advantage of, an electronic environment.
+
+36 Part 1B was prepared by NASAA on behalf of state securities authorities. Completion of this part of Form ADV is a requirement of state law (and not SEC rules).
+
+37 We deleted terms that would have been used only in new Part 2 and added a definition of "employee," which is used in Item 5. As noted, infra note 38, we omitted the reference to "independent contractors" in Item 5 because the term could be construed to include persons who did not provide advice on the adviser's behalf. Instead, the item relies on the defined term "employee," which includes independent contractors that perform advisory functions on behalf of the adviser. In addition, we modified the definitions of "advisory affiliate" and "related person," which are used in Items 7, 8, 9, and 11. These modifications do not change from current Form ADV the persons and firms that are "advisory affiliates" and "related persons" of advisers; the modifications only clarify the definitions.
+
+38 We have revised (i) Item 1.I to clarify which web addresses must be provided on Schedule D; (ii) Item 5 to delete references to "independent contractors"; (iii) Item 5.B.(3) to ask only for the number of solicitors that are not employees of the adviser; and (iv) Item 7 to ask whether the adviser or a related person is a general partner of a limited partnership or a manager of a limited liability company and to limit the item to investment-related limited partnerships and investment-related limited liability companies.
+
+39 Items 11.A, 11.B, and 11.D of Part 1A.
+
+40 Item 11.C(5) of Part 1A.
+
+41 Item 11.A.(1) and 11.B. These changes further conform Form ADV's disciplinary questions to those of Form BD. See Form BD Amendments, Securities Exchange Act Release No. 35224 (Jan. 12, 1995) [60 FR 4040 (Jan. 19, 1995)] (proposing), and Form BD Amendments, Securities Exchange Act Release No. 37431 (July 12, 1996) [61 FR 37357 (July 18, 1996)] (adopting). Advisers need not report a finding by a self-regulatory organization that the adviser violated a "minor" rule if the sanction imposed consists of a fine of $2,500 or less and the sanctioned person does not contest the fine. Item 11.E.(2). See Securities Exchange Act Release No. 30958 (July 27, 1992) [57 FR 34028 (July 31, 1992)] (making a similar change to Form BD). The rule must have been designated as "minor" under a plan approved by the Commission.
+
+42 Each DRP contains a box where the adviser can indicate that the DRP should be removed from the ADV record because the event or proceeding occurred more than ten years ago. Checking this item will remove the DRP from the adviser's current Form ADV. The ten-year limit applies only to disciplinary information required by Item 11 of Part 1A. Under the Advisers Act's anti-fraud rules, advisers may be required to inform clients about disciplinary events that occurred more than ten years ago. See rule 206(4)-4(a)(2) [17 CFR 275.206(4)-4(a)(2)]. In addition, state securities authorities will continue to require state-registered advisers to report some events that are more than ten years old.
+
+43 Each DRP contains a box where the adviser can indicate that the DRP should be removed from the adviser's current Form ADV if the "pending" event is no longer pending because it was resolved in the adviser's or the advisory affiliate's favor. The state securities authorities have decided to require state-registered advisers to report criminal charges.
+
+44 Rule 204-3. Sponsors of wrap fee programs must also continue to prepare and deliver (and offer) wrap fee brochures in accordance with rule 204-3 and Schedule H of Form ADV.
+
+45 Rules 203-1(b)(2) and 204-1(c).
+
+46 Currently, the updating requirements appear in the text of rule 204-1, and specify that an adviser is required to amend its Form ADV if any response to old Part II becomes materially inaccurate. Rule 204-1(b)(1). Today's amendments, however, remove most of those requirements from rule 204-1 to Form ADV itself. Rule 204-1(a)(2), as amended, [17 CFR 275.204-1(a)(2)]. The updating requirements contained in Form ADV, as we are adopting it today, apply to new Part 1A but not old Part II. The Form ADV instructions do not address updating Part 2.
+
+47 Section 206 [15 U.S.C. 80b-6].
+
+48 See Note to paragraph (b)(2) of rule 203-1 and Note to paragraph (c) of rule 204-1.
+
+49 5 U.S.C. 553(d)(3).
+
+50 All of the commenters disagreeing with our cost-benefit analysis raised concerns with our proposed revisions to advisers' disclosure requirements. As discussed earlier, we are not adopting those proposals at this time. One commenter suggested that the cost savings of one-stop filing would be $100 or less per adviser, and would therefore be outweighed by the IARD filing fees.
+
+51 Section 306 of NSMIA, supra, note 16.
+
+52 The IARD will also benefit advisers by preventing them from making incomplete filings. Submitting an incomplete filing is a common error by new advisers applying for registration, and is one that can substantially delay the registration process and thus the business plans of applicants.
+
+53 Postage expenses alone can cost an SEC-registered firm $750 per year. This estimate assumes an average overnight mail cost of $10 per mailing in each of 50 states and an average of 1.5 amendments filed per year ($10 x 50 x 1.5) = $750.
+
+54 We recognize that not every adviser will experience net cost savings from one-stop electronic filing. In several areas, such as the sliding filing fee scale, we have recognized that some larger advisers may benefit more from using the IARD than other, smaller firms. In balancing the costs and benefits of the amendments we are adopting today, we must look at the expected costs to all SEC-registered firms, and we must also consider the benefits to investors.
+
+55 See discussion of electronic filing help features supra at Section I.B.5 of this Release.
+
+56 Approximately 900 SEC-registered advisers also are registered with us as broker-dealers.
+
+57 See discussion of hardship exemptions supra at Section I.B.3 of this Release.
+
+58 Investment adviser information is publicly available from us, but until now we have been unable to provide this information to the public without charge. We currently charge $.24 per page for copies and, upon receipt of the required fee, mail the Form ADV to the requester.
+
+59 An adviser generally will no longer be required to report an indirect owner unless the indirect owner owns 25% of a direct owner. See Section II.D.1 of the Proposing Release, supra note 1.
+
+60 Moreover, most advisers do not have disciplinary events to report.
+
+61 See discussion of disciplinary disclosure requirements supra at Section C.1 of this Release. As discussed earlier, we also are no longer requiring advisers to report unsatisfied judgments or liens; bankruptcies; bond denials, payouts, or revocations; or any "minor" rule violations.
+
+62 44 U.S.C. 3501 to 3520. The titles for the collections of information are "Form ADV"; "Rule 203-2 and Form ADV-W"; "Rule 203-3 and Form ADV-H"; and "Rule 0-2 and Form ADV-NR," all under the Advisers Act. OMB approved the collection of information requirements, and the OMB control numbers are as follows: Form ADV, 3235-0049 (expires Jun. 30, 2003); Rule 203-2 and Form ADV-W, 3235-0313 (expires Jun. 30, 2003); Rule 203-3 and Form ADV-H, 3235-0538 (expires Jun. 30, 2003); and Rule 0-2 and Form ADV-NR, 3235-0240 (expires Jun. 30, 2003).
+
+63 As discussed in the Proposing Release, revised Part 1A of Form ADV incorporates the collection of information that previously appeared in Schedule I to Form ADV.
+
+64 The current burden assumes there would be 760 new applicants per year, and an average of 9.01 hours for a new registrant to complete the form. The current burden also assumes that 7,300 other advisers are registered with us, and assumes that advisers file an aggregate of 11,810 amendments with us annually, at an average of 1.07 hours per amendment.
+
+65 The 3,703 hours represents an increase independent of today's amendments. We receive approximately 1,000 (not 760) new applications annually; and we have approximately 8,100 (not 7,300) advisers registered with us. [(240 more new registrants per year x 9.01 hours) + [(800 more currently-registered advisers x 1.5 amendments) + (240 new applicants x 1 amendment)] x 1.07 hours = 3,703 hours.]
+
+66 The collection of information for amended Form ADV also incorporates the burden of rule 206(4)-4, which requires advisers to disclose financial and disciplinary information to clients and prospective clients. The current burden does not include these separately existing 6,755 burden hours per year. In the Proposing Release, we proposed to incorporate the requirements of rule 206(4)-4 into Part 2 of Form ADV and to withdraw the rule. As discussed above, however, we are deferring adoption of those proposals until later this year.
+
+67 As discussed in the Proposing Release, to estimate the annual burden associated with revised Form ADV, we amortized the burden of an adviser's initial preparation and filing of Form ADV over a 15-year period, which reflects the expected useful life of the revised form. After its initial filing of Form ADV through the IARD (whether as a new registrant or for an existing registrant re-filing to transition to the system), an adviser's burden will generally be limited to amending the form as needed.
+
+68 Many of the concerns centered on proposed Parts 2A (the adviser's narrative firm brochure) and 2B (brochure supplements for advisory personnel). As discussed earlier, we are deferring adoption of those proposals at this time.
+
+69 As discussed in the Proposing Release, based on the Commission's recent experience it is estimated that, each year, 890 new registrants and 10 multi-state advisers (i.e., advisers relying on the multi-state exemption found at rule 203A-2(e) [17 CFR 275.203A-2(e)]) will each amend their Form ADV 1 time; 100 advisers relying on rule 203A-2(d) [17 CFR 275.203A-2(d)] will each amend their Form ADV 2 times; and 8100 currently-registered advisers will amend their Form ADV, on average, 1.5 times.
+
+70 The revised collection of information burden per amendment is 0.75 hours (current burden per amendment of 1.07 hours x .70 = .749 hours per amendment).
+
+71 13,250 responses x 0.75 hours = 9,937.5 hours.
+
+72 9,938 hours attributable to amendments + (1,000 new registrants x 1.47 (amortized) hours) + (8,100 existing registrants x 1.47 (amortized) hours) = 23,315 hours.
+
+73 23,315 hours due to rulemaking + 3,703 hours due to an increase in the number of advisers = 27,018 total burden hours.
+
+74 19,448 + 27,018 = 46,466.
+
+75 Rule 203-2 currently provides for a 60-day wait before a withdrawal is effective.
+
+76 The Commission in the past received approximately 616 notices of withdrawal on Form ADV-W per year.
+
+77 (650 advisers filing for full withdrawal x .75 hours) + (650 advisers filing for partial withdrawal x .25 hours) = 487.5 + 162.5 = 650 hours. This represents a net increase from the current burden of 616 hours, which was based on 616 respondents and one hour per response.
+
+78 A non-resident general partner or managing agent is required to file Form ADV-NR only once.
+
+79 One hour is the current burden for a response to Form 4-R, 5-R, 6-R or 7-R.
+
+80 See Form ADV-H in Appendix C of this Release. The adviser applying for a continuing hardship exemption also must indicate the reasons that the hardware and software needed for Internet access are unavailable, and propose a time period for which the exemption would be in effect.
+
+81 Rules 203-3 and 0-7.
+
+82 A temporary hardship exemption would be available to advisers that submit electronic filings but are temporarily unable to do so. An adviser using a continuing hardship exemption could not apply for a temporary hardship exemption.
+
+83 (50 x 1) + (20 x 1) = 50 + 20 = 70 hours.
+
+84 5 U.S.C. 603(a).
+
+85 References to "rule and form amendments" include new rule 203-3 and new Form ADV-H.
+
+86 For purposes of the Advisers Act and the RFA, an investment adviser generally is a small entity if (a) it manages assets of less than $25 million reported on its most recent Schedule I to Form ADV, (b) it does not have total assets of $5 million or more on the last day of the most recent fiscal year, and (c) it is not in a control relationship with another investment adviser that is not a small entity. Rule 0-7.
+
+87 Title III of NSMIA, supra note 16.
+
+88 Section 203A(d) of the Advisers Act [15 U.S.C. 80b-3A(d)] authorizes us to designate NASDR as operator of the filing system, and to require that advisers file through the system and pay filing fees. The rules we are adopting will require advisers to use the system and pay filing fees to NASDR, but do not themselves impose or authorize NASDR to impose any filing fee on advisers using the IARD. Nonetheless, we have included these filing fees as part of our FRFA. In Investment Advisers Act Release No. 1888, supra note 5, we designated NASDR as operator of the IARD and approved NASDR's proposed filing fees.
+
+89 A 1998 industry survey of registered investment advisers noted that all respondents use the Internet. According to the survey, advisers "new to the business or those with less than $100 million of assets under management are more active users of the online channel than are higher-net-worth [advisers]." See Phil Clark, Cerrulli Survey; Advisers Flock to Internet for Research and Fund Data, Fund Marketing Alert , July 6, 1998 at 1. In 1999, the Institute of Certified Financial Planners (ICFP) and Morningstar also conducted a survey of financial planners and found that 99% of those surveyed had Internet access. See ICFP/Morningstar, Work/Computer Environment Among RIAs (available in File No. S7-10-00). Those advisers that cannot submit electronic filings themselves can obtain the assistance of a filing service bureau -- a firm that provides assistance to advisers and broker-dealers in preparing and making regulatory filings. For advisers' convenience, we will maintain a list of service bureaus that offer assistance in making filings on the IARD system.
+
+90 See Form ADV-H, infra Appendix C of this Release.
+
+91 The 14% estimate is based on responses to Item 11 of current Form ADV.   www.sec.gov/rules/final/ia-1897.htm

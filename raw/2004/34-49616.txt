@@ -1,0 +1,447 @@
+https://www.sec.gov/rules/final/34-49616.htm
+
+	I.0.0.0: I. EXECUTIVE SUMMARY AND BACKGROUND
+
+		I.A.0.0: A. Section 402's "Insured Depository Institution" Exemption and the Need for a Foreign Bank Exemption
+
+		I.B.0.0: B. The Commission's Rule Proposal
+
+		I.C.0.0: C. Comments Received
+
+		I.D.0.0: D. Summary of the Final Rule and Amended Form 20-F
+
+	II.0.0.0: II. DISCUSSION
+
+		II.A.0.0: A. Definition of Foreign Bank
+
+		II.B.0.0: B. Scope of the Exemption
+
+		II.C.0.0: C. The First Condition--the Home Jurisdiction Deposit Protection or CCS Requirement
+
+			II.C.1.0: 1. The "Deposit Guarantee or Protection Scheme" Revision
+
+			II.C.2.0: 2. "The CCS Determination" Revision
+
+		II.D.0.0: D. The Second Condition--the Home Jurisdiction "Insider Lending Restriction" Requirement
+
+			II.D.1.0: 1. The "Compliance In Fact" Revision
+
+			II.D.2.0: 2. Other Second Condition Comments
+
+		II.E.0.0: E. Elimination of the Proposed Third Condition--the "Board Approval" Requirement
+
+		II.F.0.0: F. Exemption for Foreign Governments That File Securities Act Registration Statements On Schedule B
+
+		II.G.0.0: G. Revision of Form 20-F
+
+		II.H.0.0: H. Effective Date
+
+	III.0.0.0: III. PAPERWORK REDUCTION ACT ANALYSIS
+
+	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
+
+		IV.A.0.0: A. Expected Benefits
+
+		IV.B.0.0: B. Expected Costs
+
+	V.0.0.0: V. PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS
+
+	VI.0.0.0: VI. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VII.0.0.0: VII. STATUTORY BASIS AND TEXT OF RULE AMENDMENTS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 240 and 249 [Release No. 34-49616, International Series Release No. 1275; File No. S7-15-03] RIN 3235-AI81 FOREIGN BANK EXEMPTION FROM THE INSIDER LENDING PROHIBITION OF EXCHANGE ACT SECTION 13(k) 
+
+ AGENCY : Securities and Exchange Commission.
+
+ ACTION : Final rule.
+
+ SUMMARY: We are adopting for qualified foreign banks an exemption from the insider lending prohibition under Section 13(k) of the Securities Exchange Act of 1934, as added by Section 402 of the Sarbanes-Oxley Act. This section prohibits both domestic and foreign issuers from making or arranging for loans to their directors and executive officers unless the loans fall within the scope of specified exemptions. One of these exemptions permits certain insider lending by a bank or other depository institution that is insured under the Federal Deposit Insurance Act. Foreign banks whose securities are registered with the Securities and Exchange Commission are not eligible for the bank exemption under Section 13(k). The adopted rule will remedy this disparate treatment of foreign banks by exempting from Section 13(k)'s insider lending prohibition those foreign banks that satisfy specified criteria similar to those that qualify domestic banks for the statutory exemption.
+
+ EFFECTIVE DATE: April 30, 2004, except that § 249.220f is effective June 1, 2004.
+
+ FOR FURTHER INFORMATION CONTACT: Elliot Staffin, Special Counsel, Office of International Corporate Finance, Division of Corporation Finance at 
+
+(202) 942-2990.
+
+ SUPPLEMENTARY INFORMATION: We are adding new Rule 13k-1<SUP> 1 </SUP> and revising Form 20-F<SUP> 2 </SUP> under the Securities Exchange Act of 1934.<SUP> 3 </SUP>
+
+<END HEADER>
+
+<h>I. EXECUTIVE SUMMARY AND BACKGROUND </h>
+
+In response to well-publicized corporate abuses, Congress enacted Section 402 of the Sarbanes-Oxley Act<SUP> 4 </SUP> in order to prevent corporations from granting personal loans to their executives.<SUP> 5 </SUP> This section added Section 13(k), entitled "Prohibition on Personal Loans to Executives," to the Exchange Act.<SUP> 6 </SUP> Section 13(k)(1) prohibits any issuer from directly or indirectly extending or maintaining credit, arranging for the extension of credit, or renewing an extension of credit "in the form of a personal loan" to or for any director or executive officer of that issuer.<SUP> 7 </SUP> Because the Sarbanes-Oxley Act's definition of issuer draws no distinction between U.S. and non-U.S. companies, Section 402's insider lending prohibition applies to any domestic or foreign entity that has Exchange Act reporting obligations or that has filed a registration statement under the Securities Act of 1933<SUP> 8 </SUP> that, although not yet effective, has not been withdrawn.<SUP> 9 </SUP><h>A. Section 402's "Insured Depository Institution" Exemption and the Need for a Foreign Bank Exemption </h>
+
+ Four categories of personal loans are expressly exempt from Section 402's prohibition. One of these exemptions<SUP> 10 </SUP> applies to "any loan made or maintained by an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 22(h) of the Federal Reserve Act (12 U.S.C. 375b)."<SUP> 11 </SUP> The Federal Deposit Insurance Act ("FDIA")<SUP> 12 </SUP> defines an "insured depository institution" as a bank or savings association that has insured its deposits with the Federal Deposit Insurance Corporation ("FDIC").<SUP> 13 </SUP> 
+
+ Although this Section 402 provision does not explicitly exclude foreign banks from the exemption, under U.S. banking law, a foreign bank cannot be an "insured depository institution" and, therefore, cannot qualify for the bank exemption. Since 1991, following enactment of the Foreign Bank Supervision Enhancement Act ("FBSEA"), a foreign bank that seeks to accept and maintain FDIC-insured retail deposits in the United States must establish a U.S. depository institution subsidiary, rather than a branch, agency or other entity, for that purpose.<SUP> 14 </SUP> These U.S. subsidiaries of foreign banks, and the limited number of grandfathered U.S. branches of foreign banks that obtained FDIC insurance prior to FBSEA's enactment,<SUP> 15 </SUP> can engage in FDIC-insured, retail deposit activities and, thus, qualify as "insured depository institutions."<SUP> 16 </SUP> But the foreign banks that own the U.S. insured depository subsidiaries or operate the grandfathered insured depository branches are not themselves "insured depository institutions" under the FDIA.
+
+Because foreign banks cannot meet the threshold criterion for the "insured depository" exemption under Section 402, their representatives have maintained that Section 402 runs counter to the principle of "national treatment," which has been a fundamental goal of federal banking legislation concerning foreign banks.<SUP> 17 </SUP> Federal banking law generally permits foreign financial institutions to operate in the United States without incurring either significant advantage or disadvantage compared with U.S. financial institutions.<SUP> 18 </SUP> Foreign banks have stated that their inability to qualify for the "insured depository" exemption places them at a disadvantage compared to their U.S. counterparts. Foreign banks also have noted that many of them are already subject in their home jurisdictions to insider lending restrictions that are similar, although not identical to, those imposed by Federal Reserve rules. Consequently, several foreign banks have urged the Commission to adopt an exemption for foreign banks from the Exchange Act's insider lending prohibition.<h>B. The Commission's Rule Proposal </h>
+
+In response to these concerns, the Commission proposed an insider lending exemption for foreign banks that strove to strike an appropriate balance among various approaches.<SUP> 19 </SUP> Thus, we proposed a foreign bank exemption that would be consistent with the Sarbanes-Oxley Act by extending Section 13(k)'s banking exemption to foreign banks only if they could satisfy specified criteria comparable to those required for domestic banks. Yet we also recognized that subjecting foreign banks to all of the Federal Reserve System's detailed requirements in the insider lending area would neither be necessary nor appropriate especially when many foreign banking regulators have well-developed regulatory schemes related to insider lending.
+
+ The proposed rule established three conditions for the foreign bank exemption from insider lending:
+
+(1) the laws or regulations of the foreign bank's home jurisdiction must require the bank to insure its deposits, or the Federal Reserve Board must have determined that the bank is subject to comprehensive supervision or regulation on a consolidated basis by the bank supervisor in the foreign bank's home jurisdiction under 12 CFR 211.24(c);
+
+(2) the laws or regulations of the foreign bank's home jurisdiction must permit insider lending only if on comparable terms to loans made to unrelated parties or, if pursuant to a widely available employee benefit or compensation program, on terms comparable to other employees, or if expressly approved by the foreign bank's home jurisdiction bank supervisor; and
+
+(3) for any loan that, when aggregated with all other outstanding loans for a particular insider, exceeds $500,000, a majority of the foreign bank's board of directors has approved the loan in advance and the particular insider has abstained from participating in the vote regarding the loan.
+
+ We also proposed to amend Item 7.B of Form 20-F to require a foreign bank todisclose the identity of and its relationship with a director, executive officer, or other related party required to be disclosed by this Item, to whom the foreign bank had issued a loan that failed to qualify for the abbreviated disclosure treatment under Instruction 2 of Item 7.B. We proposed this revision in order to make the disclosure requirements for foreign banks comparable to those for domestic banks.<h>C. Comments Received </h>
+
+ In response to this rule proposal, we received 20 comment letters from representatives of numerous banks and banking associations, law firms, one foreign government, and one national securities exchange.<SUP> 20 </SUP> While all of the commenters supported the adoption of a foreign bank exemption similar to the Section 402 exemption for domestic banks, many expressed concern regarding several aspects of the proposed rule. The issues that generated the most discussion were:
+
+ 
+
+the proposed scope of the exemption that would limit it to issuers that are foreign banks and their parent companies without exempting other foreign bank affiliates;
+
+the proposed alternative first condition that would require a foreign bank to have been the subject of a Federal Reserve Board determination under 12 CFR 211.24(c) even if another bank in the foreign bank's home jurisdiction has been the subject of such a determination;
+
+the proposed second condition that would require the laws or regulations of a foreign bank's home jurisdiction to impose the specified insider lending restriction with which the foreign bank's insider loan must comply; and
+
+ 
+
+ the proposed third condition that would require a foreign bank's board of directors to approve an insider loan prior to its issuance if the loan would cause the aggregate outstanding amount loaned to that particular insider to exceed $500,000.
+
+ Additional issues raised by some commenters included:
+
+ the proposed definitions of foreign bank and parent company;
+
+ the proposed deposit insurance requirement;
+
+ a suggested revision by Canadian bank and governmental representatives regarding the insider lending restriction condition;
+
+ a suggested exemption for certain Schedule B issuers;<SUP> 21 </SUP> and
+
+the proposed revision of Form 20-F Item 7.B.<h>D. Summary of the Final Rule and Amended Form 20-F </h>
+
+ In response to many of the commenters' concerns, we have revised both proposed Rule 13k-1 and the proposed amendment to Form 20-F Item 7.B. These revisions include:
+
+ 
+
+ adopting a definition of "foreign bank" that is substantially similar to the definition under Subpart B of the Federal Reserve Board's Regulation K,<SUP> 22 </SUP> which governs the operations of foreign banks in the United States;
+
+ expanding the scope of the exemption to cover loans by a foreign bank to its insiders or those of its parent or other affiliate, which, under the existing Exchange Act definition of "affiliate,"<SUP> 23 </SUP> includes a foreign bank's directly and indirectly owned subsidiaries and its "sister" subsidiaries;
+
+ clarifying that the exemption applies to a loan by the subsidiary of a foreign bank to a director or executive officer of the foreign bank, its parent or other affiliate as long as the subsidiary is under the supervision or regulation of the bank supervisor in the foreign bank's home jurisdiction, the subsidiary's loan meets the requirements of the rule's "insider lending restriction" condition, and the foreign bank meets the requirements of the rule's first condition;<SUP> 24 </SUP> 
+
+ revising the exemption's first condition to provide that the laws or regulations of the foreign bank's home jurisdiction must require the bank to insure its deposits or be subject to a deposit guarantee or protection scheme;
+
+ revising the exemption's alternative first condition to provide that the Federal Reserve Board must have determined that the foreign bank or another bank organized in the foreign bank's home jurisdiction is subject to comprehensive supervision or regulation on a consolidated basis by the bank supervisor in its home jurisdiction under 12 CFR 211.24(c);<SUP> 25 </SUP>
+
+ revising the exemption's second condition to require the foreign bank loan to comply in fact with one of the three stated insider lending restrictions regardless of whether the laws or regulations of the foreign bank's home jurisdiction have imposed the restriction;
+
+ eliminating the proposed "board approval" condition in its entirety;
+
+ clarifying that, as used in Exchange Act Section 13(k)(1), "issuer" does not include a foreign government that files a registration statement under the Securities Act on Schedule B; and
+
+ adopting Form 20-F Item 7.B.2, as proposed, but adding an instruction explaining that if a reporting company has concluded that its home jurisdiction privacy laws, such as customer confidentiality and data protection laws, prevent its identifying the insider who received a foreign bank insider loan to which Instruction 2 of Item 7.B does not apply, it must attach a legal opinion attesting to that conclusion as an exhibit and provide additional specified disclosure that does not identify the loan recipient.<h>II. DISCUSSIONA. Definition of Foreign Bank </h><h>A. Definition of Foreign Bank </h>
+
+ We are adopting a definition of foreign bank to mean an institution, the home jurisdiction of which is other than the United States,<SUP> 26 </SUP> that is regulated as a bank in its home jurisdiction, and that engages directly in the business of banking.<SUP> 27 </SUP> We are further adopting a definition of "engages directly in the business of banking" to mean that an institution engages directly in banking activities that are usual for the business of banking in its home jurisdiction.<SUP> 28 </SUP>
+
+ This adopted definition differs from the proposed definition,<SUP> 29 </SUP> which would have required an institution to be engaged substantially in the business of banking. We proposed to define "engaged substantially in the business of banking" to mean engaged in receiving deposits to a substantial extent in the regular course of business, having the power to accept demand deposits, and extending commercial or other types of credit.
+
+ Some commenters objected to this proposed definition on the grounds that it would exclude certain types of lending institutions, such as credit card banks, which lack the power to accept demand deposits but which nevertheless are regulated as banks in their home jurisdictions. These commenters suggested that we base Rule 13k-1's definition of foreign bank on the more general definition of foreign bank found in Subpart B of the Federal Reserve Board's Regulation K, which governs the operations of foreign banks in the United States.<SUP> 30 </SUP>
+
+ We agree with these commenters that a more general definition of foreign bank is necessary to accommodate the various types of foreign banks extant. A broader definition of foreign bank also would serve to ensure that the foreign bank exemption encompasses banks that are similar to those domestic banks that are eligible for the "insured depository institution" exemption under Section 402.<SUP> 31 </SUP> We also believe that, for the sake of regulatory simplicity, it is reasonable to adopt a foreign bank definition that is substantially similar to the definition upon which foreign banks have relied when seeking regulatory approval for their U.S.-based banking activities. The adopted definition of foreign bank and the related definition of "engages directly in the business of banking" are substantially similar to the Federal Reserve Board's definitions under Subpart B of Regulation K.<SUP> 32 </SUP><h>B. Scope of the Exemption </h>
+
+ As adopted, Rule 13k-1 exempts an issuer that is a foreign bank or the parent or other affiliate of a foreign bank from Section 13(k)'s prohibition of extending, maintaining, arranging for, or renewing credit in the form of a personal loan to or for any of its directors or executive officers with respect to a loan by the foreign bank as long as the specified criteria are satisfied under the rule.<SUP> 33 </SUP> Because we are applying the general definition of affiliate under the Exchange Act for this rule,<SUP> 34 </SUP> the scope of the foreign bank exemption is broad enough to encompass loans by a foreign bank to the insiders of an issuer that is the foreign bank's directly or indirectly owned subsidiary or a subsidiary of its parent company (the foreign bank's "sister" subsidiary.)<SUP> 35 </SUP>
+
+ 
+
+The proposed foreign bank exemption applied only to an issuer that was a foreign bank or its parent company. Some commenters maintained that many home jurisdictions of foreign banks also permit loans by a supervised bank to the insiders of its own subsidiaries or sister affiliates. These commenters further noted that the "insured depository institution" exemption generally would apply to loans made by a domestic bank to the insiders of its affiliates.
+
+ We agree with these commenters that expansion of the foreign bank exemption's scope is necessary to accommodate the insider lending practices of foreign banks organized in jurisdictions that permit loans to insiders of the foreign bank's affiliates. As long as an issuer satisfies all of the specified criteria under Rule 13k-1, we believe it is appropriate to permit a foreign bank to lend to the insiders of its affiliates.
+
+ Expanding the foreign bank exemption's scope is also necessary to achieve comparability with the scope of the "insured depository institution" exemption relied upon by domestic banks. This latter exemption is available only to insured depository institutions that are subject to the Federal Reserve Board's insider lending restrictions. Codified as Regulation O, these insider lending restrictions apply to loans by an insured depository institution to its insiders and the insiders of its parent holding company and any other subsidiary of the parent holding company.<SUP> 36 </SUP> Moreover, Regulation O does not restrict an insured depository institution from making loans to insiders of its subsidiaries except to the extent that a subsidiary's insider is also an insider of the insured depository institution.<SUP> 37 </SUP>
+
+ Some commenters requested on similar grounds that we extend the exemption to permit a foreign bank's subsidiary, such as a mortgage lender, to lend to the insiders of the foreign bank, its parent company or other affiliates. We agree that the foreign bank exemption should cover loans by a foreign bank's subsidiary to the insiders of the foreign bank, its parent or other affiliates but only if the subsidiary is under the supervision or regulation of the bank supervisor in the foreign bank's home jurisdiction, the subsidiary's loan meets the requirements of Rule 13k-1's "insider lending restriction" condition, and the foreign bank satisfies the rule's first condition.<SUP> 38 </SUP> This treatment is consistent with the treatment of subsidiaries of "insured depository institutions" under the existing domestic bank exemption under Section 402.<SUP> 39 </SUP><h>C. The First Condition--the Home Jurisdiction Deposit Protection or CCS Requirement </h>
+
+As adopted, the foreign bank exemption's first condition mandates that either: 
+
+the laws or regulations of the foreign bank's home jurisdiction require the bank to insure its deposits or be subject to a deposit guarantee or protection scheme; or 
+
+the Board of Governors of the Federal Reserve System has determined that the foreign bank or another bank organized in the foreign bank's home jurisdiction is subject to comprehensive supervision or regulation on a consolidated basis by the bank supervisor in its home jurisdiction under 12 CFR 211.24(c) ("comprehensive consolidated supervision" or"CCS").<SUP> 40 </SUP>
+
+ 
+
+ The adopted first condition retains the alternative form of the proposed rule, which most commenters favored. This condition is consistent with the Sarbanes-Oxley Act by making it more likely that a qualifying foreign bank is subject in its home jurisdiction to a banking regulatory regime that generally addresses the risks that 
+
+Section 402 was intended to guard against. However, the adopted first condition differs in two respects from the proposed rule.<h>1. The "Deposit Guarantee or Protection Scheme" Revision </h>
+
+We have revised the "deposit insurance" prong to accommodate foreign banks whose home jurisdictions require them to be subject to deposit guarantee or protection schemes rather than deposit insurance requirements. We recognize that foreign jurisdictions can differ legitimately on the details of their bank deposit protection programs. Some jurisdictions with well-developed bank regulation and supervision have elected to adopt deposit guarantee or protection schemes rather than deposit insurance requirements. We agree with those commenters who noted that a deposit guarantee or protection scheme condition would serve the same purpose as a deposit insurance condition--to help ensure that a foreign bank is subject to a certain level of regulation as a bank in its home jurisdiction.<h>2. "The CCS Determination" Revision </h>
+
+We have revised the "CCS determination" prong to require that either the foreign bank or another bank in the foreign bank's home jurisdiction must be the subject of a CCS determination. This revision is in response to numerous commenters who maintained that, because the proposed rule required a foreign bank to be the subject of a CCS determination by the Federal Reserve Board, it would deny the exemption to a foreign bank organized in the same jurisdiction as another bank that has received a favorable CCS determination simply because the foreign bank never applied for Federal Reserve Board approval for which a CCS determination is necessary.<SUP> 41 </SUP>
+
+ The adopted rule clarifies that in order for a foreign bank to rely on the CCS determination of another bank in its home jurisdiction, it must be under substantially the same banking supervision or regulation as the other bank in the home jurisdiction.<SUP> 42 </SUP> Although we are not requiring, as some commenters suggested, that a foreign bank provide a legal opinion or certification as an exhibit to its Form 20-F annual report attesting to its being subject to the same banking supervision or regulation as the other bank, we do expect that a foreign bank or affiliate issuer will undergo a good faith assessment regarding whether the foreign bank is under substantially the same supervision or regulation as another bank in its home jurisdiction before relying on the foreign bank exemption.
+
+ Extending the foreign bank exemption's application in this fashion finds support in numerous Federal Reserve Board decisions in which the Board has based its CCS determination primarily on a finding that the foreign bank applicant is subject to supervision or regulation by its home jurisdiction bank supervisor on substantially the same terms and conditions as another bank that has already received a favorable CCS determination.<SUP> 43 </SUP> This revision is also consistent with Section 402 since it would render eligible for the foreign bank exemption only banks whose home jurisdiction laws and supervision already have been deemed by the Board to be sufficiently comprehensive to justify permitting another foreign bank to conduct business in the United States.<h>D. The Second Condition--the Home Jurisdiction "Insider Lending Restriction" Requirement </h>
+
+ As adopted, the foreign bank exemption's second condition requires that any loan by the foreign bank to its directors or executive officers or to those of its parent or other affiliate: 
+
+ is on substantially the same terms as those prevailing at the time for comparable transactions by the foreign bank with other persons who are not executive officers, directors or employees of the foreign bank, its parent or other affiliate; or
+
+ is pursuant to a benefit or compensation program that is widely available to the employees of the foreign bank, its parent or other affiliate and does not give preference to any of the executive officers or directors of the foreign bank, its parent or other affiliate over any other employees of the foreign bank, its parent or other affiliate; or
+
+ has received the express approval of the bank supervisor in the foreign bank's home jurisdiction.<SUP> 44 </SUP><h>1. The "Compliance In Fact" Revision </h>
+
+In response to several commenters, we have revised the proposed second condition to eliminate the requirement that a home country's laws or regulations must impose the specified insider lending restrictions. We agree with those commenters who noted that such a requirement would produce an extraterritorial effect that is unnecessary to achieve the rule's purpose--to establish an exemption from insider lending for foreign banks that satisfy criteria similar to those required for domestic banks under Section 402. Accordingly, the rule's second condition requires only that a foreign bank loan complies in fact with one of the specified criteria, which we are adopting as proposed. 
+
+The adopted second condition is consistent with Section 402 since the first two criteria are based on primary insider lending restrictions under Regulation O.<SUP> 45 </SUP> We are adopting the third criteria in recognition that some jurisdictions hinge the legality of a bank insider loan on its pre-approval by the home jurisdiction bank supervisor. In the interest of comity, we believe that some measure of deference to the home jurisdiction bank supervisor regarding the content of its insider lending restrictions is appropriate.<h>2. Other Second Condition Comments </h>
+
+Some commenters requested that we revise the rule to eliminate the second condition for an issuer that could satisfy the "CCS determination" prong of the first condition. We have not adopted this suggestion because, as we stated in the proposing release, the governing Federal Reserve Board rules do not list the presence of insider lending restrictions as a factor for determining whether a foreign bank is subject to CCS in its home jurisdiction.<SUP> 46 </SUP> The Board decisions that do mention the presence of home jurisdiction insider lending restrictions do not discuss them in any detail.
+
+Our goal has been to adopt an insider lending exemption for foreign banks that are subject to insider lending restrictions similar to those imposed on domestic banks under Regulation O. Since the existence of home jurisdiction insider lending restrictions has not historically been dispositive in a CCS determination, we believe that an "insider lending restriction" condition for the foreign bank exemption is essential.
+
+We also received a request from Canadian commenters to adopt a rule that, as is the case under Canadian law, would permit a foreign bank to make a loan to senior management on preferential terms as long as the conduct review committee of the bank's board of directors approved the loan. We have declined this request since it would contravene Congress' intent in adopting Section 402, which was to preclude loans to executives even if approved by a company's board of directors. Moreover, since Regulation O does not posit board approval as the sole criterion for permitting a domestic bank to make an insider loan, we do not believe it to be a suitable criterion for the foreign bank exemption.<h>E. Elimination of the Proposed Third Condition--the "Board Approval" Requirement </h>
+
+The proposed rule's third condition would have required the advance approval of a majority of a foreign bank's board of directors for any insider loan that, when aggregated with the amount of all other outstanding loans to a particular director or executive officer, exceeds $500,000.<SUP> 47 </SUP> Several commenters objected to the proposed third condition on the grounds that it would increase the rule's burden on foreign banks without being necessary to further the rule's intended purpose of preventing insider abuse. These commenters further asserted that the $500,000 aggregate limit was outdated since it was based on a Regulation O provision that had not been increased to account for inflation since its adoption in 1983. Given these concerns, and because the board approval condition does not appear to be necessary to further the rule's purpose of protecting against improper insider lending, we have eliminated the proposed third condition in its entirety.<h>F. Exemption for Foreign Governments That File Securities Act Registration Statements On Schedule B </h>
+
+We are adopting an exemption from Section 402's insider lending prohibition for foreign governments that file Securities Act registration statements on Schedule B.<SUP> 48 </SUP> We have implemented this exemption by providing that, as used in Exchange Act Section 13(k)(1), the term "issuer" does not include a foreign government that files a registration statement under the Securities Act on Schedule B.<SUP> 49 </SUP> As foreign governments typically do not have "directors or executive officers," Section 402's prohibition against making loans to such individuals is simply not meaningful to the vast majority of Schedule B filers.
+
+ Moreover, a commenter has noted its belief that, because of serious comity concerns, Section 402's insider lending prohibition should not apply to Schedule B filers.<SUP> 50 </SUP> The Commission has historically treated foreign governments differently than other registrants under the federal securities laws because of a broad range of concerns that include traditional comity issues as well as concerns about the practical applicability of various disclosure requirements to foreign governments. Because of these concerns, we have not generally applied the rules adopted for domestic and foreign private issuers under the Sarbanes-Oxley Act to foreign government issuers.
+
+For example, we exempted foreign governments from the listed issuer audit committee requirements under Section 301 of the Sarbanes-Oxley Act.<SUP> 51 </SUP> In doing so, we noted that the exemption encompassed all registrants that are eligible to file Securities Act registration statements on Schedule B.<SUP> 52 </SUP> We believe that this same exemptive treatment is appropriate for foreign government issuers under Section 402. Accordingly, the adopted rule exempts from Section 402's insider lending prohibition a foreign government that files a Securities Act registration statement on Schedule B, whether the securities are listed or unlisted.<h>G. Revision of Form 20-F </h>
+
+We are adopting the proposed amendment to Item 7.B.2 of Form 20-F, which provides that if a company, its parent or any of its subsidiaries is a foreign bank that has granted a loan to which Instruction 2 of this item does not apply,<SUP> 53 </SUP> it must identify the director, senior management member, or other related party required to be described by this item<SUP> 54 </SUP> who received the loan, and must describe the nature of the loan recipient's relationship to the foreign bank. The purpose of this amendment is to ensure that substantially the same disclosure standards apply to domestic and foreign bank insider loans that no longer qualify for abbreviated disclosure treatment.<SUP> 55 </SUP>
+
+Some commenters objected to this amendment on the grounds that it would conflict with the privacy laws of some foreign countries regarding customer confidentiality and data protection. In response to these commenters, we are adopting new Instruction 3 to Item 7.B, which provides that if a company, its parent or any of its subsidiaries is a foreign bank that is unable to provide the additional required disclosure concerning an insider loan because it has concluded that such disclosure would conflict with privacy laws, such as customer confidentiality and data protection laws, of its home jurisdiction, it must provide a legal opinion attesting to that conclusion as an exhibit.<SUP> 56 </SUP> In addition, the company must disclose in the Form 20-F that:
+
+ 
+
+ 
+
+ an unnamed director, senior management member, or other related party for which disclosure is required by Item 7.B.2, has been the recipient of a loan to which Instruction 2 of this Item does not apply;
+
+ 
+
+ the company's home jurisdiction's privacy laws prevent the disclosure of the name of this loan recipient; and
+
+this loan recipient is unable to waive or has otherwise not waived application of these privacy laws.<h>H. Effective Date </h>
+
+We solicited comment on the proposed effective dates for Rule 13k-1 and the Form 20-F amendment, but received no comments on this issue. Therefore, the effective date of Rule 13k-1 will be the date of its publication in the Federal Register, as proposed. Because of the exemptive nature of Rule 13k-1, the fact that it relieves a restriction precluding loans to directors and executive officers, and for good cause, we do not believe that a transition period is necessary to enable foreign bank issuers and other interested parties to prepare for the new rule.<SUP> 57 </SUP> The date of the Form 20-F amendment will be 30 days from the date of its publication in the Federal Register, as proposed.<h>III. PAPERWORK REDUCTION ACT ANALYSIS </h>
+
+The final rule amendment contains "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<SUP> 58 </SUP> The title of the affected collection of information is Form 20-F. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information such as Form 20-F unless it displays a currently valid OMB control number. The disclosure is mandatory and will not be kept confidential, except that, as noted below, some confidential information need not be disclosed if a legal opinion and additional, explanatory disclosure is provided.
+
+ 
+
+Form 20-F (OMB Control No. 3235-0288) sets forth the disclosure requirements for a foreign private issuer's annual report and registration statement under the Exchange Act as well as many of the disclosure requirements for a foreign private issuer's registration statements under the Securities Act. The Commission adopted Form 20-F pursuant to the Exchange Act and the Securities Act in order to ensure that investors are informed about foreign private issuers that have registered securities with the Commission. The hours and costs associated with preparing, filing and sending Form 20-F constitute reporting and cost burdens imposed by this collection of information.
+
+We published a notice requesting comment on the collection of information requirements in the Proposing Release and submitted these requirements to the Office of Management and Budget ("OMB") for review in accordance with the PRA.<SUP> 59 </SUP> As discussed in Part II above, we received several comment letters regarding the rule proposal. We have revised both proposed Rule 13k-1 and the amendment to Form 20-F in response to these comments. 
+
+ In particular, we are adopting the amendment to Item 7.B.2 of Form 20-F as proposed, which requires a foreign bank to identify, and describe its relationship with, an insider to which it issued a loan that does not qualify for "abbreviated disclosure" treatment under Instruction 2 of Item 7.B. However, we are also adopting new Instruction 3 to Item 7.B, which exempts a foreign bank from this additional disclosure requirement as long as it provides a legal opinion attesting to its conclusion that privacy laws of the foreign bank's home jurisdiction preclude providing the additional disclosure. As a further condition, a foreign bank must disclose in the Form 20-F the fact that an insider has been the recipient of a loan to which Instruction 2 of Item 7.B does not apply, its home jurisdiction's privacy laws prevent the disclosure of the insider's name, and the insider is unable to or otherwise has not waived application of these privacy laws. 
+
+ We are slightly revising our previous burden estimates regarding Form 20-F because of this revision. We have based our estimate of the effects that the final rule will have on Form 20-F primarily on our review of actual filings of this form, on the form's requirements, and on the most recently completed PRA submission for this form. 
+
+ As a result of the adopted amendment to Form 20-F, we have increased by 1 hour our estimate in the Proposing Release of the total annual burden hours incurred by registrants themselves in the preparation of Form 20-F to 769,827 hours (from the previously estimated 769,826 hours). We also have increased by $675 the total annual costs attributed to the preparation of Form 20-F by outside firms to $690,502,255 (from the previously estimated $690,501,580).
+
+ We have derived these estimates from the following assumptions. First, we continue to estimate that foreign private issuers file 1,194 Forms 20-F each year resulting in a total of 3,079,304 annual burden hours. We also continue to estimate that 41 foreign banks file annual reports on Form 20-F. We further continue to estimate that approximately 10% of reporting foreign banks (4 foreign banks) will have insider loans that do not qualify for abbreviated disclosure treatment and, therefore, must be disclosed under Item 7.B.2 of Form 20-F. 
+
+ However, we also expect that 25% of the foreign private issuers affected by the Form 20-F amendment (1 foreign private issuer) will incur 3 additional burden hours resulting from having to provide the legal opinion and additional disclosure required by newly adopted Instruction 3 to Item 7.B. We expect that foreign private issuers themselves will incur 25% of the additional burden required by the Form 20-F amendment (approximately 1 additional hour) resulting in 769,827 annual burden hours incurred by foreign private issuers (increased from the previously estimated 769,826 hours). We further estimate that outside firms, including legal counsel and other advisors, will account for 75% of the additional burden required by the revised Form 20-F amendment at an average cost of $300 per hour for a total additional cost of $675 and a total annual cost of $690,502,255 (from the previously estimated $690,501,580). While we estimate that the Form 20-F amendment will result in a total of 3,079,307 annual burden hours (increased from the previously estimated 3,079,304 hours) required to prepare the Form 20-F, we expect that the number of total burden hours per response will remain at 2,579 hours.<SUP> 60 </SUP><h>IV. COST-BENEFIT ANALYSIS </h>
+
+ In the Proposing Release, we solicited comment on the expected costs and benefits of proposed Rule 13k-1 and the proposed Form 20-F amendment. We also requested data to quantify the costs and value of the benefits identified. In response most commenters expressed support for the Commission's attempt to remedy the disparate treatment of foreign banks under Section 402 by crafting an insider lending exemption for foreign banks that satisfy criteria comparable to those that qualify domestic banks for the statutory exemption. However, several commenters also maintained that various aspects of the rule proposal would impose costs on foreign banks and their affiliates that were excessive or unnecessary to achieve the rule's purpose.
+
+ Although none of the commenters provided quantitative data to support their views, we have revised both the proposed rule and form amendment in response to several of the commenters' concerns. We expect that the adopted Rule 13k-1 and the Form 20-F amendment will result in the following benefits and costs.<h>A. Expected Benefits </h>
+
+ For several years, U.S. investors have sought to diversify their holdings by investing in the securities of foreign issuers, including foreign banks. At the same time, foreign issuers, including foreign banks, have sought opportunities to raise capital and effect other securities-related transactions in the United States. Rule 13k-1 will benefit both U.S. investors and foreign bank issuers by removing a regulatory impediment that, if left unchecked, could discourage foreign banks from entering or remaining in U.S. capital markets.
+
+ U.S. investors will benefit from Rule 13k-1 to the extent that this rule encourages a foreign bank to maintain or achieve its Exchange Act reporting status. A foreign bank will benefit from Rule 13k-1 by being able, like its domestic counterpart, to provide qualified personal loans to its executive officers and directors while an Exchange Act reporting company. In addition, if a foreign bank is subject in its home jurisdiction to insider lending restrictions that are substantially similar to those under Rule 13k-1, the foreign bank will benefit by not having to comply with a separate set of insider lending restrictions. 
+
+ Investors will benefit from the Form 20-F amendment by having access to similar information about a foreign bank issuer's insider loans that do not qualify for abbreviated disclosure treatment as is available for comparable domestic bank insider loans. Foreign bank issuers whose home jurisdictions' privacy laws preclude disclosure of an insider loan recipient's identity will benefit from the Form 20-F amendment to the extent that the benefit of being able to keep this insider information confidential exceeds the cost of having to provide the legal opinion and other disclosure required by the Form 20-F amendment.<h>B. Expected Costs </h>
+
+Investors could incur costs resulting from Rule 13k-1 if some foreign bank issuers decide to terminate their participation in, or refrain from entering, U.S. capital markets because they perceive the costs associated with complying with the adopted rule to be too high. Investors could also incur costs resulting from the diminution in value of a foreign bank issuer's securities if the rule encourages a foreign bank to make a material insider loan that eventually becomes problematic.
+
+We expect that a foreign bank issuer will incur costs if its home jurisdiction insider lending rules are less restrictive than those imposed by Rule 13k-1. These costs will include attorney and other professional fees incurred as a foreign bank issuer ensures that it is in compliance with Rule 13k-1 in addition to its own set of insider lending rules. Based on the following assumptions, we estimate that, in the aggregate, foreign bank issuers will annually incur costs relating to 264 hours of work performed by their internal staff as well as costs of $237,600 relating to work performed by outside firms as a result of Rule 13k-1:
+
+ 
+
+ there are currently 46 foreign banks that are Exchange Act reporting companies;<SUP> 61 </SUP>
+
+14 of these foreign banks (30%) are subject to insider lending restrictions in their home jurisdictions that are substantially similar to at least one of the insider lending restrictions under Rule 13k-1;
+
+these 14 foreign banks will not incur any significant compliance costs resulting from Rule 13k-1; 
+
+32 of these foreign banks (70%) are subject to insider lending rules in their home jurisdictions that are less strict than the insider lending restrictions under Rule 13k-1;
+
+each of these 32 foreign bank issuers will lend to an average of 11 of its or its affiliates' directors or executive officers (a total of 352 insiders) per year;<SUP> 62 </SUP>
+
+these 32 foreign banks will incur 3 additional hours of work for each insider loan in order to ensure that it complies with Rule 13k-1 (a total of 1056 hours for the 352 insider loans);
+
+each of the 32 foreign bank issuers will rely on its own internal staff to perform 25% of the additional work (264 hours) and hire outside legal counsel or other professional staff to perform 75% of the additional work (792 hours); and
+
+the outside staff will charge a rate of $300/hour to perform the 792 hours of additional work (for a total of $237,600).
+
+ 
+
+ We expect that, as a result of the adopted amendment of Form 20-F Item 7.B, foreign bank issuers will incur in the aggregate approximately an additional two hours of work for their internal staff and an additional $1,575 of work for outside firms when preparing the Form 20-F.<SUP> 63 </SUP> This Form 20-F amendment requires a foreign bank issuer to disclose the identity of its director, executive officer or other related party who has received a loan that does not qualify for abbreviated disclosure treatment under Instruction 2 to Item 7.B, and to describe the nature of the loan recipient's relationship to the foreign bank issuer. This amendment exempts a foreign bank issuer from providing the additional disclosure as long as it attaches a legal opinion attesting to its conclusion that its home jurisdiction privacy laws preclude providing the additional disclosure, and as long as the foreign bank issuer provides specified, non-confidential disclosure regarding the insider loan.<h>V. PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS </h>
+
+ Section 23(a)(2) of the Exchange Act<SUP> 64 </SUP> requires the Commission, when adopting rules under the Exchange Act, to consider the anti-competitive effects of any rules it adopts. Furthermore, Section 2(b) of the Securities Act<SUP> 65 </SUP> and Section 3(f) of the Exchange Act<SUP> 66 </SUP> require the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition and capital formation.
+
+ In the Proposing Release, we considered proposed Rule 13k-1 and the proposed amendment to Form 20-F in light of the standards set forth in the above statutory sections. We solicited comment on whether, if adopted, proposed Rule 13k-1 and the proposed Form 20-F amendment would result in any anti-competitive effects or promote efficiency, competition and capital formation. We further encouraged commenters to provide empirical data or other facts to support their views on any anti-competitive effects or any burdens on efficiency, competition or capital formation that might result from adoption of proposed Rule 13k-1 and the proposed Form 20-F amendment.
+
+ Although no commenter submitted empirical data to support its views, some commenters maintained that various aspects of the proposed rule and Form 20-F amendment would unfairly burden foreign banks and place them at a competitive disadvantage with their domestic counterparts. In response to these concerns, we have revised the rule proposal to eliminate or reduce unnecessary burdens on foreign banks that could produce anti-competitive effects. These revisions include: 
+
+ 
+
+expanding the scope of the foreign bank exemption so that, similar to the domestic bank exemption, it covers loans by a foreign bank to the insiders of its affiliates;
+
+expanding the definition of foreign bank so that it includes types of banks comparable to those eligible for the domestic bank exemption;
+
+permitting a foreign bank to satisfy the "CCS determination" condition if it is under substantially the same supervision as another bank organized in its home jurisdiction that has received a CCS determination by the Federal Reserve Board;
+
+ making a foreign bank eligible for the foreign bank exemption if it complies in fact with one of the specified insider lending restrictions even if not required by its home jurisdiction's laws or regulations; and
+
+permitting a foreign bank issuer to keep confidential the identity of an insider recipient of a loan that no longer qualifies for "abbreviated disclosure" treatment under Form 20-F Item 7.B.2 if the issuer has concluded that such disclosure would conflict with its home jurisdiction's privacy laws as long as the issuer submits a legal opinion attesting to that conclusion and provides some additional corresponding disclosure in the Form 20-F.
+
+ 
+
+ These and other revisions should enable adopted Rule 13k-1 to have a beneficial effect on competition in U.S. capital markets by eliminating or significantly reducing the burden imposed by Section 402's insider lending prohibition on most foreign bank issuers. Moreover, the adopted Form 20-F amendment should provide investors with comparable information about problematic insider loans by foreign and domestic bank issuers while reducing the burden of the additional disclosure requirement for those foreign bank issuers that face genuine conflicts with their home jurisdiction laws.
+
+Consequently, adopted Rule 13k-1 and the adopted Form 20-F amendment should encourage foreign banks to continue or achieve their status as Exchange Act reporting companies. Such encouragement could facilitate increased competition among U.S. capital market participants for the securities of foreign and domestic bank reporting companies to the ultimate benefit of investors.<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+Under Section 605(b) of the Regulatory Flexibility Act,<SUP> 67 </SUP> we certified that, when adopted, proposed Rule 13k-1 and the proposed amendment to Form 20-F under the Exchange Act would not have a significant economic impact on a substantial number of small entities. We included this certification in Part VI of the Proposing Release. While we encouraged written comments regarding this certification, none of the commenters responded to this request.<h>VII. STATUTORY BASIS AND TEXT OF RULE AMENDMENTS </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.13k-1.<SUP> </SUP>
+
+2 17 CFR 249.220f.
+
+3 15 U.S.C. 78a et seq .
+
+4 Pub. L. 107-204, 116 Stat. 745 (2002).
+
+5 See Senator Charles Schumer's remarks in 148 Cong. Rec. S. 7350, 7360-7361 (July 25, 2002). See also Senator Carl Levin's letter, dated September 25, 2002, to Chairman Harvey Pitt, reprinted in 149 Cong. Rec. S. 2178, 2179-2180 (February 11, 2003).
+
+6 15 U.S.C. 78m(k).
+
+7 15 U.S.C. 78m(k)(1). Section 13(k)(1)'s insider lending ban prohibits an issuer from "arranging for" or otherwise making a loan to any of its directors or executive officers "including through any subsidiary" of that issuer.
+
+8 15 U.S.C. 77a et seq .
+
+9 Sarbanes-Oxley Act Section (2)(a)(7).
+
+10 The other three exemptions apply to extensions of credit that existed before the Sarbanes-Oxley Act's enactment, specified home improvement and consumer credit loans, and specified loans by a broker-dealer to its employees. See Exchange Act Sections 13(k)(1) and 13(k)(2) [15 U.S.C. 78m(k)(2)].
+
+11 Exchange Act Section 13(k)(3) [15 U.S.C. 78m(k)(3)]. The Federal Reserve Board's Regulation O (12 CFR 215.1 et seq. ) implements Federal Reserve Act Section 22(h).
+
+12 12 U.S.C. 1811 et seq .
+
+13 12 U.S.C. 1813(c)(2).
+
+14 12 U.S.C. 3104(d)(1).
+
+15 12 U.S.C. 3104(d)(2).
+
+16 Of the 46 foreign banks that are currently Exchange Act reporting companies and, thus, subject to the Sarbanes-Oxley Act, only 10 have U.S.-based operations that are FDIC-insured.
+
+17 See , for example , U.S. General Accounting Office, "Foreign Banks--Assessing Their Role in the U.S. Banking System" (February 1996) (" GAO Foreign Banks Report ") at p. 2.
+
+18 GAO Foreign Banks Report at p. 16.
+
+19 Release No. 34-48481 (September 11, 2003) [68 FR 54590] ("Proposing Release").
+
+20 We have posted these comment letters on our website at http://www.sec.gov/rules/proposed/s71503.shtml. A comment summary is also available at http://www.sec.gov/rules/extra/s71503summary.htm.
+
+21 A foreign government is able to register securities under the Securities Act by filing a Schedule B registration statement. Schedule B is located at the conclusion of the Securities Act.
+
+22 12 CFR 211.20 et seq.
+
+23 17 CFR 240.12b-2.
+
+24 Note 1 to Rule 13k-1(b) [17 CFR 240.13k-1(b)].
+
+25 The final rule further provides that a foreign bank may rely on a Federal Reserve Board determination that another bank in the foreign bank's jurisdiction is subject to comprehensive supervision or regulation on a consolidated basis as long as the foreign bank is under substantially the same banking supervision or regulation in its home jurisdiction as the other bank. Note 2 to Rule 13k-1(b).
+
+26 Under the Exchange Act, the term "United States" includes the District of Columbia, Puerto Rico, the Virgin Islands, and any other possession of the United States. See the definition of "State" in Exchange Act Section 3(a)(16) [15 U.S.C. 78c(a)(16)].
+
+27 17 CFR 240.13k-1(a)(1).
+
+28 17 CFR 240.13k-1(a)(3).
+
+29 We are adopting unchanged from the proposed definition the first two prongs that require an institution to have its home jurisdiction outside the United States and to be regulated as a bank in its home jurisdiction. We also are adopting unchanged the definition of home jurisdiction to mean the country, political subdivision or other place in which a foreign bank is incorporated or organized. 17 CFR 240.13k-1(a)(2).
+
+30 See 12 CFR 211.21(n), which defines in part a foreign bank to mean "an organization that is organized under the laws of a foreign country and that engages directly in the business of banking outside the United States."
+
+31 Domestic credit card banks are typically "insured depository institutions" and subject to the Federal Reserve Board's insider lending provisions under Regulation O. These banks are therefore eligible for the exemption from the insider lending prohibition under Section 402.
+
+32 See 12 CFR 211.21(k), which defines "engages directly in the business of banking outside the United States" to mean that the "foreign bank engages directly in banking activities usual in connection with the business of banking in the countries where it is organized or operating."
+
+33 17 CFR 240.13k-1(b).
+
+34 Under 17 CFR 240.12b-2, the term "affiliate" means "a person that directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the person specified."
+
+35 Rule 13k-1(a)(4) [17 CFR 240.13k-1(a)(4)] also adopts the definitions of "parent" and "subsidiary" under 17 CFR 240.12b-2, both of which depend upon the definition of affiliate. Consequently, we are not adopting the proposed definition of parent that would have required a company to own or control a majority of a company's voting shares. Issuers should consult precedent under the federal securities laws when determining whether a particular entity can be a parent company if it directly or indirectly owns or controls less than 50 percent of a company's voting shares.
+
+36 See 12 CFR 215.1(b). Although Regulation O applies by its terms only to national and state member banks, the federal banking laws also make all insured state nonmember banks and savings associations subject to the insider lending restrictions of Regulation O. See 12 U.S.C. 1828(j)(2) and 1468(b).
+
+37 See the Federal Reserve Board's adopting release regarding certain amendments to Regulation O at 57 FR 22417, 22421 (May 28, 1992).
+
+38 See Note 1 to 17 CFR 240.13k-1(b).
+
+39 Because Regulation O defines a member bank to include any of its subsidiaries,<SUP> </SUP>Regulation O applies to loans by an insured depository institution's subsidiary, such as a mortgage lender, to insiders of the insured depository institution, its parent or other affiliate. See 12 CFR 215.2(j). Because the subsidiary is also treated as an "insured depository institution" that is subject to Regulation O, it is therefore eligible for the Section 402 exemption.
+
+40 17 CFR 240.13k-1(b)(1).
+
+41 The Federal Reserve Board generally is required to make a CCS determination when a foreign bank seeks to open a U.S. banking office, acquire a U.S. bank, or become certified as a financial holding company. See 12 CFR 211.24(c), 12 CFR 225.13(a)(4), and 12 CFR 225.92(c) and (e).
+
+42 See Note (2) to Rule 13k-1(b).
+
+43 See , for example , the Federal Reserve Board Order Concerning HSH Nordbank AG, Hamburg/Kiel, Germany, 89 Federal Reserve Bulletin No. 7 (July 2003) at p. 344.
+
+44 17 CFR 240.13k-1(b)(2).
+
+45 See 12 CFR 215.4(a)(1) and (2).
+
+46 See 12 CFR 211.24(c)(1)(B)(ii), which provides that when making a CCS determination, "the Board shall determine whether the foreign bank is regulated in such a manner that its home country supervisor receives sufficient information on the worldwide operations of the foreign bank (including the relationships of the bank to any affiliate) to assess the foreign bank's overall financial condition and compliance with law and regulation." Although information regarding a foreign bank's dealings with affiliates is one factor that the Board must consider when conducting a CCS determination, the definition of "affiliate" includes companies only, such as a foreign bank's parent company and sister subsidiaries, and not insiders of these companies. See , for example , 12 CFR 211.21(a).
+
+47 The proposed third condition would also have required the intended loan recipient to abstain from the required board vote. We based this proposed third condition on similar Regulation O requirements. See 12 CFR 215.4(b)(1) and (2).
+
+48 17 CFR 240.13k-1(c). This provision references the definition of foreign government in 17 CFR 230.405, according to which the term "foreign government"means the government of any foreign country or of any political subdivision of a foreign country.
+
+49 In a number of situations, the staff has not objected to certain foreign government-owned or controlled banks registering debt securities on Schedule B. See , for example Bank of Greece No-Action Letter (June 2, 1993); Kreditanstalt für Wiederaufbau No-Action Letter (September 21, 1987). We are not directing the staff to change its practice.
+
+50 See the Shearman & Sterling LLP letter (October 8, 2003) at p. A-1, n.2. This commenter specifically requested that we exempt those issuers that have filed a Schedule B registration statement for unlisted debt securities, which has not yet gone effective and which has not been withdrawn. Because Exchange Act Section 15(d) [15 U.S.C. 78o(d)] does not apply to foreign governments, this issuer would not have any Exchange Act reporting obligations once the registration statement became effective. Accordingly, the pre-effective period is the only time that Section 402's insider lending prohibition would apply to this issuer. We agree with this commenter that applying Section 402's prohibition in this situation would be unfair, would provide no meaningful protection, and does not appear to advance Congress' objective in adopting Section 402. We also believe, however, that because of broader concerns, the exemption should apply to any foreign governmental entity that files a Schedule B registration statement.
+
+51 See 17 CFR 240.10A-3(c)(6)(iii). Sarbanes-Oxley Act Section 301 added Exchange Act Section 10A(m)(1) [15 U.S.C. 78j-1(m)(1).]
+
+52 See Release No. 33-8220, n. 159 (April 9, 2003) [68 FR 18788].
+
+53 Instruction 2 permits a company to provide specified abbreviated disclosure about bank loans that "are not disclosed as nonaccrual, past due, restructured or potential problems under Industry Guide 3. . ."
+
+54 For example, Form 20-F Item 7.B.2 requires disclosure regarding loans made to a close family member of a company's director or senior management member.
+
+55 The form amendment does not apply to the few Canadian banks that are subject to the Multijurisdictional Disclosure System and file their Exchange Act annual reports and registration statements on Form 40-F (17 CFR 249.240f). We have not similarly amended Form 40-F because, as we explained in the proposing release, Form 40-F's content is determined primarily by the applicable Canadian securities administrator.
+
+56 We have also provided a corresponding exhibit instruction for this Item 7.B legal opinion. See amended paragraph 14 of Instructions as to Exhibits.
+
+57 5 U.S.C. 553(d)(1).
+
+58 44 U.S.C. 3501 et seq .
+
+59 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+60 Because Securities Act Form F-4 (OMB Control No. 3235-0325) (17 CFR 239.34) and Form F-1 (OMB Control No. 3235-0258) (17 CFR 239.31) require the disclosure of information specified in Form 20-F Item 7.B, the Form 20-F amendment will potentially affect Forms F-4 and F-1 registrants. However, based on our review of Form F-4 and F-1 registration statements filed by foreign bank issuers during the three most recently completed years, we expect that the Form 20-F amendment will not have a material effect on these collections of information for the following reasons. First, during 2001 through 2003, the 46 reporting foreign banks filed only 7 Form F-4 registration statements and 2 Form F-1 registration statements. 5 of the 7 Form F-4 registrants incoporated by reference their most recent Form 20-F annual report and, therefore, did not repeat the Item 7.B disclosure in their Securities Act registration statements. Securities Act registrants that are able to incorporate by reference should not sustain any additional effect from the Form 20-F amendment since no additional analysis and disclosure is required for the Securities Act registration statement other than what is required for the Form 20-F. Second, none of the remaining Forms F-4 and F-1 registrants disclosed any insider loans that would have triggered the additional disclosure requirements mandated by the Form 20-F amendment. Accordingly, since none of these Securities Act registrants would have been affected by the Form 20-F amendment, we do not anticipate that this amendment will have a material effect on foreign bank issuers filing registration statements under the Securities Act.
+
+61 41 of these foreign bank issuers file Form 20-F annual reports and 5 file Form 40-F annual reports.
+
+62 We have derived this average from a review of the most recent Form 20-F and 40-F annual reports filed by these foreign banks.
+
+63 We have derived these expected costs by adding the additional burden estimated to result from adoption of the Form 20-F Item 7.B.2 amendment, as set forth in the Paperwork Reduction Act section of the Proposing Release (1 burden hour of work for internal staff and $900 of work for outside firms), with the additional burden estimated to result from adoption of Instruction 3 to Item 7.B, as set forth in Part III of this Release (1 burden hour of work for internal staff and $675 of work for outside firms).
+
+64 15 U.S.C. 78w(a)(2).
+
+65 15 U.S.C. 77b(b).
+
+66 15 U.S.C. 78c(f).
+
+67 5 U.S.C. 605(b).
+
+68 15 U.S.C. 77f, 77g, 77h, 77j, and 77s.
+
+69 15 U.S.C. 78c, 78 l , 78m, 78w, and 78mm.

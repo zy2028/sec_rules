@@ -1,0 +1,693 @@
+https://www.sec.gov/rules/final/ic-22597.txt
+
+	I.0.0.0: I. BACKGROUND
+
+		I.A.0.0: A. Statutory Exclusions for Privately Offered Funds
+
+		I.B.0.0: B. Amendments to Section 3(c)(1)
+
+		I.C.0.0: C. The Commission's Rule Proposals
+
+	II.0.0.0: II. RULES RELATING TO SECTION 3(c)(7) FUNDS
+
+		II.A.0.0: A. Investments and Other Matters
+
+			II.A.1.0: 1. Qualified Institutional Buyers as Qualified Purchasers
+
+			II.A.2.0: 2. Definition of Investments
+
+			II.A.2.a: a. Securities
+
+			II.A.2.b: b. Real Estate
+
+			II.A.2.c: c. Commodity Interests, Commodities and Financial Contracts
+
+			II.A.2.d: d. Cash and Cash Equivalents
+
+			II.A.2.e: e. Other Types of Investments
+
+			II.A.3.0: 3. Determining the Amount of Investments
+
+			II.A.3.a: a. Value of Investments
+
+			II.A.3.b: b. Deductions from Amount of Investments
+
+			II.A.3.i: i. Certain Indebtedness
+
+			II.A.4.0: 4. Jointly Held Investments
+
+			II.A.5.0: 5. Investments Held by Certain Affiliated Entities
+
+			II.A.6.0: 6. Reasonable Belief
+
+			II.A.7.0: 7. Retirement Plans and Other Forms of Holding Investments
+
+			II.A.8.0: 8. Pension and Retirement Plans as Qualified Purchasers
+
+			II.A.9.0: 9. Other Issues Relating to Qualified Purchasers
+
+		II.B.0.0: B. Definitions of Beneficial Ownership and Other Issues Relating to the Grandfather and Consent Provisions
+
+			II.B.1.0: 1. The Grandfather Provision
+
+			II.B.1.a: a. Background
+
+			II.B.1.b: b. Operation of the Rule
+
+			II.B.1.c: c. Interpretative Issues Relating to the
+
+			II.B.1.i: i. Scope of the Grandfather Provision
+
+			II.B.2.0: 2. The Consent Provision
+
+			II.B.2.a: a. Definition of Beneficial Owner
+
+			II.B.2.b: b. Required Consent
+
+		II.C.0.0: C. Conforming Rule
+
+		II.D.0.0: D. Non-Exclusive Safe Harbor for Certain Section 3(c)(7) Funds
+
+	III.0.0.0: III. OTHER RULES RELATING TO PRIVATELY OFFERED FUNDS
+
+		III.A.0.0: A. Section 3(c)(1) Funds
+
+			III.A.1.0: 1. Transition Rule
+
+			III.A.2.0: 2. Applicability of the Amended Look-Through Provision
+
+		III.B.0.0: B. Investments by Knowledgeable Employees
+
+		III.C.0.0: C. Involuntary Transfers
+
+	IV.0.0.0: IV. COST/BENEFIT ANALYSIS AND EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION
+
+	V.0.0.0: V. SUMMARY OF REGULATORY FLEXIBILITY ANALYSIS
+
+	VI.0.0.0: VI. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+17 CFR Part 270 Release No. IC-22597, International Series Release No. 1071, File No. S7-30-96 
+
+RIN 3235-AH09 
+
+Privately Offered Investment Companies 
+
+AGENCY: Securities and Exchange Commission 
+
+ACTION: Final rules 
+
+SUMMARY: The Commission is adopting rules under the Investment Company Act of 1940 to implement provisions of the National Securities Markets Improvement Act of 1996 that apply to privately offered investment companies. The rules define certain terms for purposes of the new exclusion from regulation under the Investment Company Act for privately offered investment companies whose investors are all highly sophisticated investors, termed "qualified purchasers." The rules also address certain transition issues relating to existing privately offered investment companies that have no more than 100 investors and other matters concerning privately offered investment companies. 
+
+EFFECTIVE DATE: The rules become effective on June 9, 1997. 
+
+FOR FURTHER INFORMATION CONTACT: David P. Mathews, Senior Counsel, Nadya B. Roytblat, Assistant Office Chief, or Kenneth J. Berman, Assistant Director, at (202) 942-0690, Office of Regulatory Policy, Division of Investment Management, Mail Stop 10-2, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549. Requests for formal interpretative advice should be directed to the Office of Chief Counsel at (202) 942-0659, Division of Investment Management, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-6, Washington, D.C. 20549. SUPPLEMENTARY INFORMATION: The Commission today is adopting rules 2a51-1, 2a51-2, 2a51-3, 3c-1, 3c-5 and 3c-6 [17 CFR 270.2a51-1, .2a51-2, .2a51-3, .3c-1, .3c-5 and .3c-6] under the Investment Company Act of 1940 [15 USC 80a] (the "Investment Company Act" or "Act").
+
+<END HEADER>
+
+<h>EXECUTIVE SUMMARY</h>
+
+The Commission is adopting rules to implement certain provisions of the National Securities Markets Improvement Act of 1996 (the "1996 Act"). The 1996 Act, among other things, added section 3(c)(7) to the Investment Company Act to create a new exclusion from regulation under the Act for privately offered investment companies that sell their securities solely to "qualified purchasers" owning or investing on a discretionary basis a specified amount of "investments" ("Section 3(c)(7) Funds"). The 1996 Act also amended section 3(c)(1) of the Investment Company Act, which excludes from regulation under the Act privately offered investment companies with 100 or fewer "beneficial owners" ("Section 3(c)(1) Funds"). Reflecting a relationship between section 3(c)(1) and new section 3(c)(7), the 1996 Act contains provisions that permit an existing Section 3(c)(1) Fund to convert into a Section 3(c)(7) Fund or invest in a Section 3(c)(7) Fund as a qualified purchaser, subject to certain requirements designed to protect the Section 3(c)(1) Fund's existing "beneficial owners."
+
+The 1996 Act requires the Commission to prescribe rules defining the terms "investments" and "beneficial owner" relevant to the new provisions by April 9, 1997. Other changes to the provisions of the Investment Company Act relating to privately offered investment companies require Commission rulemaking as well. The Commission is adopting rules under the Investment Company Act that: define the term "investments" for purposes of the qualified purchaser definition; define the term "beneficial owner" for purposes of the provisions that permit an existing Section 3(c)(1) Fund to convert into a Section 3(c)(7) Fund or to be treated as a qualified purchaser; clarify certain interpretative issues under section 3(c)(7); permit certain Section 3(c)(1) Funds to rely on the pre-1996 Act provisions of section 3(c)(1) rather than restructure their existing relationships with investors; permit knowledgeable employees of a Section 3(c)(1) Fund or a Section 3(c)(7) Fund (referred to collectively in this Release as "privately offered funds" or "funds"), and knowledgeable employees of certain affiliates of these Funds, to invest in the Funds; and address transfers of securities in a privately offered fund when the transfer was a gift or caused by divorce or death. The rules reflect modifications suggested by commenters that are designed to make the rules less complex and easier to apply, consistent with the policies underlying the Investment Company Act and the 1996 Act's provisions relating to privately offered funds.
+
+I. BACKGROUND
+
+<h>A. Statutory Exclusions for Privately Offered Funds</h>
+
+Section 3(c)(1) of the Investment Company Act excludes from regulation under the Act certain privately offered investment companies "whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons."<sup> 1 </sup> A wide variety of investment vehicles rely on section 3(c)(1), ranging from small groups of individual investors, such as investment clubs, to venture capital and other investment pools designed primarily for sophisticated investors.<sup> 2 </sup>
+
+The 1996 Act<sup> 3 </sup> added new section 3(c)(7) of the Investment Company Act to create an alternative exclusion for investment companies that sell their securities solely to investors who are "qualified purchasers."<sup> 4 </sup> As is the case for a Section 3(c)(1) Fund, a Section 3(c)(7) Fund cannot make, or propose to make, a public offering of its securities.<sup> 5 </sup>
+
+New section 2(a)(51)(A) of the Investment Company Act defines the term qualified purchaser as (i) any natural person who owns not less than $5 million in investments (as defined by the Commission),<sup> 6 </sup> (ii) a family-owned company ("Family Company") that owns not less than $5 million in investments,<sup> 7 </sup> (iii) certain trusts,<sup> 8 </sup> and (iv) any other person (e.g., an institutional investor) that owns and invests on a discretionary basis not less than $25 million in investments.<sup> 9 </sup>
+
+Section 3(c)(7)(B) includes a "grandfather" provision ("Grandfather Provision") that permits an existing Section 3(c)(1) Fund to convert into a Section 3(c)(7) Fund ("Grandfathered Fund").<sup> 10 </sup> The outstanding securities of a Grandfathered Fund may be beneficially owned by as many as 100 persons that are not qualified purchasers, provided that these persons acquired the securities of the Grandfathered Fund on or before September 1, 1996.<sup> 11 </sup> The Grandfather Provision is designed to allow an existing Section 3(c)(1) Fund wishing to avail itself of section 3(c)(7) to continue its existing relationships with investors that are not qualified purchasers.<sup> 12 </sup>
+
+The Grandfather Provision requires the Grandfathered Fund, prior to the conversion, to provide each beneficial owner of its securities (i) notice of the Fund's intention to become a Section 3(c)(7) Fund and (ii) an opportunity to redeem the owner's interest in the Fund.<sup> 13 </sup> The 1996 Act directs the Commission to define the term "beneficial owner" for this purpose.<sup> 14 </sup> The 1996 Act also requires an existing privately offered fund that wishes to become a qualified purchaser to obtain the consent of certain beneficial owners of its securities and certain other persons (the "Consent Provision").<sup> 15 </sup>
+
+<h>B. Amendments to Section 3(c)(1)</h>
+
+To prevent circumvention of the 100-investor limit, section 3(c)(1)(A) (the "Look-Through Provision") requires, in some instances, that a fund seeking to rely on section 3(c)(1) "look through" certain companies (e.g., corporations, partnerships and other investors that are not natural persons) that hold its voting securities and count the company's security holders as beneficial owners of the fund's securities.<sup> 16 </sup> Prior to the 1996 Act,<sup> 17 </sup> the Look- Through Provision applied (i) if a company owned 10% or more of a Section 3(c)(1) Fund's voting securities ("First 10% Test") and (ii) more than 10% of the company's total assets consisted of securities of Section 3(c)(1) Funds generally ("Second 10%Test").<sup> 18 </sup>
+
+The 1996 Act's amendments to section 3(c)(1) were designed, in part, to simplify the way in which the number of investors in a fund is calculated for purposes of the 100-investor limit. The amended Look-Through Provision does not apply to an investor that is an operating company. In other words, a Section 3(c)(1) Fund must only look through an investor to count its shareholders if the investor is an investment company or a privately offered fund.<sup> 19 </sup> In addition, the Second 10% Test has been eliminated. As a result, a Section 3(c)(1) Fund must count all of the shareholders of an investment company or fund investor that owns 10% or more of the Section 3(c)(1) Fund's voting securities even if the investor does not have more than 10% of its assets invested in Section 3(c)(1) Funds.<sup> 20 </sup> These revisions, while generally narrowing the scope of the Look-Through Provision, have raised questions regarding the regulatory status of existing Section 3(c)(1) Funds that have relied on the Second 10% Test.
+
+<h>C. The Commission's Rule Proposals</h>
+
+On December 26, 1996, the Commission published a release proposing several rules under the Investment Company Act to implement the provisions of the 1996 Act relating to privately offered funds ("Proposing Release").<sup> 21 </sup> Proposed rule 2a51-1 would define the term "investments" for purposes of the qualified purchaser definition. Proposed rule 2a51-2 would define the term "beneficial owner" for purposes of the Grandfather and Consent Provisions. Proposed rule 2a51-3 would provide that a company could not be a qualified purchaser if it was formed for the specific purpose of acquiring the securities of a Section 3(c)(7) Fund unless each beneficial owner of the company's securities is a qualified purchaser. Proposed rule 3c-7 would address certain issues related to a Grandfathered Fund and an affiliated Section 3(c)(1) Fund.
+
+The Commission also proposed two other rules that the 1996 Act directed the Commission to adopt. The 1996 Act directed the Commission to prescribe rules permitting "knowledgeable employees" of a privately offered fund (or knowledgeable employees of the fund's affiliates) to invest in the fund without causing the fund to lose its exclusion from regulation under the Investment Company Act.<sup> 22 </sup> The Commission proposed rule 3c-5 to permit knowledgeable employees to make such investments.
+
+The 1996 Act also directed the Commission to prescribe rules implementing section 3(c)(1)(B) of the Act.<sup> 23 </sup> Section 3(c)(1)(B) provides that beneficial ownership of securities of a Section 3(c)(1) Fund by any person who acquires the securities as a result of "a legal separation, divorce, death, or other involuntary event" will be deemed to be beneficial ownership by the person from whom the transfer was made, pursuant to such rules and regulations as the Commission prescribes.<sup> 24 </sup> The Commission proposed rule 3c-6 to implement section 3(c)(1)(B) of the Act. The proposed rule also would address similar transfers of securities issued by Section 3(c)(7) Funds.<sup> 25 </sup>
+
+The Commission received letters from 48 commenters concerning the proposals. While commenters generally supported the proposed rules, many suggested changes designed to simplify the rules, make them more flexible or resolve technical issues. The Commission is adopting the proposed rules with several modifications that reflect, in part, many of the commenters' suggestions.
+
+<h>II. RULES RELATING TO SECTION 3(c)(7) FUNDS</h>
+
+<h>A. Investments and Other Matters</h>
+
+Rule 2a51-1 under the Investment Company Act defines the term investments for purposes of determining whether a prospective investor in a Section 3(c)(7) Fund ("Prospective Qualified Purchaser") meets the $5 million/$25 million thresholds.<sup> 26 </sup> Rule 2a51-1 also contains provisions designed to clarify how the amount of a Prospective Qualified Purchaser's investments should be determined.
+
+<h>1. Qualified Institutional Buyers as Qualified Purchasers</h>
+
+Many commenters suggested that the determination of qualified purchaser status could be made significantly easier if qualified institutional buyers ("QIBs"), as defined in rule 144A under the Securities Act of 1933 ("Securities Act"), were deemed to be qualified purchasers. Rule 144A generally defines QIBs as certain institutions (including registered investment companies) that own and invest on a discretionary basis $100 million of securities of issuers that are not affiliated with the institution ("QIB Securities"); banks that own and invest on a discretionary basis $100 million of QIB Securities and that have an audited net worth of at least $25 million; and certain registered dealers.<sup> 27 </sup> The Commission believes that it is generally appropriate to treat QIBs as qualified purchasers for purposes of section 3(c)(7) in light of the high threshold of securities ownership that these institutions must meet under rule 144A, a threshold much higher than the investment ownership threshold required for qualified purchasers under section 2(a)(51)(A) of the Act.
+
+Rule 2a51-1 therefore provides that, with two exceptions, a QIB is deemed to be a qualified purchaser.<sup> 28 </sup> The first exception relates to dealers. Under rule 144A, a dealer (other than a dealer acting for a QIB in a riskless principal transaction) must own and invest on a discretionary basis $10 million of QIB Securities.<sup> 29 </sup> In order to coordinate the definition of QIB with the statutory definition of qualified purchaser, rule 2a51-1 requires the dealer to own and invest on a discretionary basis $25 million of QIB Securities.<sup> 30 </sup>
+
+The second exception relates to employee benefit plans. Rule 144A includes in its QIB definition certain employee benefit plans, as well as certain trusts that hold assets of employee benefit plans.<sup> 31 </sup> A self-directed employee benefit plan (such as a "401(k)" plan) generally would not be considered to be a qualified purchaser for purposes of rule 2a51-1; rather, an employee could invest in a Section 3(c)(7) Fund through a self-directed plan only if the employee is a qualified purchaser.<sup> 32 </sup> This provision therefore is not available to a self-directed plan.<sup> 33 </sup>
+
+<h>2. Definition of Investments</h>
+
+Rule 2a51-1, as proposed, would have defined investments broadly to include securities (other than controlling interests in certain issuers), and real estate, futures contracts, physical commodities, and cash and cash equivalents held for investment purposes. The Commission believes that this approach is consistent with the legislative history of the 1996 Act, which suggests that Congress expected that the definition of investments would be broader than securities, but that not every asset be treated as an investment.<sup> 34 </sup> Rather, the legislative history suggests that the asset should be held for investment purposes and that the nature of the asset should indicate that its holder has the investment experience and sophistication necessary to evaluate the risks of investing in unregulated investment pools.<sup> 35 </sup>
+
+Commenters generally supported the approach of the proposal, although many commenters suggested alternative approaches to addressing particular issues. The Commission is adopting the definition of investments substantially as proposed, with modifications made in view of the commenters' suggestions, as discussed below.
+
+<h>a. Securities</h>
+
+Rule 2a51-1(b)(1) includes securities within the definition of investments.<sup> 36 </sup> This approach should result in a broad range of assets being treated as investments for purposes of the qualified purchaser definition. Many investment opportunities, such as limited partnerships and limited liability companies, are offered in the form of securities.<sup> 37 </sup>
+
+Under the rule, securities that constitute a "control interest" in an issuer generally do not come within the definition of investments.<sup> 38 </sup> Limiting the definition in this manner is designed to exclude, among other things, controlling ownership interests in family-owned and other closely-held businesses. These holdings may not demonstrate the degree of financial sophistication necessary to invest in unregulated investment pools.
+
+The Commission proposed certain exceptions from the control interest exclusion. The Commission is broadening these exceptions in certain respects, in light of the suggestions of commenters as discussed below.
+
+Investment Vehicles. The rule permits control interests in "investment vehicles" excluded or exempted from the definition of investment company by sections 3(c)(1) through 3(c)(9) of the Act or rule 3a-6 or 3a-7 under the Act to be treated as investments.<sup> 39 </sup> Sections 3(c)(1) through 3(c)(9) and rules 3a-6 and 3a-7 except from the definition of investment company, in addition to privately offered funds, certain types of issuers that engage in significant investment- related activities (i.e., brokers and other financial intermediaries, banks, insurance companies, finance companies, and certain structured finance vehicles).<sup> 40 </sup>
+
+A control interest in these types of companies generally suggests a significant degree of investment experience. In a change from the proposal, the rule also specifies that a control interest in a commodity pool may be treated as an investment.<sup> 41 </sup> As in the case of a control interest in an investment company, a control interest in a commodity pool may suggest a significant degree of investment experience on the part of the Prospective Qualified Purchaser.
+
+Public Companies. The rule, as proposed, would have included in the definition of investments a control interest in a "listed" company that is not a majority-owned subsidiary of the Prospective Qualified Purchaser. A listed company would have been defined as a company whose equity securities are listed on a national securities exchange, traded on the National Association of Securities Dealers Automated Quotation System (NASDAQ), or listed on a designated offshore securities market. Commenters generally supported treating control interests in listed companies as investments, but suggested that the category should be broadened to include control interests (including majority ownership interests) in any public company.
+
+The Commission agrees, and has revised the rule to include in the definition of investments a control interest in a company that files periodic reports in accordance with the Securities Exchange Act of 1934.<sup> 42 </sup> The Commission has concluded that a person that holds a control interest in a reporting company is likely to have significant experience in financial matters and investments. The fact that the control interest is a majority interest should not affect this analysis. As proposed, a control interest in an issuer whose securities are listed on a designated offshore securities market (as defined by Regulation S under the Securities Act) also may be treated as an investment.<sup> 43 </sup>
+
+Large Private Companies. Many commenters suggested that a control interest in a large private operating company should be treated as an investment. These commenters asserted that the very size of such a company suggests that a person who controls it is sophisticated and has significant financial acumen.<sup> 44 </sup> The commenters also pointed out that sophisticated investors, such as venture capital investors, often hold control interests in private companies, and that not treating these holdings as investments could result in these investors not being treated as qualified purchasers.
+
+Under the rule as adopted, a control interest in a company that has shareholders' equity of $50 million or more may be treated as an investment.<sup> 45 </sup> The Commission believes that this change should respond to the concerns of the commenters in a manner consistent with the legislative history indicating Congress' view that control interests in family- owned and other small businesses may not evidence investment sophistication.
+
+<h>b. Real Estate</h>
+
+Rule 2a51-1(b)(2) includes real estate held for investment purposes within the definition of investments.<sup> 46 </sup> Most commenters strongly supported treating real estate as an investment.
+
+Consistent with the examples provided by the legislative history of the 1996 Act, real estate is not considered to be held for investment purposes if the real estate is used by the Prospective Qualified Purchaser or a member of the Prospective Qualified Purchaser's family ("Related Person") for personal purposes (e.g., as a personal residence).<sup> 47 </sup> The term "personal purposes" is derived from the Internal Revenue Code provision that addresses circumstances under which a taxpayer is allowed deductions with respect to certain "dwelling units."<sup> 48 </sup> Thus, residential property may be treated as an investment if it is not treated as a residence for tax purposes. Many commenters agreed that the reference to the Internal Revenue Code provisions is appropriate because it would allow a Prospective Qualified Purchaser to determine whether residential real estate is an investment based on the same provisions he or she would apply in determining whether certain expenses related to the property are deductible for purposes of his or her tax returns.
+
+Property owned by a Prospective Qualified Purchaser that has been used by the Prospective Qualified Purchaser or a Related Person as a place of business or in connection with the conduct of a trade or business ("Business-Related Property") also is not considered to be held for investment purposes.<sup> 49 </sup> While Business-Related Property may have been acquired with an investment goal in mind, these holdings may not be indicative of extensive experience in the financial or real estate markets and may have been acquired for reasons other than the potential investment merits of the property.<sup> 50 </sup>
+
+<h>c. Commodity Interests, Commodities and Financial Contracts</h>
+
+Rule 2a51-1(b)(3) includes contracts for the purchase or sale of a commodity for future delivery ("Commodity Interests") held for investment purposes within the definition of investments.<sup> 51 </sup> Most commenters agreed that Commodity Interests should be treated as investments.
+
+The rule also includes in the definition of investments commodities that are held in physical form and for investment purposes.<sup> 52 </sup> This provision recognizes that many investors hold gold, silver or other commodities as part of their investment portfolios. While some commenters suggested that the definition include any commodity, other commenters stated that the rule's definition would include most commodities held as investments.
+
+The rule has been revised from the proposal to include "swaps" and similar financial contracts in the definition of investments.<sup> 53 </sup> The Commission agrees with the commenters that, because these instruments often are used in connection with investments, it is appropriate to treat them as investments.<sup> 54 </sup>
+
+(I) takes the form of an individually negotiated contract, agreement, or option to buy, sell, lend, swap, or repurchase, or other similar individually negotiated transaction commonly entered into by participants in the financial markets;
+
+(II) is in respect of securities, commodities, currencies, interest or other rates, other measures of value, or any other financial or economic interest similar in purpose or function to any of the foregoing; and
+
+(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
+
+Some "financial contracts" are also securities, and thus investments under rule 2a51-1(b)(1). See In re BT Securities Corp., Exchange Act Release No. 35136 (Dec. 22, 1994).
+
+<h>d. Cash and Cash Equivalents</h>
+
+Rule 2a51-1(b)(7) includes cash and cash equivalents held for investment purposes ("Cash") in the definition of investments.<sup> 55 </sup> Most commenters agreed that treating Cash as an investment was appropriate because many investors are likely at any given time to have a component of their investment portfolio in Cash.<sup> 56 </sup> In response to a request for comment in the Proposing Release whether the "investment purposes" test for Cash needed further elaboration, many commenters responded that the "investment purposes" test was an appropriate formulation.
+
+The rule clarifies certain issues related to Cash that were addressed in the Proposing Release or raised by commenters. The rule specifies that the net cash surrender value of an insurance policy may be considered to be Cash.<sup> 57 </sup> The rule also specifies that, for purposes of the rule, bank deposits, certificates of deposit, bankers acceptances and similar bank instruments may be treated as Cash.<sup> 58 </sup>
+
+The rule also provides that a Prospective Qualified Purchaser that is a privately offered fund or a commodity pool may treat as investments unfunded capital commitments (i.e., firm agreements by investors to provide these Prospective Qualified Purchasers with cash upon request).<sup> 59 </sup> Several commenters noted that privately offered funds often do not require their investors to provide the moneys the investors have committed to invest in the fund until investment opportunities become available to the fund. The fund therefore has access to cash that will be used for investment purposes, through commitments that reflect investors' assessment of the fund sponsor's investment expertise. The Commission thus considers it appropriate to treat these capital commitments in a manner similar to Cash.
+
+<h>e. Other Types of Investments</h>
+
+The Commission requested comment whether certain assets (such as jewelry, artwork, antiques and other collectibles) that may be held by some for investment purposes should be treated as investments. While several commenters suggested that such assets should be included in the definition of investments, others agreed that they should be excluded because these holdings do not necessarily suggest any experience in the financial markets or investing in unregulated investment pools.<sup> 60 </sup> The Commission agrees with this analysis and the rule therefore does not include such assets in the definition of investments.
+
+<h>3. Determining the Amount of Investments</h>
+
+Rule 2a51-1 permits the amount of a Prospective Qualified Purchaser's investments to be based either on the market value of the investments or on their cost. In either case, the rule requires indebtedness incurred to acquire investments to be deducted from the amount of investments owned as discussed below.
+
+<h>a. Value of Investments</h>
+
+Rule 2a51-1(d) specifies that the value of an investment may be either its market value on the most recent practicable date or its cost.<sup> 61 </sup> Most commenters supported this approach. The rule as adopted has been reformulated to state that the value of an investment may be either its cost or "fair market value" on the most recent practicable date. This change is designed to clarify that, in the absence of a recent market value, an investment's value could be determined by an appraisal by an independent third party.<sup> 62 </sup>
+
+The rule does not specify which valuation methodology should be used in a particular circumstance. A Section 3(c)(7) Fund could allow Prospective Qualified Purchasers to provide the amount of their investments based on either methodology, since either methodology is an appropriate way to measure a Prospective Qualified Purchaser's investment experience.
+
+<h>b. Deductions from Amount of Investments</h>
+
+<h>i. Certain Indebtedness</h>
+
+The rule, as proposed, would have required the deduction from the amount of a Prospective Qualified Purchaser's investments (i) of any indebtedness incurred to acquire the investments and (ii) of certain mortgage-related indebtedness incurred during the preceding 12 months ("Mortgage Deduction"). These provisions, (collectively, the "Indebtedness Deduction Provision") reflected the Commission's belief that, in establishing the $5 million/$25 million investment thresholds, Congress intended that qualified purchasers generally be limited to persons who own a specified amount of investments. This intention would appear to be inconsistent with permitting a Prospective Qualified Purchaser to accumulate the requisite amount of investments through borrowing or similar means.
+
+Most commenters objected to the Indebtedness Deduction Provision as unnecessary and inconsistent with Congress's intent. Some commenters, however, believed that the provision was appropriate and consistent with the policies underlying section 3(c)(7). Many commenters, whether opposing or supporting the provision, suggested that it be revised in certain respects to make it easier to apply.
+
+After considering all of the comments received and the 1996 Act's legislative history, the Commission continues to believe that the Indebtedness Deduction Provision appropriately implements Congress's intent. The Commission is therefore adopting this provision substantially as proposed with one change designed to simplify its application. The rule, as adopted, does not include the Mortgage Deduction. This deduction was designed to preclude a personal residence or a vacation home from, in effect, being converted into Cash or another type of investment for purposes of meeting the $5 million threshold. Some commenters suggested that this provision was overly complex and would be difficult to administer. Other commenters suggested generally that the Indebtedness Deduction Provision, if included in the rule, be limited to indebtedness incurred to acquire investments. These commenters noted that indebtedness secured by a mortgage could be incurred for various reasons other than to acquire investments and that the provision was therefore overbroad.
+
+Upon reflection, the Commission has concluded that the Mortgage Deduction is unnecessary. As discussed above, the rule requires that indebtedness incurred to acquire an investment be deducted.<sup> 63 </sup> If a mortgage loan (or any other type of loan) is incurred to acquire, or for the purpose of acquiring, an investment, the outstanding amount of such loan would have to be deducted.<sup> 64 </sup>
+
+Consistent with these changes to the Indebtedness Deduction Provision, the rule's provision with respect to indebtedness deductions by Family Companies has been significantly simplified. Certain proposed deductions relating to indebtedness incurred by a Family Company or its owners are not required by the adopted rule.<sup> 65 </sup> The rule, as adopted, requires a Family Company to deduct the amount of any outstanding indebtedness incurred by the Family Company or any of the Family Company's owners to acquire the investments held by the Family Company.<sup> 66 </sup>
+
+<h>ii. Other Payments</h>
+
+The rule, as proposed, would have required a Prospective Qualified Purchaser who is a natural person to deduct certain payments that he or she received during the preceding 12 months relating to, among other things, lawsuits, insurance policies, divorce and separation agreements, and gifts and bequests. This provision ("Other Payments Provision") was designed to assure that Prospective Qualified Purchasers who are natural persons would be required to deduct from the amount of their investments certain amounts received during the preceding 12 months that could inflate the amount of their investments (particularly Cash) without reflecting any investment experience.
+
+As with the Indebtedness Deduction Provision, most commenters objected to the Other Payments Provision as overly complex and potentially difficult to administer. One commenter, however, believed that the Other Payments Provision was consistent with the policies underlying section 3(c)(7) and suggested that the Commission consider additional deductions (such as the proceeds from the sale of a family-ownedbusiness).
+
+After considering the comments received, the Commission has determined not to adopt the Other Payments Provision at this time. Similarly, the provision that would have required Other Payments received by owners of a Family Company to be deducted by the Family Company is not being adopted. At this time, the burdens that might be associated with the Other Payments Provision appear to outweigh its benefits to investors. The Commission may revisit this issue in the future if experience with section 3(c)(7) suggests that a provision similar to the Other Payments Provision is necessary or appropriate in the public interest or for the protection of investors.
+
+<h>4. Jointly Held Investments</h>
+
+The rule provides that, in determining whether a natural person is a qualified purchaser, the person may include in the amount of his or her investments any investments held jointly with the person's spouse ("Joint Investments").<sup> 67 </sup> Thus, a person who owns $3 million of investments individually and $2 million of Joint Investments would be a qualified purchaser. The spouse also would be a qualified purchaser if he or she owned, individually, an additional $3 million of investments.
+
+A spouse who is not a qualified purchaser can hold a joint interest in a Section 3(c)(7) Fund with his or her qualified purchaser spouse.<sup> 68 </sup> The Commission requested comment whether spouses who hold $5 million in investments in the aggregate (regardless of whether the investments are held jointly) should be treated as qualified purchasers if they make a joint investment in a Section 3(c)(7) Fund. All the commenters that addressed this issue agreed that permitting such investments would be appropriate. The rule as adopted reflects this approach.<sup> 69 </sup> The Commission believes that this approach will simplify the determination of whether spouses making a joint investment are qualified purchasers.
+
+<h>5. Investments Held by Certain Affiliated Entities</h>
+
+The rule, as proposed, would have permitted a parent company that is a Prospective Qualified Purchaser to aggregate investments it owns with those owned by its majority-owned subsidiaries, provided that the subsidiaries' investments were managed under the direction of the parent company.<sup> 70 </sup> Most commenters agreed with this approach, but suggested that the provision should address a broader range of corporate and other inter-company structures. Commenters suggested, for example, that when a company that is part of a group of related companies is making an investment in a Section 3(c)(7) Fund, it is not necessary to focus on which of these companies actually owns or manages the investments.
+
+The Commission agrees with this analysis. The rule as adopted permits the investments of a parent company and its majority-owned subsidiaries to be aggregated, regardless of which company is the Prospective Qualified Purchaser.<sup> 71 </sup>
+
+<h>6. Reasonable Belief</h>
+
+The rule, as proposed, would have permitted a Section 3(c)(7) Fund or a person acting on its behalf, when determining whether a Prospective Qualified Purchaser is a qualified purchaser, to rely upon audited financial statements, brokerage account statements and other appropriate information and certifications provided by the Prospective Qualified Purchaser or its representatives, as well as upon publicly available information as of a recent date.<sup> 72 </sup> The rule would have required that reliance on this information be reasonable and that the Section 3(c)(7) Fund or its representatives, after reasonable inquiry, have no basis for believing that the information is incorrect in any material respect.
+
+Commenters generally agreed that the proposed rule was consistent with the suggestion in the 1996 Act's legislative history that the Commission use its rulemaking authority to adopt rules with respect to "reasonable care defenses."<sup> 73 </sup> The commenters suggested, however, that the rule should conform to the provisions of other Commission rules under the Securities Act that address transactions involving certain categories of sophisticated investors, such as rule 506 of Regulation D (offerings to "accredited investors" and "sophisticated investors") and rule 144A (sales to QIBs).<sup> 74 </sup> These rules focus on whether an issuer "reasonably believes" that a purchaser of securities satisfies certain criteria for investors specified in the rules.<sup> 75 </sup> Rule 2a51-1, as adopted, reflects this approach.<sup> 76 </sup>
+
+The Commission requested comment whether the rule should contain a list of the types of documents (similar to the list included in rule 144A) that a Section 3(c)(7) Fund could rely on in determining whether a Prospective Qualified Purchaser was a qualified purchaser. Commenters had mixed reactions to this approach. Some commenters objected to the inclusion of a list, while others argued that the types of documents set forth in rule 144A were not sufficiently inclusive. Although the Commission understands that the list provided in rule 144A has been useful in that context, that list reflects the type of information that usually is publicly available concerning institutional investors (the only type of investor that can be a QIB). Commenters suggested that similar information typically is not available for individual investors. Because a list similar to that included in rule 144A would be of limited use, it is not included in rule 2a51-1.
+
+<h>7. Retirement Plans and Other Forms of Holding Investments</h>
+
+The Commission requested comment whether there are other structures for holding ownership interests in investments that should be addressed by the rule. Many commenters requested clarification on various issues related to assets held in individual retirement accounts ("IRAs") and employee benefit plans. The rule provides that a Prospective Qualified Purchaser who is a natural person may include investments held in his or her IRA or in other retirement accounts (such as a "401(k)" plan) when the Prospective Qualified Purchaser makes all of the investment decisions for the account.<sup> 77 </sup>
+
+The Commission understands that there are other forms of holding investments that may raise interpretative issues concerning whether a Prospective Qualified Purchaser "owns" an investment.<sup> 78 </sup> For instance, when an entity that holds investments is the "alter ego" of a Prospective Qualified Purchaser (as in the case of an entity that is wholly owned by a Prospective Qualified Purchaser who makes all the decisions with respect to such investments), it would be appropriate to attribute the investments held by such entity to the Prospective Qualified Purchaser.
+
+<h>8. Pension and Retirement Plans as Qualified Purchasers</h>
+
+A number of commenters raised interpretative questions concerning the circumstances under which a pension or other type of employee benefit plan that holds $25 million of investments in the aggregate could be treated as a qualified purchaser. Most of these questions concerned 401(k) plans that allow an employee to direct the investment of his or her account balance (which may consist of amounts contributed by the employee, the employer, or both) to specified investment alternatives available through the plan. Some commenters suggested that if such a plan holds $25 million of investments in the aggregate, participants in the plan should have an opportunity to invest in a Section 3(c)(7) Fund offered as an investment option. Other commenters argued that the Section 3(c)(7) Fund should "look through" the 401(k) plan to its participants for purposes of determining whether each investor in the Fund is a qualified purchaser.
+
+The latter approach reflects the Commission's interpretation of section 3(c)(7). The legislative history of the 1996 Act indicates that Section 3(c)(7) Funds are to be limited to investors who own a specified amount of investments.<sup> 79 </sup> The critical issue, therefore, is not whether the employee is directing his or her investments through a 401(k) plan or a similar intermediary, but whether the employee owns the requisite amount of investments. Congress determined generally that the person making the investment decision to invest in a Section 3(c)(7) Fund had to own a requisite amount of investments; the Act generally does not permit a person who does not own the requisite amount of investments to be treated as a qualified purchaser even if he or she received advice from a third party concerning the investment.
+
+The approach described above would not apply to a defined benefit or other retirement plan that owns $25 million of investments and does not permit participants to decide whether or how much to invest in particular investment alternatives. If the decision to invest in a Section 3(c)(7) Fund is made by the plan trustee or other plan fiduciary that makes investment decisions for the plan, and the plan owns at least $25 million of investments that is not subject to participant direction, the plan would be a qualified purchaser with respect to investments made by the plan trustee.
+
+<h>9. Other Issues Relating to Qualified Purchasers</h>
+
+Section 3(c)(7)(A) of the Act provides that the outstanding securities of a Section 3(c)(7) Fund must be owned "exclusively by persons who, at the time of acquisition of such securities, are qualified purchasers." The Commission believes that, as a general matter, this provision requires the determination whether a person is a qualified purchaser to be made or reaffirmed each time the person acquires securities of a Section 3(c)(7) Fund.
+
+Commenters noted that privately offered funds often allow investors to make their investment in a fund in installments or as the fund's manager needs capital to make investments. These commenters requested that the Commission clarify whether section 3(c)(7) requires the investor to be a qualified purchaser at the time each installment is paid. The Commission would interpret section 3(c)(7) as not requiring a Section 3(c)(7) Fund to determine whether the investor is a qualified purchaser each time the investor makes additional investments in the Fund pursuant to a binding commitment to make such payments, provided the investor was a qualified purchaser at the time the investor made the commitment. The Commission believes that this approach is consistent with section 3(c)(7).
+
+Commenters also requested guidance whether affiliates of a Section 3(c)(7) Fund's sponsor that hold interests in the Fund are required to be qualified purchasers. A privately offered fund is often organized as a limited partnership with the fund's sponsor or investment adviser (or one of their affiliates) serving as the general partner. In these circumstances, if the general partnership interest is not a security<sup> 80 </sup> and is not being used as a device to evade the provisions of section 3(c)(7) limiting security holders of the Section 3(c)(7) Fund to qualified purchasers, the general partner need not be a qualified purchaser.<sup> 81 </sup>
+
+<h>B. Definitions of Beneficial Ownership and Other Issues Relating to the Grandfather and Consent Provisions</h>
+
+Rule 2a51-2 defines the term "beneficial owner" for purposes of the Grandfather Provision governing Section 3(c)(1) Funds that wish to convert into Section 3(c)(7) Funds and the Consent Provision governing Section 3(c)(1) and Section 3(c)(7) Funds that wish to become qualified purchasers. The rule also addresses what types of ownership constitute "indirect" beneficial ownership for purposes of the Consent Provision.
+
+<h>1. The Grandfather Provision</h>
+
+<h>a. Background</h>
+
+Under the Grandfather Provision, a Grandfathered Fund may convert into a Section 3(c)(7) Fund without requiring investors that are not qualified purchasers to dispose of their interests in the Fund.<sup> 82 </sup> The Grandfather Provision requires the Grandfathered Fund, prior to the conversion, (i) to disclose to each "beneficial owner" that future investors will be limited to qualified purchasers, and that ownership in the Grandfathered Fund will no longer be limited to 100 persons, and (ii) concurrently with or after the disclosure, to provide each beneficial owner with a reasonable opportunity to redeem any part or all of its interests in the Fund for that beneficial owner's proportionate share of the Fund's "netassets."<sup> 83 </sup>
+
+The 1996 Act directs the Commission to define the term "beneficial owner" for purposes of the Grandfather Provision. The legislative history of the 1996 Act suggests that the Commission was to use this authority to alleviate any unnecessary burdens that might arise as a result of the application of section 3(c)(1)'s Look-Through Provision.<sup> 84 </sup> Specifically, Congress appears not to have intended to require a Grandfathered Fund to provide the notice and redemption opportunity to security holders of its institutional investors, even when those security holders would be deemed beneficial owners of the Grandfathered Fund's voting securities under the Look-Through Provision.<sup> 85 </sup> Rather, the notice and redemption opportunity generally are intended to be provided only to the institutional investor, unless the institutional investor is controlled by or under common control with the Grandfathered Fund.<sup> 86 </sup>
+
+Consistent with the purposes indicated in the legislative history of the 1996 Act, the Commission believes that the grandfather notice and redemption opportunity requirements were intended not only for the purposes described above, but for the benefit of certain persons who were deemed to be beneficial owners prior to the 1996 Act's amendments to the Look-Through Provision.<sup> 87 </sup> These persons may have relied on the then-existing Look-Through Provision as a way to limit the Grandfathered Fund's ability to sell its securities to additional investors.<sup> 88 </sup> Allowing the Grandfathered Fund to raise substantial new capital from an unlimited number of qualified purchasers could significantly alter the nature of an investment in the Grandfathered Fund. Most commenters agreed that the manner in which the proposed rule defined beneficial ownership for purposes of the Grandfather Provision is consistent with the 1996 Act's legislative history and supported the rule.
+
+The investor may have made its investment in Fund B (or Fund B may have made its investment in Fund A) recognizing that under section 3(c)(1)(A) as then in effect, each security holder of Fund B was deemed to be a beneficial owner of Fund A's voting securities. In this way, the Look-Through Provision would have limited the number of additional persons that could invest in Fund A. As noted above, however, even in these circumstances, Congress appears to have intended that investors in Fund B not be deemed beneficial owners of Fund A's securities for purposes of the Grandfather Provision unless there is a control relationship between Fund A and Fund B. 
+
+<h>b. Operation of the Rule</h>
+
+Paragraph (a) of rule 2a51-2 provides generally that beneficial ownership is to be determined in accordance with section 3(c)(1) of the Act.<sup> 89 </sup> Paragraph (b) of the rule provides a special rule for determining beneficial ownership of securities held by a company.<sup> 90 </sup> Paragraph (b) provides that securities of a Grandfathered Fund beneficially owned by a company (without giving effect to the Look-Through Provision) are deemed to be beneficially owned by one person (the "Owning Company") unless (i) on October 11, 1996, under section 3(c)(1)(A) of the Act as then in effect, the voting securities of the Grandfathered Fund were deemed to be beneficially owned by the holders of the Owning Company's outstanding securities,<sup> 91 </sup> (ii) the Owning Company has a control relationship with the Grandfathered Fund,<sup> 92 </sup> and (iii) the Owning Company is itself an investment company or a privately offered fund.<sup> 93 </sup> If these conditions do not apply, the grandfather notice and redemption opportunity should be provided to the Owning Company. If the conditions do apply, the grandfather notice and redemption opportunity should be provided to the Owning Company's security holders as the beneficial owners of the Grandfathered Fund's securities.
+
+The application of the rule can best be illustrated by the following example. Assume Company A is a Grandfathered Fund and that Company B, a Section 3(c)(1) Fund, owned more than 10% of the voting securities of Company A on October 11, 1996. If Company B does not have a control relationship with Company A, the grandfather notice and redemption opportunity can be provided directly to Company B. If a control relationship does exist, and on October 11, 1996, the security holders of Company B were deemed to be the beneficial owners of Company A's voting securities (because of the Second 10% Test),<sup> 94 </sup> Company A must provide the grandfather notice and redemption opportunity to each of Company B's security holders.
+
+<h>c. Interpretative Issues Relating to the</h>
+
+Grandfather Provision
+
+<h>i. Scope of the Grandfather Provision</h>
+
+The Commission believes that the notice and redemption opportunity requirements of the Grandfather Provision were intended for the benefit of all persons who are beneficial owners of the securities of a Grandfathered Fund. The Commission noted in the Proposing Release that, consistent with this legislative intent, it believed that the conditions in the Grandfather Provision must be complied with by any Section 3(c)(1) Fund that wishes to rely on the Grandfather Provision, even if each beneficial owner of the Fund meets the definition of qualified purchaser. While several commenters objected to this interpretation, the Commission believes that it clearly reflects the legislative history of the Grandfather Provision. If the notice and redemption opportunity requirements had been intended only for the benefit of beneficial owners who are not qualified purchasers, Congress could have limited the Grandfather Provision accordingly.<sup> 95 </sup>
+
+<h>ii. "Net Assets"</h>
+
+The Grandfather Provision states that a redeeming beneficial owner of a Grandfathered Fund is entitled to receive its proportionate share of the Fund's "net assets."<sup> 96 </sup> The Act does not define the term "net assets." In the Proposing Release, the Commission noted that the term "current net assets" is used in the Investment Company Act and defined by Commission rule.<sup> 97 </sup> The Commission requested comment whether "net assets," for purposes of the Grandfather Provision, should be determined based upon the methods used to determine "current net assets," or the methods that would have been used to determine the amount that the beneficial owner would have received in accordance with existing withdrawal provisions in the Grandfathered Fund's governing documents. Most commenters suggested that "net assets" be determined in accordance with the latter approach.
+
+The Commission does not believe that the term "net assets" as used in the Grandfather Provision was intended to be identical to the term "current net assets" as used in the Act. The Commission believes that the term "net assets" should be interpreted in a manner consistent with the legislative purposes of the notice and redemption opportunity requirements of the Grandfather Provision. The Grandfather Provision was designed to afford investors in the Grandfathered Fund an opportunity to redeem their investment, without penalty, before the Grandfathered Fund raises substantial new capital by increasing the number of the Fund's security holders above the limit in section 3(c)(1), thereby possibly altering the nature of an investment in the Grandfathered Fund.<sup> 98 </sup>
+
+It would be consistent with the Grandfather Provision for a Grandfathered Fund to conclude that it could redeem a beneficial owner's pro rata share of the net asset value of the Fund in accordance with the methods specified in the Fund's governing documents. Valuation methods that "hold back" certain amounts (e.g., reserves for contingent liabilities) may be consistent with the Grandfather Provision to the extent that they do not act as a penalty for exercising the redemption right afforded by section 3(c)(7). If a fund is unable to conclude that the hold back is not a penalty, the fund could continue to comply with section 3(c)(1) until all amounts due to redeeming beneficial owners have been paid.
+
+Commenters requested guidance concerning how to determine the pro rata share of net assets to which debt and senior securities redeemed in accordance with the Grandfather Provision would be entitled. The Commission believes that the "net assets" attributable to these securities would generally be determined by the repayment or redemption provisions governing such instruments. In most cases, this amount could be the principal amount of the securities (or, in the case of preferred stock, the liquidation preference or other amount payable upon redemption), any accrued and unpaid interest or dividends, and any premium due upon prepayment or redemption.
+
+The Commission also notes that the Grandfather Provision does not override provisions in fund documents, other agreements or applicable law that could have the effect of preventing a fund from converting into a Section 3(c)(7) Fund.<sup> 99 </sup> For example, if a fund's partnership agreement prohibits the fund from having more than 100 investors, the fund may have to seek to amend the agreement before selling its securities to qualified purchasers (if the fund already has 100 investors).<sup> 100 </sup>
+
+Many commenters observed that in the case of certain privately offered funds, providing the redemption opportunity required by the Grandfather Provision could have significant adverse effects on a fund's investment strategy.<sup> 101 </sup> The Grandfather Provision does not override the fiduciary duties that a sponsor of a Grandfathered Fund may have to the beneficial owners of the Fund's securities under the Fund's governing documents or applicable law. Thus, the general partner or other fiduciary of a privately offered fund may have to consider whether effecting the notice and redemption required by the Grandfather Provision in order to be able to open the fund to new investors (and increase the amount of assets in the fund and the general partner's fee) is in the best interests of the fund's security holders.
+
+<h>2. The Consent Provision</h>
+
+Section 2(a)(51)(C) of the Act requires that a privately offered fund that wishes to become a qualified purchaser ("Purchasing Fund") obtain the consent of all of its beneficial owners that had invested in the Purchasing Fund on or before April 30, 1996.<sup> 102 </sup> The beneficial owners of the securities of any privately offered fund that is a direct or indirect beneficial owner of the securities of the Purchasing Fund also must consent to the treatment of the Purchasing Fund as a qualified purchaser.<sup> 103 </sup>
+
+<h>a. Definition of Beneficial Owner</h>
+
+Paragraph (c) of rule 2a51-2 clarifies the meaning of the term "beneficial owner" for purposes of the Consent Provision.<sup> 104 </sup> The rule provides that securities of a Purchasing Fund beneficially owned by a company ("Owning Company"), without giving effect to the Look-Through Provision, are deemed to be beneficially owned by one person unless (i) on April 30, 1996, under section 3(c)(1)(A) of the Act as then in effect, the voting securities of the Purchasing Fund were deemed to be beneficially owned by the holders of the Owning Company's outstanding securities, (ii) the Owning Company has a control relationship with either the Purchasing Fund or the Section 3(c)(7) Fund with respect to which the Purchasing Fund will be a qualified purchaser ("Target Fund"), and (iii) the Owning Company itself is a privately offered fund. If these conditions do not apply, the consent must be obtained from the Owning Company. If the conditions do apply, the consent must be obtained from the Owning Company's security holders as the beneficial owners of the Purchasing Fund's securities under the rule.
+
+As in the case of the definition of beneficial owner for purposes of the Grandfather Provision, the rule relating to the Consent Provision is intended to allow an institutional investor to provide the required consent even if, under the Look-Through Provision, the security holders of the institutional investor are deemed to be beneficial owners of the Purchasing Fund's securities. If there is a control relationship between the Purchasing Fund and either the Owning Company or the Target Fund, and the Owning Company is a privately offered fund whose security holders were deemed beneficial owners of the Purchasing Fund on April 30, 1996, then the consent must be obtained from those security holders.
+
+<h>b. Required Consent</h>
+
+As proposed, paragraph (d) of the rule clarifies what constitutes "indirect" ownership with regard to the requirement in section 2(a)(51)(C) of the Act that the consent be obtained from the security holders of a privately offered fund that is an indirect beneficial owner of the Purchasing Fund.<sup> 105 </sup> The rule provides that the privately offered fund would not be considered to own the securities of the Purchasing Fund indirectly unless the privately offered fund has a control relationship with either the Purchasing Fund or the Target Fund. Commenters generally supported this approach.
+
+Several commenters also suggested that the rule generally should limit the circumstances under which a Purchasing Fund must obtain the consent of the beneficial owners of the securities of a privately offered fund that directly owns the securities of the Purchasing Fund ("Owning Fund").<sup> 106 </sup> These commenters stated that if the rule did not contain such a limitation, consent would have to be obtained from security holders who would not be entitled to receive the notice and redemption opportunity required by the Grandfather Provision.
+
+As noted in the Proposing Release, the Consent Provision appears to be designed to prohibit an existing Section 3(c)(1) Fund from avoiding the notice and redemption opportunity requirements of the Grandfather Provision by investing its assets in a Section 3(c)(7) Fund, either directly or indirectly through another privately offered fund.<sup> 107 </sup> This purpose is served if the scope of the Consent Provision is the same as that of the Grandfather Provision.<sup> 108 </sup> Paragraph (e) of the rule, as adopted, clarifies that the consent of the beneficial owners of the Owning Fund is not required unless the Owning Fund directly or indirectly controls, is controlled by, or is under common control with, the Purchasing Fund or the Target Fund.<sup> 109 </sup>
+
+Under the rule, the Purchasing Fund could obtain a general consent with respect to most transactions in which it will be a qualified purchaser. Whether a specific consent would be required when there is a control relationship between the Purchasing Fund or certain of its beneficial owners and the Target Fund would depend upon whether the general consent provided sufficient information to elicit an informed consent from the appropriate investors.
+
+Company C would have to consent to Company A being a qualified purchaser. Because Company C is not a privately offered fund, Company C's shareholders would not be treated as beneficial owners of Company A's voting securities, and their consent would not be required. (The consent of Company C's shareholders would not be required even if Company C had a control relationship with Company A.)
+
+Company D would have to consent to Company A being a qualified purchaser. Even though Company D is a privately offered fund, the beneficial owners of its outstanding securities (i.e., Companies E through G) would not have to consent to Company A being a qualified purchaser unless there was a control relationship between Company D and either Company A or Company B. Security holders of Companies E through G would not be required to consent even if they are considered to be beneficial owners of Company D's securities under the Look-Through Provision because there is no control relationship. Similarly, Companies E through G would not be deemed to indirectly own voting securities of Company A. 
+
+<h>C. Conforming Rule</h>
+
+Rule 2a51-3(a) under the Investment Company Act clarifies an interpretative issue concerning companies that are qualified purchasers.<sup> 110 </sup> The statutory definition of qualified purchaser specifies that a trust that is a qualified purchaser must not have been formed "for the specific purpose of acquiring the securities offered."<sup> 111 </sup> The rule makes the same condition applicable to any other company that is a Prospective Qualified Purchaser (whether a Family Company or another type of company) unless each beneficial owner of the company's securities is a qualified purchaser. The rule thus limits the possibility that a company will be able to do indirectly what it is prohibited from doing directly (i.e., organize a "qualified purchaser" entity for the purpose of making an investment in a particular Section 3(c)(7) Fund available to investors that themselves did not meet the definition of qualified purchaser).<sup> 112 </sup>
+
+As suggested by several commenters, the scope of the rule has been expanded to permit a company to be a qualified purchaser (even if the company did not own $5 million of investments, in the case of a Family Company, or $25 million of investments in the case of any other type of company) if each beneficial owner of the company's securities is a qualified purchaser.<sup> 113 </sup>
+
+<h>D. Non-Exclusive Safe Harbor for Certain Section 3(c)(7) Funds</h>
+
+The legislative history of the 1996 Act indicates that a sponsor of an existing Section 3(c)(1) Fund could establish a new Section 3(c)(7) Fund.<sup> 114 </sup> Section 3(c)(7)(E) of the Act (the "Non-Integration Provision) provides that the Commission may not "integrate" the two Funds -- that is, treat the two Funds as a single issuer for purposes of determining the number of beneficial owners of the Section 3(c)(1) Fund or whether the outstanding securities of the Section 3(c)(7) Fund are owned by anyone who is not a qualified purchaser.<sup> 115 </sup> The Non-Integration Provision, however, is not intended to allow a sponsor of an existing Section 3(c)(1) Fund nominally to convert that fund into a Section 3(c)(7) Fund, and then to create another Section 3(c)(1) Fund ("Related Section 3(c)(1) Fund") thereby avoiding the 100-investor limit.<sup> 116 </sup> The Non-Integration Provision, thus, was not designed to preclude the Commission from treating a nominally converted Section 3(c)(1) Fund and a Section 3(c)(1) Fund organized by the same sponsor as a single issuer for certain purposes.
+
+Prior to the publication of the Proposing Release, representatives of hedge funds and other investment pools raised concerns regarding the ability of a sponsor of a Section 3(c)(1) Fund that undergoes a bona fide conversion into a Section 3(c)(7) Fund (i.e., provides the grandfather notice and redemption opportunity and sells its securities to new investors that are qualified purchasers) to then create a new Section 3(c)(1) Fund. The Commission proposed rule 3c-7 to respond to these concerns. The rule would have provided that a Grandfathered Fund will be treated as an issuer excluded under section 3(c)(7) of the Act if, at the time the new Section 3(c)(1) Fund offers its securities, 25% or more of the value of all securities of the Grandfathered Fund is held by qualified purchasers that acquired these securities after October 11, 1996.
+
+Commenters had mixed reactions to the proposed rule. Several commenters supported the rule as proposed or with modifications that would base availability of the safe harbor on securities held by qualified purchasers regardless of when acquired. Other commenters believed that the proposed rule was unnecessary, that the percentage threshold for qualified purchasers investing in the fund would preclude bona fide conversions, and that the Commission could rely on its anti- fraud authority to address "sham" grandfathering transactions.
+
+Upon further consideration of the issue, and after considering the views of the commenters, the Commission does not believe that a safe harbor rule is necessary. In the Commission's view, the Non-Integration Provision was not designed to permit a fund to rely on section 3(c)(7) if the fund's compliance with the Grandfather Provision was designed to evade the 100-investor limitation of section 3(c)(1). A fund that purports to rely on section 3(c)(7) based on the Grandfather Provision must have the bona fide purpose of selling its securities to qualified purchasers. At this time, the Commission does not believe that it is necessary to set forth a test based on the percentage of securities owned by qualified purchasers to establish the bona fides of a conversion for purposes of determining compliance with the Act. Whether a conversion to a Grandfathered Fund is bona fide and undertaken in good faith would depend upon the facts and circumstances. The relevant facts would include, among others, whether the fund has taken steps to sell its securities to qualified purchasers, and whether the fund is subject to legal or other impediments that would preclude it from selling its securities to qualified purchasers.
+
+<h>III. OTHER RULES RELATING TO PRIVATELY OFFERED FUNDS</h>
+
+<h>A. Section 3(c)(1) Funds</h>
+
+<h>1. Transition Rule</h>
+
+The 1996 Act amended section 3(c)(1)(A) of the Investment Company Act, the Look-Through Provision, which governs the way in which a Section 3(c)(1) Fund calculates the number of its beneficial owners for purposes of complying with the 100- investor limit. Under amended section 3(c)(1)(A), a Section 3(c)(1) Fund must include among its beneficial owners the underlying security holders of any investment company or privately offered fund that owns 10% or more of the Section 3(c)(1) Fund (collectively, "10%+ Security Holders"). The pre- 1996 Act Look-Through Provision did not apply unless the 10%+ Security Holder also had more than 10% of its assets invested in Section 3(c)(1) Fund securities generally. The amendment, in effect, limits the ability of certain types of investors to own more than 10% of a Section 3(c)(1) Fund.<sup> 117 </sup>
+
+Some existing Section 3(c)(1) Funds have 10%+ Security Holders in reliance on the pre-amendment application of the Look-Through Provision. As a result of the 1996 Act, such a fund may be required to treat a 10% Security Holder as more than one beneficial owner for purposes of the 100-investor limit. The Commission believes that the amendment to the Look- Through Provision was designed primarily to simplify the application of the Provision and was not intended to disrupt existing investment arrangements. The Commission, therefore, proposed rule 3c-1 under the Investment Company Act to provide that the amended Look-Through Provision will not apply in the case of a pre-1996 Act 10%+ Security Holder, provided that the 10%+ Security Holder continues to satisfy the Second 10% Test.<sup> 118 </sup>
+
+The rule is adopted with one change. The rule, as proposed, would have applied only to a 10%+ Security Holder that acquired its interest in the fund before the 1996 Act was signed by the President. Several commenters suggested that the rule should apply to any 10%+ Security Holder that acquired its securities prior to the effective date of the amendments to the Look-Through Provision. These commenters noted that Section 3(c)(1) Funds that admitted new investors near the end of 1996 may not have known, or appreciated the significance, of the 1996 Act's amendments. In view of the commenters' suggestions, the rule as adopted applies to 10%+ Security Holders that acquired their securities on or before April 1, 1997.
+
+<h>2. Applicability of the Amended Look-Through Provision</h>
+
+The Commission believes that, as a general matter, the determination of whether an investor is subject to the amended Look-Through Provision must be made each time the investor acquires a voting security of a Section 3(c)(1) Fund. Thus, an investor would not become subject to the Look-Through Provision if its proportionate ownership of the Fund's voting securities increased solely because another investor redeemed its securities in the Fund. This analysis would not apply if the redemption (or other transaction) were part of a series of transactions designed to avoid the Look-Through Provision.<sup> 119 </sup>
+
+<h>B. Investments by Knowledgeable Employees</h>
+
+As directed by Congress, the Commission is adopting rule 3c-5 under the Investment Company Act to permit "knowledgeable employees" of a fund and certain of its affiliates to acquire securities issued by the fund without being counted for purposes of section 3(c)(1)'s 100-investor limit.<sup> 120 </sup> In addition, as directed by Congress, the rule permits knowledgeable employees to invest in a Section 3(c)(7) Fund even though they do not meet the definition of qualified purchaser.<sup> 121 </sup> Commenters generally supported the rule, although several commenters suggested that the scope of the rule's definition of knowledgeable employees be expanded.
+
+Rule 3c-5 defines knowledgeable employees as the directors, executive officers, and general partners of the fund or an affiliated person of the fund that oversees the fund's investments ("Management Affiliate").<sup> 122 </sup> The rule also encompasses persons who serve in capacities similar to directors, such as trustees and advisory board members.<sup> 123 </sup>
+
+The rule as proposed also would have included as knowledgeable employees other employees of the fund or its Management Affiliate who, in connection with their regular functions or duties, participate in, or obtain information regarding, the investment activities of the fund or other investment companies managed by the Management Affiliate. One commenter suggested that including employees who "obtain information" regarding the investment activities could include employees, such as compliance personnel, who may not have any investment experience. The Commission agrees, and the rule as adopted includes only employees who "participate in" the investment activities of the fund or other investment companies managed by the fund's Management Affiliate.<sup> 124 </sup>
+
+The rule, as proposed, would have required employees who are knowledgeable employees by virtue of their participation in investment activities to have been engaged in these activities on behalf of the fund or the Management Affiliate for a period of at least 12 months. Several commenters suggested that the 12 month period would unnecessarily limit the ability of new employees who had equivalent experience with their previous employer to invest in the fund. The Commission has concluded that it is not necessary to require that an employee work for the particular fund or Management Affiliate for the entire 12- month period as long as the employee has the requisite experience to appreciate the risks of investing in the fund. The rule, as adopted, therefore includes as knowledgeable employees those employees who performed substantially similar functions or duties for or on behalf of another person during the preceding 12 months.<sup> 125 </sup>
+
+The rule permits the acquisition of privately offered fund securities by a company all of whose owners are knowledgeable employees.<sup> 126 </sup> This change is consistent with rule 2a51-3, which permits a company all of whose securities are owned by qualified purchasers to itself be treated as a qualified purchaser. In addition, the rule permits knowledgeable employees to transfer their securities of a privately offered fund on the same terms as those governing transfers by other owners of fund securities in rule 3c-6 discussed below.<sup> 127 </sup>
+
+Several commenters suggested that the rule permit purchases by broader categories of employees. The provision in the 1996 Act directing Commission rulemaking with regard to investments in privately offered funds by knowledgeable employees appears to be intended to encompass persons who actively participate in the management of a fund's investments. At this time, the Commission believes that the rule as adopted is consistent with this legislative purpose.
+
+<h>C. Involuntary Transfers</h>
+
+Section 3(c)(1)(B) of the Act provides that beneficial ownership of securities of a Section 3(c)(1) Fund by any person who acquires the securities as a result of a "legal separation, divorce, death, or other involuntary event" will be deemed to be beneficial ownership by the person from whom the transfer was made, pursuant to such rules and regulations as the Commission prescribes. This provision was designed to address situations in which section 3(c)(1)'s 100-investor limit is exceeded "because of transfers which are neither within the issuer's control nor are voluntary on the part of the present beneficial owner."<sup> 128 </sup>
+
+The 1996 Act directed the Commission to prescribe rules to implement section 3(c)(1)(B).<sup> 129 </sup> The Commission is adopting rule 3c-6 under the Investment Company Act to provide that beneficial ownership by a person ("Transferee") who acquired securities of a Section 3(c)(1) Fund pursuant to a gift, bequest, or an agreement relating to a legal separation or divorce will be deemed to be beneficial ownership by the person from whom the transfer was made ("Transferor").<sup> 130 </sup> Rule 3c-6, as proposed, would have permitted such transfers of fund securities only to certain persons, generally family members. Commenters suggested that the categories of Transferees were unnecessarily limited. These commenters also noted that, as long as the transfer is in the form of a gift, the relationship of the Transferee to the Transferor was not particularly important for purposes of the policies underlying section 3(c)(1). The rule as adopted reflects this approach.<sup> 131 </sup>
+
+Unlike the proposed rule, the rule as adopted does not limit subsequent transfers by Transferees that are in the form of a gift or bequest. Several commenters suggested that this limitation would be unnecessarily restrictive. As noted by commenters, it is not necessary for the rule to contain restrictions on non-donative transfers since the effect of the transfer may be to cause the Section 3(c)(1) Fund to lose its exclusion from Investment Company Act regulation.<sup> 132 </sup>
+
+Rule 3c-6 also deals with transfers of securities by qualified purchasers under section 3(c)(7)(A) of the Act. That section provides that securities of a Section 3(c)(7) Fund that are owned by persons who received them from a qualified purchaser as a gift or bequest, or when the transfer was caused by legal separation, divorce, death or other involuntary event, will be deemed to be owned by a qualified purchaser, subject to such rules as the Commission may prescribe. Rule 3c-6 permits transfers of securities of a Section 3(c)(7) Fund under essentially the same conditions as those governing transfers under section 3(c)(1)(B).<sup> 133 </sup> The rule treats a person who acquires securities of a Section 3(c)(7) Fund in accordance with the rule as qualified purchasers only for purposes of those securities. If the person acquires additional securities of the Fund other than in accordance with the rule, the person would have to meet the definition of qualified purchaser (without regard to the rule) at that time.
+
+<h>IV. COST/BENEFIT ANALYSIS AND EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION</h>
+
+<END MAIN TEXT>
+
+1 15 USC 80a-3(c)(1). In addition, the Section 3(c)(1) Fund must be an issuer that "is not making and does not presently propose to make a public offering of its securities." Id.
+
+2 See DIVISION OF INVESTMENT MANAGEMENT, SEC, PROTECTING INVESTORS: A HALF CENTURY OF INVESTMENT COMPANY REGULATION (hereinafter PROTECTING INVESTORS REPORT) at 104 (1992).
+
+3 The National Securities Markets Improvement Act of 1996, Pub. L. No. 104-290 (1996) (codified in scattered sections of the United States Code).
+
+4 15 USC 80a-3(c)(7). For the history of the development of section 3(c)(7), see Private Investment Companies, Investment Company Act Release No. IC-22405 (Dec. 18, 1996) [61 FR 68100 (Dec. 26, 1996)] (hereinafter Proposing Release) at nn.3-9 and accompanying text.
+
+5 Section 3(c)(7) of the Act. While the legislative history of the 1996 Act does not explicitly discuss section 3(c)(7)'s limitation on public offerings by Section 3(c)(7) Funds, the limitation appears to reflect Congress's concerns that unsophisticated individuals not be inadvertently drawn into a Section 3(c)(7) Fund. See The Investment Company Act Amendments of 1995: Hearing on H.R. 1495 before the Subcomm. on Telecommunications and Finance of the Comm. on Commerce, House of Representatives, 104th Cong., 1st Sess. 53 (1995) (hereinafter House Hearings) (testimony of Matthew P. Fink, President, Investment Company Institute, urging that section 3(c)(7) include a public offering limitation). Section 3(c)(1)'s limitation on public offerings has been interpreted to permit "transactions by an issuer not involving any public offering" under section 4(2) of the Securities Act of 1933 ("Securities Act") [15 USC 77d(2)]. See, e.g., Engelberger Partnerships (Dec. 7, 1981). The Commission believes that section 3(c)(7)'s public offering limitation should be interpreted in the same manner as the limitation in section 3(c)(1).
+
+6 Section 2(a)(51)(A)(i) of the Act [15 USC 80a- 2(a)(51)(A)(i)]. The 1996 Act directed the Commission to prescribe rules defining the term "investments" by April 9, 1997. 15 USC 80a-2 note.
+
+7 A Family Company is a company "that is owned directly or indirectly by or for 2 or more natural persons who are related as siblings or spouse (including former spouses), or direct lineal descendants by birth or adoption, spouses of such persons, the estates of such persons, or foundations, charitable organizations, or trusts established by or for the benefit of such persons . . . ." Section 2(a)(51)(A)(ii) of the Act [15 USC 80a-2(a)(51)(A)(ii)].
+
+8 A trust may be a qualified purchaser if (i) it was not formed for the specific purpose of acquiring the securities offered, and (ii) the trustee or other person authorized to make decisions with respect to the trust, and each settlor or other person who has contributed assets to the trust, are qualified purchasers. Section 2(a)(51)(A)(iii) of the Act [15 USC 80a-2(a)(51)(A)(iii)].
+
+9 A qualified purchaser that meets the $25 million threshold may act for its own account or for the accounts of other qualified purchasers. See section 2(a)(51)(A)(iv) of the Act [15 USC 80a- 2(a)(51)(A)(iv)].
+
+10 15 USC 80a-3(c)(7)(B).
+
+11 Section 3(c)(7)(B)(i)(I) of the Act [15 USC 80a- 3(c)(7)(B)(i)(I)].
+
+12 See S. REP. NO. 293, 104th Cong., 2d Sess. 23 (1996) (hereinafter Senate Report); H.R. REP. NO. 622, 104th Cong., 2d Sess. 51 (1996) (hereinafter House Report). These Reports relate to bills that were eventually enacted as the 1996 Act.
+
+13 Section 3(c)(7)(B)(ii) of the Act [15 USC 80a- 3(c)(7)(B)(ii)].
+
+14 15 USC 80a-3 note.
+
+15 Section 2(a)(51)(C) of the Act [15 USC 80a- 2(a)(51)(C)].
+
+16 15 USC 80a-3(c)(1)(A). Section 2(a)(42) of the Investment Company Act [15 USC 80a-2(a)(42)] defines a voting security as any security "presently entitling the owner or holder thereof to vote for the election of a company." See Thomas P. Lemke and Gerald T. Lins, Private Investment Companies Under Section 3(c)(1), 44 BUS. LAW. 401, 416-18 (Feb. 1989) (discussing the types of non-voting interests that have been treated as voting securities).
+
+17 The 1996 Act was signed into law by President Clinton on October 11, 1996. The provisions relating to privately offered funds do not become effective until the earlier of April 9, 1997 or the date on which the rule defining the term investments is published in the Federal Register. For purposes of convenience, this Release assumes that the amendments to section 3(c)(1) are now effective.
+
+18 To illustrate the operation of the pre-1996 Act Look-Through Provision, assume Company A is seeking to rely on section (3)(c)(1). If one of Company A's security holders, Company B, beneficially owned 10% or more of Company A's voting securities (the First 10% Test), then the security holders of Company B would have been counted as security holders of Company A, unless no more than 10% of Company B's assets consisted of securities of Section 3(c)(1) Funds (the Second 10% Test). The operation of the pre-1996 Act Look-Through Provision also is relevant to determining who is a beneficial owner of a Section 3(c)(1) Fund's securities for purposes of the Grandfather and Consent Provisions. See section II.B. of this Release. 
+
+19 This approach recognizes that an investment in a Section 3(c)(1) Fund by a company that is not itself an investment company generally does not implicate the concerns that the Look-Through Provision was intended to address -- that the investor may be a conduit that was created to enable a Section 3(c)(1) Fund to have indirectly more than 100 investors. See The Securities Investment Promotion Act of 1996: Hearing on S. 1815 before the Senate Comm. on Banking, Housing and Urban Affairs, 104th Cong., 2d Sess. 40 (1995) (testimony of Arthur Levitt, Chairman, SEC).
+
+20 This change reflects the view that the private nature of a Section 3(c)(1) Fund may be brought into question when an investment company has a substantial investment in the Section 3(c)(1) Fund. See, e.g., PROTECTING INVESTORS REPORT, supra note 2, at 106-09. See section III.A.2 of this Release for a discussion of when a Section 3(c)(1) Fund should determine whether an investor is subject to the amended Look-Through Provision.
+
+21 Proposing Release, supra note 4.
+
+22 15 USC 80a-3 note. The purpose of this provision appears to be to allow privately offered funds to offer persons who participate in the funds' management the opportunity to invest in the fund as a benefit of employment. See House Hearings, supra note 5, at 22-23 (testimony of Barry P. Barbash, Director, Division of Investment Management, SEC).
+
+23 15 USC 80a-3 note.
+
+24 15 USC 80a-3(c)(1)(B).
+
+25 See section 3(c)(7)(A) of the Act [15 USC 80a- 3(c)(7)(A)] (permitting certain transfers by qualified purchasers).
+
+26 The 1996 Act provides that the term investments is to be defined by Commission rule. 15 USC 80a-2 note. Section 2(a)(51)(B) of the Act [15 USC 80a-2(a)(51)(B)] also gives the Commission authority to prescribe such rules and regulations governing qualified purchasers as the Commission determines are necessary or appropriate in the public interest or for the protection of investors.
+
+27 17 CFR 230.144A(a). In each case, the QIB must be acting for its own account or the account of another QIB.
+
+28 Rule 2a51-1(g)(1) [17 CFR 270.2a51-1(g)(1)]. The QIB must be acting for its own account, the account of another QIB or the account of a qualified purchaser. A person's status as a QIB would be determined based on QIB Securities, not investments as defined by rule 2a51-1.
+
+29 Rule 144A(a)(1)(ii) [17 CFR 230.144A(a)(1)(ii)].
+
+30 Rule 2a51-1(g)(1)(i) [17 CFR 270.2a51- 1(g)(1)(i)]. A dealer that does not own and invest on a discretionary basis $25 million of QIB Securities could still be a qualified purchaser if the dealer owns and invests on a discretionary basis $25 million of investments, determined in accordance with rule 2a51-1.
+
+31 Rule 144A(a)(1)(i)(D) (government employee benefit plans), (E) (any employee benefit plan within the meaning of Title I of the Employee Retirement Income Security Act of 1974), and (F) (trust funds whose participants are exclusively plans of the types identified in paragraphs (D) and (E)) [17 CFR 230.144A(a)(1)(i)(D),(E), and (F)].
+
+32 See infra section II.A.8 of this Release (discussing the circumstances under which pension and retirement plans can be treated as qualified purchasers).
+
+33 Rule 2a51-1(g)(1)(ii) [17 CFR 270.2a51- 1(g)(1)(ii)] provides that a plan will not be deemed to be acting for its own account if investment decisions with respect to the plan are made by the beneficiaries of the plan. In other words, the investment decision must be made by a qualified purchaser. 
+
+34 See Proposing Release, supra note 4, at nn.29-31 and accompanying text.
+
+35 Id. The legislative history was confined to addressing new section 3(c)(7), and should not be viewed as suggesting how issues of investor sophistication should be analyzed in other contexts under the federal securities laws. Although Section 3(c)(7) Funds are not subject to regulation under the Investment Company Act, these Funds and persons who sell their securities are subject to the antifraud, civil liability, and other applicable provisions of the federal securities laws. Persons who sell the securities issued by Section 3(c)(7) Funds should also consider the applicability of the broker-dealer registration provisions of the Securities Exchange Act of 1934 [15 USC 78a- 78jj] ("Exchange Act"). 
+
+36 17 CFR 270.2a51-1(b)(1).
+
+37 See section 2(a)(1) of the Securities Act [15 USC 77b(a)(1)].
+
+38 The rule excludes from the definition of investments securities of an issuer that "controls, is controlled by, or is under common control with, the person that owns the securities." The term "control" is defined in section 2(a)(9) of the Act [15 USC 80a-2(a)(9)] as "the power to exercise a controlling influence over the management or policies of a company, unless such power is solely the result of an official position with such company." Section 2(a)(9) also provides that a person who owns beneficially, "either directly or through one or more controlled companies, more than 25 per centum of the voting securities of a company shall be presumed to control such company." Id.
+
+39 Rule 2a51-1(a)(3) [17 CFR 270.2a51-1(a)(3)] (defining the term "investment vehicle").
+
+40 15 USC 80a-3(c)(1) through (9); 17 CFR 270.3a-6 (exemption for foreign banks and insurance companies) and .3a-7 (exemption for certain structured finance vehicles).
+
+41 Rule 2a51-1(a)(3).
+
+42 Rule 2a51-1(b)(1)(ii) [17 CFR 270.2a51- 1(b)(1)(ii)]. A control interest in an issuer may be treated as an investment if the issuer files reports pursuant to section 13 or 15(d) of the Exchange Act [15 USC 78m and 78o(d)].
+
+43 Rule 2a51-1(a)(7)(ii) [17 CFR 270.2a51- 1(a)(7)(ii)]; 17 CFR 230.901 through .904.
+
+44 Commenters did not agree, however, on how to identify such a company. Several commenters suggested that the definition be based on the company's shareholders' equity (e.g., $25 million or $50 million). Other commenters suggested that the definition be based on the company's revenues, assets or going concern value. Still other commenters suggested that a control interest should be included if its value was in excess of a specified amount.
+
+45 Rule 2a51-1(b)(1)(iii) [17 CFR 270.2a51- 1(b)(1)(iii)]. The company must have had $50 million of shareholders' equity on its most recent financial statements (whether annual or quarterly). Id.
+
+46 17 CFR 270.2a51-1(b)(2).
+
+47 Rule 2a51-1(c)(1) [17 CFR 270.2a51-1(c)(1)]. Rule 2a51-1(a)(8) [17 CFR 270.2a51-1(a)(8)] defines "related person" as a sibling, spouse or former spouse of the prospective qualified purchaser, or a direct lineal descendant or ancestor by birth or adoption of the Prospective Qualified Purchaser, or a spouse of the descendant or ancestor.
+
+48 Internal Revenue Code ("IRC") section 280A(d) [26 USC 280A(d)]. Rule 2a51-1(c) [17 CFR 270.2a51-1(c)] treats residential real estate as an investment if it is not treated as a dwelling unit used as a residence in determining whether deductions for depreciation and other items are allowable under the IRC. Section 280A provides, among other things, that a taxpayer uses a dwelling unit during the taxable year as a residence if he or she uses such unit for personal purposes for a number of days that exceeds the greater of 14 days or 10 percent of the number of days during which the unit is rented at a fair market value. 
+
+49 Rule 2a51-1(c)(1).
+
+50 Real property held by a Prospective Qualified Purchaser primarily engaged in the real estate investment and development business as part of that business may be treated as an investment. Id.
+
+51 17 CFR 270.2a51-1(b)(3). Paragraph (a)(1) of rule 2a51-1 [17 CFR 270.2a51-1(a)(1)] defines Commodity Interests to mean commodity futures contracts, options on commodity futures contracts, and options on physical commodities traded on or subject to the rules of (a) any contract market designated for trading such transactions under the Commodity Exchange Act (the "CEA") [7 USC 1] and the rules thereunder; or (b) any board of trade or exchange outside the United States, as contemplated in Part 30 of the rules under the CEA. 17 CFR 30.1 through 30.11. Commodity Interests held as part of a business by a Prospective Qualified Purchaser that is primarily engaged in the business of investing or trading in Commodity Interests may be treated as investments. Rule 2a51-1(c)(2) [17 CFR 270.2a51-1(c)(2)]. 
+
+52 Rule 2a51-1(b)(4) [17 CFR 270.2a51-1(b)(4)]. Physical commodities, for purposes of the rule, are defined as any commodity with respect to which a Commodity Interest is traded on a domestic or foreign commodities exchange. Rule 2a51-1(a)(5) [17 CFR 270.2a51-1(a)(5)].
+
+53 Rule 2a51-1(b)(5) [17 CFR 270.2a51-1(b)(5)] includes in the definition of investments "financial contracts" as defined by section 3(c)(2) of the Act [15 USC 80a-3(c)(2)]. This definition was added to section 3(c)(2) by the 1996 Act in order to expand the exclusion from the definition of investment company applicable to securities brokers to include certain other market intermediaries (e.g., "swap" dealers). Section 3(c)(2) provides, in pertinent part, that a financial contract is any arrangement that --
+
+54 As with other investments, a financial contract can be valued at its fair market value or cost. See section II.A.3.a of this Release. The rule does not permit a financial contract to be valued at its notional amount (e.g., the principal amount upon which the interest payments in a swap transaction are based).
+
+55 17 CFR 270.2a51-1(b)(7).
+
+56 For example, an investor may have a significant amount of Cash as a result of a recent sale of an investment or because market conditions resulted in the investor taking a "defensive" position. Cash also may be integral to certain sophisticated investment strategies (such as hedging).
+
+57 Rule 2a51-1(b)(7). See also Proposing Release, supra note 4, at n.48.
+
+58 Rule 2a51-1(b)(7). One commenter suggested that the rule be specific on this point because certain bank instruments with longer maturities might not be considered to be either cash equivalents or securities. The rule does not specify that securities of a money market fund are Cash because they are securities and would be investments under rule 2a51-1(b)(1).
+
+59 Rule 2a51-1(b)(6) [17 CFR 270.2a51-1(b)(6)].
+
+60 See also AMERICAN BAR ASSOCIATION, SECTION OF BUSINESS LAW, COMMITTEE ON FEDERAL REGULATION OF SECURITIES, TASK FORCE ON HEDGE FUNDS, REPORT ON SECTION 3(C)(1) OF THE INVESTMENT COMPANY ACT OF 1940 AND PROPOSALS TO CREATE AN EXCEPTION FOR QUALIFIED PURCHASERS, 51 Bus. Law. 773, 778 (Dec. 5, 1995) (hereinafter HEDGE FUNDS TASK FORCE REPORT) (suggesting that automobiles, jewelry and art be excluded from investments for purposes of measuring financial sophistication).
+
+61 17 CFR 270.2a51-1(d). In the case of a security, market value could be determined in the manner described in rule 17a-7(b) under the Investment Company Act [17 CFR 270.17a-7(b)].
+
+62 See Proposing Release, supra note 4, at n.53.
+
+63 Rule 2a51-1(e) [17 CFR 270.2a51-1(e)].
+
+64 It also should be noted that Cash held for investment purposes is an investment. Therefore, if the cash proceeds of a loan are treated as an investment, the outstanding amount of the loan must be deducted.
+
+65 Under the proposed rule, a Family Company also would have been required to deduct (i) the amount of any real estate loans that any owner of the Family Company would have had to deduct if the owner were the Prospective Qualified Purchaser; (ii) the amount of any indebtedness incurred by the Family Company during the preceding 12 months to the extent that the principal amount of the indebtedness exceeded the fair market value of any assets of the Family Company other than investments; and (iii) the amount of any indebtedness incurred during the preceding 12 months by an owner of the Family Company or by a related person of an owner of the Family Company and guaranteed by the Family Company. See Proposing Release, supra note 4, at nn.59-61 and accompanying text.
+
+66 Rule 2a51-1(f) [17 CFR 270.2a51-1(f)].
+
+67 Rule 2a51-1(g)(2) [17 CFR 270.2a51-1(g)(2)]. Joint Investments also include investments in which the person shares with his or her spouse a community property or similar shared ownership interest. Id. In determining the amount of Joint Investments, the Prospective Qualified Purchaser must deduct from the amount of any Joint Investments any outstanding indebtedness incurred by the spouse to acquire the investments. Id.
+
+68 Section 2(a)(51)(A)(i) of the Act.
+
+69 Rule 2a51-1(g)(2). Consistent with this approach, the Commission believes that, for purposes of determining the number of beneficial owners of voting securities of a Section 3(c)(1) Fund, securities of the Section 3(c)(1) Fund jointly owned by both spouses should be considered to be owned by one beneficial owner. This approach is a departure from an earlier staff position on this issue. See, e.g., Joseph H. Moss (Feb. 27, 1984).
+
+70 This approach is designed to recognize, for example, holding company structures necessitated by legal, tax or other factors that may require or make advantageous the holding of investments in separate corporate entities. See, e.g., Resale of Restricted Securities; Changes To Method of Determining Holding Period of Restricted Securities Under Rules 144 and 145, Securities Act Release No. 6862 (Apr. 23, 1990) [55 FR 17933 (Apr. 30, 1990)] (describing bank holding company structures).
+
+71 Rule 2a51-1(g)(3) [17 CFR 270.2a51-1(g)(3)]. Several commenters noted that the rule, as proposed, would not have extended to non- corporate structures. The rule as adopted refers generally to "companies" rather than "corporations." Id.
+
+72 Proposed rule 2a51-1(j).
+
+73 The legislative history of the 1996 Act indicates that the Commission can use its rulemaking authority provided in section 2(a)(51) of the Act [15 USC 80a-2(a)(51)] to "develop reasonable care defenses when an issuer relying on the qualified purchaser exception in good faith sells securities to a purchaser that does not meet the qualified purchaser definition." House Report, supra note 12, at 53.
+
+74 17 CFR 230.144A, .506.
+
+75 17 CFR 230.144A(d)(1), .501(a).
+
+76 Rule 2a51-1(h) [17 CFR 270.2a51-1(h)] provides, in relevant part, that the term "qualified purchaser" as used in section 3(c)(7) of the Act includes a person who a Section 3(c)(7) Fund or its representative "reasonably believes" is a qualified purchaser. 
+
+77 Rule 2a51-1(g)(4) [17 CFR 270.2a51-1(g)(4)]. A 401(k) plan is established in accordance with section 401(k) of the IRC [26 USC 401(k)]. If a 401(k) plan provides several options in which an employee can choose to invest his or her account, the employee would be making the investment decision with respect to the account even though the plan's trustee or sponsor selects the range of options from which the employee can choose.
+
+78 Many of the issues raised by commenters have been addressed by the provision of the rule dealing with ownership of investments by certain affiliated companies. See rule 2a51-1(g)(3); supra section II.A.5 of this Release.
+
+79 See Senate Report, supra note 12, at 10. The Commission staff has taken a similar position under section 3(c)(1) of the Act, with which the Commission agrees, with respect to how to "count" 401(k) plans for purposes of determining whether a Section 3(c)(1) Fund has 100 or fewer investors. Thus, each participant in the plan who chooses to invest in the Fund, as opposed to the plan itself, should be treated as a separate investor in the Section 3(c)(1) Fund for purposes of determining the number of beneficial owners of the Fund's securities. See The PanAgora Group Trust (Apr. 29, 1993). The Commission is aware that the staff has taken the position under section 3(c)(1) that a self-directed employee benefit plan can be considered to be a single investor under certain circumstances. In particular, the staff has indicated that such a plan would be a single investor for purposes of section 3(c)(1) if the plan operates in a manner resembling that of a defined benefit plan. See The Standish Ayer & Wood, Inc. Stable Value Group Trust (Dec. 28, 1995). In adopting the analysis set forth in the PanAgora letter, the Commission is not endorsing the analysis set forth in the Standish Ayer letter for purposes of section 3(c)(7). The Commission has requested the staff to consider whether the position taken in the Standish Ayer letter is appropriate in the context of section 3(c)(7) and to reconsider whether the position taken in the Standish Ayer letter is consistent with that reflected in the PanAgora letter for purposes of section 3(c)(1).
+
+80 See, e.g., Williamson v. Tucker, 645 F.2d 404 (5th Cir.), cert. denied, 454 U.S. 897 (1981).
+
+81 See, e.g., Shoreline Fund, L.P and Condor Fund International, Inc. (Nov. 14, 1994) (taking a similar approach under section 3(c)(1)).
+
+82 See 142 CONG. REC. at E1929 (Oct. 4, 1996) (Remarks of Hon. Thomas J. Bliley, Jr.). These non-qualified purchasers must have acquired all or a portion of their investment in the Grandfathered Fund on or before September 1, 1996. The Grandfather Provision was designed to enable existing Section 3(c)(1) Funds to preserve their arrangements with these non- qualified purchasers, and does not limit additional purchases by these non-qualified purchasers of the Grandfathered Fund's securities. Any person owning a security of the Grandfathered Fund who acquired the security after September 1, 1996 must be, either on the date of the acquisition or on the date that the Fund avails itself of section 3(c)(7), a qualified purchaser.
+
+83 The opportunity must be provided "notwithstanding any agreement to the contrary between the [Grandfathered Fund] and such beneficial owner." Section 3(c)(7)(B)(ii)(II) of the Act [15 USC 80a-3(c)(7)(B)(ii)(II)].
+
+84 See supra note 18 and accompanying text (describing section 3(c)(1)(A) of the Investment Company Act).
+
+85 See Remarks of Hon. Thomas J. Bliley, supra note 82.
+
+86 Id.
+
+87 See supra note 19 and accompanying text (discussing the elimination of the Second 10% Test).
+
+88 This reliance can be illustrated by the following example. An investor invested in a Section 3(c)(1) Fund ("Fund A") through another Section 3(c)(1) Fund ("Fund B") that was subject to the Look-Through Provision as then in effect.
+
+89 17 CFR 270.2a51-2(a).
+
+90 17 CFR 270.2a51-2(b).
+
+91 The applicability of the Look-Though Provision is determined as of October 11, 1996 to assure that the Grandfathered Fund did not engage in transactions subsequent to the enactment of the 1996 Act designed to limit the applicability of the Look-Through Provision (such as the issuance of additional voting securities so that the percentage of voting securities owned by an Owning Company falls below 10%).
+
+92 See supra note 38 (describing the Act's definition of control).
+
+93 Limiting the application of the Look-Through Provision in this context to Owning Companies that are investment companies or privately offered funds is consistent with amended section 3(c)(1)(A). If the Owning Company is not an investment company or a privately offered fund, its security holders are unlikely to have a sufficient interest in its investment in the Grandfathered Fund to justify providing them with the grandfather notice and redemption opportunity. See supra note 19 and accompanying text.
+
+94 See supra section I.B. of this Release.
+
+95 Compare House Report, supra note 12, at 51 (describing original provision in H.R. 3005, as reported by the Committee on Commerce, which limited the notice and redemption opportunity to investors that were not qualified purchasers) and Senate Report, supra note 12, at 23 ("The issuer must allow section 3(c)(1) fund owners `of record' to redeem their interests in the fund in either cash or a proportionate share of the fund's assets."); see also supra note 82.
+
+96 Section 3(c)(7)(B)(ii)(II) of the Act. Each person electing to redeem must receive its proportionate share of the Grandfathered Fund's net assets in cash, unless the person agrees to accept such amount in kind (i.e., in assets of the Grandfathered Fund). If the Grandfathered Fund elects to provide investors with an opportunity to receive an in-kind distribution, this election must be disclosed in the grandfather disclosure.
+
+97 See, e.g., section 2(a)(32) of the Investment Company Act [15 USC 80a-2(a)(32)] (defining the term redeemable security as a "security . . . under the terms of which the holder . . . is entitled (whether absolutely or only out of surplus) to receive approximately his proportionate share of the issuer's current net assets, or the cash equivalent thereof") and rule 2a-4 [17 CFR 270.2a-4] (definition of current net asset value for certain purposes).
+
+98 See Proposing Release, supra note 4, at n.76 and accompanying text.
+
+99 The Grandfather Provision requires that a Grandfathered Fund afford its beneficial owners a redemption opportunity "notwithstanding any agreement to the contrary between" the Fund and its investors. Section 3(c)(7)(B)(ii)(II) of the Act. This provision is designed to assure that the Grandfathered Fund affords the redemption opportunity prior to admitting qualified purchasers in accordance with section 3(c)(7), notwithstanding contractual provisions that only require redemption opportunities to be provided periodically.
+
+100 Similarly, if a Grandfathered Fund has issued debt securities pursuant to an indenture that requires a prepayment premium if the debt securities are repaid before a specified date (or precludes prepayment), the Grandfather Provision does not override these provisions.
+
+101 For example, commenters suggested that in order to meet redemption requests, a fund might be required to sell illiquid portfolio positions at a loss or when it would not otherwise be in the best interests of the fund's investors to do so.
+
+102 The legislative history of the 1996 Act does not explain the purpose of the Consent Provision. Section 2(a)(51)(C) uses the term "excepted company" to refer to Section 3(c)(1) and Section 3(c)(7) Funds. The inclusion of Section 3(c)(7) Funds in this provision was presumably designed to require the consent to be obtained by any Grandfathered Fund that wished to be a qualified purchaser.
+
+103 Id.
+
+104 17 CFR 270.2a51-2(c).
+
+105 17 CFR 270.2a51-2(d).
+
+106 Many of these commenters believed that such consent was not required under the provision of the proposed rule defining indirect beneficial ownership. 
+
+107 Such conduct also may raise issues under section 48(a) of the Investment Company Act [15 USC 80a- 47(a)] (prohibiting violations of the Act's provisions by indirect means).
+
+108 The Consent Provision also may have been designed to give investors in an existing privately offered fund the opportunity to review what could be a significant change in the manner in which the fund makes investments as a result of the regulatory changes effected by the 1996 Act. In the absence of a control relationship, however, it is unlikely that the investors in the Owning Fund would have a significant interest in the Purchasing Fund's decision to invest in a Section 3(c)(7) Fund.
+
+109 17 CFR 270.2a51-2(e). The following example illustrates the operation of the rule. Assume Company A is a Purchasing Fund that wishes to invest in Company B as a qualified purchaser, and that Companies C and D are beneficial owners of Company A's voting securities. Company C is an operating company that does not have a control relationship with Company A, but whose security holders were deemed to be beneficial owners of Company A's voting securities on April 30, 1996. Company D is a privately offered fund that was deemed to own beneficially Company A's voting securities on April 30, 1996 (in other words, the Look-Through Provision did not apply). Each of Company D's investors (Companies E through G) are themselves privately offered funds, but none has a control relationship with Company D or Company A.
+
+110 17 CFR 270.2a51-3(a).
+
+111 Section 2(a)(51)(A)(iii) of the Act.
+
+112 See supra note 107 and accompanying text (discussing section 48(a) of the Act). The rule, as proposed, would have required all interests in the company to be owned by qualified purchasers. The rule, as adopted, recognizes that such a company may be organized as a limited partnership, with a person or company serving as the general partner. In these circumstances, if the general partnership interest is not being used as a device to evade the provisions of section 3(c)(7) limiting security holders of the Section 3(c)(7) Fund to qualified purchasers, the general partner need not be a qualified purchaser. See supra notes 78-79 and accompanying text.
+
+113 Rule 2a51-3(b) [17 CFR 270.2a51-3(b)]; see supra note 112.
+
+114 See 142 CONG. REC. at E1938 (Oct. 21, 1996) (Remarks of Hon. John D. Dingell); House Hearings, supra note 5, at 71 (prepared statement of Marianne Smythe); see also HEDGE FUNDS TASK FORCE REPORT, supra note 60, at 779. 
+
+115 The Non-Integration Provision states, in part, that an issuer that is otherwise excepted under section 3(c)(7) and an issuer that is otherwise excepted under section 3(c)(1) are not to be treated by the Commission as being a single issuer for purposes of determining the number of beneficial owners of the Section 3(c)(1) Fund or whether the outstanding securities of the Section 3(c)(7) Fund are owned by anyone who is not a qualified purchaser. The Commission staff has addressed the possibility of integrating Section 3(c)(1) Funds established by the same sponsor for purposes of determining whether they constitute the same issuer and have exceeded the 100-investor limit of section 3(c)(1). See, e.g., Shoreline Fund (Apr. 11, 1994) (the staff considers several factors in determining whether funds should be integrated and generally will require integration if "a reasonable purchaser would view an interest in an offering as not materially different from another").
+
+116 See Remarks of Hon. John D. Dingell, supra note 114.
+
+117 The amended Look-Through Provision applies only when an investment company or a privately offered fund invests in a Section 3(c)(1) Fund. The 1996 Act expands the ability of corporate, non-investment company investors to participate in Section 3(c)(1) Funds by no longer requiring Section 3(c)(1) Funds to count the underlying shareholders of these investors under any circumstances.
+
+118 The rule does not limit additional acquisitions of securities by a 10%+ Security Holder, as long as it satisfies the Second 10% Test on the date of acquisition. For the purpose of the rule, securities of Section 3(c)(7) Funds would be included in applying the Second 10% Test, since a Section 3(c)(7) Fund probably would have been a Section 3(c)(1) Fund but for the new exclusion created by the 1996 Act. The rule also applies to ownership interests of 10% or more that are acquired as a result of a conversion of convertible non-voting securities. 
+
+119 See supra note 107 (discussing section 48(a) of the Act).
+
+120 The rule specifies that these persons must be knowledgeable employees at the time they acquire the fund's securities. They do not have to dispose of these securities (or be counted as security holders for purposes of section 3(c)(1)'s 100-investor limit) upon termination of employment. 
+
+121 The fund will have to determine whether a knowledgeable employee's acquisition of the securities is a transaction exempt from the registration requirements of the Securities Act. See, e.g., Regulation D under the Securities Act [17 CFR 230.501 through .508].
+
+122 Rule 3c-5(a)(4) [17 CFR 270.3c-5(a)(4)]. The rule specifies that a fund's investment adviser is considered to be an affiliated person of the fund for purposes of the rule. Rule 3c-5(a)(1) [17 CFR 270.3c-5(a)(1)].
+
+123 Rule 3c-5(a)(4)(i) [17 CFR 270.3c-5(a)(4)(i)].
+
+124 Rule 3c-5(a)(4)(ii) [17 CFR 270.3c-5(a)(4)(ii)].
+
+125 Id.
+
+126 Rule 3c-5(b)(2) [17 CFR 270.3c-5(b)(2)].
+
+127 Rule 3c-5(b)(3) [17 CFR 270.3c-5(b)(3)].
+
+128 H.R. REP. NO. 1341, 96th Cong., 2d Sess. at 36 (1980).
+
+129 15 USC 80a-3 note.
+
+130 Transferees are not limited to natural persons. Donative transfers to charitable organizations are therefore permitted by the rule. 
+
+131 The rule, as proposed, would have permitted transfers to the specified categories of Transferees pursuant to "other involuntary events." Given the breadth of the rule and the elimination of restrictions on the classes of Transferees, the Commission does not believe that it is necessary at this time to address other involuntary transfers of Section 3(c)(1) Fund securities.
+
+132 A person that acquires securities from a Transferee for consideration or from the Section 3(c)(1) Fund would have to be counted toward the 100-investor limitation as a beneficial owner (or more than one beneficial owner, if the amended Look-Through Provision is applicable).
+
+133 Other involuntary transfers of Section 3(c)(7) Fund securities may occur even if they are not covered by rule 3c-6. See section 3(c)(7)(A) of the Act ("securities that are owned by persons who received the securities from a qualified purchaser . . . in a case in which the transfer was caused by . . . other involuntary event, shall be deemed to be owned by a qualified purchaser, subject to such rules, regulations and orders as the Commission may prescribe . . ."). The Commission does not contemplate adopting additional rules concerning involuntary transfers under section 3(c)(7) at the present time.
+
+134 15 USC 80a-2(c).

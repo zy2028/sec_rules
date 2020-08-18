@@ -1,0 +1,451 @@
+https://www.sec.gov/rules/final/2011/34-64628.pdf
+
+I.0.0.0 OVERVIEW AND BACKGROUND
+
+	I.A.0.0 Overview
+
+	I.B.0.0 Sections 13(d) and 13(g) and Rule 13d-3
+
+	I.C.0.0 Application of the Section 13 Beneficial Ownership Regulatory Provisions to Persons Who Purchase or Sell Security-Based Swaps
+
+	I.D.0.0 Section 16 and Rules 16a-1(a)(1) and 16a-1(a)(2)
+
+	I.E.0.0 Application of the Section 16 Beneficial Ownership Regulatory Provisions to Holdings and Transactions in Security-Based Swaps
+
+II.0.0.0 DISCUSSION OF THE READOPTED RULES AND COMMISSION CONFIRMATION
+
+	II.A.0.0 Beneficial Ownership Determinations under Section 13
+
+		II.A.1.0 Rule 13d-3(a)
+
+		II.A.2.0 Rule 13d-3(b)
+
+	II.B.0.0 Section 16 Beneficial Ownership Rules 1.	Rule 16a-1(a)(1)
+
+III.0.0.0 PAPERWORK REDUCTION ACT
+
+	III.A.0.0 Background
+
+	III.B.0.0 Burden and Cost Estimates Related to the Readoption
+
+IV.0.0.0 ECONOMIC ANALYSIS
+
+	IV.A.0.0 Introduction
+
+	IV.B.0.0 Benefits and the Impact on Efficiency, Competition and Capital Formation
+
+		IV.B.1.0 When the Rules We Readopt Already Apply to Persons Who Purchase or Sell Security-Based Swaps
+
+		IV.B.2.0 If the Rules We Readopt Did Not Already Apply to Persons Who Purchase or Sell Security-Based Swaps
+
+		IV.B.69.0 See Luigi Guiso et al., Trusting the Stock Market, 63 J. FIN. 2557 (2008) (finding that trust in the fairness of the financial system is correlated with higher levels of stock market participation).
+
+		IV.B.70.0 See Merritt B. Fox, Randall Morck, Bernard Yeung & Artyom Durnev, Law, Share Price Accuracy, and Economic Performance: the New Evidence, 102 Mich L. Rev. 331 (2003) (empirical study of the value of disclosure requirements in enhancing investment efficiency); see also Studies in Resource
+
+	IV.C.0.0 Costs and the Impact on Efficiency, Competition and Capital Formation
+
+		IV.C.1.0 When the Rules We Readopt Already Apply to Persons Who Purchase or Sell Security-Based Swaps
+
+		IV.C.2.0 If the Rules We Readopt Did Not Already Apply to Persons Who Purchase or Sell Security-Based Swaps
+
+V.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+VI.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR PART 240
+
+[Release No. 34-64628; File No. S7-10-11] RIN 3235-AK98
+
+BENEFICIAL OWNERSHIP REPORTING REQUIREMENTS AND SECURITY- BASED SWAPS
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule; confirmation.
+
+SUMMARY: We are readopting without change the relevant portions of Rules 13d-3 and 16a-1. Readoption of these provisions will preserve the application of our existing beneficial ownership rules to persons who purchase or sell security-based swaps after the effective date of new Section 13(o) of the Securities Exchange Act of 1934. Section 13(o) provides that a person shall be deemed a beneficial owner of an equity security based on the purchase or sale of a security-based swap only to the extent we adopt rules after making certain determinations with respect to the purchase or sale of security-based swaps. After making the necessary determinations, we are readopting the relevant portions of Rules 13d-3 and
+
+16a-1 to confirm that, following the July 16, 2011 statutory effective date of Section 13(o), persons who purchase or sell security-based swaps will remain within the scope of these rules to the same extent as they are now.
+
+EFFECTIVE DATE: The effective date of this confirmation is July 16, 2011.
+
+FOR FURTHER INFORMATION CONTACT: Nicholas Panos, Senior Special Counsel, at (202) 551-3440, or Anne Krauskopf, Senior Special Counsel, at (202) 551-3500, Division of Corporation Finance, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-3628.
+
+SUPPLEMENTARY INFORMATION : We are readopting without change portions of Rules 13d-3 <sup>1</sup> and 16a-1 <sup>2</sup> under the Securities Exchange Act of 1934 (“Exchange Act”). <sup>3</sup>
+
+TABLE OF CONTENTS
+
+<END HEADER>
+
+<h>I. OVERVIEW AND BACKGROUND</h>
+
+<h>A. Overview</h>
+
+Section 766 of the Dodd-Frank Act amends the Exchange Act by adding Section 13(o), which provides that “[f]or purposes of this section and section 16, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap, only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security- based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.” Section 766 and Section 13(o) <sup>4</sup> become effective on July 16, 2011. <sup>5</sup>
+
+The reason for this rulemaking, as discussed in more detail below, is to preserve the existing scope of our rules relating to beneficial ownership after Section 766 of the Dodd- Frank Act becomes effective. Absent rulemaking under Section 13(o), Section 766 may be interpreted to render the beneficial ownership determinations made under Rule 13d-3inapplicable to a person who purchases or sells a security-based swap. <sup>6</sup>
+
+In that circumstance,it could become possible for an investor to use a security-based swap to accumulate an influential or control position in a public company without public disclosure. Similarly, a person who holds a security-based swap that confers beneficial ownership of the referenced equity securities under Section 13 and Rule 13d-3, or otherwise conveys such beneficial ownership through an understanding or relationship based upon the purchase or sale of the security-based swap, may no longer be considered a ten percent holder subject to Section 16of the Exchange Act. <sup>7</sup>
+
+Further, an insider may no longer be subject to Section 16 reportingand short-swing profit recovery through transactions in security-based swaps that confer a right to receive either the underlying equity securities or cash. In addition, private parties may have difficulty making, or exercising private rights of action to seek to have made, determinations of beneficial ownership arising from the purchase or sale of a security-based swap.
+
+On March 17, 2011, we proposed to readopt the portions of Rules 13d-3 and 16a- 1(a) that relate to determinations of beneficial ownership as they pertain to persons who usethe Federal Reserve System (“Federal Reserve”), shall jointly further define, among others, the terms “swap,” “security-based swap,” and “security-based swap agreement.” These terms are defined in Sections 721 and 761 of the Dodd-Frank Act. The definitions of the terms “swap,” “security-based swap,” and “security-based swap agreement,” and regulations regarding mixed swaps also are expected to be the subject of a separate rulemaking by the Commission and the CFTC. In addition, Section 721(c) and 761(b) of the Dodd-Frank Act provide the CFTC and the Commission with the authority to define the terms “swap” and “security-based swap,” among other terms, to include transactions that have been structured to evade the requirements of subtitles A and B of Title VII, respectively, of the Dodd-Frank Act. To assist the Commission and the CFTC in further defining the terms specified above, the Commission and the CFTC have sought comment from interested parties. See Definitions Contained in Title VII of Dodd-Frank Wall Street Reform and Consumer Protection Act, Release No. 34-62717 (Aug. 13, 2010) [75 FR 51429] (advance joint notice of proposed rulemaking regarding definitions); See also Further Definition of ‘‘Swap,’’ ‘‘Security-Based Swap,’’ and ‘‘Security-Based Swap Agreement’’; Mixed Swaps; Security-Based Swap Agreement Recordkeeping, Release No. 34- 64372 (Apr. 29, 2011) [76 FR 29818] (proposing product definitions for swaps).security-based swaps. <sup>8</sup> To preserve the application of our beneficial ownership rules to persons who purchase or sell security-based swaps after the effective date of Section 13(o), we proposed to readopt without change the relevant portions of Rules 13d-3 and 16a-1.
+
+Readoption of the existing rules was proposed in order to ensure their continued application by the Commission on the same basis that they currently apply to persons who use security- based swaps. <sup>9</sup> While this rulemaking is only intended to preserve the existing application of the beneficial ownership rules as they relate to security-based swaps, our staff is engaged in a separate project to develop proposals to modernize reporting under Exchange Act Sections 13(d) <sup>10</sup> and 13(g). <sup>11</sup>
+
+We received five comment letters, all of which supported the proposal to readopt the relevant provisions of our rules. The commentators believed that the proposal, if adopted,would meet our objective of preserving the regulatory status quo . <sup>12</sup> Consistent with theproposal, we are readopting without change the relevant portions of Rules 13d-3 and 16a-1.
+
+<h>B. Sections 13(d) and 13(g) and Rule 13d-3</h>
+
+Sections 13(d) and 13(g) require a person who is the beneficial owner of more than five percent of certain equity securities <sup>13</sup> to disclose information relating to such beneficial ownership. While these statutory sections do not define the term “beneficial owner,” the Commission has adopted rules that determine the circumstances under which a person is or may be deemed to be a beneficial owner. In order to provide objective standards for determining when a person is or may be deemed to be a beneficial owner subject to Section 13(d), the Commission adopted Exchange Act Rule 13d-3. <sup>14</sup> Application of the standards within Rule 13d-3 allows for case-by-case determinations as to whether a person is or becomes a beneficial owner, including a person who uses a security-based swap.
+
+If beneficial ownership, as determined in accordance with Rule 13d-3, exceeds the designated thresholds, beneficial owners are required to provide specified disclosures. The disclosures are intended to be required of persons who have the potential to influence or gaincontrol of the issuer. <sup>15</sup>
+
+Specifically, Section 13(d) and the rules thereunder require that aperson file with the Commission, within ten days after acquiring, directly or indirectly, beneficial ownership of more than five percent of a class of equity securities, a disclosure statement on Schedule 13D, <sup>16</sup> subject to certain exceptions. <sup>17</sup> Section 13(g) and the rules thereunder enable certain persons who are the beneficial owners of more than five percent of a class of certain equity securities to instead file a short form Schedule 13G, <sup>18</sup> assumingcertain conditions have been met. <sup>19</sup>
+
+These statutory provisions and corresponding rules alsoimpose obligations on beneficial owners to report changes in the information filed.
+
+The beneficial ownership disclosure requirements of Schedules 13D and 13G were designed to provide disclosures to security holders regarding persons holding significant positions in public companies, such as the identity of the beneficial owners, the amount of beneficial ownership, the existence of a beneficial owner group, and in the case of persons who file a Schedule 13D, plans or proposals regarding the issuer. The disclosures made insecurities are typically alternatives to proxy solicitations, as methods of capturing or preserving control.”); Takeover Bids, Hearings on H.R. 14475 and S.510 before the Subcomm. on Commerce and Fin. of the H. Comm. on Interstate and Foreign Commerce , 90th Cong. (1968).
+
+Schedules 13D and 13G have been viewed as contributing to the information available to help investors make fully informed investment decisions with respect to their securities. <sup>20</sup> An additional regulatory objective served by these disclosures is to provide management of the issuer with information to “appropriately protect the interests of its security holders.” <sup>21</sup> In enacting the original Section 13(d) legislation, Congress made clear that it intended to avoid “tipping the balance of regulation either in favor of management or in favor of the person [potentially] making the takeover bid.” <sup>22</sup> In addition to providing information to issuers and security holders, Section 13(d) was adopted with a view toward alerting “the marketplace to every large, rapid aggregation or accumulation of securities, regardless oftechnique employed, which might represent a potential shift in corporate control.” <sup>23</sup>
+
+On thebasis of the information disclosed, the market would “value the shares accordingly” <sup>24</sup> due to the increased prospects for price discovery. <sup>25</sup>
+
+<h>C. Application of the Section 13 Beneficial Ownership Regulatory Provisions to Persons Who Purchase or Sell Security-Based Swaps</h>
+
+As noted above, the term “security-based swap” is defined in Section 3(a)(68) of the Exchange Act. <sup>26</sup> As explained in more detail below, in cases where a security-based swap confers voting and/or investment power (or a person otherwise acquires such power based on the purchase or sale of a security-based swap), grants a right to acquire an equity security, or is used with the purpose or effect of divesting or preventing the vesting of beneficial ownership as part of a plan or scheme to evade the reporting requirements, our existing regulatory regime may require the reporting of beneficial ownership. <sup>27</sup>
+
+Release No. 34-20893 (April 25, 1984). A measure of what Congress considered to be large and rapid acquisitions is Section 13(d)(6)(B), which exempts acquisitions of two percent or less in the preceding twelve months.
+
+First, under Rule 13d-3(a), to the extent a security-based swap provides a person, directly or indirectly, with exclusive or shared voting and/or investment power over the equity security through a contractual term of the security-based swap or otherwise, the person becomes a beneficial owner of that equity security. Under Rule 13d-3(a), a person may become a beneficial owner even though the person has not acquired the equity security. <sup>28</sup>
+
+Second, Rule 13d-3(b) generally provides that a person is deemed to be a beneficial owner if that person uses any contract, arrangement, or device as part of a plan or scheme to evade the beneficial ownership reporting requirements. To the extent a security-based swap is used with the purpose or effect of divesting a person of beneficial ownership or preventing the vesting of beneficial ownership as part of a plan or scheme to evade Sections 13(d) or 13(g), the security-based swap may be viewed as a contract, arrangement or device within the meaning of those terms as used in Rule 13d-3(b). A person using a security-based swap, therefore, may be deemed a beneficial owner under Rule 13d-3(b) in this context.
+
+Finally, under Rule 13d-3(d)(1), a person is deemed a beneficial owner of an equity security if the person has a right to acquire the equity security within 60 days or holds the right with the purpose or effect of changing or influencing control of the issuer of the securitythe purpose or effect of divesting or preventing the vesting of beneficial ownership as part of a plan or scheme to evade the beneficial ownership reporting requirements) would be a purchase or sale of the underlying securit(ies) and treated as such for purposes of the federal securities laws, instead of a security-based swap. In this regard, among other things, the definition of “swap” (and therefore the definition of “security-based swap”) specifically excludes the purchase or sale of one or more securities on a fixed or contingent basis, unless the agreement, contract, or transaction predicates the purchase or sale on the occurrence of a bona fide contingency that might reasonably be expected to affect or be affected by the creditworthiness of a party other than a party to the agreement, contract, or transaction. See Sections 1a(47)(B)(v) and (vi) of the Commodity Exchange Act, 7 U.S.C.1a(47)(B)(v) and (vi).for which the right is exercisable, regardless of whether the right to acquire originates in a security-based swap or an understanding in connection with a security-based swap. This type of right to acquire an equity security, if obtained through the purchase or sale of a security- based swap, is treated the same as any other right to acquire an equity security. Acquisition of such a right, regardless of its origin, results in a person being deemed a beneficial owner under Rule 13d-3(d)(1).
+
+<h>D. Section 16 and Rules 16a-1(a)(1) and 16a-1(a)(2)</h>
+
+Section 16 was designed both to provide the public with information about securities transactions and holdings of every person who is the beneficial owner of more than ten percent of a class of equity security registered under Exchange Act Section 12 <sup>29</sup> (“ten percent holder”), and each officer and director (collectively, “insiders”) of the issuer of such a security, and to deter such insiders from profiting from short-term trading in issuer securities while in possession of material, non-public information. Upon becoming an insider, or upon Section 12 registration of the class of equity security, Section 16(a) <sup>30</sup> requires an insider to file an initial report with the Commission disclosing his or her beneficial ownership of all equity securities of the issuer. <sup>31</sup> Section 16(a) also requires insiders to report subsequent changes in such ownership. <sup>32</sup> To prevent misuse of inside information by insiders, Section 16(b) <sup>33</sup> provides the issuer (or shareholders suing on the issuer’s behalf) a strict liabilityprivate right of action to recover any profit realized by an insider from any purchase and sale (or sale and purchase) of any equity security of the issuer within a period of less than six months. <sup>34</sup>
+
+As applied to ten percent holders, Congress intended Section 16 to reach persons presumed to have access to information because they can influence or control the issuer as a result of their equity ownership. <sup>35</sup> Because Section 13(d) specifically addresses these relationships, the Commission adopted Rule 16a-1(a)(1) to define ten percent holders under Section 16 as persons deemed ten percent beneficial owners under Section 13(d) and the rules thereunder. <sup>36</sup> The Section 13(d) analysis, such as counting beneficial ownership of the equity securities underlying derivative securities exercisable or convertible within 60 days, <sup>37</sup> is imported into the ten percent holder determination for Section 16 purposes. The application of Rule 16a-1(a)(1) is straightforward; if a person is a ten percent beneficial owner as determined pursuant to Section 13(d) and the rules thereunder, the person is deemed a ten percent holder under Section 16. <sup>38</sup>21-2 (1963).
+
+For purposes of Section 16(a) reporting obligations and Section 16(b) short-swing profit recovery, Rule 16a-1(a)(2) uses a different definition of “beneficial owner.” Once a person is subject to Section 16, for reporting and profit recovery purposes, Rule 16a-1(a)(2) defines “beneficial owner” based on whether the person has or shares a direct or indirect pecuniary interest in the securities. A “pecuniary interest” in any class of equity securities means “the opportunity, directly or indirectly, to profit or share in any profit derived from a transaction in the subject securities.” <sup>39</sup> An “indirect pecuniary interest” in any class of equity securities includes, but is not limited to “a person’s right to acquire equity securities through the exercise or conversion of any derivative security, whether or not presently exercisable.” <sup>40</sup> “Derivative securities” are “any option, warrant, convertible security, stock appreciation right, or similar right with an exercise or conversion privilege at a price related to an equity security, or similar securities with a value derived from the value of an equity security, but shall not include […] rights with an exercise or conversion privilege at a price that is not fixed.” <sup>41</sup> Equity securities of an issuer are “any equity security or derivative security relating to an issuer, whether or not issued by that issuer.” <sup>42</sup>and Rules thereunder to Trading in Security Futures Products, Release No. 34-46101 (June 21, 2002) [67 FR 43234] (“Futures Interpretive Release”) at Q 7.
+
+This framework recognizes that holding derivative securities is functionally equivalent to holding the underlying equity securities for Section 16 purposes because the value of the derivative securities is a function of or related to the value of the underlying equity security. <sup>43</sup> Just as an insider’s opportunity to profit begins upon purchasing or selling issuer common stock, the opportunity to profit begins when an insider engages in transactions in derivative securities that provide an opportunity to obtain or dispose of the stock at a fixed price. <sup>44</sup> Establishing or increasing a call equivalent position <sup>45</sup> (or liquidating or decreasing a put equivalent position <sup>46</sup> ) is deemed a purchase of the underlying security, and establishing or increasing a put equivalent position (or liquidating or decreasing a call equivalent position) is deemed a sale of the underlying security. <sup>47</sup>
+
+Rule 16a-1(a)(2) and the related rules described above recognize the functional equivalence of derivative securities and the underlying equity securities by providing that transactions in derivative securities are reportable, and matchable with transactions in otherderivative securities and in the underlying equity. <sup>48</sup> For example, short-swing profits obtained by buying call options and selling the underlying stock, or buying the underlying stock and buying put options, are recoverable. This functional equivalence extends to all fixed-price derivative securities, whether issued by the issuer or a third party, and whether the form of settlement is cash or stock. <sup>49</sup>
+
+<h>E. Application of the Section 16 Beneficial Ownership Regulatory Provisions to Holdings and Transactions in Security-Based Swaps</h>
+
+As described above, solely for purposes of determining who is subject to Section 16 as a ten percent holder, Rule 16a-1(a)(1) uses the beneficial ownership tests applied under Section 13(d) and its implementing rules, including Rules 13d-3(a), 13d-3(b), and Rule 13d- 3(d)(1). As a result, for example, a person who has the right to acquire securities that would cause the person to own more than ten percent of a class of equity securities through a security-based swap that confers a right to receive equity at settlement or otherwise would be subject to Section 16 as a ten percent holder under Rule 16a-1(a)(1). Once a person is subject to Section 16, in order to determine what securities are subject to Section 16(a)reporting and Section 16(b) short-swing profit recovery for any insider (whether an officer, director or ten percent holder), Rule 16a-1(a)(2) looks to the insider’s pecuniary interest ( i.e . , opportunity to profit) in the securities. This concept includes an indirect pecuniary interest in securities underlying fixed-price derivative securities, including security-based swaps, whether settled in cash or stock. Consistent with the derivative securities analysis, the Commission has stated that Section 16 consequences would arise from an equity swap transaction where either party to the transaction is a Section 16 insider with respect to a security to which the swap agreement relates. <sup>50</sup> The Commission has provided interpretive guidance regarding how equity swap transactions should be reported, <sup>51</sup> and adopted transaction code “K” to be used in addition to any other applicable code in reporting equityswap and similar transactions so that they can be easily identified. <sup>52</sup>
+
+An equity swapinvolving a single security, or a narrow-based security index, is a security-based swap as defined in Section 3(a)(68).
+
+<h>II. DISCUSSION OF THE READOPTED RULES AND COMMISSION CONFIRMATION</h>
+
+New Section 13(o) provides that a person shall be deemed a beneficial owner of an equity security based on the purchase or sale of a security-based swap only to the extent we adopt rules after making certain determinations with respect to security-based swaps and consulting with the prudential regulators and the Secretary of the Treasury. The regulatory provisions under which beneficial ownership determinations have been made to date with respect to security-based swaps were enacted or adopted before Section 13(o). Accordingly, we are readopting the relevant portions of Rules 13d-3 and 16a-1 following consultation with the prudential regulators and the Secretary of Treasury to assure that these provisions continue to apply to a person who purchases or sells a security-based swap upon effectiveness of Section 13(o).
+
+The purpose of this rulemaking is solely to preserve the regulatory status quo and provide the certainty and protection that market participants have come to expect with the existing disclosures required by the rules promulgated under Sections 13(d), 13(g) and 16(a). While the use of security-based swaps has not been frequently disclosed in Schedule 13D and 13G filings, we are readopting Rules 13d-3(a), (b) and (d)(1) and the relevant portions of Rules 16a-1(a)(1) and (a)(2) to further the policy objectives of, and foster compliance with, these rules upon the effectiveness of Section 13(o).
+
+Given the language in Section 13(o), as well as the newly amended Sections 13(d) and 13(g), <sup>53</sup> we are readopting these rules to remove any doubt that they will continue to allow for the same determinations of beneficial ownership that they do today. Readoption of these rule provisions is intended to confirm that persons who use security-based swaps remain subject to the Section 13(d), Section 13(g) and Section 16 regulatory regimes to the same extent such persons were prior to readoption. Moreover, the rulemaking is designed to preserve the private right of action provided by Section 16(b) and not disturb any other existing right of action.
+
+Section 13(o), once effective, will not render the existing beneficial ownership regulatory provisions inapplicable to persons who obtain beneficial ownership independently from a security-based swap. For example, Rule 13d-3(d)(1) will continue to apply to persons who obtain a right to acquire equity securities if the right does not arise from the purchase or sale of a security-based swap. Rights, options, warrants, or conversion or certain revocation privileges, if acquired or held by persons under circumstances that do not arise from the purchase or sale of a security-based swap, will remain subject to Sections 13(d), 13(g) and 16 and may continue to be treated under Rule 13d-3(d)(1) as the acquisition of beneficial ownership, <sup>54</sup> and Rules 16a-1(a)(1) and 16a-1(a)(2) will continue to apply. Furthermore,
+
+Schedule 13D will continue to require certain disclosures relating to the purchase or sale of security-based swaps notwithstanding Section 13(o). <sup>55</sup>
+
+<h>A. Beneficial Ownership Determinations under Section 13</h>
+
+Section 13(o) provides that a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap only to the extent that the Commission meets certain conditions and adopts a rule. Although readoption of Rule 13d-3(a), Rule 13d-3(b), and Rule 13d-3(d)(1) is being made in part pursuant to Section 13(o), we are not making any revision to the existing rule text. The rules we are readopting are the same as the existing rules in all respects.
+
+<h>1. Rule 13d-3(a)</h>
+
+We are readopting without change Rule 13d-3(a) to address any uncertainty with regard to the application of Rule 13d-3(a) to a person who purchases or sells a security-based swap. Under readopted Rule 13d-3(a), a determination may continue to be made that a beneficial owner of equity securities includes any person who, directly or indirectly, throughsecurities issuable upon exercise or conversion of such securities. In addition, Section 721 of the Dodd-Frank Act excludes from the definition of “swap” any put, call, straddle, option or privilege on any security, certificate of deposit, or group or index of securities, including any interest therein or based on the value thereof, that is subject to the Securities Act of 1933 and the Exchange Act.
+
+Furthermore, Section 13(o) does not affect the treatment of “security-based swap agreements” as defined in the Dodd-Frank Act. For example, Section 762(d)(5) of the Dodd-Frank Act clarifies that Section 16 continues to apply to security-based swap agreements.any contract, arrangement, understanding, relationship or otherwise, has or shares voting power and/or investment power over the securities based on the purchase or sale of a security-based swap.
+
+Following consultation with the prudential regulators <sup>56</sup> and the Secretary of the Treasury, we believe that:
+
+A person’s possession of voting and/or investment power in an equity security based on the purchase or sale of a security-based swap is no different from voting or investment power in an equity security that exists independently from a security- based swap when (1) a security-based swap confers, or (2) an arrangement, understanding or relationship based on the purchase or sale of the security-based swap conveys, voting and/or investment power in an equity security. Security-based swaps therefore can provide incidents of ownership comparable to direct ownership of the underlying equity security within the meaning of Section 13(o) to the extent that the security-based swap confers, or an arrangement, understanding or relationship based upon the purchase or sale of the security-based swap conveys, voting and/or investment power in an equity security; and
+
+Retaining the existing regulatory treatment of security-based swaps in Rule 13d-3(a) is necessary to achieve the purpose of Section 13 so that Sections 13(d) and 13(g) continue to require the filing of beneficial ownership reports that produce disclosure by persons who have the ability or potential to change or influence control of theissuer. In addition, these persons may have the means to acquire significant amounts of equity securities wholly or partly based upon the purchase or sale of a security- based swap. As a result, these persons may have the potential to effect a change of control transaction or preserve or influence control of an issuer. In the case of Schedule 13D filers, these persons would be required to disclose their plans or proposals. Disclosures made in beneficial ownership reports are in the public interest and necessary for the protection of investors because they provide information about certain transactions and related acquisitions of beneficial ownership that: could disclose a potential shift in corporate control; impact the transparency and efficiency of our capital markets; and contribute to price discovery.
+
+<h>2. Rule 13d-3(b)</h>
+
+We are readopting without change Rule 13d-3(b) to address any uncertainty with regard to the continued application of Rule 13d-3(b) to a person who purchases or sells a security-based swap. Rule 13d-3(b) provides that a person is deemed to be a beneficial owner if that person uses any contract, arrangement, or device as a means to divest or prevent the vesting of beneficial ownership as part of a plan or scheme to evade the beneficial ownership reporting requirements. Under readopted Rule 13d-3(b), any person that uses a security-based swap as part of a plan or scheme to evade reporting beneficial ownership continues to be subject to the requirement to disclose the accumulation of an influential or control position in a public issuer.
+
+Following consultation with the prudential regulators and the Secretary of the Treasury, we believe that:
+
+A person’s use of a security-based swap to divest or prevent the vesting of beneficial ownership as part of a plan or scheme to evade the application of Sections 13(d) or 13(g) is no different from a plan or scheme that uses a contract, arrangement or device that exists independently from a security-based swap. In this context, a person would be deemed to have beneficial ownership, and thus incidents of ownership comparable to direct ownership within the meaning of Section 13(o), but for the plan or scheme based in whole or in part upon the purchase or sale of a security-based swap; and
+
+Retaining the existing regulatory treatment of security-based swaps in Rule 13d-3(b) is necessary to achieve the purpose of Section 13 so that Sections 13(d) and 13(g) continue to require the filing of beneficial ownership reports that produce disclosure by persons who have the ability or potential to change or influence control of the issuer. In addition, these persons may have the means to acquire significant amounts of equity securities based in whole or in part upon the purchase or sale of a security- based swap, and therefore the potential to effect a change of control transaction or preserve or influence control of an issuer. In the case of Schedule 13D filers, these persons would be required to disclose their plans or proposals. Disclosures made in beneficial ownership reports are in the public interest and necessary for the protection of investors because they provide information about certain transactions and related acquisitions of beneficial ownership that: could disclose a potential shift in corporate control; impact the transparency and efficiency of our capital markets; and contribute to price discovery.3.	Rule 13d-3(d)(1)
+
+We are readopting without change Rule 13d-3(d)(1) to address any uncertainty with regard to the continued application of Rule 13d-3(d)(1) to a person who purchases or sells a security-based swap. Rule 13d-3(d)(1) provides that a person will be deemed to be a beneficial owner of equity securities if the person has the right to acquire beneficial ownership of the securities within 60 days, or at any time if the right is held for the purpose of changing or influencing control. Readopted Rule 13d-3(d)(1) continues to apply to any person that obtains such a right based on the purchase or sale of a security-based swap.
+
+The Commission has long recognized the importance of having the beneficial ownership reporting regime account for contingent interests in equity securities arising from investor use of derivatives, such as options, warrants or rights. The Commission adopted Rule 13d-3, the predecessor to Rule 13d-3(d)(1), on August 30, 1968, <sup>57</sup> approximately one month after Congress enacted Section 13(d). <sup>58</sup> The Commission also has treated futures contracts for equity securities the same as options, warrants, or rights for purposes ofdetermining beneficial ownership. <sup>59</sup>
+
+When a right to acquire may be exercised within 60days or less, or if a right has been acquired for the purpose or with the effect of changing or influencing control of the issuer of securities, we believe that treating the holder of the right as if the person is a beneficial owner under Rule 13d-3(d)(1) is necessary to achieve theregulatory purpose of Section 13 given the person’s potential to influence or change control of the issuer. <sup>60</sup>
+
+Following consultation with the prudential regulators and the Secretary of the Treasury, we believe that:
+
+A person’s right to acquire an equity security within 60 days based on the purchase or sale of a security-based swap is no different from a right to acquire the underlying equity security that exists independently from a security-based swap. A right to acquire an equity security within 60 days is comparable to direct ownership of the equity security because direct ownership is contingent, in some cases, only upon the exercise of that right and may result in the potential to change or influence control of the issuer upon acquisition of the equity security for which the right is exercisable. Security-based swaps, therefore, can provide incidents of ownership comparable to direct ownership of the underlying equity security within the meaning of Section 13(o) to the extent that the security-based swap confers a right to acquire an equity security within 60 days;
+
+A person who acquires or holds, with the purpose or effect of changing or influencing control of an issuer, a right to acquire an equity security based on the purchase or sale of a security-based swap is no different from a person who acquires or holds a right to acquire an equity security with the purpose of changing or influencing control of the issuer that exists independently from a security-based swap. Rights acquired or heldin this context may be used in furtherance of a plan or proposal to change control of the issuer, and such rights to acquire equity securities may otherwise influence an issuer if held by a person intending to effect a change of control transaction or preserve or influence control of an issuer. Security-based swaps, therefore, can provide incidents of ownership comparable to direct ownership of the underlying equity security within the meaning of Section 13(o) to the extent that the security- based swap confers a right to acquire an equity security to a person that holds the right with the purpose or with the effect of changing or influencing control of the issuer or otherwise in connection with or as a participant in any transaction having such purpose or effect; and
+
+Retaining the existing regulatory treatment of security-based swaps under Rule 13d- 3(d)(1) is necessary to achieve the purpose of Section 13 so that Sections 13(d) and 13(g) continue to require the filing of beneficial ownership reports that disclose certain transactions by persons who have the ability or potential to change or influence control of the issuer. These persons may have the means to acquire significant amounts of equity securities based in whole or in part upon the purchase or sale of a security-based swap, and therefore the potential to effect a change of control transaction or preserve or influence control of an issuer. In the case of Schedule 13D filers, these persons would be required to disclose their plans or proposals. Disclosures made in beneficial ownership reports are in the public interest and necessary for the protection of investors because they provide information about certain transactions and related acquisitions of beneficial ownership that: coulddisclose a potential shift in corporate control; impact the transparency and efficiency of our capital markets; and contribute to price discovery.
+
+<h>B. Section 16 Beneficial Ownership Rules 1.	Rule 16a-1(a)(1)</h>
+
+We are readopting without change a portion of Rule 16a-1(a)(1) <sup>61</sup> to preserve, solely for purposes of determining whether a person is a ten percent holder, the application of the relevant provisions within Rule 13d-3 to a person who uses a security-based swap.
+
+Readoption of Rule 16a-1(a)(1) does not change the rule’s provision that shares held by institutions eligible to file beneficial ownership reports on Schedule 13G that are held for clients in a fiduciary capacity in the ordinary course of business are not counted for purposes of determining ten percent holder status. <sup>62</sup>
+
+Following consultation with the prudential regulators and the Secretary of the Treasury, we believe that:
+
+For the same reasons and in the same circumstances as described above for Rule 13d- 3(a), Rule 13d-3(b) and Rule 13d-3(d)(1), solely for purposes of determining whethera person is a ten percent holder subject to Section 16, the purchase or sale of a security-based swap, or class of security-based swap, can provide incidents of ownership comparable to direct ownership of the equity security within the meaning of Section 13(o); and
+
+The inclusion of equity securities based on the purchase or sale of a security-based swap, or class of security-based swap, for purposes of calculating ten percent holder status is necessary to achieve the purpose of Section 16, so that Section 16 continues to reach all persons that, under the Section 16 regime, are presumptively deemed to have access to inside information based on influence or control of the issuer through ownership of equity securities.2.	Rule 16a-1(a)(2)
+
+We are readopting without change a portion of Rule 16a-1(a)(2) <sup>63</sup>solely to preservethe existing Section 16(a) reporting of security-based swap holdings and transactions and, correspondingly, to prevent the potential use of security-based swaps to engage in short- swing trading outside the scope of Section 16(b) short-swing profit recovery. Readoptiondoes not change or otherwise affect any aspect of the pecuniary interest analysis and treatment of derivative securities under Section 16.
+
+Following consultation with the prudential regulators and the Secretary of the Treasury, we believe that:
+
+Because an insider’s opportunity to profit through a security-based swap is no different from the opportunity to profit through transactions in any other fixed-price derivative security, and hence no different from the opportunity to profit through transactions in the underlying equity security, holdings and transactions in security- based swaps that are fixed-price derivative securities can provide incidents of ownership comparable to direct ownership of the underlying equity security within the meaning of Section 13(o); and
+
+Retaining the existing treatment of security-based swaps is necessary to achieve the purpose of Section 16 so that Section 16 continues to reach holdings and transactions that insiders can potentially use to profit based on misuse of inside information.
+
+<h>III. PAPERWORK REDUCTION ACT</h>
+
+The readopted rules affect “collection of information” requirements within themeaning of the Paperwork Reduction Act of 1995. <sup>64</sup>
+
+An agency may not conduct or sponsor,and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. We already have control numbers for Schedules 13D (OMB Control No. 3235-0145) and 13G (OMB Control No. 3235-0145) and Forms 3 (OMB Control No. 3235-0104), 4 (OMB Control No. 3235-0287), and 5 (OMB Control No. 3235-0362). These schedules and forms contain item requirements that outline the information a reporting person must disclose.
+
+<h>A. Background</h>
+
+We are readopting without change portions of the rules enabling determinations of beneficial ownership to be made for purposes of Sections 13(d), 13(g) and 16 of the Exchange Act. Readoption is intended to confirm that following the effective date of Section 13(o), persons who use security-based swaps will remain within the scope of these rules to the same extent as they were before the readoption. We did not receive any comments concerning our Paperwork Reduction Act Reduction Analysis in the proposing release.
+
+<h>B. Burden and Cost Estimates Related to the Readoption</h>
+
+Preparing and filing a report on any of these schedules or forms is a collection of information. The hours and costs associated with preparing the disclosure, filing the schedules or forms and retaining records required by these rules constitute reporting and cost burdens imposed by each collection of information. Readoption of the rules ensures that reporting persons will remain obligated to disclose the same information that they were previously required to report on these schedules or forms. We therefore believe that the overall information collection burden will remain the same because beneficial ownership will remain reportable on the same basis as before the readoption.
+
+<h>IV. ECONOMIC ANALYSIS</h>
+
+<h>A. Introduction</h>
+
+Section 23(a)(2) of the Exchange Act requires us, when adopting rules under the Exchange Act, to consider the impact on competition that the rules we adopt would have, andprohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of that Act. <sup>65</sup> Further, Section 3(f) of the Exchange Act <sup>66</sup> and Section 2(c) of the Investment Company Act <sup>67</sup> require us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition and capital formation. We have considered and discussed below the effects of the readopted rules on efficiency, competition, and capital formation, as well as the benefits and costs associated with the rulemaking.
+
+In order to more fully analyze the potential effects of readopting portions of our rules to preserve the regulatory status quo upon the effectiveness of Section 13(o), we have performed the analysis below in two separate ways. First, we analyze the impact of the readoption compared to the status quo , in which the rules already apply to a person who purchases or sells a security-based swap. Second, we analyze the impact as if our rules did not already apply to persons who purchase or sell security-based swaps. We believe the economic effect will be minimal. Commentators supported the readopted rules on the grounds that they preserved the regulatory status quo . They did not identify any cost that would result from the rulemaking.
+
+<h>B. Benefits and the Impact on Efficiency, Competition and Capital Formation</h>
+
+<h>1. When the Rules We Readopt Already Apply to Persons Who Purchase or Sell Security-Based Swaps</h>
+
+Readoption of certain provisions of Rule 13d-3 and Rule 16a-1 preserves the continued administration of existing rules adopted to improve the transparency of information available to investors, issuers and the marketplace. Readoption is intended to preserve that transparency regarding beneficial ownership positions and the intentions of persons who hold such positions, as well as the holdings of and transactions by Section 16 insiders. We are readopting, without change, rules that, when applied, may result in disclosure of beneficial ownership and insiders’ holdings and transactions in equity securities. In addition, one of the readopted rules, Rule 16a-1(a)(2), also identifies transactions that may be subject to the private right of action to recover short-swing profit for the issuer provided by Section 16(b).
+
+The rules are readopted solely to preserve the regulatory status quo regarding beneficial ownership reporting under Sections 13(d) and (g), Section 16 insider status as a ten percent holder, insider holding and transaction reporting under Section 16(a), and insider short-swing profit liability under Section 16(b). Continued application of the rules also will provide certainty regarding the Section 16(b) private right of action to recover insiders’short-swing profits for the issuer. Because the rules we readopt are already in place and will remain unchanged, readoption and effectiveness of these rules should have minimal benefits, and little, if any, new effect on efficiency, competition, or capital formation or on the persons required to make the disclosures as a result of the application of the rules. Beneficial ownerswho use security-based swaps are already subject to these rules and are required to make any applicable disclosures. Because only a limited number of beneficial ownership reports contain disclosure that relates to security-based swaps, the potential effect of this rulemaking should be minimal. Shareholders, issuers, market participants and any other persons who rely upon the disclosures being made as a result of application of the rules similarly will receive little, if any, new benefit and are unlikely to experience any new impact on efficiency, competition or capital formation because the regulatory environment will remain the same as before readoption.
+
+<h>2. If the Rules We Readopt Did Not Already Apply to Persons Who Purchase or Sell Security-Based Swaps</h>
+
+If one were to analyze the effect of readopting these rules as if they did not already apply to a person who purchases or sells a security-based swap, there would be new benefits, as well as a beneficial effect on efficiency, competition and capital formation. These benefits could extend to persons relying upon these disclosures, including prospective investors, shareholders, issuers, and other market participants. These benefits also may extend to beneficial owners required to comply with disclosure requirements as a result of the application of the rules we readopt. Any such benefits, if realized, would be attributable both to the removal of any regulatory uncertainty and to the resulting preservation of transparency.
+
+Applying the rules to a person who purchases or sells a security-based swap confers a benefit to market participants by providing market transparency and removing, in some cases, information asymmetry. Prospective investors, shareholders, issuers and other market participants benefit from the transparency provided through disclosure made available bypersons subject to Sections 13 and 16. For example, a Schedule 13D filing may disclose a potential change of control transaction and assist a shareholder in making an investment decision that would maximize the return on an investment. Disclosures made on Schedule 13G may identify for the marketplace important investment decisions made by institutional investors and other large shareholders or may provide notice to investors, issuers and the market regarding voting blocks of securities that have the potential to affect or influence control of an issuer.
+
+Applying the rules to a person who purchases or sells a security-based swap assures that Section 16 will reach a person that, under the Section 16 regime, is presumptively deemed to have access to inside information based on influence or control of the issuer through equity ownership. In addition, applying the rules to a person who purchases or sells a security-based swap means that an insider (whether an officer, director, or ten percent holder) is required to report beneficial ownership with respect to transactions and holdings in a security-based swap that confers an indirect pecuniary interest in issuer equity securities.
+
+These reports, like other Section 16(a) reports, may provide shareholders and other market participants with useful information regarding insiders’ views of the performance or prospects of the issuer.
+
+Transparency of trading by persons covered by Sections 13 and 16, and transparency of accumulations of material ownership blocks or voting power based on the purchase or sale of a security-based swap, would increase informational efficiency in securities markets in particularly important areas, especially where a Schedule 13D filing may be the first required disclosure of an intended change of control of an issuer. Transparency confers a benefit byassuring the availability of information upon which investors may rely to make informed investment and voting decisions.
+
+The level of transparency provided by Rules 13d-1(a) and 16a-1 also may contribute to market efficiency because it could help facilitate the accurate pricing of securities. If the rules did not apply to a person who purchases or sells a security-based swap, investors and market participants, such as financial analysts and broker dealers, would not have information regarding the use of security-based swaps by persons subject to Sections 13 and 16, including major investors. The transparency provided by the application of our rules should help the market accurately price securities and may enable purchasers and sellers of securities to receive a benefit by avoiding costs, if any, associated with participation in transactions based on mispriced securities. For example, market efficiency should increase because the market will have readily available information about acquisitions of securities that involve the potential to change or influence control of an issuer in connection with the purchase or sale of a security-based swap. If persons who purchase or sell security-based swaps were excluded from this regulatory scheme, an incentive could arise to use security- based swaps to affect or influence the outcome of a change of control transaction. In addition, the pricing of a security would not readily reflect, if at all, ownership interests in the issuer derived from security-based swaps. In such circumstances, the application of the rules we readopt would have the benefit of eliminating this incentive while increasing the quality of information available to price securities.
+
+Public availability of information about the existence of persons who use security- based swaps and have the potential to change or influence control of the issuer affectscompetition in the market for corporate control. If bidders that use securities-based swaps comply with the beneficial ownership disclosure requirements, the balance Congress soughtto strike between issuers and prospective bidders will not tip away from issuers. <sup>68</sup>
+
+Providingequal access to information regarding persons who use security-based swaps and have the ability to change or influence control of an issuer reinforces a legislative objective of Section 13(d) by assuring that a person will not be able to implement a change of control transaction by means of a large, undisclosed position. Applying our rules to persons who purchase or sell security-based swaps enables issuers to consider information about competitors in the market for corporate control, including those who may be able to offer a new or competing strategic alternative. Schedule 13D and 13G filings also may deliver greater certainty to market participants who make strategic, voting, or investment decisions wholly or partly based upon the information disclosed, and could reduce speculation about future plans or proposals relating to an issuer. For example, market participants may not be discouraged from introducing strategic plans or proposals to an issuer out of concern that an undisclosed interest in the issuer derived from a security-based swap could interrupt execution of their plan or proposal.
+
+Section 16 is intended to provide the public with information about the securities transactions and holdings of officers, directors, and ten percent holders, and to mitigate informational advantages they may have in trading issuer securities. Applying Rule 16a- 1(a)(1) to beneficial ownership based on the purchase or sale of a security-based swap discourages persons from unfairly profiting in trades based on the ability to become a tenpercent holder partly or wholly based on the use of security-based swaps without becoming subject to Section 16. Applying Rule 16a-1(a)(2), which defines “beneficial ownership” based on pecuniary interest in issuer equity securities, to persons who purchase or sell security-based swaps prevents the development of a trading market potentially favoring any insider (whether an officer, director, or ten percent holder) to the extent that:holdings and transactions involving security-based swaps may not be reported, thereby depriving investors of potentially useful information; andinsiders have the opportunity to misuse their potential informational advantages in trading without regard to potential short-swing profit liability.
+
+Making information publicly available generally lowers an issuer’s cost of capital and facilitates capital formation, in comparison to what the cost of capital otherwise might be if the rules did not already apply to a person who purchases or sells a security-based swap. If the rules apply to a person who purchases or sells a security-based swap, the resulting transparency could favorably affect investor confidence in the capital markets and thereby not compromise capital formation. <sup>69</sup> If our rules require persons who use security-based swaps to provide disclosures in Schedules 13D and 13G and Forms 3, 4 and 5, investors will not insist on a higher risk premium in publicly-traded equity securities and consequently reduce capital formation. Informed investor decisions generally promote capital formation. <sup>70</sup>
+
+<h>69. See Luigi Guiso et al., Trusting the Stock Market, 63 J. FIN. 2557 (2008) (finding that trust in the fairness of the financial system is correlated with higher levels of stock market participation).</h>
+
+<h>70. See Merritt B. Fox, Randall Morck, Bernard Yeung & Artyom Durnev, Law, Share Price Accuracy, and Economic Performance: the New Evidence, 102 Mich L. Rev. 331 (2003) (empirical study of the value of disclosure requirements in enhancing investment efficiency); see also Studies in Resource</h>
+
+In addition, market participants would benefit from the predictability associated with a regulatory environment in which all persons who have the potential to influence or change control of an issuer are definitively subject to the same beneficial ownership reporting rules. If there were questions as to whether our rules applied to persons who purchase or sell security-based swaps, market participants would have to accept more operational and legal risk because of the potentially unregulated treatment of persons who use security-based swaps with incidents of ownership comparable to direct ownership, as well as persons who have arrangements, understandings, or relationships concerning voting and/or investment power, the opportunity to acquire equity securities, or a plan or scheme to evade Sections 13(d) and 13(g) in connection with the purchase or sale of a security-based swap. By applying our rules to all persons who have the potential to influence or change control of the issuer, market participants would have assurance that securities pricing may reflect information derived from security-based swaps when Sections 13(d), 13(g), and 16 require reporting. The certainty provided by this consistent regulatory treatment should foster investor confidence and participation in the capital markets generally, and should not impair capital formation.
+
+The rules we readopt also would provide the Commission access to ownership and transaction information that would not be available if the rules did not already apply to a person who purchases or sells a security-based swap. The availability of this data should enhance the ability of the Commission and its staff to study and address issues that relate to
+
+Allocation Processes at p. 413 (Kenneth J. Arrow & Leonid Hurwicz eds., 2007) (explaining the relationship between informational efficiency and Pareto efficiency of resource allocation).this information. Ready access to this information also will continue to enable the Commission to exercise efficiently its enforcement mandate in this market segment, and thereby confer a benefit to all market participants by offering assurance that the integrity of security pricing is protected, and is otherwise consistent with the legislative purpose of Sections 13(d), 13(g), 13(o), and 16.
+
+<h>C. Costs and the Impact on Efficiency, Competition and Capital Formation</h>
+
+<h>1. When the Rules We Readopt Already Apply to Persons Who Purchase or Sell Security-Based Swaps</h>
+
+We believe that the rules we readopt will not, as a practical matter, impose any new costs on market participants, given that the rulemaking is intended only to preserve the regulatory status quo . Although it is difficult to determine the number of entities and the costs to entities that are required to comply with the rules we readopt, we believe that readoption of the rules will result in minimal, if any, costs to any person or entity (either small or large) and will have little, if any, burden on efficiency, competition or capital formation because the regulatory environment will remain unchanged.
+
+Regulation 13D-G currently applies to any person that acquires or is deemed to acquire or hold beneficial ownership of more than five percent of certain classes of equity securities. The readoption of the relevant provisions of Rule 13d-3 will not result in any change to the beneficial ownership reporting obligations of the persons previously subject to the beneficial ownership regulatory provisions. Similarly, Section 16 applies to any person that acquires or is deemed to acquire more than ten percent of certain classes of equity securities, and the readoption of Rule 16a-1(a)(1) will not result in any change in determiningwhether a person is subject to Section 16 as a ten percent holder. Further, for all insiders, the requirements for Section 16(a) reporting and Section 16(b) liability are based on whether the insider has a pecuniary interest in the securities, including indirectly through ownership of and transactions in fixed-price derivative securities, such as security-based swaps, whether settled in cash or stock. Accordingly, the readoption of Rule 16a-1(a)(2) will not result in any change in determining reportable holdings and transactions, or transactions subject to short-swing profit recovery.
+
+Because the rules we readopt already apply in determining whether a person is required to report beneficial ownership and insiders’ holdings and transactions on Schedules 13D and 13G and Forms 3, 4 and 5, we do not believe the readopted rules will alter the costs associated with compliance. These schedules and forms already prescribe beneficial ownership information that a reporting person must disclose, and the rulemaking does not broaden the scope of the information required to be reported on the respective schedules and forms. The compliance burden associated with completion of the relevant schedule or form may be greater or lesser depending on the relative simplicity of the beneficial ownership interest. We recognize that the cost of complying with the beneficial ownership reporting regime can include the cost of analyzing whether the particular interest requires reporting. If it is determined that the interest held constitutes beneficial ownership, and the amount of the beneficial ownership interest exceeds the relevant threshold, the owner must complete and file a schedule and/or form. The compliance burden associated with the readopted rules, however, including costs associated with legal and other professional fees, may decrease because of the regulatory certainty that readoption provides. Furthermore, the personsincurring this compliance burden may already be subject to a reporting obligation based on an earlier application of these rules, and may not be reporting beneficial ownership for the first time as a direct result of the purchase or sale of security-based swaps.
+
+Under the readopted rules, reporting persons will remain obligated to disclose the information currently required to be reported on these schedules or forms. We therefore believe that the overall compliance burden of the rules will remain the same. In addition, we do not believe that compliance costs, or the disclosure provided to effect compliance, will affect competition among filers.
+
+We also believe that shareholders, issuers, market participants and any other persons who rely upon the disclosures being made as a result of application of the rules similarly will not be subjected to any new cost, or experience any new impact on efficiency, competition or capital formation because the rules we readopt are already in place and will remain unchanged.
+
+<h>2. If the Rules We Readopt Did Not Already Apply to Persons Who Purchase or Sell Security-Based Swaps</h>
+
+Costs could increase for a person who purchases or sells a security-based swap and immediately or eventually incurs the cost of filing or amending a beneficial ownership report if the person did not already determine that a reporting obligation existed based on his or her purchase or sale of a security-based swap. Further, an insider could incur costs from potential short-swing profit recovery arising out of a transaction in a security-based swap.
+
+Application of our rules to a person who purchases or sells a security-based swap may affect competition. For example, a person who becomes a ten percent holder partly orwholly based on the use of a security-based swap would not be in a position to profit in trades prompted by a statutorily presumed informational advantage accentuated by the absence of a reporting requirement. In addition, beneficial owners who compete in the market for corporate control would lose a competitive advantage upon the required disclosure of their beneficial ownership positions and any plans or proposals.
+
+Upon application of the rules we readopt, beneficial owners may accomplish certain objectives with less efficiency. For example, the completion of change of control transactions may be delayed due to potential interruptions that may arise or alternatives that might emerge as a result of public disclosures. If our rules did not already apply to a person who purchases or sells a security-based swap, that person could accumulate a large beneficial ownership position through the use of a security-based swap without public disclosure. This beneficial ownership position otherwise could have been used to implement or influence the outcome of a change of control transaction without alerting an issuer or the marketplace of these intentions. We believe, however, that the benefits of our readopted rules justify these costs.
+
+The impact, if any, of the rule readoption on capital formation should be insignificant.
+
+Compliance costs arising under the beneficial ownership reporting regime based on the purchase or sale of a security-based swap are not expected to redirect capital that otherwise could have been allocated to capital formation. Capital formation should not be affected by a possible decline in the use of security-based swaps resulting from the application of our rules to a person who purchases or sells a security-based swap, given that capital formation ordinarily is not dependent upon the proceeds from transactions in security-based swaps.
+
+<h>V. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+We certified pursuant to 5 U.S.C. 605(b) that this readoption of our rules would not have a significant economic impact on a substantial number of small entities. This rulemaking relates to beneficial ownership reporting and reporting by insiders of their transactions and holdings. Readoption does not amend existing rules or introduce new rules, and relates only to the readoption of existing rules. For this reason, it does not change the regulatory status quo and therefore should not have a significant economic impact on a substantial number of small entities.
+
+The proposing release encouraged written comment regarding this certification. None of the commentators addressed the certification or described any impact that this readoption would have on small entities.
+
+<h>VI. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.13d-3.
+
+2 17 CFR 240.16a-1.
+
+3 15 U.S.C. 78a et seq.
+
+4 Pub. L. No. 111–203, 124 Stat. 1797.
+
+5 See Section 774 of the Dodd-Frank Act, Pub. L. No. 111-203, 124 Stat 1376 (2010), which states that Section 766 becomes effective “360 Days after the date of enactment.”
+
+6 A “security-based swap” is defined in Section 3(a)(68) [15 U.S.C. 78c(a)(68), added by Section 761(a) of the Dodd-Frank Act]. Section 712(d) of the Dodd-Frank Act provides that the Commission and the Commodity Futures Trading Commission (“CFTC”), in consultation with the Board of Governors of
+
+7 15 U.S.C. 78p.
+
+8 See Release No. 34-64087 (March 17, 2011) [76 FR 15874] (the “Proposing Release”).
+
+9 In addition, the readoption of the relevant portions of Rules 13d-3 and 16a-1(a) is neither intended nor expected to change any existing administrative or judicial application or interpretation of the rules.
+
+10 15 U.S.C. 78m(d).
+
+11 15 U.S.C. 78m(g).
+
+12 The comment letters were submitted by the Business Law Section of the American Bar Association (Federal Regulation of Securities Committee), the American Business Conference, the Managed Funds Association, Chris Barnard, and the law firm of Wachtell, Lipton, Rosen & Katz, which described this action as “both timely and necessary.” The commentators also provided their views on possible future rulemaking to modernize reporting under Exchange Act Sections 13(d) and 13(g).
+
+13 Section 13(d)(1) applies to any equity security of a class that is registered pursuant to Section 12 of the Exchange Act, any equity security issued by a “native corporation” pursuant to Section 37(d)(6) of the Alaska Native Claims Settlement Act, and any equity security described in Exchange Act Rule 13d- 1(i) [17 CFR 240.13d-1(i)]. Rule 13d-1(i) explains that for purposes of Regulation 13D-G, “the term ‘equity security’ means any equity security of a class which is registered pursuant to section 12 of that Act, or any equity security of any insurance company which would have been required to be so registered except for the exemption contained in section 12(g)(2)(G) of the Act, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940; Provided, Such term shall not include securities of a class of non-voting securities.”
+
+14 Adoption of Beneficial Ownership Disclosure Requirements, Release No. 34-13291 (Feb. 24, 1977) [42 FR 12342].
+
+15 S. Rep. No. 550, at 7 (1967); H.R. Rep. No. 1711, at 8 (1968); Full Disclosure of Corporate Equity Ownership and in Corporate Takeover Bids, Hearings on S. 510 before the S. Banking and Currency Comm., 90th Cong. 16 (1967) (“The bill now before you has a much closer relationship to existing provisions of the Exchange Act regulating solicitation of proxies, since acquisitions of blocks of voting
+
+16 17 CFR 240.13d-101.
+
+17 See Section 13(d)(6) and Rule 13d-1(b) and (d).
+
+18 17 CFR 240.13d-102.
+
+19 See Amendments to Beneficial Ownership Reporting Requirements, Release No. 34-39538 (Jan. 12, 1998) [63 FR 2854] for a description of the types of persons eligible to file a Schedule 13G. The investors eligible to report beneficial ownership on Schedule 13G are commonly referred to as qualified institutional investors under Rule 13d-1(b), passive investors under Rule 13d-1(c), and exempt investors under Rule 13d-1(d). Unlike Section 13(d), Section 13(g) applies regardless of whether beneficial ownership has been “acquir[ed]” within the meaning of Section 13(d) or is viewed as not having been acquired for purposes of Section 13(d). For example, persons who obtain all their securities before the issuer registers the subject securities under the Exchange Act are not subject to Section 13(d) and persons who acquire not more than two percent of a class of subject securities within a 12-month period are exempt from Section 13(d) by Section 13(d)(6)(B), but in both cases are subject to Section 13(g).
+
+20 See Computer Network Corp. v. Spohler [1982 Transfer Binder] Fed Sec. L. Rep (CCH) ¶ 98,623 at 93,087 (D.D.C. March 23, 1982). See also, San Francisco Real Estate Investors v. REIT of America, [1982 Transfer Binder] Fed. Sec. L. Rep. (CCH) ¶ 98,874, at 94,557 (D. Mass. Nov. 19, 1982), aff’d in part, rev’d in part 701 F.2d 1000 (1st Cir. 1983). The Commission also has recognized that Section 13(d) was enacted primarily to provide “adequate disclosure to stockholders in connection with any substantial acquisition of securities within a relatively short time.” Adoption of Beneficial Ownership Disclosure Requirements, Release No. 34-13291, (Feb. 24, 1977) [42 FR 12342] citing S. Rep. No. 550, at 7 (1967).
+
+21 H.R. Rep. No. 1655, at 3 (1970); see, e.g., Additional Consumer Protection in Corporate Takeovers and Increasing the Sec. Act Exemptions for Small Businessmen, Hearing Before the Sec. Subcomm. of the S. Banking and Currency Comm. on S. 336 and S. 343, 91st Cong. (1970). See also Bath Indus. v. Blot, 427 F.2d 97, 113 (7th Cir. 1970). Disclosures made in compliance with Sections 13(d) and 13(g) also provide issuers that file registration statements, annual reports, proxy statements and other disclosure documents with the information they use to disclose all beneficial owners of more than five percent of certain classes of the issuer’s equity securities as required by Item 403 of Regulation S-K. [17 CFR 229.403]. See generally H.R. Rep. No. 1655.
+
+22 H.R. Rep. No. 1711, at 4 (1968); S. Rep. No. 550, at 3 (1968). Both the House and Senate reports emphasized that Section 13(d) was enacted “to require full and fair disclosure for the benefit of investors while at the same time providing the offeror and management equal opportunity to fairly present their case.”
+
+23 GAF Corp. v. Milstein, 453 F.2d 709, 717 (2d. Cir. 1971), cert. denied, 406 U.S. 910 (1972), cited by the Commission at note 16 in the following administrative proceeding: In the Matter of Harvey Katz,
+
+24 General Aircraft Corp. v. Lampert, 556 F.2d 90, 94 (1st Cir. 1977); see also S. Rep. No. 550, at 3 (“But where no information is available about the persons seeking control, or their plans, the shareholder is forced to make a decision on the basis of a market price which reflects an evaluation of the company based on the assumption that the present management and its policies will continue. The persons seeking control, however, have information about themselves and about their plans which, if known to investors, might substantially change the assumptions on which the market price is based.”).
+
+25 Takeover Bids, Hearings on 14475 and S. 510 before the Subcomm. on Commerce and Fin. of the H. Comm. on Interstate and Foreign Commerce, 90th Cong. 12 (1968) (statement of Hon. Manuel F. Cohen, Chairman, U.S. Securities and Exchange Commission, “But I might ask, how can an investor evaluate the adequacy of the price if he cannot assess the possible impact of a change in control? Certainly without such information he cannot judge its adequacy by the current or recent market price. That price presumably reflects the assumption that the company’s present business, control and management will continue. If that assumption is changed, is it not likely that the market price might change?”).
+
+26 See note 6 above.
+
+27 Except with respect to the discussion of Section 16 (text accompanying notes 45-47), and the statements contained in note 54, this release does not address whether, or under what circumstances, an agreement, contract, or transaction that is labeled a security-based swap (including one which confers voting and/or investment power, grants a right to acquire one or more equity securities, or is used with
+
+28 Exchange Act Section 13(d)(1) applies after a person directly or indirectly acquires beneficial ownership, regardless of whether the person has made an acquisition of the equity securities.
+
+29 15 U.S.C. 78l.
+
+30 15 U.S.C. 78p(a).
+
+31 Insiders file these reports on Form 3 [17 CFR 249.103].
+
+32 Insiders file transaction reports on Form 4 [17 CFR 249.104] and Form 5 [17 CFR 249.105].
+
+33 15 U.S.C. 78p(b).
+
+34 In addition, insiders are subject to the short sale prohibitions of Section 16(c) [15 U.S.C. 78p(c)].
+
+35 See S. Rep. No. 1455, at 55, 68 (1934); See also S. Rep. No. 792, at 20-1 (1934); S. Rep. No. 379, at
+
+36 Ownership Reports and Trading By Officers, Directors and Principal Security Holders, Release No. 34-28869 (Feb. 21, 1991) [56 FR 7242].
+
+37 Rule 13d-3(d).
+
+38 For example, the Commission applied an analysis derived from Rule 13d-3(d)(1) in publishing its views regarding when equity securities underlying a security future that requires physical settlement should be counted for purposes of determining whether the purchaser of the security future is subject to Section 16 as a ten percent holder by operation of Rule 16a-1(a)(1). Commission Guidance on the Application of Certain Provisions of the Securities Act of 1933, the Securities Exchange Act of 1934,
+
+39 Rule 16a-1(a)(2)(i).
+
+40 Rule 16a-1(a)(2)(ii)(F).
+
+41 Rule 16a-1(c)(6).
+
+42 Rule 16a-1(d). Further, Rule 16a-4(a) [17 CFR 240.16a-4(a)] provides that for purposes of Section 16, both derivative securities and the underlying securities to which they relate are deemed to be the same class of equity securities, except that the acquisition or disposition of any derivative security must be separately reported.
+
+43 For example, the Futures Interpretive Release, at Q&A Nos. 8-13, explains the status of a security future as a derivative security for purposes of Section 16(a) reporting and Section 16(b) short-swing profit recovery.
+
+44 Ownership Reports and Trading By Officers, Directors and Principal Security Holders, Release No. 34-28869, at Section III.A (Feb. 21, 1991) [56 FR 7242].
+
+45 Rule 16a-1(b) provides that a “call equivalent position” is “a derivative security position that increases in value as the value of the underlying equity security increases, including, but not limited to, a long convertible security, a long call option, and a short put option position.”
+
+46 Rule 16a-1(h) provides that a “put equivalent position” is “a derivative security position that increases in value as the value of the underlying equity decreases, including, but not limited to, a long put option and a short call option.”
+
+47 Rule 16b-6(a).
+
+48 Rule 16b-6(b) generally exempts from Section 16(b) short-swing profit recovery the exercise or conversion of a fixed-price derivative security, provided that it is not out-of-the-money. Rule 16b-6(c) provides guidance for determining short-swing profit recoverable from transactions involving the purchase and sale or sale and purchase of derivative and other securities.
+
+49 Former Rule 16a-1(c)(3), adopted in Release No. 34-28869, excluded from the definition of “derivative securities” “securities that may be redeemed or exercised only for cash and do not permit the receipt of equity securities in lieu of cash, if the securities either: (i) are awarded pursuant to an employee benefit plan satisfying the provisions of [former] §240.16b-3(c); or (ii) may be redeemed or exercised only upon a fixed date or dates at least six months after award, or upon death, retirement, disability or termination of employment.” As a corollary to adopting a broader Rule 16b-3 exemption, the Commission rescinded former Rule 16a-1(c)(3) in 1996, stating that “because the opportunity for profit based on price movement in the underlying stock embodied in a cash-only instrument is the same as for an instrument settled in stock, cash-only instruments should be subject to Section 16 to the same extent as other issuer equity securities.” Ownership Reports and Trading by Officers, Directors and Principal Security Holders, Release No. 34-37260, at Section III.A (May 31, 1996) [61 FR 30376].
+
+50 Ownership Reports and Trading by Officers, Directors and Principal Security Holders, Release No. 34- 34514, at Section III.G (Aug. 10, 1994) [59 FR 42449]; Ownership Reports and Trading by Officers, Directors and Principal Security Holders, Release No. 34-37260, at Section IV.H (May 31, 1996) [61 FR 30376].
+
+51 Each report must provide the following information: (1) the date of the transaction; (2) the term; (3) the number of underlying shares; (4) the exercise price (i.e., the dollar value locked in); (5) the non- exempt disposition (acquisition) of shares at the outset of the term; (6) the non-exempt acquisition (disposition) of shares at the end of the term (and at such earlier dates, if any, where events under the equity swap cause a change in a call or put equivalent position); (7) the total number of shares held after the transaction; and (8) any other material terms. Release No. 34-37260, at Section IV.H.
+
+52 General Instruction 8 to Form 4 [17 CFR 249.104] (U.S. SEC 1475 (08-07)) and Form 5 [17 CFR 249.105] (U.S. SEC 2270 (1-05)), as amended in Release No. 34-37260, at Section IV.I.
+
+53 See Section 766(b) of the Dodd-Frank Act, which amends Sections 13(d) and 13(g) to provide that a person “becomes or is deemed to become a beneficial owner…upon the purchase or sale of a security- based swap that the Commission may define by rule….”
+
+54 These rights to acquire beneficial ownership are not security-based swaps within the meaning of Section 13(o); rather, they are purchases and sales of securities. In this regard, the definition of “swap” in Section 721 of the Dodd-Frank Act (and therefore the definition of “security-based swap”) excludes purchases and sales of securities, whether on a fixed or contingent basis. Under the Dodd-Frank Act, the term “security” is as defined in the Securities Act and the Exchange Act, which includes options, warrants, and rights to subscribe to or purchase a security and any convertible securities as well as the
+
+55 For example, beneficial owners who file a Schedule 13D and use a security-based swap will remain subject to the obligation to comply with Items 6 (“Contracts, Arrangements, Understandings or Relationships With Respect to Securities of the Issuer”) and 7 (“Material to be Filed as Exhibits”) and provide disclosures relating to the security-based swap depending upon the security-based swap’s terms. In addition, beneficial owners who file a Schedule 13G pursuant to Rule 13d-1(b) or otherwise rely upon Rule 13d-1(b) to govern a future reporting obligation may be required to make disclosures on Schedule 13D instead based upon their purchase or sale of a security-based swap. See In the Matter of Perry Corp., Release No. 34-60351 (July 21, 2009).
+
+56 Our staff has consulted with the Federal Reserve, the Office of the Comptroller of the Currency, the Farm Credit Administration, the Federal Housing Finance Agency, and the Federal Deposit Insurance Corporation. Our staff also consulted with the CFTC.
+
+57 Acquisitions, Tender Offers, and Solicitations, Release No 34-8392 (Aug. 30, 1968) [33 FR 14109].
+
+58 See Williams Act, Pub. L. No. 90-439, 82 Stat. 454 (July 29, 1968).
+
+59 The Futures Interpretive Release provides two examples at Q & A No. 17 that explain when equity securities underlying a security future that requires physical settlement should be counted for purposes of determining whether the purchaser of the security future is subject to Regulation 13D-G by operation of Rule 13d-3(d)(1).
+
+60 See Filing and Disclosure Requirements Relating to Beneficial Ownership, Release No. 34-14692 (Apr. 21, 1978) [43 FR 18484].
+
+61 We are readopting the portion of Rule 16a-1(a)(1) that precedes the proviso applicable to qualified institutions. The relevant portion of Rule 16a-1(a)(1) that we are readopting reads as follows: “(a) The term beneficial owner shall have the following applications: (1) Solely for purposes of determining whether a person is a beneficial owner of more than ten percent of any class of equity securities registered pursuant to section 12 of the Act, the term “beneficial owner” shall mean any person who is deemed a beneficial owner pursuant to section 13(d) of the Act and the rules thereunder….”
+
+62 Securities not held in such a fiduciary capacity, however, must be counted in determining whether a Schedule 13G qualified institutional investor is a ten percent holder. This exclusion applies only to qualified institutions who acquire or hold securities of the issuer in the ordinary course of business without the purpose or effect of influencing or changing control, and thereby qualify to use Schedule 13G pursuant to Rule 13d-1(b)(1)(i). The exclusion does not apply to persons who qualify to use Schedule 13G as passive investors pursuant to Rule 13d-1(c), or as exempt investors pursuant to Rule 13d-1(d).
+
+63 We are readopting the portion of Rule 16a-1(a)(2) that precedes subparagraph (ii). The relevant portion of Rule 16a-1(a)(2) we are readopting reads as follows: “(2) Other than for purposes of determining whether a person is a beneficial owner of more than ten percent of any class of equity securities registered under Section 12 of the Act, the term beneficial owner shall mean any person who, directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise, has or shares a direct or indirect pecuniary interest in the equity securities, subject to the following: (i) The term pecuniary interest in any class of equity securities shall mean the opportunity, directly or indirectly, to profit or share in any profit derived from a transaction in the subject securities.”
+
+64 44 U.S.C. 3501 et seq.
+
+65 15 U.S.C. 78w(a)(2).
+
+66 15 U.S.C. 78c(f).
+
+67 15 U.S.C. 80a-2(c).
+
+68 See note 22 above.

@@ -1,0 +1,871 @@
+https://www.sec.gov/rules/final/34-44992.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Proposing and Reproposing Releases
+
+	III.0.0.0: III. Amendments to Rule 17a-3
+
+		III.A.0.0: A. Memoranda of Brokerage Orders and Dealer Transactions
+
+		III.B.0.0: B. Associated Person Records
+
+			III.B.1.0: 1. New Records Concerning Associated Persons
+
+			III.B.2.0: 2. The Definition of Associated Person
+
+		III.C.0.0: C. Customer Account Record
+
+			III.C.1.0: 1. Account Record Information
+
+			III.C.2.0: 2. Furnishing the Account Record Information
+
+			III.C.3.0: 3. Explanation of the Neglect, Refusal, or Inability of a Customer to Provide Required Information
+
+			III.C.4.0: 4. Exemption from Account Record Information Requirements
+
+			III.C.5.0: 5. Applicability of Account Record Requirements and 36-Month Grace Period
+
+			III.C.6.0: 6. Written Customer Agreements
+
+		III.D.0.0: D. Complaints
+
+		III.E.0.0: E. Compensation
+
+		III.F.0.0: F. Compliance with Requirements for Communications with the Public
+
+		III.G.0.0: G. Persons to Explain Records and Their Content
+
+		III.H.0.0: H. Record Listing Principals of the Firm
+
+		III.I.0.0: I. Definition of Principal
+
+	IV.0.0.0: IV. Office Records
+
+		IV.A.0.0: A. Definition of Office
+
+		IV.B.0.0: B. Records "As To" Each Office
+
+		IV.C.0.0: C. Records to be Maintained at Office Locations
+
+	V.0.0.0: V. Rule 17a-4
+
+		V.A.0.0: A. General Record Retention Requirements
+
+		V.B.0.0: B. Retention of Communications
+
+		V.C.0.0: C. Organizational Documents
+
+		V.D.0.0: D. Account Record Information
+
+		V.E.0.0: E. Special Reports
+
+		V.F.0.0: F. Compliance, Supervisory and Procedure Manuals
+
+		V.G.0.0: G. Exception Reports
+
+	VI.0.0.0: VI. Effective Date
+
+	VII.0.0.0: VII. Technical Amendments
+
+		VII.A.0.0: A. Electronic Storage Media
+
+		VII.B.0.0: B. Other Technical Amendments
+
+	VIII.0.0.0: VIII. Costs and Benefits of the Amendments
+
+		VIII.A.0.0: A. Changes to Rule 17a-4, Including Maintenance of Office Records and Alternatives to these Requirements
+
+			VIII.A.1.0: 1. Benefits
+
+			VIII.A.2.0: 2. Costs
+
+		VIII.B.0.0: B. Periodic Updating of Customer Account Record Information
+
+			VIII.B.1.0: 1. Benefits
+
+			VIII.B.2.0: 2. Costs
+
+		VIII.C.0.0: C. Other New Requirements Covered by the Amendments
+
+			VIII.C.1.0: 1. Benefits
+
+			VIII.C.2.0: 2. Costs
+
+	IX.0.0.0: IX. Effects on Efficiency, Competition, and Capital Formation
+
+	X.0.0.0: X. Summary of Final Regulatory Flexibility Analysis
+
+		X.A.0.0: A. Need for the Rules and Rule Amendments
+
+		X.B.0.0: B. Small Entities Subject to the Rule
+
+		X.C.0.0: C. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		X.D.0.0: D. Agency Action to Minimize Effect on Small Entities
+
+	XI.0.0.0: XI. Paperwork Reduction Act
+
+		XI.A.0.0: A. Collection of Information Under the Amendments
+
+		XI.B.0.0: B. Proposed Use of Information
+
+		XI.C.0.0: C. Respondents
+
+		XI.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+			XI.D.1.0: 1. Rule 17a-3
+
+			XI.D.2.0: 2. Rule 17a-4
+
+		XI.E.0.0: E. Request for Comment
+
+	XII.0.0.0: XII. Statutory Basis
+
+
+
+<END TABLE OF CONTENTS>
+
+Securities and Exchange Commission 17 CFR PARTs 240 and 242
+
+[Release No. 34-44992 ; File No. S7-26-98] RIN 3235-AH04 Books and Records Requirements for Brokers and Dealers Under the Securities Exchange Act of 1934 
+
+ Agency: Securities and Exchange Commission.
+
+ Action: Final rule; Request for Comments on Paperwork Reduction Act Burden Estimate.
+
+ Summary: The Securities and Exchange Commission today is adopting amendments to its broker-dealer books and records rules. The amendments clarify and expand recordkeeping requirements with respect to purchase and sale documents, customer records, associated person records, customer complaints, and certain other matters. In addition, the amendments expand the types of records that broker-dealers must maintain and require broker-dealers to maintain or promptly produce certain records at each office to which those records relate. These amendments are specifically designed to assist securities regulators when conducting sales practice examinations of broker-dealers, particularly examinations of local offices.
+
+ Effective Date: The release will publish on November 2, 2001. The effective date is May 2, 2003. 
+
+ For Further Information Contact: Michael A. Macchiaroli, Associate Director, at (202) 942-0131; Thomas K. McGowan, Assistant Director, at (202) 942-4886; or Bonnie L. Gauch, Attorney, at (202) 942-0765; Office of Risk Management and Control, Division of Market Regulation, United States Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001.
+
+ Supplementary Information:
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+The Securities and Exchange Commission's (the "Commission") books and records rules, Rule 17a-3<sup> 1 </sup> and Rule 17a-4<sup> 2 </sup> under the Securities Exchange Act of 1934 ("Exchange Act")(hereinafter the "Books and Records Rules"), specify minimum requirements with respect to the records that broker-dealers must make, and how long those records and other documents relating to a broker-dealer's business must be kept. The Commission has required that broker-dealers create and maintain certain records so that, among other things, the Commission, self-regulatory organizations ("SROs"), and State Securities Regulators<sup> 3 </sup> (collectively "securities regulatory authorities") may conduct effective examinations of broker-dealers.
+
+The Commission originally proposed amending the Books and Records Rules in 1996 in response to concerns raised by members of the North American Securities Administrator's Association ("NASAA") regarding the adequacy of those Rules.<sup> 4 </sup> On October 11, 1996, the National Securities Market Improvement Act of 1996 ("NSMIA") was enacted.<sup> 5 </sup> NSMIA prohibits States from establishing books and records rules that differ from, or are in addition to, the Commission's rules. Prior to NSMIA many States had laws or rules that required broker-dealers to make and keep certain books and records that allowed the State Securities Regulators to conduct examinations and investigations to review for, among other things, sales practice violations.<sup> 6 </sup> NSMIA also provides that the Commission must consult periodically with the States concerning the adequacy of the Commission's Books and Records Rules,<sup> 7 </sup> particularly relating to the need by State Securities Regulators to have records readily accessible for their examinations.<sup> 8 </sup>
+
+The Commission, recognizing the vital role that State regulators play in providing for customer protection, issued the Proposing Release, in part, to enhance the ability of the State Securities Regulators to conduct effective and efficient sales practice examinations of activities within their respective States, including those involving smaller broker-dealer offices. By adopting these rules, the Commission enables the State regulators to adopt and enforce similar rules on a State level, to support their examination responsibilities, and investigatory and enforcement requirements. An important aspect of the amendments is that broker-dealers are required to produce records at offices within a State. Moreover, many of these amendments require broker-dealers to make or keep records currently kept by broker-dealers as a matter of business practice or to comply with SRO rules. However, unless these requirements are adopted as Commission rules, the State regulators are unable to apply or enforce them at the State level.<h>II. Proposing and Reproposing Releases </h>
+
+In response to the comments received on the Proposing Release, the Commission substantially modified the amendments, and reproposed them to allow for public comment on the modifications.<sup> 9 </sup> In response to the reproposal, the Commission received approximately 115 comment letters from various groups, including broker-dealers, law firms representing broker-dealers, industry associations, and State Securities Regulators. Generally, State Securities Regulators supported the rules as reproposed, but suggested some minor changes. While broker-dealers generally supported the Commission's efforts to adopt uniform books and records rules, they opposed various sections of the reproposed rules. In particular, firms were opposed to the requirements to periodically update the customer account record and to maintain records at local offices. As discussed in the respective sections throughout this release, the Commission has substantially modified the content of the re-proposed amendments and incorporated many of the suggested changes into the final rules.
+
+To a significant degree, the amendments to Rules 17a-3 and 17a-4 adopted by the Commission track existing SRO requirements and certain State regulations that were in place prior to NSMIA. In addition, they largely represent a codification of prudent recordkeeping practices of many broker-dealers. Accordingly, many portions of the Books and Records Rule amendments should not present additional burdens for most broker-dealers.<h>III. Amendments to Rule 17a-3 </h>
+
+In brief, the amendments to present Rule 17a-3 include revisions to the information that must be recorded on order tickets, and new requirements to: create certain records relating to associated persons; collect certain account record information and verify that information with customers periodically; create a record of customer complaints; create a record indicating compliance with applicable advertising rules; and create records identifying persons responsible for establishing procedures and persons able to explain the broker-dealer's records to a regulator.<h>A. Memoranda of Brokerage Orders and Dealer Transactions </h>
+
+Rule 17a-3 has been amended to require that a brokerage order ticket contain the identity of the associated person, if any, responsible for the account and any other person who entered or accepted the order on behalf of the customer, and whether it was entered subject to discretionary authority. In addition, a brokerage order ticket must include the time at which the broker-dealer received a customer order, even if the order is subsequently transmitted for execution.<sup> 10 </sup> A dealer ticket must include information regarding any modifications to the order.<sup> 11 </sup> This will allow securities regulators to better focus their examinations and investigations because they will be able to identify certain types of violative activities and the individuals responsible for those activities more easily.
+
+The Commission clarified that the identity of the associated person responsible for the account must be included only if the broker-dealer assigns to an associated person responsibility for certain accounts. This modification was made in response to broker-dealer comment letters that noted some firms do not assign a particular associated person to each account, and some firms allow customers to enter orders directly into a broker-dealer's systems, such as through an on-line trading account. Further, this modification addresses the concerns of some commenters that without a qualifying phrase, such as "if any," the rule may be interpreted erroneously as placing on firms an affirmative obligation to assign an associated person to each account.
+
+If a firm has assigned identification numbers or codes to the persons entering customer orders to comply with the requirement to record the identity of the person entering customer orders, a broker-dealer may record the identification number or code on the order ticket instead of the associated person's name. Further, if the person entering a customer order has been assigned to a computer terminal but does not have a specific identification number or code, it is acceptable for the broker-dealer to identify the number or code of a computer terminal at which an order was entered. In either case, upon request by a representative of a securities regulatory authority, the firm must provide the actual identity of the person who entered the order. Either of these alternatives may be satisfied by using a companion record to the order tickets.<sup> 12 </sup>
+
+With these amendments, paragraphs (a)(6) and (a)(7) require that broker-dealers record the identity of "any [person other than the associated person responsible for the account] who entered or accepted the order on behalf of the customer." In response to comments by the online brokerage community, the Commission included, after this requirement, the phrase, "if a customer entered the order on an electronic system, a notation of such entry." Because most firms that accept orders through an electronic system already identify, for supervisory purposes, which orders were entered directly by a customer, this requirement will not create much additional burden on the firms. Further, it will assist them in identifying for securities regulatory authorities why certain tickets do not identify the associated person who received the order from the customer.
+
+One commenter argued that firms that primarily accept "unsolicited" orders and do not pay transaction-based commissions should not be required to include on the order ticket information regarding associated persons because no sales practice concerns would be implicated in these types of transactions. However, the Commission believes that recording the identity of the associated person on a broker-dealer's order tickets is essential for adequate surveillance of, and accountability for, transactions.
+
+One commenter wrote that for some transactions the time of entry frequently is simultaneous or nearly simultaneous with the time the order is received, and suggested that under these conditions, the firm should not have to make a separate entry for each time. In those situations, it must be clear from the order ticket that the time of receipt was the same as the time of entry. However, the time recorded must be accurate and this should not be construed as an exception to allow firms to use an approximate time for one or both entries.<sup> 13 </sup>
+
+Finally, the Commission recognizes that for some types of transactions, such as purchases of mutual funds or variable annuities, the customer may simply fill out an application or a subscription agreement that the broker-dealer then forwards directly to the issuer.<sup> 14 </sup> These documents would include the information that is important for and specific to the particular type of transaction. Hence, the Commission has added paragraph (a)(6)(ii) under Rule 17a-3 to allow firms to keep a copy of the application or
+
+subscription document instead of making a separate record as to transactions described in the exemption. This paragraph would also exempt transactions such as automatic dividend reinvestments. The Commission views this additional paragraph as a codification of current industry practice, and it is limited to these types of transactions.<h>B. Associated Person Records1. New Records Concerning Associated Persons </h><h>1. New Records Concerning Associated Persons </h>
+
+Rule 17a-3(a)(12) requires a firm to make records relating to associated persons of the firm, including information regarding the associated person's employment and disciplinary history. The amendments require a record listing all of a firm's associated persons showing every office where each associated person regularly conducts business, and listing all internal identification numbers and the CRD number assigned to each associated person.<sup> 15 </sup> This will allow securities regulators to identify where associated persons work, and to read various records which may identify the associated persons solely through the use of identification numbers. Also, three technical changes were made from the rule as reproposed.<sup> 16 </sup><h>2. The Definition of Associated Person </h>
+
+The Commission had proposed to eliminate from Rule 17a-3 a definition of "associated person" and instead use the definition of "associated person" as defined in sections 3(a)(18) and 3(a)(21) of the Exchange Act. However, the statutory definition of "associated person of a broker or dealer" in section 3(a)(18) specifically excludes those persons whose functions are clerical or ministerial from the definition solely for purposes of section 15(b) of the Exchange Act. Current Rule 17a-3 excludes those persons from the recordkeeping requirements. The Commission has determined that those persons should continue to be exempt from the recordkeeping requirements of Rules 17a-3 and 17a-4. Therefore, the Commission believes it is appropriate to retain a definition of the term "associated person" in the rule. This definition has been moved to paragraph (g), however, and has been modified for the sake of uniformity to incorporate the definitions of "associated person of a member" and "associated person of a broker or dealer" as set forth in sections 3(a)(21) and 3(a)(18) of the Exchange Act.<sup> 17 </sup> In addition, for purposes of Rules 17a-3 and 17a-4, the Commission has excluded from the definition persons whose functions are solely clerical or ministerial. In order to avoid redundancy and achieve greater consistency in interpretation, this phrase shall be interpreted in the same manner as the phrase "solely clerical and ministerial" is interpreted under section 3(a)(18) of the Exchange Act.
+
+The Exchange Act provisions define an associated person to include any partner, officer, director, or branch manager of a broker-dealer (any person occupying a similar status or performing similar functions), any person directly or indirectly controlling, controlled by, or under common control with a broker-dealer, or any employee of a broker-dealer. This includes order-takers. The Commission interprets the term associated person to include any independent contractor, consultant, franchisee, or other person providing services to a broker-dealer equivalent to those services provided by the persons specifically referenced in the statute.<sup> 18 </sup><h>C. Customer Account Record </h>
+
+The Commission is adopting new Rule 17a-3(a)(17)<sup> 19 </sup> under the Exchange Act, which requires broker-dealers to create a record containing certain minimum information as to each customer. The primary purpose of Rule 17a-3(a)(17) is to provide regulators, particularly State Securities Regulators, with access to books and records which enable them to review for compliance with suitability rules.<sup> 20 </sup> Rule 17a-3(a)(17) also requires broker-dealers to furnish that information to each customer on a periodic basis. The rule should not be construed to affect or supersede any federal, State, or SRO requirement, including those relating to "know your customer," suitability, or supervisory obligations.<h>1. Account Record Information </h>
+
+The information required under new Rule 17a-3(a)(17)(i)(A) for each account with a natural person as a customer includes the customer's name, tax identification number, address, telephone number, date of birth, employment status (including occupation and whether the customer is an associated person of a member, broker or dealer), annual income, net worth (excluding value of primary residence), and investment objectives. Most broker-dealers already collect this information to assist them in assessing customers' suitability or to comply with other rules. For accounts with more than one owner, the record should include personal information for each owner of the account; however, the record should reflect the investment objectives for the account and not the individual investment objectives for each "joint" owner named on the account. Further, financial information for the owners can be combined. For discretionary accounts, firms also must include as part of the account record the dated signature of each customer granting the discretionary authority and the dated signature of each natural person<sup> 21 </sup> to whom discretionary authority was granted. In response to comments received, the Commission did not adopt the reproposed requirement that the account record include information regarding a customer's marital status and number of dependents.<sup> 22 </sup>
+
+Under the final rule, the account record must indicate whether it has been signed by the associated person responsible for the account, and approved or accepted by a principal of the firm.<sup> 23 </sup> This will identify for regulators the persons responsible for accepting a particular account on behalf of the firm. Similar to the comments made regarding order tickets, some commenters stated that they do not always assign an associated person to each account. Therefore, the Commission has added the phrase "if any" to the requirement that the account record indicate whether it has been approved by an associated person. The account record still must indicate whether it has been approved by a principal.<sup> 24 </sup>
+
+In the Reproposal, the Commission specifically sought comment on whether, for joint accounts, the firm should obtain the account record information for each individual. Most commenters that addressed this issue did not object to maintaining personal information for each owner of joint accounts. However, some commenters pointed out that it would be unnecessary and redundant to obtain individual information for certain types of joint accounts, such as a joint account of two spouses with similar information regarding income and net worth. These commenters also contended that the investment objectives should reflect the objectives for the account and not the objectives of the individual owners. In those cases, it is sufficient under paragraph (a)(17) of Rule 17a-3<sup> 25 </sup> that the account record reflect that portions of the account record information are the same for each owner of the account. It is acceptable for firms to combine joint owners' financial information as opposed to obtaining and maintaining that information separately for each of the joint owners. Lastly, the investment objectives recorded should be those for the account, and not those of the individual owners.
+
+Some commenters requested clarification as to how this information must be maintained and whether all the information and signatures must be included on the same form.<sup> 26 </sup> Although a broker-dealer must create a single record for each account, that record may consist of more than one document, such as two or more account applications.
+
+A broker-dealer is not required to furnish a copy of a customer's account record to the customer within thirty days when obtaining new information to complete the initial account record, required under Rule 17a-3(a)(17)(i)(A),<sup> 27 </sup> for an account in existence on the effective date of the rule amendments. However, as stated in Rule 17a-3(a)(17)(i)(B)( 1 ),<sup> 28 </sup> broker-dealers must create a record indicating that the broker-dealer furnished these customers with a copy of the account record information within three years of the effective date of the rule.<h>2. Furnishing the Account Record Information </h>
+
+Rule 17a-3(a)(17) requires that the firm periodically furnish account record information to the customer.<sup> 29 </sup> The new requirement allows the customer to review the information regarding the account that the firm has on file and from which the associated person or the firm is making investment recommendations or suitability determinations for the account. The requirement to furnish this record to customers is designed to reduce the number of misunderstandings between customers and broker-dealers regarding the customer's situation or investment objectives. Firms may, of course, elect to provide this information to customers more frequently in order to coincide with other mailings.
+
+Paragraph (a)(17) of the rule identifies four provisions that trigger the requirement that a broker-dealer furnish to a customer a copy of information contained in the account record.<sup> 30 </sup> Those provisions include (i) the opening of a new account;<sup> 31 </sup> (ii) the periodic updating of an account that must occur at least once every 36 months;<sup> 32 </sup> (iii) a change of customer name or address;<sup> 33 </sup> and (iv) a change of other customer information.<sup> 34 </sup>
+
+Although paragraph (a)(17)(i) of Rule 17a-3 requires broker-dealers to periodically update customer records, the rule does not affect a broker-dealer's obligations under any SRO "know your customer" rules. It may be appropriate in certain circumstances for broker-dealers to obtain updated information from customers more often than once every 36 months.
+
+Because different terms ascribed to categories of investment objectives may vary among firms, the firms must describe these terms when furnishing the account record to customers. When opening an account, the customer has the opportunity to question the meaning of the investment objective terms, but when the customer receives a copy of the account record at home, that customer may have forgotten or misunderstood the meaning of those terms. This requirement to describe investment objective terminology should help ensure that the customer and the firm have a mutual understanding of the meaning of each term.
+
+Paragraph (a)(17) of Rule 17a-3 also provides that a broker-dealer is not required to include the customer's tax identification number and date of birth with the information provided to the customer. Several commenters suggested that unauthorized access to such information could facilitate the perpetration of fraud against the customer.<sup> 35 </sup>
+
+The Commission did not adopt the portion of the rule as reproposed that would have required firms to send a notification of change of address to both the old and new addresses. This change was in response to comments that prudent business practice requires that this notification be sent only to the old address to prevent misdirection of account information. Therefore, as adopted, firms are required to send a notification of a change of address only to the old address.
+
+Some commenters sought clarification as to whether the amendment required a separate mailing of the customer account record information. This rule does not require a separate mailing, and the Commission anticipates that firms will combine this mailing with other mailings. Further, the account record information may be printed on a customer's account statement. Finally, a firm may mail the customer a copy of the customer's complete account record reflecting any change of other account record information<sup> 36 </sup> on or before the 30th day after the date the member, broker or dealer received notice of any change, or it may choose to send this notification with the next statement scheduled to be mailed to the customer.<h>3. Explanation of the Neglect, Refusal, or Inability of a Customer to Provide Required Information </h>
+
+As adopted, Rule 17a-3(a)(17)(i)(C) does not require broker-dealers to include an explanation of the customer's neglect, refusal, or inability to provide the required information. However, a broker-dealer is required to make a good faith effort to collect this information. If the account record does not include the required information, the broker-dealer would bear the burden of explaining why this information is not available. Rule 17a-3(a)(17)(i)(C) is specifically limited in application to paragraph (a)(17), and does not apply to any other federal or SRO rules regarding collections of information ( e.g. , Rule 17a-3(a)(9)).<h>4. Exemption from Account Record Information Requirements </h>
+
+A number of broker-dealer firms argued that the Commission should create an exemption from the account record information requirements of Rule 17a-3(a)(17)(i), contending that this record is intended to allow examiners to review for suitability, but broker-dealers are not subject to SRO suitability requirements for all of their accounts.<sup> 37 </sup> Therefore, they argue, where they have no suitability obligation, they should not be required to obtain account record information. The Commission is adopting the account record requirements with an exemption for certain accounts,<sup> 38 </sup> such that a broker-dealer is not required to create an account record for an account if the firm is not required (under any federal or SRO rules) to make a suitability determination as to the account. However, the obligation to collect and record information of the type enumerated in Rule 17a-3(a)(17)(i)(A) may arise under SRO rules and interpretations. If, after the account is opened, the firm or its associated person engage in conduct that would subject the firm to any requirement to make a suitability determination, the firm must obtain the information before making such a recommendation. The firm would have to comply thereafter with the requirement to furnish customers with a copy of their account record for verification, under paragraph (a)(17)(i)(B)( 1 ) of Rule 17a-3, but the account could re-qualify for the exemption.
+
+For accounts existing on the effective date of these amendments, a broker-dealer will not be required to create or update the account record if, within the 36-month period beginning on the effective date of this rule, the firm has not been required to make a suitability determination as to that account.
+
+For the purposes of paragraph (a)(17)(i)(D) of Rule 17a-3, the term "suitability determination" should be interpreted broadly. A broker-dealer may have an obligation to perform a suitability determination under the Exchange Act,<sup> 39 </sup> Commission rules,<sup> 40 </sup> SRO rules,<sup> 41 </sup> or common law.<sup> 42 </sup> Rule 17a-3(a)(17) does not change or limit a broker-dealer's obligation to make a suitability determination.
+
+It is important to note that even if a broker-dealer is not required to create an account record under Rule 17a-3(a)(17) for an account, the firm must still comply with federal laws and regulations and SRO rules requiring collections of information regarding customer accounts, including paragraph (a)(9) of Rule 17a-3,<sup> 43 </sup> NYSE Rule 405, and MSRB Rule G-8(a)(xi).<h>5. Applicability of Account Record Requirements and 36-Month Grace Period </h>
+
+The requirement to create an account record applies to both new and existing accounts. For accounts opened on or after the effective date of these amendments ("new accounts"), the firm must obtain the account record information required under Rule 17a-3(a)(17)(i)(A) when the account is opened.
+
+As originally proposed, the grace period to obtain the customer account record information for accounts existing on the effective date of these amendments would have been one year. However, many commenters<sup> 44 </sup> stated that with a large number of accounts it would be unduly burdensome to obtain the account record information within one year. Therefore, the Commission has provided broker-dealers with a 36-month grace period. Specifically, under paragraph (B)( 1 ) of Rule 17a-3(a)(17)(i), for accounts existing on the effective date of these amendments, a firm will have 36 months to obtain the information required on the account record under paragraph (a)(17)(i)(A) of Rule 17a-3. The new 36-month furnishing cycle under paragraph (a)(17)(i)(B) of Rule 17a-3 will begin when the firm obtains the account record information within the initial 36-month grace period.<h>6. Written Customer Agreements </h>
+
+New paragraph (a)(17)(iii) of Rule 17a-3 requires each broker-dealer to create a record for each account indicating that each customer was furnished with a copy of any written agreement entered into on or after the effective date of this paragraph pertaining to that account. This will allow customers to review the terms of agreements to which they are subject, and to better understand their rights and responsibilities (and those of the broker-dealer) under these agreements. In addition, if any customer specifically requests a copy of an agreement relating to their account, this paragraph would require that the broker-dealer maintain a record that it was provided to the customer.<h>D. Complaints <sup> </sup></h>
+
+New paragraph (a)(18)(i) of Rule 17a-3<sup> 45 </sup> requires firms to make a record as to each associated person that includes every written customer complaint received by the firm concerning that associated person.<sup> 46 </sup> This will allow securities regulators to quickly identify any trends, and focus examinations. This record must include complaints received electronically from customers. The rule requires that the record include the complainant's name, address, and account number; the date the complaint was received; the name of each associated person identified in the complaint; a description of the nature of the complaint; and the disposition of the complaint. However, because firms already are required to keep originals of incoming written complaints,<sup> 47 </sup> rather than make a separate record, firms have the option under this rule to keep the original complaint along with a record of the disposition of the complaint, if kept by name of associated person. This rule does not limit a broker-dealer's responsibilities under SRO and other regulations that may require creation and maintenance of records regarding, or reporting of, oral complaints.
+
+Paragraph (ii) of Rule 17a-3(a)(18) requires firms to make a record indicating that each customer has been provided with a notice of the address and telephone number of the department of the firm to which any complaints may be directed.<sup> 48 </sup> This will assist both customers and broker-dealers to ensure that complaints reach the proper person or department so they can be recorded, reported (if necessary), and answered. Some commenters requested clarification of whether, in an introducing/clearing relationship,<sup> 49 </sup> the contact information should be that of the introducing firm, the clearing firm, or both. To the extent not otherwise required, this should be a matter of negotiation between the introducing firm and the clearing firm.<sup> 50 </sup> If contact information is provided for both firms, the notification should clearly indicate which firm the customer should contact and for what purposes. Two other commenters requested clarification as to whether this notification could take the form of a notice on customer statements.<sup> 51 </sup> The Commission believes that firms should have flexibility as to how they may deliver this notice to customers, and inserting the notice on a customer statement is one acceptable alternative.<h>E. Compensation </h>
+
+Paragraph (a)(19)(i) of Rule 17a-3 requires firms to make a record as to each associated person listing each purchase and sale of a security<sup> 52 </sup> attributable, for compensation purposes, to that associated person. Again, the purpose for this requirement is to allow securities regulators to quickly identify compensation trends and focus examinations. The record must include the amount of compensation (if monetary) and a description of the compensation (if non-monetary). Under this requirement, firms must make records of all commissions, concessions, overrides, and other compensation to the extent they are earned or accrued for transactions. In addition, if the compensation is non-monetary, that description should include an estimate of its value.
+
+The term "non-monetary compensation" includes compensation such as sales incentives, gifts, or trips that would be provided to associated persons if certain sales goals were achieved. Such non-monetary compensation should be recorded if directly related to sales. If sales would be counted toward achieving these goals, then a notation of the sales should be made regardless of whether that goal is actually achieved. Non-monetary compensation does not include items of little value distributed by the firm.
+
+Paragraph (ii) of new Rule 17a-3(a)(19)<sup> 53 </sup> requires that firms maintain a record of all agreements pertaining to the relationship between each associated person and the broker-dealer, including a summary of each associated person's compensation arrangement or plan. Further, to the extent that compensation is based on factors other than remuneration on a per trade basis, the firm must make a record that describes the method by which compensation is to be determined.
+
+It should be noted that the requirement under paragraph (ii) that a broker-dealer maintain a record of all agreements between itself and each associated person includes verbal agreements and records, such as commission schedules, which may change on a periodic basis.
+
+The term "relationship," as used in paragraph (a)(19) of Rule 17a-3, solely refers to the employment or contractual relationship between the associated person and the broker-dealer. It would not relate to personal relationships unrelated to the firm's business.<h>F. Compliance with Requirements for Communications with the Public </h>
+
+New paragraph (a)(20) of Rule 17a-3<sup> 54 </sup> requires each firm to make a record documenting that the firm has complied with, or adopted policies and procedures reasonably designed to establish compliance with, applicable federal regulations and SRO rules which require that a principal approve any advertisements, sales literature, or other communications with the public.<sup> 55 </sup> This paragraph would apply to marketing materials, sales scripts, and other paper or electronic material, such as audio or video tapes, used by broker-dealers in communicating with the public. This paragraph, which is designed to allow State Securities Regulators to examine broker-dealers for compliance with SRO rules relating to communications with the public, does not establish a new
+
+source of supervisory responsibility. In addition, a broker-dealer has many options as to how it may create this record.<sup> 56 </sup>
+
+The Commission did not adopt the portion of this rule as reproposed that referenced specific types of advertisements or sales literature. Instead, the Commission will defer to SRO rules as to which communications with the public must be approved by a principal of the firm.<h>G. Persons to Explain Records and Their Content </h>
+
+Paragraph (a)(21) of Rule 17a-3 requires a record listing, by name or title, all personnel at an office who, without delay, can explain the types of records the firm maintains at that office, and the information contained in those records. Commenters, particularly the States, indicated that this requirement is important because recordkeeping practices typically vary from firm to firm in ways ranging from format and presentation to the name of a record. Therefore, each firm must be able to promptly explain how it makes, keeps, and titles its records. To comply with this rule, a firm may identify more than one person and list which records each person is able to explain.
+
+Because it may be burdensome for firms to keep this record current if it lists each person by name, a firm may satisfy this requirement by recording the persons capable of explaining the firm's records by either name or title.<h>H. Record Listing Principals of the Firm </h>
+
+New paragraph (a)(22) of Rule 17a-3 requires firms to make a record listing each principal of the firm responsible for establishing policies and procedures reasonably designed to ensure compliance with any applicable securities regulatory authority requirements that require acceptance or approval of a record by a principal. This requirement is unchanged from the reproposal, and is intended to assist securities regulators by identifying individuals responsible for designing a broker-dealer's compliance procedures and managing the firm.<h>I. Definition of Principal </h>
+
+Paragraph 17a-3(g)(2) defines the term "principal" to include any individual registered with a registered national securities association as a principal or branch manager of a member, broker or dealer, or any other person who has been delegated supervisory responsibility for the firm or its associated persons. By including any person who has been delegated supervisory responsibility in the definition of the term "principal," the rule has been modified from the reproposal to include the definitions of "principal" used by other securities regulatory authorities.
+
+ J. Definition of Securities Regulatory Authority 
+
+The definition of "securities regulatory authority" in paragraph (g)(3) of Rule 17a-3 is substantially similar to that in the Reproposing Release, except that State Securities Regulators are identified as "the securities commissions (or any agency or office performing like functions) of the States...,"<sup> 57 </sup> mirroring the language that Congress used in NSMIA.
+
+ K. Miscellaneous 
+
+The Commission has not adopted reproposed paragraph (a)(20) of Rule 17a-3, which would have required firms to make a record as to each associated person listing chronologically all customer purchase or sale transactions for which the associated person entered the order or was primarily responsible. Commenters stated that the information required in this record would already be maintained in other records, although not necessarily in the chronological format that this paragraph would have required. The Commission also has not adopted reproposed paragraph (a)(23) of Rule 17a-3, which would have required a firm to make a record listing each office of the firm and whether that office had been designated as a State record depository, since firms need no longer designate a State record depository for any purpose. This proposed record also would have required firms to list each associated person working out of or storing records at each office. The Commission has not adopted this requirement because firms are required to make a record of similar information under new paragraph (ii) of Rule 17a-3(a)(12).<sup> 58 </sup><h>IV. Office Records </h>
+
+The Reproposing Release would have required that broker-dealers make certain records for each local office and maintain copies of those records at the office to which the records relate. These requirements were designed to assist securities regulators when conducting sales practice examinations at particular offices. The Commission has adopted the requirements regarding the creation of these records substantially as reproposed, but has materially altered the alternatives for maintenance of those records.
+
+Generally, State Securities Regulators supported a requirement that records as to a particular office be maintained at that office, even if only electronically. The State Securities Regulators stated, in their comment letters, that they had encountered excessive and costly delays when conducting examinations when records were kept at another office. In sum, they stated that although firms generally had the records available in local offices, the firms preferred to funnel all records requested by examiners through their centralized compliance departments in order to assure accuracy, anticipate any potential violations, review material for applicable privileges, and make a record of documents reviewed by regulators.<sup> 59 </sup> While the State regulators have the power to impose fines and penalties on firms that fail to timely produce records, the delays still result in unnecessary, wasted examination time at firms waiting for the records production. The delay is costly for regulators, particularly when they travel to remote areas to conduct surprise examinations at an office where they may spend numerous days awaiting the records.<sup> 60 </sup>
+
+The broker-dealer commenters were strongly opposed to this requirement for two main reasons. First, they stated that the requirement to maintain copies of documents at all local offices would be costly and burdensome because they would need to create and maintain two sets of records. They stated that even with the flexibility of being able to maintain the records electronically, this requirement would be costly because many firms do not currently have computer systems capable of retaining and producing all the required records. Second, firms stated that maintaining records at all local offices would force them to decentralize their recordkeeping, which would potentially compromise their controls on recordkeeping and supervisory practices.
+
+Requiring records to be maintained at each local office was the requirement most seriously disputed by the firms. The reproposal has been altered to allow a firm, rather than to maintain records at an office, to produce the records promptly at the request of a representative of a securities regulatory authority at the office to which the records relate or at such other place as is agreed to by the representative. These alternative methods for complying with paragraph (k) of Rule 17a-4 were added in response to comments that the requirement, as reproposed, would have forced firms to decentralize their recordkeeping systems and would have compromised their internal controls and supervisory practices.<sup> 61 </sup>
+
+The Commission believes that the amendments to Rules 17a-3 and 17a-4 adopted today, which set forth, (i) the definition of "office," (ii) what records must be created as to each office,<sup> 62 </sup> and (iii) what records must be maintained at each office,<sup> 63 </sup> address the concerns of both regulators and broker-dealers.<h>A. Definition of Office </h>
+
+For both creation and maintenance of records, the definition of "office" adopted by the Commission includes any location where an associated person regularly conducts business.<sup> 64 </sup> However, an office would not include a customer's office that an associated person may visit on a regular basis.
+
+The Commission has also addressed concerns that arise when an associated person's residence is an office. Rule 17a-4(k) states that a broker-dealer is not required to produce records at an office that is a private residence, provided that (i) only one associated person, or multiple associated persons who reside at that location and are members of the same immediate family,<sup> 65 </sup> regularly conduct business at the office; (ii) the office is not held out to the public as an office; and (iii) neither customer funds nor securities are handled at that office. Instead, Rule 17a-4(k) allows a broker-dealer to either maintain those records at some other location within the same State as that office as the broker-dealer chooses, or to promptly produce those records at an agreed upon location.
+
+For purposes of paragraph (f)<sup> </sup>of Rule 17a-3<sup> 66 </sup> and paragraph (k) of Rule 17a-4,<sup> 67 </sup> in circumstances where an associated person works out of multiple offices, such as bank circuit riders, a firm may treat all the locations where the associated person regularly works as a single office.<sup> 68 </sup><h>B. Records "As To" Each Office </h>
+
+New paragraph (f) of Rule 17a-3 requires firms to make and keep current, separately for each office, certain books and records that reflect the activities of the office.<sup> 69 </sup> It should be noted that 75% of broker-dealers have reported that they have no branch locations.<sup> 70 </sup> The definition of "office" may be broader and more inclusive than the definition of "branch," however.
+
+The Commission removed the sentence, "This requirement may be satisfied by demonstrating that the data is maintained in a system which is capable of promptly generating records for each office upon request", because the requirement to either maintain the specified records at each location or produce them on the same day a request is made has been changed to allow firms to produce these records promptly.<h>C. Records to be Maintained at Office Locations </h>
+
+There have been two major changes to new paragraph (k) of Rule 17a-4 from the reproposal. First, the requirement to maintain certain records at the office locations has been expanded from one year to two years. This was done to establish parity with the retention requirements for the separate sections as provided under paragraph (b) of Rule 17a-4.
+
+Second, under paragraph (k) of Rule 17a-4, if a broker-dealer does not maintain records at an office, but instead chooses to produce the records upon request, the broker-dealer must produce the records "promptly."<sup> 71 </sup> The word "promptly" has deliberately not been defined in the rule. Generally, requests for records which are readily available at the office (either on-site or electronically) should be filled on the day the request is made. If a request is unusually large or complex, then the firm should discuss with the regulator a mutually agreeable time-frame for production.<sup> 72 </sup>
+
+Based on the foregoing, the Commission has not adopted the reproposed provision of Rule 17a-4(k) that would have allowed firms to maintain records at a State records depository in lieu of maintaining the records at the office to which the records relate.
+
+One commenter requested guidance on how this paragraph relates to a foreign office of a U.S. registered broker-dealer.<sup> 73 </sup> Under paragraph (f) of Rule17a-3, a broker-dealer must make certain records for a foreign office; however, a broker-dealer is not required to maintain or produce those records at the foreign office under paragraph (k). Instead, those records would be maintained at the broker-dealer's main office.<h>V. Rule 17a-4A. General Record Retention Requirements </h><h>A. General Record Retention Requirements </h>
+
+Paragraphs (a) and (b)(1) of Rule 17a-4 list certain records required under Rule 17a-3 that must be kept for six and three years, respectively. The amendments to these two paragraphs have been modified from the reproposal to remain consistent with the modifications to Rule 17a-3.<h>B. Retention of Communications </h>
+
+Paragraph (b)(4) of Rule 17a-4 previously required that each broker-dealer keep originals of all communications received and copies of all communications sent by the firm relating to its business as a broker-dealer, including inter-office memoranda and communications. With respect to memoranda, including e-mail messages, the Commission has stated that the content and audience of the message determine whether a copy must be preserved, regardless of whether the message was sent on paper or sent electronically.<sup> 74 </sup> The amendments to this paragraph adopted today will require firms to retain communications that are subject to SRO rules regarding "communications with the public" (such as advertising) as well, a requirement reproposed separately as paragraph (b)(10) of Rule 17a-4. This requirement is designed to provide State Securities Regulators with the ability to access these public communications records so they can enforce their laws relating to the form and use of public communications.
+
+It should be noted that a written advertisement that is never released to the public would not be covered by this rule; however, a sales script that is used by an associated person when communicating with the public would be covered even if the script itself is not delivered to the public.
+
+The requirement, as reproposed, that "any written procedures [a broker-dealer] uses for reviewing the communications received or sent" has been moved to new paragraph (e)(7) of Rule 17a-4, which requires firms to keep all compliance, supervisory, and procedures manuals, including any written procedures for reviewing communications.<h>C. Organizational Documents </h>
+
+The Commission has modified paragraph (d) of Rule 17a-4, which require a broker-dealer to maintain certain organizational records. Specifically, the Commission has added language to clarify that organizational records of legal entities not specifically delineated in the present rule<sup> 75 </sup> are still required to be preserved under this rule. Various State statutes use different terms to describe the legal entities that may be created under their rules and the organizational documents necessary to create those entities; accordingly, the Commission has included in this paragraph generic terms to describe the types of records that firms must keep. The Commission believes that generally broker-dealers that are not formed as corporations or partnerships are already keeping these types of records and that this amendment codifies current business practices. Similar to the amendment to paragraph (g)(3) of Rule 17a-3 noted above, the Commission has replaced the phrase "state securities jurisdictions and self-regulatory organizations" in the Reproposing Release with the term "securities regulatory authorities."
+
+Under this paragraph, every broker-dealer is also required to maintain copies of its Form BD and all amendments thereto. To comply with this requirement with respect to amendments to Form BD, a broker-dealer is required to retain a copy of only those portions of the Form that were amended. The Commission believes that generally broker-dealers are already keeping these records and that this amendment codifies current business practices.<h>D. Account Record Information </h>
+
+New paragraph (e)(5) of Rule 17a-4 requires broker-dealers to retain account record information for six years. The six-year period begins either at the time the account is closed or when the information is replaced or updated. This provision will allow regulators to review account record information for at least the six years immediately prior to the examination or investigation. Broker-dealers generally maintain account record information for at least the life of the account to facilitate a number of business purposes, including suitability determinations and supervision of accounts and representatives.<h>E. Special Reports </h>
+
+New paragraph (e)(6) of Rule 17a-4 requires a firm to keep for three years a copy of all reports that a securities regulatory authority has requested or required a specific firm to create. Such special reports would include those reports that are requested or required under an order or settlement that requires the firm to produce the report as part of the terms of the order or settlement. The purpose of this paragraph is to clarify that these records must be kept and to provide guidance as to how long firms are expected to maintain these records.
+
+This requirement is not designed to limit the ability of securities regulatory authorities to obtain records that are otherwise required to be created and maintained, such as records of internal communications required to be maintained under paragraph (b)(4) of Rule 17a-4.<h>F. Compliance, Supervisory and Procedure Manuals </h>
+
+The Commission is also adopting, as reproposed, new paragraph (e)(7) of Rule 17a-4. This paragraph requires firms to retain a copy of all compliance, supervisory, and procedures manuals describing the firm's policies and practices with respect to compliance and supervision, as currently in use and for three years after the termination of the use of each manual, including any updates, modifications, and revisions to the manuals. This will ensure that securities regulators are able to obtain information as to what policies and procedures were in place at a given time.<h>G. Exception Reports </h>
+
+New paragraph (e)(8)(ii) of Rule 17a-4 requires firms to maintain copies of reports produced to review for unusual activity in customer accounts (commonly referred to as "exception reports"). This paragraph does not obligate broker-dealers to create exception reports. Exception reports would include reports that identify exceptional numerical occurrences, such as frequent trading in customer accounts, unusually high commissions, or an unusually high number of trade corrections or cancelled transactions. These reports will help securities regulators discover sales practice problems such as churning, unauthorized trading, or other indications of micro-cap fraud, and will also provide securities regulators with information as to what type of data may have been available to the broker-dealer.
+
+In lieu of retaining copies of the reports, a member, broker or dealer may choose to promptly re-create the reports upon request by a securities regulatory authority. If the broker-dealer elects to re-create exception reports instead of maintaining a copy of the report, but the firm has changed its systems so that it cannot re-create the same report, the broker-dealer may provide a copy of the report in the format presently available using historical data,<sup> 76 </sup> but must also provide a record explaining each system change that affected each report.<sup> 77 </sup> Lastly, if the firm is unable to re-create the report in any format for the most recent 18 months, due to changes, for example, in a database, software, or physical system, the rule provides that the broker-dealer may instead provide a record of the parameters that were used to generate the report for the time period specified by the representative of the securities regulatory authority. The Commission provided these alternatives in order to make this rule less burdensome on broker-dealers.
+
+Many firms commented that this requirement would be potentially counter-productive because, if firms are required to retain copies of all reports that they create, they would create fewer reports. However, the Commission believes that broker-dealers will continue to create those exception reports that are necessary to adequately supervise their business, and that retaining these reports will increase the efficiency of examinations by regulators and may reduce the examination burden on broker-dealers.<h>VI. Effective Date </h>
+
+The final rules adopted today shall become effective 18 months after date of publication in the Federal Register . The release will publish on November 2, 2001. The effective date is May 2, 2003.<h>VII. Technical AmendmentsA. Electronic Storage Media </h><h>A. Electronic Storage Media </h>
+
+On February 5, 1997, the Commission amended Rule 17a-4 to allow broker-dealers to employ, under certain conditions, electronic storage media to maintain its records.<sup> 78 </sup> The Commission proposed and is now adopting technical amendments to that rule.<sup> 79 </sup> The Electronic Storage Media Release requires a broker-dealer that employs micrographic or electronic storage media to be ready at all times to immediately provide a facsimile enlargement upon request by the Commission or its representatives.<sup> 80 </sup> It also requires a broker-dealer that exclusively uses electronic storage media to fulfill some or all of its record preservation requirements to contract with a third party download provider that will file undertakings with the broker-dealer's designated examining authority indicating that the download provider will furnish promptly to the Commission, its designees or representatives, the information necessary to download information kept on the broker-dealer's electronic storage media.<sup> 81 </sup> Because SROs and State Securities Regulators are neither representatives nor designees of the Commission but, to the extent that they have jurisdiction over the broker-dealer serviced by the third party download provider, are organizations that should have access to facsimile enlargements and download information, the Commission is adopting these technical amendments to provide them with access to these records. The Commission is also adopting these technical amendments so that when broker-dealers use the undertaking option under Regulation ATS, SROs and State Securities Regulators will have access to those records.<sup> 82 </sup><h>B. Other Technical Amendments </h>
+
+The Commission is adopting amendments to Rule 17a-3(a)(12)(i) to update the list of stock exchanges for which an associated person's application for registration or approval may be used to satisfy the requirements under that paragraph. This amendment is a codification of current practices. The Commission is also adopting amendments to the language throughout Rules 17a-3 and 17a-4 that eliminate masculine references, and replace them with gender neutral references.<h>VIII. Costs and Benefits of the Amendments </h>
+
+In the Reproposing Release, the Commission requested comment on the costs and benefits associated with the reproposed rules and rule amendments.<sup> 83 </sup> Of the comments received by the Commission, fifty-seven commenters discussed the benefits and costs associated with the reproposal. Of those commenters, thirty were broker-dealers,<sup> 84 </sup> twenty-two were States,<sup> 85 </sup> two were consumer groups,<sup> 86 </sup> two were other groups,<sup> 87 </sup> and one was an individual.<sup> 88 </sup> Most of the commenters (including all of the broker-dealer commenters) argued that the costs outweighed the benefits of the reproposed amendments and that the cost estimates provided in the Reproposing Release were too low. Although most of those arguments were general in nature, twenty-three commenters specifically referenced paragraph (a)(17)(i) of Rule 17a-3,<sup> 89 </sup> and fifteen commenters specifically referenced paragraph (k) of Rule 17a-4.<sup> 90 </sup> All the States and the consumer groups that commented argued that most broker-dealers presently maintained most, if not all, the records required under the reproposed amendments, and that the benefits, although difficult to quantify, justified any costs which might be incurred.
+
+One commenter stated that well-organized firms are less likely to experience the potentially catastrophic losses that result from serious securities violations.<sup> 91 </sup> Many State Securities Regulators indicated in their comment letters that their agencies generally found that firms with inadequate books and records were more likely to have other problems, such as inadequate supervisory systems and selling-away issues. According to the NASD's Office of Dispute Resolution, $126 million and $76 million were awarded by NASD arbitrators in 1999 and 2000 respectively in customer claimant cases, of which $48 million and $21 million respectively constituted punitive damages.<sup> 92 </sup> The vast majority of claims filed for arbitration with the NASD's Office of Dispute Resolution during this time period related to sales practice issues. In addition, two industry participants estimated that they presently pay outside counsel approximately $50 million and $25 million respectively each year to deal with sales practice complaints.<sup> 93 </sup>
+
+Many States indicated that they believed the amendments would impose only minimal additional costs to broker-dealers because, in their experience, many broker-dealers already maintain the records required by the amendments in order to comply with SRO rules, State laws that applied prior to NSMIA, or simply to properly manage costs and supervise offices. Further, some States indicated that they believed that broker-dealers were exaggerating the potential costs of the reproposed amendments.<sup> 94 </sup>
+
+In fact, the States of Connecticut<sup> 95 </sup> and Florida<sup> 96 </sup> conducted special reviews, in conjunction with their examination programs, to determine the extent to which broker-dealers already maintained the records required under the Reproposal at office locations. The State of Connecticut concluded that its review "overwhelmingly indicate[d] that all the books and records that would be required by the re-proposed rule proposal are, at the present time, being maintained in offices within Connecticut and similarly outside the state." Further, Connecticut stated, "During this review process the records were immediately available for inspection upon request," and "the types of records required by the reproposed rule would not be burdensome in that the firms retained substantially more records than required." Connecticut also stated, "[t]he retention schedules listed in the firms' compliance [manuals] were consistent with the requirements under the reproposed rule." Florida stated, "[t]he reviews indicated that based on records maintained most branch offices met or exceeded the records requirement for the [re-]proposed rule, and "[a] vast majority of the branch offices maintained the records on-site for periods of at least 2 years (and in some cases up to 6 years)." Further, Connecticut stated, "[t]he firms' recordkeeping requirements did not vary from location to location or even state to state because they were required by the firms' own compliance manuals," and "[i]n certain instances, the firms' compliance manuals indicated that these additional records were necessary to adequately supervise its branch operations." Similarly, Florida stated, "[m]anagement of several firms visited reported that record creation and retention is a nationwide requirement; the same for all offices in all states, not specific to the state of Florida...[t]his information was verified by the firms' Operational/Supervisory Compliance Manuals."
+
+A number of the States contend that investors are defrauded of millions and millions of dollars every year as a result of sales practice violations by broker-dealers.<sup> 97 </sup> Further, Commission staff found through "The Large Firm Project" <sup> 98 </sup> "25% of the branch office examinations conducted in this project resulted in referrals for enforcement investigation and possible disciplinary action," and "[t]he examinations also revealed that some branch office managers were not implementing firm procedures adequately," and recommended that "the Commission should develop better means of identifying sales practice problems."<sup> 99 </sup> The enhanced recordkeeping requirements would help make available critical information necessary for securities regulatory authorities to discover and take appropriate action for various securities violations, particularly sales practice violations. The cost to securities regulatory authorities to obtain the same information and evidence that otherwise would be available by these rules from other methods would be high. In addition, the possibility exists that government regulatory authorities would be unable to obtain certain information by any other means if the information is not required to be kept. Investigatory delays often lead to additional investor losses. The State of New Jersey contended that these delays could lead to an erosion of public confidence in the industry, which can be exacerbated by the public's belief that securities regulatory authorities lack the ability to properly oversee broker-dealers and enforce securities regulations.<sup> 100 </sup> NASAA commented that lack of public confidence in the marketplace can lead to an inability of issuers to raise capital.<sup> 101 </sup>
+
+Most broker-dealer commenters indicated that two of the reproposed amendments would cause them to incur substantial additional costs. These two amendments were paragraph (k) of Rule 17a-4, which required that records be maintained at local offices or that firms produce those records at the local office on the same day a request for records was made by a regulator at that local office, and paragraph (a)(17)(i) of Rule 17a-3, which required that a broker-dealer provide customers with a copy of their account record at specified times. As a result of comments received in response to the Reproposing Release, the Commission substantially modified those two amendments as described above.
+
+The only other paragraphs broker-dealers specifically identified as resulting in increased costs were (a)(6) and (a)(7) of Rule 17a-3, which require that brokerage order tickets include the time of receipt, and that dealer order tickets include a notation of any modifications to an order. The Commission addressed some of these comments by modifying paragraph (a)(6) to provide an exemption for mutual fund and variable contract orders processed on a subscription-way basis. Further, for certain securities, the receipt time and notation of modification are already required under SRO rules.<sup> 102 </sup> The only cost to firms resulting from these paragraphs relate to assuring that processes for recording this information will record the information for all orders that are not exempt and not just those orders covered by SRO rules.
+
+A few commenters attempted to provide alternative cost estimates for use in calculating the costs of the amendments. Some firms provided specific numbers, but provided no explanation as to the source of their estimates or their reason for believing that they would be more accurate than the Commission's estimates. In addition, certain costs are no longer relevant because the Commission substantially modified the amendments in response to comments. Accordingly, after consideration of all of the circumstances, the Commission has altered its cost estimates to reflect the fact that changes were made to the amendments in response to the comments received. Further, where the amendments were not altered significantly, the Commission has substantially increased estimates of costs that commenters argued were significantly underestimated.
+
+The Commission estimates that the aggregate cost of these amendments will be approximately between $78.2 million and $84.3 million in the first year, and between $52.5 and $58.6 million per year thereafter (depending on what estimated postage cost is included in the calculations). Dollar costs relating to specific amendments are detailed below.
+
+For purposes of this cost-benefit analysis, the amendments to Rules 17a-3 and 17a-4 are divided into three groups: (i) those pertaining to the maintenance of office records and alternatives to these requirements; (ii) those pertaining to the periodic updating of customer information; and (iii) all other new requirements covered by the amendments.<h>A. Changes to Rule 17a-4, Including Maintenance of Office Records and Alternatives to these Requirements </h>
+
+As amended, Rule 17a-4 requires broker-dealers to maintain certain records at each office. As discussed above, new Rule 17a-4(k) was modified from the reproposal to provide broker-dealers with the alternative of "promptly" producing certain records pertaining to a particular office at that office or at a mutually agreeable alternative location. This modification should significantly reduce the compliance costs associated with the amendments.
+
+The amendments standardize the amount of time broker-dealers must maintain certain records, and may thereby increase the amount of time these records are kept by certain firms. Broker-dealers generally maintain these records already to comply with Federal laws or regulations, SRO rules, or in the normal course of business. These records include, (i) information relating to the principals responsible for reviewing and updating policies and procedures, (ii) copies of Forms BD, BDW and amendments thereto, (iii) copies of compliance, supervisory, and procedures manuals, (iv) customer account records, (v) order ticket information, (vi) records relating to compensation of associated persons, (vii) evidence of compliance with SRO advertising and sales literature rules, (viii) exception reports, and (ix) specialized reports produced pursuant to an order or settlement.
+
+The amendments will also standardize the type of records that must be kept by broker-dealers and the manner in which those records must be produced during examinations. Before NSMIA, States had various books and records requirements. Although these requirements were similar to Commission and SRO requirements, differences existed that broker-dealers had to track and comply with. As one commenter stated, "the cost savings to industry of moving from compliance in the pre-NSMIA days with a variety of State laws to a new uniform should be equally substantial and should more than make up for any [additional] burden imposed by the [amendments]."<sup> 103 </sup> The uniformity provided by NSMIA and these amendments to Rules 17a-3 and 17a-4 should result in significant cost savings to broker-dealers that operate in multiple jurisdictions.<h>1. Benefits </h>
+
+The amendments should result in increased efficiency and effectiveness of broker-dealer examinations, especially with respect to small offices. Increasing the efficiency of examinations tends to decrease the costs incurred by both regulators, whose staff spends time conducting examinations, and broker-dealers, whose personnel may be inconvenienced for the period the examiners are present in their offices. One State estimated that the average cost for them to perform an office examination was $1,300 to $1,500 per day.<sup> 104 </sup> Another State suggested that a local office with well organized records normally takes 2 to 3 days to complete, but that an office with incomplete records takes an additional 2 or more days.<sup> 105 </sup> While average costs and time periods may vary from State to State, their operations tend to be similar and the Commission expects the amendments to reduce the time and costs of State securities examinations. This will also allow regulators to identify abusive practices earlier during inspections and perform more targeted examinations. In addition, broker-dealers should benefit by having their operations interrupted for shorter time periods. Costs of examinations may also be further reduced due to the uniformity of the recordkeeping provided by the amendments, because regulators and broker-dealers will know what records the firms should have on hand.<h>2. Costs </h>
+
+The amendments were drafted to permit flexible methods for the creation and maintenance of records in order to reduce the burdens on broker-dealers. This gives broker-dealers the flexibility to choose the least costly method to comply with the rules based upon their present processes and systems capabilities.
+
+The Commission believes that the amendments to Rule 17a-4 will not impose significant cost burdens because, in order to comply with federal laws or regulations, SRO rules, or in the normal course of business, broker-dealers already maintain most of the records specified in the amended rule. Similarly, broker-dealers already are required to provide regulators with books and records on demand. The Commission estimates that the amendments to Rule 17a-4 could result in additional costs for some broker-dealers who do not presently maintain certain items for the prescribed periods of time or in a manner where they can be easily segregated by office. On average, the Commission estimates these additional costs incurred by each broker-dealer to ensure compliance with the amendments to Rule 17a-4 to be approximately $405.00<sup> 106 </sup> per year, resulting in an overall cost to the industry of about $2.9 million per year.<sup> 107 </sup>
+
+Also, as mentioned previously, the State of Connecticut concluded in its study that, "the types of records required by the re-proposed rule would not be burdensome in that the firms retained substantially more records than required."<sup> 108 </sup><h>1. Benefits </h><h>1. Benefits </h>
+
+The amendments should result in increased efficiency and effectiveness of broker-dealer examinations, especially with respect to small offices. Increasing the efficiency of examinations tends to decrease the costs incurred by both regulators, whose staff spends time conducting examinations, and broker-dealers, whose personnel may be inconvenienced for the period the examiners are present in their offices. One State estimated that the average cost for them to perform an office examination was $1,300 to $1,500 per day.<sup> 104 </sup> Another State suggested that a local office with well organized records normally takes 2 to 3 days to complete, but that an office with incomplete records takes an additional 2 or more days.<sup> 105 </sup> While average costs and time periods may vary from State to State, their operations tend to be similar and the Commission expects the amendments to reduce the time and costs of State securities examinations. This will also allow regulators to identify abusive practices earlier during inspections and perform more targeted examinations. In addition, broker-dealers should benefit by having their operations interrupted for shorter time periods. Costs of examinations may also be further reduced due to the uniformity of the recordkeeping provided by the amendments, because regulators and broker-dealers will know what records the firms should have on hand.<h>2. Costs </h>
+
+The amendments were drafted to permit flexible methods for the creation and maintenance of records in order to reduce the burdens on broker-dealers. This gives broker-dealers the flexibility to choose the least costly method to comply with the rules based upon their present processes and systems capabilities.
+
+The Commission believes that the amendments to Rule 17a-4 will not impose significant cost burdens because, in order to comply with federal laws or regulations, SRO rules, or in the normal course of business, broker-dealers already maintain most of the records specified in the amended rule. Similarly, broker-dealers already are required to provide regulators with books and records on demand. The Commission estimates that the amendments to Rule 17a-4 could result in additional costs for some broker-dealers who do not presently maintain certain items for the prescribed periods of time or in a manner where they can be easily segregated by office. On average, the Commission estimates these additional costs incurred by each broker-dealer to ensure compliance with the amendments to Rule 17a-4 to be approximately $405.00<sup> 106 </sup> per year, resulting in an overall cost to the industry of about $2.9 million per year.<sup> 107 </sup>
+
+Also, as mentioned previously, the State of Connecticut concluded in its study that, "the types of records required by the re-proposed rule would not be burdensome in that the firms retained substantially more records than required."<sup> 108 </sup>
+
+ B. Periodic Updating of Customer Account Record Information 
+
+Paragraph (a)(17) of Rule 17a-3 requires broker-dealers to obtain additional account record information. Present federal and SRO rules require that firms obtain and maintain that same information in many circumstances,<sup> 109 </sup> and many broker-dealers presently obtain and maintain this information as a prudent business practice to avoid disputes with customers, or for other business reasons.
+
+The amendments also require that broker-dealers send account record information<sup> 110 </sup> to customers for verification within thirty days of account opening and at least every thirty-six months thereafter<sup> 111 </sup> and to require that broker-dealers provide customers with certain account record information when changes are made.<sup> 112 </sup> Many broker-dealers already send customers notification of address changes,<sup> 113 </sup> and some also send a copy of a customer's new account form to the customer when an account is opened.<sup> 114 </sup> While there is presently no requirement to send a copy of the customer account record at least once every 36 months to verify the information, broker-dealers are required to keep their records current.<sup> 115 </sup>
+
+ 1. Benefits 
+
+The amendments should benefit broker-dealers by assuring that they have up-to-date information when making investment recommendations and reviewing suitability of certain transactions or investment strategies. Further, both broker-dealers and their customers will benefit by assuring that there is mutual understanding of the customer's financial position and objectives for the account. Indeed, requiring broker-dealers to update customer account records may assist less well managed firms in better supervising their operations to identify potential problems before they lead to regulatory or legal exposure and monetary losses.
+
+Moreover, the amendments have been modified to exempt corporate accounts, inactive accounts, and accounts not requiring a determination of suitability. These changes reduce the total number of accounts covered by the updating requirements by over 25,000,000.<sup> 116 </sup>
+
+ 2. Costs 
+
+The requirement to send account record information to customers will cause firms to incur costs to update their processes, and, with respect to the individual mailings, will add preparation expenses and additional postage charges. Further, firms will incur additional costs to update account information when customers notify the firm that their account record information has changed. Because broker-dealer processes, systems capabilities, and customer bases vary so widely, it is difficult to provide an estimated cost with which all parties will agree; however, the Commission estimates that for each of the 23,500,000 accounts to which a copy of the account record must be sent each year,<sup> 117 </sup> broker-dealers will spend an average of approximately 3.28 minutes<sup> 118 </sup> (including time for processing and any updating) costing between $1.36 and $1.62 per piece,<sup> 119 </sup> including postage. Thus the aggregate cost of Rule 17a-3(a)(17) is estimated to be between $32 million and $38.1 million (depending on what estimated postage cost is included in the calculations). In addition, the Commission estimates that all broker-dealers will, on average, incur a one-time cost of approximately $312.00 each<sup> 120 </sup> to update their forms, resulting in an aggregate cost of approximately $2.25 million.
+
+As described more fully below, the Commission estimates that large broker-dealers (broker-dealers having over 100,000 accounts) will, on average, incur startup costs and ongoing costs to purchase and maintain additional equipment and develop systems of $.31 per account and $.25 per account respectively. Based upon the comment letters,<sup> 121 </sup> the Commission believes that the additional costs for smaller broker-dealers is included in the hourly burden costs delineated above.
+
+Two large broker-dealers estimated the start-up costs of purchasing equipment and modifying systems to range from $1,000,000<sup> 122 </sup> to $1,300,000.<sup> 123 </sup> These two firms had a total of approximately 7,500,000 accounts which appeared to be subject to the updating requirement. The start-up costs per account, based upon these figures, is approximately $0.31 (($1,000,000 + $1,300,000) / 7,500,000 accounts). It is important to note that the firms' estimates were based upon the assumption that they would have to update all of their accounts. Since the amendments adopted today provide an exemption for corporate accounts, inactive accounts, and accounts for which no suitability determination must be made, the actual costs will probably be much lower. These two firms further estimate that ongoing costs for equipment and systems development would range from $300,000<sup> 124 </sup> to about $1,600,000<sup> 125 </sup> per year. The ongoing costs per account would be $0.25 per account (($300,000 + $1,600,000) / 7,500,000 accounts). Therefore, the total additional start-up and ongoing costs to obtain equipment and develop systems for these two large firms would be $0.56 per account ($0.31 + $0.25).
+
+Of the 70,500,000 accounts, 68,385,000 (97%) belong to large broker-dealers that have more than 100,000 accounts, therefore the total start-up costs for large broker-dealers to purchase equipment and develop their systems is about $21.2 million (68,385,000 x $0.31). Similarly, the ongoing equipment and systems development costs for large broker-dealers would be about $17.1 million per year (68,385,000 x $0.25).<h>C. Other New Requirements Covered by the Amendments </h>
+
+Paragraphs (a)(12) and (a)(19) of Rule 17a-3 require broker-dealers to keep certain records regarding each associated person, including all agreements pertaining to the associated person's relationship with the broker-dealer and a summary of each associated person's compensation arrangement,<sup> 126 </sup> a record delineating all identification numbers relating to each associated person,<sup> 127 </sup> a record of the office at which each associated person regularly conducts business,<sup> 128 </sup> and a record as to each associated person listing transactions for which that person will be compensated.<sup> 129 </sup> The Commission believes that broker-dealers generally create and maintain these records already under prudent recordkeeping procedures.<sup> 130 </sup> The list of transactions for which each associated person will be compensated can be created at the time of an examination.
+
+Paragraph (a)(18) of Rule 17a-3 requires broker-dealers to keep a record relating to written customer complaints and maintain a record of whether customers were provided with an address where they should direct complaints. Firms may, instead of creating a separate record of complaints, simply maintain a copy of each complaint, along with a record of the disposition of the complaint.
+
+Paragraphs (a)(6) and (a)(7) of Rule 17a-3 have been amended to require that broker-dealers also record the identity of the associated person responsible for an account and the identity of the person who accepted the order, and whether the order was entered pursuant to discretionary authority. In addition, the amendment to paragraph (a)(6) requires that firms record the time an order was received from a customer, and the amendments to paragraph (a)(7) require that firms make a record of any modifications to an order. Paragraph (a)(6) now contains an exception providing that, for transactions done on a "subscription-way" basis, where an application or subscription agreement is sent to the issuer in place of an order ticket, broker-dealers may keep the application or subscription agreement in place of the order ticket. In addition, SRO rules already require that firms record and maintain certain of this information,<sup> 131 </sup> and firms, to assist in their supervision of the activities of their associated persons and to assure that commissions are properly paid, already record the identity of persons as required under the amendments.
+
+The amendments also require broker-dealers to make records indicating that they have complied with applicable regulations of certain securities regulatory authorities,<sup> 132 </sup> listing persons who can explain the information in the broker-dealer's records ,<sup> 133 </sup> and listing principals who are responsible for establishing compliance policies and procedures.<sup> 134 </sup> The Commission believes that these amendments will cause broker-dealers to incur only minimal additional costs. Firms presently maintain records to evidence compliance with SRO and other rules, they presently maintain lists of principals or branch managers responsible for supervising each of their offices under other SRO rules, and they maintain lists of associated persons operating out of each office location. Firms must, as part of their supervisory system, identify principals responsible for reviewing the firm's procedures and taking action to achieve compliance with applicable securities laws, regulations and rules.<sup> 135 </sup><h>1. Benefits </h>
+
+The records required by these sections are either presently required under other federal laws or rules or SRO rules or currently maintained by many firms as a prudent business practice. These amendments codify current recordkeeping practices and make clear what records broker-dealers may be required to provide to State and other regulators. These records are expected to assist firms in better supervising their operations and identifying potential problems before they lead to regulatory or legal exposure and monetary losses.<h>2. Costs </h>
+
+The Commission has endeavored to codify present broker-dealer business practices in these amendments and has adjusted the amendments based upon comments received in response to the Proposal and Reproposal, as discussed above. Thus, these amendments are not expected to change market or industry behavior significantly. For example, firms are presently required to maintain copies of all communications under Exchange Act Rule 17a-4(b)(4), and certain SRO rules require that members maintain copies of all written complaints and a record of the actions taken by the broker-dealer with respect to each complaint.<sup> 136 </sup> Therefore, the Commission believes that amending Rule 17a-3 to require this information will not cause broker-dealers to incur any additional costs. Similarly, the Commission does not believe that the amendments to Rules 17a-3(a)(6) and 17a-3(a)(7) will cause any additional cost.
+
+Nevertheless, broker-dealers may incur costs in assuring that their present practices comply with the amendments. For example, the Commission believes that the requirement to provide customers with an address where they can send complaints will cause firms to incur a one-time cost of approximately $312.00<sup> 137 </sup> each, resulting in an aggregate cost of approximately $2.25 million. In addition, the Commission estimates that it will cost each firm an average of $50.83 per year to ensure compliance with paragraphs (a)(12) and (a)(19) of Rule 17a-3 (regarding associated person records),<sup> 138 </sup> resulting in an aggregate cost of approximately $0.4 million per year. Finally, the Commission estimates that each firm will spend an average of approximately $16.88 per year to ensure compliance with other requirements,<sup> 139 </sup> resulting in an aggregate cost of approximately $0.1 million per year.<h>IX. Effects on Efficiency, Competition, and Capital Formation </h>
+
+Section 23(a)(2) of the Exchange Act<sup> 140 </sup> requires the Commission, in adopting Exchange Act rules, to consider the impact any such rule would have on competition and to not adopt a rule that would impose a burden on competition not necessary or appropriate in furthering the purposes of the Exchange Act. Section 3(f) of the Exchange Act<sup> 141 </sup> provides that whenever the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. The Commission has considered the amendments to Rules 17a-3 and 17a-4 in light of the standards in Sections 23(a)(2) and 3(f) of the Exchange Act.
+
+In the Reproposing Release, the Commission requested comment on the effect of the reproposed rule amendments on competition, efficiency, and capital formation.<sup> 142 </sup> The Commission received 115 substantive comment letters<sup> 143 </sup> in response to the Reproposal. Approximately 44% were from broker-dealers opposing particular amendments and approximately 37% were from State Securities Regulators supporting the amendments. Few commenters provided any information on how these amendments would affect competition, efficiency, or capital formation. One commenter argued that, "[c]ompetition among broker-dealers is facilitated by the amendments to the [Books and Records Rules]" because they "[allow] firms to create and maintain records by alternative means...."<sup> 144 </sup> Conversely, a few of commenters argued that; (i) the requirement to maintain records at local offices would place an unfair competitive burden upon smaller broker-dealers who do not have the resources to utilize imaging technology,<sup> 145 </sup> and (ii) the amendments would have a disparate impact on non-traditionally organized broker-dealers with limited businesses.<sup> 146 </sup> In addition, a number of commenters, while not specifically addressing this issue, did argue that it would be duplicative to maintain records at a local office while also maintaining the same documents at a main office. In response to these concerns and others, the Commission has modified the amendments to allow firms the flexibility to promptly produce records at the offices to which they relate instead of maintaining those records at the offices,<sup> 147 </sup> and has added exemptions in recognition of present business practices.<sup> 148 </sup>
+
+The Commission believes that any burden imposed by the amendments is justified by the enhanced investor protections described above. Further, as NASAA pointed out in its comment letter, when addressing Section 23(a) concerns, "the [amendments] to Rules 17a-3 and 17a-4, pursuant to a directive by Congress, must also reflect the needs of the State Securities Regulators as well as federal regulators."<sup> 149 </sup> In addition, by improving examination capabilities of all securities regulatory authorities, the amendments should improve investor confidence in broker-dealer firms and help to maintain fair and orderly markets.
+
+Broker-dealers with larger customer bases would have correspondingly greater obligations under the amendments than smaller broker-dealers. Accordingly, any burden on competition should be slight, especially in light of the significant regulatory benefits discussed above.<h>X. Summary of Final Regulatory Flexibility Analysis </h>
+
+A Final Regulatory Flexibility Analysis ("FRFA") regarding the amendments to Rules 17a-3 and 17a-4 under the Exchange Act,<sup> 150 </sup> which require broker-dealers to maintain certain additional records, specify that certain books and records must be maintained at each office, and set forth the length of time these records must be kept, has been prepared in accordance with the provisions of the Regulatory Flexibility Act (5 U.S.C. 604).<h>A. Need for the Rules and Rule Amendments </h>
+
+As discussed more fully in the FRFA, these amendments are intended to provide the Commission, SROs, and State Securities Regulators with timely access to broker-dealers' books and records to conduct effective examinations, investigations and enforcement actions. NSMIA prohibits States from establishing books and records rules that differ from, or are in addition to, the Commission's rules, and provides that the Commission must consult periodically with the States concerning the adequacy of the Commission's books and records rules,<sup> 151 </sup> particularly with regard to whether the Commission's rules satisfy State Securities Regulators' need to have records readily accessible for their examinations.<sup> 152 </sup>
+
+If these amendments are not adopted, the Commission believes that the Commission staff and State Securities Regulators will be hampered in their efforts to obtain documentation, because the books and records that broker-dealers maintain may not always be sufficient or in such order as to enable regulators to conduct thorough and effective examinations, investigations, and enforcement proceedings. The Commission further believes that a failure to re-establish certain customer protection safeguards present in the marketplace prior to the enactment of NSMIA would reduce the regulatory oversight of broker-dealers. In addition, the Commission believes that this may also reduce customer confidence in the marketplace, which would be detrimental to market integrity and capital formation.<h>B. Small Entities Subject to the Rule </h>
+
+It is expected that these amendments will affect the approximately 1,000 broker-dealers that fall within the category of "small business"<sup> 153 </sup> ("Small Business Broker-Dealers"). The amendments would affect these Small Business' Broker-Dealers because they, like other broker-dealers, would have to create and maintain certain additional books and records and would have to provide access to specific books and records at each office. An OTC Derivatives Dealer would not be considered a small entity because of the minimum net capital requirement.
+
+A summary of the Initial Regulatory Flexibility Analysis ("IRFA") appeared in the Reproposing Release,<sup> 154 </sup> where the Commission specifically requested comment with respect to the IRFA. In response to the Reproposing Release, the Commission received only one comment letter specifically concerning the IRFA.<sup> 155 </sup> In addition, three other commenters addressed aspects of the reproposed rules and rule amendments that could potentially affect small businesses.<sup> 156 </sup>
+
+The commenter that did specifically discuss the IRFA stated, "The Initial Regulatory Flexibility Analysis does not give careful consideration to the economic impact on [broker-dealers that limit their business in certain ways<sup> 157 </sup>] of the new account cards, blotter records, and signatures of principals on account cards." However, the Commission has carefully considered the economic impact of these rules on various types of broker-dealers. Furthermore, the Commission notes that the commenter does not take into account the fact that, even with respect to broker-dealers that limit their business, existing NASD rules<sup> 158 </sup> require that broker-dealers maintain certain customer account information, including the signature of a principal accepting the account, and that Rule 17a-3(a)(1)<sup> 159 </sup> presently requires that broker-dealers retain blotter records. The Commission has amended new paragraph 17a-3(a)(17) to provide an exemption from obtaining certain information where broker-dealers have no federal or SRO suitability requirement and are therefore not otherwise required to obtain that information.
+
+Of the three commenters that addressed aspects of the reproposed rules and rule amendments that could potentially affect small businesses, one stated, "[t]he proposal to require blotters in local offices may cause an initial financial burden to firms which have...three or less broker offices."<sup> 160 </sup> Another argued that the requirement to maintain records at local offices "place[s] an unfair competitive burden on smaller broker-dealers who do not have the resources to image the required documents and place them upon a network that is available to both the firm's principal office and the local branch."<sup> 161 </sup> While the amendments as reproposed would require that firms maintain certain records in each local office or produce those records within the same business day that they are requested, the amendments have been changed in order to give firms the flexibility to produce those records promptly when they are requested by a representative of a securities regulatory authority. This change significantly reduces the cost of the amendments for most firms. In addition, recognizing that broker-dealers may not be required to maintain those records under SRO rules or other regulations, the Commission has attempted to reduce the impact of these amendments on firms that engage in certain specialized types of businesses by changing the amendments to allow those broker-dealers to utilize records they presently create and maintain in compliance with SRO or other rules and prudent business practices.
+
+Another firm contended that the requirement to update account records is unduly burdensome on smaller firms because such firms lack the automation to perform that task quickly and without additional personnel.<sup> 162 </sup> The Commission has attempted to make these amendments sufficiently flexible to accommodate different types of operational systems, and broker-dealers may choose the operational methods that best suit their business in order to comply with the amendments.
+
+Lastly, another firm disagreed with the Commission's statement in the Reproposing Release that, "[l]arger broker dealers would have correspondingly greater obligations under the amendments,"<sup> 163 </sup> stating, "the `wire house' firms will be virtually unaffected by this proposal," because "wire houses...have very few small offices."<sup> 164 </sup> To the extent that Small Business Broker-Dealers service fewer customer accounts, employ fewer associated persons, and operate fewer offices than larger broker-dealers, they will be affected by the rule in proportion to their size.<h>C. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+Most broker-dealers, including Small Business Broker-Dealers, already maintain many of the records specified in the amendments in the ordinary course of business. The Commission's intent has been to minimize the impact of the amendments on all broker-dealers by limiting, consistent with the objectives of the amendments, the number of instances in which broker-dealers would be obligated to create or maintain records that they do not already maintain in the ordinary course of business. In addition, the amendments were designed to be sufficiently flexible to accommodate different types of recordkeeping systems, and broker-dealers may choose the format in which they wish to maintain those records.<h>D. Agency Action to Minimize Effect on Small Entities </h>
+
+As discussed further in the FRFA, the Commission has attempted to minimize the economic impact these amendments might have on broker-dealers, including Small Business Broker-Dealers, while still achieving the overall objective of assuring that regulators have the ability to perform effective examinations, including examinations for sales practice issues. In response to comments elicited by the Reproposing Release, many significant changes were made to the amendments to reduce the burdens associated with these amendments.
+
+The Regulatory Flexibility Act directs the Commission to consider significant alternatives that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. The Commission considered the following alternatives: (i) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (ii) the clarification, consolidation, or simplification of compliance and reporting requirements under the rules for small entities; (iii) the use of performance rather than design standards; and (iv) an exemption from coverage of the rule, or any part thereof, for small entities. The Commission also considered whether these alternatives to the reproposed rules and rule amendments would accomplish the stated objectives of improving the effectiveness of the Commission's and State regulatory agencies' ability to perform investigations, examinations and enforcement actions.
+
+The additional burdens placed on Small Business Broker-Dealers will vary depending upon the number of customer accounts at the firm, the number of associated persons employed by the firm, and the number of offices that the firm operates. Further, the rule provides substantial flexibility in the manner in which firms may comply with the amendments. Additionally, the Commission believes that obtaining essential information regarding the sales practices of all broker-dealers, including Small Business Broker-Dealers, is necessary to permit securities regulators to effectively oversee the securities markets and protect investors; therefore, the Commission does not believe that establishing differing compliance or reporting requirements for Small Business Broker-Dealers would be appropriate.
+
+The Commission believes that the proposal could not be formulated differently for Small Business Broker-Dealers and still achieve the stated objectives. The Commission has considered Small Business Broker-Dealers in developing the amendments and has determined that all types of broker-dealers, including Small Business Broker-Dealers, engage in sales practice abuses; therefore, the Commission does not believe that further clarification, consolidation, or simplification of the proposed amendments would be appropriate. As stated previously, however, the Commission has made every effort to assure that, to the extent possible, the amendments require broker-dealers to maintain the same types of records required under other federal and SRO rules or that firms usually maintain as part of their present business practices, and has highlighted instances where records that broker-dealers presently maintain may serve to fulfill the requirements under these amendments.
+
+The Commission does not believe that it would be appropriate to use performance standards, rather than design standards, with relation to these amendments. Because information must be collected and maintained in a uniform manner to be useful, design standards are necessary to achieve the objectives of the proposal. Any additional burden placed on broker-dealers by these amendments is dependent on the number of accounts serviced, the number of associated persons employed, and the number of offices operated. Thus, although the use of performance standards would be an inappropriate measure with relation to these amendments, the standards used do take into account the size of each firm. The Commission also notes that the recordkeeping requirements permit broker-dealers to keep records in different formats or systems as long as specified information can be sorted and produced upon request.
+
+Lastly, customers may be exposed to fraud and sales practice violations by Small Business Broker-Dealers as well as other firms. Exempting Small Business Broker-Dealers from coverage of the rules, or any part thereof, would create a gap in industry oversight, where regulatory authorities may be unable to obtain documentation necessary to conduct comprehensive examinations of Small Business Broker-Dealers. Therefore, the Commission believes that it should not exempt Small Business Broker-Dealers from the requirements of the amendments.
+
+The Commission believes that enacting the amendments in their present form is the best way to assure that regulators have the ability to perform effective examinations, including examinations for sales practice issues, and that no less burdensome alternatives are available to accomplish the objectives of the amendments. As stated previously, after NSMIA, States were constrained from "establishing books and records rules that differ from, or are in addition to the Commission's rules."<sup> 165 </sup> The States play an integral role in achieving customer protection by performing examinations on broker-dealers within their jurisdiction and reviewing for sales practice violations. Without these amendments, the States may be unable to obtain those books and records necessary to conduct comprehensive examinations. Finally, the Commission believes that most Small Business Broker-Dealers currently maintain certain of the additional records specified in the amendments.
+
+A copy of the FRFA may be obtained by contacting Bonnie L. Gauch, Attorney, United States Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001.<h>XI. Paperwork Reduction Act </h>
+
+Certain provisions of the amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995.<sup> 166 </sup> The Commission has submitted the amendments to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11 under the title "Books and Records Rule Amendments." The rules being amended contain currently approved collections of information under OMB control numbers 3235-0033 and 3235-0279 respectively. The collections and maintenance of information, and the reports made to the SEC and others that are required pursuant to Rules 17a-3 and 17a-4 are mandatory. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.<h>A. Collection of Information Under the Amendments </h>
+
+As discussed previously in this release, the Books and Records Rule Amendments would require registered broker-dealers to maintain additional records with respect to purchase and sale documents, customer information, associated person information, customer complaints and certain other matters.<h>B. Proposed Use of Information </h>
+
+The information collected pursuant to the Books and Records Rule Amendments would be used by the Commission, SROs, and other securities regulatory authorities for examinations, investigations, and enforcement proceedings regarding broker-dealers and associated persons. No governmental agency would regularly receive any of the information described above. Instead, the information would be stored by the registered broker-dealer and made available to the various securities regulatory authorities as required to facilitate examinations, investigations, and enforcement proceedings. To comply with the amendments that require broker-dealers to update customer account records at least once every 36 months, broker-dealers would have to furnish the customers with copies of their account records. This requirement and the estimated burden associated with it are discussed in detail below.<h>C. Respondents </h>
+
+The Books and Records Rule Amendments would apply to all of the approximately 7,217 active broker-dealers that are registered with the Commission.<sup> 167 </sup><h>D. Total Annual Reporting and Recordkeeping Burden </h>
+
+The hour burden of the Books and Records Rule Amendments is difficult to ascertain, because any additional burdens would vary widely due to differences in broker-dealer activity levels and current recordkeeping systems employed by the broker-dealers. Therefore, the estimates in this section are based on averages among the various types and sizes of broker-dealers. Recognizing that large broker-dealers maintaining over 100,000 customer accounts are generally more automated than small broker-dealers maintaining less than 100,000 customer accounts with relation to certain of the amendments, the Commission has attempted to provide for these differences in its calculations.
+
+Most of the requirements of the Books and Records Rule Amendments involve collections of information that broker-dealers already maintain pursuant to prudent business practices or to comply with existing SRO regulations. While some of the comment letters argued that the Commission's estimates set forth in the Reproposing Release were low, few contained actual alternative cost estimates, and none contained estimates which could be applied generally to broker-dealer firms. The Commission has increased its estimation of the expected burden of the amendments where, in general, commenters felt that the estimates were too low, and has provided a more detailed explanation of its estimates where it believes the amendments will impose little or no additional burden on broker-dealers. In addition, in response to the comments received relating to the Reproposing Release, the Commission modified its proposal and adopted amendments that reduce the amount of additional records that firms will be required to create and maintain.<h>1. Rule 17a-3 </h>
+
+The amendments modify Rule 17a-3 by, among other things, requiring broker-dealers to send account information to customers for verification within 30 days of account opening and at least once every 36 months thereafter. As stated above, the total number of accounts that would need to be contacted for updating is 70,500,000.<sup> 168 </sup> Approximately 70 of the 7,217 active, registered broker-dealers maintain over 100,000 accounts, and the remaining broker-dealers (7,147) maintain less than 100,000 accounts each. Of the 70,500,000 accounts which may be affected by these amendments, approximately 68,385,000 (or 97%) are maintained at these large broker-dealers, and 2,115,000 (or 3%) are maintained at broker-dealers with less than 100,000 accounts each.
+
+The Commission estimates that, as their processes are more automated, it will take large broker-dealers an average of 1½ additional minutes per account every three years,<sup> 169 </sup> thus requiring large broker-dealers to spend an additional 569,875 hours per year (68,385,000 account records / 3 years x 1.5 minutes / 60 minutes) to send account information to customers. As small broker-dealers utilize processes which are more manual in nature,<sup> 170 </sup> the Commission estimates that it will take small broker-dealers an average of 7 minutes per account<sup> 171 </sup> every three years, thus requiring small broker-dealers to spend an additional 82,250 hours per year (2,115,000 account records / 3 years x 7 minutes / 60 minutes) to send account records to customers. Thus the total additional burden on the industry to send account records to customers is 652,125 hours.
+
+The Commission estimates that approximately 20%<sup> 172 </sup> of the customers from whom information is requested will update their account record resulting in 4,700,000 updated account records each year (70,500,000 / 3 years x 20%). The Commission estimates that it would take, on average, 5 minutes for large broker-dealers to update each account and 10 minutes<sup> 173 </sup> for small broker-dealers to update each account, resulting in an additional burden of 403,417 hours per year ((4,559,000 account records x 5 minutes / 60 minutes) + (141,000 account records x 10 minutes / 60 minutes)). This estimate takes into account the amount of time it would take to receive the returned data and input any changes into the account record. While it is acknowledged that some customers will provide broker-dealers with changes to their account information outside of this update process, as those are changes broker-dealers must contend with in the present environment, the amendments create no additional burden in this regard. Broker-dealers presently maintain current account records in the ordinary course of their business because existing SRO rules require them to maintain current information about their customers.
+
+If a customer has provided the broker-dealer with updated account record information, under paragraphs (a)(17)(i)(B)( 2 ) and ( 3 ) of Rule 17a-3 the broker-dealer must send a copy of the revised account record to the customer within 30 days after it received notification of the change or, under paragraph (a)(17)(i)(B)( 3 ), the broker-dealer may send the notification with the next statement mailed to the customer. The Commission estimates that, in addition to the 70,500,000 updated account records discussed above, 3,525,000 customers (5% of the 70,500,000 accounts for which firms will be required to make the account record) will initiate changes to their account records on a yearly basis, just as they do now, with no prompting from any account record mailing. The Commission estimates, as stated above, that it will take large broker-dealers 1½ minutes and smaller broker-dealers 7 minutes to send out account information to each customer who updated their account. The Commission estimates that 8,225,000 (4,700,000 + 3,525,000) customers will update their account record, and that broker-dealers will spend an additional 228,244 hours each year ((7,978,250 account records x 1.5 minutes / 60 minutes) + (246,750 account records x 7 minutes / 60 minutes)) sending the updated account records to customers.
+
+The amendments also impose a requirement that broker-dealers obtain the following additional information for each account with a natural person as the customer: the customer name, tax identification number, address, telephone number, date of birth, employment status, annual income, net worth, investment objectives, and the signature of the associated person and a principal. Present Rule 17a-3(a)(9) already requires that a firm maintain a record of a customer's name and address. Further, SRO rules require that firms obtain and maintain records of: whether a customer is of legal age (firms usually obtain a customer's date of birth to satisfy this requirement), the signature of the registered representative and principal, a customer's tax identification number, the customer's occupation, and whether or not the customer is associated with another broker-dealer.<sup> 174 </sup> In addition, certain SRO rules require that before making any recommendations to customers, broker-dealers obtain information, regarding the customer's annual income, net worth, and the investment objectives for the account in question in order to formulate a basis for any recommendation.<sup> 175 </sup>
+
+In addition, the amendments require that, if the account is a discretionary account, the firm must obtain (i) the signature of the customer granting discretion, (ii) the date discretion was granted, and (iii) the signature of the person to whom discretion was granted. Certain SRO rules require that for discretionary accounts, broker-dealers must obtain the signature of the person who was granted discretion, and the date discretion was granted,<sup> 176 </sup> while other SRO rules require that firms obtain written authorization of the customer before exercising discretion in an account.<sup> 177 </sup> Further, the Commission believes that obtaining these records is a prudent business practice followed by most broker-dealers to avoid disputes with customers.
+
+In addition to the account record requirements, the amendments require broker-dealers to keep certain records regarding their associated persons, including all agreements pertaining to the associated persons relationship with the broker-dealer and a summary of each associated person's compensation arrangement,<sup> 178 </sup> a record delineating all identification numbers relating to each associated person,<sup> 179 </sup> a record of the office at which each associated person regularly conducts business,<sup> 180 </sup> and a record as to each associated person listing transactions for which that person will be compensated.<sup> 181 </sup> The Commission believes that broker-dealers generally create and maintain these records under prudent recordkeeping procedures. Therefore, the Commission estimates that, on average, these records would require each broker-dealer to spend approximately 30 minutes each year to ensure that it is in compliance with these amendments, a total of about 3,609 hours ((7,217 broker-dealers x 30 minutes / 60 minutes).
+
+The amendments also require broker-dealers to keep a record relating to written customer complaints that includes: the complainant's name, address, and account number; the date the complaint was received; the name of any associated person identified in the complaint; a description of the nature of the complaint; and, the disposition of the complaint. In order to account for differing broker-dealer practices, the Commission has provided broker-dealers with an alternative; instead of creating what may be a new record, broker-dealers can simply maintain a copy of each complaint, along with a record of the disposition of the complaint.<sup> 182 </sup> Firms are presently required to maintain copies of all communications under Rule 17a-4(b)(4), and certain SRO rules require that members maintain copies of all written complaints and a record of the actions taken by the broker-dealer in specified offices, and that copies of options-related complaints be maintained in both the main office and in the branch office to which they relate.<sup> 183 </sup> Most firms maintain copies of all complaints and related information and documents at their headquarters, and some already maintain both option and non-option complaints at all offices as well. While the Reproposal would have required that complaints relating to an office be maintained in that office or be produced on the business day they are requested, the amendments as adopted require only that records of complaints for an office be produced promptly at the office to which the complaints relate.
+
+The amendments also require broker-dealers to make records which indicate that they have complied with applicable regulations of certain securities regulatory authorities,<sup> 184 </sup> which list persons who can explain the information in the broker-dealer's records,<sup> 185 </sup> and that list principals responsible for establishing compliance policies and procedures.<sup> 186 </sup> Firms presently maintain records to evidence compliance with SRO and other rules; therefore, no additional burden is created by this amendment. The Commission believes that broker-dealers presently maintain lists of principals or branch managers responsible for supervising each of their offices under applicable SRO rules, and that they also have lists of associated persons operating out of each office location. Under certain SRO rules, broker-dealers must presently have supervisory systems in place that include identification of principals responsible for reviewing the firm's procedures and taking action to achieve compliance with applicable securities laws, regulations and rules.<sup> 187 </sup> The Commission estimates, therefore, that on average each broker-dealer would spend 10 minutes each year to ensure compliance with these requirements, yielding a total additional burden of about 1,203 hours ((7,217 broker-dealers x 10 minutes / 60 minutes).
+
+The amendments relating to order tickets require that broker-dealers note, in addition to information already required, the identity of the associated person responsible for an account and the identity of the person who accepted the order, and whether the order was entered pursuant to discretionary authority. In addition, the amendments to Rule 17a-3(a)(6) require that firms record the time an order was received from a customer, and the amendments to Rule 17a-3(a)(7) require that firms make a record of any modifications to an order. SRO rules already require that firms record, maintain, and in some cases report, the time an order was received, and information regarding modification and cancellation including instructions and the time.<sup> 188 </sup> Further, firms who assign associated persons to particular accounts usually refer the customer to that person to initiate transactions. The identity of the person who accepted the order from the customer, whether or not it was the person assigned to the account, is generally recorded and maintained at the present time by firms as a prudent business practice that assists the firm in properly supervising the activities of their associated persons and assuring that commissions are properly paid. In addition, the amendment to Rule 17a-3(a)(6) contains an exception for transactions done on a "subscription-way" basis, where an application or subscription agreement is sent to the issuer in place of an order ticket. For these types of transactions, broker-dealers may keep the application or subscription agreement in the place of the order ticket. Thus the Commission does not believe that the amendments to Rules 17a-3(a)(6) and 17a-3(a)(7) will cause any additional burden.
+
+In total, the Commission estimates that compliance with the amendments to Rule 17a-3 will require an additional 1,288,598 hours (1,283,786<sup> 189 </sup> + 3,609<sup> 190 </sup> + 1,203<sup> 191 </sup>).<h>2. Rule 17a-4 </h>
+
+The amendments modify Rule 17a-4 by requiring broker-dealers to maintain certain additional books and records, including a record listing all persons who are qualified to explain a broker-dealer's books and records. The amendments also require broker-dealers to make available certain records at each office. As discussed above, new Rule 17a-4(k) was modified to provide that, instead of requiring that firms either maintain copies of records in the office to which they pertain, broker-dealers now have the option of producing certain records which relate to a particular office "promptly." This significantly reduces the additional burden caused by the amendments to
+
+Rule 17a-4.
+
+The amendments also increase the amount of time broker-dealers must maintain certain records. Broker-dealers generally maintain these records to comply with other federal or SRO Rules or in the normal course of business. These records include, (i) information relating to the principals responsible for reviewing and updating policies and procedures, (ii) copies of Forms BD, BDW and amendments thereto, (iii) copies of compliance, supervisory, and procedures manuals, (iv) customer account records, (v) order ticket information, (vi) records relating to compensation of associated persons, (vii) evidence of compliance with SRO advertising and sales literature rules, (viii) exception reports, and (ix) specialized reports produced pursuant to an order or settlement.
+
+Based upon the information above, and due to the fact that the amendments to Rule 17a-4 require only that information be kept for prescribed periods of time, the Commission estimates that, on average, each broker-dealer would spend four hours each year to ensure that it is in compliance with the amendments to Rule 17a-4 and to produce required records promptly at an office when so required. Therefore, the Commission estimates that compliance with the amendments for Rule 17a-4 would require an additional 28,868 hours each year ((7,217 broker-dealers x 4 hours).<h>E. Request for Comment </h>
+
+Pursuant to 44 U.S.C. 3506(c)(2)(B), the Commission solicits comments to — (i) Evaluate whether the proposed collections of information are necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; (ii) Evaluate the accuracy of the agency's estimate of the burden of the proposed collections of information; (iii) Enhance the quality, utility, and clarity of the information to be collected; (iv) Minimize the burden of the collections of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology. The Commission encourages commenters to identify and supply any relevant data, analysis and estimates concerning the burden of the proposed rules, especially where any commenter believes the Commission's estimates to be inaccurate.
+
+Persons desiring to submit comments on the collection of information requirements proposed above should direct them to the following persons: (1) Desk Officer for the Securities and Exchange Commission, Office of Information and Regulatory Affairs, Office of Management and Budget, Room 10102, New Executive Office Building, Washington, DC 20503; and (2) Jonathan G. Katz, Secretary, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609 with reference to File No. S7-26-98. OMB is required to make a decision concerning the collections of information between 30 and 60 days after publication, so a comment to OMB is best assured of having its full effect if OMB receives it within 30 days of publication. The Commission has submitted the proposed collections of information to OMB for approval. Requests for the materials submitted to OMB by the Commission with regard to these collections of information should be in writing, refer to File No. S7-26-98, and be submitted to the Securities and Exchange Commission, Records Management, Office of Filings and Information Services, 450 Fifth Street, NW, Washington, DC 20549.<h>XII. Statutory Basis </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.17a-3.
+
+2 17 CFR 240.17a-4.
+
+3 For purposes of this release, "State Securities Regulators" include, as described in Section 15(h) of the Exchange Act, "the securities commissions (or any agency or office performing like functions) of the States." 15 U.S.C. 78 o (h).
+
+4 See Exchange Act Release No. 37850 (October 22, 1996), 61 FR 55593 (Oct. 28, 1996) ("Proposing Release" and/or "Proposal") (File No. S7-27-96).
+
+5 Pub. L. No. 104-290, 110 Stat. 3416 (1996).
+
+6 E.g. , violations of State suitability and fraud laws, or federal regulations.
+
+7 15 U.S.C. 78 o (h).
+
+8 142 Cong.Rec.S. 12093, S12094 (October 1, 1996) (statement of Sen. Dodd) ("It is the intent of the conferees that the SEC work closely with the States to determine what records should be maintained at branch offices and to establish a mechanism so that States could require such records be kept in the branch office, rather than at a back office halfway across the Nation.").
+
+9 Exchange Act Release No. 40518 (Oct. 2, 1998), 63 FR 54404 (Oct. 9, 1998) (the "Reproposing Release" and/or "Reproposal"). The staff of the Division of Market Regulation has prepared a summary of the comment letters received on the reproposed rules and rule amendments (hereinafter referred to as "Comment Summary"). Copies of the comment letters and the Comment Summary have been placed in Public Reference File No. S7-26-98 and are available for inspection in the Commission's Public Reference Room.
+
+10 17 CFR 240.17a-3(a)(6). Most broker-dealers are currently required to record the time the order was received from a customer under the National Association of Securities Dealers' ("NASD") Order Audit Trail System ("OATS") rules (NASD rules 6950 through 6957 and 3110) (hereinafter "OATS rules") ( See specifically NASD rules 6954(b)(16) and 3110(h)), and New York Stock Exchange ("NYSE") rules 123 and 410A.
+
+11 17 CFR 240.17a-3(a)(7).
+
+12 E.g. , a firm may satisfy this requirement by using the record listing any internal identification number or code assigned to associated persons which is required under new Rule 17a-3(a)(12)(ii) (17 CFR 240.17a-3(a)(12)(ii)). Additionally, the Commission believes this requirement is consistent with the NASD's OATS rules.
+
+13 A number of firms have asked for guidance on the meaning of the term "to the extent feasible." The time of execution should be included on the order ticket except for situations in which it may be impossible to determine the precise time when the transaction was executed; however, in that case the broker-dealer must note the approximate time of execution. Exchange Act Release No. 3040 (Oct. 13, 1941), 11 FR 10984. The Commission has stated that the "phrase `to the extent feasible' was intended to be applicable only in exceptional circumstances where it might be actually impossible to determine the exact time of execution." Exchange Act Release No. 13508 (May 5, 1977) 42 FR 25318. However, in that case the broker-dealer must note the approximate time of execution.
+
+14 This is referred to elsewhere in the rules as a "subscription-way basis" transaction. See 17 CFR.15c3-1(a)(2)(v).
+
+15 17 CFR 240.17a-3(a)(12)(ii).
+
+16 First, reproposed paragraphs (a)(12)(ii) and (a)(12)(iii) have been moved to paragraph (a)(19) of Rule 17a-3 to keep all requirements relating to compensation records in the same section (most agreements between associated persons and broker-dealers relate to compensation in some manner). Second, reproposed paragraphs (a)(12)(iv) and (a)(12)(v) have been combined into new paragraph (a)(12)(ii). And finally, the Commission has deleted the references to local offices and state record depositories to make this paragraph consistent with the changes to the definition of "office" in paragraph (g)(1) of Rule 17a-3.
+
+17 15 U.S.C. 78 c (a)(21) and 15 U.S.C. 78 c (a)(18).
+
+18 The Commission has consistently taken the position that independent contractors (who are not themselves registered as broker-dealers) involved in the sale of securities on behalf of a broker-dealer are "controlled by" the broker-dealer, and, therefore, are associated persons of the broker-dealer. See, e.g. , In the Matter of William V. Giordano , 61 S.E.C. Dkt. 345, Exchange Act Release No. 36742 (Jan. 19, 1996) (in finding that an officer of a broker-dealer firm failed reasonably to supervise an independent contractor, the Commission found that the independent contractor was an "associated person" of the firm within the meaning of Section 3(a)(18) of the Exchange Act). See, also , Letter from Douglas Scarff, Director, Division of Market Regulation, to Gordon S. Macklin, NASD; Charles J. Henry, Chicago Board Options Exchange; Robert J. Birnbaum, American Stock Exchange; and John J. Phelan, NYSE, [1982-1983 Transfer Binder] Fed. Sec. L. Rep. (CCH) P77,303 at P77,116 (Jun. 18, 1982); Hollinger v. Titan Capital Corp. , 974 F.2d 1564, 1572-76 (9th Cir. 1990), cert. denied , 111 S. Ct. 1621 (1991). A similar analysis would be applicable to other persons, such as consultants and franchisees, performing securities activities with or for the broker-dealer.
+
+19 This provision was reproposed as Rule 17a-3(a)(16).
+
+20 Generally, suitability rules require that broker-dealers and their associated persons refrain from recommending transactions or investment strategies to a customer that would be "unsuitable" for that customer based upon the customer's situation. Factors that may be considered in assessing a customer's situation include the customer's age, financial situation, and investment experience or knowledge of the industry.
+
+21 See NYSE Rule 408 and NASD Rule 2510(b).
+
+22 See, e.g. , Comment Letters from Raymond James, p. 4; Investment Management and Research, p. 3, and Mayer, Brown & Platt, pp. 6-7.
+
+23 17 CFR 240.17a-3(a)(17)(i)(A). This requirement is consistent with SRO rules regarding the signatures of associated persons and principals when opening customer accounts. See NYSE Rule 405(3) and NASD Rule 3110(c)(1)(C).
+
+24 The Commission believes that this requirement is consistent with SRO requirements regarding customer accounts such as those discussed above in footnote 23.
+
+25 17 CFR 240.17a-3(a)(17).
+
+26 See Comment Letters from Donaldson, Lufkin and Jenrette, p. 9, and the International Association for Financial Planning, pp. 2-3.
+
+27 17 CFR 240.17a-3(a)(17)(i)(A).
+
+28 17 CFR 240.17a-3(a)(17)(i)(B)( 1 ).
+
+29 Certain SRO rules already require that customer account records be sent to customers who open options accounts. See NASD Rule 2860(b)(16)(C) and IM-2860-2, and NYSE Rule 721(c) and Supplemental Material at .30 regarding options accounts.
+
+30 17 CFR 240.17a-3(a)(17)(i)(B)( 1 ) through (B)( 3 ).
+
+31 17 CFR 240.17a-3(a)(17)(i)(B)( 1 ).
+
+32 Id .
+
+33 17 CFR 240.17a-3(a)(17)(i)(B)( 2 ).
+
+34 17 CFR 240.17a-3(a)(17)(i)(B)( 3 ).
+
+35 See Comment Letters from Fidelity Investments, p. 5, Benefits Communication Corporation, p. 1, American Express Financial Advisors, Inc., p. 4, and Comerica Securities, p. 3.
+
+36 17 CFR 240.17a-3(a)(17)(i)(B)( 4 ).
+
+37 See, e.g. , NASD Rules 2310 and 2860(b)(16)(B), NYSE Rule 723, Chicago Board Options Exchange Rule 9.9, and Municipal Securities Rulemaking Board Rule G-19.
+
+38 17 CFR 240.17a-3(a)(17)(i)(D).
+
+39 Sections 10(b) and 15(c) (15 U.S.C. 78 j (b) and 15 U.S.C. 78 o (c)). See e.g. , Hanley v. SEC , 415 F.2d 589, 596 (2d Cir. 1969); F.J. Kaufman and Co. , 50 S.E.C. 164 (1989); O'Connor v. R.F.Lafferty & Co. , 965 F.2d 893 (10th Cir. 1992).
+
+40 17 CFR 240.10b-5 and 17 CFR 240.15c1-2.
+
+41 See supra note 37.
+
+42 If a recommendation is made, a suitability obligation arises irrespective of the medium used to deliver that recommendation. For example, a broker-dealer can make a recommendation in person, on a website, via telephone, mail, or email. A broker-dealer also can recommend a security online regardless of whether that recommendation is attributable to a specific registered representative. Whether a broker-dealer has made a recommendation is a question that can only be answered by considering all of the facts and circumstances. ( See "Suitability Hypotheticals," Report of Commissioner Laura S. Unger, Online Brokerage: Keeping Apace of Cyberspace, pp. 32-4. (Nov. 1999))
+
+43 17 CFR 240.17a-3(a)(9).
+
+44 See, e.g. , Comment Letter of Salomon Smith Barney, pp. 3-4.
+
+45 This paragraph was proposed as paragraph (a)(17) of Rule 17a-3.
+
+46 This requirement is in addition to other recordkeeping requirements such as Rule 17a-4(b)(4), which requires firms to keep originals of all correspondence received. For example, if a broker-dealer firm received a written complaint regarding the firm itself, the firm would be required to keep that complaint under Rule 17a-4(b)(4). If the complaint related to a particular associated person, the firm would also be required to make a record of the complaint as to that associated person under Rule 17a-3(a)(18); however, the firm may keep one copy of the complaint to satisfy both Rules 17a-3(a)(18)(i) and 17a-4(b)(4).
+
+47 See 17 CFR 240.17a-4(b)(4), and NASD Rule 3110(d).
+
+48 This requirement expands on an existing interpretation of the Commission's financial responsibility rules and the Securities Investor Protection Act of 1970, which states that, for purposes of custody of securities, for a firm to qualify as an introducing firm with a lesser net capital requirement than a clearing firm, its customers must be treated as customers of the clearing firm. In addition, under that interpretation, the clearing firm must issue account statements directly to customers, and each account statement must contain the name, address, and telephone number of a responsible individual at the clearing firm whom a customer can contact with inquiries and complaints regarding the customer's account.
+
+49 See, e.g. , Comment Letter from Lawrence M. Lowman, p. 1.
+
+50 See supra note 48; Exchange Act Release No. 31511 at note 21 and accompanying text, (Nov. 24, 1992), 57 FR 56973 (Dec. 2, 1992).
+
+51 See Comment Letters from the Discount Brokers, p. 7, and Donaldson, Lufkin & Jenrette, p. 10.
+
+52 The phrase "and the specific security," which appeared in the Reproposing Release, was not included in the Rule as adopted because it is redundant. The record "listing all purchases and sales of securities for which the associated person was compensated" must provide enough information to identify that purchase or sale to which the compensation was attributable.
+
+53 This Rule was reproposed as Rule 17a-3(a)(12)(ii) and Rule 17a-3(a)(12)(iii).
+
+54 This paragraph was reproposed as paragraph (a)(19) of Rule 17a-3.
+
+55 See e.g. , NASD Rule 2210(b) and NYSE Rule 472.
+
+56 E.g. , the record may consist of a principal's signature or initials on the communication, or a signed memo from the principal granting permission for use of the communication. Further, a firm may have policies and procedures designed to establish compliance with applicable federal regulations and SRO rules which require that a principal approve any advertisements, sales literature, or other communications with the public. Thus, records presently used to evidence compliance with SRO rules may also be used to fulfill this requirement.
+
+57 Supra note 7.
+
+58 New paragraph (a)(12)(ii) of Rule 17a-3 requires firms to make a record showing, for each associated person, every office where the associated person regularly conducts a securities business and certain other information.
+
+59 See Comment Letter from Citicorp, p. 3, "RRs in all local offices would have to be trained to do a function outside their current job responsibilities, namely to review material for applicable privileges and make records of documents reviewed by regulators."
+
+60 See, e.g. , Comment Letters from Arkansas Securities Department, pp. 1-3; Department of Financial Institutions, Commonwealth of Kentucky, p. 6; and Securities Division, State of Rhode Island and Providence Plantations, p. 1.
+
+61 This does not relieve broker-dealers from any other federal or SRO requirements to maintain records at office locations. See, e.g. , NASD Rule 3110(d) which requires firms to keep at each Office of Supervisory Jurisdiction (defined at NASD Rule 3010(g)(1)), either a separate file of all written complaints of customers and action taken by the firm, or a separate record of such complaints and a clear reference to the files containing the correspondence connected with such complaint maintained in such office.
+
+62 17 CFR 240.17a-3(f).
+
+63 17 CFR 240.17a-4(k).
+
+64 17 CFR 240.17a-3(g)(1).
+
+65 The term "immediate family," as used in paragraph (k), should be interpreted to have the same meaning as it does in NASD IM-2110-1( l )(2).
+
+66 New paragraph (f) of Rule 17a-3 requires firms to make and keep current separately as to each office, the books and records required under various paragraphs in Rule 17a-3.
+
+67 New paragraph (k) of Rule 17a-4 requires firms to either keep certain records at each office or produce them at that office or at another agreeable location.
+
+68 Firms need not apply to or notify securities regulators as to which office it selects as the associated person's "office." However, pursuant to paragraph (a)(12)(iii) of Rule 17a-3, the firm must identify the office as such.
+
+69 The specific paragraphs of Rule 17a-3 that are included in this requirement are (a)(1), (a)(6), (a)(7), (a)(12), (a)(16), (a)(17), (a)(18), (a)(19), (a)(20), (a)(21), and (a)(22).
+
+70 Per Schedule 1 data filed by broker-dealers as of year-ending December 31, 1998. Pursuant to 17 CFR 240.17a-10, Broker-dealers are required to file Schedule 1 , which requires the reporting of general information designed to measure certain economic and financial characteristics.
+
+71 Supra note 61.
+
+72 Valid reasons for delays in producing the requested records do not include the need to send the records to the firm's compliance office for review prior to providing the records.
+
+73 See Comment Letter from A.G. Edwards & Sons, Inc., p. 8.
+
+74 Exchange Act Release No. 38245 (Jan. 31, 1997), 62 FR 6469 (Feb. 12, 1997).
+
+75 For instance, limited liability companies ("LLCs") would be covered.
+
+76 For example, if the original report includes customer name, account number, social security number, and transactional information, however the report that can be re-created at a later date does not include social security numbers, the firm should provide the re-created report to the regulator with an explanation that although social security numbers appeared on the original report, the firm is unable to re-create the report including that information.
+
+77 This includes changes to hardware, software, or changes to the database used to produce the exception reports.
+
+78 Exchange Act Release No. 38245 (Feb. 5, 1997), 62 FR 6469 (Feb. 12, 1997) ("Electronic Storage Media Release").
+
+79 17 CFR 240.17a-4(f).
+
+80 See 17 CFR 240.17a-4(f)(3)(i).
+
+81 See 17 CFR 240.17a-4(f)(3)(vii).
+
+82 Exchange Act Release No. 40760 (Dec. 8, 1998), 63 FR 70844 (Dec. 22, 1998).
+
+83 See supra note 9, at p. 54411.
+
+84 See Comment Letters from Mutual Service Corporation, p. 6; Titan Value Equities Group, Inc., pp. 2 and 4; USAA, pp. 2 and 6; MetLife, p. 4; A.G. Edwards and Sons, Inc., p. 6; MONY, p. 4; Capital West, p. 2; Comerica Securities, p. 2; Nationwide Investment Services Corporation, p. 2; Edward Jones, pp. 1 and 3; Advest, p. 1; Salomon Smith Barney, pp. 1 to 2; NyLife Securities, pp. 6 to 7; HD Vest, p. 2; American Express Financial Advisors, pp. 2 to 5; First Union, pp. 3 to 4; Charles Schwab, pp. 3 to 4; MML Investors Services, Inc., pp. 2 to 4; National Planning Corporation, p. 1; Pumphrey Securities, p. 2; Citicorp Investment Services, pp. 2 to 3; Discount Brokers, pp. 4 to 5; M & T Securities, pp. 1 and 2; Donaldson, Lufkin & Jenrette, p. 6; Investment Management & Research, Inc., p. 4; John Hancock Distributors, Inc., pp. 3 to 4; Southwest Securities, p. 2; the Securities Industry Association, p. 10; Merrill Lynch, pp. 1, 6 to 7, and 11; and Raymond James, p. 5.
+
+85 See Comment Letters from Michigan, pp. 1 to 2; Idaho, pp. 1 and 4; Kansas, pp. 1 to 2; Delaware, pp. 1 to 2; Colorado, p. 2; North Dakota, p. 1; Ohio, p. 1; Texas, pp. 1, 2 to 3, and 6; Hawaii, pp. 1 to 2; Rhode Island, pp. 1 to 2; New Hampshire, pp. 1 and 2; Nebraska, p. 1; Utah, pp. 1 and 3; NASAA, pp. 3 to 5 and 22; New York, pp. 1 and 3; Virginia, pp. 1 to 3; New Jersey, pp. 2 to 7; Washington, pp. 2 and 6; Arkansas, pp. 1, 3, and 5; New Mexico, p. 1; North Carolina, pp. 1 to 2; and Montana, pp. 1, and 3 to 5.
+
+86 See Comment Letters from AARP, p. 2; and the Consumer Federation of America, pp. 2 to 3.
+
+87 See Comment Letters from American Council of Life Insurance, pp. 12 to 13; and International Association of Financial Planning, p. 6.
+
+88 See Comment Letter from Thomas Koutris, p. 1.
+
+89 This paragraph provides that broker-dealers must obtain certain information relating to the accounts of natural customers, and that customer account records must be updated regularly.
+
+90 In the reproposed rule this paragraph provided that certain records had to be maintained at the local office, or that they had to be produced at the local office to which they related on the same day a request for those records was made by a representative of a securities regulatory authority.
+
+91 See Comment Letter from State of Virginia, pp. 1 to 3.
+
+92 Per NASD Dispute Resolution, Inc. website: www.nasdradr.com/statistics.asp .
+
+93 It should be noted that these estimates do not include any internal compliance, operational, and/or legal costs incurred by these firms in dealing with these complaints.
+
+94 See, e.g. , Comment Letter from the State of New Jersey, p. 5.
+
+95 See Second Comment Letter from State of Connecticut. The State of Connecticut performed examinations of forty-nine office locations of twenty-three broker-dealers in five States. Seventeen of these offices had two or less associated persons working there. In addition, the State reviewed the most recent 100 examinations it had performed, and as well as investigatory materials from the prior two years wherein subpoenas were issued to obtain broker-dealer records.
+
+96 See Second Comment Letter from NASAA. The State of Florida performed examinations on 19 broker-dealers.
+
+97 Four States provided specific information regarding investor losses. Illinois indicated (in its Comment Letter, p. 2) that over the past 8 years, 29 enforcement cases were brought in which Illinois investors lost over $38.9 million dollars. Kansas indicated (in the attachment to its Comment Letter) that, with respect to cases they have brought over the past ten years, Kansas customers have lost over $6.4 million dollars. Ohio indicated (in its Comment Letter, p. 3) that in one particular case Ohio investors lost over $60 million dollars. Lastly, Connecticut indicated (in its Comment Letter, p. 2) that, with respect to cases they have brought where the investors' relationship was established through small offices, Connecticut investors have lost over $12 million.
+
+98 Report by the Division of Market Regulation and the Division of Enforcement, U.S. Securities and Exchange Commission, The Large Firm Project: A Review of Hiring, Retention and Supervisory Practices (May 1994).
+
+99 Id. , at pp. 5 and 7
+
+100 See , Comment Letter from the State of New Jersey, p. 3.
+
+101 See , Comment Letter from NASAA, pp. 7-8.
+
+102 E.g. , the NASD's OATS rules, and NYSE rules 123 and 410A.
+
+103 See , Comment Letter from the Consumer Federation of America, p. 3, note 4.
+
+104 See Comment Letter from State of Michigan Department of Consumer & Industry Services, p. 1.
+
+105 See Comment Letter from State of Texas' State Securities Board, pp. 2-3.
+
+106 The Commission estimates that these amendments to Rule 17a-4 will take broker-dealers an additional four hours each per year. In the Reproposal the Commission estimated that these amendments would take an additional eight hours. Since the amendments being adopted today allow broker-dealers the option of not maintaining records at each office or producing records to the office to which they relate on the same day they are requested, the original estimate was reduced by one-half. The Commission believes that firms will have senior compliance personnel ensure compliance with these amended rules. According to the Securities Industry Association ("SIA") Management and Professional Earnings 2000 report, Table 051, the hourly cost of a Compliance Manager + 35% overhead is $101.25. ($101.25 x 4) = approximately $405.00 for each respondent, per year.
+
+107 ($405.00 per respondent x (7,217 broker-dealers) = approximately $2.9 million per year.
+
+108 Supra at note 95.
+
+109 17 CFR 240.17a-3(a)(9), NASD Rules 2310(b), 3110(c) and IM-2860-2, and NYSE Rules 405, 407, 408, 410A, and 721.10.
+
+110 Including customer name, address, telephone number, employment status, annual income, net worth, and the investment objectives for the account.
+
+111 The Commission originally proposed that broker-dealers verify customer account information at least once each year ( See Proposing Release), however this was modified and reproposed as once every thirty-six months in the Reproposal based upon comments received from broker-dealers who contended that it would be too costly to send account information to customers yearly.
+
+112 Broker-dealers must furnish notification of a change in the name or address information to the customer's old address, and must furnish a copy of new account record information to the customer if some other information component is changed.
+
+113 See e.g. , Comment Letter from Raymond James Financial, Inc., p. 4.
+
+114 See e.g. , Comment Letter from Investment Management & Research, Inc., p. 4.
+
+115 Supra note 1.
+
+116 See infra note117.
+
+117 Broker-dealers reported, in their 12/31/00 Schedule 1 filings (required to be filed pursuant to 17 CFR 240.17a-10), that they maintained a total of 97,600,000 customer accounts. The Commission estimates that at least 27,100,000 of these accounts are excluded from the provisions of Rule 17a-3(a)(17) because they are either not accounts of natural persons, inactive, or accounts for which the broker-dealer does not have a suitability requirement (the Commission arrived at this number using estimates provided by the firms, in their comment letters and otherwise, as to how many of their accounts would fit into one or more of these categories. See Rule 17 CFR 240.17a-3(a)(17)(i)(D)). Accordingly, the total number of accounts which would need to be contacted for updating is 70,500,000 every three years. 70,500,000 / 3 = 23,500,000 per year.
+
+118 Of the 23,500,000 accounts to which a copy of the account agreement must be sent each year, 22,975,000 (or 97%) of those accounts are attributable to 70 large broker-dealers which maintain over 100,000 customer accounts. Based upon the comment letters and other communications, large broker-dealers are more automated and small broker-dealers have more manual processes. The estimated additional time to send out customer account information is 1½ minutes per account for large broker-dealers and 7 minutes per account for small broker-dealers. The estimated number of customers who will provide updated account record information is 4,700,000 (or 20% of customers to which notification is sent - this estimate is based on a comment letter sent by Merrill Lynch) (4,559,000 the 4,700,000 are estimated to be maintained at large broker-dealers). The estimated time to update these account records is 5 minutes per account record for large broker-dealers and 10 minutes per account for small broker-dealers, and the estimated time to send updated account record to customer to notify of change is 1½ minutes for large broker-dealers and 7 minutes for small broker-dealers. The estimated number of customers who will change their account record without being prompted by a mailing is 3,525,000 (3,419,250 of which are maintained at large broker-dealers), and the estimated time to send updated account record information to those customers is 1½ minutes per account for large broker-dealers and 7 minutes per account for small broker-dealers. Thus it would take approximately 2.25 minutes per account contacted each year to send account records (((22,795,000 x 1½) + (705,000 x 7)) + ((4,559,000 x 1½) + (141,000 x 7)) + ((3,419,250 x 1½) + (105,750 x 7))) / 23,500,000 accounts contacted yearly. In addition, it would take approximately 1.03 minutes per account contacted each year to update the account records (((4,559,000 x 5) + (141,000 x 10)) / 23,500,000 accounts contacted yearly. In total, the Staff estimates that it would take 3.28 minutes per account contacted each year for processing and any updating.
+
+119 The estimated total additional hours to provide customers with account record information is 880,369 hours ((((22,795,000 x 1½) + (705,000 x 7)) + ((4,559,000 x 1½) + (141,000 x 7)) + ((3,419,250 x 1½) + (105,750 x 7))) / 60 minutes). The estimated total additional hours to update customers accounts is 403,417 hours (((4,559,000 x 5) + (141,000 x 10))/ 60 minutes in an hour). The hourly wage of the average person who would be providing customers with account record information is $22.70 per hour (per the SIA Report on Office Salaries In the Securities Industry 2000 , Table 082 (Retail Sales Assistant, Registered) and including 35% in overhead charges). The hourly wage of the average person who would be updating account record information is $25.90 per hour (per the SIA Report on Office Salaries In the Securities Industry 2000 , Table 086 (Data Entry Clerk, Senior) and including 35% in overhead charges). Thus the aggregate cost of these hours is about $30.4 million ((880,369 hours x $22.70) + (403,417 hours x $25.90)). The estimated additional cost of paper, printing, and postage to provide this information to customers is between $.05 and $.244 per record sent, or between $1.6 million and $7.7 million (($.05 or $.244) x (23,500,000 + 4,700,000 + 3,525,000 )). Yielding a total cost per record sent of between $1.36 and $1.62(($30.4 million + ($1.6 million or $7.7 million))/23,500,000 records sent per year).
+
+120 It is estimated that it will take firms 2 hours each, on average, to update their forms to include information regarding the meaning of investment objective terms. The Commission believes that firms will have an attorney perform this task. According to the SIA Management and Professional Earnings 2000 report, Tables 107 (Attorney) and 108 (Compliance Attorney), the hourly cost of an attorney + 35% overhead is $156.00 per hour. ($156.00 x 2) = approximately $312.00 per broker-dealer.
+
+121 One small broker-dealer stated, "smaller firms lack the automation to do this type of action...without additional personnel,"( See Comment Letter from Titan Value Equities Group, Inc., p. 2) another stated, "[w]e do not have electronic account records,"( See Comment Letter from Capital West Securities, Inc., p. 2) and another stated, "for most firms [the] initial identification process would be manual" and "compiling the account record to send would require...pulling out a paper file for the account and making photo copies of the documents or pulling up the account on a computer system and printing out the required account information screens."( See Comment Letter from Comerica Securities, p. 2.) No smaller broker-dealer provided information regarding any increased equipment or systems development costs.
+
+122 See Comment Letter from Morgan Stanley Dean Witter, p. 4.
+
+123 See Comment Letter from Merrill Lynch, p. 7 ($630,000 + $370,000 + $300,000).
+
+124 See Comment Letter from Dean Witter, p. 4.
+
+125 See Comment Letter from Merrill Lynch, p. 7. Merrill Lynch's estimate that they would spend $3.8 million for ongoing costs was reduced to account for the fact that the Commission has included costs to send account records to customers, costs to update customer account records, costs to send notification of updates to customers, and postage costs, which are included in Merrill's $3.8 million figure, elsewhere.
+
+126 17 CFR 240.17a-3(a)(19)(ii).
+
+127 17 CFR 240.17a-3(a)(12)(ii).
+
+128 17 CFR 240.17a-3(a)(12)(iii).
+
+129 17 CFR 240.17a-3(a)(19)(i).
+
+130 See supra text accompanying notes 95 and 96.
+
+131 See supra note 102.
+
+132 17 CFR 240.17a-3(a)(17)(ii) and 17 CFR 240.17a-4(b)(4).
+
+133 17 CFR 240.17a-3(a)(21).
+
+134 17 CFR 240.17a-3(a)(22).
+
+135 See e.g. , NASD Rule 3010.
+
+136 See e.g. , NASD Rule 3110(d), and for options complaints NASD Rule 2860(b)(17).
+
+137 The Commission estimates that it will take each broker-dealer, on average, two hours to update its forms to include the address to which complaints should be sent. This is a very conservative estimate, since it will probably take much less than 2 hours to write down the broker-dealer's address and where it should be placed on the form, but additional time was added to account for supervisory review. The Commission believes broker-dealers would have an attorney perform this task. According to the SIA Management and Professional Earnings 2000 report, Tables 107 (Attorney) and 108 (Compliance Attorney), the hourly cost of an attorney + 35% overhead is $156.00 per hour. ($156.00 x 2) = approximately $312.00 per broker-dealer.
+
+138 The Commission estimated in its Reproposal that, on average, this requirement will obligate a broker-dealer to spend approximately 30 minutes each year to ensure that the records are in compliance with these amendments. The Commission received no specific comments relating to this estimate. The Commission believes firms may have senior compliance personnel perform this task. According to the SIA Management and Professional Earnings 2000 report, Table 051, the hourly cost of a Compliance Manager + 35% overhead is $101.25. ($101.25 x ½ hour) = approximately $50.63 per broker-dealer.
+
+139 The Commission estimated in its Reproposal that it will take each firm 10 additional minutes each year to assure compliance with the amendments, and it received no specific comments relating to this estimate. The Commission believes that firms will have senior compliance personnel perform this task. According to the SIA Management and Professional Earnings 2000 report, Table 051, the hourly cost of a Compliance Manager + 35% overhead is $101.25. ($101.25 x 10 minutes / 60 minutes in an hour) = approximately $16.88 per broker-dealer.
+
+140 15 U.S.C. 78 w (a)(2)
+
+141 15 U.S.C. 78 c (f).
+
+142 Supra note 9, at 54411.
+
+143 Of the 144 total "comment letters" on file, seventeen are memos by the staff of the Commission relating to meetings with various industry groups, and twelve simply request that the comment period be extended.
+
+144 See , Comment Letter from NASAA, p. 7.
+
+145 See , Comment Letters from Titan Value Equities Groups, Inc., p. 3; BenefitsCorp Equities, Inc., p. 2; and One Orchard Equities, Inc. p. 2.
+
+146 See , Comment Letter from MML Investor Services, Inc., pp. 5 to 6.
+
+147 Paragraph (k) of Rule 17a-4.
+
+148 See paragraphs (a)(6)(ii) and (a)(17)(i)(D) of Rule 17a-3. In addition, paragraph (a)(17) of Rule 17a-3 was modified to limit the requirement to accounts with a natural person as the customer.
+
+149 See Comment Letter from NASAA, p. 4.
+
+150 15 U.S.C. 78 a et. seq. , adopted on October 11, 1996.
+
+151 15 U.S.C. 78 o (h).
+
+152 See supra note 8.
+
+153 Pursuant to 17 CFR 240.0-10, the term "small business" or "small organization" when used with reference to a broker or dealer means a broker or dealer that: (i) had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date its audited financial statements for the prior fiscal year were prepared pursuant to 17 CFR 240.17-5(d) or, if not required to file such statements, a broker-dealer that had total net capital (net worth plus subordinated liabilities) of less than $500,000 on the last business day of the preceding fiscal year (or in the time that it has been in business, if shorter); and (ii) is not affiliated with any person (other than a natural person) that is not a small business or small organization as defined in 17 CFR 240.0-10. In addition, Exchange Act Release No. 40122 (June 24, 1998) 63 FR 35508 (June 30, 1998) recently amended standard that defines what it means to be "affiliated" with any person that is not a small business.
+
+154 See supra note 9.
+
+155 See Comment Letter from American Council of Life Insurance, p. 16.
+
+156 See Comment Letters from Titan Value Equities Group, Inc., pp. 2-3; Lawrence Lowman, p. 1; and John Hancock Distributors, Inc., p. 3.
+
+157 E.g. , broker-dealers which only facilitate transactions in certain types of products or broker-dealers which do not make recommendations.
+
+158 See e.g. , NASD Rule 3110(c).
+
+159 17 CFR 240.17a-4(a)(1).
+
+160 See Comment Letter from Lawrence Lowman, p. 1.
+
+161 See Comment Letter from Titan Value Equities, p. 3.
+
+162 Id. , p. 2.
+
+163 See Comment Letter from John Hancock Distributors, Inc., p. 3
+
+164 Id.
+
+165 15 U.S.C. 78 o (h).
+
+166 44 U.S.C. 3502 et seq .
+
+167 Of approximately 7,739 broker-dealers registered with the Commission, approximately 341 are not yet active because their registration is pending SRO approval and approximately 181 are inactive because they have ceased doing a securities business and have filed a Form BDW with the Commission. Of these 7, 217 active, registered broker-dealers, three are registered OTC Derivatives Dealers. OTC Derivatives Dealers are a special class of broker-dealers that limit their business to dealer activities in eligible over-the-counter derivative instruments and that meet certain financial responsibility and other requirements.
+
+168 Supra note 117.
+
+169 The Commission, in its Reproposal, estimated that it would take broker-dealers 10 seconds to furnish the account record to customers. Because many commenters contended that this estimate was too low, the Commission raised its estimates.
+
+170 Supra note 121.
+
+171 See Comment Letter from Comerica Securities, p. 2.
+
+172 See Comment Letter from Merrill Lynch, p. 7.
+
+173 See Comment Letter from Titan Value Equities, Inc., p. 2.
+
+174 See NASD Rules 3110(c) and IM-2860-2, and NYSE Rules 405, 407, 410A, and 721.10.
+
+175 See e.g. , NASD Rule 2310(b) and IM-2860-2.
+
+176 Supra note 158.
+
+177 See e.g. , NYSE Rule 408.
+
+178 Supra note 126.
+
+179 Supra note 127.
+
+180 Supra note 128.
+
+181 Supra note 129.
+
+182 17 CFR 240.17a-3(a)(18)(i).
+
+183 Supra note 136.
+
+184 17 CFR 240.17a-3(a)(17)(ii) and 17 CFR 240.17a-3(a)(20).
+
+185 Supra note 133.
+
+186 Supra note 134.
+
+187 Supra note 135.
+
+188 Supra note 102.
+
+189 17 CFR 240.17a-3(a)(17).
+
+190 17 CFR 240.17a-3(12) and (19).
+
+191 17 CFR 240.17a-3(a)(20) to (22).

@@ -1,0 +1,195 @@
+https://www.sec.gov/rules/final/ic-24991.htm
+
+	I.0.0.0: I. DISCUSSION
+
+		I.A.0.0: A. Amendments to Rules 31a-2 and 204-2
+
+		I.B.0.0: B. Electronic Signatures Act
+
+			I.B.1.0: 1. Consistency With Electronic Signatures Act
+
+			I.B.2.0: 2. No Additional Requirements
+
+			I.B.3.0: 3. Substantial Justification
+
+			I.B.4.0: 4. Requirements Equivalent to Requirements for Other Record Formats
+
+			I.B.5.0: 5. No Unreasonable Costs on Acceptance and Use of Electronic Records
+
+			I.B.6.0: 6. Specific Technology or Technical Specification
+
+		I.C.0.0: C. Effective Date
+
+	II.0.0.0: II. COST-BENEFIT ANALYSIS
+
+	III.0.0.0: III. EFFECTS ON EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
+
+	IV.0.0.0: IV. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	V.0.0.0: V. PAPERWORK REDUCTION ACT
+
+	VI.0.0.0: VI. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Electronic Recordkeeping by Investment Companies and Investment Advisers 
+
+ SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 270 and 275
+
+[Release Nos. IC-24991 and IA-1945; File No. S7-06-01]
+
+RIN 3235-AI05
+
+Electronic Recordkeeping by Investment Companies and Investment Advisers 
+
+ AGENCY: Securities and Exchange Commission
+
+ ACTION: Final rule
+
+ SUMMARY: The Securities and Exchange Commission is adopting amendments to rules under the Investment Company Act of 1940 and the Investment Advisers Act of 1940 that permit registered investment companies and registered investment advisers to preserve required records using electronic storage media such as magnetic disks, tape, and other digital storage media. The amendments expand the ability of advisers and funds to use electronic storage media to maintain and preserve records. This release and these rule amendments respond to the enactment of the Electronic Signatures in Global and National Commerce Act, which encourages federal agencies to accommodate electronic recordkeeping.
+
+ EFFECTIVE DATE: May 31, 2001. 
+
+ FOR FURTHER INFORMATION CONTACT: William C. Middlebrooks, Jr., Attorney, or Martha B. Peterson, Special Counsel, (202) 942-0690, Office of Regulatory Policy, Division of Investment Management, Securities and Exchange Commission, 450 5th Street, N.W., Washington, D.C. 20549-0506.
+
+ SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") is adopting amendments to rule 31a-2 [17 CFR 270.31a-2] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Investment Company Act"), and rule 204-2 [17 CFR 275.204-2] under the Investment Advisers Act of 1940 [15 U.S.C. 80b] (the "Advisers Act").<SUP> 1 </SUP>
+
+<END HEADER>
+
+<h>EXECUTIVE SUMMARY </h>
+
+The Commission is adopting amendments to rules regarding electronic recordkeeping by registered investment companies ("funds") and registered investment advisers ("advisers"). The federal securities laws require funds, advisers, and others to make and keep books and records. The recordkeeping requirements are a key part of the Commission's regulatory program for funds and advisers, as they allow us to monitor fund and adviser operations, and to evaluate their compliance with federal securities laws. Last year, Congress passed the Electronic Signatures in Global and National Commerce Act (the "Electronic Signatures Act," "Act," or "ESIGN") to facilitate the use of electronic records and signatures in interstate and foreign commerce.<SUP> 2 </SUP> Consistent with the purposes and goals of the Electronic Signatures Act, we are adopting rule amendments that expand the circumstances under which funds and advisers may keep records on electronic storage media, and clarify and update our recordkeeping rules. We are also interpreting rules 31a-2 and 204-2 to be the exclusive means by which funds and advisers can comply with the recordkeeping provisions of the Electronic Signatures Act. 
+
+ I. DISCUSSION<h>A. Amendments to Rules 31a-2 and 204-2 </h>
+
+The Commission is amending rules 31a-2 and 204-2 to permit funds and advisers to keep all of their records in an electronic format. Prior to today's amendments, rules 31a-2 and 204-2 provided that funds and advisers could keep records on electronic storage media only if the records were originally created or received in an electronic format.<SUP> 3 </SUP> The Commission's staff had issued no-action letters to conditionally permit funds and advisers to convert records into an electronic format and retain them electronically.<SUP> 4 </SUP> In March of this year we proposed rule amendments to incorporate these no-action letters into rules 31a-2 and 204-2, while eliminating many of the conditions that apply only to electronic records created from non-electronic originals. We also proposed to clarify the obligation of funds and advisers to provide copies of their records to Commission examiners, and to incorporate terminology used in electronic recordkeeping rules under the Securities Exchange Act of 1934 into rules 31a-2 and 204-2.<SUP> 5 </SUP> We received seven comment letters addressing the proposal.<SUP> 6 </SUP> Commenters supported most of the proposed amendments, and we are adopting them substantially as proposed, with a few changes in response to concerns expressed by commenters.
+
+Under revised rules 31a-2 and 204-2, funds and advisers are permitted to maintain records electronically if they establish and maintain procedures: (i) to safeguard the records from loss, alteration, or destruction, (ii) to limit access to the records to authorized personnel, the Commission, and (in the case of funds) fund directors, and (iii) to ensure that electronic copies of non-electronic originals are complete, true, and legible.<SUP> 7 </SUP> In response to a suggestion of one commenter, we are expanding rules 31a-2 and 204-2 to include all records that are required to be maintained and preserved by any rule under the Investment Company or Advisers Acts ("other recordkeeping requirements") so that it is clear that if funds and advisers keep records electronically they must comply with the conditions of these rules.<SUP> 8 </SUP> 
+
+We are also amending the rules to clarify the obligation of funds and advisers to provide copies of their records to Commission examiners. The amendments make clear that funds and advisers may be requested to promptly provide (i) legible, true, and complete copies of records in the medium and format in which they are stored, and printouts of such records; and (ii) means to access, view, and print the records.<SUP> 9 </SUP> 
+
+We are not adopting a proposed amendment that would have stated that records are to be provided in no case more than one business day after a request.<SUP> 10 </SUP> Some commenters were concerned that such an amendment could preclude funds and advisers from reaching an accommodation with the examination staff to produce certain documents immediately and other documents, that are not immediately accessible, on a delayed basis.<SUP> 11 </SUP> We agree that such arrangements when entered into and performed in good faith by funds or advisers can facilitate the examination process. While the "promptly" standard imposes no specific time limit, we expect that a fund or adviser would be permitted to delay furnishing electronically stored records for more than 24 hours only in unusual circumstances. At the same time, we believe that in many cases funds and advisers could, and therefore will be required to, furnish records immediately or within a few hours of request.<SUP> 12 </SUP><h>B. Electronic Signatures Act </h>
+
+Under the Electronic Signatures Act, an agency's recordkeeping requirements may be met by retaining electronic records that accurately reflect the information set forth in the record, and remain accessible to all persons who are entitled to access, in a format that can be accurately reproduced.<SUP> 13 </SUP> The Act allows us to interpret this provision pursuant to our authority under the Investment Company and Advisers Acts.<SUP> 14 </SUP> Our interpretation of the Electronic Signatures Act must be consistent with the Act and not add to its requirements.<SUP> 15 </SUP> The interpretation must be based on findings that (i)our interpreting regulations are substantially justified; (ii) the methods selected to carry out our purposes are substantially equivalent to the requirements imposed on records that are not electronic records and will not impose unreasonable costs on the acceptance and use of electronic records; and (iii) the methods selected to carry out our purposes do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures.<SUP> 16 </SUP> The Electronic Signatures Act also explicitly authorizes agencies to interpret the Act's electronic recordkeeping provisions to specify performance standards to assure accuracy, record integrity, and accessibility of electronically retained records.<SUP> 17 </SUP> 
+
+We interpret the Electronic Signatures Act with respect to the Investment Company Act and Advisers Act to require funds and advisers to comply with the requirements of rules 31a-2 and 204-2 when they keep required records on electronic storage media. Funds and advisers, therefore, can comply with the requirements of the Electronic Signatures Act only by complying with the requirements of amended rules 31a-2 and 204-2. This interpretation includes any records, maintained in an electronic format, that are required by any rule under the Investment Company or Advisers Acts.<SUP> 18 </SUP> In the proposing release, we asked for comment on whether these interpretations were consistent with the Electronic Signatures Act's requirements.<SUP> 19 </SUP> Commenters generally agreed that our interpretation of the Electronic Signatures Act was reasonable. As discussed below, our rules and interpretation satisfy all requirements of the Electronic Signatures Act.<h>1. Consistency With Electronic Signatures Act </h>
+
+Rules 31a-2 and 204-2 and the other recordkeeping requirements are consistent with the Electronic Signatures Act. The Act permits federally required records to be retained in an electronic format, and we are amending rules 31a-2 and 204-2 to permit funds and advisers to maintain all required records electronically.<h>2. No Additional Requirements </h>
+
+Rules 31a-2 and 204-2 and the other recordkeeping requirements do not impose requirements in addition to those imposed by the Act. The Electronic Signatures Act requires electronic records to be stored in a manner that ensures that they are accurate, accessible, and capable of being accurately reproduced for later reference.<SUP> 20 </SUP> The rules require funds and advisers that maintain their records electronically to comply with certain conditions that are consistent with the requirements of the Act and that are designed to bring about fund and adviser compliance with the Act's requirements.<SUP> 21 </SUP><h>3. Substantial Justification </h>
+
+Our rules require funds and advisers to maintain a wide variety of documents that we use to verify compliance with federal securities law.<SUP> 22 </SUP> The value of these records is entirely dependent on their integrity and accessibility. If funds and advisers are not required to protect their records from inadvertent or intentional alteration or destruction<SUP> 23 </SUP> and provide examiners with meaningful access to all required records,<SUP> 24 </SUP> then the records become unreliable,<SUP> </SUP>and the examination process moot. Therefore, we find that our interpretation of the Electronic Signatures Act, that funds and advisers must comply with rules 31a-2 and 204-2, is substantially justified.<h>4. Requirements Equivalent to Requirements for Other Record Formats </h>
+
+Rules 31a-2 and 204-2 and the other recordkeeping requirements subject electronic records to conditions that are substantially equivalent to conditions under which funds and advisers keep paper and micrographic records. These conditions are designed to ensure that the records exist in a form that is legible, authentic, complete, and accessible. While all records, regardless of format, must comply with certain conditions,<SUP> 25 </SUP> other requirements, which would be superfluous for paper records, apply only to electronic and micrographic records.<SUP> 26 </SUP> 
+
+Funds and advisers that maintain records in an electronic format must comply with several requirements that have no micrographic or paper equivalent. For example, funds and advisers must have procedures to reasonably protect electronic records from loss, alteration, or destruction,<SUP> 27 </SUP> to limit access to electronic records,<SUP> 28 </SUP> and to assure that electronic records that are created from hard copy are complete, true, and legible.<SUP> 29 </SUP> We believe that these additional requirements are necessary because of the unique vulnerability of unprotected electronic records to undetectable alteration and falsification.<h>5. No Unreasonable Costs on Acceptance and Use of Electronic Records </h>
+
+We have permitted funds and advisers to retain records electronically for over fifteen years.<SUP> 30 </SUP> During this period electronic recordkeeping by funds and advisers has become widespread.<SUP> 31 </SUP> We conclude that rules 31a-2 and 204-2 and the other recordkeeping requirements have not and will not impose unreasonable costs on the acceptance and use of electronic recordkeeping.<h>6. Specific Technology or Technical Specification </h>
+
+The Electronic Signatures Act generally prohibits us from requiring or according greater legal status or effect to the implementation or application of a specific technology or technical specification. However, the Act does permit us to specify performance standards to assure the accuracy, integrity, and accessibility of required records, even if our standards require funds and advisers to implement or apply a specific technology or technical specification to their storage system.<SUP> 32 </SUP> Rules 31a-2 and 204-2 have been deliberately crafted to be technologically neutral, leaving funds and advisers free to adopt any combination of technological and manual protocols that meet the requirements of the rules. In any event, even if the rules were interpreted to favor a specific technology or technical specification, they would nonetheless be a valid exercise of our interpretive authority, as they serve the important governmental objective of assisting us to oversee fund and adviser compliance with the federal securities laws, and are substantially related to the achievement of that objective.<SUP> 33 </SUP> The continuing accessibility and integrity of fund and adviser records are critical to the fulfillment of our oversight responsibilities.<h>C. Effective Date </h>
+
+The effective date for these amendments is May 31, 2001. In most cases, the Administrative Procedures Act ("APA") requires that a rule amendment be published in the Federal Register at least 30 days prior to its effective date unless the promulgating agency can show good cause for shortening this interim period.<SUP> 34 </SUP> The Electronic Signatures Act becomes effective on June 1, 2001, at which point funds and advisers may opt to store required records electronically, so long as the records are accessible and accurate.<SUP> 35 </SUP> As described above, the Electronic Signatures Act authorizes the Commission to interpret these terms. A gap between the effective dates of the Electronic Signatures Act and our rule amendments would needlessly create confusion about the appropriate standards for electronic recordkeeping. During the period between the effective dates, funds and advisers would be forced to choose between maintaining their electronic records in accordance with the Act's general but operative standards, or relying instead on the more specific, but as yet not effective, standards set in rules 31a-2 and 204-2. We find that there is good cause for these amendments to become effective on May 31, 2001. 
+
+The APA also authorizes acceleration of the effective date of a rule that "relieves a restriction."<SUP> 36 </SUP> The amendments to rules 31a-2 and 204-2 allow funds and advisers to store all of their required records electronically, regardless of how the documents originated or were received, thus removing the prior restrictions placed on storage of documents created or received on paper.<h>II. COST-BENEFIT ANALYSIS </h>
+
+In proposing the amendments to rules 31a-2 and 204-2, we considered the costs and benefits that the amendments would generate. Although we encouraged commenters to address the proposal's costs and benefits and to submit their own estimates of what they might be, we received no comment specifically addressing this issue. 
+
+We believe the amendments will impose few, if any, costs on funds or advisers that are not already required. As described above, the amended rules allow funds and advisers to maintain required records on electronic storage media, regardless of whether the record was created or received electronically. Our rules already permit funds and advisers to retain records electronically if they were created or received electronically, and these amendments do not materially change those requirements. The only effect will be on funds and advisers who choose to convert records into an electronic format, and they must simply do so in the same fashion as they already keep electronically created or received records. Electronic storage remains optional with the adoption of these amendments. We assume that funds and advisers will not select the electronic storage option provided for in the amended rules unless doing so is less expensive (or otherwise more efficient and, therefore, supported by business considerations). It remains our belief that the amended rules will allow funds and advisers greater flexibility to make business decisions about recordkeeping and, when appropriate, opt for electronic storage with potential cost savings and other benefits. 
+
+In addition, we are adopting minor amendments to clarify the obligation of funds and advisers to provide records to our examination staff and, in the case of funds, fund directors, and minor technical amendments to conform the language of rules 31a-2 and 204-2 to the recordkeeping rules under the Securities Exchange Act of 1934. We anticipate few, if any, costs to funds or advisers as a result of these amendments.<h>III. EFFECTS ON EFFICIENCY, COMPETITION, AND CAPITAL FORMATION </h>
+
+Section 2(c) of the Investment Company Act requires the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is consistent with the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. We requested comment on this issue in the Proposing Release, and we have considered these factors in determining to adopt the amendments as proposed. We did not receive any comments directly addressing this issue. 
+
+The amendments to rules 31a-2 and 204-2 promote efficiency by giving funds and advisers that establish procedures to assure record soundness the option of maintaining their electronic records in the format most suited to their business needs. The rules' standards are flexible, and permit funds and advisers to modify their electronic record retention practices to take advantage of advances in electronic storage technology. 
+
+We do not believe that the rule amendments will have an impact on competition. The rule amendments apply to all advisers and funds equally and should provide no competitive advantage or burden to any industry sector. The rule amendments should also have no impact on competition within the computer industry. The amendments do not favor the use of any particular form of electronic recordkeeping. They simply require that whatever technology a fund or adviser chooses, the fund or adviser have specific types of procedures to protect the integrity and accessibility of the electronic records. 
+
+We believe that the amendments are unrelated to and will have little or no effect on capital formation.<h>IV. REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+Pursuant to section 605(b) of the Regulatory Flexibility Act (5 U.S.C. 605(b)), the Acting Chairman of the Commission has certified that the proposed amendments to rules 31a-2 and 204-2 will not have a significant economic impact on a substantial number of small entities. While the amendments could potentially affect all funds and advisers, including small entities, the economic impact of the amendments will be insignificant. The Commission prepared an Initial Regulatory Flexibility Analysis ("IRFA") in accordance with 5 U.S.C. 603 regarding amendments to rule 31a-2 under the Investment Company Act and rule 204-2 under the Advisers Act. The Proposing Release summarized the IRFA and requested commenters to address matters discussed in the IRFA. We received no comment on the IRFA. The Acting Chairman's certification is attached to this release as Appendix A.<h>V. PAPERWORK REDUCTION ACT </h>
+
+The amendments do not require a new collection of information. They affect only the manner in which registrants can store information that must be collected under rules 31a-2 and 204-2. In connection with rules 31a-2 and 204-2, the Commission previously submitted to the Office of Management and Budget, pursuant to the Paperwork Reduction Act, a request for approval and received OMB control numbers for the rules, OMB Control Nos. 3235-0179 (rule 31a-2), and 3235-0278 (rule 204-2).<h>VI. STATUTORY AUTHORITY </h>
+
+<END MAIN TEXT>
+
+1 Unless otherwise noted, all references to rule 31a-2 or rule 204-2, or to any paragraph of those rules, will be to 17 CFR 270.31a-2 and 17 CFR 275.204-2, as amended by this release.
+
+2 Electronic Signatures in Global and National Commerce Act, Pub. L. No. 106-229, 114 Stat. 464 (2000) [15 U.S.C. 7001], Preamble.
+
+3 See Electronic Recordkeeping by Investment Companies and Investment Advisers, Investment Company Act Release No. 24890 (Mar. 13, 2001) [66 FR 15369 (Mar. 19, 2001)] ("Proposing Release") at n.4 and accompanying text.
+
+4 See Oppenheimer Management Corporation, SEC No-Action Letter (Aug. 28, 1995); DST Systems, Inc., SEC No-Action Letter (Feb. 2, 1993).
+
+5 Proposing Release, supra note 3, at nn.7-12 and accompanying text.
+
+6 The comment letters are available for public inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, N.W., Washington, D.C. (File No. S7-06-01).
+
+7 Rules 31a-2(f)(3) and 204-2(g)(3). We requested commenters to address whether rules 31a-2 and 204-2 should require funds and advisers to preserve records in a non-rewriteable, non-erasable (also known as "write once, read many," or "WORM") format. Commenters concurred in our preliminary assessment, at the proposing stage, that the costs of such a requirement would be likely to outweigh the benefits (with respect to advisers and funds). Based on our consideration of costs, benefits, and other factors described in the proposing release we are not adopting such a requirement at this time. We recognize that the standards for electronic recordkeeping we are adopting for funds and advisers are different from the rules that we have adopted for broker-dealers, which require brokerage records to be preserved in a WORM format. We have not experienced any significant problems with funds or advisers altering stored records. Moreover, most advisory and mutual fund arrangements involve multiple parties ( e.g., brokers, custodians, transfer agents), each with its own, often parallel, recordkeeping requirement. As a result, our compliance examiners typically have an alternative means to verify the accuracy of adviser and fund records. In light of these factors, the costs of requiring funds and advisers to invest in new electronic recordkeeping technologies may not be justified.
+
+8 Prior to the adoption of these amendments, rule 31a-2(f)(1) was limited to records required to be maintained and preserved under rules 31a-1(a) through (d) and 31a-2 (a) through (c), and rule 204-2(g)(1) was limited to records required to be maintained under rule 204-2. Other rules under both Acts contain additional recordkeeping requirements. See, e.g. , rule 2a-7(c)(10) [17 CFR 270.2a-7(c)(10)] (money market funds must keep a written copy of certain procedures for not less than six years); rule 8b-16(c) [17 CFR 270.8b-16(c)] (funds must maintain certain documents concerning dividend reinvestment plans in accordance with section 31 of the Investment Company Act); rule 10f-3(b)(12)(ii) [17 CFR 270.10f-3(b)(12)(ii)] (funds must maintain and preserve for not less than six years a written record of certain security transactions during the existence of an underwriting or selling syndicate); rule 11a-3(a)(2)(i) [17 CFR 270.11a-3(a)(2)(i)] (funds must maintain and preserve records of any determination of the costs incurred in connection with exchange offers for not less than six years in accordance with section 31(b) of the Investment Company Act); rule 12b-1(f) [17 CFR 270.12b-1(f)] (funds must preserve copies of any plan, agreement or report under this rule for not less than six years); rule 17e-1(d)(2) [17 CFR 270.17e-1(d)(2)] (funds must maintain and preserve for at least six years a written record of certain brokerage transactions); rule 17j-1(f)(1) [17 CFR 270.17j-1(f)(1)] (each fund that is required to adopt a code of ethics must make the corresponding records available to the Commission or its representatives for inspection); rule 203A-2(e)(4) [17 CFR 275.203A-2(e)(4)] (advisers must maintain a record of the States in which the adviser has determined it would be required to register for not less than five years); and rule 204-1(c) [17 CFR 275.204-1(c)] (advisers must maintain copies of Part II of Form ADV and any brochure delivered to client).
+
+9 Rules 31a-2(f)(2) and 204-2(g)(2). We have eliminated a proposed requirement that funds and advisers provide means to search and sort, as well as access, view, and print records. When their recordkeeping systems have the capacity to automatically "search" and "sort" records, funds and advisers typically voluntarily make those functions available to our examination staff. We did not intend to require funds and advisers to add "search" and "sort" functions to systems that do not have that capability.
+
+10 See proposed rules 31a-2(f)(2)(ii) and 204-2(g)(2)(ii).
+
+11 Rule 31a-2(a) generally requires records to be preserved in an "easily accessible" place for only the first two years of the retention period.
+
+12 See Investment Company Act; Use of Magnetic Tape, Disk, or Other Computer Storage Medium, Investment Company Act Release No. 15410 (Nov. 13, 1986) [51 FR 42207 (Nov. 24, 1986)].
+
+13 ESIGN section 101(d)(1).
+
+14 Under the Electronic Signatures Act, a federal regulatory agency (like the Commission) that is responsible for rulemaking under any other statute (such as the Investment Company Act or the Advisers Act) "may interpret section 101 [of the Electronic Signatures Act] with respect to such statute through the issuance of regulations pursuant to a statute; or to the extent such agency is authorized by statute to issue orders or guidance, the issuance of orders or guidance of general applicability that are publicly available and published (in the Federal Register in the case of an order or guidance issued by a Federal regulatory agency)." ESIGN section 104(b).
+
+15 ESIGN section 104(b)(2)(A) and (B).
+
+16 ESIGN section 104(b)(2)(C).
+
+17 ESIGN section 104(b)(3). Such performance standards may be specified in a manner that imposes a requirement in violation of the general prohibition against selecting methods that require or accord greater legal status or effect to the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures if the requirement (i) serves an important governmental objective and (ii) is substantially related to the achievement of that objective.
+
+18 See supra note 8 and accompanying text.
+
+19 Proposing Release, supra note 3, at nn.13-15 and accompanying text.
+
+20 ESIGN section 101(d)(1).
+
+21 The rules' general requirements that funds and advisers have procedures to protect electronic records from alteration, loss, or destruction, to limit unauthorized access, and verify the integrity of electronic copies of hard copy originals ensure that an electronic record is accurate from the outset, and limit the possibility that an electronic record will be corrupted during its retention period. The rules' requirements regarding indexing, and the obligation of funds and advisers to provide records to examiners and fund directors foster the accessibility of electronic records.
+
+22 For example, funds must keep accounts, books and other documents that form the basis for the fund's financial statements, and itemized records detailing purchases and sales of securities, receipts and deliveries of securities, receipts and disbursements of cash, and all other debits and credits. See rule 31a-1. Advisers must maintain records such as ledgers reflecting asset, liability, reserve, capital, income, and expense accounts, memoranda of instructions from clients, and written communications received and sent relating to recommendations and advice, and receipt, disbursement or delivery of funds or securities. See rule 204-2.
+
+23 See rules 31a-2(f)(3)(iii) and 204-2(g)(3)(iii) (requiring procedures to ensure the quality of electronic copies of non-electronic records); rules 31a-2(f)(2)(iii) and 204-2(g)(2)(iii) (requiring that funds and advisers separately store duplicates of electronic records); rules 31a-2(f)(3)(ii) and 204-2(g)(3)(ii) (requiring funds and advisers to limit access to electronic records); rules 31a-2(f)(3)(i) and 204-2(g)(3)(i) (requiring funds and advisers to adopt procedures to maintain and preserve electronic records, so as to reasonably safeguard them from loss, alteration, or destruction).
+
+24 See rules 31a-2(f)(2)(ii)(A) and 204-2(g)(2)(ii)(A) (requiring funds and advisers to provide promptly a legible, true, and complete copy of an electronically stored record upon request from the Commission or other parties entitled to access the records); rules 31a-2(f)(2)(i) and 204-2(g)(2)(i) (requiring funds and advisers to arrange and index their electronic and micrographic records in a way that permits easy location and retrieval); and rules 31a-2(f)(2)(ii)(C) and 204-2(g)(2)(ii)(C) (requiring funds and advisers to provide means to access, view, and print electronic records).
+
+25 See, e.g., rule 31a-2(a)(1) (funds to preserve required records permanently, the first two years in an easily accessible place); and rule 204-2(a) (all registered advisers must keep their required records true, accurate, and current).
+
+26 For example, the requirement that funds and advisers that keep micrographic or electronic records provide promptly (i) a legible, true, and complete copy of the record in the medium and format in which it is stored, (ii) a legible, true, and complete printout of the record, and (iii) means to access, view, and print the records is unnecessary for paper records, which require no special treatment to make them readable and reproducible.
+
+27 Rules 31a-2(f)(3)(i) and 204-2(g)(3)(i).
+
+28 Rules 31a-2(f)(3)(ii) and 204-2(g)(3)(ii).
+
+29 Rules 31a-2(f)(3)(iii) and 204-2(g)(3)(iii).
+
+30 The Commission amended rules 204-2 and 31a-2, in 1985 and 1986 respectively, to permit advisers and funds to store required records in computer systems. See Amendment to Investment Advisers Act Recordkeeping Rule, Investment Advisers Act Release No. 952 (Jan. 11, 1985) [50 FR 2542 (Jan. 17, 1985)]; Investment Company Act; Use of Magnetic Tape, Disk, or Other Computer Storage Medium, Investment Company Act Release No. 15410 (Nov.13, 1986) [51 FR 42207 (Nov. 24, 1986)].
+
+31 With today's amendments to rules 31a-2 and 204-2, the conditions under which funds and advisers may convert and store hard copy records as electronic records will be more flexible than the conditions of the staff no-action letters. The conditions under which other records may be stored electronically are unchanged. As a result, we are confident that rules 31a-2 and 204-2, as amended, will impose no greater burden on electronic recordkeeping than has been imposed to date.
+
+32 ESIGN section 104(b)(3)(A).
+
+33 ESIGN section 104(b)(3)(A).
+
+34 5 U.S.C. 553(d)(3).
+
+35 ESIGN section 101(d)(1).
+
+36 5 U.S.C. 553(d)(1).
+
+37 17 CFR 270.0-10.
+
+38 17 CFR 275.0-7.  http://www.sec.gov/rules/final/ic-24991.htm

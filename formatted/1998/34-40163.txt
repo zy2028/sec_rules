@@ -1,0 +1,215 @@
+https://www.sec.gov/rules/final/34-40163.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Description of the Proposed Rule
+
+	III.0.0.0: III. Discussion of Significant Issues
+
+		III.A.0.0: A. Reporting Threshold
+
+		III.B.0.0: B. Attestation Requirement
+
+		III.C.0.0: C. Public Availability
+
+		III.D.0.0: D. Timing
+
+		III.E.0.0: E. Reporting Requirements
+
+		III.F.0.0: F. Report Format
+
+	IV.0.0.0: IV. Costs and Benefits of the Rules and Their Effectson Competition, Efficiency, and Capital Formation
+
+		IV.A.0.0: A. Cost Benefit Analysis
+
+		IV.B.0.0: B. Efficiency, Competition, and Capital Formation
+
+	V.0.0.0: V. Final Regulatory Flexibility Analysis
+
+	VI.0.0.0: VI. Paperwork Reduction Act
+
+	VII.0.0.0: VII. Statutory Analysis
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Year 2000 Readiness Reports
+
+To Be Made by Certain Transfer Agents 
+
+ SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
+
+(Release No. 34-40163; File No. S7-8-98)
+
+RIN 3235-AH42 
+
+ Year 2000 Readiness Reports To Be Made by Certain Transfer Agents 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule. 
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting Rule 17Ad-18 under the Securities Exchange Act of 1934 ("Exchange Act") to require certain transfer agents to file with the Commission two reports regarding their Year 2000 compliance. The reports will increase transfer agent awareness of the specific steps they should be taking to prepare for the Year 2000; help coordinate industry testing and contingency planning; supplement the Commission's examination module for Year 2000 issues and identify potential Year 2000 compliance problems; and provide information regarding the securities industry’s preparedness for the Year 2000. The reports are designed to be available to the public, which will enable issuers and other parties to assess the risks of doing business with a transfer agent that may not be Year 2000 compliant.
+
+ EFFECTIVE DATE: August 12, 1998
+
+ FOR FURTHER INFORMATION CONTACT: Jerry W. Carpenter, Assistant Director, 202/942-4187; Thomas C. Etter, Jr., Special Counsel, 202/942-0178; or Jeffrey Mooney, Special Counsel, 202/942-4174, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-1, Washington, D.C. 20549. Supplementary Information
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+ At midnight on December 31, 1999, unless the proper modifications have been made, the program logic in many of the vast majority of the world's computer systems will start to produce erroneous results because, among other things, the systems will incorrectly read the date "01/01/00" as being January 1 of the year 1900 or another incorrect date. In addition, systems may fail to detect that the Year 2000 is a leap year. Problems also can arise earlier than January 1, 2000, as dates in the next millennium are entered into non-Year 2000 compliant programs. Year 2000 Problems could have negative repercussions throughout the world's financial systems because of the extensive interrelationship and information sharing between U.S. and foreign financial firms and markets. <sup> 1 </sup> 
+
+ The Commission views the Year 2000 problem as an extremely serious issue. A failure to assess properly the extent of the problem, remediate systems that are not Year 2000 compliant, and then test those systems could endanger the nation’s capital markets and place at risk the assets of millions of investors. In light of this, both transfer agents and the Commission are working hard to address the industry’s Year 2000 Problems. 
+
+ As part of its ongoing efforts relating to the Year 2000 on March 5, 1998, the 
+
+Commission requested comment on proposed Rule 17Ad-18 that would require transfer agents to file at least one report with the Commission regarding its Year 2000 compliance. <sup> 2 </sup> The proposed rule noted that transfer agents present special considerations for the Commission because unlike other entities regulated under the Exchange Act transfer agents have no self-regulatory organization ("SRO") to assist them and the Commission in addressing Year 2000 issues. <sup> 3 </sup> Therefore, the Commission’s only information from non-bank transfer agents is directly from the transfer agent themselves.
+
+ The Commission received 26 comment letters in response to the proposed rule. <sup> 4 </sup> The majority of the commenters generally supported the spirit of the Commission’s proposed rule with some commenters making suggestions on how they believed one or more aspects of the proposed rule could be improved. However, the majority of commenters objected to the requirement for an independent accountant’s report and objected to the Year 2000 reports submitted by the transfer agents and related accountant’s report being made available to the public. Based on the comments received, the Commission is adopting the proposed rule with changes discussed below.<h>II. Description of the Proposed Rule </h>
+
+ The Commission proposed Rule 17Ad-18 to require non-bank transfer agents to file at least one report with the Commission regarding their Year 2000 compliance. Under the proposed rule, a non-bank transfer agent was a transfer agent whose appropriate regulatory agency ("ARA")<SUP> </SUP>was the Commission. <sup> 5 </sup> Transfer agents that were also banks and whose ARA was one of the federal banking agencies would have been exempt from the proposed rule. The initial report would have been due no later than 45 days after the Commission adopted the rule. Non-bank transfer agents that did not qualify for an exemption under existing Rule 17Ad-13(d) would have been required to submit follow-up reports to the Commission on August 31, 1998, and August 31, 1999. <sup> 6 </sup> The follow-up reports also would have included an attestation by an independent public accountant as to whether there was a reasonable basis for the non-bank transfer agent's assertions in the reports. 
+
+ As noted in the proposed rule, the Commission has advised all transfer agents that if a transfer agent’s computer systems have Year 2000 Problems, the transfer agent’s record may be inaccurate or not current and therefore be in violation of Rules 17Ad-6 and 17Ad-7 under the Exchange Act. <sup> 7 </sup><h>III. Discussion of Significant IssuesA. Reporting Threshold </h><h>A. Reporting Threshold </h>
+
+ The Office of Thrift Supervision ("OTS") requested that the Commission extend the exemption in the proposed rule for bank transfer agents to include savings associations regulated by the OTS. The OTS stated that savings associations, unlike other non-bank transfer agents, are subject to comprehensive examinations by a Federal banking agency, using the same uniform examination standards developed under the oversight of the Federal Financial Institutions Examination Council. The OTS also noted that it is subject to similar Congressional oversight on Year 2000 issues as the Commission and the other Federal bank regulatory agencies. The OTS believes that it would be duplicative and inconsistent to require savings associations to file the reports with the Commission exempting banks from the requirement.
+
+ The Commission agrees with the OTS. Accordingly, the rule as adopted excludes from its reporting requirements transfer agents that are savings associations regulated by the OTS. Therefore the term "non-bank transfer agent" used in the rule and in the remainder of this release means a transfer agent whose: (i) appropriate regulatory agency, as that term is defined by 15 U.S.C. 78(c)(34)(B), is the Commission; but (ii) is not a savings association, as defined in Section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813, which is regulated by the OTS. Because the Commission will continue to be the ARA for these non-bank transfer agents, the Commission will continue to consult with the OTS about the results of their examinations.<h>B. Attestation Requirement </h>
+
+ The proposed rule would have required transfer agents that did not qualify for an exemption under existing Rule 17Ad-13(d) to make assertions about their efforts to address Year 2000 problems and to engage an independent public accountant to attest to their assertions. <sup> 8 </sup> As proposed, each non-bank transfer agent would have been required to assert:
+
+ (1) whether it has developed written plans for preparing and testing its computer systems for potential Year 2000 Problems;
+
+ 
+
+ (2) whether the board of directors, or similar body, has approved these plans, and whether a member of the non-bank transfer agent’s board of directors, or similar body, is responsible for executing the plans;
+
+ 
+
+ (3) whether its Year 2000 remediation plans address all domestic and international operations, including the activities of its subsidiaries, affiliates, and divisions;
+
+ (4) whether it has assigned existing employees, hired new employees, or engaged third parties to execute its Year 2000 remediation plans; and
+
+ (5) whether it has conducted internal and external testing of its Year 2000 solutions and whether the results of those tests indicate that the non-bank transfer agent has modified its software to correct Year 2000 problems.
+
+ The American Institute of Certified Public Accountants ("AICPA") commented that the required attestation report would be difficult for independent public accountants to provide. <sup> 9 </sup> The AICPA explained that some of the required assertions are not appropriate for accountant attestation because the assertions are not capable of reasonably consistent measurement against established criteria. Currently, there are no established criteria related to Year 2000 remediation efforts. The lack of established criteria would likely result in significant variation in the examination procedures performed by independent public accountants and thus reduce the usefulness of the attestation reports. In addition, the AICPA expressed concern that the purpose and conclusions of the attestation report could be misunderstood. The AICPA was primarily concerned that uninformed users of the attestation reports would place undue reliance on them.
+
+ The AICPA suggested that an "agreed-upon procedures" engagement, instead of an attestation engagement, would more effectively meet the Commission’s goals. Pursuant to such an engagement, non-bank transfer agents would engage independent public accountants to perform and to report on specific procedures designed to meet the Commissions objectives. This would eliminate the variability of examination procedures performed by independent public accountants and thus increase the consistency of the reports the Commission would receive. The AICPA’s letter outlined elements of an agreed upon procedures report and offered to follow-up with the Commission staff regarding the development of specific procedures for a Year 2000 engagement. 
+
+ The Commission is deferring consideration of whether to adopt a requirement that the second report be evaluated by an independent public accountant. The Commission, however, will consider such a requirement if the accounting industry recommends a standard which can be used by public accountants in connection with the second report. <sup> 10 </sup><h>C. Public Availability </h>
+
+ In the proposed rule, the Commission expressed its preliminary view that it should make publicly available non-bank transfer agent reports regarding their Year 2000 remediation efforts. Certain commenters expressed the following concerns: (i) members of the public could place undue reliance on the reports, (ii) the technical nature of the reports may confuse investors, (iii) detailed testing reports could be misleading and unnecessarily alarming, and (iv) the reports could contain confidential proprietary information.
+
+ However, the Commission believes that the public’s interest is best served by requiring full and open disclosure. Allowing the public, particularly other non-bank transfer agents and counterparties, to have access to the information reported by non-bank transfer agents will enable interested persons to assess the Year 2000 readiness of a non-bank transfer agent with which they are doing business. For example, after receiving a non-bank transfer agent’s report, an issuer might request additional information or assurances if the non-bank transfer agent does not appear to be taking the steps necessary to be Year 2000 compliant. In the absence of such assurances, the issuer could determine whether it wishes to continue its dealings with that non-bank transfer agent. Accordingly, the final rule provides that these reports will be available to the public.<h>D. Timing </h>
+
+ Under the proposed rule, the initial report would have evaluated the efforts of non-bank transfer agents as of December 31, 1997, and would have been required to be filed no later than 45 days after the Commission adopted the proposed rule. The follow-up reports would have evaluated non-bank transfer agent efforts as of June 30, 1998 and June 30, 1999, and would have been due August 31, 1998, and August 31, 1999, respectively.
+
+ Some commenters expressed concerns about making reports based on old data. These commenters explained that non-bank transfer agents might not have retained the information needed to prepare the reports and would require non-bank transfer agents to provide data that was outdated and misleading.
+
+ In light of these concerns, the rule adopted today by the Commission requires non-bank transfer agents to file the initial report with the Commission by August 31, 1998. This report should reflect the status of the non-bank transfer agent’s Year 2000 efforts as of July 15, 1998. The rule requires transfer agents to submit only one follow-up report, which must be filed with the Commission by April 30, 1999, and should reflect the status of the transfer agent’s Year 2000 efforts as of March 15, 1999.
+
+The rule adopted today also requires a non-bank transfer agent whose registration with the Commission becomes effective between the adoption of this rule and December 31, 1999, to file Part I of Form TA-Y2K with the Commission no later than 30 days after their registration becomes effective describing their Year 2000 compliance as of the date of their registration. New transfer agents whose registration with the Commission becomes effective between January 1, 1999, and April 30, 1999, would be required to file the second report due on April 30, 1999.<h>E. Reporting Requirements </h>
+
+ As previously discussed, the proposed rule would have required certain non-bank transfer agents to discuss the steps they have taken to address Year 2000 Problems. More specifically, non-bank transfer agents would have been required to (i) indicate whether their board of directors or similar body has approved and funded written Year 2000 remediation plans that address all major computer systems; (ii) describe their Year 2000 staffing efforts and the work performed by Year 2000 dedicated staff; <sup> 11 </sup> (iii) discuss their progress on each stage of preparation for the Year 2000; <sup> 12 </sup> (iv) indicate if they have written contingency plans to deal with Year 2000 problems that may occur; <sup> 13 </sup> and (v) identify what levels of management are responsible for Year 2000 remediation efforts.
+
+ One commenter suggested certain changes to the specific reporting requirements to better clarify the information sought by the Commission. For example, the proposed rule would have required non-bank transfer agents to discuss the extent to which it has assigned existing employees, or engaged third parties in the Year 2000 effort. In addition, non-bank transfer agents would have been required to identify the levels of management involved in the Year 2000 efforts, discuss the specific responsibilities of these managers, and provide an estimate of the time they have spent on Year 2000 efforts. The commenter explained that these proposed requirements may be very burdensome, particularly for those firms that have comprehensive, complex-wide Year 2000 plans. Fixing Year 2000 problems may require the dedicated efforts of a significant number of employees and consultants. In addition, the tasks and responsibilities involved are detailed, extensive, and constantly changing.
+
+ The Commission agrees that some modification and clarification of the reporting requirements is warranted. The rule adopted today requires non-bank transfer agents to provide a summary of the efforts of individuals or groups of individuals assigned to work on the Year 2000 Problem. The non-bank transfer agent will not have to provide an estimate of the time that its management has spent on Year 2000 efforts. Finally, the non-bank transfer agent must report the number and description of material exceptions identified during the internal and external testing of its software that are unresolved as of the report date. The Commission is leaving the determination of what constitutes a material exception to the non-bank transfer agent’s judgment.<h>F. Report Format </h>
+
+ The proposed rule would have required certain non-bank transfer agents to discuss, in narrative format, their efforts to address Year 2000 Problems. The National Association of Securities Dealers Regulation ("NASDR") commented that the Commission should prescribe an objective format, such as a check-the-box questionnaire, for non-bank transfer agents to use when reporting on their Year 2000 efforts. The NASDR explained that an open narrative format might lead to great disparity in the nature and detail of the reports the non-bank transfer agents would submit. Providing an objective reporting format would produce consistent results, improve the accuracy and comparability of reports received, and reduce the time required to summarize, track, analyze, and report the information received.
+
+ The Commission agrees that the checklist format suggested by the NASDR may be a more efficient way of collecting certain information and believes that prescribing such a format would decrease the burden the Year 2000 reporting requirements impose on non-bank transfer agents. However, the Commission is concerned that by limiting the reporting requirements to a check-the-box format, the largest, most significant non-bank transfer agents would not provide the Commission with sufficient information to effectively assess Year 2000 problems. Therefore, the rule as adopted requires all non-bank transfer agents to file with the Commission Part I of Form TA-Y2K, a check-the-box style report. <sup> 14 </sup> Part I of Form TA-Y2K requires non-bank transfer agents to provide generally the same information as the proposed rule would have required to be submitted in narrative form. However, non-bank transfer agents that do not qualify for an exemption under Rule 17Ad-13(d) will be required to supplement Part I by completing Part II of Form TA-Y2K, which requires a narrative discussion of their efforts to address Year 2000 Problems. Because Rule 17Ad-13(d) generally exempts small transfer agents or issuer transfer agents that typically handle few issues, the potential that these transfer agents could disrupt the clearance and settlement process is not as likely as larger transfer agents that process more issues for more issuers.
+
+ Copies of Form TA-Y2K are available in the Commission Public Reference Room located at 450 Fifth Street, N.W., Washington DC 20549 or copies can be obtained (in PDF format) from the Commission’s internet web site at the following address: www.sec.gov .<h>IV. Costs and Benefits of the Rules and Their Effects</h>
+
+on Competition, Efficiency, and Capital Formation 
+
+ Section 23(a) of the Exchange Act <sup> 15 </sup> requires the Commission, in adopting rules under the Exchange Act, to consider the competitive effects of such rules and to not adopt a rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Furthermore, Section 3(f) of the Exchange Act <sup> 16 </sup> provides that whenever the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission also shall consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. 
+
+ The Commission has considered the amendments to Rule 17Ad-18 in light of the standards cited in Sections 3 and 23 (a)(2) of the Exchange Act. In the proposed rule, the Commission requested that commenters provide analysis and data supporting the costs and benefits of the proposed rule. In addition, the Commission sought comments on the proposed rule’s effect on competition, efficiency, and capital formation. 
+
+ Several commenters indicated that the Commission’s cost estimates were too low. However, no commenters provided detailed information or data as to the costs of the proposed rule. One commenter questioned whether the additional regulations and their expense will generate greater preparedness and compliance or whether they would be a greater distraction and misdirect the focus from Year 2000 preparations. Another commenter noted that the Division of Market Regulation has already requested information from each transfer agent regarding its Year 2000 preparations. Therefore, the commenter believed that the proposed rule was duplicative. Another commenter suggested that instead of the proposed rule the Commission should issue an interpretive release under Rule 17Ad-13 that provided standards for transfer agent Year 2000 programs. 
+
+ Two commenters believed that preparation of the reports required by the proposed rule was not costly or difficult. One of these commenters suggested that all transfer agents, regardless of size or being regulated by other authorities, should provide the reports required by the proposed rule. Three commenters suggested that the Commission also should require transfer agents to obtain certifications from their vendors. No commenter addressed the issue of whether the proposed rule would affect competition or regarding the proposed rule’s affect on efficiency and capital formation.<h>A. Cost Benefit Analysis </h>
+
+ Based on comments received, the Commission has revised the proposed rule to lower the aggregate cost of compliance with the rule. As discussed above, the Commission is adopting new Form TA-Y2K, eliminating one of the reporting dates, and expanding the reporting requirement for certain non-bank transfer agents. Under the final rule, all non-bank transfer agents are required to file Part I of Form TA-Y2K, a less burdensome check-the-box report, twice. The proposed rule required an initial report from all non-bank transfer agents and two follow-up reports from those non-bank transfer agents that did not qualify for an exemption under Rule 17Ad-13(d). Under the final rule, each non-bank transfer agent that does not qualify for an exemption under Rule 17Ad-13(d) is also required to complete Part II of Form TA-Y2K.
+
+ The Commission is also deferring consideration of whether to require non-bank transfer agents to engage accountants to examine their efforts to address Year 2000 Problems. The Commission is allowing non-bank transfer agents to summarize by group the efforts of Year 2000 dedicated individuals as opposed to requiring individual descriptions of their efforts. Non-bank transfer agents will not have to provide an estimate of the time management has spent on Year 2000 efforts. Finally, non-bank transfer agents are only required to report the number and description of unresolved material exceptions identified during the internal and external testing of their software.
+
+ Based on field testing of a virtually identical form, Form BD-Y2K, conducted by the Office of Compliance Inspections and Examinations, the Commission estimates that on average a non-bank transfer agent will spend approximately two hours completing Part I of Form TA-Y2K resulting in a total cost to the industry of $296,000. <sup> 17 </sup> This is based on 740 respondents spending four hours at $100 per hour preparing two Part Is of Form TA-Y2K. The Commission estimates that on average a non-bank transfer agent will spend 35 hours completing Part II of Form TA-Y2K resulting in a total cost to the industry of $1,400,000. This is based upon 200 non-bank transfer agents spending 70 hours at $100 per hour preparing two Part IIs of Form TA-Y2K. Therefore, based upon the adjustments to the proposed rule, the Commission has revised its cost to the industry to a total of $1,696,000 ($296,000 + $1,400,000). It is important to note that the total cost estimate is not an annual cost. Non-bank transfer agents will only be required to prepare and file two Form TA-Y2Ks. 
+
+ No commenters addressed the potential benefits of the rule and the Commission has not been able to quantify those benefits. However, the Commission believes that the benefits will outweigh the costs. The Commission is aware of the significant effort the securities industry has put forth and the progress its has made, but believes that significant progress still needs to be made by the securities industry to be ready for the Year 2000. As noted above, because transfer agents do not have an SRO, the only available information is from the transfer agents themselves.
+
+ The Commission does not yet have comprehensive information regarding the readiness of the transfer agent industry for the Year 2000. While the federal banking agencies are examining bank transfer agents, it is important for the Commission to obtain complete information from non-bank transfer agents to permit the Commission to assess the risks associated with non-bank transfer agents that fail to show adequate Year 2000 progress. Moreover, the Commission believes that a requirement to file Year 2000 reports should encourage non-bank transfer agents to proceed expeditiously with their efforts to prepare for the Year 2000. The Commission will use the reported information to obtain a more complete picture of the industry’s overall Year 2000 preparations and to identify transfer agent-specific and industry-wide problems. Information in the reports will help the Commission focus its Year 2000-related efforts for the rest of 1998 and 1999 on particular industry segments or non-bank transfer agents that appear to pose the greatest risk of non-compliance.
+
+ In sum, the rule will enable the Commission to take a more active role in assessing the Year 2000 risk to the securities industry. The reports non-bank transfer agents will be required to file will increase transfer agent awareness that they should be taking specific steps now to prepare for the Year 2000; help coordinate industry testing and contingency planning; supplement the Commission's examination module for Year 2000 issues; provide information regarding the securities industry’s preparedness for the Year 2000; and (iv) enable the Commission to identify particular compliance problems.<h>B. Efficiency, Competition, and Capital Formation </h>
+
+ In the proposing release, the Commission stated that the proposed rule should not unduly burden competition. No commenter addressed the proposed rule’s effect on competition.
+
+ The Commission believes that it has drafted Rule 17Ad-18 so as to minimize their impact on competition. As discussed above, the Commission has structured the form of the report to differentiate between non-bank transfer agents based upon the threat they would pose to customers and the market if they are not Year 2000 compliant. As discussed above, non-bank transfer agents that qualify for an exemption under Rule 17Ad-13(d) ( i.e. , small transfer agents and issuer transfer agents) are only required to file the less burdensome Year 2000 report. Larger non-bank transfer agents that provide services for multiple issuers do not qualify for an exemption and are required to provide additional information. The Commission believes that Rule 17Ad-18 does not impose any burden on competition not necessary or appropriate in furtherance of the Exchange Act. 
+
+ The Commission believes that the rule should increase the efficiency and effectiveness of the industry’s efforts to prepare for the Year 2000 by increasing awareness, focusing industry efforts, and providing critical information for identifying and remedying problems. In addition, the Commission believes that the rule does not adversely affect capital formation. However, failure on the part of the securities industry to adequately prepare for the Year 2000 could adversely affect capital formation at the beginning of the next millennium.<h>V. Final Regulatory Flexibility Analysis </h>
+
+ A final Regulatory Flexibility Analysis ("FRFA") concerning Rule 17Ad-18 has been prepared in accordance with the provisions of the Regulatory Flexibility Act ("RFA"), as amended by Public Law No. 104-121, 110 Stat. 847, 864 (1996), 5 U.S.C. § 604. The FRFA notes that Rule 17Ad-18 will increase transfer agent awareness of the specific steps they should be taking to prepare for the Year 2000; help coordinate industry testing and contingency planning; supplement the Commission's examination module for Year 2000 issues and identify potential Year 2000 compliance problems; and provide information regarding the securities industry’s preparedness for the Year 2000.
+
+ The Commission received no comments on the Initial Regulatory Flexibility Analysis ("IRFA") prepared in connection with the proposed rule, and no comment letters specifically addressed the IRFA. However, as discussed in paragraph III.A above, certain commenters expressed concern about the threshold for determining which non-bank transfer agents are required to report on their efforts to prepare for the Year 2000, and estimated costs associated with obtaining the independent public accountant’s attestation.
+
+ As discussed more fully in the FRFA, the rule will affect transfer agents that are small entities pursuant to Rule 0-10 under the Exchange Act. <sup> 18 </sup> When used with reference to a transfer agent, the Commission has defined the term "small entity" to mean a transfer agent that: (1) received less than 500 items for transfer and less than 500 items for processing during the preceding six months (or in the time that it has been in business, if shorter); (2) maintained master shareholder files that in the aggregate contained less than 1,000 shareholder accounts or was the named transfer agent for less than 1,000 shareholder accounts at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (3) is not affiliated with any person (other than a natural person) that is not a small business or small organization under Rule 0-10. Approximately 413 registered transfer agents qualify as "small entities" for purposes of the RFA.
+
+ The Commission has drafted Rule 17Ad-18 to minimize its impact on small transfer agents while enhancing investor protection and minimizing any impact on competition, in part, by adopting different reporting requirements to take into account the resources available to small non-bank transfer agents. First, small bank transfer agents are not required to submit any reports. Second, while the rule requires all non-bank transfer agents to report on their efforts to address Year 2000 problems, the Commission has adopted two reporting formats. Small non-bank transfer agents are only required to file a less burdensome check-the-box style Year 2000 report. As noted in section IV.A above, the Commission estimates that it would take each non-bank transfer agent approximately four hours to complete Part I of Form TA-Y2K. The remaining non-bank transfer agents are required to provide, in addition to the check-the-box style report, a more extensive narrative discussion of their Year 2000 efforts. These non-bank transfer agents are typically larger transfer agents that process multiple issues and could potentially have a greater impact on the clearance and settlement system. Thus, by adopting different reporting requirements and by exempting small bank transfer agents, the Commission has imposed no burden, or only a very limited burden, on small transfer agents.
+
+ The FRFA notes that it would be difficult to further simplify, consolidate, or adjust compliance standards for small non-bank transfer agents and be able to effectively monitor the securities industry’s efforts to prepare for the Year 2000. The Commission believes that the alternate reporting requirement adopted today for small non-bank transfer agents strikes the appropriate balance between the need to protect investors and to minimize any impact on small non-bank transfer agents. The Commission also considered the use of performance rather than design standards. However, the Commission concluded that it would be inconsistent with the purpose of the rule to use performance standards to specify different requirements for small entities.
+
+ A copy of the FRFA may be obtained by contacting Jeffrey Mooney, Special Counsel, U.S. Securities and Exchange Commission, Mail stop 10-1, 450 Fifth street, N.W., Washington, D.C. 20549.<h>VI. Paperwork Reduction Act </h>
+
+ As set forth in the proposed rule, Rule 17Ad-18 contains collections of information within the meaning of the Paperwork Reduction Act of 1995 ("PRA"). <sup> 19 </sup> Accordingly, the collection of information requirements were submitted to the Office of Management and Budget ("OMB") for review and were approved by OMB which assigned the following control number 3235-0512.
+
+ The proposed rule solicited comments on the proposed collections of information. No comments were received that specifically addressed the PRA submission. However, as discussed above, the Commission received suggestions that would improve the collections of information. Based upon these suggestions, the collections of information have been adjusted as described in section III. above. For example, the rule adopted today requires non-bank transfer agents to provide a summary of the efforts of individuals or groups of individuals assigned to work on the Year 2000 Problem, and the reports will not have to provide an estimate of the time management has spent on Year 2000 efforts, nor the number and nature of material exceptions identified during the internal and external testing of its software.
+
+ An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the agency displays a valid OMB control number. The collection of information under Rule 17Ad-18 is necessary for non-bank transfer agents to comply with certain requirements and is necessary to provide the Commission with information on the security industry’s readiness for the Year 2000. The information collected pursuant to Rule 17Ad-18 will be made public.
+
+ Based upon the adjustments to the amendments, the Commission is adjusting its burden estimate. The Commission estimated in the proposed rule that, on average, a non-bank transfer agent would spend 50 hours preparing each of the three Year 2000 reports and obtaining the two independent public accountant’s Attestations. The Commission estimates that under the final amendments, a non-bank transfer agent will, on average, spend two hours preparing Part I of Form TA-Y2K and 35 hours preparing Part II of Form TA-Y2K. The total annualized burden to the securities industry is estimated at 8,480 hours. This is based on 740 respondents spending two hours preparing Part I and 200 respondents preparing Part II of Form TA-Y2K.<h>VII. Statutory Analysis </h>
+
+<END MAIN TEXT>
+
+1 International Organization of Securities Commissions, Statement of the IOSCO Technical Committee on Year 2000 (1997), available at http://www.iosco.org .
+
+2 Release No. 34-39726 (March 5, 1998), 63 FR 12062 (March 12, 1998).
+
+3 SRO is defined in Section 3(a)(26) of the Exchange Act, 15 U.S.C. 78c(a)(26).
+
+4 All comment letters and a summary of the comments are available in File No. S7-8-98 at the Commissions Public Reference Room, 450 Fifth Street, N.W., Washington, DC 20549. The comment period closed on April 27, 1998. See also Release No. 34-39859 ; (April 14, 1998), 63 FR 19430 (extending the comment period from April 13, 1998, to April 27, 1998).
+
+5 ARA is defined in Section 3(a)(34)(B) of the Exchange Act, 15 U.S.C. 78c(a)(34)(B). Transfer agents that are also banks have either the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, or the Federal Deposit Insurance Corporation as their ARA. Approximately 1,360 transfer agents are registered with the Commission, and the Commission is the ARA for approximately 740 of them.
+
+6 17 CFR 240.17Ad-13(d). Generally, the Rule 17Ad-13(d) exemption applies to issuer transfer agents, small transfer agents exempt under Rule 17Ad-4(b), and bank transfer agents.
+
+7 17 CFR 240.17Ad-6 and 17Ad.7.
+
+8 The attestation report would have only been required to be filed with the follow-up reports.
+
+9 Letter from Alan W. Anderson, Senior Vice-President, Technical Services and Deborah D. Lambert, Chair, Auditing Standards Board, AICPA (April 13, 1998).
+
+10 In light of the AICPAs comment letter and ongoing efforts, in a companion release also issued today the Commission is re-opening the comment period with respect to the proposal to have an independent public accountant review a non-bank transfer agents second Year 2000 report. The public file (No. S7-8-98) will include both the AICPAs original comment letter and any follow-up letter submitted by the AICPA for the Commissions consideration.
+
+11 This includes whether the transfer agent has assigned existing employees, has hired new employees, or has engaged third parties to provide assistance in avoiding Year 2000 Problems.
+
+12 These stages are: (i) awareness of potential Year 2000 Problems; (ii) assessment of what steps must be taken to avoid Year 2000 Problems; (iii) implementation of the steps needed to avoid Year 2000 Problems; (iv) internal testing of software designed to avoid Year 2000 Problems; (v) integrated or industry-wide testing of software designed to avoid Year 2000 Problems (including testing with other transfer agents, other financial institutions, customers, and vendors); and (vi) implementation of tested software that will avoid Year 2000 Problems.
+
+13 Contingency planning should provide for adequate protections to ensure the success of critical systems if interfaces fail or unexpected problems are experienced with operating systems and infrastructure software. In addition, contingency plans should provide for the failure of external systems that interact with the transfer agents computer systems. For example, contingency plans should anticipate the failure of a vendor that services mission critical applications and should provide for the potential that a significant customer experiences difficulty due to Year 2000 problems.
+
+14 For a copy of Form TA-Y2K, see Appendix A ( PDF format). [ Note: This file was revised as of August 14, 1998; the link here was revised to point to the revised form as of September 3, 1998. If you downloaded before that time, see Rel. No. 34-40163A .]
+
+15 15 U.S.C. 78w (a)(2).
+
+16 15 U.S.C. 78c.
+
+17 Field tests of Part I of Form BD-Y2K indicated that it could be completed in as little as 30 minutes. However, the Commission believes that it may take longer for some non-bank transfer agents to complete Part I of Form TA-Y2K.
+
+18 17 CFR 240.0-10
+
+19 44 U.S.C. 3501 et seq . http://www.sec.gov/rules/final/34-40163.htm

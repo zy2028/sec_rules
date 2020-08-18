@@ -1,0 +1,1079 @@
+https://www.sec.gov/rules/final/34-41661.htm
+
+	I.0.0.0: I. INTRODUCTION
+
+		I.A.0.0: A. Background
+
+		I.B.0.0: B. Year 2000 Rules
+
+	II.0.0.0: II. DISCUSSION OF YEAR 2000 RULES
+
+		II.A.0.0: A. Rule 15b7-3T
+
+			II.A.1.0: 1. Scope of the Rule; Definition of Material Year 2000 Problem
+
+			II.A.2.0: 2. Presumption of a Material Year 2000 Problem
+
+			II.A.3.0: 3. Notification to the Commission and DEA
+
+			II.A.4.0: 4. Prohibition on Non-compliant Broker-Dealers and Certification
+
+			II.A.4.a: a. Deadlines
+
+			II.A.4.b: b. Certification
+
+			II.A.5.0: 5. Confidentiality of Notices and Certifications
+
+			II.A.6.0: 6. Transfer of Accounts
+
+		II.B.0.0: B. Rule 17Ad-21T
+
+			II.B.1.0: 1. Scope of the Rule; Definition of Material Year 2000 Problem
+
+			II.B.2.0: 2. Presumption of a Material Year 2000 Problem
+
+			II.B.3.0: 3. Notification to the Commission and Issuer
+
+			II.B.4.0: 4. Prohibition on Non-Compliant Non-bank Transfer Agents and
+
+			II.B.4.a: a. Deadlines
+
+			II.B.4.b: b. Certification
+
+			II.B.5.0: 5. Confidentiality of Notices and Certifications
+
+			II.B.6.0: 6. Transfer of Accounts
+
+	III.0.0.0: III. RECORDKEEPING REQUIREMENTS
+
+		III.A.0.0: A. Transfer Agents
+
+		III.B.0.0: B. Broker-Dealers
+
+	IV.0.0.0: IV. CONCLUSION
+
+	V.0.0.0: V. COSTS AND BENEFITS OF THE RULES
+
+		V.A.0.0: A. Benefits
+
+		V.B.0.0: B. Costs
+
+			V.B.1.0: 1. Rule 15b7-3T
+
+			V.B.2.0: 2. Rule 17Ad-21T
+
+		V.C.0.0: C. Recordkeeping Requirements
+
+			V.C.1.0: 1. Transfer Agents
+
+			V.C.2.0: 2. Broker-Dealers
+
+	VI.0.0.0: VI. EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION
+
+	VII.0.0.0: VII. FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+		VII.A.0.0: A. Need For and Objectives of Amendments
+
+			VII.A.1.0: 1. Rule 15b7-3T
+
+			VII.A.2.0: 2. Rule 17Ad-21T
+
+			VII.A.3.0: 3. Rule 17a-9T
+
+		VII.B.0.0: B. Significant Issues Raised by Public Comments
+
+		VII.C.0.0: C. Legal Basis
+
+		VII.D.0.0: D. Small Entities Subject to the Rule
+
+		VII.E.0.0: E. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		VII.F.0.0: F. Duplicative, Overlapping or Conflicting Federal Rules
+
+		VII.G.0.0: G. Steps to Minimize Impact on Small Entities
+
+	VIII.0.0.0: VIII. PAPERWORK REDUCTION ACT
+
+		VIII.A.0.0: A. Rules 15b7-3T and 17Ad-21T(c) and (e)
+
+		VIII.B.0.0: B. Rule 17Ad-21T(g)
+
+		VIII.C.0.0: C. Rule 17a-9T
+
+	IX.0.0.0: IX. EFFECTIVE DATE
+
+	X.0.0.0: X. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Year 2000 Operational Capability Requirements for Registered Broker-dealers and Transfer Agents 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ 
+
+ 17 CFR Part 240 
+
+ [Release No. 34-41661; File No. S7-8-99] 
+
+ RIN 3235-AH61 
+
+ YEAR 2000 OPERATIONAL CAPABILITY REQUIREMENTS FOR REGISTERED BROKER-DEALERS AND TRANSFER AGENTS 
+
+ 
+
+ AGENCY: Securities and Exchange Commission 
+
+ ACTION: Final rule 
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting temporary Rules 15b7-3T, 17Ad-21T, and 17a-9T under the Securities Exchange Act of 1934 ("Exchange Act"). Rules 15b7-3T and 17Ad-21T require registered broker-dealers and non-bank transfer agents to ensure that their mission-critical computer systems are Year 2000 compliant by August 31, 1999, or to certify that any material Year 2000 problems in mission critical systems will be fixed no later than November 15, 1999. Rule 17a9-T requires certain broker-dealers to make and preserve a separate trade blotter and securities record or ledger as of the close of business of the last three business days of 1999. Rule 17Ad-21T requires non-bank transfer agents to make and preserve a backup copy of all their master securityholder files so that the records can be reconstructed if necessary for a possible transfer to another Year 2000 compliant transfer agent. These rules are intended to reduce the risk to investors and the securities markets posed by broker-dealers and non-bank transfer agents that have not adequately prepared their computer systems for the millennium transition. 
+
+ EFFECTIVE DATE: August 30, 1999 
+
+ FOR FURTHER INFORMATION CONTACT: Broker-Dealers (Rule 15b7-3T) Sheila Slevin, Assistant Director, 202-942-0796, Heidi Pilpel, Special Counsel, 202-942-0791, Kevin Ehrlich, Attorney, 202-942-0778, or Robert Long, Attorney, 202-942-0097; Transfer Agents (Rule 17Ad-21T) Jerry W. Carpenter, Assistant Director, 202-942-4187, or Lori R. Bucci, Special Counsel, 202-942-4187; Recordkeeping (Rule 17a-9T) Tom McGowan, Assistant Director, 202-942-0177, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1002. 
+
+ SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. INTRODUCTIONA. Background </h><h>A. Background </h>
+
+ Broker-dealers, transfer agents, and other securities market participants will soon face a critical test of their automated systems with the upcoming Year 2000. As the next millennium approaches, unless proper modifications have been made, the program logic in many computer systems will start to produce erroneous results because the systems will incorrectly read dates such as "01/01/00" as being in 1900 or in some other incorrect year. 
+
+ The Commission views the Year 2000 problem as an extremely serious issue and has taken various steps to address it. For example, we adopted Rules 17a-5(e)(5) and 17Ad-18 under the Exchange Act <SUP> 1 </SUP> requiring certain broker-dealers and non-bank transfer agents to file reports with us and their designated examining authority ("DEA") regarding their Year 2000 preparedness. <SUP> 2 </SUP> We also provided interpretive guidance for public companies, investment advisers, investment companies, and municipal securities issuers regarding their disclosure obligations. <SUP> 3 </SUP> Since 1996, we have monitored the Year 2000 efforts of the exchanges, Nasdaq, and the clearing agencies. In addition, since the third quarter of 1996, we have included a Year 2000 examination module in our examinations of regulated entities. <SUP> 4 </SUP> The Commission also worked with the Securities Industry Association as the March and April 1999 industry-wide test for Year 2000 was developed and implemented. <SUP> 5 </SUP> Finally, we instituted public administrative and cease-and-desist proceedings against broker-dealers and transfer agents that failed to file all or part of the required Year 2000 forms in a timely manner. <SUP> 6 </SUP> Through these efforts, we have made clear that broker-dealers and non-bank transfer agents can not use their failure to address the Year 2000 problem as an excuse for failing to protect investors. 
+
+ Recently, the Commission's efforts have focused on examinations, requiring broker-dealers and non-bank transfer agents to disclose their Year 2000 readiness, and encouraging point-to-point and industry-wide testing. <SUP> 7 </SUP> Based on the experience and information obtained from these efforts, the Commission in March determined to propose additional safeguards to reduce any adverse effects of non-Year 2000 compliant broker-dealers and non-bank transfer agents on investors and the securities markets.<h>B. Year 2000 Rules </h>
+
+ On March 5, 1999, the Commission proposed for comment new Rules 15b7-3T (17 CFR 240.15b7-3T), 17a-9T (17 CFR 240.17a-9T), and 17Ad-21T (17 CFR 240.17Ad-21T) under the Exchange Act, <SUP> 8 </SUP> addressing broker-dealer and non-bank transfer agent operational capability in the context of Year 2000. <SUP> 9 </SUP> Proposed Rules 15b7-3T and 17Ad-21T required registered broker-dealers and non-bank transfer agents to ensure that their mission-critical systems would be Year 2000 compliant by August 31, 1999, or to certify that any material Year 2000 problems would be fixed by October 15, 1999. <SUP> 10 </SUP> Proposed Rule 17a-9T required large broker-dealers to make and preserve additional copies of trade blotters and securities records or ledgers for each of the last two business days of 1999. <SUP> 11 </SUP> Proposed Rule 17Ad-21T required every non-bank transfer agent to maintain a segregated copy of its database, file layouts, and all relevant files for a rolling five business day period beginning August 31, 1999, and ending on March 31, 2000. 
+
+ The Commission received 42 comment letters on the proposed rules, most of which were favorable. <SUP> 12 </SUP> As discussed below, the Commission is adopting the proposed rules with several modifications intended to address commenters' concerns. These rules should facilitate the use of a proactive approach in dealing with broker-dealers and non-bank transfer agents that are not ready for Year 2000.<h>II. DISCUSSION OF YEAR 2000 RULESA. Rule 15b7-3T </h><h>A. Rule 15b7-3T </h>
+
+ Proposed Rule 15b7-3T prohibited any broker-dealer having a material Year 2000 problem on or after August 31, 1999, from conducting a securities business unless the broker-dealer certified and could demonstrate that it would fix the problem by October 15, 1999. <SUP> 13 </SUP> The proposal defined the term "material Year 2000 problem," set forth criteria giving rise to a presumption of a material Year 2000 problem, and required firms having a material Year 2000 problem to notify the Commission and satisfy certain conditions if they wished to continue conducting a securities business. <SUP> 14 </SUP> 
+
+ Most of the comment letters on proposed Rule 15b7-3T were favorable, although two commenters suggested that in lieu of the proposed approach, the Commission should instead permit firms with Year 2000 problems simply to disclose to clients their readiness status and the inherent risks of being non-Year 2000 compliant. <SUP> 15 </SUP> As discussed in detail below, the majority of commenters recommended specific modifications to the proposed rule. The Commission has determined to adopt Rule 15b7-3T substantially as proposed, but with certain modifications suggested by the commenters.<h>1. Scope of the Rule; Definition of Material Year 2000 Problem </h>
+
+ As proposed, Rule 15b7-3T applied generally to all broker-dealers, and stated that a broker-dealer has a material Year 2000 problem if: (1) any of its computer systems incorrectly identifies any date in the Year 1999, the Year 2000, or in any year thereafter; and (2) the error impairs or, if uncorrected, is likely to impair, any of its mission critical computer systems. <SUP> 16 </SUP> 
+
+ Ten commenters suggested narrowing the scope of the proposed rule. For example, several commenters urged the Commission to limit the rule's applicability to clearing firms, firms with a large number of customer accounts, firms that use computers for recordkeeping, order execution or order transmission, or firms with high capital requirements. <SUP> 17 </SUP> One commenter recommended that the rule apply only to self-clearing firms, firms that clear for other broker-dealers, and market-makers. <SUP> 18 </SUP> 
+
+ Several commenters suggested narrowing the definition of "material Year 2000 problem." One commenter stated generally that the definition of "material Year 2000 problem" should have more specific criteria. <SUP> 19 </SUP> Other commenters stated that the rule should make clear that "a material Year 2000 problem is one in which a `mission critical' system is experiencing a `material' problem arising from the misreading of dates." <SUP> 20 </SUP> In contrast, one commenter suggested defining the term material Year 2000 problem more broadly than proposed. <SUP> 21 </SUP> 
+
+ In response to commenters' concerns that the scope of the proposed rule is too broad, the Commission has modified the language of paragraph (a) to clarify that the rule applies only to broker-dealers that use computers in the conduct of their business as a broker or dealer. Rule 15b7-3T is intended to focus on those broker-dealers whose computer systems are necessary for processing securities transactions, managing trading accounts, maintaining customer accounts, or delivering funds and securities ( i.e. , broker-dealers for whom computer systems are "mission critical systems"). The rule is not intended to cover, for example, a broker-dealer whose reliance on automation is limited to the use of off-the-shelf word processing or payroll software. Likewise, many smaller broker-dealers still transmit orders via the telephone. The rule is not intended to cover these broker-dealers unless they use computers in their broker-dealer business functions, the failure of which could pose a risk to investors. 
+
+ 
+
+ The Commission, however, has decided not to modify the definition of "material Year 2000 problem." Thus, as adopted, the rule states that a broker-dealer has a material Year 2000 problem if, at any time on or after August 31, 1999: (1) any of its mission critical computer systems incorrectly identifies any date in the Year 1999 or the Year 2000; and (2) the error impairs or, if uncorrected, is likely to impair, any of its mission critical systems. <SUP> 22 </SUP> The Commission believes that any impairment of a mission critical system is inherently material. The definition is not intended to include a broker-dealer whose systems have minor technical problems regarding the reading of dates if these problems do not adversely affect the broker-dealer's core business. 
+
+ 
+
+ Moreover, the Commission has decided not to exclude from the rule broker-dealers based on factors such as size or number of accounts. Even small or introducing broker-dealers have the potential to affect other market participants by, for example, introducing inaccurate or corrupted data into other systems. Where appropriate, the Commission believes it should have the ability to act to prevent a patently non-compliant broker-dealer from continuing to do business before the century date change.<h>2. Presumption of a Material Year 2000 Problem </h>
+
+ The Commission proposed that a broker-dealer would be presumed to have a material Year 2000 problem if it: (1) does not have written procedures designed to identify, assess, and remediate any Year 2000 problems in mission critical systems; (2) has not verified its Year 2000 remediation efforts through reasonable internal testing of mission critical systems; (3) has not verified its Year 2000 remediation efforts by satisfying any applicable Year 2000 testing requirements imposed by a self-regulatory organization; or (4) has not remediated all exceptions contained in any independent public accountant's report prepared on behalf of the broker-dealer pursuant to Exchange Act Rule 17a-(5)(e)(5)(vi). <SUP> 23 </SUP> 
+
+ One commenter stated generally that a materiality standard should be added to the proposed presumptions. <SUP> 24 </SUP> A few commenters expressed concern that, under the rule as proposed, a broker-dealer could be presumed to have a material Year 2000 problem if a mission-critical system under the control of its service bureau, clearing broker, or other third party were not Year 2000 compliant. <SUP> 25 </SUP> These commenters argued that it would be unfair to hold a broker-dealer responsible for a presumption that it could neither rebut nor cure. 
+
+ In response to the Commission's request for comment on whether independent third party verification of remediation plans should be required, two commenters said it should not. <SUP> 26 </SUP> One commenter expressed concern that there would be a lack of objective standards by which to evaluate Year 2000 remediation plans. <SUP> 27 </SUP> In addition, several commenters raised concerns regarding the requirement that all exceptions in an independent public accountant's report must be remedied to avoid being presumed to be a Year 2000 problem. <SUP> 28 </SUP> 
+
+ 
+
+ The Commission is adopting the presumption with a few changes. Because a broker-dealer cannot reasonably be expected to certify regarding the Year 2000 status of a mission critical system that it does not control, the Commission has limited the rule so that a broker-dealer will not be presumed to have a material Year 2000 problem if its written procedures or internal testing do not cover mission critical systems under the control of third parties. <SUP> 29 </SUP> As adopted, the presumptions of the rule regarding written procedures and internal testing apply only to mission critical systems over which the broker-dealer has some control. For example, a broker-dealer has control over a mission critical system if it operates and maintains the systems. 
+
+ 
+
+ In the Proposing Release, we stated that arrangements between introducing and clearing brokers do not relieve either broker-dealer of its responsibilities under proposed Rule 15b7-3T. The modification to Rule 15b7-3T is intended to clarify that firms will not be held responsible for failing to certify to the Year 2000 status of mission critical systems controlled by third parties. <SUP> 30 </SUP> Introducing broker-dealers, however, will still be expected to diligently inquire into the status of their clearing firm's Year 2000 readiness, and to make arrangements with another clearing firm if they are not satisfied with their clearing firm's progress or response. 
+
+ 
+
+ The Commission has decided not to expressly narrow the scope of the rule to only "material" exceptions in the independent public accountant's report. These reports generally do not distinguish between material and immaterial exceptions. In fact, it is likely that only material problems will be sufficient to cause an exception in the first instance. <SUP> 31 </SUP> 
+
+ 
+
+Thus, as adopted, Rule 15b7-3T provides that a broker-dealer will be presumed to have a material Year 2000 problem if, at any time on or after August 31, 1999, it: 
+
+ 
+
+does not have written procedures reasonably designed to identify, assess, and remediate any Year 2000 problems in mission critical systems under its control; <SUP> 32 </SUP> 
+
+has not verified its Year 2000 remediation efforts through reasonable internal testing of mission critical systems under its control; <SUP> 33 </SUP> 
+
+has not verified its Year 2000 remediation efforts by satisfying Year 2000 testing requirements imposed by self-regulatory organizations to which it is subject; <SUP> 34 </SUP> or 
+
+has not remediated all exceptions relating to its mission critical systems contained in any independent public accountant's report prepared on behalf of the broker-dealer pursuant to Exchange Act Rule 17a-(5)(e)(5)(vi). 
+
+ 
+
+The failure of a broker-dealer to satisfy any of the four conditions above will require the broker-dealer to provide notice to the Commission. If a broker-dealer that has a material Year 2000 problem or that is presumed to have a material Year 2000 problem wishes to continue operating beyond August 31, 1999, it must submit a certificate to the Commission, as described below.<h>3. Notification to the Commission and DEA </h>
+
+ 
+
+ As proposed, the rule required any broker-dealer that has or is presumed to have a material Year 2000 problem at any time on or after August 31, 1999, to immediately notify the Commission and its DEA of the problem. The Commission received one comment on this provision which supported the notice procedure to the Commission and the DEAs. <SUP> 35 </SUP> 
+
+ 
+
+ The Commission, therefore, is adopting this provision as proposed. Notice to the Commission must be sent by overnight delivery to the Division of Market Regulation, U.S. Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, DC 20549-1002 Attention: Y2K Compliance. Notice also must be provided to the firm's DEA. The notification requirement is intended to alert the Commission and DEA so that we can assess the broker-dealer's condition and decide if its Year 2000 problems threaten customers or the integrity of the markets. <SUP> 36 </SUP><h>4. Prohibition on Non-compliant Broker-Dealers and Certificationa. Deadlines </h><h>a. Deadlines </h>
+
+ 
+
+ The proposal stated that a broker-dealer that is not operationally capable because it has a material Year 2000 problem would be prohibited, on or after August 31, 1999, from effecting any transaction in, or inducing the purchase or sale of, any security, receiving or holding customer funds or securities, or carrying customer accounts, unless it certifies and can demonstrate that it will fix the problem by October 15, 1999. <SUP> 37 </SUP> As proposed, a broker-dealer that is presumed to have a material Year 2000 problem would have the burden to prove that it did not have a material Year 2000 problem, and would be required to come forward before October 15, 1999, with sufficient evidence to rebut the presumption. <SUP> 38 </SUP> 
+
+ 
+
+ The Commission specifically sought comment on whether the proposed August 31, 1999, deadline to notify the Commission of a material Year 2000 problem, and the proposed October 15, 1999, deadline to achieve Year 2000 compliance, were appropriate. Several commenters stated that the proposed dates were too early. One commenter stated that the proposed deadlines should have been announced months or years ago to provide firms adequate notice. <SUP> 39 </SUP> In contrast, one commenter stated that the proposed deadlines were too late, given the difficulty associated with transferring accounts. <SUP> 40 </SUP> 
+
+ 
+
+ Several commenters expressed reservations about requiring a firm to cease business if it failed to correct Year 2000 problems by the proposed deadline. <SUP> 41 </SUP> Commenters suggested that broker-dealers should be permitted to fix problems after the October 15, 1999, deadline without transferring accounts. <SUP> 42 </SUP> Another commenter, however, argued that, given the unique nature of the Year 2000 problem, shutting down a firm with a material Year 2000 problem was appropriate. <SUP> 43 </SUP> 
+
+ 
+
+ Upon consideration of commenters' views, the Commission has determined to push back the date to November 15, 1999, by which a broker-dealer must certify that its material Year 2000 problems will be remedied. Any broker-dealer that continues to have a material Year 2000 problem on or after November 15, 1999, will be required to cease operations by December 1, 1999. The Commission expects that the broker-dealer will use the period between November 15, 1999, and December 1, 1999, to unwind its business in an orderly fashion. Moving the deadline to November 15, 1999, will provide broker-dealers with as much time as possible to address Year 2000 problems, while permitting the Commission to take proactive steps in the event a broker-dealer is not Year 2000 compliant by that date. 
+
+ 
+
+ Several commenters expressed concern that the proposed October 15, 1999, deadline was too late given the difficulties associated with the transfer of accounts. The Commission acknowledges that in the ordinary course of business the transfer of funds and accounts might take several months. However, in light of the Year 2000 problem, accounts may need to be transferred on an expedited basis. <SUP> 44 </SUP> The Commission notes that the rule, both as proposed and adopted, permits the Commission or a court of competent jurisdiction to order a broker-dealer to comply with Rule 15b7-3T(d) ( i.e. , to cease its securities business and transfer accounts) at any time after August 31, 1999, if to do so would be in the public interest or for the protection of investors. We expect to reserve this authority for situations in which it is patently unrealistic that a broker-dealer will be able to conduct sufficient remediation to achieve Year 2000 compliance by November 15, 1999.<h>b. Certification </h>
+
+ 
+
+ Four comment letters addressed the certification requirement. One commenter suggested that firms that file certificates be allowed to operate beyond the October 15, 1999, deadline. <SUP> 45 </SUP> Another commenter asserted that requiring the firm's CEO to sign the document is unnecessary. In addition, this commenter expressed concern that CEOs of small firms would be the targets of enforcement actions as a consequence of the rule. <SUP> 46 </SUP> Another commenter expressed concern that the certification requirement puts CEOs in the position of either telling the truth and shutting down or lying in order to continue operations. <SUP> 47 </SUP> This commenter concluded that some CEOs would inevitably lie, which would only provide false comfort and jeopardize the credibility of the Commission and the securities markets. <SUP> 48 </SUP> In addition, this commenter stated that if enough CEOs told the truth, i.e. , that their firms had material Year 2000 problems, it would cause panic. <SUP> 49 </SUP> On the other hand, one commenter agreed that a firm's CEO is the appropriate party to sign the certification. <SUP> 50 </SUP> 
+
+ 
+
+ As adopted, Rule 15b7-3T provides that a broker-dealer with (or that is presumed to have) a material Year 2000 problem on or after August 31, 1999, will be permitted to continue to operate until December 1, 1999, if, in addition to providing the Commission and its DEA with the notice required by paragraph (c) of the rule, it submits to the Commission and its DEA a certificate signed by its chief executive officer (or an individual with similar authority) stating: 
+
+ 
+
+the broker-dealer is in the process of remediating its material Year 2000 problem; 
+
+the broker-dealer has scheduled testing of its affected mission critical systems to verify that the material Year 2000 problem has been remediated, and specifies the testing dates; 
+
+the date (which cannot be later than November 15, 1999) by which the broker-dealer anticipates completing remediation of the material Year 2000 problem in its mission critical systems, and will therefore be operationally capable; and 
+
+based on inquiries and to the best of its chief executive officer's knowledge, the broker-dealer does not anticipate that the existence of the material Year 2000 problem in its mission critical systems will impair its ability, depending on the nature of its business, to ensure prompt and accurate processing of securities transactions, including order entry, execution, comparison, allocation, clearance and settlement of securities transactions, the maintenance of customer accounts, or the delivery of funds and securities; and the broker-dealer anticipates that the enumerated remediation steps will result in remedying the material Year 2000 problem on or before November 15, 1999. 
+
+ 
+
+ In response to the comments, we made four changes to the certification provision. First, as stated above, the date by which the broker-dealer must expect to have remediated the material Year 2000 problem is now November 15, 1999 (rather than October 15, 1999). Second, the Commission has added language to paragraph (e)(1)(i)(D) to require that the certification include a statement that the chief executive officer believes that the steps referred to in paragraphs (A) through (C) will result in remedying the material Year 2000 problem no later than November 15, 1999. In the rule as proposed, there was no affirmative statement that the chief executive officer believed that the described remediation steps would address the firm's problems before a specified date. 
+
+ 
+
+ Third, Rule 15b7-3T(d)(2) provides that a broker-dealer that has or is presumed to have a material Year 2000 problem on or after August 31, 1999, will be permitted to operate until November 15, 1999, if it files a certificate signed by its chief executive officer that contains the representations specified in paragraph (e)(1)(i) of the rule. The Commission is also adding paragraph (e)(1)(ii) to permit broker-dealers to include additional information to show that their mission critical systems are free of material Year 2000 problems. 
+
+ 
+
+ Fourth, the rule as adopted requires broker-dealers that have submitted a certificate pursuant to paragraph (e)(1)(i) to submit a second certificate signed by the chief executive officer (or an individual with similar authority) on or before November 15, 1999, stating that, based on inquiries and to the best of the chief executive's knowledge, the firm has remediated its Year 2000 problem or that it intends to cease operations. The second certification is designed to give firms the opportunity to certify to the Commission, the public, and their customers that they have, in fact, remediated their Year 2000 problem. <SUP> 51 </SUP> In addition, the second certification will provide information to the Commission regarding the firms that have fixed their Year 2000 problems and the firms that have not. 
+
+ 
+
+ The Commission notes that the rule requires a broker-dealer to notify the Commission of material Year 2000 problems it experiences on or after August 31, 1999. Therefore, a broker-dealer filing a certificate on August 31, 1999, must update it if the information contained in the original certificate becomes materially inaccurate in any respect. If a broker-dealer finds a new material Year 2000 problem subsequent to August 31, 1999, it must promptly notify its DEA and the Commission and submit a certificate in accordance with the rule.<h>5. Confidentiality of Notices and Certifications </h>
+
+ 
+
+ In the Proposing Release, we indicated that the August 31, 1999, notices and certifications would be made public so that customers and counterparties of these broker-dealers could assess the potential impact on them and take any appropriate action. One commenter stated that making the notices public could result in a "death sentence" for the affected firms because customers would take their business to compliant firms, i.e. , firms that did not file notices. <SUP> 52 </SUP> This commenter also believed that making the notices public would discourage firms from reporting their problem[s] for fear of negative press. <SUP> 53 </SUP> Another commenter, however, recognized that it is important to give investors and market participants notice of Year 2000 problems. <SUP> 54 </SUP> The NASD did not object to making the notices public, but suggested that Rule 15b7-3T permit firms to file a follow-up notice when the firm has remediated its Year 2000 problem. <SUP> 55 </SUP> 
+
+ 
+
+ Consistent with the Commission's previous policy in making Year 2000 disclosures such as the Form BD-Y2K public, the Commission will make the notices and certificates available to the public. The Commission believes that the public and other market participants need this information in order to make alternative arrangements, if appropriate. In response to one commenter's suggestion, the Commission has adopted a second certificate provision which gives firms the opportunity to inform the Commission and the public that they have remediated their Year 2000 problem. After December 1, 1999, the Commission will also make public any actions taken against firms that are not Year 2000 compliant under the rule.<h>6. Transfer of Accounts </h>
+
+ 
+
+ In the event that a broker-dealer has a material Year 2000 problem in a mission critical system that it cannot remediate by November 15, 1999, steps will have to be taken by December 1, 1999, to transfer customer accounts to other broker-dealers that are Year 2000 compliant. The Commission understands that broker-dealers may be reluctant to take over customer accounts from a non-compliant firm. The Commission intends to exercise a great degree of flexibility in accommodating broker-dealers that accept customer accounts before or after December 1, 1999, from impaired firms. By moving the deadline for Year 2000 compliance from October 15, 1999, to November 15, 1999, the Commission anticipates that fewer broker-dealers will be required to transfer accounts due to a material Year 2000 problem. 
+
+ 
+
+ The Commission has the ability to take action before December 1, 1999, to limit a firm's business in order to protect investors. After August 31, 1999, the Commission will be reviewing notices and certificates, and making follow-up inquiries regarding broker-dealers' Year 2000 readiness. We can take action against a firm at any time after August 31, 1999, regardless of whether a firm has filed a certificate. Although the Commission expects that the vast majority of firms will be ready for Year 2000, Rule 15b7-3T(f) makes clear that the Commission will act proactively to address the isolated firms that will clearly not be ready for the Year 2000.<h>B. Rule 17Ad-21T </h>
+
+ 
+
+ Rule 17Ad-21T, applicable to non-bank transfer agents, is similar to temporary Rule 15b7-3T, applicable to broker-dealers. <SUP> 56 </SUP> Specifically, proposed Rule 17Ad-21T prohibited any registered non-bank transfer agent from conducting transfer agent business unless the non-bank transfer agent certified and could demonstrate that it would fix the problem by October 15, 1999. <SUP> 57 </SUP> The proposal defined the term "material Year 2000 problem;" set forth criteria giving rise to a presumption of a Year 2000 problem; and required firms having a material Year 2000 problem to notify the Commission and satisfy certain conditions if they wished to continue conducting their transfer agent business. The Commission is adopting temporary Rule 17Ad-21T with several changes to respond to commenters' concerns.<h>1. Scope of the Rule; Definition of Material Year 2000 Problem </h>
+
+ 
+
+ As proposed, Rule 17Ad-21T applied to all non-bank transfer agents, and stated that a non-bank transfer agent has a material Year 2000 problem if: (1) any of its computer systems incorrectly identifies any date in the Year 1999, the Year 2000, or in any year thereafter; and (2) the error impairs or, if uncorrected, is likely to impair, any of its mission critical computer systems. <SUP> 58 </SUP> 
+
+ 
+
+ Much like the broker-dealer rule, commenters generally requested that the Commission limit the application of Rule 17Ad-21T. <SUP> 59 </SUP> For instance, one commenter suggested that the definition of material Year 2000 problem be narrowed to exclude situations that do not result from an error in the transfer agent's system for securityholder recordkeeping and accounting. <SUP> 60 </SUP> In addition, this commenter recommended that the definition be further limited to exclude isolated date identification failures. <SUP> 61 </SUP> Another commenter, commenting on both the broker- dealer rule and transfer agent rule, stated that the rule should include a more thorough definition with specific criteria. <SUP> 62 </SUP> 
+
+ 
+
+ Responding to comments that the scope of the proposed rule is too broad, temporary Rule 17Ad-21T is being revised to apply only to non-bank transfer agents that use computers in the course of their business as transfer agents. The Commission also recognizes that some non-bank transfer agents that use computers could conduct their business manually without disrupting service. Therefore, the rule is not intended to cover any non-bank transfer agent whose computer system is not a mission critical system. This rule is intended to cover those non-bank transfer agents that rely on computers and that cannot resort to manual processing without causing disruption to service or without posing a risk to their customers. 
+
+ 
+
+ Similar to Rule 15b7-3T, the Commission has decided not to modify Rule 17Ad-21T's definition of material Year 2000 problem. <SUP> 63 </SUP> The Commission believes that any impairment of a mission critical system is inherently material. The definition is not intended to include a non-bank transfer agent whose system has a minor technical problem reading dates if such problem does not adversely affect the transfer agent's core business.<SUP> </SUP>The rules therefore do not apply to systems that have no bearing on the core transfer agent functions and are less likely to have a negative impact on the transfer agent's ability to conduct business for its customers.<h>2. Presumption of a Material Year 2000 Problem </h>
+
+ 
+
+ The Commission proposed that a non-bank transfer agent would be presumed to have a material Year 2000 problem if it: (1) does not have written procedures designed to identify, assess, and remediate any Year 2000 problems in mission critical systems; (2) has not verified its Year 2000 remediation efforts through reasonable internal testing of mission critical systems and reasonable testing of external links; or (3) has not remediated all exceptions contained in any independent public accountant's report prepared on behalf of the non-bank transfer agent pursuant to Exchange Act Rule 17Ad-18(f). <SUP> 64 </SUP> 
+
+ 
+
+ The Commission received one comment on the responsibility of non-bank transfer agents for third-party systems. The commenter stated that the rule should not require a firm to "ensure" that the third-party provider is free from material Year 2000 problems. <SUP> 65 </SUP> Rather, the commenter suggested that the firm should be required to take "reasonable steps" to verify that third parties are Year 2000 compliant. <SUP> 66 </SUP> 
+
+ 
+
+ Similar to the broker-dealer rule, the Commission is modifying the presumption language so that a non-bank transfer agent will not be presumed to have a material Year 2000 problem if its written procedures or testing do not cover mission critical systems under the control of third parties. <SUP> 67 </SUP> As adopted, the rule is limited in scope to cover only those written procedures and testing of mission critical systems over which the non-bank transfer agent has some element of control. <SUP> 68 </SUP> Non-bank transfer agents will still be expected to diligently inquire into the status of their third parties' Year 2000 readiness, and to make appropriate alternative arrangements if they are not satisfied. A non-bank transfer agent will still be responsible, however, if third party failure causes the non-bank transfer agent to be in violation of any provision under federal securities laws other than Rule 17Ad-21T. 
+
+ 
+
+ The rule as adopted provides that a non-bank transfer agent would be presumed to have a material Year 2000 problem if, at any time on or after August 31, 1999, it: 
+
+ 
+
+does not have written procedures reasonably designed to identify, assess, and remediate any Year 2000 problems in its mission critical systems under its control; <SUP> 69 </SUP> 
+
+ 
+
+has not verified its Year 2000 remediation efforts through reasonable internal testing of its mission critical systems under its control and reasonable testing of external links under its control; <SUP> 70 </SUP> or 
+
+ 
+
+has not remediated all exceptions related to its mission critical systems contained in any independent public accountant's report prepared on behalf of the transfer agent pursuant to Exchange Act Rule 17Ad-18(f). <SUP> 71 </SUP> 
+
+ 
+
+ The failure of a non-bank transfer agent to satisfy any of the three conditions above by August 31, 1999, will require the non-bank transfer agent to provide notice to the Commission.<h>3. Notification to the Commission and Issuer </h>
+
+ 
+
+ As proposed, the rule required any registered non-bank transfer agent that has or is presumed to have a material Year 2000 problem at any time on or after August 31, 1999, to immediately notify the Commission of the problem. In the proposing release the Commission also specifically asked for comment on whether non-compliant transfer agents should notify their "customers," which was defined in the proposed rule to include issuers. The Commission received no comment on this provision. 
+
+ 
+
+ The Commission is adopting the notice provision as proposed with two changes. First, because it is important for an issuer to know the status of its transfer agent's preparation for Year 2000, any non-bank transfer agent that has or is presumed to have a material Year 2000 problem must notify not only the Commission but also must notify its issuers. Second, notices to the Commission must be sent to the Division of Market Regulation instead of to the Secretary. <SUP> 72 </SUP><h>4. Prohibition on Non-Compliant Non-bank Transfer Agents and </h>
+
+ 
+
+ Certification<h>a. Deadlines </h>
+
+ 
+
+ As proposed, a non-bank transfer agent that has or is presumed to have a material Year 2000 problem will not be permitted, on or after August 31, 1999, to engage in any transfer agent function, including: (i) countersigning securities upon issuance; (ii) monitoring the issuance of securities with a view to preventing unauthorized issuance; (iii) registering the transfer of securities; (iv) exchanging or converting securities; or (v) transferring record ownership of securities by book-keeping entry without physical issuance of securities certificates, unless it certifies and can demonstrate that it will fix the problem by October 15, 1999. <SUP> 73 </SUP> As proposed, a non-bank transfer agent that is presumed to have a material Year 2000 problem would have the burden to prove that it did not have a material Year 2000 problem, and would be required to come forward before October 15, 1999, with sufficient evidence to rebut the presumption. <SUP> 74 </SUP> 
+
+ 
+
+ The Commission specifically sought comment on whether the proposed August 31, 1999, deadline to notify the Commission of an existing Year 2000 problem, and the October 15, 1999, deadline to achieve Year 2000 compliance, were appropriate. Two commenters stated that the August 31, 1999, and October 15, 1999, deadlines were too early because they will not allow adequate time for testing with external vendors. <SUP> 75 </SUP> One commenter suggested that the August 31, 1999, deadline should be moved to the end of September 1999. <SUP> 76 </SUP> In order to facilitate the orderly transfer of customer accounts, another commenter suggested that transfer agents be permitted to temporarily operate beyond the August 31, 1999, cutoff date, during which time customer accounts could be transferred. <SUP> 77 </SUP> 
+
+ 
+
+ Two commenters expressed reservations about forcing a transfer agent to cease operations for not remediating Year 2000 problems. <SUP> 78 </SUP> One of these commenters noted that requiring non-bank transfer agents to cease processing, pursuant to Rule 17Ad-21T, would eliminate their ability to use manual procedures while problems are being corrected. <SUP> 79 </SUP> The commenter stated that it would be more prudent to prohibit the non-bank transfer agents from taking on new accounts or relationships. <SUP> 80 </SUP> 
+
+ 
+
+ According to one commenter, transferring accounts from non-compliant firms would be difficult. <SUP> 81 </SUP> The commenter opined that it would not be able to convert any issuer from any transfer agent experiencing a material Year 2000 problem or a failure of operational capability within the four-month period remaining between September 1, 1999, and December 31, 1999, because there is insufficient time to adequately plan and test the conversion. This commenter went on to suggest that it would be more appropriate and practicable to require firms experiencing a Year 2000 problem to identify themselves, cease accepting new business, accept financial responsibility for losses incurred by their failure to become Year 2000 compliant, and use their best efforts to become compliant or minimize the effects of their non-compliance. 
+
+ 
+
+ The Commission has determined to push back to November 15, 1999, the date by which a non-bank transfer agent must certify that its material Year 2000 problems will be remedied. Any non-bank transfer agent that has a material Year 2000 problem on or after November 15, 1999, will be required to start winding down its business and cease operations by December 1, 1999. The Commission expects that the non-bank transfer agent will use the period between November 15, 1999, and December 1, 1999, to unwind its business in an orderly fashion. Moving the deadline to November 15, 1999, will provide non-bank transfer agents with as much time as possible to address Year 2000 problems, while permitting the Commission to take proactive steps in the event a non-bank transfer agent is not Year 2000 compliant. 
+
+ 
+
+ The Commission acknowledges that in the ordinary course of business the transfer of accounts might take several months. However, given the nature of the Year 2000 problem, accounts may need to be transferred on an expedited basis. <SUP> 82 </SUP> The Commission notes that the rule, both as proposed and as adopted, permits the Commission or a court of competent jurisdiction to order a non-bank transfer agent to comply with Rule 17Ad-21T(d) ( i.e. , cease its transfer agent business and transfer accounts) at any time after August 31, 1999, if to do so would be in the public interest or for the protection of investors. <SUP> 83 </SUP><h>b. Certification </h>
+
+ 
+
+ As adopted, Rule 17Ad-21T provides that a non-bank transfer agent with (or presumed to have) a material Year 2000 problem on or after August 31, 1999, will be permitted continue to operate until December 1, 1999, if in addition to providing the Commission with the notice required by paragraph (c) of the rule, it provides the Commission and its issuers a certificate signed by its chief executive officer (or an individual with similar authority) stating: 
+
+ 
+
+the non-bank transfer agent is in the process of remediating its material Year 2000 problem; 
+
+ 
+
+the non-bank transfer agent has scheduled testing of its affected mission critical systems to verify that the material Year 2000 problem has been remediated, and specifies the testing dates; 
+
+ 
+
+the date (which cannot be later than November 15, 1999) by which the non-bank transfer agent anticipates completing remediation of the material Year 2000 problem in its mission critical systems; and 
+
+ 
+
+based on inquiries and to the best of its chief executive officer's knowledge, the non-bank transfer agent does not anticipate that the existence of the material Year 2000 problem in its mission critical systems will impair its ability, depending on the nature of its business, to assure the prompt and accurate transfer and processing of securities, the maintenance of master securityholder files, or the production and retention of required records; and the non-bank transfer agent anticipates that the enumerated remediation steps will result in remedying the material Year 2000 problem on or before November 15, 1999. 
+
+ 
+
+ The Commission has made four changes to the certification provision. First, as stated above, the date by which the non-bank transfer agent must expect to have remediated the material Year 2000 problem is now November 15, 1999 (rather than October 15, 1999). Second, the Commission has added language to paragraph (e)(1)(i)(D) to require that the certification include a statement that the chief executive officer believes that the steps referred to in paragraphs (A) through (C) will result in remedying the material Year 2000 problem no later than November 15, 1999. In the rule as proposed, there was no affirmative statement that the chief executive officer believed that the described remediation steps would address the firm's problems before a specified date. 
+
+ 
+
+ Third, Rule 17Ad-21T(d)(2) provides that a non-bank transfer agent that has or is presumed to have a material Year 2000 problem on or after August 31, 1999, will be permitted to operate until November 15, 1999, if it files a certificate signed by its chief executive officer that contains the representations specified in paragraph (e)(1)(i) of the rule. The Commission is also adding paragraph (e)(1)(ii) to permit non-bank transfer agents to include additional information to show that their mission critical systems are free of material Year 2000 problems. 
+
+ 
+
+ Fourth, the rule as adopted requires non-bank transfer agents that have submitted a certificate pursuant to paragraph (e)(1)(i) to submit a second certificate signed by the chief executive officer (or an individual with similar authority) on or before November 15, 1999, stating that, based on inquiries and to the best of the chief executive's knowledge, the non-bank transfer agent has remediated its Year 2000 problem or that it intends to cease operations. The second certification is designed to give non-bank transfer agents the opportunity to certify to the Commission, the public, and their customers that they have, in fact, remediated their Year 2000 problem. In addition, the second certification will provide information to the Commission regarding the non-bank transfer agents that have fixed their Year 2000 problems and those non-bank transfer agents that have not. 
+
+ 
+
+ The Commission notes that the rule requires a non-bank transfer agent to notify the Commission of material Year 2000 problems it experiences on or after August 31, 1999. Therefore, a non-bank transfer agent filing a certificate on August 31, 1999, must update it if the information contained in the original certificate becomes materially inaccurate in any respect. If a non-bank transfer agent finds a new material Year 2000 problem subsequent to August 31, 1999, it must promptly notify its issuers and the Commission and submit a certificate in accordance with the rule.<h>5. Confidentiality of Notices and Certifications </h>
+
+ 
+
+ In the Proposing Release, we indicated that the August 31, 1999, notices and certifications would be made public so that customers of these transfer agents could assess the potential impact on them and take any appropriate action. Consistent with the Commission's previous policy in making Year 2000 disclosures public, the Commission will make the notices and certificates available to the public. <SUP> 84 </SUP> After December 1, 1999, the Commission will also make public any actions taken against firms that are not Year 2000 compliant under the rule.<h>6. Transfer of Accounts </h>
+
+ 
+
+ In the event that a non-bank transfer agent has a material Year 2000 problem in a mission critical system that it cannot remediate by November 15, 1999, it will have to take steps by December 1, 1999, to transfer customer accounts to other Year 2000 compliant transfer agents. The Commission understands that transfer agents may be reluctant to take over customer accounts from a non-compliant firm. The Commission intends to exercise a great degree of flexibility in accommodating transfer agents that accept accounts before or after December 1, 1999, from impaired transfer agents. <SUP> 85 </SUP> 
+
+ 
+
+ The Commission can take action before December 1, 1999, to protect investors. After August 31, 1999, the Commission will be reviewing notices and certificates, and making follow-up inquiries regarding transfer agents' Year 2000 readiness. Rule 17Ad-21T(f) makes clear that the Commission can take action to protect investors regardless of whether a firm has filed a certificate, to proactively address the few firms that will clearly not be ready for the Year 2000. 
+
+ 
+
+ In addition, the Commission encourages each firm that files a notice and accompanying certificate by August 31, 1999, to begin negotiations for a standby agreement with another transfer agent that does not have a Year 2000 problem in case it becomes necessary to transfer business. The Commission believes that having a standby agreement to transfer business is prudent in light of the Year 2000 problem and the logistics involved in transferring accounts. <SUP> 86 </SUP><h>III. RECORDKEEPING REQUIREMENTSA. Transfer Agents </h><h>A. Transfer Agents </h>
+
+ 
+
+ Proposed Rule 17Ad-21T contained a recordkeeping requirement for non-bank transfer agents. As proposed, the rule required that, beginning August 31, 1999, and ending March 31, 2000, every non-bank transfer agent to make a daily backup copy of its database and file layouts. <SUP> 87 </SUP> The proposal specified that such backup records were to be made at the end of each business day and preserved for a rolling five business day period in a manner that allowed for the possible transfer and conversion to a successor transfer agent. <SUP> 88 </SUP> In the event of a transfer agent failure, it may be impossible to retrieve files unless the transfer agent has previously stored a separate set of backup records. Thus, this requirement was intended to facilitate the transfer to and conversion of records by another registered transfer agent if necessary. 
+
+ 
+
+ The comments received regarding the recordkeeping requirement were favorable. For example, two commenters opined that maintenance of multiple day backup records is a conservative, inexpensive, and responsible approach designed to enhance recovery capabilities. <SUP> 89 </SUP> Three commenters stated that because a backup of daily work is necessary, a recordkeeping requirement set forth in the proposed rule should become a general, not a temporary rule., <SUP> 90 </SUP> One commenter suggested a more extensive recordkeeping program with a backup of three generations of files, <SUP> 91 </SUP> namely, copying the entire database at the end of the week with a daily backup of changed files and transactions, and storing these records for three weeks . 
+
+ 
+
+ Another commenter, however, pointed out that while most larger transfer agents already maintain the required records for longer than five days, the proposed format for record retention appeared likely to be onerous. <SUP> 92 </SUP> This commenter explained that the proposed rule employed the term "database," and therefore would include significantly more records than those required for a successful conversion. It was suggested that the records required to be backed up should be limited to computerized securityholder records that are necessary for a conversion of the securityholder records to a successor transfer agent. 
+
+ 
+
+ Responding to the commenters' concerns, we have made several changes. First, the Commission acknowledges that the requirement to backup the entire database and file layouts on a daily basis might be burdensome. Thus, the rule as adopted requires that backup records must be made and preserved for all master securityholder files. <SUP> 93 </SUP> As adopted, the rule still requires that backup records be maintained for a rolling five business day period. <SUP> 94 </SUP> In case the most recent backup records have been corrupted, this five day preservation requirement gives the transfer agent four more opportunities to obtain uncorrupted backup records from which to reconstruct its critical computer files. In addition, the Commission has also added language which provides for two additional safeguards in case the records need to be reconstructed. First, if a non-bank transfer agent has a material Year 2000 problem, it must preserve for at least one year the five days of backup records immediately preceding the day the problem was discovered. In addition, the non-bank transfer agent must make and preserve for one year backup records for the five business days prior to January 1, 2000. <SUP> 95 </SUP> 
+
+ 
+
+ In summary, Rule 17Ad-21T provides that beginning August 31, 1999, and ending March 31, 2000, a non-bank transfer agent must maintain backup records for all master securityholder files. <SUP> 96 </SUP> Such backup records must be made at the close of each business day and must be preserved for a rolling five business day period in a manner that will allow for the transfer and conversion to a successor transfer agent. If a non-bank transfer agent discovers a Year 2000 problem, it must preserve for at least one year the five day backup records immediately preceding the day the problem was discovered. In addition, the non-bank transfer agent must make, at the close of business on December 27 through 31, 1999, a backup copy for all master securityholder files and preserve these records for at least one year. Such backup records must permit the timely restoration of such systems to their condition existing prior to experiencing the material Year 2000 problem. Copies of the backup records must be kept in an easily accessible place but must not be located with or held in the same computer system as the primary records. In addition, they must be able to be immediately produced or reproduced. A non-bank transfer agent must furnish promptly to a representative of the Commission such legible, true, and complete copies of those records, as may be requested.<h>B. Broker-Dealers </h>
+
+ 
+
+Proposed Rule 17a-9T would have required certain broker-dealers to make a separate copy of their blotters and their securities record or ledger ("securities record") for the last two business days of 1999. <SUP> 97 </SUP> Specifically, the proposed rule would have obligated broker-dealers that, as of December 30 and 31, 1999, are required under Rule 15c3-1(a)(2) to maintain minimum net capital of $250,000 <SUP> 98 </SUP> to make and to preserve a separate copy of their blotters and securities record as of the close of business on December 30 and 31, 1999. Under the proposed rule, broker-dealers could have kept the records on paper or on any micrographic or electronic storage media acceptable under Rule 17a-4(f). Proposed Rule 17a-9T would only have required broker-dealers to make and preserve a separate copy of an existing record and to ensure that the record was created at the close of business on December 30 and December 31, 1999. It would not have required a broker-dealer to create any new record. <SUP> 99 </SUP> This rule was intended to assist broker-dealers, the Commission, the DEAs, and the Securities Investor Protection Corporation in identifying all securities positions carried by the broker-dealer and the location of the securities in the event a broker-dealer experiences Year 2000 problems. 
+
+ 
+
+Several commenters expressed concerns about the proposed recordkeeping rule. One commenter, for example, argued that the recordkeeping rule should apply only to those broker-dealers that failed to file a Form BD-Y2K, those that have failed industry testing, and those that report Year 2000 problems after August 31, 1999. <SUP> 100 </SUP> Another commenter thought that the recordkeeping requirement should apply only to large firms. <SUP> 101 </SUP> One commenter opposed the recordkeeping requirement on the grounds that such records would be difficult to make and the additional requirements would be time consuming and expensive. <SUP> 102 </SUP> In addition, this commenter argued that the rule as proposed did not allow sufficient flexibility in recordkeeping methods. Specifically, this commenter argued that such records should not be kept on non-rewritable and non-erasable storage media, but rather that broker-dealers be permitted to use temporary storage means. <SUP> 103 </SUP> 
+
+ 
+
+Other commenters agreed that records should be kept, but had concerns regarding how and when to make and keep those records. In its comment letter, the NASD stated that the proposed recordkeeping requirements should be extended to cover the last three business days of 1999, in order to assist in identifying securities trades that may not have settled as of year end. <SUP> 104 </SUP> In addition, the NASD suggested that broker-dealers should maintain month-end records for November 1999. <SUP> 105 </SUP> 
+
+ 
+
+The Commission believes that the recordkeeping rule provides a safeguard against unforeseen Year 2000 problems. Should a Year 2000 problem disrupt a broker-dealer, its account positions and transactions must be reconstructed. It is therefore crucial to assure that broker-dealers maintain all the necessary records to permit reconstruction. 
+
+ 
+
+The Commission is adopting Rule 17a-9T with several changes to respond to commenters' concerns and to clarify the rule language. The Commission agrees with the commenters that broker-dealers should keep records for the length of the three day settlement cycle to assure that sufficient records exist in the event of a problem. Thus, the rule as adopted requires broker-dealers to keep records for December 29, December 30, and December 31, 1999. The Commission is also adding language to clarify that such records must be made before January 1, 2000 to assure that separate records are made before the date change and the possibility of data corruption. The rule requires that broker-dealers make separate blotters for each of the final three business days of the year. In addition, the Commission deleted the proposed language that would have allowed a broker-dealer to avoid preserving separate blotters if its securities record reflected both trade date and settlement date positions. The Commission deleted this language because the information contained in blotters, which is different from the information contained in securities records, may be important in reconstructing account positions and transactions. 
+
+ 
+
+The Commission is adding paragraph (d) to Rule 17a-9T to clarify that the records may be maintained in any format that is now acceptable under Rules 17a-3 and 17a-4, so long as broker-dealers comply with all the conditions in those rules. In addition, the Commission is clarifying that broker-dealers that retain the records using micrographic or electronic storage media must comply with all the conditions set forth in paragraph (f) of Exchange Act Rule 17a-4. <SUP> 106 </SUP><h>IV. CONCLUSION </h>
+
+ 
+
+ For the reasons discussed above, the Commission believes that adopting new temporary Rules 15b7-3T, 17Ad-21T, and 17a-9T under the Exchange Act will help the Commission and market participants identify broker-dealers and non-bank transfer agents that will not be ready for Year 2000. The temporary rules provide a schedule for broker-dealers and non-bank transfer agents to remediate Year 2000 problems. The temporary rules balance the need to permit broker-dealers and non-bank transfer agents with sufficient time to address their Year 2000 problems with the need of customers and the financial markets to have time to make alternative arrangements before harm is done. Because of the risks to investors and the financial markets, the temporary rules provide an additional mechanism for regulatory authorities to identify isolated problems and to take action to address those problems before the Year 2000.<h>V. COSTS AND BENEFITS OF THE RULES </h>
+
+ 
+
+ The Commission believes that the benefits of the rules justify the associated costs. To assist the Commission in its evaluation of the costs and benefits and the effect on competition, efficiency and capital formation that may result from the new rules, commenters were requested to provide analysis and data, if possible, relating to costs and benefits associated with the proposal. The Commission received only one comment that that touched on this issue. <SUP> 107 </SUP> 
+
+ 
+
+ The Commission believes that temporary Rules 15b7-3T, 17Ad-21T, and 17a-9T are necessary to protect investors and the integrity of the securities markets during the transition to the Year 2000. The rules are designed to protect investors and the markets from the risks posed by any broker-dealers or non-bank transfer agents who do not succeed in making their mission critical systems Year 2000 compliant by the end of 1999. In addition, the rules provide for the retention of records which will assist broker-dealers, non-bank transfer agents, the Commission, DEAs, and the Securities Investor Protection Corporation in identifying all securities positions and the location of securities in the event that a broker-dealer or non-bank transfer agent experiences a Year 2000 problem. 
+
+ 
+
+ Since the Proposing Release was issued, the rule language has been changed to incorporate several suggestions provided by commenters. In particular, the Commission clarified that (1) only broker-dealers and non-bank transfer agents that use computers in the course of their business as broker-dealers and non-bank transfer agents are subject to the rules; (2) the rules only cover mission critical systems; and (3) for purposes of these rules, broker-dealers and non-bank transfer agents will not be presumed to have a material Year 2000 problem for failing to have written procedures to address Year 2000 problems in mission critical systems if they are under another entity's control. As a result of the changes, the costs have been reduced because the rule affects fewer broker-dealers and non-bank transfer agents. Nonetheless, we recognize that, as described below, these rules will impose costs on broker-dealers and non-bank transfer agents. We believe, however, that the benefits of this rule justify the costs.<h>A. Benefits </h>
+
+ 
+
+ The Commission believes that the rules will provide the following benefits: 
+
+ 
+
+ broker-dealers and non-bank transfer agents will be required to focus on the serious issue of Year 2000 readiness 
+
+ 
+
+ capital formation will be facilitated by the smooth functioning of the U.S. securities markets during the transition to the Year 2000 
+
+ 
+
+ the rules will help ensure that investors are able to promptly access their accounts and execute transactions at the turn of the century 
+
+ 
+
+ investors will be protected in their investment activities by reduced individual firm risk and systemic risk that would result from computer system failures 
+
+ 
+
+ the risks non-Year 2000 compliant broker-dealers and non-bank transfer agents pose to the financial system will be reduced, permitting financial markets to efficiently operate without delays in executions and settlements 
+
+ 
+
+ the temporary recordkeeping requirements will assist the Commission, broker-dealers, DEAs, Securities Investor Protection Corporation, and non-bank transfer agents in reconstructing records that are lost or damaged due to computer problems associated with the Year 2000, if any occur 
+
+ 
+
+ the costs associated with these temporary rules are much lower than the costs that would be incurred if Year 2000 problems were left unchecked<h>B. Costs </h>
+
+ 
+
+ We recognize that these rules will impose certain costs on broker-dealers and transfer agents. To avoid being presumed to have a material Year 2000 problem, broker-dealers and non-bank transfer agents must, on or after August 31, 1999, have written procedures, have verified their Year 2000 remediation efforts through appropriate testing, and have addressed all exceptions contained in any public independent accountant's report. Although these rules may result in some firms accelerating their remediation programs, these are costs most broker-dealers and non-bank transfer agents already must incur in order to comply with other Commission and/or SRO rules. In addition, virtually all broker-dealers and non-bank transfer agents must already incur these costs in order to take the necessary steps to become Year 2000 compliant and therefore to stay in business post-Year 2000. 
+
+ 
+
+ Broker-dealers and transfer agents that have material Year 2000 problems or do not have the operational capability to conduct their respective businesses could bear additional costs, i.e. , the costs of not being able to engage in their business. However, the market itself may impose these costs on them once it became clear that they were not ready for the Year 2000 or do not have the required operational capability. 
+
+ 
+
+ Finally, as described below, these rules will impose additional costs on firms required to file notices and certificates with the Commission. The rules will also impose additional costs on firms subject to the recordkeeping requirements of the rules.<h>1. Rule 15b7-3T </h>
+
+ 
+
+ The Commission staff estimates that approximately 39 brokers-dealers will be affected by the rule. <SUP> 108 </SUP> The Commission staff estimates that each respondent will submit one notice. The Commission staff estimates that the aggregate cost burden for 39 broker-dealers to submit notices will be $1,950. <SUP> 109 </SUP> 
+
+ 
+
+ The Commission staff expect that most, if not all, broker-dealers with Year 2000 problems on or after August 31, 1999, will choose to submit an initial certificate in order to continue operations. Broker-dealers that submit an initial certificate must file a second certificate. The Commission staff estimates that the aggregate cost burden for 39 broker-dealers to submit both certificates will be $3,900. <SUP> 110 </SUP> 
+
+ 
+
+ The Commission estimates the aggregate burden on broker-dealers to file one notice and two certificates will be $5,850.<h>2. Rule 17Ad-21T </h>
+
+ 
+
+ The Commission staff estimates that there will be approximately 6 non-bank transfer agents affected by rule. <SUP> 111 </SUP> The Commission staff also estimates that each respondent will submit one notice under the rule. The Commission staff estimates that the aggregate cost burden for 6 non-bank transfer agents to submit notices will be $300. <SUP> 112 </SUP> 
+
+ 
+
+ The certificate requirement is optional. The Commission, however, expects most, if not all, non-bank transfer agents with material Year 2000 problems on or after August 31, 1999, to submit the initial certificate in order to continue performing certain functions. Non-bank transfer agents that submit an initial certificate must file a second certificate. The Commission staff estimates that the aggregate cost burden for 6 non-bank transfer agents to submit both certificates will be $600. <SUP> 113 </SUP> 
+
+ 
+
+ The Commission estimates that the aggregate burden on non-bank transfer agents to file one notice and two certificates will be $900.<h>C. Recordkeeping Requirements1. Transfer Agents </h><h>1. Transfer Agents </h>
+
+ 
+
+ The Commission staff estimates that there are approximately 600 non-bank transfer agents that will be impacted by Rule 17Ad-21T's recordkeeping requirements. The Commission estimates that the recordkeeping costs to each non-bank transfer agent under the rule will be minimal because the Commission is simply codifying what is already an existing and established business practice. <SUP> 114 </SUP> The Commission reached this conclusion after considering that these records will already exist and the rule only requires non-bank transfer agents to make separate copies. The Commission staff estimates the aggregate cost burden of 600 non-bank transfer agents to comply with this recordkeeping requirement to be approximately $4,590,000. <SUP> 115 </SUP> The Commission notes that a substantial portion of this cost is already incurred by non-bank transfer agents because they perform this recordkeeping in the course of their business. <SUP> 116 </SUP> 
+
+ 
+
+ The rule also requires non-bank transfer agents that have a material Year 2000 problem to preserve for at least one year backup records for the five days immediately preceding the day the Year 2000 problem was discovered. The Commission staff estimates that the non-bank transfer agents that must comply with this provision will incur an aggregate cost burden of $1,200. <SUP> 117 </SUP> 
+
+ 
+
+ The rule requires that non-bank transfer agents make at the close of business on December 27 through 31, 1999, a backup copy of all master securityholder lists and preserve these records in an easily accessible place for at least one year. The Commission staff estimates the aggregate cost burden to comply with this recordkeeping requirement to be approximately $120,000. <SUP> 118 </SUP> 
+
+ 
+
+ The records required to be made and kept under the rule are records that are currently kept by non-bank transfer agents. Thus, the Commission is not promulgating rules that require respondents to generate new records. Rather, the rules only require that a back-up copy be made and kept. The rules will aid the Commission, non-bank transfer agents, and the public in the event of operational failures by non-bank transfer agents. The Commission believes that the rules will guard against Year 2000 problems.<h>2. Broker-Dealers </h>
+
+ 
+
+ The Commission staff estimates that approximately 1,100 broker-dealers will be affected by Rule 17a-9T. <SUP> 119 </SUP> The Commission staff estimates that the aggregate cost burden for 1,100 broker-dealers to make and preserve the records required by this rule will be approximately $15,000. <SUP> 120 </SUP> 
+
+ 
+
+ The records required to be copied and kept under the rule are records that are currently kept by broker-dealers. <SUP> 121 </SUP> Thus, the Commission is not promulgating a rule that requires respondents to generate new records. Rather, the rules only require that back-up copies be made and kept. The records required by this rule will benefit the Commission and the public in the event of operational failures by broker-dealers. The records will assist in the identification of all securities positions carried by the broker-dealer, and the transfer to and conversion of records to another entity.<h>VI. EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION </h>
+
+ 
+
+ Section 23(a)(2) of the Exchange Act requires that the Commission, when adopting rules under the Exchange Act, consider the anticompetitive effects of those rules, if any, and balance any anticompetitive impact against the regulatory benefits gained in terms of furthering the purposes of the Exchange Act. <SUP> 122 </SUP> In the Proposing Release, the Commission solicited comment on the effects of the rules on competition, efficiency and capital formation. The Commission received one comment regarding these issues. <SUP> 123 </SUP> The commenter stated that the proposals would harm all of these areas. <SUP> 124 </SUP> Specifically, the commenter stated that the rules would place smaller firms under unnecessary burdens. <SUP> 125 </SUP> The commenter also objected to the filing and recordkeeping requirements as being inefficient. <SUP> 126 </SUP> 
+
+ 
+
+ The Commission has considered Rules 15b7-3T, 17Ad-21T, and 17a-9T in light of the comment received and the standards cited in Section 23(a)(2) of the Exchange Act. <SUP> 127 </SUP> The Commission believes that these new rules do not impose any significant burden on competition not necessary or appropriate in furtherance of the Exchange Act. With the Year 2000 quickly approaching, all firms should be preparing for the Year 2000. Testing computer systems and remediating Year 2000 problems is a matter of good business practice that is necessary for the protection of investors and the securities markets. A firm that expends resources preparing for the Year 2000 will no longer be at a competitive disadvantage to another firm that does not expend any resources preparing for the Year 2000. 
+
+ 
+
+ The Commission believes that the rules are necessary for the U.S. securities markets to operate efficiently at the turn of the century. Without the rules, non-compliant firms that interact with other market participants could have detrimental and potentially widespread consequences on other market participants. The new rules reduce the likelihood of a firm's Year 2000 problem affecting the securities markets to the detriment of investors and the public. By reducing the likelihood of firms experiencing Year 2000 problems ( e.g. , problems have the potential to delay executions and slow the settlement process), the Commission is promoting efficiency. 
+
+ 
+
+ The rules will not hinder capital formation. The rules are necessary to ensure that the U.S. securities markets function efficiently in the Year 2000 and, more specifically, that broker-dealers and non-bank transfer agents are able to provide their customers prompt and efficient service.<h>VII. FINAL REGULATORY FLEXIBILITY ANALYSIS </h>
+
+ 
+
+ This Final Regulatory Flexibility Analysis ("FRFA") has been prepared in accordance with Section 4 of the Regulatory Flexibility Act ("RFA"). <SUP> 128 </SUP> It relates to new temporary Rules 15b7-3T, 17a-9T, and 17Ad-21T under the Exchange Act. 
+
+ 
+
+ An Initial Regulatory Flexibility Analysis ("IRFA") was prepared in accordance with 5 U.S.C. 603 and was made available to the public. <SUP> 129 </SUP><h>A. Need For and Objectives of Amendments </h>
+
+ 
+
+ Unless proper modifications have been made, many computer systems in the Year 2000 will incorrectly read the date "01/01/00" as being in the year 1900 or another incorrect date. Year 2000 problems could have negative repercussions throughout the financial system because of the extensive interrelationship between broker-dealers, transfer agents, other market participants and markets. The new rules are intended to reduce the chances of harm to investors and the potential systemic risk to the public and the financial markets as a result of operational failures by registered broker-dealers and non-bank transfer agents.<h>1. Rule 15b7-3T </h>
+
+ 
+
+ Temporary Rule 15b7-3T is needed to protect investors and the integrity of the securities markets during the transition to the Year 2000. The objective of the rule is to help ensure that broker-dealers operating at the turn of the century are Year 2000 compliant. To accomplish this objective, Rule 15b7-3T requires broker-dealers that have or are presumed to have a material Year 2000 problem on or after August 31, 1999, to notify the Commission and their DEA. Those broker-dealers that have or are presumed to have a material Year 2000 problem must cease to conduct their securities business. 
+
+ 
+
+ The rule, however, provides those brokers or dealers that are not Year 2000 compliant on or after August 31, 1999, the opportunity to remediate their Year 2000 problem by submitting a certificate to the Commission. By filing a certificate, firms have until November 15, 1999, to remediate their Year 2000 problems. A broker-dealer that continues to have a material Year 2000 problem on November 15, 1999, has until December 1, 1999, to unwind its business. If a broker-dealer submits a certificate stating that it will remediate its Year 2000 problem by November 15, 1999, that broker-dealer is required to submit a second certificate to the Commission stating that it has remediated its Year 2000 problem or it intends to cease operations.<h>2. Rule 17Ad-21T </h>
+
+ 
+
+ Temporary Rule 17Ad-21T is needed to protect investors and the national market system during the transition to the Year 2000. The objective of the rule is to help ensure that that non-bank transfer agents will be capable of performing their functions in the Year 2000. To accomplish this objective, Rule 17Ad-21T requires non-bank transfer agents that have or are presumed to have a material Year 2000 problem on or after August 31, 1999, to notify the Commission. Non-bank transfer agents that have a material Year 2000 problem on or after August 31, 1999, must cease to conduct their transfer agent operations. 
+
+ 
+
+ The rule, however, permits those non-bank transfer agents that have or are presumed to have a material Year 2000 problem on or after August 31, 1999, the opportunity to submit a certificate stating their Year 2000 status and intent to remediate the problem. By filing a certificate, firms have until November 15, 1999, to remediate their Year 2000 problems. A non-bank transfer agent that continues to have a material Year 2000 problem on November 15, 1999, has until December 1, 1999, to unwind its business. If a non-bank transfer agent submits a certificate stating that it will remediate its Year 2000 problem by November 15, 1999, that non-bank transfer agent is required to submit a second certificate to the Commission stating that it has remediated its Year 2000 problem or it intends to cease operations. 
+
+ 
+
+ In addition, Rule 17Ad-21T contains a recordkeeping requirement. The objective of the rule's recordkeeping requirement is to help facilitate the transfer to and conversion of records to a Year 2000 compliant transfer agent, if necessary. The rule requires that registered non-bank transfer agents implement daily backup procedures and maintain backup records for all master securityholder files beginning August 31, 1999, and ending March 31, 2000. Records backup must be performed at the close of each business day. The records must be preserved for a five business day period. 
+
+ 
+
+ If a firm has a material Year 2000 problem, the rule mandates that it must preserve, for at least one year, the backup records for the five days immediately preceding the day the problem was discovered. In addition, firms must make, at the close of business on December 27 through 31, 1999, a backup copy of all master securityholder files and preserve these records in an easily accessible place for at least one year.<h>3. Rule 17a-9T </h>
+
+ 
+
+ Temporary Rule 17a-9T is needed to assist broker-dealers, the Commission, the DEAs, and the Securities Investor Protection Corporation in identifying all securities positions carried by the broker-dealer and the location of the securities in the event that a broker-dealer experiences a Year 2000 problem. The rule requires certain broker-dealers to make before January 1, 2000, separate blotters pursuant to Rule 17a-3(a)(1) <SUP> 130 </SUP> and a separate securities record or ledger pursuant to Rule 17a-3(a)(5) for each of the last three business days of 1999. These records must be preserved for a period of not less than one year.<h>B. Significant Issues Raised by Public Comments </h>
+
+ 
+
+ No public comments were received in response to the IRFA and no comments specifically addressed that analysis. Commenters did, however, discuss limiting the scope of the proposed rules to exclude small firms. For example, several commenters urged the Commission to limit the applicability of Rule 15b7-3T to clearing firms, firms with larger numbers of customer accounts, firms that use computers for record keeping, order execution or order transmission, or firms with higher capital requirements. <SUP> 131 </SUP> 
+
+ 
+
+ In response to commenters' concerns that the scope of the proposed Rule 15b7-3T is too broad, the Commission has modified the language of Rule 15b7-3T to clarify that the rule applies only to broker-dealers that use computers in the conduct of their business as a broker or dealer. In order to clarify the rule's scope, the Commission noted in this adopting release that Rule 15b7-3T is not intended to cover a broker-dealer whose reliance on automation is limited to the use of off-the-shelf word processing or accounting software. Moreover, smaller broker-dealers that still transmit orders via the telephone are not intended to be covered; only broker-dealers that use computers to conduct their business as broker-dealers are subject to the rule. 
+
+ 
+
+ The Commission further clarified in the release and rule that only material problems in mission critical systems trigger the provisions of this rule. In other words, only problems that might pose a risk to investors and markets are covered by this rule. 
+
+ 
+
+ The Commission has decided not to exclude broker-dealers from the rule based on factors such as size or number of accounts. The Commission believes that even small or introducing broker-dealers have the potential to affect other market participants by, for example, introducing inaccurate or corrupted data into other systems. The Commission believes the more appropriate test for applicability is whether a broker-dealer uses computers in the conduct of its business as a broker-dealer. 
+
+ 
+
+ Although the Commission did not receive any comments requesting that Rule 17Ad-21T be limited to exclude small non-bank transfer agents, the Commission has determined to limit Rule 17Ad-21T to non-bank transfer agents that use computers in the conduct of their business as a transfer agent.<h>C. Legal Basis </h>
+
+ 
+
+ Proposed Rules 15b7-3T and 17a-9T are being proposed pursuant to Sections 3(b), 15(b) and (c), 17, and 23(a) of the Exchange Act [15 U.S.C. 78c(b), 78o(b) and (c), 78q and 78w(a)]. Proposed Rule 17Ad-21T is being proposed pursuant to Sections 17(a), 17A(d), and 23(a) of the Exchange Act [15 U.S.C. 78q(a), 78q-1(d) and 78w(a)].<h>D. Small Entities Subject to the Rule </h>
+
+ 
+
+ For purposes of Commission rulemaking, paragraph (c) of Rule 0-10 under the Exchange Act <SUP> 132 </SUP> defines the term "small business" or "small organization" to include any broker or dealer that: (1) Had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to 240.17a-5(d) or, if not required to file such statements, a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the last business day of the preceding fiscal year (or in the time that it has been in business, if shorter); and (2) Is not affiliated with any person (other than a natural person) that is not a small business or small organization as defined in this section. 
+
+ 
+
+ For purposes of Commission rulemaking, paragraph (h) of Rule 0-10 under the Exchange Act <SUP> 133 </SUP> defines the term "small business" or "small organization" to include any transfer agent that: (1) Received less than 500 items for transfer and less than 500 items for processing during the preceding six months (or in the time that it has been in business, if shorter); (2) Transferred items only of issuers that would be deemed "small businesses" or "small organizations" as defined in this section; (3) Maintained master shareholder files that in the aggregate contained less than 1,000 shareholder accounts or was the named transfer agent for less than 1,000 shareholder accounts at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (4) Is not affiliated with any person (other than a natural person) that is not a small business or small organization under this section. 
+
+ 
+
+ All registered brokers or dealers that use computers in the conduct of their business are subject to the requirements of Rule 15b7-3T. The Commission staff estimates that there are 8,300 registered broker-dealers, of which approximately 5,200 qualify as "small entities" for purposes of the RFA. Not all of the 5,200 broker-dealers that qualify as "small entities" will be subject to the new rule. Specifically, broker-dealers that do not use computers in the conduct of their business will not be subject to the rule. 
+
+ 
+
+ All registered non-bank transfer agents that use computers in the conduct of their business are subject to Rule 17Ad-21T. The Commission staff estimates that there are approximately 1,120 registered transfer agents. Approximately 600 are non-bank transfer agents. Of these, 430 qualify as "small entities" for purposes of the RFA. Not all of the 430 non-bank transfer agents that qualify as "small entities" will be subject to the new rule, however. Specifically, non-bank transfer agents that do not use computers in the conduct of their business will not be subject to the rule. 
+
+ 
+
+ Rule 17a-9T applies only to broker-dealers that are required to maintain a minimum net capital of $250,000 pursuant to Rule 15c3-1(a)(2)(i) as of December 29, 30, and 31, 1999. The Commission estimates that of the 8,300 registered broker-dealers, 1,100 are required to maintain a minimum net capital of $250,000. The Commission staff estimates that 15 of these broker-dealers may qualify as "small entities," as defined in the RFA.<h>E. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+ 
+
+ The Commission believes that, for business reasons, prudent broker-dealers should already have developed plans to address potential computer problems caused by the Year 2000. Therefore, Rule 15b7-3T is not placing new burdens on broker-dealers to develop plans or address computer problems. The rule does, however, require broker-dealers that are not Year 2000 compliant to (1) notify the Commission and their DEAs of material Year 2000 problems on or after August 31, 1999, (2) submit a certificate to the Commission if they wish to continue operations beyond August 31, 1999, and (3) submit a second certificate to the Commission if they previously filed a certificate and wish to stay in business. 
+
+ 
+
+ The Commission believes that, for business reasons, prudent non-bank transfer agents should already have developed plans to address potential computer problems caused by the Year 2000. Therefore, Rule 17Ad-21T is not placing new burdens on non-bank transfer agents to develop plans or address computer problems. The rule does, however, require non-bank transfer agents that are not Year 2000 compliant to (1) notify the Commission of material Year 2000 problems on or after August 31, 1999, (2) submit a certificate to the Commission if they wish to continue operations beyond August 31, 1999, and (3) submit a second certificate to the Commission if they previously filed a certificate and wish to stay in business. 
+
+ 
+
+ In addition, Rule 17Ad-21T contains a recordkeeping requirement. The rule requires that registered non-bank transfer agents implement daily backup procedures and maintain backup records for all master securityholder files beginning August 31, 1999, and ending March 31, 2000. Records backup must be performed at the close of each business day. The records must be preserved for a rolling five business day period. The rule also requires that if a firm has a material Year 2000 problem, it must preserve for at least one year the five day backup records immediately preceding the day the problem was discovered. In addition, firms must make, at the close of business on December 27 through 31, 1999, a backup copy for all master securityholder files and preserve these records in an easily accessible place for at least one year. The recordkeeping requirement does not require non-bank transfer agents to make any new records, but only to preserve a separate copy of an existing record. 
+
+ 
+
+ Temporary Rule 17a-9T provides that only those broker-dealers required to maintain a minimum net capital of $250,000 are required to make and preserve a separate trade blotter and a separate securities record or ledger as of the close of business of each of the last three business days of 1999. The recordkeeping requirement does not require such broker-dealers to make any new records, but only to preserve a separate copy of an existing record. The records are required to be kept in an easily accessible place for a period of not less than one year. The Commission notes that this is not a continuing obligation, but only applies on December 29, 30, and 31, 1999.<h>F. Duplicative, Overlapping or Conflicting Federal Rules </h>
+
+ 
+
+ The Commission believes that there are no rules that duplicate, overlap, or conflict with the adopted rules.<h>G. Steps to Minimize Impact on Small Entities </h>
+
+ 
+
+ The RFA directs the Commission to consider significant alternatives that would accomplish the stated objective, while minimizing any significant adverse economic impact on small entities. Pursuant to Section 3(c) of the RFA, the Commission considered the following alternatives: 
+
+ 
+
+ (a) the establishment of differing compliance or reporting requirements or timetables the take into account the resources available to small entities; 
+
+ 
+
+ (b) the clarification, consolidation, or simplification of compliance and reporting requirements under the rules for such small entities; 
+
+ 
+
+ (c) the use of performance rather than design standards; and 
+
+ 
+
+ (d) an exemption from coverage of the rules, or any part thereof, for such small entities. 
+
+ 
+
+ Regarding the first alternative, the compliance and reporting requirements contained in 15b7-3T and 17Ad-21T are narrowly tailored to help ensure all firms are Year 2000 compliant and not subjected to unnecessary burdens. In an effort to allow firms with Year 2000 problems the maximum amount of time possible to remedy them, the Commission has extended the deadline one month, from October 15, 1999, to November 15, 1999. Pushing back the deadline provides small entities which may have limited resources extra time to become Year 2000 compliant. Rather than allowing only small entities to take advantage of the extra month, the Commission decided to allow all firms to take advantage of the extension. 
+
+ 
+
+ Regarding the second alternative, the Commission notification requirements contained in Rules 15b7-3T and 17Ad-21T simply state that notice must be made. The certification provisions were designed to clearly and succinctly set forth the information necessary to be included in the certificate. As for Rule 17a-9T, which contains a minimum net capital requirement of $250,000, the Commission anticipates that very few small entities, if any, will be obligated to comply with the rule. 
+
+ 
+
+ Regarding the third alternative, Rules 15b7-3T and 17Ad-21T incorporate the use of performance standards because they do not set forth the method for broker-dealers or non-bank transfer agents to become Year 2000 compliant, but only require them to be Year 2000 compliant and able to perform their ordinary business functions for investors. Similarly, the notice requirements do not specify the form the notices must take. Adequate notice must be provided to the Commission for purposes of Rules 15b7-3T and 17Ad-21T, but the Commission is not determining the design or the format of those notices. 
+
+ 
+
+ Regarding the fourth alternative, Rules 15b7-3T and 17Ad-21T exclude from coverage firms that do not use computers to conduct their business. This exclusion, which was created in response to commenters' concerns, is primarily designed to benefit small firms. In addition, smaller broker-dealers, i.e. , firms that are not required to maintain minimum net capital of $250,000, would be exempt from the requirements of Rule 17a-9T. The Commission believes, however, that all registered broker-dealers and transfer agents that do not fit into the exclusions set forth above are important to protecting investors and the national securities market from Year 2000 problems. 
+
+ 
+
+ Therefore, having considered the foregoing alternatives, the Commission believes the rules include regulatory alternatives that minimize the impact on small entities while achieving the stated objectives.<h>VIII. PAPERWORK REDUCTION ACT </h>
+
+ 
+
+ As explained in the proposing release, certain provisions of the rules contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA")(44 U.S.C. 3501 et seq .). Accordingly, the Commission submitted the collection of information requirements contained in the rules to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. OMB approved the new collections and assigned the following control numbers: Rule 15b7-3T, OMB No. 3235-0526; Rule 17a-9T, OMB No. 3235-0524; Rule 17Ad-21T(c) and (e), OMB No. 3235-0525; and Rule 17Ad-21T(f), OMB No 3235-0525. The new rules are necessary to protect investors and the financial markets from Year 2000 problems. An agency may not sponsor, conduct, or require response to an information collection unless a currently valid OMB control number is displayed. 
+
+ 
+
+ In the Proposing Release, the Commission requested comment on the proposed collections of information. Only one comment was received that specifically addressed the PRA submission. <SUP> 134 </SUP> However, other comments touched on PRA related issues. Based on these comments, the Commission has revised the collections of information required under the rules, as discussed below.<h>A. Rules 15b7-3T and 17Ad-21T(c) and (e) </h>
+
+ 
+
+ As more fully described in Section II. A and B above, the Commission has added a second certification requirement to Rules 15b7-3T and 17Ad-21T. <SUP> 135 </SUP> The second certification provision is designed to give firms the opportunity to certify to the Commission, the public, and their customers that they have, in fact, remediated their Year 2000 problem. In addition, the second certification notifies the Commission of which firms have fixed their Year 2000 problems and which firms have not. 
+
+ 
+
+ There are approximately 8,300 registered broker-dealers and 600 registered non-bank transfer agents. The Commission staff estimates that approximately 3,900 broker-dealers and 600 non-bank transfer agents will have systems that will need to be Year 2000 compliant. <SUP> 136 </SUP> Based on information provided by the SROs, the Commission staff estimates that approximately one percent of these broker-dealers might be required to submit notices and choose to submit certificates under the rule. Thus, the Commission staff estimates that there will be approximately 39 broker-dealers that will be affected by the rule. Similarly, the Commission staff estimated that one percent of non-bank transfer agents (approximately 6 entities) will be affected by the rule. 
+
+ 
+
+ In the Proposing Release, the Commission staff estimated that each respondent submitting a notice of a material Year 2000 problem will incur an average burden of 0.5 hours, and that each respondent submitting a certificate will incur an average burden of 0.5 hours. The burden for submitting a second certificate is estimated by the Commission staff to be an additional 0.5 hours. Hence, the Commission estimates that the total burden per broker-dealer and non-bank transfer agent will be 1.5 hours. 
+
+ 
+
+ The notice requirement of the rule is mandatory for all affected broker-dealers and non-bank transfer agents. The certification process is optional. The Commission, however, expects most broker-dealers and non-bank transfer agents with material Year 2000 problems after August 31, 1999, to submit the initial certificate and the follow-up certificate in order to continue performing certain functions. Thus, the aggregate burden for 39 broker-dealer respondents will be approximately 58.5 hours (39 broker-dealers multiplied by 1.5 hours), and the aggregate burden for 6 non-bank transfer agent respondents will be approximately 9 hours (6 non-bank transfer agents multiplied by 1.5 hours). The Commission notes that its estimate of the paperwork burden for Rules 15b7-3T and 17Ad-21T(c) and (e) has changed slightly from that approved by OMB. Accordingly, the Commission has submitted a PRA Change Worksheet to OMB.<h>B. Rule 17Ad-21T(g) </h>
+
+ 
+
+ In response to the comments received, the Commission made several changes to Rule 17Ad-21T, particularly with regard to the type of records required to be retained. Nevertheless, the Commission estimates that the burden on transfer agents will stay the same. The Commission estimates that the recordkeeping burden to non-bank transfer agents under the rule should be minimal because the records will already exist and the rule only requires non-bank transfer agents to make separate copies. The Commission staff estimates that there are approximately 600 non-bank transfer agents. The Commission staff estimates that non-bank transfer agents will incur a burden of 0.25 hours per business day to comply with the recordkeeping requirement. <SUP> 137 </SUP> Thus, the Commission staff estimates that the total burden for each non-bank transfer agent for the period between August 31, 1999, and March 31, 2000, will be approximately 38 hours (approximately 151 business days at 0.25 hours per business day). The Commission staff estimates that the aggregate burden for all non-bank transfer agents under the rule will be approximately 22,800 hours (600 transfer agents at 38 hours per transfer agent). The Commission notes that a substantial portion of this burden is already assumed by non-bank transfer agents. <SUP> 138 </SUP><h>C. Rule 17a-9T </h>
+
+ 
+
+ As more fully described in Section III. B above, the Commission extended 17a-9T's recordkeeping requirement from the last two business days of 1999 to the last three business days of 1999. The Commission has made no other substantive changes to the rule because the rule does not require broker-dealers to make new records, but only to preserve a copy of existing records. 
+
+ 
+
+ In the Proposing Release, the Commission estimated that each broker-dealer subject to the rule would incur an average burden of 0.5 hours (0.25 hours per day). Because the Commission has extended the recordkeeping requirement to include December 29, 1999, the Commission staff now estimates that each broker-dealer will incur an average burden of 0.75 hours. 
+
+ 
+
+ Since the Proposing Release, the Commission has also revised its estimate regarding the number of broker-dealers that will be required to comply with the rule. In the Proposing Release, the Commission estimated that approximately 4,300 broker-dealers would be subject to the rule's requirement. After reviewing current filings with the Commission, we now estimate that approximately 1,100 broker-dealers will meet the net capital requirements necessary to be subject to the rule. <SUP> 139 </SUP> The Commission staff estimates that the total aggregate burden under the rule will be approximately 825 hours (1,100 broker-dealers at 0.75 hours per broker-dealer). The Commission staff's estimate of the aggregate paperwork burden to comply with Rule 17a-9T has decreased from 2,150 hours to 825 hours. <SUP> 140 </SUP> Accordingly, the Commission has submitted to OMB a revision of the currently approved collection.<h>IX. EFFECTIVE DATE </h>
+
+ 
+
+ The effective date for Rules 15b7-3T, 17Ad-21T and 17a-9T is August 30, 1999. Section 553(d) of the Administrative Procedure Act requires that, unless an exception applies, a substantive rule may not be made effective less than 30 days after notice of the rule has been published in the Federal Register . <SUP> 141 </SUP> One exception to the 30-day requirement is when an agency finds good cause for a shorter notice period. We find that good cause exists in this situation. 
+
+ 
+
+ The need to implement the rules less than 30 days after publication arises from the time-sensitive nature of the Year 2000 problem as well as from the specific date components of the rule. Because the date by which Year 2000 problems in mission critical computer systems must be repaired cannot be changed, the effectiveness of these rules cannot be delayed beyond August 30. The rule will permit us to act to reduce the risk to investors and the securities markets posed by broker-dealers and non-bank transfer agents that have not adequately prepared their computer systems for the millennium transition. 
+
+ 
+
+ We also believe that this early effectiveness will not impose any significant burdens on broker-dealers and transfer agents subject to the rule. First, we are adopting these rules in an open meeting more than 30 days before they become effective. Our formal Federal Register notice will provide less than 30 days notice because of the time required to prepare the rule for publication. As a result, many broker-dealers and non-bank transfer agents subject to the rule will, in fact, have more than 30 days notice before the rules become effective. Moreover, these rules will be effective only a few days earlier than they otherwise would have been. This minimizes the burden imposed by early effectiveness. 
+
+ 
+
+ Second, we believe that the broker-dealers and transfer agents subject to these rules are effectively already in preparation for their effectiveness. In particular, broker-dealers and transfer agents are already aware that we are treating the Year 2000 problem as a serious problem. In addition, because a broker-dealer or transfer agent that does not fix its computer systems by the end of the year will likely not be able to continue in business, virtually all persons directly affected by this rule are already fixing their systems. Indeed, many broker-dealers are already subject to testing requirements imposed by their SROs. We therefore find that good cause exists to make these rules effective less than thirty days after publication in the Federal Register .<h>X. STATUTORY BASIS </h>
+
+<END MAIN TEXT>
+
+1 Exchange Act Release No. 40162 (July 2, 1998), 63 FR 37668 (July 13, 1998); Exchange Act Release No. 40163 (July 2, 1998), 63 FR 37688 (July 13, 1998).
+
+2 In addition, we later amended Rule 17a-5 and Rule 17Ad-18 to require these entities to file a report prepared by an independent public accountant regarding their process for preparing for the Year 2000. Exchange Act Release No. 40608 (Oct. 28, 1998), 63 FR 59208 (Nov. 3, 1998); Exchange Act Release No. 40587 (Oct. 22, 1998), 63 FR 58630 (Nov. 2, 1998).
+
+3 Exchange Act Release No. 40277 (July 29, 1998), 63 FR 41394 (Aug. 4, 1998). We subsequently published guidance in the form of Frequently Asked Questions to clarify recurring issues regarding Year 2000 disclosure obligations. Exchange Act Release No. 40649 (Nov. 9, 1998), 63 FR 63758 (Nov. 16, 1998).
+
+4 In addition, in June 1997 and 1998, our staff published reports to Congress on the Readiness of the United States Securities Industry and Public Companies to Meet the Information Processing Challenges of the Year 2000 . Both of these reports are available at (and yr2000-2.htm). Our staff has submitted a similar report to Congress for 1999.
+
+5 In addition, we are actively participating in international Year 2000 efforts, including those sponsored by International Organization of Securities Commissions ("IOSCO").
+
+6 See , e.g. , Exchange Act Release No. 40573 [Adm. Proc. File No. 3-9758] (Oct. 20, 1998) (broker-dealers that failed to file Form BD-Y2K); Exchange Act Release No. 40895 [Adm. Proc. No. 3-9801] (Jan. 7, 1999) (transfer agents that failed to file Form TA-Y2K). We also filed 8 actions against investment advisors that failed to file similar Year 2000 reports. See , e.g. , Investment Advisors Act Release No. 1800 [Adm. Proc. No. 3-9888] (May 4, 1999).
+
+7 We also reminded broker-dealers and non-bank transfer agents that failure to adequately prepare for the Year 2000 will not be considered a valid excuse for noncompliance with the requirements of Exchange Act Rules 17a-3, 17Ad-6, and 17Ad-7 to make and keep current books and records. See generally Exchange Act Release Nos. 40162 (July 2, 1998), 63 FR 37668 (July 13, 1998); 40163 (July 2, 1998), 63 FR 37688 (July 13, 1998). See also In re Lowell H. Listrom, 50 SEC 883, n. 7 (1992) (Commission stating that "if a broker-dealer or its agent develops a computer-communications system to facilitate regulatory compliance, failure of that system does not excuse the broker-dealer from its obligation to comply with each of its regulatory responsibilities.")
+
+8 15 U.S.C. 78a et seq.
+
+9 Exchange Act Release No. 41142 (Mar. 5, 1999), 64 FR 12127 (Mar. 11, 1999) ("Proposing Release"). On March 5, 1999, the Commission also proposed Rule 15b7-2 and 17Ad-20 under the Exchange Act. These rules would have codified a statutory requirement that broker-dealers and non-bank transfer agents have sufficient operational capability to conduct a securities business. The Commission is deferring action on the general operational capability rules at this time.
+
+10 Proposed temporary Rules 15b7-3T and 17Ad-21T.
+
+11 Proposed temporary Rule 17a-9T.
+
+12 The comment letters are in Public File S7-8-99, which is available for inspection in the Commission's Public Reference Room. The Commission received comment letters on behalf of the following: American Institute of Certified Public Accountants ("AICPA"); Associated Financial Services, Inc.; The Bond Market Association; Brown & Brown Securities, Inc.; Patrick Calby; Charles Schwab & Co., Inc.; DST Systems, Inc.; Federated Investors, Inc.; Goffstown Financial Investments; Gramercy Securities; Grodsky Associates, Inc.; HBK Finance L.P. and HBK Securities Ltd; H.C. Denison & Co.; H.M. Payson & Co.; Paul Henning; Holly Securities, Inc.; Instinet Corporation; Intellivest Securities, Inc.; Investment Company Institute ("ICI"); Dan Jamieson; L.P.; The Jeffrey Matthews Financial Group, LLC; Lam Securities Investments, Inc.; Littlewood & Associates, Inc.; M. Hadley Securities, Inc.; Dan McEwan; Monroe Securities; Morgan Stanley & Co. Incorporated; National Association of Securities Dealers, Inc. ("NASD"); Network 1 Financial Securities, Inc.; Pershing Division of Donaldson, Lufkin & Jenrette Securities Corporation ("Pershing"); Raymond James Financial, Inc.; Registrar and Transfer Company ("RTC"); Howard Spindel; Securities Industry Association ("SIA"); The Securities Transfer Association ("STA"); Sierra Trading Group LLC; Stock USA, Inc.; Treasure Financial Corp.; U.S. Bancorp Piper Jaffray; U.S. Participation, Ltd.; Wall Street Capital Company; Dale W. Way.
+
+13 See generally proposed Rule 15b7-3T.
+
+14 See proposed Rule 15b7-3T(c), (d), and (e).
+
+15 See letters from Intellivest Securities and Monroe Securities.
+
+16 See proposed Rule 15b7-3T(b)(1).
+
+17 See letters from Goffstown Financial Investments, Gramercy Securities, Grodsky Associates, Holly Securities, HBK Finance, Intellivest Securities, Dan Jamieson, Monroe Securities, U.S. Participation, and Wall Street Capital Company.
+
+18 See NASD letter.
+
+19 19 See AICPA letter.
+
+20 See letters from Pershing and SIA.
+
+21 See NASD letter. Specifically, the NASD recommended that the rule should cover other date related processing errors and incorporate references to functionality, data integrity, and performance. The Commission believes that these concepts are already included in the rule's definition of "material Year 2000 problem" and that this degree of specificity might cause confusion.
+
+22 See temporary Rule 15b7-3T(b)(1). The term "mission critical system" is defined as any system that is necessary, depending on the nature of the broker-dealer's business, to assure the prompt and accurate processing of securities transactions, including order entry, execution, comparison, allocation, clearance and settlement of securities transactions, the maintenance of customer accounts, and the delivery of funds and securities. Temporary Rule 15b7-3T(g)(1). The phrase "depending on the nature of their business" is intended to tailor the definition of a "material Year 2000 problem" to different broker-dealers' businesses and operations. The definition of "mission critical system" is adopted as proposed.
+
+23 See proposed Rule 15b7-3T(b)(2).
+
+24 See SIA letter.
+
+25 See letters from Dan Jamieson, Federated, NASD, and SIA.
+
+26 See letters from Pershing and SIA.
+
+27 See AICPA letter.
+
+28 See letters from Jeffrey Matthew's Financial Group, Pershing, RTC, SIA, and STA.
+
+29 Broker-dealers will still be expected to diligently inquire into the status of their third parties' Year 2000 readiness, and to make appropriate alternative arrangements if they are not satisfied. Broker-dealers will still be responsible, however, if third party failure causes the firm to be in violation of any provision under federal securities laws other than Rule 15b7-3T. See supra note 7.
+
+30 See supra note 7. A broker-dealer will still be responsible if a third party failure causes the broker-dealer to be in violation of any provision under the federal securities laws other than Rule 15b7-3T(b).
+
+31 The Commission notes that it expects to file actions against firms for violating this rule in federal district court.
+
+32 The appropriate scope of such procedures would vary depending on the nature of a broker-dealer's business and the size and complexity of its computer systems. To provide flexibility, we are not prescribing specific written procedures. However, broker-dealers should, at a minimum, use industry standards. For example, the NASD has published a High-Level Plan, prepared by the SIA, summarizing the standard components of a sample Year 2000 Project Plan. NASD Year 2000 Member Information (1998).
+
+33 The General Accounting Office has recommended a set of testing guidelines that we believe is reasonable for broker-dealers to follow. It describes five phases of Year 2000 testing activities, beginning with establishing an organizational testing infrastructure, followed by designing, conducting and reporting on software unit testing, software integration testing, system acceptance testing, and end-to-end testing. GAO Year 2000 Computing Crisis: A Testing Guide (November 1998) ("GAO Guidelines").
+
+34 We have approved SRO rule changes that permit the SROs to require their members to conduct Year 2000 testing. See Exchange Act Release Nos. 40745 (Dec. 3, 1998), 63 FR 68324 (Dec. 10, 1998) (NASD); 40836 (Dec. 28, 1998), 64 FR 1037 (Jan. 7, 1999) (American Stock Exchange); 40837 (Dec. 28, 1998), 64 FR 1055 (Jan. 7, 1999) (NYSE); 40838 (Dec. 28, 1998), 64 FR 1044 (Jan. 7, 1999) (Chicago Board Options Exchange); 40839 (Dec. 28, 1998), 64 FR 1046 (Jan. 7, 1999) (Chicago Stock Exchange); 40870 (Dec. 31, 1998), 64 FR 1263 (Jan. 8, 1999) (Philadelphia Stock Exchange); 40871 (Dec. 31, 1998), 64 FR 1838 (Jan. 12, 1999) (Boston Stock Exchange); 40893 (Jan. 7, 1999) (Pacific Stock Exchange), 64 FR 2932 (Jan. 19, 1999); 40696 (Nov. 20, 1998), 63 FR 65829 (Nov. 30, 1998) (Depository Trust Company); 40889 (Jan. 6, 1999), 64 FR 2691 (Jan. 15, 1999) (MBS Clearing Corporation); and 40946 (Jan. 14, 1999), 64 FR 3328 (Jan. 21, 1999) (National Securities Clearing Corporation).
+
+35 See NASD letter.
+
+36 The Commission is adopting this requirement as proposed except that notices will be sent to the Division of Market Regulation directly, rather than to the Secretary's Office.
+
+37 See proposed temporary Rule 15b7-3T(d).
+
+38 Id.
+
+39 See H.M. Payson letter.
+
+40 See letters from DST and Schwab.
+
+41 See letters from DST, Grodsky Associates, L.P. Littlewood and Associates, NASD, Pershing, STA, and Stock USA.
+
+42 See letters from NASD and Pershing.
+
+43 See Schwab letter.
+
+44 The Commission appreciates the difficulties associated with an expedited transfer of accounts. See infra Section II. B. 5 for a further discussion of this issue.
+
+45 See SIA letter.
+
+46 See Dan Jamieson letter.
+
+47 See Dale W. Way letter.
+
+48 Id.
+
+49 Id.
+
+50 See NASD letter.
+
+51 The NASD recommended that a firm be permitted to file an additional notice in the event the firm believes that it no longer has a material Year 2000 problem. See NASD letter.
+
+52 See Pershing letter.
+
+53 Id.
+
+54 See Schwab letter.
+
+55 See NASD letter.
+
+56 The term "non-bank transfer agent" means a transfer agent whose appropriate regulatory agency ("ARA") is the Commission and not the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation. The term ARA is defined in Exchange Act Section 3(a)(34), 15 U.S.C. 78c(a)(34).
+
+57 See generally proposed Rule 17Ad-21T.
+
+58 See proposed Rule 17Ad-21T(b)(1).
+
+59 See letters from DST, Federated, RTC, and STA.
+
+60 See DST letter.
+
+61 Id .
+
+62 See AICPA letter.
+
+63 As adopted, temporary Rule 17Ad-21(b)(1) states that a non-bank transfer agent has a material Year 2000 problem if, at any time on or after August 31, 1999: (1) any of its mission critical computer systems incorrectly identifies any date in the Year 1999 or the Year 2000; and (2) the error impairs or, if uncorrected, is likely to impair, any of its mission critical systems. The term "mission critical system" is defined as any system that is necessary, depending on the nature of the transfer agent's business, to assure the prompt and accurate transfer and processing of securities, the maintenance of master securityholder files, and the production and retention of required records as described in paragraph (d) of the rule.
+
+64 See proposed Rule 17Ad-21T(b)(2).
+
+65 See Federated letter.
+
+66 Id.
+
+67 In the Proposing Release, we stated that arrangements between registered non-bank transfer agent and other registered transfer agents (variously referred to as the recordkeeping transfer agent, co-transfer agent, or service company) do not relieve the registered non-bank transfer agent of its responsibilities under proposed Rule 17Ad-21T. The modification to Rule 17Ad-21T is intended to clarify that firms will not be held responsible for failing to certify to the Year 2000 status of mission critical systems controlled by third parties.
+
+68 For example, a non-bank transfer agent has control over a mission critical system if it operates and maintains the system.
+
+69 The appropriate scope of such procedures would vary depending on the nature of a non-bank transfer agent's business and size and complexity of its computer systems.
+
+70 Unlike broker-dealers, transfer agents do not belong to any SROs, therefore unlike broker-dealers, non-bank transfer agents do not have specific testing mandates. However, this rule contemplates that transfer agents will conduct effective testing of internal mission critical systems and external links under the control of the non-bank transfer agent. We believe that it is reasonable for transfer agents to rely on testing guidelines established by SROs.
+
+71 Similar to Rule 15b7-3T, the Commission has decided not to expressly narrow the scope of the rule to "material" exceptions in the independent public accountant's report. The Commission notes that it expects to file actions against non-bank transfer agents for violating this rule in a federal district court.
+
+72 Notice to the Commission must be sent by overnight delivery to the Division of Market Regulation, U.S. Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, DC 20549-1002 Attention: Y2K Compliance. Notice also must be provided to the non-bank transfer agent's issuer.
+
+73 Proposed Temporary Rule 17Ad-21T.
+
+74 Id.
+
+75 See letters from RTC and STA.
+
+76 See STA letter.
+
+77 See Federated letter.
+
+78 See letters from RTC and STA.
+
+79 See STA letter.
+
+80 Id.
+
+81 See DST letter.
+
+82 The Commission appreciates the difficulties associated with an expedited transfer of accounts. See infra Section II. B. 6 for a further discussion of this issue.
+
+83 This action would be appropriate where it is patently unrealistic that a non-bank transfer agent will be able to conduct sufficient remediation to achieve Year 2000 compliance by November 15, 1999.
+
+84 By requiring a second certificate, we are giving non-bank transfer agents the opportunity to inform the Commission and the public that they have remediated their Year 2000 problems.
+
+85 By moving the deadline for Year 2000 compliance from October 15, 1999 to November 15, 1999, the Commission anticipates that fewer transfer agents will be required to transfer accounts due to a material Year 2000 problem.
+
+86 The Commission is aware that the process of a shareholder record conversion and transfer to another transfer agent can be a time consuming process and requires the issuer to appoint or agree to a successor transfer agent. In addition, over-printing of the transfer agent and registrar signature panel on certificates will be necessary.
+
+87 File layouts was defined in proposed Rule 17Ad-21T(g)(4) as the description and location of information contained in the database.
+
+88 We understand that most transfer agents already make and preserve a separate copy of their record as a good business practice.
+
+89 See letters from STA and RTC.
+
+90 See letters from STA, RTC, and DST.
+
+91 See STA letter.
+
+92 See DST letter.
+
+93 The Commission recently proposed for comment amendments to Rule 17Ad-7 (17 CFR 240.17Ad-7) that would allow registered transfer agents to use electronic storage media for recordkeeping purposes. Should the Commission adopt the proposed amendments, transfer agents would be able to maintain their backup records in any format that is allowed by Rule 17Ad-7, as amended, provided that all the conditions imposed by the rule are met, that would allow for a successful conversion and transfer to a Year 2000 compliant transfer agent. Exchange Act Release No. 41442 (May 25, 1999), 64 FR 29608 (June 2, 1999).
+
+94 As noted in the STA letter, some transfer agents currently copy their entire database at the end of the business week with daily backup copies of just the changed files and transactions, and store these records for at least two weeks. We would consider this procedure to comply with the backup requirement.
+
+95 This rule requires that non-bank transfer agents make and preserve a separate copy of an existing record. It does not require non-bank transfer agents to create any new records.
+
+96 Because transfer agents maintain the only inclusive records of the owners of issuers' outstanding securities and are necessary for the continuous trading and transfer of ownership of those securities, the Commission believes that it is prudent to require transfer agents to begin maintaining backup records at the end of August 1999. Furthermore, because there are potential Year 2000 problems that may arise because 2000 is a leap year, the recordkeeping period will extend through March 31, 2000.
+
+97 Rule 17a-3(a)(1) requires every broker-dealer to make and keep current a blotter containing an itemized daily record of all purchases and sales of securities, all receipts and deliveries of securities (including certificate numbers), all receipts and disbursements of cash and all other debits and credits. The blotter is required to show the account for which each transaction was effected, the name and amount of securities, the unit and aggregate purchase or sale price (if any), the trade date, and the name or other designation of the person from whom purchased or received or to whom sold or delivered. 17 CFR 240.17a-3(a)(1). Rule 17a-3(a)(5) requires every broker-dealer to make and keep current a securities record or ledger reflecting separately for each security all long or short positions (including securities in safekeeping and securities that are the subject of repurchase or reverse repurchase agreements) carried by the broker-dealer for its account or for the account of its customers, including the name or designation of the account in which each position is carried. The securities record is also required to show the location of all securities long and the offsetting position to all securities short, including long security count differences and short security count differences classified by the date the differences were discovered. 17 CFR 240.17a-3(a)(5).
+
+98 See 17 CFR 240.15c3-1(a)(2).
+
+99 We understand that most broker-dealers already make and preserve a separate copy of these records as a good business practice. However, because of the time-sensitive nature of the securities markets, this temporary rule requires that broker-dealers keep a copy of these records separate from other records required under Rules 17a-3 and 17a-4.
+
+100 See Pershing letter.
+
+101 See Monroe Securities letter.
+
+102 See Schwab letter.
+
+103 Id.
+
+104 See NASD letter.
+
+105 Id.
+
+106 17 CFR 240.17a-4. We note that one of the conditions set forth in paragraph (f) of the rule requires that records be made immediately available.
+
+107 One commenter stated that the Commission presented an inadequate relationship between the costs to brokerage firms (of being shut down) and the benefits to the investing public. See Grodsky Associates letter.
+
+108 There are approximately 8,300 registered broker-dealers and the Commission staff estimates that approximately 3,900 will have systems that will need to be Year 2000 compliant. The Commission staff estimates that approximately one percent of these broker-dealers might be required to submit notices and may choose to submit certificates under the rule. This estimate is consistent with the estimates provided to the Commission by various SROs. The Commission notes that the estimated number of broker-dealers that will have systems that will need to be Year 2000 compliant has been reduced because adopted Rule 15b7-3T is narrower in scope than the proposed rule. In the Proposing Release, the Commission estimated that the 59 broker-dealers would be affected by the rule.
+
+109 This amount was calculated by multiplying 39 broker-dealers by $50. The Commission staff estimates that the cost for each respondent submitting a notice will be $50 (0.5 hours at $100 per hour).
+
+110 This amount was calculated by multiplying 39 broker-dealers by $100. The Commission staff estimates that the cost for each respondent submitting a certificate will be $50 (0.5 hours at $100 per hour). Therefore, filing two certificates will cost a broker-dealer $100.
+
+111 The Commission staff estimates that there are approximately 600 non-bank transfer agents. The Commission staff estimates that approximately one percent of those non-bank transfer agents might be required to submit notices and may choose to submit certificates under the rule. The Commission emphasizes the serious difficulty in estimating the number of non-bank transfer agents that will have material Year 2000 problems at some point in the future. The Commission expects that most non-bank transfer agents will not have such problems.
+
+112 This amount was calculated by multiplying 6 non-bank transfer agents by $50. The Commission staff estimates that the cost for each respondent submitting a notice will be $50 (0.5 hours at $100 per hour).
+
+113 This amount was calculated by multiplying 6 non-bank transfer agents by $100. The Commission staff estimates that the cost for each respondent submitting a certificate will be $50 (0.5 hours at $100 per hour). Therefore, it will cost a non-bank transfer agent $100 to file both certificates.
+
+114 The RTC estimated that compliance with this recordkeeping requirement, if not already performed would take approximately 1/2 hour to 4 hours of computer operations each night at a cost of between $50 to $2,000 per night. The cost of preserving the data on disk was estimated by RTC to be a one time cost of between $50 and $200. The RTC also estimated that preparation of the certification would consume 1.5 hours of labor and cost less than $1,000. See RTC letter.
+
+115 This amount was computed by adding $4,530,000 (600 non-bank transfer agents multiplied by 151 days - the period between August 31, 1999, and March 31, 2000 - multiplied by $50 for labor) and $60,000 (600 non-bank transfer agents multiplied by $100 for disks). The Commission staff estimates that the total burden for each non-bank transfer agent for the period between August 31, 1999, and March 31, 2000 will be approximately 38 hours (approximately 151 business days at 0.25 hours per business day). With respect to burden hours, the Commission staff estimates that the aggregate burden for all non-bank transfer agents under the rule will be approximately 22,800 hours (600 transfer agents at 38 hours per non-bank transfer agent).
+
+116 In its comment letter, the STA stated that backing up files is a standard and good practice, which is part of the cost of doing business. See STA letter. In addition, the RTC stated in their comment letter that "All responsible information technology professionals already perform daily database and processing system file back-ups" and that "Maintenance of multiple day record back-ups is a conservative, inexpensive and responsible approach designed to enhance recovery capabilities." See RTC letter.
+
+117 This amount was computed by multiplying 6 (the number of non-bank transfer agents the Commission estimates might have a material Year 2000 problem) by $200 (the cost to store five days of all master securityholder files for one year).
+
+118 This amount was computed by multiplying 600 (the number of non-bank transfer agents) by $200 (the cost to store five days of master securityholder files for one year).
+
+119 Only those broker-dealers that are required to maintain certain net capital pursuant to Rule 15c3-1(a)(2)(i), 17 CFR 240.15c3-1(a)(2)(i), will be required to comply with the rule.
+
+120 The Commission staff estimates that each such broker-dealer subject to the rule will incur an average burden of approximately 0.75 hours to make and keep the records. The Commission believes that the recordkeeping function may be performed by clerical staff at a rate of $25 per hour. The Commission staff estimates that the total aggregate burden under the rule will be approximately 825 hours (1,100 brokers or dealers at 0.75 hours per broker or dealer).
+
+121 See Rule 17a-3(a)(1), 17 CFR 17a-3(a)(1) and Rule 17a-3(a)(5), 17 CFR 17a-3(a)(5).
+
+122 15 U.S.C. 78w(a)(2).
+
+123 See Dan Jamieson letter.
+
+124 Id.
+
+125 Id.
+
+126 Id.
+
+127 See 15 U.S.C. 78w(a)(2).
+
+128 See 5 U.S.C. 604.
+
+129 See Proposing Release.
+
+130 17 CFR 240.17a-3(a)(1).
+
+131 See letters from US Participation, Goffstown Financial Investments, Holly Securities, HBK Finance, Intellivest Securities, Grodsky Associates, Dan Jamieson, Monroe Securities, Gramercy Securities, and Wall Street Capital Company.
+
+132 17 CFR 240.0-10(c).
+
+133 17 CFR 240.0-10(h).
+
+134 In its comment letter, RTC estimated that the notification and certification requirement of Rule 17Ad-21T would consume 1.5 hours.
+
+135 The Commission requested comment in the Proposing Release on whether to have more than one certification provision in case a broker-dealer does not complete its remediation efforts by a target date. See Proposing Release.
+
+136 In the Proposing Release, the Commission estimated that 5,900 broker-dealers would have systems that would need to be Year 2000 compliant. This estimate was reduced to 3,900 broker-dealers after the rule was changed to specifically exclude broker-dealers that do not use computers in the conduct of their businesses.
+
+137 The RTC estimated that compliance with this recordkeeping requirement, if not already performed, as is the case with RTC, would take approximately 1/2 hour to 4 hours of computer operations each night. See RTC letter.
+
+138 In the STA comment letter, the STA stated that backing up files is a standard and good practice, which is part of the cost of doing business. See STA letter. In addition, the RTC stated in their comment letter that "All responsible information technology professionals already perform daily database and processing system file back-ups" and that "Maintenance of multiple day record back-ups is a conservative, inexpensive and responsible approach designed to enhance recovery capabilities." See RTC letter.
+
+139 Only those broker-dealers that are required to maintain certain net capital pursuant to Rule 15c3-1(a)(2)(i), 17 CFR 240.15c3-1(a)(2)(i), will be required to comply with this rule. As a result of the rule's limited scope, the Commission staff estimates that approximately 1,100 registered broker-dealers will be required to comply with the rule.
+
+140 See Proposing Release.
+
+141 5 U.S.C. 553(d)  http://www.sec.gov/rules/final/34-41661.htm

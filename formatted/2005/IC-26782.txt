@@ -1,0 +1,615 @@
+https://www.sec.gov/rules/final/ic-26782.pdf
+
+I.0.0.0 BACKGROUND
+
+II.0.0.0 DISCUSSION
+
+	II.A.0.0 Redemption Fees
+
+	II.B.0.0 Shareholder Transaction Information
+
+		II.B.1.0 Fund Responsibilities. Rule 22c-2 requires that each fund (or its principal underwriter), regardless of whether it imposes a redemption fee, enter into a written agreement
+
+		II.B.2.0 Financial Intermediaries. Rule 22c-2 also requires the agreement with financial intermediaries to contain a provision under which the intermediary agrees to execute the fund’s instructions to restrict or prohibit further purchases or exchanges by a specific shareholder (as identified by the fund) who has engaged in trading that violates the fund’s market timing policies. We have included this provision in response to comments regarding the difficulty of applying fund market timing restrictions to shares redeemed through omnibus accounts. Intermediaries currently may not enforce funds’ market timing restrictions on their customers because, as one commenter explained, it is not in the intermediary’s interest to do so. Accordingly, even if funds receive shareholder trading information, as another commenter pointed out, it will have little practical value if the fund is unable to prevail upon the intermediary to enforce its market timing policies. The requirement in the final rule that the written agreement provide for the intermediary to execute the fund’s instructions should address these concerns.
+
+	II.C.0.0 Request for Additional Comment
+
+		II.C.1.0 Elements of a Uniform Redemption Fee
+
+			II.C.1.a Share Accounting. We are considering adopting, as proposed, a provision that would require funds to determine the amount of any redemption fee by using the FIFO method, i.e., by treating the shares held the longest time as being redeemed first, and shares held the shortest time as being redeemed last. This is the method commonly employed by funds that currently charge redemption fees, and was supported by most commenters. We
+
+			II.C.1.b De Minimis Waivers. We are considering requiring that the redemption fee not be charged if the amount of the fee would be fifty dollars or less. Under such a provision, a shareholder in a fund with a two percent redemption fee could redeem as much as 2,500 dollars of shares within seven days of purchasing them without paying a redemption fee. Use of FIFO accounting for share transactions, as discussed above, will likely result in few redemptions normally made by most investors incurring a redemption fee, except when the shareholder redeems all of his or her fund shares. The primary effect of a de miminis provision, therefore, would be to prevent recent purchases of fund shares from being charged a redemption fee when a shareholder makes a complete redemption of his or her shares in a particular fund.
+
+			II.C.1.c Amount of Redemption Fee; Length of Holding Period. As discussed above, we do not contemplate establishing a uniform amount for the redemption fee, i.e., the percentage charged upon early redemption. Nor do we anticipate establishing a uniform minimum holding period (beyond the seven day minimum specified in the rule). As a result, fund boards will retain flexibility to address the needs of their funds. It is our understanding that systems employed by fund intermediaries can more easily handle variations in the amount of the fee and holding periods than, for example, some of the other exceptions discussed in this section. We seek comment on whether intermediaries would be able to administer fees more easily if the fee and holding period vary among funds but the parameters
+
+			II.C.1.d Investor Initiated Transactions. We are considering whether the rule should require that any redemption fee charged by a fund be limited to transactions initiated by investors. Under such an approach, redemption fees would not be assessed with respect to
+
+			II.C.1.e Financial Emergencies. We envision that the rule would permit funds to grant a redemption fee waiver in the case of an unanticipated financial emergency, upon the written request of the shareholder. Most commenters who addressed the issue opposed the mandatory financial emergency exception that we proposed last year. Some argued that the exception would rarely be invoked for legitimate purposes, and thus could be used to circumvent
+
+			II.C.1.f Other Exceptions and Waivers. We also request comment on whether the rule should include additional exceptions that would limit the circumstances under which funds may charge redemption fees. For example, should funds generally be required to apply any redemption fee to all underlying shareholders, and not exclude fees on the redemption of shares held through omnibus accounts? If so, would the fund need to be able to obtain additional shareholder information regarding shares that are transferred from one omnibus account to another? For example, would the fund need information from an intermediary (such as a retirement plan administrator) that submits a net fund order (on behalf of the plan) to a financial intermediary that holds the plan’s shares in an omnibus account? Requiring that a redemption fee apply to all fund shareholders would be designed to eliminate the special treatment of omnibus accounts that has permitted abusive market timers to avoid redemption
+
+			II.C.1.g Variable Insurance Contracts. We also envision that the rule would not permit the assessment of redemption fees on the redemption, pursuant to partial or full contract withdrawals, of shares issued by an insurance company separate account organized as a unit investment trust that is registered under the Investment Company Act. These types of redemptions are unlikely to occur as part of a market timing or rapid trading strategy, and will permit contract holders to exercise a “free look” provision of their contracts without paying a redemption fee. We received a significant number of comment letters from insurance
+
+		II.C.2.0 Financial Intermediaries
+
+		II.C.3.0 Recordkeeping
+
+III.0.0.0 EFFECTIVE AND COMPLIANCE DATES
+
+IV.0.0.0 COST-BENEFIT ANALYSIS
+
+	IV.A.0.0 Benefits
+
+	IV.B.0.0 Costs
+
+V.0.0.0 CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+VI.0.0.0 PAPERWORK REDUCTION ACT
+
+VII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+	VII.A.0.0 Need for, and Objectives of, the Rule
+
+	VII.B.0.0 Significant Issues Raised by Public Comment
+
+	VII.C.0.0 Small Entities Subject to the Rule
+
+	VII.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
+
+	VII.E.0.0 Commission Action to Minimize Effect on Small Entities
+
+VIII.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 270
+
+[Release No. IC-26782; File No. S7-11-04] RIN 3235-AJ17
+
+Mutual Fund Redemption Fees
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule; request for additional comment.
+
+SUMMARY: The Securities and Exchange Commission (“Commission” or “SEC”) is adopting a new rule that allows registered open-end investment companies (“funds”) to impose a redemption fee, not to exceed two percent of the amount redeemed, to be retained by the fund.
+
+The redemption fee is intended to allow funds to recoup some of the direct and indirect costs incurred as a result of short-term trading strategies, such as market timing. The new rule also requires most funds to enter into written agreements with intermediaries (such as broker-dealers and retirement plan administrators) that hold shares on behalf of other investors, under which the intermediaries must agree to provide funds with certain shareholder identity and transaction information at the request of the fund and carry out certain instructions from the fund. The Commission is also requesting additional comment to obtain further views on whether it should establish uniform standards for redemption fees charged under the rule.
+
+DATES: Effective Date : May 23, 2005.
+
+Compliance Date : October 16, 2006. Section III of this release discusses the effective and compliance dates applicable to rule 22c-2.
+
+Comment Date : Comments should be received on or before May 9, 2005.
+
+ADDRESSES: Comments may be submitted by any of the following methods:
+
+Electronic Comments :
+
+Use the Commission’s Internet comment form ( http://www.sec.gov/rules/proposed.shtml ); or
+
+Send an e-mail to rule-comments@sec.gov . Please include File Number S7-11-04 on the subject line; or
+
+Use the Federal eRulemaking Portal (http://www.regulations.gov). Follow the instructions for submitting comments.
+
+Paper Comments :
+
+Send paper comments in triplicate to Jonathan G. Katz, Secretary, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609.
+
+All submissions should refer to File Number S7-11-04 . This file number should be included on the subject line if e-mail is used. To help us process and review your comments more efficiently, please use only one method. The Commission will post all comments on the Commission’s Internet Web site ( http://www.sec.gov/rules/proposed.shtml ). Comments are also available for public inspection and copying in the Commission’s Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549. All comments received will be posted without change; we do not edit personal identifying information from submissions. You should submit only information that you wish to make available publicly.
+
+FOR FURTHER INFORMATION CONTACT: William C. Middlebrooks, Jr., Senior Counsel, or C. Hunter Jones, Assistant Director, Office of Regulatory Policy, (202) 551-6792, Division of Investment Management, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0506.
+
+SUPPLEMENTARY INFORMATION: The Commission today is adopting rule 22c-2 [17
+
+CFR 270.22c-2] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the “Investment Company Act” or the “Act”) and amendments to rule 11a-3 [17 CFR 270.11a-3] under the Act. <sup>1</sup> We invite additional comment on the issues discussed in Section II.C of this release.
+
+TABLE OF CONTENTS
+
+BACKGROUND
+
+DISCUSSION
+
+Redemption Fees
+
+Shareholder Transaction Information
+
+Request for Additional Comment
+
+Elements of a Uniform Redemption Fee
+
+Financial Intermediaries
+
+Recordkeeping
+
+EFFECTIVE AND COMPLIANCE DATES
+
+COST-BENEFIT ANALYSIS
+
+CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+PAPERWORK REDUCTION ACT
+
+FINAL REGULATORY FLEXIBILITY ANALYSIS VIII. STATUTORY AUTHORITY
+
+TEXT OF RULE
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+Investors in mutual funds can redeem their shares on each business day and, by law, must receive their pro rata share of the fund’s net assets. <sup>2</sup> This redemption right makes funds attractive to fund investors, most of whom are long-term investors, because it provides ready access to their money if they should need it. The redemption right also makes funds attractive to a small group of investors who use funds to implement short-term trading strategies, <sup>3</sup> such as market timing, <sup>4</sup> by making frequent purchases and redemptions in order to capture small gains. <sup>5</sup> Most fund shareholders, however, are not active traders of their shares. <sup>6</sup>
+
+Excessive trading in mutual funds occurs at the expense of long-term investors, dilutingthe value of their shares. <sup>7</sup> It may disrupt the management of a fund’s portfolio and raise the fund’s transaction costs because the fund manager must either hold extra cash or sell investments at inopportune times to meet redemptions. <sup>8</sup> Frequent trading also may result in unwanted taxable capital gains for the remaining fund shareholders. Funds have taken steps to deter excessive trading or have sought reimbursement from traders for the costs of their excessive transactions. <sup>9</sup>< http://finance.wharton.upenn.edu/~edelen/PDFs/MF_tradexpenses.pdf >.(iv) satisfying redemption requests in-kind; and (v) identifying market timers and restricting their trading or barring them from the fund. See Disclosure Regarding Market Timing and Selective Disclosure of Portfolio Holdings, Investment Company Act Release No. 26287 (Dec. 11, 2003) [68 FR 70402 (Dec. 17, 2003)] at text preceding and following n.14 (discussing the various steps that funds have taken to discourage market timing).
+
+These steps frequently include establishing market timing policies that prevent shareholders from making frequent exchanges among funds, and imposing a redemption fee – a small fee at the time a shareholder redeems shares, typically a short time after purchasing them. <sup>10</sup>
+
+Many funds, however, have been unable to effectively enforce their market timing policies or impose redemption fees on the accounts of investors who purchase fund shares through broker-dealers, banks, insurance companies, and retirement plan administrators (“intermediaries”). These share holdings frequently are identified in the books of the fund (or its transfer agent) in the name of the intermediary, rather than in the name of the fund shareholder. Many intermediaries controlling these so-called “omnibus accounts” have provided the fund with insufficient information for the fund to apply redemption fees. Because of this lack of information, today many funds choose not to apply redemption fees, or are unable to enforce their policies against market timing with respect to shares held through these omnibus accounts. As a result, those shareholders have often been beyond the reach of fund directors’ efforts to protect the fund and its shareholders from the harmful effects of short-term trading. A number of the market timing abuses identified through our investigations reveal that certain shareholderswere concealing abusive market timing trades through omnibus accounts. <sup>11</sup>
+
+Last year we proposed to address the widespread problem of short-term trading in fund shares by requiring funds to impose a redemption fee of two percent of the amount redeemed on shares held for five business days or less. <sup>12</sup> Under our proposal funds also would have had to require that intermediaries provide them weekly information about transactions of beneficial owners of shares held in omnibus accounts controlled by intermediaries. Our rule proposal was intended to reimburse the funds for the costs of short-term trading and to discourage short-term trading of fund shares by reducing the profitability of the trades.
+
+<h>II. DISCUSSION</h>
+
+We received nearly 400 comments on the proposed rule. Although many commenters, including fund management companies, supported the proposal, most commenters objected to a rule that would mandate a redemption fee. <sup>13</sup> Many were concerned that the redemption fee would inadvertently apply to harmless transactions such as account rebalancings or redemptions after recent periodic contributions. <sup>14</sup> In contrast one commenter urged that, if we were to adopt a mandatory fee, we require that the fee be imposed on all short-term redemptions so that it would be easy to implement, <sup>15</sup> while others argued for a variety of exceptions under which a redemptionfee would not apply. <sup>16</sup> Still others urged that we permit redemption fees greater than two percent. <sup>17</sup>
+
+We continue to believe, and the weight of evidence submitted by commenters suggests, that redemption fees, together with effective valuation procedures, <sup>18</sup> can be an effective means to protect funds and fund shareholders by requiring that short-term traders compensate funds for the costs that may result from frequent trading. <sup>19</sup> Commenters persuaded us, however, that arequired to implement redemption fees consistently, including to short-term trades in retirement plans or omnibus accounts).mandatory fixed redemption fee imposed by Commission rule is not the best way to achieve our goals. Some funds may not have costs that warrant imposing any redemption fee; others may have lower costs and could protect their shareholders by imposing a redemption fee of less than two percent. <sup>20</sup> Boards of directors, as several commenters suggested, are better positioned to determine whether the fund needs a redemption fee and, if so, the amount of the fee. <sup>21</sup> We agree and have decided not to adopt a mandatory redemption fee.
+
+Instead of requiring that each fund impose a redemption fee, the rule we are todaybut is less reliable in preventing short-term trading profits on less active days: a price move of 25 or 50 basis points, for example. Redemption fees assure that traders are not tempted to try to capture these small potential profits at the expense of other investors.”). See also, e.g ., Gregory
+
+B. Kadlec, On Solutions to the Mutual Fund Timing Problem (Aug. 30, 2004) http://www.ici.org/issues/timing/wht_04_mkt_time_solutions.pdf , appended to Comment Letter of the Investment Company Institute (Sept. 2, 2004) (study commissioned and submitted by the Investment Company Institute, (“In principle, the timing problem could be fully resolved by either removing predictability from NAVs (i.e . , fair value pricing) or imposing barriers to its exploitation (i.e., redemption fees). Because of the practical limitations of removing predictability and the cost of imposing barriers, the most effective and efficient solution involves a balanced and modest attack on each front.”).adopting authorizes fund directors to impose a redemption fee of up to two percent of the amount redeemed when they determine that a fee is in their fund’s best interest. <sup>22</sup> It permits each board to take steps it concludes are necessary to protect its investors, and provides the board flexibility to tailor the redemption fee to meet the needs of the fund. As a result of our adoption of this rule, which is described in more detail below, the staff no-action positions concerning redemption fees have terminated. <sup>23</sup>
+
+We also are adopting a requirement that each fund enter into written agreements with its financial intermediaries, including those holding shares in omnibus accounts, providing the fund with access to information about transactions by fund shareholders. This information will permit funds to better enforce their market timing policies. <sup>24</sup> The agreement also must contain a provision requiring the intermediary to execute the fund’s instructions to restrict or prohibit further purchases or exchanges by any shareholder identified by the fund as having engaged in trading that violates the fund’s market timing policies. <sup>25</sup>(i) approve a redemption fee, or (ii) determine that imposition of a redemption fee is either not necessary or not appropriate. Second, the fund (or its principal underwriter) must enter into a written agreement with each financial intermediary under which the intermediary agrees to(i) provide, at the fund’s request, identity and transaction information about shareholders who hold their shares through an account with the intermediary, and (ii) execute instructions from the fund to restrict or prohibit future purchases or exchanges. Third, the fund must maintain a copy of each written agreement with a financial intermediary for six years.
+
+No-Action Letter”); Neuberger & Berman Genesis Fund, Inc., SEC Staff No-Action Letter (Sept. 27, 1988) (“Genesis Fund No-Action Letter”).
+
+Finally, we are requesting comment on whether we should adopt a uniform redemption fee for those funds deciding to impose such a fee and, if so, the terms of such a fee. A uniform fee may be less costly for the thousands of fund intermediaries to collect, and may result in greater willingness on the part of these intermediaries to collect the fees. We discuss the new rule and our request for further comment in more detail below.
+
+<h>A. Redemption Fees</h>
+
+Rule 22c-2 requires that each fund’s board of directors (including a majority of independent directors) either (i) approve a redemption fee that in its judgment is necessary or appropriate to recoup costs the fund may incur as a result of redemptions, or to otherwise eliminate or reduce dilution of the fund’s outstanding securities, or (ii) determine that imposition of a redemption fee is not necessary or appropriate. <sup>26</sup> The rule thus requires each board before the compliance date to at least consider implementing a redemption fee program to counter short- term trading. <sup>27</sup>
+
+The proceeds of the redemption fee, in all cases, must be paid to the fund itself. The22c-2(b)(3). We revised this condition so that a fund’s board can quickly implement policies it determines are necessary to protect shareholders from the dilution and expense of short-term trading. See Comment Letter of Rydex Investments (April 20, 2004).redemption fee is designed to reconcile conflicts between shareholders who would use the fund as a short-term trading vehicle, and those making long-term investments who would otherwise bear the costs imposed on the fund by short-term traders. Directors may impose the fee to offset the costs of short-term trading in fund shares, and/or to discourage market timing and other types of short-term trading strategies. <sup>28</sup>
+
+The redemption fee may not exceed two percent of the amount redeemed. Some commenters called for us to permit higher redemption fees because such fees may be more effective at preventing abusive market timing transactions. <sup>29</sup> We believe that a higher redemption fee could harm ordinary shareholders who make an unexpected redemption as a result of a financial emergency. Moreover, it would in our judgment impose an undue restriction on the redeemability of shares required by the Act. The two percent limit is designed to strike a balance between two competing goals of the Commission – preserving the redeemability of mutual fund shares while reducing or eliminating the ability of shareholders who rapidly trade their shares to profit at the expense of their fellow shareholders. <sup>30</sup> Funds have, and shouldutilize, additional tools to prevent abusive market timing transactions. <sup>31</sup>
+
+Directors may set a redemption fee of less than two percent under rule 22c-2. <sup>32</sup> Unlike the approach taken by certain funds in the past, <sup>33</sup> the amount of the redemption fee approved by directors need not be tied to the administrative and processing costs associated with redeeming fund shares. <sup>34</sup> By adopting rule 22c-2, we now are permitting redemption fees to be based on the judgment of the fund and its board rather than on a strict assessment of administrative and processing costs, which can be difficult to estimate and may vary from period to period. <sup>35</sup> Under rule 22c-2, a fund board setting the amount of the redemption fee could, for example, take into consideration indirect costs to the fund that arise from short-term trading of fund shares, such as liquidity costs, i.e ., the cost of investing a greater portion of the fund’s portfolio in cash or cashassets).items than would otherwise be necessary. <sup>36</sup>
+
+Rule 22c-2 authorizes the board to approve a redemption fee on shares redeemed within seven or more calendar days after the shares were purchased. <sup>37</sup> Thus, the rule permits a fund board that adopts a redemption fee to determine, in its judgment, whether a period longer than seven calendar days is necessary or appropriate for the fund to protect its shareholders. This determination could, for example, include considerations as to whether different combinations of holding periods and redemption fee levels are appropriate for different funds that do not have the same vulnerability to market timing. <sup>38</sup>
+
+<h>B. Shareholder Transaction Information</h>
+
+Rule 22c-2 also requires funds to enter into written agreements with their intermediaries under which the intermediaries must, upon request, provide funds with certain shareholder identity and trading information. <sup>39</sup> This requirement will enable funds to obtain the information that they need to monitor the frequency of short-term trading in omnibus accounts and enforcetheir market timing policies. <sup>40</sup>
+
+Many commenters opposed our proposal, which would have required financial intermediaries to deliver identification and transaction information each week. Commenters argued that weekly delivery and receipt of the information would be costly and burdensome for funds and financial intermediaries. <sup>41</sup> Most of these commenters preferred that financial intermediaries be required to provide the information at the fund’s request. <sup>42</sup> Because some funds may need the information only on occasion, while others may need the information regularly, the final rule allows each fund to determine when it should receive the information.
+
+Commenters also disagreed among themselves whether funds or intermediaries should be responsible for enforcing fund market timing policies. Intermediaries argued that funds should bear the responsibility for enforcing fund policies, <sup>43</sup> while the funds argued that the intermediaries were in a better position, at least with respect to shares held in omnibus accounts, because fund managers had inadequate information about the transactions. <sup>44</sup> In the past, suchdisagreements have in some cases resulted in no one enforcing fund market timing policies with respect to shares held in omnibus accounts. The rule we are adopting makes funds responsible for determining when they need a financial intermediary’s assistance in monitoring and enforcing fund market timing policies.
+
+These modifications to the final rule should reduce the costs of compliance to funds and financial intermediaries. Nevertheless, aggregate one-time costs for financial intermediaries to create systems to collect and transfer information to the funds may be significant. <sup>45</sup> At the same time, the rule should result in cost savings to funds and their long-term shareholders because funds will be able to better enforce their market timing policies against traders who engage in short-term trading through omnibus accounts. The rule also should result in the more consistent application of market timing policies between shareholders who purchase funds shares directly and those who purchase through omnibus accounts.
+
+<h>1. Fund Responsibilities. Rule 22c-2 requires that each fund (or its principal underwriter), regardless of whether it imposes a redemption fee, enter into a written agreementaccounts and other techniques to evade trading bans that funds tried to establish with respect to their customers who were market timing); In the Matter of Lawrence S. Powell et al ., Investment Company Act Release No. 26722 (Jan. 11, 2005) (available at: http://www.sec.gov/litigation/admin/34-51017.htm ) (registered representatives at a broker-dealer used multiple account and representative numbers to evade trading bans that funds had established for the representatives’ market timing customers).with each of its financial intermediaries under which each intermediary must provide the fund, upon request, information about the identity of shareholders and about their transactions in fund shares. <sup>46</sup> Funds can use this information to monitor trading and identify shareholders in omnibus accounts engaged in frequent trading that is inconsistent with fund market timing policies. <sup>47</sup> Funds have flexibility to request information periodically, or when circumstances suggest that a financial intermediary is not assessing redemption fees or that abusive market timing activity is occurring. <sup>48</sup> Access to this trading information provides funds (and their chief compliance officers) an important new tool to monitor trading activity in order to detect market timing and to assure consistent enforcement of their market timing policies. <sup>49</sup> We expect funds that are susceptible to market timing will use it regularly. <sup>50</sup></h>
+
+<h>2. Financial Intermediaries. Rule 22c-2 also requires the agreement with financial intermediaries to contain a provision under which the intermediary agrees to execute the fund’s instructions to restrict or prohibit further purchases or exchanges by a specific shareholder (as identified by the fund) who has engaged in trading that violates the fund’s market timing policies. We have included this provision in response to comments regarding the difficulty of applying fund market timing restrictions to shares redeemed through omnibus accounts. Intermediaries currently may not enforce funds’ market timing restrictions on their customers because, as one commenter explained, it is not in the intermediary’s interest to do so. Accordingly, even if funds receive shareholder trading information, as another commenter pointed out, it will have little practical value if the fund is unable to prevail upon the intermediary to enforce its market timing policies. The requirement in the final rule that the written agreement provide for the intermediary to execute the fund’s instructions should address these concerns.</h>
+
+We also have revised the definition of “financial intermediary” in the final rule, at the suggestion of several commenters. Under the rule, a “financial intermediary” includes: (i) a broker, dealer, bank, or any other entity that holds securities in nominee name; (ii) an insurance company that sponsors a registered separate account organized as a unit investment trust, master- feeder funds, and certain fund of fund arrangements not specifically excepted from the rule; and
+
+Commission to require financial intermediaries to disclose shareholder identity and transactional information to funds on a daily or transactional basis to enable funds “to ensure the uniform application of [fund redemption fee] policies and procedures.”).(iii) in the case of an employee benefit plan, the plan administrator or plan recordkeeper. <sup>54</sup> The definition clarifies that a “financial intermediary” can be either the plan administrator, who is responsible for the overall administration of the plan, or an entity that maintains the plan’s participant records, i.e., the plan recordkeeper who typically is engaged by the plan administrator. <sup>55</sup>
+
+<h>C. Request for Additional Comment</h>
+
+In addition to adopting rule 22c-2, we request additional comments on whether we should establish a set of uniform standards that may facilitate intermediary assessment of redemption fees on shares held through omnibus accounts. We are requesting further comment on what any such standards should be, including the method for determining the duration of share ownership and exceptions from the application of the redemption fee. <sup>56</sup> Although we received comment on these issues during the initial comment period, those comments were offered in the context of a mandatory redemption fee. We also request comment on any other aspects of the rule in light of the additional solicitations for comment. For example, as funds begin to implement rule 22c-2, including entering into written agreements with financial intermediaries, we request comment onimplementation of the rule’s requirements.
+
+We proposed a uniform mandatory redemption fee because the current voluntary arrangements may, as a practical matter, deny many funds the ability to impose redemption fees on shares held in omnibus accounts. As discussed below, intermediaries face certain costs in assessing redemption fees on a fund’s behalf. Intermediaries therefore may prefer to offer only those funds that do not charge a redemption fee, or that do not apply the fee to redemptions made through omnibus accounts. Many funds today do not impose redemption fees for this reason. If intermediaries refuse to collect redemption fees, fund boards will be unable to use these fees to their full potential as a tool to protect fund investors.
+
+One solution might be for the Commission to adopt a uniform redemption fee that would be applicable only to those funds that chose to impose a redemption fee. This approach may address the primary reason many fund intermediaries have refused to participate in redemption fee programs. Commenters representing both fund complexes and intermediaries asserted that the wide variations in the rate, duration, exceptions, and other features of redemption fees imposed by funds have made it costly for intermediaries to assess the redemption fees. These costs associated with a lack of uniformity may have contributed to the unwillingness of many intermediaries to assess fees on behalf of funds. <sup>57</sup> Commenters representing intermediaries havesuggested to us that their willingness to undertake these efforts will likely depend on the costs they would bear, which could be substantially reduced if we were to establish the terms for a uniform redemption fee. <sup>58</sup> One commenter suggested that a uniform fee would be easier for investors to understand and would enable them to make comparisons among funds. <sup>59</sup>
+
+We request comment on whether we should require a uniform standard for any redemption fees charged by a fund. Would a uniform standard encourage intermediaries to cooperate with fund managers by decreasing the costs and burdens on them? Would a uniform standard decrease certain costs that investors (or plan participants) would otherwise ultimately bear? On the other hand, given the extensive use of electronic systems to determine the applicability and amount of fees charged against brokerage, pension plan, and other accounts, would uniform parameters established by the Commission not appreciably decrease costs, but rather serve principally to reduce flexibility for funds?
+
+<h>1. Elements of a Uniform Redemption Fee</h>
+
+The mandatory redemption fee rule that we proposed last year established specific guidelines for redemption fees that funds would be required to impose, and that intermediaries would therefore be required to implement. Some of those features were fixed, such as the levelnon-uniform redemption fee structures will create a competitive disadvantage for retirement plan administrators and intermediaries who offer ‘open architecture’ multiple fund family platforms relative to mutual fund companies providing retirement plan services that offer only a single family of funds.”).of the fee (two percent) and the method used to calculate the time period between purchase and sale of shares in an account (first in, first out, or “FIFO”). Other features were variable, such as the duration of the time period for the redemption fee (at least five business days) and the provision of waivers for de minimis redemption fees (waiver of redemption fees on redemptions of 2,500 dollars or less). We provided these guidelines in order to establish a certain degree of uniformity among redemption fees charged by funds, while permitting funds some flexibility in designing the redemption fee that best suited their circumstances.
+
+During the comment period no consensus emerged regarding the features of a redemption fee that are most effective in deterring excessive trading and compensating a fund for the costs of such trading. The wide array of comments relating to the elements of the redemption fee may reflect, in part, the different views regarding the purpose of redemption fees. Some commenters viewed the redemption fee solely as a mechanism to recover costs associated with short-term trading, and therefore argued that the proposed exceptions were largely unnecessary. <sup>60</sup> Other commenters viewed redemption fees as a tool to penalize or deter market timers, and therefore gave importance to the intentions of the trader as well as the susceptibility of certain transactions to abusive short-term trading. <sup>61</sup>
+
+The myriad of commenters’ views expressed about the proposed mandatory rule has led us to request additional comment on the redemption fee parameters, if any, that should bespecified for all funds that voluntarily choose to charge redemption fees. <sup>62</sup> We are considering whether to revise the rule to require some or all of the following uniform fee parameters, on which we request comment: <sup>63</sup>
+
+<h>a. Share Accounting. We are considering adopting, as proposed, a provision that would require funds to determine the amount of any redemption fee by using the FIFO method, i.e., by treating the shares held the longest time as being redeemed first, and shares held the shortest time as being redeemed last. This is the method commonly employed by funds that currently charge redemption fees, and was supported by most commenters. We22c-2 will present an insuperable conflict with state insurance laws when a redemption fee is imposed on transactions by holders of existing variable annuity or variable life insurance contracts. The redemption fee would be imposed by the fund rather than pursuant to a contract issued by the insurance company. See Miller v. Nationwide Life Ins. Co. , 391 F.3d 698 (5 th Cir. 2004).proposed use of the FIFO method because it was less likely than other methods, such as LIFO (treating the shares most recently purchased as being redeemed first), to result in a redemption fee being imposed on ordinary shareholder redemptions. <sup>66</sup> We request comment on whether rule 22c-2 should require that, if a fund imposes a redemption fee, the fee be determined by the use of FIFO, or alternatively by the use of some other method.</h>
+
+<h>b. De Minimis Waivers. We are considering requiring that the redemption fee not be charged if the amount of the fee would be fifty dollars or less. Under such a provision, a shareholder in a fund with a two percent redemption fee could redeem as much as 2,500 dollars of shares within seven days of purchasing them without paying a redemption fee. Use of FIFO accounting for share transactions, as discussed above, will likely result in few redemptions normally made by most investors incurring a redemption fee, except when the shareholder redeems all of his or her fund shares. The primary effect of a de miminis provision, therefore, would be to prevent recent purchases of fund shares from being charged a redemption fee when a shareholder makes a complete redemption of his or her shares in a particular fund.</h>
+
+Most commenters who addressed this exception supported a uniform de minimis waiver provision. <sup>67</sup> Many intermediaries strongly urged that we make a de minimis exemption mandatory to avoid the costs they asserted they would incur to accommodate various different de minimis arrangements. <sup>68</sup> Some commenters opposed allowing any de minimis exceptions,to calculate the tax effects of redemptions). But see Comment Letter of the Vanguard Group (May 10, 2004) (stating that LIFO offers a “simpler and more comprehensive” solution than FIFO does); Comment Letter of Capital Research and Management (May 10, 2004) (arguing that using LIFO is essential for a redemption fee program to be effective against excessive trading).arguing that such exceptions permit market timers to break up transactions into smaller amounts in order to avoid the fee. <sup>69</sup> We request comment whether the rule should permit, or require, funds to waive redemption fees under a certain dollar amount.
+
+<h>c. Amount of Redemption Fee; Length of Holding Period. As discussed above, we do not contemplate establishing a uniform amount for the redemption fee, i.e., the percentage charged upon early redemption. Nor do we anticipate establishing a uniform minimum holding period (beyond the seven day minimum specified in the rule). As a result, fund boards will retain flexibility to address the needs of their funds. It is our understanding that systems employed by fund intermediaries can more easily handle variations in the amount of the fee and holding periods than, for example, some of the other exceptions discussed in this section. We seek comment on whether intermediaries would be able to administer fees more easily if the fee and holding period vary among funds but the parametersredemption fee on redemptions of $2,500 or less, i.e. , redemption fees of $50 or less (“de minimis exception”). Most commenters who addressed this exception supported it. However, many of the financial intermediaries strongly recommended that the de minimis exception be mandatory to avoid the system and compliance costs necessary to accommodate funds that have different de minimis rules. See, e.g. , Comment Letter of Merrill Lynch, Pierce, Fenner & Smith Inc. (May 10, 2004). Other commenters recommended that the rule state a de minimis provision in terms of the amount of the redemption fee rather than the amount of the redemption in order to address a redemption in which only a portion of the shares redeemed were purchased within the previous seven days and thus subject to a redemption fee. See Comment Letter of the Investment Company Institute (May 7, 2004).discussed below are uniform, than if all of these elements were variable. We would expect that the rule would not permit funds to vary the redemption fee based on the amount of time that fund shares are held. <sup>72</sup> We request comment on such a provision.</h>
+
+<h>d. Investor Initiated Transactions. We are considering whether the rule should require that any redemption fee charged by a fund be limited to transactions initiated by investors. Under such an approach, redemption fees would not be assessed with respect toshares purchased with reinvested dividends or other distributions, <sup>73</sup> and (ii) shares purchased or redeemed pursuant to a prearranged contract, instruction or plan, such as purchases, redemptions, transfers, or exchanges <sup>74</sup> that are not discretionary transactions for employee benefit plans. <sup>75</sup> As discussed above, many commenters (particularly administrators of retirement plans) were concerned that the redemption fee would inadvertently apply to harmless transactions suchas account rebalancings or redemptions after recent periodic contributions, and strongly favored this approach, urging us to include such an exception in any rule we adopt. <sup>76</sup></h>
+
+We request comment on the need for such an exception. Is it necessary if we provide for FIFO accounting for share holding periods and a de minimis exception that addresses complete redemptions? Can funds identify which transactions (other than those made in connection with retirement plans) would qualify for this exception? If not, should the rule make such an exception mandatory only with respect to shareholders who hold through retirement plans?
+
+Alternatively, should we make such an exception voluntary? Such an approach would not require all funds to provide the exception, but would leave it to funds and their intermediaries to work out the terms of such an approach.
+
+Those commenters who favor a mandatory exception should address how the rule would identify such transactions in the context of different types of intermediaries. Would the formulation that we set out above be workable?
+
+<h>e. Financial Emergencies. We envision that the rule would permit funds to grant a redemption fee waiver in the case of an unanticipated financial emergency, upon the written request of the shareholder. Most commenters who addressed the issue opposed the mandatory financial emergency exception that we proposed last year. Some argued that the exception would rarely be invoked for legitimate purposes, and thus could be used to circumventredemption fees. <sup>78</sup> Others, including many intermediaries, stated that an open-ended “financial emergency” exception could be difficult to administer and may cover too many circumstances, such as market declines. <sup>79</sup> We request additional comment whether the rule should require funds to waive redemption fees in the case of unanticipated financial emergencies. We request comment whether such a provision would discourage funds from adopting redemption fees – an issue that we did not address in our proposed rule because it provided for mandatory redemption fees. We also seek comment on what circumstances should constitute a financial emergency.</h>
+
+<h>f. Other Exceptions and Waivers. We also request comment on whether the rule should include additional exceptions that would limit the circumstances under which funds may charge redemption fees. For example, should funds generally be required to apply any redemption fee to all underlying shareholders, and not exclude fees on the redemption of shares held through omnibus accounts? If so, would the fund need to be able to obtain additional shareholder information regarding shares that are transferred from one omnibus account to another? For example, would the fund need information from an intermediary (such as a retirement plan administrator) that submits a net fund order (on behalf of the plan) to a financial intermediary that holds the plan’s shares in an omnibus account? Requiring that a redemption fee apply to all fund shareholders would be designed to eliminate the special treatment of omnibus accounts that has permitted abusive market timers to avoid redemptionfees, and in some cases to avoid detection. <sup>80</sup> Conversely, should the rule permit a fund to waive the fee ( i.e. , decide not to impose the fee on a case-by-case basis) only in accordance with policies and procedures approved by the board of directors, including a majority of the independent directors? Should a fund be required to maintain records of such waivers?</h>
+
+We also request comment on whether there are certain types of funds that should receive special treatment under the redemption fee rule. For example, should there be special provisions regarding funds that invest small amounts in other funds in reliance on section 12(d)(1)(F) of the Act? Should there be an exception for unit investment trusts? Because a unit investment trust invests in specified securities, is it unlikely to engage in market timing? Should redemptions by section 529 plans that invest in funds be excepted from redemption fees? Investors that hold interests in section 529 plans seem unlikely to engage in short-term trading because they lose tax benefits if they change investments in the account more than once a year. <sup>81</sup>
+
+<h>g. Variable Insurance Contracts. We also envision that the rule would not permit the assessment of redemption fees on the redemption, pursuant to partial or full contract withdrawals, of shares issued by an insurance company separate account organized as a unit investment trust that is registered under the Investment Company Act. These types of redemptions are unlikely to occur as part of a market timing or rapid trading strategy, and will permit contract holders to exercise a “free look” provision of their contracts without paying a redemption fee. We received a significant number of comment letters from insurancecompanies that were concerned about the potential conflict that mandatory redemption fees could generate with some state insurance laws. We request additional comment whether other provisions are needed to address the special circumstances of insurance company separate accounts.</h>
+
+<h>2. Financial Intermediaries</h>
+
+The mandatory redemption fee rule that we proposed last year would have provided funds and the financial intermediaries through which investors purchase and redeem shares three methods of assuring that the appropriate redemption fees are imposed. <sup>83</sup> First, fund intermediaries could transmit to the fund (or its transfer agent) at the time of each transaction the account number used by the intermediary to identify the transaction. <sup>84</sup> Second, intermediaries could enter into an agreement with the fund requiring the intermediary to identify redemptions of account holders that would trigger the application of the redemption fee, and transmit holdings and transaction information to the fund (or its transfer agent) sufficient to allow the fund tothe contract, to surrender the contract without cost. Other exceptions that we have discussed above (and on which we request comment) also may work well to accommodate insurance company investments. See supra notes 73-75 and accompanying text. Those revisions would include a requirement that redemption fees apply only to investor initiated transactions, which would mean that redemption fees would not be imposed on automatic transactions as a result of, for example, periodic redemptions to pay the cost of insurance charges, or systematic withdrawal plans.assess the amount of the redemption fee. <sup>85</sup> Third, the fund could enter into an agreement with a financial intermediary requiring the intermediary to impose the redemption fees and remit the proceeds to the fund. <sup>86</sup>
+
+These methods were designed to work for different types of intermediaries. Commenters were divided on whether the rule should provide flexibility to funds and intermediaries to choose alternative means to assess redemption fees in omnibus accounts. Some funds and intermediaries supported the rule’s flexibility. <sup>87</sup> Other funds and intermediaries, including many insurance companies, opposed the proposed framework, arguing that it would require both funds and their intermediaries to accommodate all three alternatives, which would be very costly. <sup>88</sup> Instead, these commenters suggested that most funds and intermediaries are likely to use the third option because it may be the most cost-effective. <sup>89</sup> We request further comment on whether the rule should limit the ways that redemption fees may be assessed to promote greater uniformity in the enforcement of redemption fees across funds and their intermediaries. Should we retain all three options to accommodate, for example, the small intermediary that does not have the capability to collect and transmit redemption fees? If we retained these options, which entity should determine the option used to assess redemption fees?
+
+Omnibus Report, supra note 84.
+
+<h>3. Recordkeeping</h>
+
+Under rule 22c-2, if the fund’s board approves a redemption fee, then the fund must retain a copy of the written agreement between the fund and financial intermediary under which the intermediary agrees to provide the required shareholder information in omnibus accounts. <sup>90</sup> This recordkeeping requirement is designed to assist our examination staff in assessing compliance with the new rule. We request comment whether we should adopt an additional requirement that a fund retain copies of the materials provided to the board in connection with the board’s approval of a redemption fee.
+
+<h>III. EFFECTIVE AND COMPLIANCE DATES</h>
+
+The new rule will be effective on May 23, 2005. The compliance date of the rule is October 16, 2006. <sup>91</sup> The transition period for rule 22c-2 is intended to give funds and their financial intermediaries ample time to make needed contractual amendments and system enhancements.
+
+<h>IV. COST-BENEFIT ANALYSIS</h>
+
+The Commission is sensitive to the costs and benefits imposed by its rules. As discussed in Section II above, rule 22c-2 permits each fund, with the approval of its board (including a majority of independent directors), to impose and retain a redemption fee that does not exceed two percent of the amount redeemed. The Commission is also requiring funds (or their principal underwriters) to enter into written agreements with intermediaries who hold shares on behalf of other investors, under which the intermediaries must provide funds with certain shareholderidentity and transaction information at the request of the fund and must execute certain of the funds’ instructions.
+
+<h>A. Benefits</h>
+
+We anticipate that funds and shareholders will benefit from the rule. Rule 22c-2 is designed to allow a fund to deter, and provide for reimbursement for the costs of, short-term trading in fund shares. Short-term trading can increase transaction costs for the fund, disrupt the fund’s stated portfolio management strategy, require maintenance of an elevated cash position, and result in lost investment opportunities and forced liquidations. Short-term trading also can result in unwanted taxable capital gains for fund shareholders and reduce the fund’s long-term performance. This trading also can dilute the value of fund shares held by long-term shareholders if a short-term trader, or market timer, buys and sells shares rapidly to take advantage of market inefficiencies when the price of a mutual fund does not reflect the current market value of the stocks held by that mutual fund. <sup>92</sup> Although short-term traders can profit from engaging in frequent trading of fund shares, the costs associated with such trading are borne by all fund shareholders.
+
+Rule 22c-2 also is designed to enable funds to monitor the frequency of short-term trading in omnibus accounts and to take steps, where appropriate, to respond to this trading. We believe that this requirement will facilitate greater cooperation between funds and their intermediaries. The right to access this trading information provides funds with an important new tool to monitor trading activity in order to detect market timing and to assure consistent enforcement of their market timing policies.
+
+To the extent that rule 22c-2 discourages short-term trading, long-term investors may have more confidence in the financial markets as a whole, and funds in particular. Increased investor confidence may result because the rule enables funds to obtain from financial intermediaries information that will allow funds to identify investors who are market timing through omnibus accounts. Funds would benefit by an increase in investor confidence because long-term investors would be less likely to seek alternative financial products in which to invest. Because the fund that imposes the redemption fee retains the fee, long-term shareholders of those funds essentially will be reimbursed for some, if not all, of the redemption costs caused by the short-term traders.
+
+The recordkeeping requirements outlined above in Section II.C.3. are designed to assure the documentation of the fund’s agreement with its intermediaries concerning the availability of shareholder identity and transaction information in omnibus accounts. These records will assist our examination staff in determining compliance with the rule.
+
+<h>B. Costs</h>
+
+The new rule will result in additional costs for funds and their financial intermediaries, which we expect will be passed on to investors or borne by fund advisers. The bulk of these costs, however, are one-time costs, whereas the benefits of the board determination and the adoption of a redemption fee for some funds and their shareholders will be enduring. <sup>93</sup> The rule we adopt today is intended to be responsive to the cost concerns that have been articulated by a number of commenters, including both funds and financial intermediaries.
+
+We received a number of comments regarding the costs associated with the proposedmandatory redemption fee rule. The comments primarily addressed the costs of providing shareholder identity and transaction information in omnibus accounts. Many funds and intermediaries expressed concern that the proposed rule, in particular the proposed weekly reporting requirement, would have resulted in significant costs for both funds and financial intermediaries that may not be justified by its benefits.
+
+The intermediaries generally have stressed the importance of uniformity as a means of reducing some of these costs; otherwise, they argued, systems and compliance costs would be significant. In addition, since intermediaries must comply with specific instructions by a fund to restrict or prohibit further purchases or exchanges in transactions of fund shares by a shareholder, intermediaries may incur costs associated with making these terms explicit to their clients.
+
+We modified the proposal in several ways in response to commenters’ concerns. These revisions to the proposed rule should result in significant savings to retirement plans and other intermediaries, as well as funds. First, unlike our proposal, the rule does not require funds to impose a redemption fee. Thus, a fund and its board may decide that a redemption fee is not necessary or appropriate to address short-term trading. We also concluded that the proposed weekly reporting requirement was unnecessarily burdensome and costly, and instead we are requiring that funds enter into agreements with intermediaries under which, as commenters recommended, shareholder identity and transaction information will be available to funds upon request. <sup>94</sup> Although this modification should reduce costs under the final rule for financialintermediaries and funds, financial intermediaries in the aggregate may still face significant one- time costs to develop systems to assemble the information for transfer to funds on request. <sup>95</sup> For purposes of the Paperwork Reduction Act analysis, we estimate that each fund will incur capital costs of $100,000, for an aggregate cost of $162,000,000 for all funds. <sup>96</sup> We also estimate that each intermediary will incur capital costs of $150,000 for an aggregate cost of $949,500,000 for all intermediaries. <sup>97</sup>
+
+The one-time costs may vary significantly among individual financial intermediaries depending on circumstances, such as the number of funds with which the intermediary must communicate, the frequency of communication, and whether the intermediary develops systems itself or purchases systems from a third party provider. At the same time, the rule should result in cost savings to funds and their long-term shareholders because funds will be able to better enforce their market timing policies against traders who engage in short-term trading through omnibus accounts. The final rule also should result in the more consistent application of market timing policies between shareholders who purchase funds shares directly and those who purchase shares through omnibus accounts.
+
+Today, we also are requesting additional comment on whether we should adopt uniform
+
+We are requiring funds to retain copies of their written agreements with their intermediaries, which should result in limited additional costs because most funds (or principal underwriters) already have agreements with their distributors. The agreement between the fund or its principal underwriter and the intermediary is usually referred to as the “selling agreement.”standards for all redemption fee programs. We seek comment on whether uniform parameters, if adopted, would reduce the systems and compliance costs on both funds and intermediaries. For example, we are requesting further comment on whether we should mandate that all funds use the FIFO method, which is the method used by the vast majority of funds that impose redemption fees. We believe, and the commenters have generally argued, that the standardization of certain redemption fee parameters could reduce the costs of implementing redemption fee programs, as compared to allowing greater variety among redemption fee programs. We seek comment on the effect, if any, standardization could have on the cost of implementing a redemption fee program.
+
+<h>V. CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION</h>
+
+Section 2(c) of the Investment Company Act requires the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation.
+
+As discussed above, rule 22c-2 will enable funds to impose, where appropriate, redemption fees designed to reimburse the fund for the direct and indirect costs associated with short-term trading strategies, including market timing. The rule also is designed to supplement other means of combating market timing practices by imposing a cost on those transactions.
+
+This new rule will promote efficiency by deterring short-term trading, and by giving funds the information they need to monitor short-term trading in omnibus accounts. Funds, armed with the ability to obtain the identity and transactional information of each fund shareholder, will be able
+
+Section VI.to monitor shareholder trades or flows of money in and out of funds held by intermediaries, and enforce their market timing policies and procedures.
+
+We do not anticipate that this rule will harm competition. The rule will help ensure that a fund’s market timing policies, which may or may not include redemption fees, are applied consistently between direct purchase investors and investors that invest through intermediaries. By placing these shareholders on a more level basis than currently exists, short-term traders in omnibus accounts will no longer be able to trade for free at the expense of their fellow shareholders who purchase shares directly.
+
+We recognize the potential for anti-competitive behavior under a rule that does not mandate redemption fees. The competitive pressure of marketing funds, especially smaller funds, coupled with the costs of imposing redemption fees in omnibus accounts, may deter some funds from imposing redemption fees. Intermediaries may use their market power to prevent funds from applying the fees, or to provide incentives for fund groups to waive fees.
+
+Accordingly, we are requesting comment on whether the uniform parameters discussed above will encourage intermediaries to cooperate with funds.
+
+Several commenters cautioned that the proposed mandatory redemption fee rule could have anti-competitive effects on intermediaries because it would disproportionately burden small intermediaries, who may incur the largest relative costs as a result of the new rule. We believe the modification to the proposed weekly reporting requirement, as discussed above, will greatly benefit small intermediaries. We also are asking comment on whether we should implement uniform redemption fee requirements, which could reduce the costs incurred by small intermediaries.
+
+We anticipate that the new rule will indirectly foster capital formation by bolsteringinvestor confidence. The rule is likely to reduce the risk of securities law violations, such as market timing violations. In addition, the rule will encourage the use of redemption fees as a tool to address short-term trading because funds will be able to access shareholder information in omnibus accounts, thus preventing short-term traders from diluting the interests of long-term investors, who represent the vast majority of fund shareholders. The fund’s retention of redemption fees should result in lower expense ratios and costs for these shareholders. If short- term trading declines, then shareholders should receive better investment performance. To the extent that the rule enhances investor confidence in funds, investors are more likely to make assets available through intermediaries for investment in the capital markets.
+
+<h>VI. PAPERWORK REDUCTION ACT</h>
+
+As we discussed in the Proposing Release, the rule would result in new “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995. <sup>98</sup> We published notice soliciting comments on the collection of information requirements in the Proposing Release and submitted these requirements to the Office of Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. The Commission has resubmitted these proposed collections of information to the Office of Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. The title for the collection of information requirements associated with the rule is “Rule 22c-2 under the Investment Company Act of 1940, ‘Redemption fees for redeemable securities.’” An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.
+
+The collections of information created by rule 22c-2 are necessary for funds to be able to assess redemption fees and monitor short-term trading, including market timing, in omnibus accounts. One of the collections of information is mandatory. As stated earlier, under rule 22c- 2, funds and intermediaries must enter into written agreements under which the intermediary agrees to provide certain shareholder identity and transaction information upon request by the fund. <sup>99</sup> We are imposing a new requirement that funds retain a copy of the agreement that is or was in effect within the past six years in an easily accessible place. <sup>100</sup> We do not expect that this requirement will impose additional costs on funds because most funds in the ordinary course of their business retain these agreements with their intermediaries. This collection of information is necessary for our staff to use in its examination and oversight program. Responses provided in the context of the Commission’s examination and oversight program are generally kept confidential.
+
+We requested comment on whether the estimates contained in the Proposing Release were reasonable. We received extensive comments on the projected costs of the proposal. In many cases, funds and intermediaries, including a number of small broker-dealer firms, generally argued that the system functionality or start-up costs necessary to assess and collect redemption fees on shares held through omnibus accounts, coupled with the operational and maintenance costs, would be significant and in some cases greater than what we estimated. <sup>101</sup> In particular,commenters found the weekly reporting requirement to be burdensome; <sup>102</sup> the estimated costs to comply with this requirement were by far the largest component of the aggregate cost burden that was estimated in the Proposing Release. <sup>103</sup>
+
+In response to commenters’ concerns, we have decided not to require that funds impose redemption fees. Instead, we are allowing funds and their boards to determine whether, and under what circumstances, a redemption fee is necessary to protect the fund from excessive trading. <sup>104</sup> We are also reducing the burden on funds and intermediaries by requiring that funds’ agreements with financial intermediaries provide for intermediaries to transmit shareholder identity and transaction data at the fund’s request, rather than on a weekly basis as originally proposed. This modification should significantly reduce the costs incurred by funds and their intermediaries.
+
+The Commission staff estimates that there are currently 2,700 active registered open-end investment companies. For purposes of this section, we estimate that 60 percent of funds (1,620) will request the shareholder information. In addition, for purposes of this estimate, we assume that funds will request the shareholder identity and transaction data quarterly, or four times a year. We anticipate that 6,330 financial intermediaries, a slightly lower number ofcost to all funds and intermediaries would approximate $673,171,200. One commenter estimated the costs to funds and intermediaries to be $2,278,363,734 per year. See Comment Letter of First Trust Corporation (May 10, 2004).$1,020,000,000, and the ongoing costs to be $680,000,000 per year on an aggregate basis.intermediaries than estimated in the Proposing Release, will be subject to the collection of information requirements. <sup>105</sup> We anticipate that all funds would have to modify their agreements or contracts with their intermediaries. This modification would create a one-time burden of 4.5 hours per fund (4 hours of in-house counsel time, .5 hours of support staff time) <sup>106</sup> for a total burden of 12,150 hours, <sup>107</sup> at a cost of $3,353,279. <sup>108</sup>
+
+In light of our decision to allow funds to determine whether, and under what circumstances, to obtain the shareholder transactional data in omnibus accounts, we are revising some of the estimates that we provided in the Proposing Release. Similar to the proposed rule, we estimate that, under rule 22c-2, there would be a burden on funds to collect and evaluate the data, and intermediaries to transmit it. However, that burden is substantially reduced under rule 22c-2 because, as stated above, the intermediary will provide the data to the fund upon the fund’s request, rather than weekly.
+
+We estimate the annual burden on a fund to collect information it requests from financialrebalancings.intermediaries will be 160 hours <sup>109</sup> for a total burden of 259,200 hours for all funds. <sup>110</sup> We estimate the capital costs for a fund will be $100,000 per fund for an aggregate cost of$162,000,000 for all funds. <sup>111</sup> We estimate the ongoing yearly cost will be $6,640 per fund for an aggregate yearly cost for all funds of $10,756,800. <sup>112</sup> We estimate the annual burden for financial intermediaries to establish systems for the collection and transfer of data to funds will be 240 hours per intermediary for a total burden of 1,519,200 hours for all financial intermediaries. <sup>113</sup> We estimate the capital costs will be $150,000 per financial intermediary for an aggregate cost of $949,500,000. <sup>114</sup> We estimate ongoing costs of $60,000 per financial intermediary for an aggregate yearly cost of $379,800,000 for all intermediaries. <sup>115</sup>
+
+The estimated collection burden for all 9,030 respondents ( i.e ., 2,700 funds + 6,330 intermediaries) under rule 22c-2, is determined by calculating an average of the first year burden and the subsequent annual burdens. Over the three-year period, we estimate the weighted$162,000,000.$10,756,800.average aggregate annual information collection burden will be 1,895,250 hours. <sup>116</sup> The Commission estimates that there will be a total of 25,320 responses annually, which includes responses by funds and intermediaries. <sup>117</sup>
+
+The total annual cost of the new information collection requirements for all 7,950 respondents ( i.e ., 1,620 funds + 6,330 intermediaries), is determined by calculating an average of the first year cost and the subsequent annual costs. Over the three-year period, we estimate the weighted average aggregate annual cost will be $630,871,200. <sup>118</sup>
+
+<h>VII. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
+
+This Final Regulatory Flexibility Analysis (“FRFA”) has been prepared in accordance with 5 U.S.C. 604. It relates to rule 22c-2 and the amendments to rule 11a-3 under the$949,500,000. Thus, in the first year after adoption, we estimate the aggregate cost burden for all respondents will be $1,111,500,000. In the second and third years after adoption, we expect the annual cost burden for respondents to fall to $390,556,800 because funds and intermediaries will incur only the ongoing operation and maintenance costs of systems that have been put in place during the first year. Specifically, in each of the second and third years after adoption (i) we estimate the aggregate cost burden for the information collection requirements for funds will be$10,756,800; and (ii) for intermediaries will be $379,800,000. Thus, we estimate that the average annual cost burden over the three-year period for which we are seeking approval will be$630,871,200 ($1,111,500,000 first year’s burden + $390,556,800 second year’s burden +$390,556,800 third year’s burden / 3).
+
+Investment Company Act. The Initial Regulatory Flexibility Analysis (“IRFA”), which was prepared in accordance with 5 U.S.C. 603, was published in the Proposing Release. <sup>119</sup>
+
+<h>A. Need for, and Objectives of, the Rule</h>
+
+As described more fully in Section I of this Release, rule 22c-2 is necessary to enable funds to recover some, if not all, of the direct and indirect ( e.g ., market impact and opportunity) costs incurred by the fund when shareholders engage in short-term trading of the fund’s shares, and to deter short-term trading, including market timing activity. As stated in Section I, many funds have not imposed redemption fees on shares held in omnibus accounts because they often do not know the identities and transactions of the beneficial owners of those shares, and may be unable to obtain the cooperation of the intermediaries to impose the fee. Rule 22c-2 requires that funds enter into written agreements with financial intermediaries that will allow funds to obtain this information on request, and to direct intermediaries to prohibit or restrict further purchases or exchanges by shareholders who have engaged in trading that violates the funds’ market timing policies.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+We requested comment on the IRFA. We also specifically requested comment on the number of small entities that would be affected by the proposed rule, the likely impact of the proposal on small entities, the nature of any impact, and empirical data supporting the extent of the impact. We received a number of comments on the impact on small entities. These commenters, primarily small financial intermediaries, generally expressed concern that the costs associated with the proposed mandatory redemption fee would be significant anddisproportionately affect small entities because of the costs to record, store, track and transmit data. <sup>120</sup>
+
+We are concerned about the impact of the rule on small entities, and therefore have amended the rule to address many commenter concerns. Rule 22c-2 no longer requires funds to impose a redemption fee if they determine that a fee is not necessary or appropriate to prevent dilution. Under rule 22c-2, rather than requiring funds to obtain shareholder information from financial intermediaries on a weekly basis, intermediaries must agree to provide the information upon a fund’s request, e.g ., periodically or when circumstances suggest that redemption fees are not being assessed or that abusive market timing activity is occurring. In addition, the rule does not prevent funds from excluding certain types of transactions that do not involve shareholder discretion from the fee, e.g. , redemptions that follow purchases made pursuant to periodic portfolio rebalancings. <sup>121</sup> We believe that this flexibility will be very helpful to small recordkeeping firms by enabling them to negotiate greater uniformity in the administration of retirement plans. In addition, we request comment on whether we should require a uniform standard for any redemption fees charged by a fund and whether such uniformity could result in cost reductions for funds and financial intermediaries.$250,000.
+
+<h>C. Small Entities Subject to the Rule</h>
+
+A small business or small organization (collectively, “small entity”) for purposes of the Regulatory Flexibility Act is a fund that, together with other funds in the same group of related investment companies, has net assets of $50 million or less as of the end of its most recent fiscal year. <sup>122</sup> Of approximately 3,925 funds (2,700 registered open-end investment companies and 825 registered unit investment trusts), approximately 163 are small entities. <sup>123</sup> A broker-dealer is considered a small entity if its total capital is less than $500,000, and it is not affiliated with a broker-dealer that has $500,000 or more in total capital. <sup>124</sup> Of approximately 6,800 registered broker-dealers, approximately 880 are small entities, of these, approximately 470 are broker- dealers that already transmit the shareholder data to funds on a fully-disclosed basis. Funds would not need to request the shareholder identity and transaction data from these broker- dealers. These particular intermediaries therefore would not need to establish or maintain systems to comply with this portion of the rule, so we have not included them in our start-up or ongoing maintenance calculations.
+
+As discussed above, rule 22c-2 provides funds and their boards with the ability to impose a redemption fee designed to reimburse the fund for the direct and indirect costs incurred as a result of short-term trading strategies, such as market timing. To facilitate the uniform application of redemption fees to all shareholders of the fund, including shareholders who own their shares through financial intermediaries, rule 22c-2 requires that funds and financialintermediaries enter into written agreements that allow funds to obtain shareholder identity and transaction information and to direct the financial intermediary to execute the funds’ instructions in certain circumstances. While we expect that the rule will require that some funds and intermediaries develop or upgrade software or other technological systems to enforce certain market timing policies, or make trading information available in omnibus accounts, <sup>125</sup> we anticipate that the modifications, as discussed above, will reduce the costs incurred by small entities.
+
+<h>D. Reporting, Recordkeeping, and Other Compliance Requirements</h>
+
+The rule does not introduce any new mandatory reporting requirement. The rule does contain a new mandatory recordkeeping requirement. The fund must retain a copy of the written agreement between the fund and financial intermediary under which the intermediary agrees to provide the required shareholder information in omnibus accounts. <sup>126</sup>
+
+<h>E. Commission Action to Minimize Effect on Small Entities</h>
+
+The Regulatory Flexibility Act directs the Commission to consider significant alternatives that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. Alternatives in this category would include: (i) establishing different compliance or reporting standards that take into account the resources available to small entities;clarifying, consolidating, or simplifying the compliance requirements under the rule for small entities; (iii) using performance rather than design standards; and (iv) exempting small entitiesfrom coverage of the rule, or any part of the rule.
+
+The Commission does not believe that the establishment of special compliance requirements or timetables for small entities is feasible or necessary. The rule arises from enforcement actions and settlements that underscore the need to reimburse funds so that long- term shareholders will not be disadvantaged by shareholders that engage in frequent trading and by fund managers that selectively permit such short-term trading. Excepting small entities from the rule could disadvantage fund shareholders of small entities and compromise the effectiveness of the rule.
+
+With respect to further clarifying, consolidating or simplifying the compliance requirements of the rule, using performance rather than design standards, and exempting small entities from coverage of the rule or any part of the rule, we believe such changes are impracticable. Small entities are as vulnerable to the problems uncovered in recent enforcement actions and settlements as large entities. Therefore, shareholders of small entities are equally in need of protection from short-term traders. We believe that the rule will enable funds to more effectively discourage short-term trading of all fund shares, including those held in omnibus accounts. A recent staff review of fair valuation practices of mutual funds found that one of the biggest obstacles to preventing short-term trading is the existence of omnibus account platforms. Exempting small entities from coverage of the rule or any part of the rule could compromise the effectiveness of the rule.
+
+<h>VIII. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 Unless otherwise noted, all references to statutory sections are to the Investment Company Act of 1940, and all references to “rule 22c-2” or any paragraph of the rule will be to 17 CFR 270.22c-2; all references to rule 11a-3 or any paragraph of that rule will be to 17 CFR 270.11a-3 as amended. References to comment letters are to letters available in File No. S7-11-04.
+
+2 An open-end investment company (i.e., a “mutual fund”) issues “redeemable securities,” which entitle the holder of the securities to receive approximately his proportionate share of the fund’s net asset value. See section 2(a)(32) of the Act [15 U.S.C. 80a-2(a)(32)] (defining “redeemable security”); section 5(a)(1) of the Act [15 U.S.C. 80a-5(a)(1)] (defining “open-end company”).
+
+3 These market strategies include time zone arbitrage, but may include others that are not dependent on the misvaluation of portfolio securities. See, e.g., Borneman v. Principal Life Ins. Co., 291 F. Supp. 2d 935 (S.D. Iowa 2003), which involved a dispute resulting from an insurance company’s market timing restrictions on annuityholders who were exploiting a correlation between changes in the value of shares of a separate account investing in international equities and one investing in domestic equities.
+
+4 Market timing includes (a) frequent buying and selling of shares of the same fund or (b) buying or selling fund shares in order to exploit inefficiencies in fund pricing. Market timing, while not illegal per se, can harm other fund shareholders because (a) it can dilute the value of their shares, if the market timer is exploiting pricing inefficiencies, (b) it can disrupt the management of the fund’s investment portfolio, and (c) it can cause the targeted fund to incur costs borne by other shareholders to accommodate the market timer’s frequent buying and selling of shares.
+
+5 See Edward S. O’Neal, Purchase and Redemption Patterns of US Equity Mutual Funds, 33 FIN. MGT. ASSOC. 63, at text following n.1 (2004) (“[H]eightened redemption activity, even among a minority of fund investors, has liquidity-cost implications for all fund shareholders.”).
+
+6 See Redemption Activity of Mutual Fund Owners, FUNDAMENTALS (Investment Company Institute, Washington, D.C.), March 2001, at 1-3 (stating that the vast majority of fund shareholders do not frequently redeem their shares, and that a small percentage of shareholders account for the most active trading).
+
+7 See Gary L. Gastineau, Protecting Fund Shareholders from Costly Share Trading, 60 FIN. ANALYSTS J. 22 (2004) (estimating that frequent buying and selling reduces an average stock fund’s annual returns by at least 1%, which amounts to nearly $40 billion annually for all stock mutual funds). See also Jason Greene & Charles Hodges, The Dilution Impact of Daily Fund Flows on Open-end Mutual Funds: Evidence and Policy Solutions, 65 J. FIN. ECON. 131 (2002) (estimating annualized dilution from frequent trading, based on market timing, of 0.48% in international funds: “the dilution impact has brought about a net wealth transfer from passive shareholders to active traders in international funds in excess of $420 million over a 26-month period.”). See also Roger M. Edelen, Investor Flows and the Assessed Performance of Open-end Mutual Funds, 53 J. FIN. ECON. 439, 457 (1999) (quantifying the costs of liquidity in mutual funds as $0.017 to $0.022 per dollar of liquidity-motivated trading). A more recent study conducted by Edelen and others estimated that commissions and spreads alone cost the average equity fund as much as 75 basis points. See John M.R. Chalmers, et al., Fund Returns and Trading Expenses: Evidence on the Value of Active Fund Management, (last modified Aug. 30, 2001), at 10 (available at
+
+8 See William Samuel Rocco, Are You Safe from Market-Timers?, Morningstar.com (June 22, 2004) available at <> (“Both the deliberate and the inadvertent short- to mid-term market-timers raise trading costs and undermine long-term performance by forcing managers to carry more cash than they otherwise would and make sales they otherwise wouldn’t during sell-offs.”) (last visited Sept. 24, 2004); Paula Dwyer, et al., Mutual Funds Feel The Heat, BUS. WK., Oct. 20, 2003, at 50 (“[S]hareholders get short shrift when funds sell off good investments or hold extra cash to pay back the timers. Shareholder returns also decline because market timing raises mutual funds’ own trading costs.”). See also Ken Hoover, Why Mutual Funds Discourage Timers; Two Forms of Practice; They Increase Expenses, Can Disrupt Portfolios and Rob Other Investors, INVESTOR’S BUS. DAILY, Sept. 17, 2003, at AO9.
+
+9 Some of the approaches that funds have adopted include: (i) restricting exchange privileges, including delaying both the redemption and purchase sides of an exchange; (ii) limiting the number of trades within a specified period; (iii) delaying the payment of proceeds from redemptions for up to seven days (the maximum delay permitted under section 22(e) of the Act);
+
+10 See Arden Dale, Mutual-Fund ‘Timers’ Get Clocked – Scandals Lead to Grief; How the Dreaded T-Word Became ‘Active Investment,’ WALL ST. J., Aug. 23, 2004, at C15 (“Tarred by the fund- trading scandal, the practice of rapid trading – also known as market timing – is under fire by fund companies …. To turn up the heat on timers, fund companies are adding new [redemption] fees.”). Lisa Singhania, Mutual Fund Redemption Fees are Rising, USA TODAY, July 12, 2001 (“Financial Research Corp. found the number of funds charging redemption fees rose 82 percent between Dec. 31, 1999 and Mar. 30, 2001.”). Funds’ use of redemption fees is not new. We noted the use of redemption fees by funds in a 1966 report to Congress. REPORT OF THE SECURITIES AND EXCHANGE COMMISSION ON THE PUBLIC POLICY IMPLICATIONS OF INVESTMENT COMPANY GROWTH, H.R. REP. NO. 89-2337, at 58, n.156 (1966) (“Redemption fees serve two purposes: (1) they tend to deter speculation in the fund’s shares; and (2) they cover the fund’s administrative costs in connection with the redemption.”).
+
+11 See, e.g., SEC v. Security Trust Company, et al., Litigation Release No. 18653 (Apr. 1, 2004).
+
+12 See Mandatory Redemption Fees for Redeemable Fund Securities, Investment Company Act Release No. 26375A (Mar. 5, 2004) [69 FR 11762 (Mar. 11, 2004)] (“Proposing Release”) (the proposed rule provided exceptions from the redemption fee for de minimis redemptions, financial emergencies, money market funds, exchange-traded funds, and funds that permit short-term trading).
+
+13 A substantial number of commenters, including about 100 investors who submitted substantially the same comment letter, objected to the imposition of redemption fees generally.
+
+14 See, e.g., Comment Letter of Charles Terrell (Mar. 20, 2004); Comment Letter of Stephanie Kelly (May 10, 2004); Comment Letter of Eugene Asken (Mar. 31, 2004).
+
+15 See Comment Letter of Fidelity Investments (June 4, 2004) (recommending that funds be
+
+16 See, e.g., Comment Letter of the Vanguard Group (May 10, 2004); Comment Letter of the Investment Company Institute (May 7, 2004).
+
+17 See, e.g., Comment Letter of the Investment Company Institute (May 7, 2004) (stating that some funds may need to impose redemption fees greater than two percent to balance the interests of redeeming shareholders and shareholders that remain in the fund); Comment Letter of Consumer Federation of America and Fund Democracy, Inc. (May 11, 2004) (recommending a two percent redemption fee for sales within 30 days of purchase and permitting redemption fees of up to five percent for sales within five days of purchase). In the Proposing Release, we also requested that commenters address fair value pricing as it relates to market timing, including areas of uncertainty that require further guidance from the Commission. See Proposing Release, supra note 12, at Section II.F. Almost all the commenters that addressed fair value pricing supported it as an effective means to combat market timing, but many stated that fair value pricing alone is not sufficient to address short-term trading because it does not address the ability of market timers to trade for free while the costs of their trading are borne by long-term shareholders.
+
+18 The Investment Company Act requires funds to calculate their net asset values using the market value of the portfolio securities when market quotations for those securities are readily available, and, when a market quotation for a portfolio security is not readily available, by using the fair value of that security, as determined in good faith by the fund’s board. 15 U.S.C. 80a-2(a)(41); 17 CFR 270.2a41-1. These valuation requirements are critical to ensuring that fund shares are purchased and redeemed at fair prices, shareholder interests are not diluted, and opportunities for arbitrage through short-term trading are diminished. We are working to address issues that arise under the valuation requirements and anticipate issuing a release in the near future.
+
+19 See Comment Letter of the Vanguard Group (May 10, 2004) (“In our experience, redemption fees, together with fair value pricing and active transaction monitoring, are very effective in curtailing short-term trading that may harm funds and their shareholders.”); Comment Letter of Consumer Federation of America and Fund Democracy, Inc. (May 11, 2004) (recommending that mandatory redemption fees supplement fair value pricing); Comment Letter of Fidelity Investments (June 4, 2004) (“Even for international funds it should be recognized that fair-value pricing cannot eliminate potential short-term trading. In our experience fair-value pricing of foreign markets can curtail potential arbitrage profits on days when markets move significantly,
+
+20 See Comment Letter of Fidelity Investments (June 4, 2004) (“We do not believe that lower- volatility funds that invest in more liquid markets – government bond funds, for example or balanced funds – should be required to adopt redemption fees in order to protect shareholders in international funds and a few other fund types from short-term trading.”); Comment Letter of Merrill Lynch, Pierce, Fenner & Smith Inc. (May 10, 2004) (“The short-term trading issue is actually a number of different, although related, issues, which affect different types of investment companies and products in different ways.”); Comment Letter of the Vanguard Group (May 10, 2004) (recommending that short-term bond funds be excepted from mandatory redemption fee rule).
+
+21 See Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004) (arguing that fund boards should decide whether redemption fees are appropriate in order to avoid a “one-size fits all” approach); Comment Letter of Fidelity Investments (June 4, 2004) (recommending that the rule require a fund board to consider whether redemption fees are appropriate, because a mandatory fee would, in many cases, penalize shareholders who are not engaging in excessive trading); Comment Letter of Merrill Lynch, Pierce, Fenner & Smith Inc. (May 10, 2004) (recommending that fund boards address the different issues resulting from short-term or frequent trading, as applicable, to different types of funds because a mandatory redemption fee would be unfair to many shareholders who are not frequent traders); Comment Letter of Rydex Investments (Apr. 20, 2004) (opposing “one-size fits all” mandatory redemption fee because fund boards should decide whether redemption fees are appropriate).
+
+22 Rule 22c-2 prohibits a fund from redeeming shares within seven days after the share purchase unless the fund meets three conditions. See rule 22c-2(a). First, the board of directors must either
+
+23 See, e.g., John P. Reilly & Associates, SEC Staff No-Action Letter (July 12, 1979) (“Reilly
+
+24 See Comment Letter of the American Council of Life Insurers (May 10, 2004) (suggesting as an alternative to imposing a mandatory redemption fee in the retirement plan context, that the Commission together with the Departments of Labor and Treasury authorize pension record keepers to take individual action against participants engaging in market timing or other abusive transactions in reliance on instructions from a plan’s underlying funds.).
+
+25 See infra Section II.B.
+
+26 Rule 22c-2(a)(1). The requirement does not apply to money market funds, exchange-traded funds, and funds that affirmatively permit market timing of fund shares. See rule 22c-2(b). Any such fund that elects to impose a redemption fee, however, would need to comply with the other requirements of the rule. See id. Unlike the proposal, the exception in the final rule for funds that actively permit market timing does not require that the fund’s treatment of short-term trading be a fundamental policy (i.e., one that may be changed only with shareholder approval). See rule
+
+27 For a discussion of the effective and compliance dates, see infra Section III. A fund that currently has a redemption fee would meet the rule’s requirement, although the fund’s directors may choose to review the redemption fee to determine whether the amount of the fee and the holding period continue to meet the fund’s needs. Because the rule defines the term “fund” to include a separate series of any open-end investment company, the board of directors of any newly established separate series would have to make the determination required under rule 22c-2(a)(1) with respect to that series.
+
+28 Under rule 38a-1, a fund must have policies and procedures reasonably designed to ensure compliance with the fund’s disclosed policies regarding market timing. We noted when we adopted rule 38a-1 that these procedures should provide for monitoring of shareholder trades or flows of money in and out of the fund in order to detect market timing activity, and for consistent enforcement of the fund’s policies regarding market timing. See Compliance Programs of Investment Companies and Investment Advisers, Investment Company Act Release No. 26299 (Dec. 17, 2003) [68 FR 74714 (Dec. 24, 2003)] (“Compliance Programs”).
+
+29 See, e.g., Comment Letter of the Investment Company Institute (May 7, 2004); Comment Letter of Morningstar, Inc. (May 10, 2004).
+
+30 We also are using our exemptive authority under section 6(c) of the Act in adopting rule 22c-2. By adopting the rule, we are providing an exemption from the Act’s requirement that investors redeeming shares of a mutual fund must receive their pro rata net asset value of their shares (section 2(a)(32) of the Act [15 USC 80a-2(a)(32)) and from the Act’s prohibition against the issuance of a senior security. Shares not subject to the redemption fee could be considered to be a senior security, in violation of section 18(f)(1) of the Act [15 USC 80a-18(f)(1)] (prohibiting a fund from issuing a security that has priority over other securities with regard to distribution of
+
+31 See supra note 9. Our decision today to provide fund managers with access to omnibus account transaction information should substantially enhance these tools by permitting funds to better identify frequent traders and detect violations of their market timing policies. We discuss this provision below. See infra Section II.C.
+
+32 The details of the redemption fee, the circumstances under which it would (and would not) be imposed, and the specific exceptions to imposition of the fee are currently disclosed to fund investors when they decide to invest in a fund and may include exceptions for particular transactions. See Forms N-1A, N-3, N-4, and N-6.
+
+33 See Reilly No-Action Letter, supra note 23. (“a mutual fund may make a charge to cover administrative expenses associated with redemption, but if that charge should exceed 2 percent, its shares may not be considered redeemable [as defined in section 2(a)(32) of the Act] … .”); Genesis Fund No-Action Letter, supra note 23 (stating that staff would not recommend enforcement action under section 18(f)(1) of the Act regarding the issuance of a senior security as a result of a fund’s redemption fee policy).
+
+34 See Reilly No-Action Letter, supra note 23.
+
+35 We also are adopting conforming amendments to rule 11a-3 that reflect the approach taken in the rule. See rule 11a-3(a)(7) (revising the definition of “redemption fee” to mean a fee imposed pursuant to rule 22c-2); rule 11a-3(b)(2)(ii) (deleting the paragraph providing that any scheduled variation of a redemption fee must be reasonably related to the costs to the fund of processing the type of redemptions for which the fee is charged).
+
+36 We note that funds relying on staff no-action letters have not used redemption fees to recoup or offset those types of costs. The Commission took the approach embodied in the rule in the context of redemption fees imposed on exchanges. The Commission stated that the “inclusion [in a redemption fee] of costs, other than those directly related to processing exchanges,” would be considered by the Commission or staff on a case-by-case basis. See Offers of Exchange Involving Registered Investment Companies, Investment Company Act Release No. 17097 (Aug. 3, 1989) at n.37 (adopting rule 11a-3). The amendments to rule 11a-3 conform the redemption fee provisions in rules 11a-3 and 22c-2. See supra note 35.
+
+37 The proposed rule provided for imposition of the fee for redemptions within five business days. We have revised the holding period slightly in response to commenters who noted that fund complexes, broker-dealers, and other businesses observe different business holidays, and who supported a simpler approach of using seven calendar days. See, e.g., Comment Letter of Fidelity Investments (June 4, 2004).
+
+38 See id.
+
+39 Rule 22c-2(a)(2)(i).
+
+40 The rule requires that the fund’s agreement with the intermediary be in writing so that the fund can maintain a record of the agreement that Commission examination staff can review. See infra section II.C.3.
+
+41 See, e.g., Comment Letter of Integrated Fund Services, Inc. (May 7, 2004) (the exchange of investor data would be costly and difficult to manage).
+
+42 See, e.g., Comment Letter of American Century Investments (May 10, 2004); Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004); Comment Letter of the SPARK Institute, Inc. (May 10, 2004).
+
+43 See, e.g., Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004) (arguing that “[i]ntermediaries may not be able to enforce market-timing policies on behalf of hundreds of different fund families and thousands of different funds because the complexity of doing so would make the task prohibitively expensive.”).
+
+44 See, e.g., Comment Letter of the Investment Company Institute (May 7, 2004) (recommending that the rule require an intermediary to take reasonable steps to implement restrictions imposed by a fund on short-term trading, in addition to facilitating the proper assessment of redemption fees). See also SEC v. Scott B. Gann et al., Litigation Release No 19027 (Jan. 10, 2005) (available at: (managers at a broker-dealer used multiple
+
+45 We discuss the costs in greater detail in sections IV and VI below. Although financial intermediaries may have to create systems to assemble this information in a particular format, certain intermediaries currently are required to make and maintain records of the identity and transaction information required under the rule. See, e.g., 17 CFR 240.17a-3(a)(1), 17 CFR 240.17a-3(a)(6), 17 CFR 240.17a-3(a)(17)(A)(i), 17 CFR 240.17a-4(b)(1) (requiring broker- dealers to make records of customer accounts and purchases and sales of securities and to preserve those records); 31 CFR 103.122(b)(2)(i)(A) and 31 CFR 103.122(b)(3) (requiring broker-dealers to adopt as part of their anti-money laundering program policies to obtain and maintain records of certain customer identification information and to retain customer identification records for five years).
+
+46 Rule 22c-2(a)(2)(i). Under the rule, financial intermediaries include broker-dealers, banks, or other entities that hold fund shares in nominee name. Rule 22c-2(c)(1)(i). Thus, the agreement would not be required with an intermediary with respect to shares that are held on a fully disclosed basis (i.e., accounts in which the shareholder’s name and other information are fully disclosed to the fund, which maintains account records on behalf of the shareholder). One commenter pointed out that in some cases, the fund may not know that a particular recordholder is, in fact, an intermediary. The Commission expects that funds and their transfer agents will use their best efforts to ascertain which recordholders are holding shares as intermediaries.
+
+47 Our privacy rule prevents a fund that receives this information from using the information for its own marketing purposes, unless permitted under the intermediary’s privacy policies. See 17 CFR 248.11(a) and 248.15(a)(7)(i).
+
+48 Under the rule, a fund that does not impose a redemption fee may nonetheless request the transactional information from its intermediaries. In some cases, such funds may wish to access this information to determine whether a redemption fee is necessary. In addition, intermediaries may have agreed to enforce a fund’s market timing policies, or have established procedures designed to preclude violations of the fund’s trading policies. In these circumstances, a fund may not need to exercise its rights under the contract. Funds could contract with financial intermediaries for the period of time that intermediaries would have to retain the shareholder information for transmission to the fund.
+
+49 See Compliance Programs, supra note 28 (stating that fund compliance procedures “should provide for monitoring of shareholder trades or flows of money in and out of the funds in order to detect market timing activity, and for consistent enforcement of the fund’s policies regarding market timing.”).
+
+50 See, e.g., Comment Letter of the Coalition of Mutual Fund Investors (May 10, 2004) (urging
+
+51 Rule 22c-2(a)(2)(ii).
+
+52 See Comment Letter of the Coalition of Mutual Fund Investors (May 10, 2004).
+
+53 See Comment Letter of the Investment Company Institute (May 7, 2004). See also supra note 24.
+
+54 See rule 22c-2(c)(1).
+
+55 We have also included a definition of “shareholder” in the final rule. The term includes a beneficial owner of securities held in nominee name, a participant in a participant directed employee benefit plan, and a holder of interests in a master-feeder fund or an insurance company separate account organized as a unit investment trust. The term does not include a fund that relies on section 12(d)(1)(G) of the Act to invest in other funds in the same fund group. These funds often are used as conduits, allowing a shareholder to invest in multiple funds in the complex through a single fund. Although shareholders in the conduit fund may engage in abusive trading strategies, a conduit fund itself would appear to have little incentive to engage in such strategies because they may adversely affect another fund in the same complex. The definition of “shareholder” also excludes a section 529 account or the holder of an interest in such an account. The loss of tax benefits that a holder would incur as a result of changing investments more than once a year makes it unlikely that the holder would use a section 529 account for short-term trading.
+
+56 See Proposing Release, supra note 12.
+
+57 See Comment Letter of the Vanguard Group (May 10, 2004) (“The Commission has recognized that many intermediaries are currently unable to deduct redemption fees or have found it impractical to develop the systems and procedures necessary to monitor and enforce multiple trading restrictions .… While [Vanguard’s] efforts to implement effective controls over frequent trading have been somewhat successful on an ad hoc basis, we believe that the industry will never achieve complete success without the SEC’s regulatory support .… If the Commission mandates a consistent approach [to redemption fee policies], intermediaries will be encouraged to develop the systems and procedures required to apply redemption fees to remain competitive.”); Comment Letter of the American Society of Pension Actuaries (Apr. 21, 2004) (“[T]he existence of
+
+58 See, e.g., Comment Letter of the American Society of Pension Actuaries (Oct. 8, 2004); Comment Letter of Hewitt Associates LLC (May 10, 2004); Comment Letter of the SPARK Institute, Inc. (May 10, 2004).
+
+59 Comment Letter of the American Society of Pension Actuaries (Oct. 8, 2004). For example, it might be much easier for an investor to compare a fund with a one percent redemption fee to one that had a two percent redemption fee, if the prospective investor did not have to take into account the method of measuring holding periods, e.g., between LIFO and FIFO. See infra notes 64-66 and accompanying text.
+
+60 See, e.g., Comment Letter of Fidelity Investments (June 4, 2004) (“When funds have redemption fees, they should be required to be applied consistently, since the purpose of redemption fees is to recover for a fund the costs imposed upon it through short-term trading, regardless of who is engaged in such trading.”).
+
+61 See, e.g., Comment Letter of the Vanguard Group (May 10, 2004) (“In our experience, redemption fees, together with fair value pricing and active transaction monitoring, are very effective in curtailing short-term trading that may harm funds and their shareholders.”).
+
+62 Some commenters raised concerns about redemption fees charged to investors who invest in funds through insurance company separate accounts. See, e.g., Comment Letter of Pacific Life Insurance Company (May 10, 2004); Comment Letter of Transamerica Occidental Life Insurance Company (May 10, 2004); Comment Letter of NAVA (May 7, 2004). Although variable insurance contracts are designed to provide individuals with retirement or death benefits, they have been purchased as investment vehicles by hedge funds and other aggressive traders in order to engage in market timing. Indeed, because there are no immediate tax consequences, we understand that market timing may be a greater problem for separate accounts and the mutual funds in which they invest. Although we appreciate the administrative burdens insurance companies will bear in order to initially implement redemption fees, we do not believe such one- time burdens are a basis for excluding funds underlying separate accounts, as some commenters suggested. Nor do we believe, as several commenters suggested, that the application of rule
+
+63 These elements were addressed in our Proposing Release, supra note 12.
+
+64 See proposed rule 22c-2(d). See also Proposing Release, supra note 12, at nn.30-33 and accompanying text (requesting comment on whether and how rule 22c-2 should specify the method of calculating how long fund shares are held).
+
+65 Many commenters acknowledged that a “last in, first out” (“LIFO”) method might capture more abusive short-term trading, but nonetheless supported FIFO because it would minimize the negative, unintended consequences when small, long-term investors are charged redemption fees on transactions unrelated to market-timing, and because redemption fee systems that are currently in place at many funds, broker-dealers and transfer agents assess fees on a FIFO basis. See, e.g., Comment Letter of the Securities Industry Association (May 10, 2004). Commenters also pointed out other advantages to the use of FIFO. See, e.g., Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004) (arguing that FIFO is already used by broker-dealers and transfer agents
+
+66 See Proposing Release, supra note 12, at n.32.
+
+67 See, e.g., Comment Letter of Morningstar, Inc. (May 10, 2004).
+
+68 The proposed rule would have permitted, but not required, funds to forego assessment of a
+
+69 See, e.g., Comment Letter of the Investment Company Institute (May 7, 2004).
+
+70 See Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004) (“From a systems and implementation standpoint, it is absolutely essential that the Proposed Rule not inadvertently create multiple tiered redemption fees on a single fund…. Imposing on a single fund different levels of redemption fees that vary based on the holding period would create significant confusion on the part of investors. The costs and complexity of implementing such a system would be substantial.”).
+
+71 See Comment Letter of the American Benefits Council (Oct. 15, 2004) (“However, our most significant point regarding uniformity concerns differences in the types of transactions to which fees will be applied by the various funds.”).
+
+72 In the Proposing Release, we suggested that funds might charge a fee on redemptions that occur during the first five days, which would be different from the fee that would be charged afterwards. Proposing Release, supra note 12 at n.26. Commenters objected to a provision that would require or permit different levels of fees based on the time that shares are held. See, e.g., Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004).
+
+73 An investor who chooses to reinvest the dividends and distributions on his shares typically makes the election in advance, and cannot vary the timing or amount of the purchases. Commenters emphasized that these systematic transactions generally are not susceptible to short-term trading abuses. See, e.g., Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004); Comment Letter of the American Society of Pension Actuaries (Apr. 21, 2004) (“[Pension plan] participants do not have the capability to ‘time’ mutual fund share purchases in connection with payroll contributions or periodic loan repayments because the timing of these purchases depends upon when the employer deposits the funds into the plan, and the contributions are invested according to standing participant instructions.”).
+
+74 Intermediaries, as well as many individual investors, supported an exemption for redemption transactions executed pursuant to prearranged instructions, such as periodic contributions, periodic rebalancings, or other “involuntary” transactions. These types of transactions appear to pose little or no short-term trading risk.
+
+75 See rule 16b-3(b)(1)(i), (ii), and (iii) under the Securities Exchange Act of 1934 [17 CFR 240.16b-3(b)(1)(i), (ii), and (iii)] (definition for purposes of the beneficial ownership reporting requirements of “discretionary transaction” under an employee benefit plan).
+
+76 See supra note 14 and accompanying text.
+
+77 The mandatory redemption fee rule that we proposed last year provided, in the case of an unanticipated financial emergency, that a fund must waive the redemption fee upon written request if the amount of shares redeemed is $10,000 or less, and that a fund could waive the redemption fee if the amount were greater. See proposed rule 22c-2(e)(1)(ii).
+
+78 See, e.g., Comment Letter of the Investment Company Institute (May 7, 2004); Comment Letter of the Vanguard Group (May 10, 2004).
+
+79 See, e.g., Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004); Comment Letter of the American Bankers Association (May 20, 2004) (recommending that the definition of unforeseeable emergency should conform to the standards for a hardship withdrawal under section 401(k) of the Internal Revenue Code).
+
+80 One commenter pointed out that the redemption fee rule or the release should clarify that intermediaries who hold fund shares through omnibus accounts should not themselves be subject to redemption fees. Comment Letter of the Investment Company Institute (May 7, 2004).
+
+81 See Comment Letter of the Investment Company Institute (May 7, 2004).
+
+82 A “free look” provision permits a contract owner, within a short period of time after purchasing
+
+83 See Proposing Release, supra note 12, at section II.D (discussing proposed rule 22c-2(b)).
+
+84 This information would permit the fund to match the current transaction with previous transactions by the same account and assess the redemption fee when it is applicable. This approach is designed to accommodate broker-dealers that both hold fund shares in omnibus account form as well as maintain accounts that are fully disclosed to the funds directly. Some broker-dealers using the National Securities Clearing Corporation already transmit taxpayer identification numbers to fund transfer agents for certain types of “networking” arrangements. See NASD, Report of the Omnibus Account Task Force Members, Jan. 30, 2004, at n.6 (“Omnibus Report”) (available in File No. S7-11-04).
+
+85 Under this approach, the intermediary would be required to submit substantially less data along with each transaction than under the first method.
+
+86 The NASD Omnibus Account Task Force found this method to be the most viable approach. See
+
+87 See, e.g., Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004); Comment Letter of the Investment Company Institute (May 7, 2004); Comment Letter of the Vanguard Group (May 10, 2004); Comment Letter of Merrill Lynch, Pierce, Fenner & Smith Inc. (May 10, 2004).
+
+88 See, e.g., Comment Letter of Fidelity Investments (June 4, 2004); Comment Letter of Transamerica Occidental Life Insurance (May 10, 2004); Comment Letter of Nationwide Financial Services, Inc. (May 10, 2004).
+
+89 See, e.g., Comment Letter of American Century Investments (May 10, 2004).
+
+90 Rule 22c-2(a)(3).
+
+91 If the Commission changes the rule in response to its request for comment, the compliance period may be extended.
+
+92 Dilution could occur if fund shares are overpriced and short-term traders receive proceeds based on the overvalued shares.
+
+93 See supra Section IV.A.
+
+94 See, e.g., Comment Letter of American Century Investments (May 10, 2004); Comment Letter of Charles Schwab & Co., Inc. (May 10, 2004); Comment Letter of the SPARK Institute (May 10, 2004).
+
+95 See discussion in Section VI below. Commenters that expressed concerns with costs did not provide detailed data or supporting information regarding estimated one-time costs for intermediaries to develop systems to collect the information, ongoing costs of maintaining those systems, or the cost to funds of collecting and receiving that information.
+
+96 See discussion infra Section VI.
+
+97 We further estimate that intermediaries will face ongoing annual costs of $60,000 per intermediary for an aggregate yearly cost of $379,800,000 for all intermediaries. See infra
+
+98 44 U.S.C. 3501-3520.
+
+99 In the proposal, we estimated this contract modification would create a one-time burden of 4.5 hours per fund (4 hours by in-house counsel, .5 hours by support staff) for a total burden of 12,150 hours (2,700 funds x 4.5 hours = 12,150 hours).
+
+100 Rule 22c-2(a)(3). In the Proposing Release, we requested comment on whether funds should retain their agreements with intermediaries as part of their recordkeeping obligations. We did not receive any comments.
+
+101 In the Proposing Release we estimated that, over a three year period, the weighted average annual
+
+102 Some small intermediaries recommended that the shareholder identity and transaction data be transmitted on a monthly or quarterly basis. See e.g., Comment Letter of James Desmond (Apr. 13, 2004); Comment Letter of Lloyd Drucker (Mar. 22, 2004).
+
+103 In the Proposing Release, in order for intermediaries to comply with the weekly reporting requirement, we estimated the aggregate start-up costs for all intermediaries to be
+
+104 For instance, funds may decline to impose redemption fees on shares purchased as a result of transactions that pose little risk of short-term trading, such as payroll contributions and periodic
+
+105 In the Proposing Release we estimated that 6,800 intermediaries would be subject to the information collection requirements of rule 22c-2. Since we proposed the rule, we have learned that approximately 470 of the 6,800 intermediaries are broker-dealers that transmit the shareholder data to funds on a fully-disclosed basis. Funds would not need to request the shareholder data from these broker-dealers, and therefore would not need to establish the systems to comply with this portion of the rule.
+
+106 These estimates are based on discussions with fund representatives.
+
+107 This estimate is based on the following calculation: 2,700 funds x 4.5 hours = 12,150 hours.
+
+108 This estimate is based on the following calculations: (4 attorney hours x $66.31 = $265.24) + (.5 support staff hour x $21.50 = $10.75) = $275.99; (12,150 hours x $275.99 = $3,353,278.50). The hourly rates in this release are derived from the average annual salaries reported for employees outside of New York City in SECURITIES INDUSTRY ASSOCIATION, MANAGEMENT AND PROFESSIONAL EARNINGS IN THE SECURITIES INDUSTRY (2003) and SECURITIES INDUSTRY ASSOCIATION, OFFICE SALARIES IN THE SECURITIES INDUSTRY (2003).
+
+109 This estimate is based on the following calculation: 40 hours per quarter x 4 quarters = 160 hours per year.
+
+110 This estimate is based on the following calculation: 160 hours per fund x 1,620 funds = 259,200 hours per year.
+
+111 This estimate is based on the following calculation: $100,000 per fund x 1,620 funds =
+
+112 This estimate is based on the following calculation: $6,640 per fund x 1,620 funds =
+
+113 This estimate is based on the following calculation: 240 hours per intermediary x 6,330 intermediaries = 1,519,200 hours.
+
+114 This estimate is based on the following calculation: $150,000 per intermediary x 6,330 intermediaries = $949,500,000.
+
+115 This estimate is based on the following calculation: ($60,000 per intermediary x 6,330 intermediaries = $379,800,000). We have reduced the ongoing costs incurred by each intermediary to $60,000 (we estimated that the ongoing costs would be $100,000 in the Proposing Release) to reflect the elimination of the weekly reporting requirement.
+
+116 In the first year after adoption we estimate the aggregate collection of information burdens resulting from the written agreement requirement will be: (i) 271,350 hours (12,150 hours for contract modifications + 259,200 hours for the information collection requirements) for funds; and (ii) 1,519,200 hours for intermediaries. Thus, in the first year after adoption, we estimate the aggregate burden for all respondents will be 1,790,550 hours (271,350 hours for funds + 1,519,200 hours for intermediaries). In the second and third years after adoption, we estimate the annual burden for respondents will fall by 12,150 hours, because the burden attributable to one- time contract modifications will no longer be incurred by funds. Thus, we estimate the average annual burden over the three-year period for which we are seeking approval will be 1,782,450 hours (1,790,550 first year’s burden + 1,778,400 second year’s burden + 1,778,400 third year’s burden / 3).
+
+117 Specifically, the staff estimates that annually there will be 25,320 responses under rule 22c-2 (6,330 intermediaries x 4 responses per year).
+
+118 In the first year after adoption of rule 22c-2 we estimate the aggregate cost burden of the information collection requirement for funds will be $162,000,000; and for intermediaries will be
+
+119 See Proposing Release, supra note 12, at Section VI.
+
+120 Although the estimates varied, most intermediaries estimated that their first year start-up costs to comply with the proposed rule would be between $200,000 and $300,000. In the Proposing Release, we estimated the first year start-up costs for intermediaries that used the option set forth in proposed rule 22c-2(b)(1), in conjunction with the weekly reporting requirement, would be
+
+121 Intermediaries generally recommended that redemption fees should apply only to transfers and exchanges in participant-directed employee benefit plans, and stated that excluding “involuntary” transactions from redemption fee requirements would significantly reduce the costs associated with the rule.
+
+122 17 CFR 270.0-10.
+
+123 Some or all of these entities may contain multiple series or portfolios. If a registered investment company is a small entity, the portfolios or series it contains are also small entities.
+
+124 17 CFR 240.0-10.
+
+125 In some cases, the fund (or its transfer agent) will have to upgrade its recordkeeping systems; however, some may already have software that can be used, or modestly modified, to accommodate the matching of purchases and redemptions. In addition, the costs may be substantially less for broker-dealers and other financial intermediaries that already have transfer agent systems in place that can be modified to identify short-term trading.
+
+126 Rule 22c-2(a)(3).

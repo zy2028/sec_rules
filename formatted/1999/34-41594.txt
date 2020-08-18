@@ -1,0 +1,347 @@
+https://www.sec.gov/rules/final/34-41594.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Amendments to Form BD
+
+	III.0.0.0: III. Amendments to Related Rules
+
+		III.A.0.0: A. Electronic Filing and Re-Filing Requirements
+
+			III.A.1.0: 1. Key Dates
+
+			III.A.2.0: 2.Filings on or After August 16, 1999
+
+		III.B.0.0: B. Effective Date
+
+	IV.0.0.0: IV. Cost Benefit Analysis
+
+	V.0.0.0: V. Consideration of Competition, Efficiency, and Capital Formation/Impact on Competition
+
+	VI.0.0.0: VI. Regulatory Flexibility Analysis
+
+	VII.0.0.0: VII. Paperwork Reduction Act Analysis
+
+	VIII.0.0.0: VIII. Statutory Basis
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Broker-Dealer Registration and Reporting 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ 17 CFR Part 240 and 249
+
+Release No. 34-41594; File No. S7-16-99
+
+RIN 3235-AH73
+
+Broker-Dealer Registration and Reporting 
+
+ 
+
+ AGENCY: Securities and Exchange Commission
+
+ ACTION: Final rule
+
+ SUMMARY: The Securities and Exchange Commission is amending Form BD, the uniform broker-dealer registration form, and related rules under the Securities Exchange Act of 1934. The amendments modify the version of Form BD that was adopted in 1996 but never implemented. The primary purpose of the amendments is to support electronic filing in the new, Internet-based Central Registration Depository system. This computer system, which is operated by the National Association of Securities Dealers, Inc., maintains registration information regarding broker-dealers and their registered personnel. The changes adopted today direct how broker-dealers will make the transition to the new system, as well as how they will comply with their filing obligations on an ongoing basis.
+
+ EFFECTIVE DATE: July 30, 1999.
+
+ FOR FURTHER INFORMATION CONTACT: Catherine McGuire, Chief Counsel or Barbara A. Stettner, Special Counsel, (202) 942-0073, Office of Chief Counsel, Division of Market Regulation, Securities and Exange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001.
+
+ Supplementary Information:
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+The Securities and Exchange Commission ("Commission") is adopting amendments to Form BD, the uniform application for broker-dealer registration, and related rules under the Securities Exchange Act of 1934 ("Exchange Act"). <sup> 1 </sup>The amendments modify the version of Form BD that was adopted in 1996 but never implemented ("1996 Form BD"). <SUP> 2 </SUP>
+
+ As we described more fully in our release proposing amendments to Form BD and related rules ("Proposing Release"), <SUP> 3 </SUP> these amendments are mainly technical and formatting changes needed to accommodate "Web CRD," the new, Internet-based Central Registration Depository ("CRD") system. <SUP> 4 
+
+</SUP> Web CRD will replace the current CRD system ("Legacy CRD"), which was created in 1981 as a cooperative effort with the North American Securities Administrators Association ("NASAA"), in order to facilitate the "one-stop" filing process for broker-dealers and their associated persons. <SUP> 5 </SUP> Web CRD should help regulators to more efficiently gather the information needed to make informed registration and licensing decisions. It should also help regulators to process registration-related filings more efficiently and effectively and significantly enhance their ability to use the system for regulatory purposes. In addition, Web CRD should make it easier for registrants to comply with their filing obligations. Moreover, by utilizing the Internet, Web CRD is expected to streamline the procedures to process and respond to requests from the public for information about particular broker-dealers and their associated persons.
+
+ The 1996 Form BD amendments were based upon expected changes to the CRD that were being developed at that time. Because Web CRD differs significantly from the approach anticipated then, 1996 Form BD cannot be implemented without the changes we adopt today. Specifically, the amendments to Form BD are intended to elicit the same level of disclosure required by 1996 Form BD, but in a different format. Other changes to the form are intended to clarify the form's requirements, to update references, or to streamline the registration process. The amendments to Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1 are necessary to implement Web CRD, both initially and on an ongoing basis. Web CRD is scheduled to be operational beginning August 16, 1999.
+
+In the Proposing Release, we requested comment on the specific changes proposed for Form BD and whether those changes would provide more meaningful information to regulators without increasing the regulatory burden on broker-dealers. The Commission also requested comment on the rule changes needed to implement the new form. The Commission received three comment letters. <SUP> 6 </SUP> The commenters essentially supported the proposed amendments, as well as the shift to electronic filing that will be possible with Web CRD. However, the commenters also all raised issues concerning Web CRD's phase-in period, and particularly the Form BD re-filing requirement. <SUP> 7 </SUP> In response to these concerns, the staff of the Division of Market Regulation is expanding its no-action position discussed in the Proposing Release. <SUP> 8 </SUP> In addition, we are modifying the Temporary Filing Instructions proposed under Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1. <SUP> 9 </SUP> With the exception of a few additional formatting changes and corrections, the amendments to the form itself are being adopted as proposed.<h>II. Amendments to Form BD </h>
+
+The amendments to 1996 Form BD adopted today will modify the form's general filing instructions and terms, its Disclosure Reporting Pages ("DRPs") and Schedule E. <SUP> 10 </SUP> The amendments correct oversights, replace outdated information, and clarify instructions. They also replace Legacy CRD references with Web CRD references, establish certain information fields as "read-only," <SUP> 11 </SUP> and make conforming changes based on the reorganization of the NASD manual in 1996 <SUP> 12 </SUP> throughout Form BD. In addition, one change is intended to help eliminate incorrect succession filings by requiring broker-dealers to discuss these filings with CRD personnel prior to submission. <SUP> 13 </SUP>
+
+While the changes we are adopting today amend 1996 Form BD, we stress that registrants have never actually used that form. Rather, during the past year, registrants have used "Interim Form BD," which the Commission adopted on March 16, 1998 <SUP> 14 </SUP> after the NASD decided to abandon its original plan to modernize CRD and proceed instead with Web CRD. <SUP> 15 </SUP> Interim Form BD requires registrants to file the same disclosure information called for by the 1996 Form BD amendments in a format that is compatible with the Legacy CRD system. <SUP> 16 </SUP> Interim Form BD incorporated all of the substantive changes of the 1996 Form BD amendments relating to disclosure of disciplinary history, but did not incorporate the formatting changes, the 1996 DRPs, or the 1996 Schedules (including Schedule E). <SUP> 17 </SUP> Interim Form BD will remain in effect until the amendments adopted today are implemented on July 30, 1999. <SUP> 18 </SUP>
+
+The amendments to the 1996 DRPs, which must be completed when an applicant answers "Yes" to one of the disclosure questions in Item 11 of Form BD, correspond to formatting changes to the DRPs that were recently approved in connection with amendments to Forms U-4 and U-5. <SUP> 19 </SUP> While more amendments are being made to the DRPs than to the main part of Form BD, the amendments primarily involve restructuring and reformatting which will permit electronic filing in Web CRD. <SUP> 20 </SUP> The only substantive change intended in the DRPs is in Question 13 of the Civil Judicial DRP. This question now requires an applicant to indicate whether any portion of a penalty assessed against it was waived. <SUP> 21 </SUP>
+
+1996 Schedule E, which must be completed by an applicant to register or report a branch office, is also being amended. The amendments reflect the current numbering scheme for NASD Rules. <SUP> 22 </SUP>
+
+A detailed textual description of the amendments to Form BD, its instructions and terms, the DRPs, and Schedule E is attached as Appendix A to this document <SUP> 23 </SUP> or may be obtained from Barbara A. Stettner, Special Counsel, Office of Chief Counsel, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001; (202) 942-0073. <SUP> 24 </SUP> Form BD as amended today is attached as Appendix B to this document.<h>III. Amendments to Related Rules </h>
+
+The Commission is also amending Rules 15b3-1, 15Ba2-2, and 15Ca2-1 under the Exchange Act. Rules 15b3-1 and 15Ca2-1 both contain "Temporary Filing Instructions" for Form BD that are now outdated. These amendments delete the outdated instructions in those rules and add new "Temporary Re-Filing Instructions" for Form BD to all three rules.<h>A. Electronic Filing and Re-Filing Requirements </h>
+
+Web CRD is intended to expedite the electronic filing of registration and licensing information for broker-dealers and their associated persons. While initial applications for broker-dealer registration on Form BD will continue to be filed on paper, the amendments require all subsequent changes and updates to the Form to be made electronically through Web CRD. <SUP> 25 </SUP> The amendments also require registered broker-dealers to electronically re-file certain information in Web CRD that is already filed in Legacy CRD. <SUP> 26 </SUP> The key dates and events associated with the transition from Legacy CRD to Web CRD, including the Web CRD filing and re-filing requirements for broker-dealer applicants and registered broker-dealers, are described below.<h>1. Key Dates </h>
+
+ July 30, 1999 through August 15, 1999 
+
+ 
+
+As the NASD moves from Legacy CRD to Web CRD, there will be a 17-day period beginning July 30, 1999 and ending August 15, 1999 ("System Transition Period"), during which neither system will process Form BD filings and amendments, or Form BDW filings. <SUP> 27 </SUP> At the time we published the Proposing Release, we expected the System Transition Period to extend from July 31, 1999 through August 15, 1999. The NASD has advised us, however, that the System Transition Period needs to be extended slightly to ensure that it has sufficient time to complete inputting data from paper forms and converting that data to the new system.
+
+Initial filings of Form BD received during the System Transition Period will be accepted by the CRD and entered into Web CRD by the NASD beginning on August 16, 1999. Amendments to Form BD received by the CRD during this period will be returned with instructions to re-submit the amendments electronically on or after August 16, 1999. Forms BDW seeking withdrawal from registration with all jurisdictions and SROs that are received during this period will be held by the CRD until August 16, 1999, then entered into Web CRD by the NASD. <SUP> 28 </SUP> Forms BDW seeking withdrawal from registration with only some jurisdictions or SROs that are received by the CRD during this period will be returned with instructions to re-submit the filing electronically on or after August 16, 1999. During the System Transition Period, the NASD will also transfer certain information from Legacy CRD to Web CRD.V <SUP> 29 </SUP>
+
+ July 30, 1999 
+
+The amendments to Form BD adopted today will become effective on July 30, 1999. Any filings submitted on Interim Form BD after July 30, 1999 will be returned by CRD. <SUP> 30 </SUP>
+
+ August 16, 1999 
+
+It is anticipated that Web CRD will be operational on August 16, 1999, at which time registered broker-dealers may begin entering information not already transferred from Legacy CRD into their respective Forms BD. <SUP> 31 </SUP> The requirements for broker-dealer applicants filing initial Forms BD, for registered broker-dealers filing amendments to Form BD, or for currently registered broker-dealers re-filing certain information in Web CRD on or after August 16, 1999, are described below. The issues raised by the comment letters are also discussed below in Part B.2.b, "Re-filing and Amendments to Form BD by Registered Broker-Dealers."<h>2.Filings on or After August 16, 1999 </h>
+
+ a. Initial Filings of Form BD by Broker-Dealer Applicants 
+
+Broker-dealer applicants must continue to obtain the paper version of Form BD from the Commission <SUP> 32 </SUP> or from the NASD. <SUP> 33 </SUP> They must also continue to mail the completed initial Form BD to the NASD, which will manually enter the information into the Web CRD system. This manual process will allow the NASD to establish a base record of information on broker-dealer applicants as well as begin the process of establishing a unique Web CRD user account for each broker-dealer. This account will allow broker-dealers to access their own records and file subsequent amendments to their Forms BD.
+
+Before a broker-dealer may access Web CRD, however, it will first need to designate an "account administrator." This person, who may be someone within the firm or a third-party, <SUP> 34 </SUP> will serve as the point-of-contact between the broker-dealer and Web CRD. The NASD will establish a user account <SUP> 35 </SUP> for the broker-dealer's account administrator and send a letter of confirmation to the broker-dealer containing the account administrator's user name and initial password. Among other things, the account administrator is responsible for identifying any additional persons who need access to Web CRD <SUP> 36 </SUP> to submit filings on the firm's behalf. Designated persons will then be given passwords and the authorization to use Web CRD as determined by the account administrator.
+
+The NASD will manually input the information from the broker-dealer's initial Form BD into Web CRD. It will then disseminate the information to the Commission, SROs, and state securities regulators with which the broker-dealer is requesting registration. Thus, except for the establishment of an account and account administrator, the processing of the initial Form BD will not significantly differ from the filing procedures currently in place under Legacy CRD.
+
+ b. Re-Filing and Amendments to Form BD by Registered Broker- Dealers 
+
+As discussed above, the amendments adopted today also require registered broker-dealers to establish Web CRD accounts to accommodate both the transfer of existing Form BD information from Legacy CRD to Web CRD and the electronic filing of Form BD amendments in Web CRD. Beginning August 16, 1999, all Form BD amendments and re-filings must be submitted electronically through the NASD's Web site at https://crd.nasdr.com/crdmain.
+
+As discussed in the Proposing Release, due to technical issues identified by the NASD, certain broker-dealer information currently contained in Legacy CRD will not be transferred by the NASD to Web CRD. <SUP> 37 </SUP> Therefore, beginning on August 16, 1999, broker-dealers will be required to re-file the following Form BD information: Item 11 Disclosure (Schedule DRP), Direct/Indirect Owners (Schedules A and B), Control/Financial Information ( i.e. , direct owners, executive officers, and indirect owners), Industry Arrangements ( e.g. , custodial arrangements, holding company status), and Affiliated Firms. The amendments require a registered broker-dealer to re-file this information when it files its first amendment in Web CRD but, in any event, no later than December 15, 1999. <SUP> 38 </SUP>
+
+In their letters commenting on the Proposing Release, ARM and CSFB both expressed concerns about this re-filing obligation. In particular, ARM and CSFB asserted that broker-dealers will require more time than was contemplated in the Proposing Release to comply with their respective re-filing obligations. <SUP> 39 </SUP> In response, the NASD provided additional perspective on the practical application of the suggestions provided by ARM and CSFB. <SUP> 40 </SUP>
+
+In the Proposing Release, we acknowledged that broker-dealers may have difficulty complying with the requirement in Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1 <SUP> 41 </SUP> to promptly file amendments because (1) they will not be able to file amendments to their Forms BD during the System Transition Period, and (2) they must re-file certain information from their Forms BD in Web CRD at the same time they are required to file their first amendment in Web CRD. Therefore, the staff of the Division of Market Regulation proposed to consider broker-dealers as having met this requirement if they filed an amendment that should have been filed during the System Transition Period no later than September 14, 1999 ( i.e. , 30 days from August 16, 1999). <SUP> 42 </SUP> In addition, the staff proposed that during the period from August 16 to December 15, 1999, it would not recommend enforcement action for filings of any amendment to Form BD that would also trigger the re-filing obligation, if the amendment was filed within 30 days from when the disclosable event occurred. ARM and CSFB both stated that the 30-day no action position would not be sufficient for firms to meet their Form BD re-filing obligations.
+
+These commenters contended that several factors may contribute to a broker-dealer requiring more time to complete its re-filing. For example, ARM maintained that the revised DRPs and Schedule E elicit a higher degree of specificity than the current versions used with Interim Form BD. <SUP> 43 </SUP> In ARM's view, this will create additional burdens on firms to research, collect, and report information not currently required by Interim Form BD. <SUP> 44 </SUP>
+
+ARM also noted that the shutdown of the CRD system during the System Transition Period may cause some firms to experience a significant backlog of Form U-4, U-5, and BD filings. This backlog, coupled with the likely occurrence of a disclosable event ( i.e. , an event that would require an amendment to Form BD, thus triggering the re-filing obligation) within the first week of Web CRD's implementation, may inhibit a firm's ability to amend and complete its re-filing of Form BD within the proposed 30-day time period. Both commenters indicated that this situation was most likely to arise in connection with a Schedule E event ( i.e. , the obligation of the firm to disclose the opening or closing of a branch office), within the initial weeks of Web CRD's implementation. ARM also added that many larger firms' Forms BD may be affected when one or more of their respective broker-dealer control affiliates' Forms BD are amended. In addition, ARM commented that the training of selected staff on Web CRD Internet navigation and usage will be another time constraint for broker-dealers.
+
+In light of their concerns, ARM suggested that all firms should be allowed to wait until December 15, 1999 before completing the re-filing of their respective Forms BD. ARM also suggested, however, that firms should be permitted to input Form BD amendments into Web CRD prior to this time. As ARM noted, this would require disengaging the "completeness checks" <SUP> 45 </SUP> that are built into the Web CRD system to prohibit the submission of an incomplete re-filing of Form BD. For similar reasons, CSFB requested a safe harbor for the good-faith failure of firms to file amendments to Form BD on a timely basis.
+
+We have considered the issues raised by each of the commenters. While we are sympathetic to the concerns expressed by ARM and CSFB, we are also mindful of the need to ensure that Web CRD is fully implemented no later than mid-December 1999. <SUP> 46 </SUP> We have determined to adopt the amendments to Rules 15b3-1, 15Ba2-2, and 15Ca2-1 as proposed, with the following modifications:
+
+(i) The Staff's No-Action Position Under Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1
+
+The staff is extending its proposed 30-day no-action position to 60 days for disclosable events that occur during the System Transition Period as well as during the period August 16, 1999 through August 31, 1999. This position takes into account the commenters' concerns over the possibility of a backlog of filings during the System Transition Period. It also takes into account their concerns that a disclosable event may occur shortly after Web CRD becomes operational, thus prompting the re-filing requirement at a time when firms may have a backlog of filings. This no-action position should provide firms with greater flexibility to meet their re-filing obligations without unnecessarily delaying the time when the information in Web CRD is complete and up-to-date.
+
+In reaching this position, the staff considered CSFB's suggestion for a subjective safe harbor for a firm that shows a good-faith delay in re-filing its Form BD information. The staff does not, however, believe that such a subjective standard would provide adequate guidance for registrants. Instead, the objective standards adopted today provide definitive dates by which registrants must complete their filings.
+
+The staff also considered ARM's request to allow all firms to have until December 15, 1999 to complete their re-filing requirement, regardless of disclosable events. This suggestion, however, does not appear to be practical. As the NASD noted in its comment letter, if a large percentage of the broker-dealer community delayed re-filing until December, it could pose significant operational challenges to the NASD's CRD/Public Disclosure Department (which is responsible for reviewing and processing all form filings). That department is also responsible for comparing the information from the Form BD re-filing to the information currently in Legacy CRD. This comparison can only occur after a broker-dealer re-files its Form BD. The NASD also noted that a large percentage of firms submitting their Form BD re-filing in mid-December could impair the flexibility of both the firms and the NASD to complete final Y2K preparations. In addition, the NASD pointed out that firms that delay re-filing until mid-December also will have to be prepared to complete the annual renewal process for broker-dealers and registered representatives at the same time. <SUP> 47 </SUP> Finally, the NASD commented that ARM's suggestion of disengaging the completeness checks (and thereby avoiding the re-filing requirement upon the occurrence of a disclosable event) is not a viable option. <SUP> 48 </SUP> The staff has, therefore, modified the re-filing requirements to address the difficulties to be faced by both the firms and the NASD.
+
+ July 30, 1999 - August 15, 1999 
+
+As adopted, under Rules 15b3-1, 15Ba2-2, and 15Ca2-1, <SUP> 49 </SUP> the staff of the Division of Market Regulation will not recommend enforcement action if a firm files an amendment to Form BD that should have been filed during the System Transition Period no later than October 15, 1999 ( i.e. , 60 days from August 16, 1999). Therefore, a firm will have a minimum of over 90 days in which to gather its re-filing data, type it into a word processing program, and "cut and paste" the data into Web CRD ( i.e. , approximately 20 days before Form BD is effective on July 30, 1999, plus 17 days during the System Transition Period, plus the 60-day no-action position, assuming a disclosable event occurs as early as July 26, 1999).
+
+ August 16, 1999 - August 30, 1999 
+
+The staff of the Division of Market Regulation will not recommend enforcement action for filings of any amendment to Form BD that would also trigger the re-filing obligation, if the amendment is filed within 60 days of a disclosable event that occurs during the period from August 16, 1999 through August 30, 1999.
+
+ August 31, 1999 - December 15, 1999 
+
+With respect to disclosable events that on or after August 31, 1999, the staff of the Division of Market Regulation will not recommend enforcement action for filings of any amendment to Form BD that would also trigger the re-filing obligation, if the amendment is filed within 30 days from when the disclosable event occurred. In any event, however, all re-filings must be completed on or before December 15, 1999.
+
+(ii) Schedule E Disclosable Events
+
+We are also modifying the proposed Temporary Filing Instructions under Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1 by allowing firms to submit all Schedule E amendments to the CRD on paper during the period from August 16, 1999 through December 15, 1999. <SUP> 50 </SUP> The NASD has agreed to accept paper filings of Schedule E disclosable events and manually enter them into Web CRD, thereby overriding the completeness checks for this category of filings. Once a firm completes its re-filing, however, all subsequent Schedule E amendments must be submitted electronically in Web CRD. <SUP> 51 </SUP> This will allow firms to continue filing Schedule E amendments to Form BD on a timely basis without triggering the re-filing requirement. This position takes into account the commenters' concerns that the re-filing obligation may be triggered soon after Web CRD's implementation when the firms may be busy dealing with the backlog of filings generated during the System Transition Period.
+
+While the Commission understands the concerns expressed by the commenters, we believe that the accommodations outlined above will allow firms to comply with their re-filing obligations without incurring an undue burden. <SUP> 52 </SUP><h>B. Effective Date </h>
+
+Form BD, as amended today, as well as the amendments to Rules 15b3-1, 15Ba2-2, and 15Ca2-1 under the Exchange Act, will become effective on July 30, 1999. Section 553(d) of the Administrative Procedure Act generally provides that, unless an exception applies, a substantive rule may not be made effective less than 30 days after notice of the rule has been published in the Federal Register. <SUP> 53 </SUP> One exception to the 30 day requirement is when an agency finds good cause for providing a shorter notice period. We believe that good cause exists in this situation. <SUP> 54 </SUP>
+
+As discussed in Part I of this release, Web CRD, even more than Legacy CRD, is expected to be a significant regulatory tool that will benefit regulators, broker-dealers, and the public. In order to ensure that the transition from Legacy CRD to Web CRD is orderly and complete, the NASD needs an adequate System Transition Period. The NASD has made a significant effort in preparing itself, its members broker-dealers, and non-member broker-dealers for the shift from Legacy CRD to Web CRD beginning August 16, 1999. If the NASD were to delay implementation of Web CRD so as to allow new Form BD and the related rules to become effective 30 days after publication in the Federal Register, a significant amount of confusion could result among industry participants, with little or no benefit to anyone from the delay. Indeed, substantial costs could be incurred by broker-dealers and the NASD, all of which have been preparing for the System Transition Period and for Web CRD's implementation on August 16, 1999.
+
+Because the System Transition Period will commence at the end of July 1999, Web CRD should be operational on August 16, 1999. As a practical matter, although Form BD and the related rules will be effective beginning July 30, 1999, Web CRD will not be implemented until August 16, 1999. Thus, firms will effectively have notice of the new forms and rules for over 30 days before compliance with them is required. Most initial filers on new Form BD will have been in contact with the staff at the NASD prior to their actual filing and will, as a consequence of that contact, have actual notice of the substance of the new Form BD.
+
+Additionally, not delaying the System Transition Period should help ensure that firms have adequate time to complete their re-filing obligations before Year 2000. In addition, not delaying the System Transition Period will allow the NASD sufficient time before Year 2000 to capture the data submitted on paper forms during the System Transition Period.
+
+The Commission hereby finds that there is good cause for making the amendments to Form BD and Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1 effective on July 30, 1999, even if this date is less than 30 days after notice of the amendments has been published in the Federal Register.<h>IV. Cost Benefit Analysis </h>
+
+We expect that the benefits of Web CRD to the industry will outweigh the costs associated with the one-time re-filing requirement <SUP> 55 </SUP> for registered broker-dealers. In the Proposing Release, we stated our preliminary view that when Web CRD is fully implemented, it would minimize future regulatory burdens on broker-dealers for filing Form BD and related amendments. No commenters addressed this aspect of the Proposing Release except to state that the benefits of Web CRD are welcomed by the industry. Furthermore, industry representatives told us that they expect their costs involving postage, duplication, and staff time to be reduced by using the Internet to file Form BD amendments. We estimate that broker-dealers filed approximately 15,350 Form BD amendments in Legacy CRD for fiscal year 1998. Industry representatives estimate that each amendment in Legacy CRD typically requires $.60 for duplication costs ( i.e. , $.05 per page at approximately 12 pages), $180 for postage ( i.e. , $12 × approximately 15 next-day mailings to the CRD, SROs, and relevant states), and $140 of staff time required to fill out the amendment to Form BD and submit it to the appropriate regulators ( i.e. , 4 hours of staff time per amendment × an average compensation rate of $35 per hour). Thus, the total annual cost burden to the industry to amend Form BD in Legacy CRD is approximately $4,921,210 ( i.e. , [$.60 + $180 + $140] × a yearly average of 15,350 amendments).
+
+In contrast, industry representatives estimate that the average time necessary to complete an amendment on Web CRD will be approximately 20 minutes ( i.e. , 5 minutes for simple amendments and up to 30 minutes for more complicated amendments). Therefore, we estimate that the annual cost burden to the industry to amend Form BD under Web CRD will be approximately $177,293 ( i.e. , .33 hours × a yearly average of 15,350 amendments × an average compensation rate of $35 per hour). <SUP> 56 </SUP> This will result in a total annual cost savings of over $4.5 million for all broker-dealers amending Form BD.
+
+Because the form will still be filed initially on paper, the amendments will not alter the current burden on initial filers of Form BD. In addition, the amendments requiring broker-dealers to designate an account administrator and establish an account with an Internet Service Provider ("ISP") <SUP> 57 </SUP> are not expected to significantly alter the current burden on broker-dealers. As described above, the account administrator will be the point-of-contact between the broker-dealer and the CRD. According to industry representatives, the account administrator will most likely be the person who already performs filing and reporting functions for the firm (either internally or as a third-party filer). It is anticipated, therefore, that this person will continue to be the point-of-contact with the CRD and continue to perform similar reporting and administrative tasks for the firm.
+
+With respect to ISP accounts, we are of the view that the requirement that broker-dealers have Internet access (either internally or through a third-party filer) will not significantly alter the current burden on broker-dealers. Most broker-dealers already have Internet access and, for those that do not, the cost of obtaining an ISP account averages approximately $20 per month. In addition, many broker-dealers use the Internet for other business purposes such as sending and receiving e-mail, maintaining a Web site, or delivering documents. For these broker-dealers, the additional burden to file amendments to Form BD through the Internet will be only a fraction of their total costs associated with their use of the Internet.
+
+We also believe that Web CRD will benefit regulators and the public by streamlining the capture of relevant information pertaining to broker-dealers and their associated persons. Precise information regarding a broker-dealer's activities and disciplinary history is needed for investigations and examinations by regulators. It also is a valuable informational resource for investors in deciding whether to entrust their financial assets to a particular broker-dealer. <SUP> 58 </SUP> While it is impossible to quantify these benefits, we expect that they will exceed the recordkeeping and reporting burden imposed on broker-dealers.<h>V. Consideration of Competition, Efficiency, and Capital Formation/Impact on Competition </h>
+
+In addition, Section 3 of the Exchange Act as amended by the National Securities Markets Improvement Act of 1996, provides that whenever the Commission is engaged in rulemaking and is required to consider whether an action is necessary or appropriate in the public interest, the Commission shall consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. Section 23(a)(2) of the Exchange Act <SUP> 59 </SUP> requires the Commission, in adopting rules under the Exchange Act, to consider the anticompetitive effects of such rules, if any, and to refrain from adopting a rule that will impose a burden on competition not necessarily or appropriate in furthering the purpose of the Exchange Act.
+
+As noted above, the form revisions and related rule amendments adopted today should reduce the regulatory burden on broker-dealers by facilitating electronic filing over the Internet, which will be a more efficient and cost-effective means for broker-dealers to meet their regulatory and reporting obligations. No commenters suggested otherwise. The amendments to Form BD and the related rules under the Exchange Act therefore will not result in any new burden on competition that is not necessary or appropriate in furtherance of the purposes of the Exchange Act. No commenters suggested otherwise.<h>VI. Regulatory Flexibility Analysis </h>
+
+We have prepared a Final Regulatory Flexibility Analysis ("FRFA"), pursuant to the requirements of the Regulatory Flexibility Act, <SUP> 60 </SUP> regarding the amendments to Form BD. We did not receive any comments on our Initial Regulatory Flexibility Analysis ("IRFA"). <SUP> 61 </SUP> As noted above and in the FRFA, the revisions to Form BD and related rules are intended to respond to the shift from the network-based architecture and proprietary software approach anticipated in the 1996 CRD system to the Internet-based Web CRD. The revisions to Form BD not only should provide benefits to securities regulators in the retrieval of information, but should also ease the burden of registration by future registrants, including small businesses. The FRFA also indicates that, except for the one-time re-filing requirement on registered broker-dealers, the revisions to Form BD will reduce aggregate cost and time burdens on broker-dealers, including small entity broker-dealers, who are required to file, or make amendments to, Form BD. The FRFA further indicates that because the amendments generally are intended to lessen the burden of registration, small broker-dealers will be affected in the same manner as other registrants. Thus, exempting small broker-dealers from Form BD disclosures would be unwarranted.
+
+A copy of the FRFA may be obtained from Barbara A. Stettner, Special Counsel, Office of Chief Counsel, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549-1001; (202) 942-0073.<h>VII. Paperwork Reduction Act Analysis </h>
+
+Certain provisions of the amendment to Form BD contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 (44 U.S.C. Section 3501 et seq.). The Commission submitted the proposal to the Office of Management and Budget ("OMB") for review in accordance with PRA requirements in effect at this time. The title for this collection of information: "Application for Registration as a Broker or Dealer." OMB has approved the amendments to Form BD and has assigned Form BD OMB control Number 3235-0012 with an expiration date of March 31, 2001. The information required by Form BD is mandatory and the responses are not kept confidential. An agency may not sponsor, conduct, or require response to an information collection unless a currently valid OMB control number is displayed.
+
+The amendments to Form BD are expected to provide securities regulators with better information about a registrant's disciplinary history by grouping disciplinary information into related categories and by customizing the corresponding DRPs used to disclose details of the registrant's disciplinary history. The amendments also are intended to elicit more precise information about the business activities of broker-dealer applicants. <SUP> 62 </SUP>
+
+As discussed above, the amendments to Form BD respond to certain recommended changes to the CRD system that have led to its redesign as an Internet-based system. Web CRD is expected to be more useful to securities regulators. It will also allow broker-dealers to file amendments to Form BD and other uniform registration forms electronically. Because Web CRD is intended to operate in an electronic environment, paper amendments to Form BD will no longer be submitted by broker-dealers. Rather, broker-dealers will be able to access and update their respective Forms BD through the NASD's Web site. This should result in cost-savings related to copying, postage, and staff time. Under Web CRD, broker-dealers will not have to obtain dedicated computer systems or proprietary software as would have been required under Redesigned CRD. Rather, a firm only needs access to the Internet and an Internet browser through an account with an ISP to submit filings electronically.
+
+Broker-dealers already are required pursuant to Rule 15b1-1 <SUP> 63 </SUP> under the Exchange Act to file for registration on Form BD and, pursuant to Rule 15b3-1(b), <SUP> 64 </SUP> to promptly file an amendment to Form BD if any information contained therein becomes inaccurate. <SUP> 65 </SUP> These amendments are intended to adapt Form BD to Web CRD's Internet-based environment. Therefore, except for the one-time re-filing requirement, the amendments to Form BD and the related rules will not impose any significant additional recordkeeping, reporting or other compliance requirement on broker-dealers. Initial filings of Form BD will continue to be made on paper and the electronic filing of Form BD amendments is expected to reduce time and cost burdens on broker-dealers.
+
+With respect to the one-time re-filing requirement, we estimate (based on discussions with industry representatives) that the average time necessary to complete a re-filing will be as follows: (1) approximately 30 large firms (total capital of more than $500 billion) will require approximately 40 hours each to re-file, (2) approximately 170 medium firms (total capital between $499 billion and $20 million) will require approximately 24 hours each to re-file, and (3) approximately 6,640 small firms <SUP> 66 </SUP> (total capital below $20 million) will require approximately 2 hours each to re-file. Thus, the total burden hours for the re-filing of certain disclosure information into Web CRD is estimated as 18,560 hours [30 large firms × 40 (1,200) + 170 medium firms × 24 (4,080) + 6,640 small firms × 2 (13,280) = 18,560].
+
+Broker-dealer applicants are also subject to Form BD's initial reporting obligation. Form BD is only submitted once and is updated by amendment ( see discussion on Form BD amendments below). For fiscal year 1998, the Commission received approximately 790 Form BDs for an initial or successor application for registration as a broker-dealer, non-bank municipal securities dealer, or non-bank government securities broker-dealer (pursuant to Rules 15b1-1, 15b1-3, 15b1-4, 15Ba2-2(a), 15Ba2-4, 15Ba2-5, 15Ca2-1, 15Ca2-3, and 15Ca2-4). Although the time necessary to complete Form BD will vary depending on the nature and complexity of the applicant's securities business, we estimate that the average time necessary to complete the initial form is approximately 2.75 hours. Thus, the Commission estimates that total annual burden hours required for the initial filing of a Form BD is 2,173 hours (2.75 × 790). It is important to note that the amendments adopted today do not alter the current burden on initial filers of Form BD because a Form BD filed for the first time is still required to be filed on paper.
+
+Under Web CRD, all amendments to Form BD will be filed electronically. For fiscal year 1998, the Commission received approximately 15,350 amendments. Of these 15,350 amendments, approximately 3,009 were from broker-dealers that employ third-party filers. <SUP> 67 </SUP> Because these broker-dealers will incur cost burdens rather than hour burdens, they will be removed from the total annual hour burden calculation ( see discussion regarding cost burdens on broker-dealers that employ third-party filers below). Therefore, for purposes of the annual hour burden calculation, the total annual number of amendments to Form BD will be 12,341 ( i.e. , 15,350 total amendments - 3,009 amendments filed by third-party filers). The staff estimates that the average time necessary to complete an amendment on Web CRD will be approximately 20 minutes ( i.e. , 5 minutes for simple amendments and up to 30 minutes for more complicated amendments). Thus, the total annual burden hours for the filing of Form BD amendments is 4,073 hours (.33 hours × approximately 12,341 [15,350 - 3009] amendments per year).
+
+We estimate that the total annual filing burden for Form BD and Form BD amendments is 6,246 hours (2,173 for initial filings of Form BD + 4,073 for amendments to Form BD). This is a reduction of approximately 1,030 total burden hours from the annual regulatory burden anticipated in Redesigned CRD. However, the total one-time re-filing burden will be approximately 18,560 hours. Accordingly, for the year when Web CRD is first implemented, the total hour burden will be approximately 24,806 hours.
+
+We also anticipate that the burden hours discussed above will apply similarly to broker-dealers who rely on third-party filers. Instead of incurring the cost of staff time, however, these broker-dealers will be billed by third-party filers at an average compensation rate of $35 per hour. Therefore, a small broker-dealer will pay a third-party filer $70 (2 hours for re-filing × $35 per hour) to comply with its one-time re-filing obligation. This will amount to a total, one-time cost burden of $58,100 ($70 × 1,660 small broker-dealers that employ third-party filers).
+
+Broker-dealers that employ third-party filers to file amendments to Form BD will also incur a cost burden. As discussed above in Part VII (Cost Benefit Analysis), the Commission estimates that approximately 15,350 amendments to Form BD are filed each year by broker-dealers. Of these 15,350 amendments, approximately 3,009 are from broker-dealers that employ third-party filers. The average time necessary to complete an amendment on Web CRD is estimated to be approximately 20 minutes. Therefore, the total annual cost burden to broker-dealers that employ third-party filers to file amendments to Form BD will be approximately $34,754 ( i.e. , .33 hours × 3,009 amendments × an average compensation rate of $35 per hour). The staff estimates that the total annual cost burden to these broker-dealers for re-filing and amending Form BD is approximately $92,854 ( i.e. , $58,100 + $34,754).
+
+With respect to ISP accounts, we are of the view that most broker-dealers already have Internet access (either internally or through a third-party filer), which they currently use to send and receive e-mail, to maintain a Web site, or to deliver documents. <SUP> 68 </SUP> Therefore, the use of their existing Internet accounts for filing in Web CRD will be incremental and will not significantly alter their current burden. As discussed above in Part VII (Cost Benefit Analysis), for those broker-dealers that do not currently have access to the Internet, the cost burden of obtaining an ISP account is approximately $20 per month. The Commission estimates that approximately 5% of all broker-dealers (approximately 425 broker-dealers) do not currently have access to the Internet either directly or through the use of a third-party filer. Therefore, the total annual cost burden for obtaining and maintaining an Internet account will be approximately $102,000 [$20 × 12 months × (.05 × 8500)].
+
+Accordingly, for the year when Web CRD is first implemented, the total cost burden will be $194,854 ( i.e. , $102,000 for ISP accounts + $92,854 for broker-dealers employing third-party filers to amend and re-file Form BD).
+
+It is important to note that regardless of whether a broker-dealer employs a person internally or hires a third-party to file information in CRD, ultimately the same costs will apply.<h>VIII. Statutory Basis </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.15b1-1; 17 CFR 249.501; 15 U.S.C. §§ 78a et seq .
+
+2 Securities Exchange Act Release No. 37431 (July 12, 1996); 61 FR 139 (July 18, 1996). 1996 Form BD was not implemented until today because of the shift from "Redesigned CRD," a network-based system upon which 1996 Form BD was based, to Web CRD. See Proposing Release, part II. Background (discussing the rationale behind the shift from Redesigned CRD to Web CRD).
+
+3 Securities Exchange Act Release No. 41351 (April 29, 1999); 64 FR 25153 (May 10, 1999).
+
+4 The CRD is operated and maintained by the National Association of Securities Dealers, Inc. ("NASD") and is used by the Commission, self-regulatory organizations ("SROs"), and state securities regulators in connection with registering and licensing broker-dealers and their registered personnel. For purposes of this release, the term "NASD" will be used to encompass both the NASD and NASD Regulation, Inc. ("NASDR") unless specified otherwise. The NASDR is the regulatory subsidiary of the NASD and is responsible for the operation of the CRD system.
+
+5 Applicants seeking broker-dealer registration with the Commission, the NASD, the Chicago Board Options Exchange ("CBOE"), and the various states currently file a single Form BD with the NASD. The NASD manually enters the information into the CRD system, which then makes the information available (electronically) to the Commission and the appropriate states for review. Applicants may also seek registration with SROs other than the NASD and the CBOE through Form BD, but they may also be required to submit a copy of the paper Form BD to those SROs that do not participate in the CRD system. The NASD anticipates more SROs to become full participants in Web CRD after the system is operational.
+
+6 See Letters from Marie Montagnino, President, Association of Registration Management ("ARM") (June 8, 1999); Michael B. Radest, Director, Credit Suisse First Boston ("CSFB") (June 9, 1999); and Derek W. Linden, Senior Vice President, NASD (June 15, 1999). These letters are available for inspection and copying in File No. S7-16-99, located in the Commission's Public Reference Room, 450 5th Street, N.W., Washington, D.C. 20549.
+
+7 See infra text accompanying notes 39-44.
+
+8 See discussion infra part III.A.2.b.(i).
+
+9 See discussion infra part III.A.2.b.(ii).
+
+10 As explained below, the version of Form BD currently in use does not incorporate the DRPs or Schedule E that were adopted in 1996. To distinguish these documents from the ones currently in use, we will refer to the versions adopted in 1996 but never implemented as the "1996 DRPs" and "1996 Schedule E," respectively.
+
+11 Read-only fields may not be altered by registrants.
+
+12 See NASD Notice to Members 96-26.
+
+13 See Appendix A, part D. Item 5.
+
+14 Securities Exchange Act Release
+
+15 See Proposing Release, part II. Background (discussing the different stages of Web CRD development).
+
+16 One of the principal goals of Redesigned CRD, and the 1996 amendments to Form BD, was to make certain information regarding broker-dealers and their associated persons, that is required to be reported on the applicable registration forms, more readily available to the public. Accordingly, pending the implementation of Web CRD, Interim Form BD incorporated the enhanced disclosure elicited by 1996 Form BD Question 11 into the existing Form BD Question 7. Specifically, Interim Form BD Question 7, requested information about the disciplinary history of the applicant and its control affiliates, including information relating to statutory disqualifications, other relevant history, and the applicant's financial soundness. In order to make the disclosures more organized and complete, Question 7 was divided into broad categories: criminal, civil, regulatory, and financial.
+
+17 The new disclosure question (Question 11) and the "Explanation of Terms" were the only items incorporated by Interim Form BD from 1996 Form BD because they could be made compatible with Legacy CRD. The 1996 DRPs and 1996 Schedule E, which did not become part of Interim Form BD, elicit more specific information than was required from the 1993 version of Form BD used in the Legacy CRD system.
+
+18 See discussion infra note 30 (regarding the change in the effective date of Form BD).
+
+19 Securities Exchange Act Release No. 41560 (June 25, 1999); File No. SR-NASD-98-96.
+
+20 The DRPs adopted today eliminate the practical problems posed by the NASD's first attempt to redesign CRD by using improved formatting. See Proposing Release, part III. "Proposed Amendments to Form BD" (discussing DRP formatting differences between the Redesigned and Web CRD systems).
+
+21 See Appendix A, part 3.c (part II. 16,17,18,19,20 and 21).
+
+22 The NASD Manual was reformatted in 1996. See NASD Notice to Members 96-25. See also Appendix A, part E.4.
+
+23 See Current SEC Rulemaking; Final Rules; Release No. 34-41594, File No. S7-16-99 on the SEC Web site at http://www.sec.gov. [ Webmaster note: http://www.sec.gov./rules/final/3441594x.htm ]
+
+24 Appendix A will not be published in the Federal Register. Appendix B (Form BD) is the only appendix to this release that will be published in the Federal Register. Both Appendix A and Appendix B are attached as appendices to this release electronically on the Commission's Web site at http://www.sec.gov and in paper format from the Commission's Publications Office at (202)942-4040. [ Webmaster note: Appendix B to come.]
+
+25 The NASD expects, however, that all filings for both broker-dealers and their associated persons will eventually be submitted exclusively through electronic means.
+
+26 See infra notes 29, 37-38 and accompanying text. See also part IX infra (Temporary Filing Instructions for Exchange Act Rules 15b3-1, 15Ba2-2, and 15Ca2-1).
+
+27 Registrants that participate in the Firm Access Query System ("FAQS"), however, may electronically file Schedule E amendments through July 30, 1999. See infra note 30 and accompanying text.
+
+28 The NASD will also accept a paper-filed Form BDW seeking withdrawal from registration in all jurisdictions and SROs on or after August 16, 1999 if it is the first filing made by a broker-dealer after implementation of the Web CRD system.
+
+29 Since March 1998, the NASD has been converting the following broker-dealer information from Legacy CRD to Web CRD: Base information ( i.e. , the broker-dealer's general CRD record information including the broker-dealer's CRD number, name, Commission number, IRS number, NASD district assignment, CRD contact, and related telephone number), Registration Status, Current Address (main and mailing), Types of Business ( e.g. , municipal securities dealer, corporate debt securities broker), and Form U-6 Disclosure ( e.g. , Commission and NASD actions). This initial conversion was done to accommodate the NASD's Public Disclosure Program on the Internet. During the System Transition Period, the NASD will transfer any remaining data described above. In addition, it will convert the following information: Name Change History ( i.e. , old name, new name, effective date of change), Mass Transfer History ( e.g. , firm name and CRD number, pre- and post- merger, acquisition), and Branch Information (Schedule E). Firms will have to re-file the information that will not be transferred by the NASD from Legacy CRD. See infra part IX (Temporary Filing Instructions).
+
+30 The effective date of Form BD has changed from the proposed date of August 1, 1999 to July 30, 1999 because the NASD will not accept any filings on Interim Form BD after July 29, 1999 (s ee discussion supra part III.A.1. "Key Dates - July 30, 1999 through August 15, 1999"). This change provides the NASD with two additional days needed to manually enter information from filings submitted on Interim Form BD. One exception applies to FAQS users, who will be allowed to continue filing Schedule E amendments electronically through July 30, 1999. Because FAQS filings are electronic, the NASD does not need as much time to process these amendments.
+
+31 Firms can take certain steps now to avoid timing problems in connection with their re-filing obligations later. For example, broker-dealers may opt to begin entering their re-filing information into their own word processing programs. This will enable them to save, and then subsequently "cut and paste," their data into Web CRD beginning August 16, 1999. Web CRD is equipped to accept textual inserts from all versions of word processing programs such as Microsoft Word and WordPerfect. In addition, the NASD will be providing a template in a standard graphics format ( i.e. , .pdf format) at http://www.nasdr.com/3400_web.htm . This will allow broker-dealers to enter re-filing data into sections that correspond with sections on Form BD. Firms may also "cut and paste" the data saved on their respective templates into Web CRD on August 16, 1999. The template is compatible with Microsoft Word version 6.0, and higher, and WordPerfect version 6.1(Windows), and higher. Therefore, broker-dealers are now able to begin the collection and recording of re-filing information rather than waiting to begin this process on August 16, 1999.
+
+32 Applicants may request the Form BD Registration Package from the Commission's Publications Office at (202)942-4040 or from any of the Commission's Regional or District Offices listed at http://www.sec.gov/asec/secaddr.htm . In addition, Form BD will be available from the Commission's Web site at http://www.sec.gov (under "Current SEC Rulemaking; Final Rules; Release No. 34-41594, File No. S7-16-99").
+
+33 Form BD will also be available from the NASD's Publications Office at (301)590-6201 or can be downloaded from NASD's Web site at http://www.nasdr.com .
+
+34 Broker-dealers have the option to designate a third party ( e.g. , a service bureau or clearing firm) as its account administrator. However, if a broker-dealer opts for a third-party account administrator, it must acknowledge that the broker-dealer is responsible for filings made by those designated persons on behalf of the firm.
+
+35 Information packages on how to establish a Web CRD user account are available from the NASD at (301)212-8181.
+
+36 The account administrator is responsible for determining who has access to Web CRD and may limit such access in any manner. For example, a person responsible for Form U-4 filings might not have access to Form BD on Web CRD. In addition, the account administrator may choose to allow read-only access to many individuals within the firm.
+
+37 Large portions of Form BD data are currently stored as text fields in Legacy CRD. It is not technologically possible for the NASD to convert this data to the counterpart text fields of Web CRD. ( See also note 29 supra )
+
+38 The December 15, 1999 date was chosen to ensure that re-filings will take place prior to the annual shutdown of CRD for renewals and to have the re-filing complete before the Year 2000.
+
+39 See ARM and CSFB letters supra note 6.
+
+40 See NASD letter supra note 6.
+
+41 Exchange Act Rule 15Ca2-2 directs government securities brokers and dealers to file Form BD, in accordance with its instructions, to the CRD. The rule does not, however, contain language directing them to "promptly" amend Form BD when the information therein becomes inaccurate. Unlike broker-dealers that are registered under Exchange Act Sections 15(b) or 15B, government securities broker-dealers must comply with Treasury Rule 400.5 which directs them to file an amendment to Form BD within 30 days from the time the information becomes inaccurate. The staff's no-action position will apply to all registered broker-dealers, including government securities broker-dealers.
+
+42 The Commission has not defined what constitutes "prompt" filing for purposes of Rule 15b3-1 because whether a filing is deemed "promptly filed" needs to be determined on a facts-and-circumstances basis. Moreover, the concept of "promptness" changes with the evolution of technology. In the Proposing Release, the Commission stated that in no event would filing an amendment after 30 days be considered "prompt" at a time other than during the System Transition Period. See Proposing Release, note 35 and accompanying text
+
+43 See supra notes 16-17 and accompanying text.
+
+44 CSFB also stated that the accurate disclosure of this information may require firms, especially larger firms, to conduct extensive research.
+
+45 Completeness checks ensure that a firm fully completes Form BD before it submits the form to Web CRD. If certain informational fields are left blank, the completeness check will immediately prompt the firm to complete the field. The firm will be unable to re-file its new Form BD in Web CRD until these informational fields are completed.
+
+46 See discussion infra part III.A.2.b.(i) (regarding Y2K and Form BD renewal requirements for firms).
+
+47 Each year, firms are required to complete the process of filing renewal and termination requests for their respective registered representatives no later than December 15.
+
+48 According to the NASD, disengaging the completeness checks would involve a major code change to the Web CRD application. Such a change would require replacing code that has already been tested and approved. This, in turn, could lead to further system problems which would ultimately delay the deployment of Web CRD. Moreover, the NASD contends that disabling the completeness checks would require additional manual NASD staff review to ensure that all required information was submitted on a particular filing, thereby eliminating one of the significant advantages of Web CRD.
+
+49 See supra note 41 regarding the application of the staff's no-action position to government securities broker-dealers.
+
+50 The NASD, however, will not accept paper filings of Schedule E during the System Transition Period or at any time following December 15, 1999.
+
+51 The NASD will return all paper submissions of Schedule E amendments from any firm that has completed its re-filing.
+
+52 Currently, there are tools available to firms to assist them in complying in a timely manner with their re-filing requirements. For example, firms have the option to begin training their staff now, rather than waiting until August 16, 1999. For example, broker-dealer staff members responsible for Web CRD input have been able to review the proposed Form BD since May 10, 1999. They may now also access a Web CRD Tutorial at http://www.nasdr.com/crd_cbt/crd_1.htm . In addition, during the month of July 1999, on Tuesdays, Wednesdays, and Thursdays, the NASD will provide access to the Web CRD system which will allow firm staff to "practice" using the Web CRD system with mock data. This will enable staff to become more familiar with Web CRD prior to its implementation. Firms will not, however, be able to begin inputting its actual re-filing information until August 16, 1999.
+
+53 5 U.S.C. § 553(d).
+
+54 5 U.S.C. § 553(d)(3).
+
+55 See discussion infra in part VII (Paperwork Reduction Analysis) regarding the burden hours for the one-time re-filing of certain information on Form BD.
+
+56 Broker-dealers that employ third-party filers account for approximately 3,009 of the Form BD amendments ( i.e. , an approximate cost burden of $34,754). See discussion infra notes 66-67 and accompanying text (regarding the hour and cost burdens on these broker-dealers).
+
+57 A broker-dealer will also need access to an Internet browser ( e.g. , Netscape, Internet Explorer) in order to submit filings over the Internet. Internet browsers typically are provided by the ISP or can be downloaded free of charge from the Internet.
+
+58 The NASD receives approximately 525,000 inquiries each year from the public requesting information about broker-dealers or their associated persons.
+
+59 15 U.S.C. § 78w(a)(2).
+
+60 5 U.S.C. § 603.
+
+61 A summary of the IRFA was included in the Proposing Release at part X.
+
+62 The Commission uses the information disclosed by applicants in Form BD to: (i) determine whether broker-dealer applicants meet the standards for registration set forth in the provisions of the Exchange Act; (ii) develop and maintain a central information resource where members of the public may obtain relevant, current information about broker-dealers, municipal securities dealers, and government securities brokers or government securities dealers, and where the Commission and other securities regulators may obtain information for investigatory purposes; and (iii) develop statistical information concerning broker-dealers, municipal securities dealers, and government securities brokers or government securities dealers.
+
+63 17 CFR 240.15b1-1.
+
+64 17 CFR 240.15b3-1(b).
+
+65 As noted above, Exchange Act Rule 15Ba2-2 also requires municipal securities dealers to promptly file an amendment to Form BD if any information contained therein becomes inaccurate. Treasury Rule 400.5 requires government securities brokers and dealers to file such an amendment within 30 days from the time information in their Forms BD become inaccurate. See also note 41 supra .
+
+66 The Commission estimates that approximately 20% of the small broker-dealer population ( i.e. , 1,660 [.20 × 8,300 small broker-dealers]) employ third parties to file information related to their respective Forms BD with the CRD. These broker-dealers will not incur an hour burden and, therefore, for purposes of the Paperwork Reduction Act, are removed from the hour-burden calculation for small broker-dealers ( i.e. , 8,300 total small broker-dealers - 1,660 small broker-dealers that employ third-party filers = 6,640 small broker-dealers that will incur hour burdens). As discussed below, however, the 1,660 broker-dealers will incur a cost burden with respect to re-filing and Form BD amendments.
+
+67 Out of the approximate 15,350 amendments filed each year, approximately 15,043 are filed by small broker-dealers ( i.e. , 8,300 small broker-dealers = 98% of the broker-dealer community; 15,350 × .98 = 15,043). As discussed above, approximately 1,660 (20%) of small broker-dealers employ third-party filers and, therefore, will be responsible for approximately 3,009 of the total annual amendments to Form BD ( i.e. , 15,043 amendments by small broker-dealer community × .20 = 3,009 amendments).
+
+68 In addition, NASD members are already required to have an electronic mail account and to be able to access NASD Regulation's Web site for the purpose of updating their Firm Contact Questionnaire. See NASD By-Laws Article IV, Section 3.
+
+69 15 U.S.C. §§ 78o(a), 78o(b), 78o-4(a)(2), 780-5(a)(2), and 78w(a). Appendix A: Technical, Formatting, and Conforming Amendments tothe 1996 Form BD  http://www.sec.gov/rules/final/34-41594.htm

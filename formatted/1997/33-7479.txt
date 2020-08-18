@@ -1,0 +1,533 @@
+https://www.sec.gov/rules/final/33-7479.txt
+
+	I.0.0.0: I. TECHNICAL AMENDMENTS TO RULE 2a-7
+
+		I.A.0.0: A. Background
+
+		I.B.0.0: B. Discussion
+
+			I.B.1.0: 1. Guarantees
+
+			I.B.1.a: a. Definition of "Guarantee"
+
+			I.B.1.b: b. Credit Substitution
+
+			I.B.1.c: c. Rating Requirement for Guarantees
+
+			I.B.1.d: d. Demand Features and Guarantees Not Relied Upon
+
+			I.B.2.0: 2. Diversification and Credit Quality Standards Applicable to Issuers
+
+			I.B.2.a: a. Second Tier Securities
+
+			I.B.2.b: b. Repurchase Agreements
+
+			I.B.2.c: c. Refunded Securities
+
+			I.B.2.d: d. Three-Day Safe Harbor
+
+			I.B.2.e: e. Government Guarantees
+
+			I.B.2.f: f. Definition of "Rated Security"
+
+			I.B.3.0: 3. Asset Backed Securities and Synthetic Securities
+
+			I.B.3.a: a. Rating Requirement
+
+			I.B.3.b: b. Diversification Standards
+
+			I.B.3.i: i. Look-Through to Secondary ABSs
+
+			I.B.3.c: c. Periodic Determinations Regarding Ten Percent Obligors
+
+			I.B.3.d: d. Swap Arrangements
+
+			I.B.4.0: 4. Other Amendments to Rule 2a-7
+
+			I.B.4.a: a. Investments in Other Money Market Funds
+
+			I.B.4.b: b. Definition of Eligible Security -- Certain Unrated Securities
+
+			I.B.4.c: c. Additional Amendments
+
+	II.0.0.0: II. AMENDMENTS TO THE ADVERTISING RULES APPLICABLE TO MONEY MARKET FUNDS
+
+		II.A.0.0: A. Calculation of Yield
+
+		II.B.0.0: B. Use of Total Return
+
+	III.0.0.0: III. EFFECTIVE DATE/COMPLIANCE DATE
+
+		III.A.0.0: A. Effective Date
+
+		III.B.0.0: B. Compliance Dates
+
+			III.B.1.0: 1. General Compliance Date
+
+			III.B.2.0: 2. "Grandfathered" Securities
+
+	IV.0.0.0: IV. COST/BENEFIT ANALYSIS AND EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION
+
+		IV.A.0.0: A. Technical Amendments to Rule 2a-7
+
+		IV.B.0.0: B. Amendments to Advertising Rules Applicable to Money Market Funds
+
+	V.0.0.0: V. PAPERWORK REDUCTION ACT
+
+	VI.0.0.0: VI. SUMMARY OF REGULATORY FLEXIBILITY ANALYSIS
+
+	VII.0.0.0: VII. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 230, 239, 270 and 274
+
+Release Nos. 33-7479; IC-22921; S7-29-96 
+
+RIN 3235-AE17 
+
+Technical Revisions to the Rules and Forms Regulating Money Market Funds 
+
+AGENCY: Securities and Exchange Commission ACTION: Final Rules 
+
+SUMMARY: The Commission is adopting amendments to rules and forms under the Securities Act of 1933 and the Investment Company Act of 1940 that govern money market funds. Technical amendments to rule 2a-7 under the Investment Company Act of 1940, the rule regulating money market funds, among other things, revise terminology used in the rule to reflect common market usage and resolve certain interpretive issues under the rule. Amendments to the advertising rules applicable to money market funds, among other things, clarify the formula used by money market funds to calculate yield. 
+
+DATES: Effective Date: The rule and form amendments adopted in this Release will become effective February 10, 1998. Compliance Date: See Section III of this Release. 
+
+FOR FURTHER INFORMATION CONTACT: David P. Mathews, Senior Counsel, Office of Regulatory Policy, (202) 942-0690, Division of Investment Management, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-2, Washington, D.C. 20549. SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") is adopting technical amendments to rule 2a-7 [17 CFR 270.2a-7] ("rule 2a-7" or the "rule") under the Investment Company Act of 1940 [15 USC 80a-1, et seq.] ("1940 Act"), the rule governing the operations of money market funds ("funds").<sup> 1 </sup> The Commission is adopting conforming amendments to rules 2a41-1, 12d3-1, 17a-9 and 31a-1 under the 1940 Act [17 CFR 270.2a41-1, 270.12d3-1, 270.17a-9 and 270.31a-1] to reflect the amendments to rule 2a-7. The Commission also is adopting amendments to rule 482 [17 CFR 230.482] under the Securities Act of 1933 [15 USC 77a, et seq.] ("1933 Act") and rule 34b-1 under the 1940 Act [17 CFR 270.34b-1]; and to Forms N-1A [17 CFR 239.15A and 274.11A], N-3 [17 CFR 239.17a and 274.11b] and N-4 [17 CFR 239.17b and 274.11c].
+
+<END HEADER>
+
+<h>I. TECHNICAL AMENDMENTS TO RULE 2a-7</h>
+
+<h>A. Background</h>
+
+On March 21, 1996, the Commission adopted amendments to rule 2a-7 under the 1940 Act ("1996 Amendments") to tighten the rule's risk-limiting conditions imposed on tax exempt money market funds and to address the treatment under the rule of certain instruments, such as asset backed securities.<sup> 2 </sup> These risk-limiting conditions include requirements that a fund limit itself to investing in high quality securities<sup> 3 </sup> and that the fund's portfolio be diversified.<sup> 4 </sup> After the adoption of the 1996 Amendments, industry participants raised numerous questions concerning the application of the amendments in different contexts. The Commission thereafter suspended the compliance date of certain of the 1996 Amendments pending the proposal and adoption of technical amendments to address these concerns.<sup> 5 </sup>
+
+On December 10, 1996, the Commission issued a release proposing technical amendments to rule 2a-7 ("Proposing Release").<sup> 6 </sup> The proposed amendments would: (1) codify certain interpretive views expressed by the Division of Investment Management;<sup> 7 </sup> (2) revise terminology used in the rule to reflect common market usage; (3) modify certain of the 1996 Amendments so that the rule's treatment of certain instruments (e.g., guarantees) more closely reflects the treatment of those instruments by the financial markets; and (4) make certain other technical corrections. The Commission also proposed amendments to clarify the Commission's advertising rules regarding how money market funds calculate current yield and represent short-term total return in conjunction with current yield quotations.
+
+The Commission received comments on the proposed amendments from seventeen commenters, including nine mutual fund complexes.<sup> 8 </sup> Commenters supported the proposed technical amendments to rule 2a-7, and suggested further amendments to certain provisions of the rule primarily relating to the treatment of asset backed securities. Most commenters that addressed the proposed amendments to the Commission's advertising rules relating to money market fund yield and total return generally supported them. The Commission is adopting the technical amendments substantially as proposed, with certain modifications that reflect, in part, many of the commenters' suggestions. The Commission also is establishing a new compliance date for the 1996 Amendments, as further amended by the technical amendments adopted in this Release.<sup> 9 </sup>
+
+<h>B. Discussion</h>
+
+<h>1. Guarantees</h>
+
+<h>a. Definition of "Guarantee"</h>
+
+Rule 2a-7 currently characterizes certain features that enhance the credit or liquidity of portfolio securities as "puts" and "unconditional puts."<sup> 10 </sup> To clarify terminology used in rule 2a-7, the Commission proposed to replace these terms with a new term -- "guarantee" -- that would include a wide-range of arrangements designed to unconditionally support the credit of the issuer of a security.<sup> 11 </sup> Commenters generally supported the proposed amendments, which the Commission is adopting substantially as proposed.<sup> 12 </sup>
+
+<h>b. Credit Substitution</h>
+
+Since 1986, rule 2a-7 has permitted a fund to rely exclusively on the credit quality of the issuer of an "unconditional demand feature" in determining whether a security meets the rule's credit quality standards.<sup> 13 </sup> The 1996 Amendments also permitted a fund to exclude from the rule's issuer diversification standards a security subject to an unconditional demand feature provided by a person that does not control, or is not controlled by or under common control with, the issuer of the security ("non-controlled person").<sup> 14 </sup> Reflected in this approach is the recognition that the holder of a security typically relies exclusively on the credit quality of the issuer of the unconditional demand feature in deciding to invest in the security.
+
+In addition to enhancing credit quality, money market funds also rely on demand features to shorten the maturities of adjustable rate securities or provide a source of liquidity.<sup> 15 </sup> Because of the significance of demand features to a money market fund's ability to maintain a stable net asset value, the 1996 Amendments further provided that a demand feature is not eligible for fund investment unless (i) the demand feature (or the issuer of the demand feature) is rated by an NRSRO ("Rating Requirement");<sup> 16 </sup> and (ii) arrangements are in place for a fund holding a security subject to a demand feature to be given notice in the event of a change in the identity of the issuer of the demand feature ("Notification Requirement").
+
+The Commission proposed to extend these provisions to other types of guarantees commonly held by funds, such as bond insurance, letters of credit and similar unconditional guarantees.<sup> 17 </sup> Like securities subject to unconditional demand features, securities subject to guarantees typically trade on the basis of the credit of the guarantor, rather than the issuer. Commenters strongly supported the proposed amendments, which the Commission is adopting as proposed.<sup> 18 </sup>
+
+Under the rule as amended, a fund holding a security subject to a guarantee (as defined in the rule) may rely exclusively on the credit quality of the issuer of the guarantee in determining whether the security meets the rule's credit quality standards.<sup> 19 </sup> In addition, securities subject to guarantees issued by non-controlled persons are not subject to the rule's issuer diversification standards.<sup> 20 </sup>
+
+<h>c. Rating Requirement for Guarantees</h>
+
+The 1996 Amendments precluded funds from investing in securities subject to demand features (whether unconditional or conditional) that have not received a short-term rating from an NRSRO. The Commission proposed, in light of its proposal to extend the rule's treatment of unconditional demand features to all guarantees, to extend the Rating Requirement to guarantees, subject to certain exceptions.<sup> 21 </sup> Commenters generally supported the proposal, which the Commission is adopting substantially as proposed.
+
+Under rule 2a-7, as amended, all guarantees must be rated by an NRSRO,<sup> 22 </sup> except (i) a guarantee issued by a person that, directly or indirectly, controls, is controlled by or is under common control with the issuer of the security subject to the guarantee,<sup> 23 </sup> (ii) a guarantee with respect to a repurchase agreement ("repo") that is collateralized fully,<sup> 24 </sup> (iii) a guarantee issued by the U.S. Government,<sup> 25 </sup> or (iv) a guarantee not relied upon for quality, maturity or liquidity purposes.<sup> 26 </sup> Conditional demand features, which are not within the definition of a "guarantee" under the amended rule, are not subject to the Rating Requirement.<sup> 27 </sup>
+
+<h>d. Demand Features and Guarantees Not Relied Upon</h>
+
+The 1996 Amendments permitted a fund that is not relying on a particular put to disregard that put for purposes of meeting rule 2a-7's put and demand feature diversification standards. The Commission is revising the rule to extend this provision to guarantees, and to expand the provision to permit funds to disregard a demand feature or a guarantee that is not relied upon to satisfy the rule's credit quality or maturity standards, or for liquidity, for all purposes under the rule.<sup> 28 </sup>
+
+<h>2. Diversification and Credit Quality Standards Applicable to Issuers</h>
+
+<h>a. Second Tier Securities</h>
+
+Rule 2a-7 provides that a taxable fund may not invest more than one percent of its total assets in second tier securities issued by a single issuer.<sup> 29 </sup> In the case of tax exempt funds, this one percent limitation on investments in second tier securities applies only to second tier "conduit securities" that are issued by municipalities, but whose ultimate obligors are not government or municipal entities.<sup> 30 </sup> The Commission is adopting the proposed amendments to the rule that clarify that these limitations are not applicable to a security that is guaranteed by a non-controlled person.<sup> 31 </sup> Securities subject to guarantees from non-controlled persons are subject only to the rule's guarantee and demand feature diversification standards.<sup> 32 </sup>
+
+<h>b. Repurchase Agreements</h>
+
+Rule 2a-7 permits a fund to "look-through" a repo to the underlying collateral and disregard the counterparty in determining compliance with the rule's diversification standards if the obligation of the counterparty is "collateralized fully." The 1996 Amendments sought to define "collateralized fully" to limit the collateral to that which could be liquidated promptly even in the event of bankruptcy of the counterparty.
+
+Because of questions concerning the treatment of cash and other types of collateral not specifically addressed in the 1996 Amendments, the Commission proposed to revise the "look-through" provisions of the rule to focus on the treatment of the repo under applicable insolvency law rather than exclusively on the type of collateral. Under the proposed amendments, a repo would be "collateralized fully" if (i) the collateral consists entirely of cash, Government securities, or other securities that are rated in the highest rating category by the requisite NRSROs, and (ii) upon an event of insolvency with respect to the seller, the repo qualifies under a provision of applicable insolvency law providing an exclusion from any "general stay" of creditors rights against the seller.<sup> 33 </sup>
+
+Commenters supported the proposed revisions, but three commenters urged that the rule's language be modified to refer to an "automatic stay" rather than a "general stay." These commenters pointed out that even repos protected from automatic stays under federal insolvency law may be subject to a court-ordered general stay obtained by the Securities Investor Protection Corporation ("SIPC") or the Federal Deposit Insurance Corporation ("FDIC"). Because no provision of insolvency law protects a purchaser of a repo from such orders, the proposed amendments might have precluded money market funds from relying on the rule's "look-through" provision for most repos, even though it is the policy of both SIPC (as to broker-dealer counterparties) and FDIC (as to bank counterparties) generally to allow the prompt liquidation of repos in insolvency proceedings.<sup> 34 </sup>
+
+The Commission is adopting the proposed amendments, revised in part to reflect the commenters' suggestions.<sup> 35 </sup> The Commission notes that, under the revised rule, a fund entering into a repo collateralized by Government securities (which most are) should be able to conclude that the repo qualifies for "look-through" treatment (assuming the other requirements of the rule are met), while funds wishing to enter into repos using less traditional forms of collateral may rely on opinions of bankruptcy counsel.<sup> 36 </sup>
+
+<h>c. Refunded Securities</h>
+
+Money market funds often invest in "refunded securities," which are securities the payment for which is funded and secured by Government securities placed in an escrow account. Rule 2a-7 permits a fund to "look- through" refunded securities to the escrowed Government securities in determining its compliance with the rule's issuer diversification standards under certain conditions.<sup> 37 </sup> One condition contained in the 1996 Amendments required certification by an independent public accountant that the escrowed Government securities, or any subsequent substitution of the escrowed securities, would satisfy all payments of principal, interest and applicable premiums on the refunded securities (collectively, the "accountant's certification"). The Proposing Release noted that NRSROs, in rating refunded securities, typically require an independent third party to make the same determination.<sup> 38 </sup> Therefore, the Commission proposed, and is now adopting, an amendment to the rule eliminating the accountant's certification requirement if a refunded security has received a rating from an NRSRO in the highest category for debt obligations.<sup> 39 </sup>
+
+<h>d. Three-Day Safe Harbor</h>
+
+Rule 2a-7 permits a taxable or national fund to invest up to twenty-five percent of its total assets in the first tier securities of a single issuer for up to three business days ("three-day safe harbor"). The Commission proposed, and is adopting, amendments that restore unintentionally omitted language from the rule text stating that a fund relying on the three-day safe harbor may not make more than one investment in reliance on the safe harbor at any time during the three day period.<sup> 40 </sup>
+
+<h>e. Government Guarantees</h>
+
+Two commenters suggested that the Commission exclude guarantees issued by the U.S. Government from the rule's guarantee and demand feature diversification standards as finally amended, and thus treat government guarantees in the same manner as securities issued directly by the U.S. Government.<sup> 41 </sup> The Commission is amending the demand feature and guarantee diversification standards accordingly.<sup> 42 </sup>
+
+<h>f. Definition of "Rated Security"</h>
+
+Two commenters recommended that the Commission adopt a new defined term, "rated security," which would permit rule 2a-7's definitions of "unrated security," "eligible security" and "first tier security" to be shortened and clarified. The Commission is adopting the new term "rated security" and amending other provisions in the rule to incorporate the new term.<sup> 43 </sup>
+
+<h>3. Asset Backed Securities and Synthetic Securities</h>
+
+The 1996 Amendments revised rule 2a-7 to accommodate asset backed securities and synthetic securities (collectively "ABS"). Rule 2a-7 defines an ABS as a fixed income security<sup> 44 </sup> issued by a "special purpose entity" substantially all of the assets of which consist of "qualifying assets."<sup> 45 </sup> Rule 2a-7 provides separate credit quality,<sup> 46 </sup> diversification<sup> 47 </sup> and maturity<sup> 48 </sup> standards for ABSs. The ABSs covered by the rule include interests in pools of receivables, such as credit card debt, as well as short-term synthetic tax exempt securities.<sup> 49 </sup>
+
+<h>a. Rating Requirement</h>
+
+In recognition of the independent legal, structural and credit analysis conducted by NRSROs before assigning a rating to an ABS, the 1996 Amendments required that all ABSs purchased by money market funds receive a rating from an NRSRO.<sup> 50 </sup> In light of the role that NRSROs have played in the development of structured finance, the Commission believed that this ABS rating requirement was appropriate and would not be burdensome.
+
+The Commission proposed to further amend the rule to exclude from this rating requirement ABSs substantially all of the qualifying assets of which consist of municipal securities.<sup> 51 </sup> The Commission was persuaded by the assertions of industry participants that, as applied to these ABSs, the rating requirement was burdensome and unnecessary.<sup> 52 </sup> Commenters generally supported the amendment, which the Commission is adopting as proposed.<sup> 53 </sup>
+
+<h>b. Diversification Standards</h>
+
+<h>i. Look-Through to Secondary ABSs</h>
+
+Rule 2a-7 treats the special purpose entity as the issuer of the ABS and requires the rule's issuer diversification standards to be met with respect to the special purpose entity. The rule contains an exception to this treatment, which requires a fund to "look-through" the special purpose entity to any issuer of qualifying assets whose obligations constitute ten percent or more of the principal amount of the qualifying assets of the special purpose entity ("ten percent obligor"). For diversification purposes, a fund must treat these ten percent obligors as if they issued a proportionate amount of the special purpose entity.<sup> 54 </sup> The "look-through" to ten percent obligors is designed to ensure that a fund does not invest indirectly more than five percent of its assets in a particular issuer.
+
+Some or all of the qualifying assets of certain ABSs ("primary ABSs") also consist of other ABSs ("secondary ABSs"). The Commission proposed amendments to clarify that a ten percent obligor of a primary ABS that is also the issuer of secondary ABSs would be deemed to have issued a portion of the assets of the primary ABS that such secondary ABSs represent. For purposes of identifying ten percent obligors, the proposed amendments provided that a fund should "continue down the chain" of ten percent obligors until a special purpose entity with no ten percent obligors is reached.<sup> 55 </sup> Commenters supported this general approach, which the Commission is adopting, but raised several concerns that have led the Commission to further revise and clarify the rule.
+
+One commenter observed that the benefits and materiality of the required "look-through" to secondary ABSs diminish rapidly. This commenter asserted that the risks posed by remote special purpose entities are likely to be outweighed by the costs incurred by funds to create compliance systems that identify, and treat as proportionate issuers, ten percent obligors beyond those comprising the qualifying assets of secondary ABSs. The Commission agrees and has amended the ABS "look-through" provision so that, instead of "continuing down the chain" indefinitely, funds are required to identify and treat as proportionate issuers of a primary ABS only ten percent obligors of the primary ABS and ten percent obligors of any secondary ABSs.<sup> 56 </sup>
+
+Another commenter urged that a particular type of ABS issuer, a "restricted special purpose entity," be excluded from treatment as a ten percent obligor under the rule, and thus not be counted for diversification purposes. A "restricted special purpose entity" is one that does not issue its ABSs to anyone other than another specific ABS issuer. For example, a company that provides financing for automobile purchasers may establish a restricted special purpose entity to securitize its automobile loans. The restricted special purpose entity will only sell ABSs to another special purpose entity that issues ABSs to money market funds or other investors. No diversification risk would appear to be posed to funds in this instance because funds cannot directly or indirectly invest in the restricted special purpose entity (i.e., a secondary ABS) other than through the purchase of ABSs from a particular primary ABS issuer.<sup> 57 </sup> The Commission has decided to further amend the rule to exclude restricted special purpose entities from treatment as ten percent obligors.<sup> 58 </sup>
+
+<h>ii. Demand Features and Guarantees Securing Obligations of Ten Percent Obligors</h>
+
+The Commission is adopting a proposed amendment to clarify that in the case of any ten percent obligors deemed to be issuers for purposes of the rule's diversification standards, any demand features or guarantees supporting the obligations of the ten percent obligors are treated as being held by the fund and are subject to the rule's demand feature and guarantee diversification standards.<sup> 59 </sup>
+
+<h>iii. Special Purpose Entity Cap</h>
+
+In the Proposing Release, the Commission explained that it was possible under the rule for a large portion of a fund to be exposed to a single ABS, as a result of a fund investing in a special purpose entity with one or more ten percent obligors.<sup> 60 </sup> The Commission noted that this could expose the fund to an undue amount of structural risk (e.g., the risk that the special purpose entity might be effected by the bankruptcy of its sponsor), and requested comment whether the rule should restrict fund investment in the obligations of a single special purpose entity.
+
+Although the three industry participants that responded to the request for comment urged adoption of such a cap, the Commission has decided not to amend the rule in this manner. The Commission is concerned that such a cap would add complexity to the rule without meaningfully limiting structural risks. While a cap would limit a fund's investment in a particular special purpose entity, it would not prevent a fund from investing large amounts of its assets in multiple identically-structured special purpose entities established by the same sponsor. A structural flaw in an ABS that exposes investors in one special purpose entity to the bankruptcy of the sponsor would likely effect all of the special purpose entities similarly structured. Therefore, the Commission is not persuaded that a cap would effectively contain a fund's exposure to structural risk, and in any event, rule 2a-7 looks to the ratings of the NRSROs to provide an independent review of ABS structures.<sup> 61 </sup> Fund advisers, however, should consider the fund's exposure to structural risk when evaluating whether an investment in a particular ABS is consistent with the fund's objective of maintaining a stable net asset value.
+
+<h>iv. Sponsor-Provided Demand Features and Guarantees</h>
+
+Rule 2a-7 provides that a fund may not invest, with respect to seventy-five percent of its total assets, more than ten percent of its total assets in securities issued by or subject to puts from the same institution (or under the amended rule's terminology, "guarantee" or "demand feature").<sup> 62 </sup> A fund is not subject to the ten percent limitation with respect to the remaining twenty-five percent of its total assets ("twenty-five percent basket") if the securities held in the basket are first tier securities and the puts are issued by non-controlled persons.<sup> 63 </sup> As a result, a fund holding an ABS subject to a put from its sponsor is not able to include this investment in its twenty-five percent basket if the sponsor is in a control relationship with the special purpose entity.<sup> 64 </sup>
+
+The twenty-five percent basket is restricted to securities subject to puts from non-controlled persons in order to minimize a fund's exposure to the credit risk of a single economic enterprise and limit the aggregate exposure to the risks of related, active businesses.<sup> 65 </sup> Permitting a fund to invest more than ten percent of its total assets in an ABS subject to a demand feature or guarantee issued by a sponsor, however, would not have this effect, because the special purpose entity, unlike an active enterprise, is a limited purpose vehicle created solely for the purpose of issuing fixed income securities based on the cash flow of the qualifying assets. Therefore, the Commission proposed to amend rule 2a-7 to allow funds to treat a demand feature or guarantee from an ABS sponsor as a demand feature or guarantee from a non-controlled person. Commenters supported the proposed amendment, which the Commission is adopting as proposed.<sup> 66 </sup>
+
+<h>v. First Loss Guarantees</h>
+
+Some ABSs are supported by a guarantee that covers all losses up to an amount of expected losses likely to be experienced by the ABS. Because a fund's exposure to such a "first loss guarantee" is similar to its exposure to a guarantee of the entire security,<sup> 67 </sup> the 1996 Amendments required a fund to treat a first loss guarantor as a guarantor of the entire ABS. Commenters urged that first loss guarantees be treated similar to other fractional guarantees under the rule and raised numerous questions about the application of the provision to certain ABS structures.
+
+The Commission continues to believe that investment in an ABS subject to a first loss guarantee can potentially result in a fund being overexposed to the credit risk of the first loss guarantor. The number and nature of questions raised by the 1996 Amendments, however, have convinced the Commission that these risks are better managed by the fund's investment adviser. The Commission, therefore, is revising the rule to permit funds to treat a first loss guarantee as any other fractional guarantee when calculating compliance with the rule's guarantee and demand feature diversification standards.<sup> 68 </sup> Advisers should, however, carefully consider potential exposure to the credit risks of a first loss guarantor when evaluating whether investment in an ABS is consistent with the fund's objective of maintaining a stable net asset value.
+
+<h>c. Periodic Determinations Regarding Ten Percent Obligors</h>
+
+The 1996 Amendments required a fund to adopt written procedures requiring periodic determinations of the number of ten percent obligors deemed to be issuers of all or a portion of an ABS. The Commission is amending this requirement so that periodic determinations are not required with respect to any ABS that a fund's board of directors initially has determined will never have, or is unlikely to have, any ten percent obligors.<sup> 69 </sup> This determination may be based upon a structural analysis of the ABS or upon representations in the offering materials or governing documents of an ABS that it will never have ten percent obligors. Funds also must maintain a record of this determination.<sup> 70 </sup>
+
+<h>d. Swap Arrangements</h>
+
+The Proposing Release noted that certain ABSs may consist of qualifying assets whose cash flow has been "swapped" to a financial institution (the "swap counterparty") that ultimately acts as the primary source of payment to funds holding the ABSs (i.e., a "total return swap"). The Commission requested comment whether the swap counterparty in this instance should be treated as the issuer of the ABSs for diversification purposes and on the appropriate treatment of swaps and similar arrangements under the rule.
+
+Commenters suggested various approaches to the treatment of swaps under the rule.<sup> 71 </sup> All acknowledged, however, the difficulty of addressing swaps and similar arrangements by rule due to the constantly evolving nature of swap transactions and the wide variations in the types of swaps used to structure ABSs offerings. The Commission has determined not to amend the rule at this time to specifically address the treatment of swaps or similar arrangements. Swaps and similar arrangements that fall within the rule's definition of a guarantee or demand feature, however, should be treated as such for purposes of guarantee and demand feature diversification.<sup> 72 </sup> A fund's adviser, however, should seek to ensure that investments by the fund in securities subject to swap arrangements are consistent with rule 2a-7's overriding policy of limiting funds to investments that are consistent with maintaining a stable net asset value and do not expose the fund excessively to credit risks posed by swap counterparties.
+
+<h>4. Other Amendments to Rule 2a-7</h>
+
+<h>a. Investments in Other Money Market Funds</h>
+
+The 1996 Amendments permitted a fund ("acquiring fund") to treat an investment in another money market fund ("acquired fund") as a first tier security, but limited investment in any single money market fund to no more than five percent of fund assets. The 1996 Amendments created an exception, however, for a fund investing substantially all of its assets in shares of another money market fund in reliance on section 12(d)(1)(E) of the 1940 Act (e.g., a master-feeder arrangement).<sup> 73 </sup> The 1996 Amendments deemed this type of a fund to be in compliance with rule 2a-7's diversification standards if the acquiring fund's board of directors reasonably believed that the acquired fund is in compliance with rule 2a-7.
+
+Several commenters pointed out that, as a result of Commission exemptive orders<sup> 74 </sup> and amendments to the 1940 Act's limitations on "funds of funds" arrangements,<sup> 75 </sup> some money market funds may now invest more than five percent but less than substantially all of their assets in shares of another money market fund. The Commission is amending the rule to expand the exception to cover all investments by a fund in the shares of another money market fund in excess of the otherwise applicable issuer diversification standards.<sup> 76 </sup>
+
+Under the amended rule, shares of money market funds are considered to be first tier securities,<sup> 77 </sup> and are thus subject to the rule's issuer diversification standards with respect to first tier securities.<sup> 78 </sup> A fund may, however, within the limitations of section 12(d)(1) of the 1940 Act, invest in shares of another money market fund in excess of the rule's issuer diversification standards, but only if the acquiring fund's board of directors reasonably believes that the acquired fund is in compliance with rule 2a-7.<sup> 79 </sup>
+
+<h>b. Definition of Eligible Security -- Certain Unrated Securities</h>
+
+Under the 1996 Amendments, an unrated security that was a long-term security when issued, but had a remaining maturity of less than 397 calendar days when purchased by the fund, was an eligible security based on whether the security is comparable in quality to a rated security (i.e., one with a short-term rating), unless the unrated security had received a long-term rating from any NRSRO that was not within the three highest categories of long-term ratings. The Commission is adopting a proposed amendment to the rule permitting a fund to treat such a security as an eligible security if that security has a long-term rating from the "requisite NRSROs"<sup> 80 </sup> within the three highest rating categories.<sup> 81 </sup>
+
+<h>c. Additional Amendments</h>
+
+The Commission proposed additional amendments designed to further clarify and make technical corrections to the rule. Commenters supported the amendments, and the Commission is adopting them as follows:
+
+(i) Acquisition of Portfolio Securities. The Commission is adding the new defined term "acquisition" to make the rule more uniform in its application to fund investments and to clarify that the failure of a fund to exercise a demand feature does not have similar consequences under the rule as a decision to "rollover" commercial paper.<sup> 82 </sup>
+
+(ii) Single State Funds. The Commission is amending the definition of a "single state fund" to include a fund seeking to "maximize" the amount of income exempt from income taxes of a particular state.<sup> 83 </sup>
+
+(iii) Standby Commitments. As proposed, the Commission has deleted the term "standby commitment" and all references to that term from the rule.<sup> 84 </sup>
+
+(iv) Downgrades, Defaults, and Other Events. The Commission is amending the rule to require a fund's board of directors to reassess whether an unrated or second tier security continues to present minimal credit risks only when the fund's adviser (or other person delegated portfolio management responsibilities) becomes aware that the security has been downgraded by any NRSRO below that NRSRO's two highest short-term rating categories.<sup> 85 </sup>
+
+(v) Recordkeeping Requirements. The Commission is adding rule text inadvertently omitted from the 1996 Amendments that requires the board of directors to document minimal credit risk determinations of portfolio securities.<sup> 86 </sup>
+
+(vi) Holding Out. Using new rulemaking authority, the Commission is restating the rule's prohibition on a fund's use of names suggesting that it is a money market fund, unless it complies with rule 2a-7.<sup> 87 </sup> 
+
+<h>II. AMENDMENTS TO THE ADVERTISING RULES APPLICABLE TO MONEY MARKET FUNDS</h>
+
+The Commission is adopting amendments to the Commission's money market fund advertising rules and forms to clarify the formula used by money market funds to calculate yield and to reduce the potential for investors being misled or confused by the presentation of a money market fund's short-term total return.
+
+<h>A. Calculation of Yield</h>
+
+The Commission proposed to amend its money market fund yield formula to clarify that only investment income may be included in the yield of a money market fund. Three commenters supported the amendment; one opposed it and urged the Commission to specifically permit inclusion of non- investment income. The Commission is concerned that inclusion of non- investment income will distort yield and diminish the utility of money market fund yield to investors. The Commission, therefore, has decided to adopt the proposed amendment to the money market fund yield formula.<sup> 88 </sup>
+
+<h>B. Use of Total Return</h>
+
+The Proposing Release noted that some money market fund advertisements have used short-term total return instead of yield and expressed concern that many investors may not understand the difference.<sup> 89 </sup> The Commission proposed to amend its rules to require that total return quotations in advertisements and sales literature cover a period of at least one year, and that such quotations be accompanied by a quotation of current yield, computed in accordance with Commission rules and set forth with equal prominence.
+
+All commenters that addressed this proposal objected to the proposed requirement that total return quotations cover at least one year. They argued that the proposal would preclude total return quotations during a fund's first year and in other circumstances in which the purpose of the advertisement was other than to circumvent the Commission's yield formula. The Commission has decided not to require all money market fund total return quotations to cover a period of one year. Instead, the Commission is revising its rules to require that (i) quotations of total return be accompanied by quotations of current yield and that both quotations be placed next to each other and shown in the same size print,<sup> 90 </sup> and (ii) if there is a material difference between the quoted total return and the quoted yield, a statement that the yield quotation more closely reflects the current earnings of the fund than the total return quotation.<sup> 91 </sup> 
+
+<h>III. EFFECTIVE DATE/COMPLIANCE DATE</h>
+
+<h>A. Effective Date</h>
+
+The rule amendments adopted in this Release will become effective February 10, 1998. The Office of Management and Budget has determined that the technical amendments to rule 2a-7 are "major rules" and the amendments to the Commission's money market fund advertising rules and forms are "minor rules" under Chapter 8 of the Administrative Procedure Act,<sup> 92 </sup> which was added by the Small Business Regulatory Enforcement Fairness Act of 1996 ("SBREFA").<sup> 93 </sup> SBREFA requires all final agency rules to be submitted to Congress for review and requires generally that the effective date of a major rule be delayed for sixty days pending Congressional review. A major rule may become effective at the end of the sixty-day review period, unless Congress passes a joint resolution disapproving the rule.<sup> 94 </sup>
+
+<h>B. Compliance Dates</h>
+
+The Proposing Release requested comment whether the Commission should provide for a six-month transition period for compliance.<sup> 95 </sup> Commenters supported a six-month period to give fund boards of directors sufficient time to review and approve fund procedures. Several commenters also suggested that the "grandfathering" of certain securities provided for by the release adopting the 1996 Amendments be extended,<sup> 96 </sup> whereas one commenter opposed such extension. The Commission has decided to delay the date for compliance with the amended rule for six months and to extend the "grandfathering" of fund investments in certain securities, as described below.
+
+<h>1. General Compliance Date</h>
+
+All money market funds must be in compliance with rule 2a-7, as amended, (and with conforming amendments reflecting the revisions to rule 2a-7) by July 1, 1998, except with respect to "grandfathered securities" as provided below.<sup> 97 </sup> Funds must comply with the amendments to the advertising rules and forms applicable to money market funds by February 10, 1998.
+
+<h>2. "Grandfathered" Securities</h>
+
+To minimize disruption to funds and markets as a result of the adoption of these amendments, the Commission is "grandfathering" certain securities first issued on or before February 10, 1998 that do not meet the following requirements of the amended rule:
+
+(i) The Rating Requirement for guarantees;<sup> 98 </sup>
+
+(ii) The Notification Requirement, which provides that, in order for a security subject to a guarantee or demand feature to be an eligible security, the fund must receive notice from the demand feature or guarantee provider (or another institution) if there is a substitution of the provider of the demand feature or guarantee;<sup> 99 </sup>
+
+(iii) The requirements for ABSs regarding maturity determinations and ratings;<sup> 100 </sup> (iv) The requirement that a demand feature and a guarantee include the ability to recover principal and any accrued interest;<sup> 101 </sup> and
+
+(v) The requirement that a security subject to a conditional demand feature is an eligible security only if the fund's board of directors makes
+
+ certain determinations regarding the conditional demand feature's exercisability.<sup> 102 </sup>
+
+A fund may continue to hold these "grandfathered" securities or acquire these securities provided that they satisfy the other provisions of the rule, as amended, and are issued on or before February 10, 1998. 
+
+<h>IV. COST/BENEFIT ANALYSIS AND EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION</h>
+
+<h>A. Technical Amendments to Rule 2a-7</h>
+
+<END MAIN TEXT>
+
+1 Unless otherwise noted, all references to "rule 2a-7, as amended," or any paragraph of the rule, will be to 17 CFR 270.2a-7 as amended by this Release.
+
+2 Revisions to Rules Regulating Money Market Funds, Investment Company Act Release No. 21837 (Mar. 21, 1996) [61 FR 13956 (Mar. 28, 1996)] ("Release 21837"). Unless otherwise noted, all references to the "1996 Amendments" in this Release are to rule 2a-7 as adopted in Release 21837. The compliance date for the 1996 Amendments to rule 2a-7 was suspended pending the adoption of technical amendments. See infra note 5 and accompanying text.
+
+3 The portfolio or credit quality provisions of the rule generally limit funds to investments in U.S. dollar- denominated securities that present minimal credit risks and that are, at the time of acquisition, "eligible securities" as defined by the rule. See paragraph (c)(3) of rule 2a-7, as amended ("portfolio quality standards" or "credit quality standards"). "Eligible security" is defined in paragraph (a)(10) of rule 2a-7, as amended.
+
+4 The diversification provisions of the rule generally limit the amount of assets that a fund may invest in a single issuer of securities, and the amount of assets that may be subject to credit enhancements, such as letters of credit or puts, provided by the same credit enhancement provider. See paragraph (c)(4) of rule 2a- 7, as amended ("diversification standards").
+
+5 Revisions to Rules Regulating Money Market Funds, Investment Company Act Release No. 22135 (Aug. 13, 1996) [61 FR 42786 (Aug. 19, 1996)]. The Commission suspended the 1996 Amendments' compliance date for rules 2a-7, 2a41-1, 12d3-1 and 31a-1 under the 1940 Act. [17 CFR 270.2a-7, .2a41-1, .12d3-1 and .31a-1]. The compliance date was not suspended with respect to the adoption of rule 17a-9 under the 1940 Act [17 CFR 270.17a-9] and the 1996 Amendments' revisions of the rules and forms relating to money market fund disclosure, advertising and reporting.
+
+6 Technical Revisions to the Rules and Forms Regulating Money Market Funds, Investment Company Act Release No. 22383 (Dec. 10, 1996) [61 FR 66621 (Dec. 18, 1996)] ("Proposing Release").
+
+7 See Investment Company Institute (pub. avail. May 9, 1996).
+
+8 The comment letters and a summary of the comments prepared by the Commission staff are available to the public and are included in File No. S7-29-96.
+
+9 The new compliance date is discussed infra in Section III.B. of this Release.
+
+10 The 1996 Amendments defined a "put" as the right to sell a specified underlying security within a specified period of time at a specified exercise price that may be sold, transferred or assigned only with the underlying security. An "unconditional put" was defined as a put (including any guarantee, financial guarantee (bond) insurance, letter of credit or similar unconditional credit enhancement) that by its terms would be readily exercisable in the event of default in payment of principal or interest on the underlying security. See paragraphs (a)(16) and (a)(27) of rule 2a-7, as adopted by the 1996 Amendments.
+
+11 See Proposing Release, supra note 6, at n.7 and accompanying text.
+
+12 Under the new definition, a guarantee is any unconditional obligation of a person other than the issuer of the security to undertake to pay, upon presentment by the holder of the guarantee (if required), principal plus accrued interest when due upon default. Paragraph (a)(15) of rule 2a-7, as amended. In order to permit guarantees that are payable at any time, the Commission has eliminated a requirement in the proposed definition that the issuer of the guarantee be obligated to pay upon default "at a specified time." The Commission also is adopting amendments to the credit quality and diversification provisions of the rule to incorporate the new term "guarantee," as discussed infra in Sections I.B.1.b. and c. of this Release. The definition of "guarantee" is for purposes of rule 2a-7 only, and is not intended to have any effect on the status of these investments under other provisions of the 1940 Act or under other federal securities laws.
+
+13 See Acquisition and Valuation of Certain Portfolio Instruments by Registered Investment Companies, Investment Company Act Release No. 14983 (Mar. 12, 1986) [51 FR 9773 (Mar. 21, 1986)]. A "demand feature" means (i) a feature exercisable either: (A) at any time on no more than 30 calendar days' notice, or (B) at specified intervals not exceeding 397 calendar days and upon no more than 30 calendar days' notice; or (ii) a feature permitting the holder of an asset backed security unconditionally to receive principal and interest within 397 calendar days of making demand. An "unconditional demand feature" is a demand feature that by its terms would be readily exercisable in the event of a default in payment of principal or interest on the underlying security or securities. See paragraphs (a)(8) and (a)(26) of rule 2a-7, as amended.
+
+14 Under the 1996 Amendments, a security subject to an unconditional demand feature from a person in a control relationship with the issuer of the security (i.e., one that controls, is controlled by or under common control with the issuer) remains subject to the issuer diversification standards in order to reduce a fund's exposure to credit risks presented by a single economic enterprise. See Release 21837, supra note 2, at nn.42- 47 and accompanying text.
+
+15 Tax exempt funds, for example, typically invest in long-term adjustable rate securities subject to demand features. The interest rates on these securities periodically adjust to reflect short-term rates. The demand features permit funds to demand payment of the security at relatively short intervals, and if unconditional, also serve to enhance credit quality -- thus providing the basis for making the securities eligible for money market fund investment.
+
+16 "NRSRO" is the acronym used in rule 2a-7 to stand for a "nationally recognized statistical rating organization." See paragraph (a)(17) of rule 2a-7, as amended. NRSROs are designated as such by the Commission's Division of Market Regulation through the no-action letter process for purposes of the Commission's net capital rule [17 CFR 240.15c3-1].
+
+17 Proposing Release, supra note 6, at nn.8-16 and accompanying text.
+
+18 See paragraphs (c)(3)(iii) (determination of whether a security meets the rule's credit quality standards may be based exclusively on the credit quality of the security's guarantee); (c)(4)(i) (excluding securities subject to guarantees from non-controlled persons from the rule's issuer diversification standards); (a)(10)(iii)(A) (extending the Rating Requirement to guarantees); (a)(10)(iii)(B) (extending the Notification Requirement to guarantees); and (a)(16) (definition of "guarantee issued by a non-controlled person") of rule 2a-7, as amended. The amended rule also permits a fund that holds a security subject to a guarantee and a conditional demand feature to substitute the rating of the guarantee for the rating of the underlying security. Paragraph (c)(3)(iv)(C) of rule 2a-7, as amended. Consistent with the amended rule, however, a fund must also consider the rating of the conditional demand feature in evaluating the credit quality of the entire instrument. Paragraph (c)(3)(iv)(A) of rule 2a-7, as amended.
+
+19 Paragraph (c)(3)(iii) of rule 2a-7, as amended.
+
+20 Paragraph (c)(4)(i) of rule 2a-7, as amended. Guarantees, however, are subject to the guarantee and demand feature diversification standards of paragraphs (c)(4)(iii), (c)(4)(iv) and (c)(5) of rule 2a-7, as amended. A security subject to a guarantee that is provided by a person in a control relationship with the issuer of the security remains subject to the rule's issuer diversification standards. See paragraphs (a)(16) (definition of "guarantee issued by a non- controlled person") and (c)(4)(i) of rule 2a-7, as amended.
+
+21 Proposing Release, supra note 6, at nn.17-24 and accompanying text.
+
+22 Paragraph (a)(10)(iii)(A) of rule 2a-7, as amended. Unlike the 1996 Amendments, which required a short-term rating, the amended rule allows any rating from an NRSRO to satisfy the Rating Requirement.
+
+23 Paragraph (a)(10)(iii)(A)(1) of rule 2a-7, as amended. The Commission proposed to exclude this type of guarantee from the Rating Requirement because a guarantor that guarantees securities issued by a person in a control relationship with the guarantor may not be in the business of lending its credit, and such a requirement may be burdensome and result in a diminished supply of high quality, eligible securities available for money market fund investment.
+
+24 Paragraph (a)(10)(iii)(A)(2) of rule 2a-7, as amended. The Commission has relaxed the Rating Requirement with respect to guarantees of repos that are "collateralized fully." One commenter noted that funds often rely on unconditional puts (i.e., "guarantees" under the amended rule's terminology) with respect to "term repos" -- which are repos for periods longer than one day. The puts could be exercised if a repo counterparty's credit quality deteriorated or to cover short-term cash outflows. The issuers of unconditional puts with respect to term repos are typically government securities dealers that are not rated by NRSROs. Since a repo that is "collateralized fully" already has significant protection from the risk of a counterparty's default or insolvency, requiring puts (or guarantees) of such repos to be rated would add little additional protection, and could cause funds to forgo a beneficial method of liquidity enhancement. See infra Section I.B.2.b. of this Release (treatment of repos that are "collateralized fully").
+
+25 Paragraph (a)(10)(iii)(A)(3) of rule 2a-7, as amended; see infra Section I.B.2.e. of this Release (discussing guarantees issued by the U.S. Government).
+
+26 Paragraph (c)(5) of rule 2a-7, as amended; see also infra Section I.B.1.d. of this Release (demand features and guarantees not relied upon).
+
+27 A conditional demand feature is any demand feature that is not an unconditional demand feature. Paragraph (a)(6) of rule 2a-7, as amended.
+
+28 Paragraph (c)(5) of rule 2a-7, as amended. A fund holding securities subject to demand features or guarantees that are not being relied upon for credit quality, maturity or liquidity must establish written procedures requiring periodic re-evaluations of this determination. Paragraph (c)(9)(ii) of rule 2a-7, as amended. Funds are not required to establish procedures concerning demand features and guarantees not relied upon if they do not hold such instruments. Id.
+
+29 A "second tier security" is an eligible security that is not a first tier security. Paragraph (a)(22) of rule 2a-7, as amended. "First tier securities" are (i) securities that have received short-term debt ratings in the highest category from the requisite NRSROs; (ii) comparable unrated securities; (iii) securities issued by money market funds; and (iv) Government securities. Paragraph (a)(12) of rule 2a-7, as amended. "Requisite NRSROs" means (i) any two NRSROs that have issued a rating with respect to a security or class of debt obligations of an issuer; or (ii) if only one NRSRO has issued a rating with respect to a security or class of debt obligations of an issuer, that NRSRO. Paragraph (a)(21) of rule 2a-7, as amended.
+
+30 "Conduit securities" are issued to finance non-government projects, such as private hospitals, housing projects, or industrial development projects. See paragraph (a)(7) of rule 2a-7, as amended (definition of "conduit security").
+
+31 Paragraphs (c)(4)(i)(C)(1) and (2) of rule 2a-7, as amended. Rule 2a-7 also limits a taxable fund and a tax exempt fund to investing no more than five percent of total assets in second tier securities and second tier conduit securities respectively ("five percent quality test"). Paragraph (c)(3)(ii) of rule 2a-7, as amended (portfolio quality standards -- second tier securities). The amendments do not make substantive changes to the five percent quality test. Thus, a taxable fund, for example, could not invest more than five percent of its total assets in second tier securities subject to a second tier demand feature. The amendments, however, reorganize the rule text to include the five percent quality test in paragraph (c)(3) of the rule, which addresses portfolio quality standards, rather than paragraph (c)(4), which addresses diversification standards.
+
+32 Paragraphs (c)(4)(iii) and (c)(4)(iv) of rule 2a-7, as amended.
+
+33 Proposing Release, supra note 6, at nn.30-36 and accompanying text.
+
+34 The United States Bankruptcy Code [11 USC 559] protects certain repos from the automatic stay provision, but provides that SIPC may obtain a court order barring the closeout of repo transactions with member broker-dealer firms. As a matter of policy, however, SIPC honors repos and allows their liquidation under most circumstances. See Letter dated February 4, 1986, from Michael E. Don, Deputy General Counsel of SIPC, to Robert A. Portnoy, Deputy Executive Director and General Counsel of the Public Securities Association. FDIC, as conservator or receiver for insolvent depository institutions, similarly has the ability to avoid contracts entered into by such institutions, but may not avoid transfers of property in connection with repos under most circumstances. See 12 USC 1821(e)(8)(A),(C) and (D); FDIC Statement of Policy on Qualified Financial Contracts (Dec. 12, 1989).
+
+35 Paragraph (a)(5)(iv) of rule 2a-7, as amended. Commenters also suggested that the text of this provision refer only to applicable "federal" insolvency law. Although repos entered into by funds typically involve domestic counterparties subject to federal insolvency law, funds may enter into repos with non- U.S. counterparties that are not subject to federal insolvency laws. Therefore, the amended rule continues to apply to any applicable insolvency law.
+
+36 In addition, a money market fund must evaluate the repo counterparty's creditworthiness in order to minimize the risk that money market funds will enter into repos with parties that present a serious risk of becoming involved in bankruptcy proceedings. The Commission previously published a release setting forth the conditions under which the Division of Investment Management would not recommend enforcement action under section 12(d)(3) of the 1940 Act [15 USC 80a-12(d)(3)] (limiting fund investments in certain securities- related businesses) if an investment company entered into a repo with persons engaged in securities-related businesses. Securities Trading Practices of Registered Investment Companies, Investment Company Act Release No. 13005 (Feb. 2, 1983) [48 FR 5824 (Feb. 9, 1983)] ("Repo Release"). Among other things, the Repo Release requires that the repo be "fully collateralized." The definition of "fully collateralized" in the Repo Release does not include all of the conditions in rule 2a-7. A money market fund entering into a repo that is "collateralized fully" within the meaning of paragraph (a)(5) of rule 2a-7, as amended, will be deemed to meet the "fully collateralized" requirement of the Repo Release. Investment companies other than money market funds are not required to comply with this provision of rule 2a-7 to be deemed to hold repos that are "fully collateralized" for purposes of the Repo Release.
+
+37 Paragraph (c)(4)(ii)(B) of rule 2a-7, as amended. This "look-through" treatment would not be available to refunded securities subject to a swap agreement (i.e., the payments from the escrowed Government securities are exchanged for payments made by a swap counterparty) because the swap counterparty, rather than the escrowed Government securities, acts as the ultimate source of payment for the refunded securities. See J.P. Morgan Structured Obligations Corp. (pub. avail. July 27, 1994); see generally infra Section I.B.3.d. of this Release (swap arrangements).
+
+38 See, e.g., Standard & Poor's Municipal Finance Criteria, 176-77 (1996).
+
+39 Paragraph (a)(20)(iii) of rule 2a-7, as amended (definition of "refunded security").
+
+40 Paragraph (c)(4)(i)(A) of rule 2a-7, as amended. The three-day safe harbor is not available for single state funds. Single state funds, however, are required to be diversified only as to seventy-five percent of their assets, and so have available a twenty-five percent basket to accommodate purchases in excess of five percent of fund assets. Paragraph (c)(4)(i)(B) of rule 2a-7, as amended.
+
+41 A security guaranteed as to principal and interest by a U.S. Government agency is a "Government security" as defined in section 2(a)(16) of the 1940 Act [15 USC 80a-2(a)(16)] and paragraph (a)(14) of rule 2a-7, as amended. Investments in Government securities are excluded from the rule's issuer diversification standards because they are presumed to present little, if any, credit risks. The same rationale applies to a security guaranteed by a U.S. Government agency, which by definition also is a "Government security."
+
+42 Paragraph (c)(4)(iii) of rule 2a-7, as amended. Guarantees issued by the U.S. Government are deemed to be first tier securities. Paragraph (a)(12)(iv) of rule 2a-7, as amended (definition of "first tier security").
+
+43 A "rated security" is defined generally as (i) a security (or the issuer with respect to a comparable security) that has received a short-term rating from an NRSRO; or (ii) a security subject to a guarantee if the guarantee (or the guarantor with respect to a comparable guarantee) has received a short-term rating from an NRSRO. A security is not a rated security, however, if it is subject to an external credit support agreement that was not in effect when the security was assigned its rating, unless the security has received a short-term rating reflecting the existence of the credit support agreement, or the credit support agreement has received a short-term rating. Paragraph (a)(19) of rule 2a-7, as amended. The Commission is making conforming amendments to paragraphs (a)(10) (definition of "eligible security") and (a)(12) (definition of "first tier security") of rule 2a-7, as amended, and amending the definition of "unrated security." Under the amended definition, an "unrated security" is a security that is not a "rated security." Paragraph (a)(28) of rule 2a-7, as amended.
+
+44 For purposes of rule 2a-7's definition of "asset backed security," the term "fixed income security" has the same meaning as that term is defined in rule 3a-7(b)(2) under the 1940 Act [17 CFR 270.3a-7(b)(2)]. Rule 3a-7 excludes structured financings, such as ABSs, from the definition of "investment company."
+
+45 Paragraph (a)(3) of rule 2a-7, as amended. Paragraph (a)(3) defines "special purpose entity" as a trust, corporation, partnership or other entity organized for the sole purpose of issuing securities that entitle holders to receive payments from the cash flows of the "qualifying assets." Paragraph (a)(3) defines "qualifying assets" as either fixed or revolving financial assets that by their terms convert into cash within a finite time period.
+
+46 Paragraph (a)(10)(ii)(B) of rule 2a-7, as amended.
+
+47 Paragraph (c)(4)(ii)(D) of rule 2a-7, as amended.
+
+48 Paragraph (d) of rule 2a-7, as amended.
+
+49 A synthetic security is created typically by placing a long-term fixed rate municipal bond into a trust that issues short-term variable or floating rate securities subject to a conditional demand feature. This process effectively converts long-term fixed rate bonds into short-term variable or floating rate demand instruments that meet the rule's maturity requirements. Synthetic securities were developed to address a shortage in the supply of short-term tax exempt securities eligible for money market fund investment. See Revisions to Rules Regulating Money Market Funds, Investment Company Act Release No. 19959 (Dec. 17, 1993) [58 FR 68585 (Dec. 28, 1993)] at nn.100-05 and accompanying text ("Release 19959") (discussing the development and characteristics of synthetic securities).
+
+50 The 1996 Amendments excluded unrated ABSs from the definition of an "eligible security."
+
+51 Proposing Release, supra note 6, at nn.41-43 and accompanying text.
+
+52 Industry participants noted that when ABSs consist of a large pool of financial assets, such as credit card receivables, they may not be susceptible to conventional means of credit risk analysis because credit quality is based on an actuarial analysis of a pool of financial assets, rather than a single issuer. The credit analysis for synthetic structures and municipal pools whose qualifying assets consist of one or a few municipal issuers, however, is typically no different than that required for a security directly issued by a municipality. Since many synthetic securities are not rated, applying the ABS rating requirement to them would have restricted the available supply of ABSs suitable for money market fund investment. ABSs involving large pools of financial assets, on the other hand, are typically rated.
+
+53 Paragraph (a)(10)(ii)(B) of rule 2a-7, as amended. An ABS subject to a guarantee is not itself required to be rated. Under rule 2a-7, as amended, an ABS subject to a guarantee that has received a short-term rating is considered a "rated security." Paragraph (a)(19) of rule 2a-7, as amended. Moreover, an ABS subject to a guarantee may be determined to be an eligible security based solely on whether the guarantee is an eligible security. Paragraph (c)(3)(iii) of rule 2a-7, as amended.
+
+54 Paragraph (c)(4)(ii)(D)(1)(i) of rule 2a-7, as amended.
+
+55 Proposing Release, supra note 6, at nn.48-50 and accompanying text. The approach set forth in the Proposing Release was illustrated in materials prepared by the staff of the Division of Investment Management and made available at the 1996 ICI Conference on Money Market Fund Regulation. See Materials for 1996 ICI Conference on Money Market Fund Regulation: Asset Backed Securities and Synthetic Securities -- Application of Paragraph (c)(4)(vi)(A)(4) of Rule 2a-7 (May 9, 1996).
+
+56 Paragraphs (c)(4)(ii)(D)(1)(i) and (ii) of rule 2a-7, as amended. Under this provision, funds must "look through" to any ten percent obligor of a primary ABS, and to any ten percent obligor of a secondary ABS, and treat each such obligor as an issuer of a portion of the primary ABS. Funds need not, however, "look- through" to the qualifying assets of any ten percent obligor of a "tertiary ABS" (i.e., a ten percent obligor of a secondary ABS that is itself a special purpose entity issuing ABSs) for purposes of compliance with the rule's diversification standards. Although the rule does not specifically prohibit a multi-layered ABS designed to avoid the "look-through" to secondary ABSs, the Commission would collapse the multiple layers of such an ABS and view remote ten percent obligors as proportionate issuers for purposes of determining compliance with the rule's issuer diversification standards. The Appendix to this Release illustrates the operation of the "look-through" to secondary ABSs under the amended rule.
+
+57 This commenter further noted that compliance costs of tracking ten percent obligors may cause funds to avoid any ABS whose issuer discloses the existence of ten percent obligors. Since a large number of ABSs may be structured such that all or a significant portion of ten percent obligors are restricted special purpose entities, allowing funds to disregard these ten percent obligors would further increase the supply of desirable ABSs for money market fund investment, avert the imposition of unnecessary constraints on the asset backed commercial paper market, and expose funds to little, if any, additional risks.
+
+58 Paragraph (c)(4)(ii)(D)(2) of rule 2a-7, as amended. The amended rule provides that a restricted special purpose entity may issue its securities to other persons that control, are controlled by or are under common control with, the restricted special purpose entity if such persons are not ABS issuers.
+
+59 Paragraph (c)(4)(ii)(D)(3) of rule 2a-7, as amended. If the fund is not relying on a demand feature or guarantee of a ten percent obligor for purposes of credit quality or maturity, or for liquidity, the fund may disregard the demand feature or guarantee for all purposes. See paragraph (c)(5) of rule 2a-7, as amended.
+
+60 Proposing Release, supra note 6, at n.52 and accompanying text.
+
+61 NRSROs, prior to assigning a rating, not only analyze the quality of the assets underlying an ABS, but also conduct an independent analysis of the structural integrity of the ABS. See Release 19959, supra note 49, at nn.108-12 and accompanying text.
+
+62 Paragraph (c)(4)(iii) of rule 2a-7, as amended.
+
+63 Id. The amended rule refers to such instruments as guarantees or demand features from "non-controlled persons." See paragraphs (a)(9) and (a)(16) of rule 2a- 7, as amended. The Appendix to this Release illustrates of the operation of the twenty-five percent basket under the amended rule when securities are subject to guarantees or demand features from multiple providers.
+
+64 This may occur, for example, if an ABS sponsor owns a residual equity interest in the special purpose entity. In this case, the ABS sponsor might "control" the special purpose entity within the meaning of section 2(a)(9) of the 1940 Act [15 USC 80a-2(a)(9)]. See Proposing Release, supra note 6, at n.54 and accompanying text. An ABS sponsor may not, however, be deemed to "control" the special purpose entity under other federal securities laws or for other purposes.
+
+65 Release 21837, supra note 2, at n.73 and accompanying text.
+
+66 Paragraphs (a)(9) ("demand feature issued by a non- controlled person") and (a)(16) ("guarantee issued by a non-controlled person") of rule 2a-7, as amended. Although a guarantee provided by a person in a control relationship with the issuer of the underlying security is excluded from the Rating Requirement for guarantees, the exclusion does not apply to a sponsor-provided guarantee of an ABS under the amended rule. Thus, sponsor-provided guarantees of ABSs must be rated. Paragraph (a)(10)(iii)(A) of rule 2a-7, as amended; see also supra Section I.B.1.c. of this Release.
+
+67 The failure of a first loss guarantor covering the first ten percent of all losses likely to be incurred by an ABS is likely to have a more significant affect on the value of the ABS than the failure of a fractional guarantor supporting only a portion of any losses incurred.
+
+68 Paragraph (c)(4)(iv)(A) of rule 2a-7, as amended. ABSs also may be subject to "second loss guarantees" that guarantee a specific amount of losses in excess of losses covered by a first loss guarantee. Funds should treat second loss guarantees of ABSs in the same manner as any other fractional guarantees or demand features under the amended rule. Sponsors of ABSs may provide additional credit risk protection by structuring an offering such that the value of qualifying assets in the pool exceeds the amount of the ABS offering. For example, a $1 billion dollar ABSs offering might be collateralized by an asset pool of $1.1 billion. The $100 million of "overcollateralization" may be applied to cover any first losses incurred before drawing upon third party guarantees or other credit enhancements. Although overcollateralization would be relevant in determining whether the ABS presents minimal credit risks, this type of seller-provided credit enhancement does not fall within the rule's definition of a guarantee or demand feature and may be disregarded for purposes of the rule's diversification standards. See paragraphs (a)(8) (definition of "demand feature") and (a)(15) (definition of "guarantee") of rule 2a-7, as amended.
+
+69 Paragraph (c)(9)(iv) of rule 2a-7, as amended. The board of directors may delegate this determination, and most other determinations required by the rule, to the fund's adviser or to the officers of the fund. The board, however, may not delegate certain specific determinations required under rule 2a-7. See paragraph (e) of rule 2a-7, as amended.
+
+70 Paragraph (c)(10)(v) of rule 2a-7, as amended.
+
+71 Six commenters addressed this issue and generally suggested that a swap counterparty acting as the primary source of payment to a fund be treated as an issuer and subject to the issuer diversification standards. Most of these commenters suggested that counterparties in swaps that support or guarantee the obligations of an ABS issuer or other party to pay (but are not the sole source of payment on the ABS) be treated as guarantees subject to the guarantee and demand feature diversification standards.
+
+72 See paragraphs (a)(8), (a)(15), (c)(4)(iii) and (c)(4)(iv) of rule 2a-7, as amended.
+
+73 15 USC 80a-12(d)(1)(E).
+
+74 See, e.g., Daily Money Fund, et al., Investment Company Act Release Nos. 22285 (Oct. 16, 1996) (Order) and 22236 (Sept. 20, 1996) (Notice).
+
+75 In 1996, the 1940 Act's restrictions on fund investments in other funds were relaxed by, among other things, adding new section 12(d)(1)(G) [15 USC 80a- 12(d)(1)(G)] that excepts "affiliated" funds of funds from the restrictions of section 12(d)(1)(A) under certain conditions. See The National Securities Markets Improvement Act of 1996, Pub. L. No. 104-290, 110 Stat. 3416 (1996).
+
+76 Paragraph (c)(4)(ii)(E) of rule 2a-7, as amended.
+
+77 Paragraph (a)(12) of rule 2a-7, as amended.
+
+78 See paragraph (c)(4)(i) of rule 2a-7, as amended.
+
+79 Paragraph (c)(4)(ii)(E) of rule 2a-7, as amended. A taxable or national fund could take advantage of the three day safe harbor of paragraph (c)(4)(i)(A) and a single state fund could use its "twenty-five percent basket" under paragraph (c)(4)(i)(B) to invest up to twenty-five percent of fund assets in the securities of a single money market fund without the board making a "reasonable belief" finding, even though, in both cases, the investment would be in excess of five percent of fund assets. Under the rule, an acquiring fund that holds securities of a particular issuer ("Issuer A"), and invests in shares of an acquired fund that also holds securities of Issuer A, would not aggregate those positions to determine its compliance with the rule's diversification standards with respect to Issuer A.
+
+80 Paragraph (a)(21) of rule 2a-7, as amended (definition of "requisite NRSROs").
+
+81 Paragraph (a)(10)(ii)(A) of rule 2a-7, as amended. For example, an unrated "stub" security may have long-term ratings from three NRSROs. One of these NRSROs may give the security a long-term rating in the NRSRO's fourth highest category, which would have precluded the fund from purchasing the security before the adoption of these amendments. Under the revised rule, however, the fund may look to the other ratings and treat the security as an eligible security if the two other NRSROs have given the security long-term ratings within one of their three highest long-term rating categories. If any NRSRO has given the security (or the issuer of the security with respect to a class of debt obligations that is comparable in priority and security) a short-term rating, however, the short-term rating would override the long-term ratings and reference to long-term ratings would be unnecessary to determine whether the security was an eligible security. Long-term ratings may be relevant, however, to an evaluation of whether the issuer presents minimal credit risks under paragraph (c)(3)(i) of rule 2a-7, as amended.
+
+82 Paragraph (a)(1) of rule 2a-7, as amended.
+
+83 Paragraph (a)(23) of rule 2a-7, as amended. The effect of the amendment would be to permit this type of a fund to take advantage of the twenty-five percent basket in determining compliance with the rule's diversification standards, even if it did not primarily distribute income exempt from state income taxes. See paragraph (c)(4)(i)(B) of rule 2a-7, as amended; see also Proposing Release, supra note 6, at nn.66-68 and accompanying text.
+
+84 See Proposing Release, supra note 6, at nn.69-71 and accompanying text. Under the amended rule, a standby commitment that meets the definition of a demand feature must be treated as such. See paragraph (a)(8) of rule 2a-7, as amended (definition of "demand feature"). A standby commitment that is not a demand feature is not subject to the rule's credit quality or diversification standards.
+
+85 Paragraph (c)(6)(i)(A)(2) of rule 2a-7, as amended; see Proposing Release, supra note 6, at n.72 and accompanying text.
+
+86 Paragraph (c)(10)(iii) of rule 2a-7, as amended; see Proposing Release, supra note 6, at nn.74-75 and accompanying text.
+
+87 Paragraph (b) of rule 2a-7, as amended. The National Securities Markets Improvement Act of 1996 [Pub. L. No. 104-290, 110 Stat. 3416 (1996)] amended Section 35(d) of the 1940 Act [15 USC 80a-34(d)] to make it unlawful to adopt as a fund name or title, or as a title of fund securities, words that the Commission finds are materially deceptive or misleading, and to authorize the Commission to define names and titles deemed to be "materially deceptive and misleading."
+
+88 See Item 22 of Form N-1A [17 CFR 239.15A and 274.11A], Item 25 of Form N-3 [17 CFR 239.17a and 274.11b], and Item 21 of Form N-4 [17 CFR 239.17b and 274.11c], as amended.
+
+89 Proposing Release, supra note 6, at n.81 and accompanying text. As a result, investors may assume incorrectly that a fund quoting the higher total return figure is a better performing fund than other money market funds quoting yield. For example, during a period of declining interest rates, the fund's total return will be higher than its current yield because it will include periods of time during which the fund held higher yielding securities. In addition, investors may incorrectly assume that the higher "total return" is the yield they can expect to receive upon an investment in the fund.
+
+90 Quotations of total return and current yield in an advertisement delivered electronically must be presented together and in a manner that presents each quotation with identical prominence in light of the particular electronic medium used to transmit the advertisement.
+
+91 See paragraph (d)(2) of rule 482 under the 1933 Act, as amended [17 CFR 230.482(d)(2)]; paragraph (b)(1)(ii)(C) of rule 34b-1 under the 1940 Act, as amended [17 CFR 270.34b-1(b)(1)(ii)(C)].
+
+92 5 USC 801.
+
+93 Pub. L. No. 104-121, Title II, 110 Stat. 857 (1996). Under SBREFA, a rule is "major" if it is likely to result in (i) an annual effect on the economy of $100 million or more, (ii) a major increase in costs or prices for consumers or individual industries, or (iii) significant adverse effects on competition, investment, or innovation. 5 USC 804(2).
+
+94 5 USC 801(a)(3).
+
+95 See Proposing Release, supra note 6, at nn.84-85 and accompanying text.
+
+96 The 1996 Amendments "grandfathered" fund investments in certain securities issued on or before June 3, 1996.
+
+97 Rule 2a-7 requires a fund to meet the rule's diversification standards with respect to a particular issuer on the date the fund acquires a security of that issuer. Paragraphs (c)(4)(i) and (ii) (with respect to issuer diversification) and (c)(4)(iii) and (iv) (with respect to diversification of demand features and guarantees) of rule 2a-7, as amended. A tax exempt fund holding a greater percentage of its total assets in the securities of an issuer than the applicable diversification standard permits as of July 1, 1998 may not purchase additional securities or "roll over" current holdings until the purchase or roll over of such securities will not cause the fund to exceed the applicable diversification standards immediately after the purchase or roll over. Funds are not required to exercise puts or otherwise dispose of portfolio holdings to meet the new diversification standards.
+
+98 Paragraph (a)(10)(iii)(A) of rule 2a-7, as amended.
+
+99 Paragraph (a)(10)(iii)(B) of rule 2a-7, as amended.
+
+100 Paragraphs (a)(8)(ii) (definition of demand feature for ABSs) and (a)(10)(ii)(B) (rating requirement for ABSs) of rule 2a-7, as amended. Funds are required, however, to apply the issuer diversification standards for ABSs in accordance with Section I.B.3.b. of this Release, supra. See paragraph (c)(4)(ii)(D) of rule 2a-7, as amended.
+
+101 Paragraphs (a)(8) and (a)(15) of rule 2a-7, as amended.
+
+102 Paragraph (c)(3)(iv)(B) of rule 2a-7, as amended.
+
+103 See supra Section I.A. of this Release.
+
+104 For example, many money market funds currently do not invest in ABSs, or invest only in those ABSs that do not raise the diversification issues addressed in this Release. The Commission expects that more funds will invest in ABSs, although there is no empirical basis for predicting the size of that expected effect.
+
+105 Many of the complex money market fund instruments affected by the technical amendments are specifically designed to comply with rule 2a-7. The primary effect of the amendments will be to change how those instruments are structured, rather than to prohibit funds from investing in currently-available money market instruments. Thus, to the extent the amendments impose costs or provide benefits, these costs and benefits may be shared by funds, investors, issuers, and the investment banks or other entities that structure money market instruments.
+
+106 The technical amendments do not require additional periodic reviews. The rule's procedural requirements, including periodic reviews of certain determinations, were adopted before the proposal of the technical amendments. The costs and benefits of these procedures were analyzed previously in connection with the adoption of rule 2a-7 in 1983, and in connection with amendments to rule 2a-7 in 1986, 1991 and 1996.
+
+107 For example, the amended rule does not require periodic determinations of the number of ten percent obligors of an ABS that the board determines will never have, or is unlikely to have, ten percent obligors. See paragraphs (c)(9)(iv) and (c)(10)(v) of rule 2a-7, as amended.
+
+108 15 USC 80a-2(c).
+
+109 According to this commenter, the inability to advertise non-investment income also would have an adverse effect on competition in the industry.
+
+110 The Commission believes that it is not relevant to consider the costs to funds identified by the commenter in connection with these amendments. The amendments are intended to clarify the existing money market fund yield formula, and as noted in the Proposing Release, the existing yield formula does not permit the inclusion of non-investment income in yield. See Proposing Release, supra note 6, at n.83 and accompanying text. In addition, the Commission believes that any such costs are in fact quite limited, since it is aware of only one fund that has sought to include non-investment income in its calculation of yield.
+
+111 44 USC 3501 - 3520.
+
+112 OMB control numbers are as follows: rule 2a-7 (3235- 0268, expires Mar. 31, 2000); rule 34b-1 (3235-0346, expires Mar. 31, 2000); rule 482 (3235-0074, expires Mar, 31, 2000); Form N-1A (3235-0307, expires May 31, 2000); Form N-3 (3235-0316, expires Mar. 31, 2000); and Form N-4 (3235-0318, expires Apr. 30, 2000).
+
+113 If the board of directors takes action with respect to defaulted securities, events of insolvency or deviations in share price, however, funds must file an exhibit to Form N-SAR describing the action. This collection of information under rule 2a-7 is public and is not kept confidential by the Commission. See paragraph (c)(10)(vii) of rule 2a-7, as amended.

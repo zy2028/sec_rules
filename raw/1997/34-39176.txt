@@ -1,0 +1,311 @@
+https://www.sec.gov/rules/final/34-39176.txt
+
+	I.0.0.0: I. INTRODUCTION AND BACKGROUND
+
+	II.0.0.0: II. DISCUSSION
+
+		II.A.0.0: A. Rule 17Ad-17: Obligation to Search
+
+			II.A.1.0: 1. Definition of Lost Securityholder
+
+			II.A.2.0: 2. Transfer Agents' Search Requirements
+
+			II.A.2.a: a. Type of Search
+
+			II.A.2.b: b. Time Frames for Search
+
+			II.A.2.c: c. Exceptions to the Search Requirement
+
+			II.A.2.d: d. Assessment of Procedures
+
+			II.A.3.0: 3. Definition of Information Data Base
+
+			II.A.4.0: 4. Use of Professional Search Firms
+
+			II.A.5.0: 5. Verification of Securityholder
+
+		II.B.0.0: B. Rules 17Ad-7 and 17Ad-17: Recordkeeping Requirements
+
+		II.C.0.0: C. Rule 17a-24: Lost Securityholder Data
+
+	III.0.0.0: III. REGULATORY FLEXIBILITY ANALYSIS
+
+	IV.0.0.0: IV. COSTS AND BENEFITS OF THE RULES AND THEIR EFFECTS ON COMPETITION, EFFICIENCY, AND CAPITAL FORMATION
+
+	V.0.0.0: V. PAPERWORK REDUCTION ACT
+
+	VI.0.0.0: VI. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+17 CFR Parts 240 and 249 [RELEASE NO. 34-39176; File No. S7-21-96] RIN 3235-AG99 
+
+LOST SECURITYHOLDERS 
+
+AGENCY: Securities and Exchange Commission 
+
+ACTION: Final Rule 
+
+SUMMARY: The Securities and Exchange Commission is adopting Rule 17Ad-17 and Rule 17a-24 under the Securities Exchange Act of 1934. Rule 17Ad-17, which is designed to address the problem of "lost securityholders," requires transfer agents to conduct searches in an effort to locate lost securityholders. Rule 17a-24, which is designed to assist the Commission in monitoring the effects of Rule 17Ad-17, requires transfer agents to file information on lost securityholders with the Commission. The rules are designed to reduce the number of lost securityholders. 
+
+EFFECTIVE DATE: 240.17Ad-17 and 240.17Ad-7(i) will be effective [Insert date 60 days after publication in the Federal Register] and 240.17a-24 and 249b.102, the amendments to Form TA-2 will be effective [Insert date 120 days after publication in the Federal Register]. 
+
+FOR FURTHER INFORMATION CONTACT: Jerry W. Carpenter, Assistant Director; Christine Sibille, Senior Counsel; Jeffrey Mooney, Attorney; or Theodore Lazo, Attorney at 202/942-4187, Office of Risk Management and Control, Mail Stop 5-1, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549. 
+
+SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. INTRODUCTION AND BACKGROUND</h>
+
+Transfer agents serve as the custodians of securityholder records, including records of securityholders' addresses, for issuers. In this capacity, transfer agents frequently are responsible for disseminating shareholder communications and dividend and interest payments. For various reasons, transfer agents occasionally have outdated or incorrect addresses for some securityholders ("lost securityholders").<sup> 1 </sup> As a result, these shareholders do not receive dividend and interest payments to which they are entitled. Generally, issuers retain custody of such dividend and interest payments, and if contact is not reestablished with a securityholder prior to the expiration of the appropriate state's escheat period, the issuer must turn the securityholder's assets over to the state unclaimed property administrator. While various transfer agents attempt to locate lost securityholders, the extent and type of efforts used vary considerably from one transfer agent to another.<sup> 2 </sup> The Securities and Exchange Commission ("Commission") believes that establishing minimum search requirements in this area will facilitate locating lost securityholders.
+
+On August 22, 1996, the Commission issued for comment a release ("Proposing Release")<sup> 3 </sup> proposing Rule 17Ad-17<sup> 4 </sup> and Rule 17a-24<sup> 5 </sup> under the Securities Exchange Act of 1934 ("Exchange Act") and proposing amendments to Rule 17Ad-7,<sup> 6 </sup> which were designed to address the problem of lost securityholders. Proposed Rule 17Ad-17 would require that transfer agents exercise reasonable care, including conducting data base searches, in an effort to locate lost securityholders.<sup> 7 </sup> The proposed amendment to Rule 17Ad-7 set forth the retention time periods for the records relating to compliance with proposed Rule 17Ad-17. Proposed Rule 17a-24 would have required certain entities that hold assets for others (e.g., transfer agents and broker-dealers) to file annually with the Commission a list of the social security numbers of all lost securityholders contained in their records. The Proposing Release also requested comment on whether either the Commission or a private entity should create and operate a lost securityholder data base.
+
+The Commission received 57 comment letters from 52 commenters in response to the Proposing Release.<sup> 8 </sup> The commenters in general expressed support for proposed Rule 17Ad-17 although several commenters expressed concerns about specific provisions of the proposed rule. The commenters in general expressed concern about proposed Rule 17a-24. The Commission is adopting Rule 17Ad-17 substantially as proposed but with some modifications to reflect commenters' views and is amending Rule 17Ad-7 as proposed. The Commission is adopting proposed Rule 17a-24 with substantial revisions and is making related changes to Form TA-2.<sup> 9 </sup> In addition, the Commission has directed its staff to review the operations of the adopted rules after three years and to report back to the Commission on its findings.
+
+<h>II. DISCUSSION</h>
+
+<h>A. Rule 17Ad-17: Obligation to Search</h>
+
+As adopted, Rule 17Ad-17 requires that transfer agents exercise reasonable care to ascertain the correct addresses of all lost securityholders in their records. At a minimum, transfer agents must conduct two searches using an information data base. In addition, transfer agents may not use any service designed to locate their lost securityholders that results in a charge to a securityholder until after the two data base searches have been conducted.
+
+<h>1. Definition of Lost Securityholder</h>
+
+Rule 17Ad-17 generally defines a "lost securityholder" as a securityholder to whom an item of correspondence that was sent to the securityholder at the address in the transfer agent's master securityholder file has been returned as undeliverable.<sup> 10 </sup> However, if a transfer agent re-sends the returned item to the securityholder within one month, the transfer agent has the option to delay classifying the securityholder as lost for purposes of Rule 17Ad-17 until the item is again returned to the transfer agent as undeliverable. If and when a transfer agent receives a new address for a lost securityholder, either directly from the securityholder or through the transfer agent's own efforts, the securityholder will no longer be classified as lost. Under the definition as proposed, a securityholder would have been classified as lost only after two separate items of correspondence mailed at least three months apart had each been returned as undeliverable. Commenters in general were opposed to a requirement that three months elapse between the mailing of two undeliverable items of correspondence, stating that this approach would increase costs by requiring transfer agents to initiate new coding mechanisms.<sup> 11 </sup> In addition, some commenters stated that continuing to mail distributions to an incorrect address increases risk of loss. Commenters also noted that the proposed definition of lost securityholder could result in long delays before some shareholders are defined as lost.<sup> 12 </sup>
+
+The Commission believes that the revised definition produces a more consistent result as to when shareholders are classified as lost.<sup> 13 </sup> In addition, the Commission understands that some transfer agents have internal procedures whereby they promptly remail returned correspondence because they have found such remailing procedures to be beneficial in reducing the number of lost securityholders.<sup> 14 </sup> Therefore, the revised definition gives transfer agents flexibility to delay coding a securityholder as lost until after the remailed item is returned as undeliverable. In addition, the Commission is making minor technical amendments to the proposed definition of lost securityholder. For example, to take into account future developments in the methods used to disseminate shareholder communications, the rule no longer refers to returned correspondence that were "sent by first class mail."
+
+<h>2. Transfer Agents' Search Requirements</h>
+
+<h>a. Type of Search</h>
+
+Rule 17Ad-17 requires every recordkeeping transfer agent whose master securityholder file includes accounts of lost securityholders to search for such securityholders' current address using at least one information data base. The transfer agent's search for a lost securityholder must be based on the taxpayer identification number ("TIN") or on the name of the lost securityholder if a search based on TIN is not reasonably likely to locate the lost securityholder.
+
+As originally proposed, the search could be based on a securityholder's name if such a search was reasonably likely to locate the lost securityholder. Commenters were divided as to the advisability of such provision. While most commenters agreed that TIN searches are more effective, some commenters argued that transfer agents should have the flexibility to search by name when advisable (e.g., when the TIN is missing or incomplete). By revising the requirement to permit name searches only when a TIN search is not reasonably likely to locate the lost securityholder (e.g., when the TIN is missing or incomplete), the Commission believes transfer agents are afforded sufficient flexibility to conduct the most effective search.
+
+<h>b. Time Frames for Search</h>
+
+The rule as adopted also differs from the proposal with respect to the time frames in which the searches must be conducted. As proposed, a transfer agent would have had to conduct a search within three months of a securityholder being classified as lost. If after the first search the securityholder had continued to be classified as lost, the proposal would have required another search between 12 and 18 months after the initial search. Many commenters suggested that conducting an initial search three months after a securityholder was classified as lost was too soon for the data bases to be updated, and that conducting a second search between 12 and 18 months after the first search was too long a period from loss of contact.
+
+As adopted, a transfer agent must conduct the initial search between three and 12 months of a securityholder being classified as lost.<sup> 15 </sup> If the lost securityholder is not found, the transfer agent must conduct a second search between six and 12 months after the initial search.<sup> 16 </sup> The second search is intended to take advantage of address changes that may have been added to the data base after the initial search. The transfer agent must conduct these searches without charge to a lost securityholder.
+
+Under the proposed rule, the time in which transfer agents would have been required to conduct the first search would have depended on the frequency of mailings associated with an issue. (The first search would have had to be conducted between three and 15 months after the return of the first correspondence based on whether the issue had quarterly or annual mailings.)<sup> 17 </sup> Because the timing of the search requirements would have been dependent upon the frequency of issuers' mailings, commenters noted that transfer agents would not have had much flexibility in determining when to search for lost securityholders.
+
+Under the adopted rule, the first search must be conducted between three to 12 months after the first correspondence is returned. However, unlike the proposed rule, transfer agents may search at any time during this period. As a result, transfer agents' search requirements are triggered within basically the same time frames whether there are quarterly or annual mailings, but transfer agents will be better able to use their discretion as to the most appropriate time to conduct the searches. Additionally, this revision may permit transfer agents to conduct more cost-effective searches by allowing transfer agents to bundle together many lost securityholders for submission to a data base service which should lower internal costs and increase the likelihood that transfer agents will qualify for volume discounts from data base services.
+
+<h>c. Exceptions to the Search Requirement</h>
+
+In the Proposing Release, the Commission requested comment on whether the requirement to search for lost securityholders should apply only when a lost securityholder's account contained assets over some de minimis amount.<sup> 18 </sup> Many commenters agreed that transfer agents should not be required to expend funds to search for a lost securityholder when the cost of a search could exceed the amount in the securityholder's account. Although varying de minimis amounts were suggested, most commenters favored a de minimis threshold of $100 per account.
+
+The Commission believes that there should be a de minimis exception from the search requirements that will allow transfer agents to forgo searches that would not be cost-effective. Based on what the Commission understands to be the low cost of data base searches,<sup> 19 </sup> the Commission is amending the proposed rule to permit transfer agents to exclude from the search requirements any lost securityholder when the value of all dividend, interest, and other payments due to the securityholder plus the value of all assets listed in the lost securityholder's account is less than $25. The Commission believes that this exemption will reduce the economic impact of the rule on transfer agents while still affording sufficient protection to securityholders.<sup> 20 </sup>
+
+In the Proposing Release, the Commission noted that data base searches generally are considered a cost-effective way to locate lost securityholders. The Commission requested comment on the potential effectiveness of the rule in addressing the lost securityholder issue. The request was intended to elicit comment on situations where data base searches would not be an appropriate method of locating lost securityholders. One commenter requested that exemptions from the search requirement be created for certain categories of securityholders that will not be reached through an electronic data base search, specifically any lost securityholder (1) whose last known address is outside of the United States; (2) whose account has a missing or incomplete TIN; (3) which is not a natural person (e.g., a corporation); or (4) who is known to be deceased.
+
+Based on this request and on additional research into the capabilities of existing commercial data bases, the Commission has decided to create an exemption from the search requirements for securityholders for whom the transfer agent has received documentation of their death<sup> 21 </sup> and an exemption for securityholders which are not natural persons. The Commission understands that the data bases relied upon by most transfer agents do not contain information on estates or heirs and that there is no automated method by which such information can be obtained.<sup> 22 </sup> Securityholders which are not natural persons likewise cannot be located easily through the use of information data bases and comprise a minuscule percentage of the total amount of lost securityholders.
+
+The Commission is not adopting the other suggested exemptions because data base searches for those categories of lost securityholders could in many cases be effective. For example, although the Commission understands that most data bases currently do not contain the names of individuals living outside of the United States, it is possible that a securityholder with a foreign last known address was only temporarily living out of the country and that a data base search will provide an updated domestic address.
+
+With respect to the commenter's request for an exemption for securityholders with missing or incomplete TINs, the adopted rule permits transfer agents to conduct a search based on a lost securityholder's name when a search based on a TIN is not reasonably likely to locate a lost securityholder. Therefore, the Commission also believes that no exemption should be created for accounts with missing TINs.
+
+<h>d. Assessment of Procedures</h>
+
+In the Proposing Release, the Commission requested comment on whether the rule should include (1) a requirement that transfer agents periodically assess the effectiveness and appropriateness of the search procedures and technology they employ, and/or (2) a requirement that transfer agents' search procedures meet a performance standard based on success in locating lost securityholders. Most commenters that addressed the issue generally did not support adopting a strict application of this requirement. For example, some commenters believe that transfer agents should not have an absolute requirement to locate a certain percentage of their shareholders because the results of the searches frequently were outside of their control. While the adopted rule does not specifically contain such requirements, the Commission believes that transfer agents should bear these concepts in mind in determining whether they have met their obligation to exercise reasonable care under Rule 17Ad-17(a). For example, if a transfer agent is using a data base service that routinely fails to locate any or that locates only a very small percentage of lost securityholders, the transfer agent should evaluate whether the use of such service constitutes the exercise of reasonable care.
+
+<h>3. Definition of Information Data Base</h>
+
+As proposed, Rule 17Ad-17 would have defined an information data base as any automated data base service that (1) contains addresses of U.S. residents, including addresses in the geographic area in which the lost securityholder's last known address is located, (2) covers a reasonably broad geographic area, (3) is indexed by TIN or by name, and (4) is updated at least four times a year. The Commission has revised the definition based on commenters' suggestions. The first requirement has been revised to require that the data base contain addresses from the entire United States. The second requirement has been revised to require that the data base contain names of at least 50% of the U.S. adult population. The third requirement also has been revised to clarify that an information data base must be indexed by TINs if a TIN search is used or by name if a name search is used. The fourth requirement is adopted as proposed. The revisions are intended to preclude the use of a data base that contains a small number of names but covers a broad geographic area or one that contains a large number of names but covers only a small geographic area.
+
+The Commission also is adopting an alternative standard that will provide flexibility to transfer agents in fulfilling their obligations to search for lost securityholders. The alternative will permit transfer agents to use any service to locate lost securityholders if that service produces comparable results to the information data base described above. As part of their obligation to maintain records discussed below, a transfer agent relying on this alternative would be required to develop written procedures documenting and describing the alternative service used.
+
+<h>4. Use of Professional Search Firms</h>
+
+The Proposing Release discussed the current practice of some transfer agents to use professional search firms that charge a lost securityholder a fee for locating the lost securityholder's assets. As proposed and as adopted, Rule 17Ad-17 will prohibit a transfer agent from using any service to locate a securityholder that results in a charge to the securityholder until after the two data base searches required by the rule have been conducted. While a few commenters argued against the proposed prohibition, many commenters supported the provision with some arguing for additional restrictions.
+
+Although the more extensive search techniques employed by professional search firms may locate some securityholders that the data base searches will not locate, the charges of such firms can cost a securityholder a significant portion of his or her assets. The Commission believes that transfer agents should make efforts (i.e., the search provisions of Rule 17Ad-17(a)(1)) to locate lost securityholders before permitting services to charge them for reuniting them with their assets. Therefore, the Commission is adopting Rule 17Ad-17(a)(2) as proposed to delay transfer agents' use of professional search firms where the charge is assessed to the securityholder until after a transfer agent has completed two searches under Rule 17Ad-17.<sup> 23 </sup>
+
+<h>5. Verification of Securityholder</h>
+
+In order to guard against delivery of distributions to an incorrect recipient, the Commission recommended in the Proposing Release that transfer agents should verify that the person at the newly obtained address is in fact its account holder before disbursing securities or funds. One commenter expressed concern that requiring a transfer agent to confirm a securityholder's identity may restrict the transfer agent's ability to correct its master securityholder file because some shareholders may fail to return verification forms. The language in the Proposing Release was not intended to mandate a particular procedure. Instead, it was intended to highlight the need for transfer agents to use care prior to disbursement of securityholder funds. Prior to disbursing funds or to updating their master securityholder files, transfer agents should determine whether such action is appropriate based on all relevant factors.
+
+<h>B. Rules 17Ad-7 and 17Ad-17: Recordkeeping Requirements</h>
+
+Rule 17Ad-17 requires that all recordkeeping transfer agents maintain records to demonstrate their compliance with the requirements under the rule. Paragraph (i) is being added to Exchange Act Rule 17Ad-7 to require that transfer agents maintain the records required by Rule 17Ad-17 for a period of not less than three years and that transfer agents maintain these records in an easily accessible place during the first year.<sup> 24 </sup>
+
+In the Proposing Release, the Commission suggested that transfer agents document the date each securityholder is classified as lost and the date the data base searches are conducted. One commenter interpreted this discussion to be a requirement that such dates be recorded on each lost securityholder's individual account record. This commenter stated that this requirement could require costly systems upgrades and that transfer agents instead should be allowed to demonstrate that data base searches have been conducted by referencing procedures that are in place and that reasonably assure that the searches are conducted on a timely basis. The language in the Proposing Release was not intended to specify the recordkeeping method to be used by transfer agents. Rather it was intended to provide flexibility to transfer agents to create systems that adequately demonstrate compliance with Rule 17Ad-17. However, the Commission does not believe that referencing procedures without any specific documentation demonstrating that searches have been appropriately conducted is adequate.
+
+The Commission also is adding language to Rule 17Ad-17 to clarify that transfer agents must maintain written procedures on how they will comply with the rule. The amendment to the rule is intended to give transfer agents more guidance on what the minimum recordkeeping requirements are while still providing flexibility to determine the most efficient method of demonstrating compliance with the requirements of the rule.
+
+<h>C. Rule 17a-24: Lost Securityholder Data</h>
+
+In the Proposing Release, the Commission also discussed the creation of a data base that would contain information (e.g., TINs) on all lost securityholders. Proposed Rule 17a-24 would have required certain entities that hold assets for others (e.g., transfer agents and broker-dealers) to file annually with the Commission a list of the TINs of all lost securityholders contained in their records. The Commission also requested comment on whether the Commission or its delegee should create and operate a lost securityholder data base or whether the Commission should release the information it received under Rule 17a-24 to the public to permit private entities to create data bases.
+
+Most commenters were opposed to the creation of a lost securityholder data base. Many commenters believed that the data base would result in a loss of privacy for securityholders. Other commenters suggested that the data base could result in fraudulent claims. Finally, some commenters opined that the data base would be of limited utility because it would require that securityholders take the initiative to discover whether they had any unclaimed assets.
+
+In response to concerns expressed by commenters, the Commission has determined to adopt proposed Rule 17a-24 with revisions that will only require the reporting of certain aggregate data. As noted in the Proposing Release, the Commission believes that there is a need to gather data on lost securityholders in order to obtain better information as to the extent to which lost securityholders are not receiving assets to which they are entitled and to assess the effectiveness of search techniques employed by transfer agents.<sup> 25 </sup> Similar to the proposed rule, the final rule will require each recordkeeping transfer agent to file annually with the Commission information on lost securityholders contained in the transfer agent's records.<sup> 26 </sup> However, the Commission has determined to require transfer agents to submit only aggregate data regarding the accounts of lost securityholders instead of the individual data that would have been required by proposed Rule 17a-24. This aggregate information would have been available by totaling the information that would have been required by proposed Rule 17a-24 or currently is readily accessible by transfer agents.
+
+Specifically, the Commission is revising proposed Rule 17a-24 to require registered transfer agents to disclose the aggregate number of lost securityholder accounts as of June 30 of each year and the percentage of total accounts represented by such lost securityholder accounts. These figures would be reported for specified periods of time: one year or less, three years or less, five years or less, or greater than five years.<sup> 27 </sup> The Commission also is requiring information on lost securityholder accounts that escheat to state unclaimed property administrators on an annual basis. To facilitate the reporting of this information, the Commission is amending Exchange Act Form TA-2,<sup> 28 </sup> the annual report of registered transfer agents. The Commission believes that this will be the least burdensome and most efficient way for transfer agents to comply with the revised rule.
+
+The Commission believes that revised Rule 17a-24 is preferable to the rule as proposed at this time. The aggregate information required by the adopted rule should, as a result of Rule 17Ad-17, be readily available to transfer agents. Moreover, the collection of aggregate data, rather than taxpayer identification numbers or other personal data, ameliorates privacy concerns raised by some commenters. In addition to not requiring individual data, the revised rule will enable the Commission to better monitor the effectiveness of Rule 17Ad-17 over time and determine whether additional measures are necessary to find lost securityholders. Finally, the Commission has narrowed the scope of the rule. Unlike the proposed rule which would have applied to any recordkeeping broker-dealer or transfer agent, as adopted Rule 17a-24 applies only to recordkeeping transfer agents. The Commission believes that a narrower focus is preferable at this time.
+
+<h>III. REGULATORY FLEXIBILITY ANALYSIS</h>
+
+The following discussion summarizes the Commission's Final Regulatory Flexibility Analysis ("FRFA") in accordance with the Regulatory Flexibility Act ("RFA")<sup> 29 </sup> in connection with Rule 17Ad-17, Rule 17a-24, and the related amendments to Rule 17Ad-7 adopted today. A complete copy of the FRFA may be obtained by contacting Theodore Lazo, Attorney, Division of Market Regulation, U.S. Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549 at 202/942-4187.
+
+The FRFA explains both the need for and the objectives of the rules adopted by the Commission. As set forth in greater detail in the FRFA, the adopted rules will establish minimum standards for all transfer agents with respect to lost securityholders and may help the Commission to monitor the effectiveness of these standards. The FRFA further explains that the Commission believes that imposing an affirmative obligation on transfer agents to search for lost securityholders is in the public interest and will enhance investor protection.
+
+The FRFA also (i) summarizes the significant issues raised by public comments in response to the Commission's Initial Regulatory Flexibility Analysis ("IRFA"), (ii) summarizes the Commission's assessment of such issues, and (iii) states any changes made in the proposed rules as a result of such comments. As noted in the FRFA, none of the comment letters received related directly to the IRFA, but seven commenters supplied data on the costs of proposed Rule 17Ad-17.<sup> 30 </sup> As discussed in the FRFA, the Commission believes that most of this cost data is overstated because it includes costs not created by the rule. The Commission also believes that the revisions to proposed Rule 17Ad-17 (e.g., the extended time frames for conducting searches and the exceptions to the search requirements) will eliminate any excess costs of compliance with the rule that commenters contended would arise. The FRFA also notes that Rule 17a- 24 has been revised to minimize the costs to all transfer agents.
+
+The FRFA also provides a description of and an estimate of the number of small entities to which the rule will apply. The FRFA states that the Commission estimates that 413 registered transfer agents qualify as "small entities" and will be subject to the requirements of the rule.
+
+As required by the RFA, the FRFA describes the projected reporting, recordkeeping, and other compliance requirements of the rule and includes an estimate of the classes of small entities that will be subject to the requirements and the type of professional skills necessary for preparation of the reports or records. As discussed above, Rule 17Ad-17 does not require any specific type of recordkeeping other than that which is necessary to demonstrate compliance with the rule, including establishing written procedures with respect to compliance with the rule. The FRFA states that the Commission believes that Rule 17Ad-17 as adopted provides sufficient flexibility for all transfer agents, including transfer agents which are small entities, to maintain records in the most cost-effective manner. The FRFA also states that the Rule 17a-24 as adopted will require transfer agents to report aggregate data regarding their lost securityholder accounts and that the Commission believes that such records will be readily available to transfer agents.
+
+The FRFA also describes the steps the Commission has taken to minimize the significant economic impact on small entities consistent with the stated objectives of applicable statutes (e.g., alternative standards for small entities). As discussed further in the FRFA, the Commission has amended proposed Rule 17Ad-17 to provide additional flexibility to all transfer agents, including smaller transfer agents. In addition, the Commission has attempted to devise the most reasonable and simplest approach that would afford transfer agents an effective means to reduce the number of lost securityholders. The FRFA further explains that the Commission requested comment on the adoption of a requirement that transfer agents use search techniques based on their periodic assessment or a requirement that transfer agents' search procedures meet a performance based standard. In light of the comments received on the issue, the Commission is not adopting a periodic assessment requirement or a performance based standard. However, the Commission has revised the proposed rule to permit transfer agents to use any combination of services to locate lost securityholders that provides a comparable result to an information data base.
+
+As detailed in the FRFA, the Commission has decided not to create an exception to Rule 17Ad-17 for small entities. The FRFA explains that the Commission believes that any increased costs incurred by small entities because of the rule will be reasonable and are justified by the necessity to ensure that all securityholders receive the same level of investor protection. While the Commission has decided not to create an exception to the rule for small entities, the adopted rule does provide a de minimis exception for lost securityholders whose accounts hold assets of less than $25. The Commission believes that small transfer agents will likely rely on the de minimis exception more than large transfer agents.<sup> 31 </sup>
+
+With respect to Rule 17a-24, the FRFA notes that the Commission has amended the proposed rule to reduce the reporting burden on all transfer agents and to minimize the complexity and operational burden of the requirements. Finally, the Commission states that any increased costs are justified by the need to monitor the effectiveness of Rule 17Ad-17.
+
+Based on the analysis contained in the FRFA, the Commission believes that the adopted rules will not adversely affect small entities and include sufficient regulatory flexibility for compliance to minimize the impact on small entities. The FRFA is available for public inspection in File No. S7-21-96, and a copy may be obtained by contacting Theodore Lazo, U.S. Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 5-1, Washington, D.C. 20549.
+
+<h>IV. COSTS AND BENEFITS OF THE RULES AND THEIR EFFECTS ON COMPETITION, EFFICIENCY, AND CAPITAL FORMATION</h>
+
+Section 23(a)(2) of the Exchange Act<sup> 32 </sup> requires the Commission, in adopting rules under the Exchange Act, to consider the competitive effects of such rules and to make a determination whether any burden on competition is necessary or appropriate in furthering the purposes of the Exchange Act. Furthermore, Section 3 of the Exchange Act<sup> 33 </sup> as amended by the recently enacted National Securities Markets Improvement Act of 1996 ("Markets Improvement Act")<sup> 34 </sup> provides that whenever the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission also shall consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+The Commission has considered Rule 17Ad-17 and Rule 17a-24 in light of the standards cited in Sections 3 and 23(a)(2) of the Exchange Act and believes that for the reasons stated herein, the adoption of the rules will (i) promote efficiency for securityholder recordkeeping by subjecting all transfer agents to the same flexible rules governing searches for lost securityholders and reporting information to the Commission related to such searches, (ii) not adversely affect capital formation because it relates solely to post-issuance activity, and (iii) not impose any burden on competition not necessary or appropriate in furtherance of the Exchange Act.
+
+In the Proposing Release, the Commission stated its view that the proposed Rule 17Ad-17 would not have a significant impact on transfer agent competition. All transfer agents will be subject to the same specified minimum standard for reasonable care in attempting to locate securityholders with whom contact has been lost. As discussed below, the cost of compliance with the proposed rule is minimal, and for many transfer agents that currently conduct securityholder searches using an information data base, the proposed rule will impose no additional cost. Because a transfer agent's cost of compliance generally is based upon the number of securityholders it must attempt to locate, transfer agents, regardless of their size, should incur comparable relative costs in exercising comparable care. On average, compliance costs should be roughly proportional to the number of securityholder records maintained by the transfer agent.
+
+One commenter stated that the rule as proposed could have an anticompetitive effect because the costs could cause additional transfer agents to abandon an already contracting market. However, this commenter did not provide any detail as to the burden created by the rule or why such burden should disproportionately affect certain transfer agents. The Commission believes that the rule as adopted has been drafted so as to provide the maximum flexibility to transfer agents to meet their obligations in the most cost-effective manner possible. After careful consideration of the commenter's views, the Commission has determined that Rule 17Ad-17 will not impose any burden on competition not necessary or appropriate in furtherance of the Exchange Act.
+
+In the Proposing Release, the Commission estimated compliance costs to the industry of approximately $750,000, based on an estimated cost of $3.00 per account and a total estimated 250,000 lost securityholder accounts. Based on more recent data obtained from several large transfer agents, the Commission has revised its cost estimate per account to $3.38 the first year and $1.79 per account in the following years. Significantly, based on its most recent information, the Commission now believes that there may be as many as 3 million lost securityholder accounts. Due primarily to this change in estimated lost securityholder accounts, the Commission's revised estimate of the aggregate costs to the industry are one time compliance costs of $4.6 million and annual compliance costs of $5.2 million.
+
+The Commission received seven comment letters that provided specific cost estimates. One commenter estimates (assuming one search and match) that the cost of locating an account will be approximately $6.00, which includes out-of-pocket postage, staff, and computer time. A second commenter states that vendor prices for data base searches may vary widely and that the actual cost per account will range from $5.00 to $12.00.<sup> 35 </sup> A third commenter estimates an aggregate cost of as much as $4.75 for each lost securityholder and total initial programming costs of $150,000.<sup> 36 </sup> Two commenters estimate that charges from firms for data base searches range from $2.00 per account to approximately $1.00 per account for tape files. Another commenter anticipates that the costs of complying with the rule will exceed $100,000 in additional labor costs together with software and hardware costs each year. Another commenter estimates that the cost per account for using an information data base ranges from less than $.10 when using a CD ROM to as much as $1.70 to use a third party vendor data base.
+
+The Commission believes that the estimates higher than the Commission's estimate of $3.38 per lost account overstate the costs involved because the figures include expenses not related to the rule or which are required already as a part of the transfer agent's duties (e.g., the cost of shareholder mailings). Furthermore, the Commission believes that compliance with the rule as it is being adopted will not require transfer agents to incur any substantial costs with respect to additional labor, hardware, or software because the rule's requirements regarding coding securityholders as lost are consistent with current state escheatment laws. Such state laws also require transfer agents to be able to produce information on lost securityholders for annual filings with the state, and therefore transfer agents' computer systems currently should be capable of producing lists of lost securityholders to provide to the data bases. Thus, the Commission believes that transfer agents' current computer systems should not require significant changes in order to comply with the rule.
+
+Further, the Commission has amended the proposal so as to lower the cost of compliance with the rule. For example, the Commission has created a de minimis exception to the rule because searches for accounts with lesser values would not produce as great a benefit (i.e., the cost of locating such securityholders would be a much larger percentage of the assets to be returned). In addition, the Commission has amended the rule to be more consistent with current state law requirements by eliminating the requirement that three months elapse between two mailings prior to coding a securityholder as lost. Accordingly, the Commission is retaining its estimate of $3.38 per account in the first year and $1.79 per account in the following years.
+
+The Commission believes that the cost of the rule will be outweighed by its benefits. The rule will create a uniform standard applicable to all transfer agents thus ensuring that all investors have the opportunity to be reunited with their assets.<sup> 37 </sup> In addition, the rule will guarantee that transfer agents make at least two attempts to locate lost securityholders before forwarding names to a search firm that may result in substantial charges to the securityholder. Thus, the rule should help investors recover a greater percentage of their assets.
+
+Based on comments received, the Commission believes that the number of lost securityholders compared to total accounts held by transfer agents is small, approximately 1.34%. However, the actual dollar amount of those assets can be significant. The Commission believes that the total value of assets held in accounts coded as "lost" may in fact exceed $450 million.<sup> 38 </sup>
+
+The Commission believes that Rule 17Ad-17 mandates a cost-effective means for locating lost securityholders. Because of the de minimis exception, transfer agents are not required to search for lost securityholders unless their accounts are worth $25 or more. The Commission believes that the rate of success for data base searches is at least 60%.<sup> 39 </sup> Thus, even if every account of lost securityholders was worth only $25, the rule would provide an average benefit of $15 per lost securityholder account (i.e., 60% of $25). This estimated benefit is larger than any commenter's estimate of the per account cost of data base searches.<sup> 40 </sup> Furthermore, because the value of many accounts will exceed $25, the Commission expects that the actual benefit will be higher.
+
+The Commission has considered the substantial likely benefits that investors will receive from adoption of the rule and the additional cost the rule will impose on transfer agents. The Commission has decided to adopt the rule given the lack of consistent standards currently in effect with respect to lost securityholders and the relatively minor cost per account imposed by the rule. In consideration of cost, the Commission has designed the final rule to give transfer agents maximum flexibility to comply with the rule's requirements and to minimize their search and recordkeeping expenses.
+
+Rule 17a-24 as adopted differs from the proposed rule. Because the adopted rule requires that information be reported on a form that all transfer agents subject to the rule are required to file, the rule should not create an additional filing burden. In addition, the information that the reporting transfer agents must file should be currently available to such transfer agents.<sup> 41 </sup> Thus, because the rule should not create any significant costs to transfer agents, the Commission has determined that Rule 17a-24 will not impose any burden on competition not necessary or appropriate in furtherance of the Exchange Act.
+
+In addition, the Commission believes that the benefits of the rule justify the costs. The benefits of the rule are to provide the Commission with information to determine whether transfer agents are more successful in locating lost securityholders and, therefore, whether Rule 17Ad-17 is effective. The costs of compliance with Rule 17a-24 should be limited to the costs involved in compiling the information required to be reported once a year.
+
+<h>V. PAPERWORK REDUCTION ACT</h>
+
+As set forth in the Proposing Release, Rule 17Ad-17 and Rule 17a-24 contain collections of information within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<sup> 42 </sup> Accordingly, the collection of information requirements contained in the rules and related amendments were submitted to the Office of Management and Budget ("OMB") for review and were approved by OMB which assigned the following control numbers: Rule 17Ad-17, control number 3235-0469; and Rule 17a-24, control number 3235- 0470.<sup> 43 </sup> The collection of information requirements are in accordance with Section 3507 of the PRA.<sup> 44 </sup> An agency may not conduct or sponsor and a person is not required to respond to a collection of information unless the agency displays a valid OMB control number.
+
+The collections of information under Rule 17Ad-17, Rule 17a-24, and Rule 17Ad-7 are mandatory. As described in more detail above and in the Proposing Release, the collections of information are necessary to enable recordkeeping transfer agents, as the usual custodians of the records that determine the ownership of securities and the entitlement to corporate distributions, to reduce significantly the number of lost securityholders and for the Commission to monitor compliance with the rule. The Commission may review this information during periodic examinations or with respect to investigations. The records required to be filed with the Commission and any records required to be kept pursuant to these rules that are requested by and submitted to the Commission will be kept confidential to the extent permitted by the Freedom of Information Act<sup> 45 </sup> and the Privacy Act of 1974.<sup> 46 </sup>
+
+Based upon further review of the disclosure and recordkeeping changes required by Rule 17Ad-7, the Commission is retaining its burden estimates for the collection of information under that rule. Thus, the description and estimated burden of the collection of information requirement under Rule 17Ad-7 have not changed and are set forth in the Proposing Release.
+
+Originally, the Commission estimated compliance costs of Rule 17Ad-17 to the industry of approximately $750,000, based on an estimated cost of $3.00 per account and a total estimated 250,000 lost securityholder accounts. Based on comments received questioning the Commission's original burden estimate, the Commission obtained more recent data from several large transfer agents. As a result, the Commission has revised its cost estimate per account to $3.38 the first year and $1.79 per account in the following years. Significantly, based on its most recent information, the Commission now believes that there may be as many as 3 million lost securityholder accounts. Due primarily to this change in estimated lost securityholder accounts, the Commission's revised estimate of the aggregate costs to the industry are one time compliance costs of $4.6 million and annual compliance costs of $5.2 million.
+
+Due to the changes in Rule 17a-24 as adopted and the corresponding changes on Form TA-2, the Commission will be resubmitting its collection of information requirement to OMB for review and approval.
+
+<h>VI. STATUTORY BASIS</h>
+
+<END MAIN TEXT>
+
+1 For example, some securityholders do not provide a new address when they move.
+
+2 See Securities Exchange Act Release No. 37595 (August 22, 1996), 61 FR 44249 (release proposing Rule 17Ad-17 and Rule 17a-24), note 13 (discussing the methods transfer agents currently use to locate lost securityholders).
+
+3 Id. The Commission later extended the comment period contained in the Proposing Release. Securities Exchange Act Release No. 37949 (November 15, 1996), 61 FR 59046 (extending comment period).
+
+4 17 CFR 240.17Ad-17.
+
+5 17 CFR 240.17a-24.
+
+6 17 CFR 240.17Ad-7.
+
+7 The Proposing Release also discussed transfer agents' obligations under Rule 17Ad-10 to maintain and keep current accurate master securityholder files (defined below in note 10), which include information such as securityholders' names and addresses. The Proposing Release concluded that maintaining accurate master securityholder files is one of the most basic steps in addressing the lost securityholder problem. The Commission believes that conducting data base searches for lost securityholders pursuant to Rule 17Ad-17 will enhance a transfer agent's fulfillment of its responsibilities under Rule 17Ad-10.
+
+8 The Commission received comment letters from eighteen transfer agents, five trade associations representing transfer agents, five individuals, three corporations, one broker-dealer, two professional search firms, and eighteen government entities. A summary of comments has been prepared by the staff of the Division of Market Regulation. The summary is included along with the comment letters in Public File No. S7-21-96, which is available for inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, N.W., Washington, D.C. 20549.
+
+9 Form TA-2 is referenced in 17 CFR 249b.102.
+
+10 "Master securityholder file" is defined in Rule 17Ad- 9(b) as the official list of individual securityholder accounts.
+
+11 The Proposing Release noted that the three month period was intended to give transfer agents time to receive any delayed change of address notifications prior to having to conduct searches.
+
+12 For example, if an issue does not pay dividends or interest, the only securityholder correspondence may be the annual report. In such an instance, a securityholder would not have been classified as lost until a year after the first correspondence had been returned as undeliverable.
+
+13 The revised definition avoids situations where securityholders of issues with quarterly mailings would have been defined as lost three months after a correspondence was first returned as undeliverable while securityholders of issues with only annual mailings would not have been defined as lost until a year after a correspondence was first returned as undeliverable.
+
+14 Transfer agents have found that some items are returned as a result of the deliverer's error rather than an incorrect address and that remailing will result in the securityholder receiving the item.
+
+15 As discussed in the Proposing Release, the Commission encourages transfer agents to take immediate steps upon learning a shareholder's address may not be correct. Proposing Release, note 16. The Proposing Release discusses several techniques that, while not required by the rule, may be beneficial in reducing the number of lost securityholders for which the transfer agent must search. Proposing Release, note 13.
+
+16 Demonstrated below are time frames in which the second search would need to be conducted depending upon when the first search occurred.
+
+17 Between three to 12 months would have elapsed between the first and second returned items of correspondence, and the first search would have had to be conducted within three months after the return of the second item of correspondence.
+
+18 In calculating this amount, all assets in that account for which the transfer agent maintains records are included regardless of whether the transfer agent is actually in possession of the property. Therefore, the value of the assets in the securityholder's account includes dividends, interest, and other payments due to the securityholder and the value of any underlying assets (e.g., the value of securities owned by the shareholder as shown on the transfer agent's records).
+
+19 Refer to Section IV below for a discussion of the cost of data base searches.
+
+20 Some commenters stated that for efficiency reasons some transfer agents will search for all lost securityholders.
+
+21 Such documentation may consist of a report received from an information data base.
+
+22 The Commission has been informed that in the future some information data bases may be updated to include beneficiary data. If a low cost method of determining a deceased's beneficiary becomes available, the Commission may reexamine the application of search requirements to this category of securityholder.
+
+23 Because a professional search firm that charges a fee to the transfer agent rather than to lost securityholders could qualify as an information data base search under the rule, professional search firms could be used to satisfy the transfer agent's search obligation under Rule 17Ad-17.
+
+24 Rule 17Ad-7 sets forth the lengths of time and the methods by which transfer agents must maintain the records which they are required to keep pursuant to Exchange Act Rules 17Ad-6, 17f-2, and 17Ad-17.
+
+25 61 FR at 44252-44253.
+
+26 61 FR at 44253.
+
+27 The Commission requested comment in the Proposing Release on whether the filing requirement should include information concerning the length of time securityholders have been lost. 61 FR at 44253.
+
+28 Pursuant to Exchange Act Rule 17Ac2-2, registered transfer agents are required to file an annual report on Form TA-2 by August 31 of each calendar year. 17 CFR 240.17Ac2-2.
+
+29 5 U.S.C. 601-612.
+
+30 The cost data that the Commission received is discussed more fully in Section IV below.
+
+31 The Commission understands that small transfer agents tend to provide services to issuers with smaller prices per share. On occasion, when shareholders sell their positions, they fail to completely close out their account. As a result, they may leave an account holding only a few shares or the most recent dividend payment. Because a few shares of a smaller issuer is more likely to be under the de minimis amount than a few shares of a larger issuer, the Commission believes that the de minimis exception may be more beneficial to small transfer agents. Some large transfer agents also have stated that because it is more cost efficient to search for all of their lost securityholders than to segregate out the small accounts, they probably will not use the exemption.
+
+32 15 U.S.C. 78w(a)(2).
+
+33 15 U.S.C. 78c.
+
+34 Pub. L. No. 104-290,  106, 110 Stat. 3416 (1996).
+
+35 The commenter's estimates include the cost of the data base search itself plus such items as system processing expenses to generate the search and to receive the matched file from the data base vendor; printing and mailing expenses; handling and other related charges for returned items; and expenses for replacement of uncashed checks and lost securities.
+
+36 The estimate of $4.75 is based on postage, data base charges, and an increase in processing staff by two full time positions. Currently, this commenter conducts periodic searches for its lost securityholders.
+
+37 Some transfer agents currently attempt to locate lost securityholders, but the extent and type of efforts used vary greatly among transfer agents. In some cases, transfer agents forward the names of lost securityholders directly to professional search firms, in which case the securityholder must pay a fee to regain its assets. In other cases, the transfer agent searches for lost securityholders only if the searches are authorized and paid for by the issuer.
+
+38 The data cited in this paragraph is based on a limited informal survey of several large transfer agents.
+
+39 The Commission staff contacted several transfer agents to obtain an estimated success rate. Only one of the transfer agents contacted currently uses data base searches to find lost securityholders. That transfer agent, which has been conducting searches on a monthly basis for over a year, stated that its success rate using data base searches is never less than 75% and sometimes is as high as 94%. For purposes of the cost- benefit analysis, the Commission is assuming a 60% success rate in order to be conservative.
+
+40 One commenter stated that the per account cost could be as high as $12.00. However, as discussed above, the Commission believes that this estimate includes many costs not created by the rule. Also, as noted above, the Division of Market Regulation estimates the average cost of data base searches required by the rule will total only $3.38 per account in the first year and $1.79 per account in the following years.
+
+41 Transfer agents must record which of their securityholders are lost and the date that such securityholders become lost in order to comply with state escheatment laws.
+
+42 44 U.S.C. 3501 et seq.
+
+43 Rule 17Ad-7 was previously submitted to OMB, which approved the rule and assigned the following control number 3235-0136.
+
+44 44 U.S.C. 3507.
+
+45 5 U.S.C. 552.
+
+46 5 U.S.C. 552a.

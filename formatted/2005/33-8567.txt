@@ -1,0 +1,661 @@
+https://www.sec.gov/rules/final/33-8567.pdf
+
+I.0.0.0 BACKGROUND
+
+	I.A.0.0 Increasing Use of International Financial Reporting Standards
+
+	I.B.0.0 Proposed Amendments to Form 20-F
+
+	I.C.0.0 Comments Received
+
+	I.D.0.0 Summary of the Final Amendments to Form 20-F
+
+II.0.0.0 DISCUSSION OF THE AMENDMENTS TO PERMIT OMISSION OF IFRS FINANCIAL STATEMENTS FOR THE THIRD FINANCIAL YEAR
+
+	II.A.0.0 Eligibility Requirements
+
+	II.B.0.0 Primary Financial Statements
+
+		II.B.1.0 IFRS Financial Statements
+
+		II.B.2.0 Condensed U.S. GAAP Financial Information
+
+		II.B.3.0 Previous GAAP Financial Statements
+
+	II.C.0.0 Selected Financial Data
+
+	II.D.0.0 Operating and Financial Review and Prospects
+
+	II.E.0.0 Other Disclosures
+
+		II.E.1.0 Business and Derivatives Disclosure
+
+		II.E.2.0 Disclosure Pursuant to Industry Guides
+
+	II.F.0.0 Financial Statements and Information for Interim Periods during the Transition Year in Registration Statements, Prospectuses and Other Filings
+
+		II.F.1.0 Exchange Act Reporting
+
+		II.F.2.0 Financial Information in Securities Act Registration Statements and Prospectuses and Initial Exchange Act Registration Statements Used Less Than Nine Months after the Financial Year End
+
+		II.F.3.0 Financial Statements in Securities Act Registration Statements and Prospectuses and Initial Exchange Act Registration Statements Used More Than Nine Months after the Financial Year End
+
+			II.F.3.a The Previous GAAP Option
+
+			II.F.3.b The IFRS Option
+
+			II.F.3.c The U.S. GAAP Condensed Information Option
+
+			II.F.3.d The Case-by-Case Option
+
+	II.G.0.0 Issuers Using IFRS as Adopted by the European Union
+
+III.0.0.0 DISCLOSURES ABOUT FIRST-TIME ADOPTION OF IFRS
+
+	III.A.0.0 Disclosure about Exceptions to IFRS
+
+	III.B.0.0 Reconciliation from Previous GAAP
+
+IV.0.0.0 PAPERWORK REDUCTION ACT ANALYSIS
+
+	IV.A.0.0 Background
+
+		IV.A.2.0 “Form F-1” (OMB Control No. 3235-0258);
+
+		IV.A.3.0 “Form F-2” (OMB Control No. 3235-0257);
+
+		IV.A.4.0 “Form F-3” (OMB Control No. 3235-0256); and
+
+		IV.A.5.0 “Form F-4” (OMB Control No. 3235-0325).
+
+	IV.B.0.0 Burden and Cost Estimates Related to the Accommodation
+
+		IV.B.1.0 Form 20-F
+
+		IV.B.2.0 Form F-1
+
+		IV.B.3.0 Form F-2
+
+		IV.B.4.0 Form F-3
+
+		IV.B.5.0 Form F-4
+
+	IV.C.0.0 Burden and Cost Estimates Related to the Disclosure about First-Time Adoption of IFRS
+
+		IV.C.1.0 Form 20-F
+
+		IV.C.2.0 Form F-1
+
+		IV.C.3.0 Form F-2
+
+		IV.C.4.0 Form F-3
+
+		IV.C.5.0 Form F-4
+
+	IV.D.0.0 New Burden Estimates
+
+V.0.0.0 COST-BENEFIT ANALYSIS
+
+	V.A.0.0 Expected Benefits
+
+	V.B.0.0 Expected Costs
+
+VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+VII.0.0.0 PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS
+
+VIII.0.0.0 STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 249
+
+[RELEASE NOS. 33-8567; 34-51535; INTERNATIONAL SERIES RELEASE NO. 1285; File No. S7-15-04]
+
+RIN 3235-AI92
+
+FIRST-TIME APPLICATION OF INTERNATIONAL FINANCIAL REPORTING STANDARDS
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final amendment to form.
+
+SUMMARY: The Commission is adopting amendments to Form 20-F to provide a one- time accommodation relating to financial statements prepared under International Financial Reporting Standards (“IFRS”) for foreign private issuers registered with the SEC. This accommodation applies to foreign private issuers that adopt IFRS prior to or for the first financial year starting on or after January 1, 2007.
+
+The accommodation permits eligible foreign private issuers for their first year of reporting under IFRS to file two years rather than three years of statements of income, changes in shareholders' equity and cash flows prepared in accordance with IFRS, with appropriate related disclosure. The accommodation retains current requirements regarding the reconciliation of financial statement items to generally accepted accounting principles as used in the United States (“U.S. GAAP”).
+
+In addition, the Commission is amending Form 20-F to require certain disclosures of all foreign private issuers that change their basis of accounting to IFRS.
+
+EFFECTIVE DATE: May 20, 2005.
+
+FOR FURTHER INFORMATION CONTACT: Michael D. Coco, Special Counsel, Office of International Corporate Finance, Division of Corporation Finance, at (202)
+
+942-2990, U.S. Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0302, or Susan Koski-Grafer, Office of the Chief Accountant, at
+
+(202) 942-4400, U.S. Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1103.
+
+SUPPLEMENTARY INFORMATION: The Commission is amending Form 20-F <sup>1</sup> under the Securities Exchange Act of 1934 (the “Exchange Act”). <sup>2</sup> Form 20-F is the combined registration statement and annual report form for foreign private issuers <sup>3</sup> under the Exchange Act. It also sets forth disclosure requirements for registration statements filed by foreign private issuers under the Securities Act of 1933 (the “Securities Act”). <sup>4</sup> The Commission issued a proposing release relating to these amendments on March 11, 2004. <sup>5</sup>
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+<h>A. Increasing Use of International Financial Reporting Standards</h>
+
+Under the leadership of the International Accounting Standards Board (“IASB”), over recent years IFRS has become widely recognized by preparers and users of financial statements. As a result, numerous non-U.S. companies, including many that are registered with the SEC, are voluntarily choosing to switch from their home countryaccounting principles to IFRS. In addition, an increasing number of jurisdictions around the world are adopting or incorporating IFRS as their basis of accounting, as a result of which a large number of issuers registered with the SEC will switch to IFRS from their Previous GAAP. <sup>6</sup> For example, in June 2002, the European Union (“EU”) adopted a regulation requiring companies incorporated under the laws of one of its Member States and whose securities are publicly traded within the EU to prepare their consolidated financial statements for each financial year <sup>7</sup> starting on or after January 1, 2005 on the basis of accounting standards issued by the IASB. <sup>8</sup> In accordance with these requirements, listed EU companies not currently using IFRS must convert from the existing national accounting standards to IFRS, as endorsed by the European Union, no later than 2005. <sup>9</sup> Other countries, including Australia, also have adopted similar requirements by incorporating IFRS as or into their own standards for periods beginning after January 1, 2005.
+
+Foreign private issuers that register securities with the SEC, and that report on a periodic basis thereafter under Section 13(a) or 15(d) of the Exchange Act, <sup>10</sup> are generally required to present, in their annual reports and registration statements filed with the SEC, audited statements of income, changes in shareholders' equity and cash flows for each of the past three financial years, prepared on a consistent basis of accounting. <sup>11</sup> These issuers also are generally required to present selected financial data covering each of the past five financial years. <sup>12</sup>
+
+<h>B. Proposed Amendments to Form 20-F</h>
+
+At the beginning of year 2003, <sup>13</sup> the IASB had not finalized some of the IFRS that many foreign private issuers will be required to apply retrospectively when they adopt IFRS for the first time for year 2005. The Commission recognized that compliance with SEC requirements could be difficult and burdensome for foreign issuers switching to IFRS, because these issuers would have to implement accounting standards that were notyet finalized during the reporting period to which they must be applied. In response to this concern, the Commission issued a proposal to amend Form 20-F to provide an accommodation to foreign private issuers that were switching to IFRS prior to 2007. <sup>14</sup> The proposals were intended to facilitate the transition of foreign companies to IFRS and to improve the quality of their financial disclosure. The proposed amendments to Form 20-F also required certain disclosures from foreign private issuers that change their basis of accounting to IFRS during any year. This disclosure relates to certain mandatory and elective accounting treatments that an issuer may use in applying IFRS for the first time and the reconciliation from Previous GAAP to IFRS required by IFRS.
+
+<h>C. Comments Received</h>
+
+In response to this proposal, the Commission received 33 comment letters from representatives of foreign issuers, accounting firms, professional associations, investor associations and regulators. <sup>15</sup> While all of the commenters supported reducing the burden on foreign issuers that change their basis of accounting to IFRS, most commenters addressed to varying degrees the questions raised in the Proposing Release and suggested modification to the amendments as proposed. The issues that generated the most discussion were the following:the proposed time frame during which the accommodation would be available to a first-time adopter of IFRS;the definition of “first-time adopter” for purposes of determining eligibility to rely on the accommodation;the need for an unqualified statement of compliance with IFRS by an issuer seeking to rely on the accommodation, particularly with regard to standards that had not been endorsed by the EU;the proposed inclusion of condensed U.S. GAAP information for three years;the need for guidance relating to disclosure under Industry Guide 3 or 6 from companies that rely on the proposed accommodation;the presentation of financial statements for interim periods during the Transition Year; <sup>16</sup> andthe proposed disclosure about the use of exceptions to IFRS by a first-time adopter.
+
+<h>D. Summary of the Final Amendments to Form 20-F</h>
+
+The Commission is adopting a new General Instruction G to Form 20-F to allow an eligible foreign private issuer to omit from SEC filings for its first year of reporting under IFRS the earliest of the three years of financial statements. In response to many of the commenters’ concerns, the amendments as adopted differ in some respects from the amendments as proposed. In this release the Commission is:making the accommodation available to companies that adopt IFRS as their basis of accounting prior to or for the first financial year starting on or after January 1, 2007;clarifying that, except as discussed in the next point, the accommodation is available only to a foreign private issuer that states unreservedly and explicitly that its financial statements comply with IFRS and are not subject to any qualification relating to the application of IFRS as issued by the IASB;permitting the accommodation to be available to a foreign private issuer that prepares its financial statements in accordance with IFRS as adopted by the EU if the issuer provides an audited reconciliation to IFRS as published by the IASB;not requiring condensed U.S. GAAP information from companies that rely on the accommodation;clarifying that companies subject to Industry Guide 3 or 6 should provide Industry Guide Information under IFRS for periods covered by their IFRS financial statements, with U.S. GAAP or Previous GAAP information for earlier years;for purposes of complying with Item 8.A.5 of Form 20-F relating to interim period financial statements required to be included in registration statements and prospectuses during the Transition Year, permitting issuers to present IFRS financial statements covering interim periods, subject to certain conditions; andclarifying that first-time adopters of IFRS need not provide quantified numerical information on the financial significance of any exceptions from IFRS on which they rely.
+
+In many areas, the Commission is giving first-time adopters significant flexibility by not prescribing specific formats, disclosures, legends, or language to be used in the presentation of IFRS financial statements. For example, companies are permitted (but not required) to include Previous GAAP financial information or financial statements, and arepermitted to determine the appropriate information content and presentation format for the Previous GAAP-IFRS reconciliation required under IFRS 1. The Commission believes a flexible approach is appropriate because of the large number of foreign private issuers from several countries that will be first-time adopters and the wide variety of circumstances these issuers will encounter in making the transition from Previous GAAP to IFRS. Issuers should assess the information needs of their shareholders and the investment community at large and should provide meaningful, reliable and transparent information in connection with their implementation of IFRS.
+
+The Commission reminds issuers of their responsibilities under the federal securities laws to provide investors with information that is not misleading. <sup>17</sup> In addition, as with all disclosure and accounting matters involving companies that make filings under the Securities Act or the Exchange Act, the SEC staff may comment on such matters.
+
+<h>II. DISCUSSION OF THE AMENDMENTS TO PERMIT OMISSION OF IFRS FINANCIAL STATEMENTS FOR THE THIRD FINANCIAL YEAR</h>
+
+<h>A. Eligibility Requirements</h>
+
+The Commission is adopting an amendment to Form 20-F to allow an eligible foreign private issuer for its first year of reporting under IFRS to file two years rather than three years of statements of income, shareholders’ equity and cash flows prepared in accordance with IFRS.
+
+Annual Reports. A foreign private issuer is eligible to exclude IFRS financial statements for the third financial year from an Annual Report on Form 20-F if (1) the annual report relates to the first financial year starting on or after January 1,2007 or an earlier financial year, (2) the issuer adopts IFRS for the first time by an explicit and unreserved statement of compliance with IFRS, <sup>18</sup> and (3) the audited financial statements for the financial year to which the annual report relates are prepared in accordance with IFRS.
+
+Registration Statements. A foreign private issuer is eligible to exclude IFRS financial statements for the third financial year from a registration statement under the Securities Act or the Exchange Act if (1) the most recent audited financial statements required by Item 8.A.2 of Form 20-F are for the first financial year starting on or after January 1, 2007 or an earlier financial year, (2) the issuer adopts IFRS for the first time by an explicit and unreserved statement of compliance with IFRS, and (3) the audited financial statements for the most recent financial year are prepared in accordance with IFRS.
+
+These adopted eligibility requirements differ from the proposed requirements, which would have permitted a foreign private issuer that is a first-time adopter of IFRS to omit IFRS financial statements for the third-year back from an annual report for a financial year that begins no later than January 1, 2007 or from a registration statement for which the most recent financial statements are for a financial year that begins no later than January 1, 2007.
+
+Many commenters noted that under the amendments as proposed an issuer that was eligible to defer its adoption of IFRS until 2007 under the EU Regulation would not have been eligible to rely on the accommodation unless it had a financial calendar year-end. <sup>19</sup> They also commented that the proposed deadline would create difficulties for companies with a 52/53 week financial year, which may start later than January 1.
+
+The accommodation as adopted has been broadened and is available to a foreign private issuer that adopts IFRS prior to or for its first financial year starting on or after January 1, 2007. This approach matches the extended compliance period under the EU Regulation. Under this approach, an issuer that, for example, has a September 30 financial year-end could switch to IFRS for its financial year from October 1, 2007 to September 30, 2008 and would be eligible to apply the accommodation when filing its Form 20-F Annual Report with the SEC by March 2009. <sup>20</sup>
+
+Commenters also pointed out that an issuer that previously claimed compliance with IAS could be considered a first-time adopter under IFRS 1 if it did not include an explicit and unreserved statement of compliance with IFRS in its most recent published annual financial statements. For example, an issuer that had prepared financial statements under IAS in prior years and then in later years switched back to home country GAAP would be considered a first-time adopter under IFRS 1 but would not have been eligible for the accommodation as proposed.
+
+The Commission has clarified that the accommodation as adopted is available to a foreign private issuer that is a “first-time adopter.” The adopted definition of first-time adopter in Form 20-F is consistent with that under IFRS 1. This approach is intended to avoid situations in which an issuer could be a first-time adopter under IFRS 1 but wouldbe ineligible to rely on the accommodation because it had prepared its financial statements in accordance with IAS for an earlier financial year.
+
+Commenters also expressed concern over the ability of issuers to make an unreserved and unqualified statement of compliance with IFRS if the EU had not fully endorsed all of the IFRS standards by the time the issuer produced its financial statements. This concern related both to the EU endorsement of existing standards as well as to the endorsement of any future standards that the IASB may adopt for companies that adopt IFRS in later years. Other commenters pointed out that Australia is adopting IFRS into Australian GAAP which, they asserted, would fully encompass IFRS. As a result, the financial statements of Australian companies would refer to compliance with Australian GAAP and not necessarily to IFRS.
+
+As adopted, except as described in Section II.G for EU issuers, an issuer is eligible to rely on the accommodation only if it can state unreservedly and explicitly that its financial statements comply with IFRS as published by the IASB, and if its audited financial statements are not subject to any qualification, including qualification relating to the application of IFRS. In addition, the issuer’s independent auditor would be required to opine without qualification on compliance with IFRS. A foreign private issuer that had not complied with all IFRS in effect as published by the IASB would not be able to make the required unreserved statement of compliance with IFRS and would not be eligible to rely on the accommodation the Commission has adopted. <sup>21</sup>
+
+Some countries may adopt IFRS by incorporating them into their home country standards. Australia, for example, has taken this approach. For purposes of eligibility torely on the accommodation, an Australian issuer would need to assert its compliance with both IFRS and Australian GAAP. <sup>22</sup>
+
+Some commenters noted that the proposal did not address whether an issuer that has published audited IFRS financial statements for the third financial year should include them in its SEC filings. If an issuer has voluntarily published audited IFRS financial statements for the third financial year, or has been required to do so pursuant to other regulations, then the burdens associated with including those financial statements in SEC filings would appear low. In addition, the Commission believes investors should have access to those financial statements in SEC filings. As a result, the adopted amendments require that an issuer that has published audited IFRS financial statements for three years include all three years of IFRS financial statements in its SEC filings.
+
+Some commenters recommended that, for the same reasons for which it applies to foreign private issuers that file securities documents under the Securities Act and Exchange Act, the accommodation should be extended to the financial statements of entities prepared under Rules 3-05, 3-09, 3-10, and 3-16 of Regulation S-X. <sup>23</sup> The Commission views the adopted amendments as applying to those financial statements, provided that the entities meet the definition of foreign business in Rule 1.02(l) of
+
+Regulation S-X. <sup>24</sup> The Commission similarly views the amendments as applying to the financial statements of a target company in a business combination transaction included in a Securities Act registration statement on Form S-4 <sup>25</sup> or Form F-4 <sup>26</sup> or a proxy or information statement under the Exchange Act. <sup>27</sup>
+
+<h>B. Primary Financial Statements</h>
+
+<h>1. IFRS Financial Statements</h>
+
+With respect to the consolidated financial statements and other financial information required by Item 8.A of Form 20-F, the Commission is adopting the amendments as proposed to allow eligible foreign private issuers for their first year of reporting under IFRS to present in their SEC filings during that year only two years of audited IFRS financial statements instead of three years. Eligible companies are permitted to omit audited financial statements for the earliest of the three years when providing the financial statements required by Item 8.A.2. All instructions to Item 8, including instructions requiring audits in accordance with U.S. generally accepted auditing standards will continue to apply. <sup>28</sup> Commenters did not raise concerns with these aspects of the amendments.
+
+<h>2. Condensed U.S. GAAP Financial Information</h>
+
+The Commission proposed amending Form 20-F to require companies that present two years of IFRS financial statements in their SEC filings also to present, as part of their U.S. GAAP reconciliation, audited condensed U.S. GAAP information for three years in a level of detail consistent with that required by Article 10 of Regulation S-X for interim financial statements. Under the amendments as adopted, issuers relying on the accommodation will not be required to provide this condensed U.S. GAAP information.
+
+Commenters had diverging views on the proposal. Some commenters supported the proposal to require three years of condensed U.S. GAAP information in order to have three-year trend information that would be beneficial to investors without being unduly burdensome to issuers. Other commenters claimed that the cost and burden to issuers of preparing condensed U.S. GAAP information would outweigh the benefits to investors. One commenter noted that the preparation of condensed U.S. GAAP information would create an unnecessary burden to companies because investors would have available a reconciliation from Previous GAAP to U.S. GAAP and a reconciliation from IFRS to
+
+U.S. GAAP, which would allow them to sufficiently assess U.S. GAAP trend information on a three-year basis. After evaluating the benefits in relation to the expected costs, the Commission is not adopting the proposal to require the presentation of condensed U.S. GAAP information. Companies relying on the accommodation will
+
+GAAS in audit reports relating to financial statements of issuers and instead to refer to the “standards of the Public Company Accounting Oversight Board (United States).” See “Commission Guidance Regarding the Public Company Accounting Oversight Board’s Auditing and Related Professional Practice Standard No. 1,” Release No. 33-8422 (May 14, 2004).continue to be required to provide an audited reconciliation to U.S. GAAP for the two years of financial statements prepared in accordance with IFRS. <sup>29</sup>
+
+<h>3. Previous GAAP Financial Statements</h>
+
+The Commission is adopting amendments that will allow but not require any issuer that switches to IFRS to include, incorporate by reference, or refer to Previous GAAP financial information. These amendments are adopted as proposed. Issuers that elect to include or incorporate by reference financial information prepared in accordance with Previous GAAP must include or incorporate narrative disclosure of its operating and financial review and prospects under Item 5 of Form 20-F for the reporting periods covered by Previous GAAP financial information.
+
+The proposing release solicited comment on the presentation of Previous GAAP information. The amendments as adopted do not prescribe the specific placement of any Previous GAAP information, although the adopted amendments prohibit its presentation in a side-by-side columnar format with IFRS information. The Commission believes this will help to avoid potential confusion and inappropriate comparisons between the two.
+
+An issuer that includes, incorporates by reference or refers to Previous GAAP selected financial data or financial information in an SEC disclosure document must also include appropriate cautionary language with respect to that data to avoid inappropriate comparison with information presented under IFRS. Issuers electing to include or incorporate Previous GAAP financial information must disclose, at an appropriate prominent location, that the filing contains financial information based on the issuer’s Previous GAAP, which is not comparable to financial information based on IFRS. Theamendments as adopted do not specify particular legends or language that should be used by issuers that include or incorporate Previous GAAP information. The Commission believes that appropriate language may vary depending on the use made of Previous GAAP information.
+
+Commenters expressed wide support for the proposal to permit but not require Previous GAAP information, with appropriate labels and legends. There was more divergence on the issue of its format and location. The Commission believes a flexible approach is best suited to allowing an issuer to determine the format and placement of Previous GAAP information based on its use.
+
+<h>C. Selected Financial Data</h>
+
+The Commission is adopting the amendments as proposed to permit first-time adopters to provide, pursuant to Item 3.A of Form 20-F, selected financial data based on IFRS for the two most recent financial years. First-time adopters that present two years of IFRS selected financial data would continue to be required to provide five years of selected data based on U.S. GAAP, unless the instructions to Item 3.A permit the issuer to provide U.S. GAAP data for a shorter time. <sup>30</sup> The amendments neither require nor prohibit inclusion, incorporation by reference or reference to selected financial data presented on the basis of Previous GAAP, although as with the audited financial
+
+U.S. GAAP information. This accommodation is not affected by these amendments.statements, Previous GAAP information should not be presented in a side-by-side columnar format with IFRS information. <sup>31</sup>
+
+The Commission did not receive extensive comment on the proposal as it relates to selected financial data. One commenter noted that the proposal did not appear to reflect the Commission practice of allowing an issuer to build up to a five-year presentation of selected financial data, and could appear to suggest that a full five years of IFRS selected financial data would be required in the years following an issuer’s first time adoption of IFRS. The Commission notes the amendments do not affect the ability of an issuer to rely on the Instruction to Item 3.A. in years subsequent to becoming a first-time adopter of IFRS, thereby allowing that issuer to build up to a five-year history of selected financial data based on IFRS.
+
+<h>D. Operating and Financial Review and Prospects</h>
+
+The Commission is adopting as proposed an instruction in new General Instruction G to Form 20-F to clarify how issuers should present their disclosure under Item 5 of Form 20-F relating to operating and financial review and prospects. The adopted instruction specifies that in providing that disclosure, management should focus on the IFRS financial statements from the past two financial years, as well as the reconciliation to U.S. GAAP for the same two financial years. The discussion also should explain any differences between IFRS and U.S. GAAP that are not otherwise discussed in the reconciliation and that the issuer believes are necessary for anunderstanding of the financial statements as a whole. <sup>32</sup> Management should not include in this section any discussion relating to financial statements prepared in accordance with Previous GAAP.
+
+<h>E. Other Disclosures</h>
+
+<h>1. Business and Derivatives Disclosure</h>
+
+The Commission is adopting as proposed an instruction in new General Instruction G to Form 20-F to clarify that for companies preparing their financial statements under IFRS, the reference to accounting principles in Item 4, “Information on the Company,” refers to IFRS and not to either Previous GAAP or U.S. GAAP. <sup>33</sup> The Commission is also adopting as proposed an instruction in General Instruction G to clarify that for companies preparing their financial statements under IFRS, derivatives and market risk disclosure provided in response to Item <sup>11</sup> would be based on IFRS.
+
+Commenters widely concurred with the proposals to include instructions clarifying that both business operations disclosure pursuant to Item 4 and derivatives disclosure pursuant to Item 11 of Form 20-F should refer to the financial information prepared in accordance with IFRS.
+
+<h>2. Disclosure Pursuant to Industry Guides</h>
+
+The Commission did not propose, nor is it adopting, any specific amendments with respect to information to be disclosed pursuant to Industry Guide 3 (Statistical
+
+Disclosure by Bank Holding Companies) or Industry Guide 6 (Disclosures Concerning Unpaid Claims and Claim Adjustment Expenses of Property-Casualty Insurance Underwriters). <sup>34</sup> The Commission believes that foreign issuers that switch to IFRS and to which these Guides apply do not need a general accommodation.
+
+The Commission solicited comment on behalf of the staff on whether amendments would be appropriate to address the information required under Industry Guide 3 or Industry Guide 6 in the context of first-time adopters changing their basis of accounting to IFRS. The general view expressed in the comments submitted by issuers subject to Industry Guide 3 or 6 is that they should be permitted to present only two years of Industry Guide information under IFRS, consistent with the presentation of their primary financial statements. Commenters thought it an unreasonable burden to restate the earliest of three years of information under IFRS, and that there would be no significant benefit to investors from such a restatement.
+
+Industry Guide disclosure is intended to provide a “track-record” of trend information such as loan quality information for banks providing disclosure under Industry Guide 3 or property casualty loss reserve development under Industry Guide 6. The Commission recognizes that the switch to IFRS will impact the Industry Guide disclosure of first-time adopters, who may not have available prior years of Industry Guide information prepared under IFRS. Although the staff does not intend to amend the Industry Guides requirements, the staff believes and intends to apply the Industry Guides such that a first-time adopter of IFRS who relies on the adopted amendments to Form 20-
+
+F will be in compliance with existing Industry Guide standards if it provides two years of Industry Guide information under IFRS, with information provided under U.S. GAAP or Previous GAAP to cover earlier years as required by the Industry Guides, as applicable.
+
+<h>F. Financial Statements and Information for Interim Periods during the Transition Year in Registration Statements, Prospectuses and Other Filings</h>
+
+As noted in the Proposing Release, there are many difficult and unique issues relating to the appropriate presentation of financial information during the Transition Year. Some commenters had useful suggestions in this area, which are reflected in the adopted amendments to Form 20-F. Because these issues affect foreign private issuers that are switching to IFRS and that will use the accommodation to omit financial statements for the third financial year, the Commission believes it is appropriate to provide specific guidance and relief with respect to the financial information included in SEC filings.
+
+<h>1. Exchange Act Reporting</h>
+
+Foreign private issuers that are subject to the reporting requirements under Section 13(a) or 15(d) of the Exchange Act are required to furnish Reports on Form 6-
+
+K. <sup>35</sup> These reports on Form 6-K generally consist of material information that a foreign private issuer publishes or makes public voluntarily or in accordance with home market requirements. There is no requirement under Form 6-K to present any specific financial information, either reconciled to U.S. GAAP or otherwise.
+
+The Commission is not imposing any additional requirements under Form 6-K for companies that are switching from Previous GAAP to IFRS. If a foreign private issuer is not filing a registration statement or using a prospectus under the Securities Act or filingan initial registration statement under the Exchange Act, the amendments the Commission is adopting will not affect the interim period financial information that is required to be filed with or furnished to the SEC. <sup>36</sup> When a foreign private issuer publishes material financial information, whether fully or partly in accordance with IFRS , <sup>37</sup> it should consider whether that information should be furnished on a Form 6-K Report.
+
+<h>2. Financial Information in Securities Act Registration Statements and Prospectuses and Initial Exchange Act Registration Statements Used Less Than Nine Months after the Financial Year End</h>
+
+In registration statements and prospectuses under the Securities Act and initial registration statements under the Exchange Act, if the document is dated less than nine months after the end of the last audited financial year, foreign private issuers are not required to include interim period financial information. However, if a foreign private issuer has published interim period financial information, Item 8.A.5 of Form 20-F requires these registration statements and prospectuses to include that information. <sup>38</sup> The intent of this requirement is to ensure that the information available in U.S. offering documents is as current as information that is available elsewhere.8.A of Form 20-F at the start of any delayed offering or throughout a continuous offering.
+
+Generally, this interim period financial information is not required to be reconciled to U.S. GAAP because (among other reasons) the U.S. GAAP reconciliation relating to the year-end audited financial statements provides investors with a roadmap for evaluating the extent to which U.S. GAAP adjustments might impact interim period financial information. To the extent there are new reconciling items or the issuer has made a change in its accounting principles with respect to the interim period, the issuer must quantify material reconciling items that have not previously been addressed in the audited financial statements, and must provide narrative disclosures about the differences in accounting principles used. <sup>39</sup>
+
+On occasion, a foreign private issuer may publicly disclose interim financial information that is prepared using accounting standards different from those used in its SEC filings. <sup>40</sup> In this instance, investors will not have the benefit of the roadmap and will not be able to evaluate the reconciling items between home country GAAP and U.S. GAAP. As a result, the interim financial information disclosed pursuant to Item 8.A.5 would have to be supplemented with a U.S. GAAP reconciliation.
+
+During the Transition Year, a foreign private issuer that is switching to IFRS may publish interim financial information either fully or partly in accordance with IFRS and will likely not have filed audited year-end IFRS financial statements in its most recent Form 20-F Annual Report. A strict interpretation of Item 8.A.5 would thereforenormally require that the issuer provide a U.S. GAAP reconciliation relating to the IFRS interim financial information.
+
+The Commission recognizes the significant burdens associated with the changeover to a new basis of accounting and the benefits to investors of having companies publish financial information in accordance with IFRS during the Transition Year. As a result, the Commission does not believe a U.S. GAAP reconciliation is necessary in this circumstance, and is including within new Instruction G to Form 20-F a provision that would permit a foreign private issuer to include IFRS financial information pursuant to the last three sentences of Item 8.A.5 without either descriptive or quantified U.S. GAAP reconciling information. Because companies may publish interim financial information that does not fully comply with IFRS during the Transition Year, this relief extends to information that makes reference to IFRS but that may not be fully in accordance with IFRS. <sup>41</sup> In addition, recognizing that foreign private issuers may present IFRS financial information covering a full financial year as well as interim periods, this relief also extends to annual year-end financial information that a foreign private issuer may publish during the Transition Year. Because such data may not be comparable to the issuer’s historical or future data or to other issuers and not accompanied by a U.S. GAAP reconciliation, such published information should be
+
+CESR, for example, has recommended that companies switching to IFRS in 2005 apply in their 2005 interim financial reports at least the IAS/IFRS recognition and measurement principles that will be applicable at year end. See CESR Press Release, “Preparing for the implementation of International Financial Reporting Standards (IFRS),” CESR/03-514 (December 30, 2003).accompanied by a statement that the information is not in compliance with IFRS and other appropriate cautionary language.
+
+This relief only applies to documents described above that are used prior to nine months after the end of a foreign private issuer’s financial year. Documents that are used subsequent to nine months after financial year end are addressed in the next section.
+
+<h>3. Financial Statements in Securities Act Registration Statements and Prospectuses and Initial Exchange Act Registration Statements Used More Than Nine Months after the Financial Year End</h>
+
+In registration statements and prospectuses under the Securities Act and initial registration statements under the Exchange Act, if the document is dated more than nine months after the end of the last audited financial year, foreign private issuers must provide consolidated interim period financial statements covering at least the first six months of the financial year and the comparative period for the prior financial year. <sup>42</sup> These unaudited interim period financial statements must be prepared using the same basis of accounting as the audited financial statements contained or incorporated by reference in the document and include or incorporate by reference a reconciliation to
+
+U.S. GAAP. <sup>43</sup>
+
+In the Proposing Release, the Commission noted the difficulties faced by foreign private issuers in switching to IFRS during the Transition Year and solicited comment on various approaches to the presentation of interim period financial information. Because the Commission believes investors need a basis to compare interim period financial statements with annual financial statements, especially in connection with offerings orinitial listings of securities that take place in the late months of the Transition Year or the early part of the year thereafter, the Commission does not believe it is appropriate to apply for situations after nine months the same approach described above for situations prior to nine months.
+
+The Commission received helpful suggestions from various commenters who noted that condensed U.S. GAAP financial information can be used as an information bridge between annual and interim periods to which different accounting standards are applied. The revisions incorporate this approach.
+
+In this area, the Commission is providing first-time adopters with a number of options to comply with its requirements. This is appropriate because the Commission wants to encourage foreign companies to continue to access the U.S. public capital markets during the Transition Year. In addition, this flexible approach balances the information needs of investors with the information resources that various companies may have available. The Commission is amending Form 20-F to provide four options for foreign private issuers that are first-time adopters, that are or will be eligible to use the two-year financial statement accommodation and that are required to provide interim period financial statements in Securities Act or Exchange Act documents used after nine months from financial year end:the Previous GAAP Optionthe IFRS Optionthe U.S. GAAP Condensed Information Option, andthe Case-by-Case Option.
+
+Each of these options is described below. In addition, the Commission reminds issuers that, regardless of the option selected, when interim period financial statements arerequired to be presented under Item 8.A.5, those financial statements must be accompanied by disclosure based on the accounting principles in the option used that is made pursuant to Item 5 of Form 20-F “Operating and Financial Review and Prospects.”
+
+<h>a. The Previous GAAP Option</h>
+
+A foreign private issuer may present three years of audited Previous GAAP financial statements as well as Previous GAAP interim financial statements for the current year and comparable prior year period, all reconciled to U.S. GAAP. For example, a 2005 first time adopter would present audited financial statements for 2002, 2003 and 2004 and unaudited financial statements for the six months (or nine months) of 2004 and 2005, all in accordance with Previous GAAP and reconciled to U.S. GAAP. This option generally reflects the application of the Commission’s current rules, without any specific relief.
+
+<h>b. The IFRS Option</h>
+
+A foreign private issuer may present two years of audited financial statements as well as interim financial statements for the current year and comparable prior year period, all prepared in accordance with IFRS and reconciled to U.S. GAAP. For example, a 2005 first-time adopter would present audited financial statements for 2003 and 2004 and unaudited financial statements for the six months (or nine months) of 2004 and 2005, all in accordance with IFRS and reconciled to U.S. GAAP. This option generally reflects the application of current rules, with the relief afforded through the amendments being adopted in this release that permit a first-time adopter to omit IFRS financial statements for the third financial year.
+
+<h>c. The U.S. GAAP Condensed Information Option</h>
+
+A foreign private issuer may present: (i) audited Previous GAAP financial statements for the prior three years, reconciled to U.S. GAAP ( e.g ., 2002, 2003, and 2004); (ii) unaudited IFRS financial statements for the current and prior year comparable interim periods, reconciled to U.S. GAAP ( e.g ., six months or nine months of 2004 and 2005); and (iii) unaudited condensed U.S. GAAP balance sheets and income statements for the most recent prior financial year and the current and prior year comparable interim periods ( e.g ., full year 2004 and six months or nine months of 2004 and 2005).
+
+This option allows foreign companies to use condensed U.S. GAAP information to bridge the gap in interim information between Previous GAAP and IFRS. The condensed U.S. GAAP information should provide a level of detail consistent with that required by Article 10 of Regulation S-X for interim financial statements.
+
+<h>d. The Case-by-Case Option</h>
+
+Some first-time adopters may find that they are not able to comply fully with any of the options outlined above and yet have available comparable financial information based on a combination of Previous GAAP, IFRS and U.S. GAAP. The Commission does not believe these foreign private issuers should necessarily be foreclosed from publicly offering or listing their securities in the United States. Foreign companies in this situation are encouraged to contact the Office of International Corporate Finance in the Division in the Division of Corporation Finance, in writing and well in advance of any filing deadlines, for guidance relating to interim period financial statements.
+
+<h>G. Issuers Using IFRS as Adopted by the European Union</h>
+
+While the EU has adopted, as published by the IASB, almost all international financial reporting standards, it has recently adopted a regulation endorsing IAS 39 “Financial Instruments: Recognition and Measurement” with the exception of certain provisions on the use of the full fair value option and on hedge accounting. <sup>44</sup> EU listed companies are required only to comply with those accounting standards that have been adopted by the EU. As such, it is possible for an EU company to comply with EU accounting regulations but still produce financial statements that are not fully compliant with IFRS. Under EU guidance, companies that apply the EU-adopted version of IAS 39 should refer in their accounting policies to IFRS “as adopted by the EU.” <sup>45</sup> The EU- adopted accounting standards are referred to in this release as “EU GAAP.” EU GAAP would appear to constitute a comprehensive body of accounting standards for purposes of Item 8.A.2 and Item 17 and 18 of Form 20-F and would be accepted in SEC filings by EU companies. <sup>46</sup> As with other issuers relying on the accommodation, issuers that use EU GAAP would be required to include a reconciliation to U.S. GAAP.
+
+Some commenters raised the issue of whether the use of EU GAAP would have an impact on the eligibility requirements under the accommodation. An EU issuer thatprepares financial statements for its local markets under EU GAAP could use those same financial statements in its SEC filings and still qualify for the accommodation if it also provides a reconciliation to IFRS as published by the IASB. This reconciliation would relate to the two financial years for which the issuer would provide EU GAAP financial statements under the accommodation. The reconciliation of EU GAAP to IFRS as published by the IASB should contain information relating to financial statement line items and footnote disclosure equivalent to that required under IFRS. <sup>47</sup> The reconciliation would need to be audited by the issuer’s independent auditor.
+
+An issuer that applies EU GAAP also would continue to be required to provide an audited reconciliation to U.S. GAAP. <sup>48</sup> An issuer that applies EU GAAP may use the reconciliation to IFRS as published by the IASB as the basis for their reconciliation to
+
+U.S. GAAP, although using EU GAAP financial statements as the basis for the U.S. GAAP reconciliation also would be an acceptable approach.
+
+The reconciliation to IFRS as published by the IASB would provide the basis for the following other disclosure required under the accommodation:selected financial data provided pursuant to Item 3.A of Form 20-F would include relevant items based on the reconciliation to IFRS as published by the IASB as well as to U.S. GAAP; andthe discussion under Item 5 of Form 20-F relating to the operating and financial review and prospects should focus on the financial statements prepared in accordance with EU GAAP. In the same manner as required for the U.S. GAAP reconciliation, this discussion should explain any differences between EU GAAP and IFRS as published by the IASB that are not otherwise discussed in the reconciliation and that the issuer believes are necessary for an understanding of the financial statements taken as a whole.
+
+With regard to interim financial statements in a registration statement or prospectus, the provision in new Instruction G to Form 20-F that permits a foreign private issuer to include published IFRS financial information pursuant to the last three sentences of Item 8.A.5 without either descriptive or quantified U.S. GAAP reconciling information also applies to information that is prepared in accordance with EU GAAP. Additionally, EU issuers that provide interim financial information under the IFRS Option should present two years of annual financial statements as well as current and comparable prior year interim financial statements prepared in accordance with EU GAAP, with the reconciliation to IFRS as published by the IASB and the reconciliation to U.S. GAAP as described above.
+
+<h>III. DISCLOSURES ABOUT FIRST-TIME ADOPTION OF IFRS</h>
+
+The Commission is adopting amendments to Form 20-F to require certain disclosures by all first-time adopters of IFRS regardless of the year in which they change their basis of accounting. These requirements relate to the issuer’s reliance on any of the exceptions to the general restatement and measurement principles allowed under IFRS 1 and to the reconciliation of Previous GAAP financial statements to IFRS.
+
+<h>A. Disclosure about Exceptions to IFRS</h>
+
+The Commission is adopting largely as proposed amendments to Item 5 of Form 20-F requiring an issuer to provide disclosure relating to its application of any of the mandatory or elective exceptions under IFRS 1. Under these amendments, an issuer must identify the items to which an exception was applied, describe which accounting principle it used, and explain how it applied that principle. When relying on an elective exception, an issuer must include, where material, qualitative disclosure of the impact on the issuer’s financial condition, changes in financial condition and results of operations. When relying on a mandatory exception, an issuer must describe the exception as provided for in IFRS 1 and state that it complied. This disclosure would be contained in an issuer’s disclosure pursuant to Item 5, which provides information on the issuer’s financial and operating review and prospects. First-time adopters must provide this type of information under paragraph 38 of IFRS 1, which generally requires an explanation of how the transition to IFRS would affect an issuer’s financial position. However, because paragraph 38 does not specifically reference disclosure related to the use of exceptions, the Commission believes more guidance through the amendments to Form 20-F to be appropriate.
+
+Some commenters opposed these amendments, noting that the cost of providing the disclosures in relation to elective exceptions would likely outweigh the benefit to investors. Because issuers would generally apply elective exceptions where the information could not be assembled without undue cost, some commenters thought it unreasonable to require those companies to try to determine the significance of the exception and the impact that the application of the alternative accounting policies would have had on the issuer’s reported financial condition. Some commenters indicated thatissuers should determine for themselves what information, if any, they should provide in response to Item 5 of Form 20-F with regard to their use of the elective and mandatory exceptions, and that separate disclosure requirements would be duplicative.
+
+Some commenters said information provided under the proposed requirements would be useful to investors and would complement disclosure provided under Item 5. Another commenter favored the proposals because discussion of the IFRS 1 exemptions would already be required under paragraph 38 of IFRS 1. Other commenters supported the proposed qualitative disclosures, but opposed any requirement to provide quantitative disclosures not already required by IFRS 1 as such information would be burdensome for issuers to obtain.
+
+In the proposal, the Commission did not intend to require companies to provide a quantification of the financial statement effects of using a specific exception. As a result, there should not be significant costs associated with providing the required disclosure. In addition, when companies provide information as to the use of an exception, it does not have to appear in the notes to the audited financial statements, although there would be no objection to including such information in the notes.
+
+The Commission has revised the amendment to clarify that companies are not required to provide quantified numerical information in their explanation of the financial significance of an exception. Rather, the qualitative disclosure required by these amendments is intended to give investors some information as to the magnitude of the effect of an exception on an issuer’s financial statements in qualitative terms. This information will permit investors to better understand the significant items that impact the consistency and comparability between companies for past and future periods.
+
+For example, a substantial portion of the issuer’s assets or operations may have been obtained in a prior business combination transaction accounted for as a pooling of interests under both Previous GAAP and in the first IFRS financial statements based on an elective exception in IFRS 1. If that election had not been used, the transaction would have been accounted for as a purchase under IFRS 3. Under the adopted amendments, the issuer would describe that, absent the exception:the business combination would have been accounted for as a purchase under IFRS 3;the [applicable entity] would have been identified as the acquirer;the fair value of the entire purchase consideration of [dollar amount] would have been recognized in the financial statements at that time;the purchase consideration would have been allocated to the following major categories of acquired tangible and intangible assets and liabilities based on their fair values: [naming the categories];goodwill would have been recognized, if applicable;the fair values of the acquired assets would have been amortized to expense over their respective useful lives; andthe approximate amount of the acquiree’s revenues and assets (or percentage of the issuer’s corresponding totals) at the time of the business combination, to illustrate the magnitude of the use of the exemption [stating the amounts or percentages].
+
+If the accounting treatment that would have been applied under IFRS 3 is consistent with the treatment under U.S. GAAP, the issuer may satisfy the adopted disclosurerequirement by cross-referencing the applicable portions of the U.S. GAAP reconciliation.
+
+Similar broad disclosure should be provided for the use of other exceptions under IFRS 1.
+
+<h>B. Reconciliation from Previous GAAP</h>
+
+The Commission is adopting as proposed a new instruction 3 to Item 8 of Form 20-F to require that the mandatory reconciliation from Previous GAAP to IFRS give “sufficient data to enable users to understand the material adjustments to the balance sheet and income statement,” and, if presented under Previous GAAP, the cash flow statement. The Commission did not propose, and is not adopting, specific form or content requirements. It notes, however, that a reconciliation following example 11 under Implementation Guidance 63 (“IG 63”) of IFRS 1 will meet the requirement that it is adopting. Similarly, a reconciliation based on the form and content provisions of Item 17 of Form 20-F would meet the requirement.
+
+Most commenters did not oppose the proposal and did not feel that following the example given in IG 63 would be unduly burdensome. Many commenters shared the view that the Commission should not specify form and content requirements for the reconciliation from Previous GAAP to IFRS, because companies will develop formats based on IFRS 1 in ways suitable to their individual circumstances. Other commenters indicated that IFRS’s requirements regarding the presentation of differences between IFRS and Previous GAAP were sufficient. Because each issuer’s situation will be different, the Commission does not believe a prescriptive approach to the information to be included in the reconciliation would be practicable or desirable.
+
+<h>IV. PAPERWORK REDUCTION ACT ANALYSIS</h>
+
+<h>A. Background</h>
+
+The final rule amendment contains “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>49</sup> The titles of the affected collections of information are:(1) "Form 20-F” (OMB Control No. 3235-0288);
+
+<h>2. “Form F-1” (OMB Control No. 3235-0258);</h>
+
+<h>3. “Form F-2” (OMB Control No. 3235-0257);</h>
+
+<h>4. “Form F-3” (OMB Control No. 3235-0256); and</h>
+
+<h>5. “Form F-4” (OMB Control No. 3235-0325).</h>
+
+These forms were adopted pursuant to the Securities Act and Exchange Act and set forth the disclosure requirements for annual reports and registration statements filed by foreign private issuers to provide material information to investors. The hours and costs associated with preparing, filing and sending these forms constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The disclosure is mandatory. There would be no mandatory retention period for the information disclosed, and responses to the disclosure requirements would not be kept confidential. The Commission published a notice requesting comment on the collection of information requirements in the Proposing Release and submitted these requirements to the Office of Management and
+
+Budget (“OMB”) for review in accordance with the PRA. <sup>50</sup> The OMB approved those estimates.
+
+The Commission received several comment letters on the proposals, and has revised the final amendments in response to these comments. Some of the revisions have impacted the assumptions and estimates used in the analysis made under the Paperwork Reduction Act. The Commission is revising its previous burden estimates because of these revisions.
+
+The Commission is adopting the new General Instruction G to Form 20-F to allow an eligible foreign private issuer to omit from SEC filings for its first year of reporting under IFRS the earliest of the three years of financial statements. The adopted amendments make the accommodation available to companies that adopt IFRS as their basis of accounting prior to or for the financial year starting on or after January 1, 2007. This is different from the proposal, which would have granted the accommodation to a foreign private issuer that adopted IFRS for the first time for a fiscal year that begins no later than January 1, 2007. This change was made in response to comments indicating that the amendments as proposed may have lead to situations in which an issuer that met the IFRS 1 definition of first-time adopter would be ineligible to rely on the accommodation. Because this change to the period during which the accommodation applies will affect only timing, the Commission assumes that it will have no impact on the burden estimates. Because the provision of the third year of financial statements under a comprehensive body of accounting standards is not calculated as a burden for
+
+PRA purposes, eliminating the third year of IFRS financial statements is not a burden reduction.
+
+In response to comments that the proposed amendments regarding condensed
+
+U.S. GAAP financial information would be excessively burdensome to issuers, the final amendments do not require an issuer that relies on the accommodation to provide condensed U.S. GAAP information. Although the proposals relating to condensed U.S. GAAP financial information would have increased in the burden estimates, not requiring that information in the final amendments will have a neutral effect on the PRA burden. <sup>51</sup>
+
+The amendments relating to Previous GAAP financial information are adopted as proposed, for which commenters expressed wide support. The Commission estimates that the requirement for appropriate cautionary language from any issuer that includes, incorporates by reference or refers to Previous GAAP financial information in an SEC disclosure document will result in a two hour burden increase.
+
+The Commission is adopting a flexible approach with regard to the presentation of interim financial statements, under which an issuer that provides interim financial statements may elect to provide disclosure under one of four options described in Section
+
+II.F.3. <sup>52</sup> This approach differs from the proposal, which was consistent with currentrequirements before the amendment. Commenters cited the potential burden of maintaining financial statements under both Previous GAAP and IFRS in their opposition to the proposed approach, to which they suggested alternatives. The Commission believes that the amendments regarding interim financial statements will lead to a two hour increase in the burden estimates related to the accommodation.
+
+To rely on the accommodation as adopted, issuers that comply with EU GAAP must provide a reconciliation to IFRS as published by the IASB, while all others must provide an explicit and unreserved statement of compliance with IFRS. <sup>53</sup> Because developments related to EU GAAP occurred subsequent to the issuance of the Proposing Release, the amendments as proposed did not include these conditions. The Commission believes the reconciliation to IFRS as published by the IASB for issuers using EU GAAP will lead to a one hour increase in the burden estimates related to the accommodation.
+
+In total, the Commission estimates that the amendments related to the accommodation described in Section II will account for a one-time increase of five hours to the PRA burden associated with Forms 20-F, F-1, F-2, F-3 and F-4, respectively. The Commission also estimates that, of the amendments described in Section III that affect all first-time IFRS adopters, the disclosure about IFRS exceptions will cause a one-time increase of 1.5 per cent in the number of burden hours required to prepare each form while the amendments regarding the reconciliation from Previous GAAP would not cause any increase in the burden estimates. Accordingly, an issuer that adopts IFRS prior to or for its <sup>2007</sup> financial year will accrue both the five hour burden and the 1.5percent burden increase. An issuer that adopts IFRS later than its 2007 financial year will accrue only the 1.5 percent increase.
+
+For purposes of the Paperwork Reduction Act, the Commission estimates that the one-time incremental increase in the paperwork burden for all first-time adopters of IFRS relying on the accommodation and providing the disclosure related to first-time adoption of IFRS would be approximately 4,273 hours of company time and approximately$3,845,700 for the services of outside professionals. The Commission estimates that the incremental increase in the paperwork burden for all first-time adopters of IFRS after that period would be approximately 3,727 hours of company time and approximately$3,354,300 for the services of outside professionals. It estimated the average number of hours each entity spends completing the forms and the average hourly rate for outside professionals. <sup>54</sup> That estimate includes the time and the cost of in-house preparers, reviews by executive officers, in-house counsel, outside counsel, independent auditors and members of the audit committee. <sup>55</sup>
+
+<h>B. Burden and Cost Estimates Related to the Accommodation</h>
+
+<h>1. Form 20-F</h>
+
+Form 20-F is the combined registration statement and annual report for foreign private issuers under the Exchange Act. It also presents the disclosure requirements for registration statements filed by foreign private issuers under the Securities Act. The Commission estimates that currently 1,036 issuers file Form 20-Fs each year. It alsoestimates that these issuers incur 25% of the burden required to produce the Form 20-Fs, resulting in 677,298 annual burden hours incurred by issuers out of a total of 2,709,192 annual burden hours. Thus, the Commission estimates that 2,615 total burden hours per response are currently required to prepare the Form 20-F. The Commission further estimates that outside professionals account for 75% of the burden at an average cost of$300 per hour for a total cost of $609,568,200.
+
+The Commission estimates that the accommodation will affect approximately 35% of the 1,036 issuers that file on Form 20-F. <sup>56</sup> The Commission therefore expects that each of 363 issuers will have an increase of 5 hours in the number of hours required to prepare their Form 20-F, for a total increase of 1,815 hours. It expects that these issuers will bear 25% of these increased burden hours (454 hours). It further expects that outside firms will bear 75% of the increased burden hours (1,362 hours) at an average cost of $300 per hour for a total of $408,600 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by foreign private issuers in the preparation of Form 20-F to 677,752 burden hours. The Commission further estimates that the amendments will increase the total annual burden associated with Form 20-F preparation to 2,711,008 burden hours, which will increase the average number of burden hours per response to
+
+For purposes of this estimate the approximate number of foreign private issuers that currently provide IFRS financial statements in their SEC filings (50) has been excluded.2,617. It also estimates that the amendments will increase the total annual costs attributed to the preparation of Form 20-F by outside firms to $609,976,800.
+
+<h>2. Form F-1</h>
+
+The Commission estimates that currently 42 foreign private issuers file registration statements on Form F-1 each year. It also estimates that these issuers bear 25% of the burden required to produce a Form F-1, resulting in 18,895 annual burden hours incurred by issuers out of a total of 75,580 annual burden hours. Thus, the Commission estimates that 1,800 total burden hours per response are currently required to prepare a registration statement on Form F-1. It further estimates that outside professionals account for 75% of the burden to produce a Form F-1 at an average cost of$300 per hour for a total cost of $17,005,500.
+
+The Commission estimates that the accommodation will affect approximately 30% of the 42 issuers that file registration statements on Form F-1. <sup>57</sup> It therefore expects that each of 13 issuers will have a five hour increase in the number of hours required to prepare a registration statement on Form F-1, for a total increase of 65 hours. The Commission expects that these issuers will bear 25% of these increased burden hours (16 hours). It further expects that outside firms will bear 75% of the increased burden hours (48 hours) at an average cost of $300 per hour for a total of $14,400 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by foreign private issuers in the preparation of Form F-1 to18,911 burden hours. It also estimates that the amendments will increase the total annual burden associated with Form F-1 preparation to 75,644 burden hours, which will increase the average number of burden hours per response to 1,801. It further estimates that the amendments will increase the total annual costs attributed to the preparation of Form F-1 by outside firms to $17,019,900.
+
+<h>3. Form F-2</h>
+
+The Commission estimates that currently one foreign private issuer files a registration statement on Form F-2 each year. It also estimates that the issuer incurs 25% of the burden required to produce a Form F-2 resulting in 710 annual burden hours incurred by that issuer out of a total of 2,840 annual burden hours. Thus, the Commission estimates that 2,840 total burden hours per response are currently required to prepare a registration statement on Form F-2. It further estimates that outside professionals account for 75% of the burden to produce a Form F-2 at an average cost of$300 per hour for a total cost of $639,000.
+
+Because the Commission does not expect that the accommodation will affect the one issuer that files a registration statement on Form F-2, it is not revising the burden estimates for that form. <sup>58</sup>
+
+<h>4. Form F-3</h>
+
+The Commission estimates that 102 foreign private issuers file registration statements on Form F-3 each year. It also estimates that issuers incur 25% of the burden required to produce a Form F-3 resulting in 4,159 annual burden hours incurred by issuers out of a total of 16,636 annual burden hours. Thus, it estimates that <sup>163</sup> totalburden hours per response are currently required to prepare a registration statement on Form F-3. It further estimates that outside professionals account for 75% of the burden to produce a Form F-3 at an average cost of $300 per hour for a total cost of $3,743,100.
+
+The Commission estimates that the accommodation will affect approximately 45% of the 102 issuers that file registration statements on Form F-3. <sup>59</sup> It therefore expects that each of 46 issuers will have a burden increase of five hours, for a total increase of 230 hours. It expects that these issuers will bear 25% of this increased burden (58 hours). It further expects that outside firms will bear 75% of the increased burden hours (174 hours) at an average cost of $300 per hour for a total of $52,200 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by foreign private issuers in the preparation of Form F-3 to 4,217 burden hours. It further estimates that the amendments will increase the total annual burden associated with Form F-3 preparation to 16,868 burden hours, which will increase the average number of burden hours per response to 165. It also estimates that the amendments will increase the total annual costs attributed to the preparation of Form F-3 by outside firms to $3,795,300.
+
+<h>5. Form F-4</h>
+
+The Commission estimates that 68 foreign private issuers file registration statements on Form F-4 each year. It also estimates that these issuers incur 25% of the burden required to produce a Form F-4 resulting in 24,503 annual burden hours incurred by foreign private issuers out of a total of 98,012 annual burden hours. Thus, it estimates that 1,441 total burden hours per response are currently required to prepare a registration statement on Form F-4. It further estimates that outside professionals account for 75% of the burden to produce a Form F-4 at an average cost of $300 per hour for a total cost of$22,052,700.
+
+The Commission estimates that the accommodation will affect approximately 20% of the 68 issuers that file registration statements on Form F-4. <sup>60</sup> It therefore expects that each of 14 foreign private issuers will have a burden increase of five hours, for a total increase of 70 hours. It expects that issuers will bear 25% of these increased burden hours (18 hours). It further expects that outside firms will bear 75% of the increased burden hours (54 hours) at an average cost of $300 per hour for a total of $16,200 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by foreign private issuers in the preparation of Form F-4 to 24,521 burden hours. It further estimates that the amendments will increase the total annual burden associated with Form F-4 preparation to 98,084 burden hours, which willincrease the average number of burden hours per response to 1,442. It further estimates that the amendments will increase the total annual costs attributed to the preparation of Form F-4 by outside firms to $22,068,900.
+
+<h>C. Burden and Cost Estimates Related to the Disclosure about First-Time Adoption of IFRS</h>
+
+<h>1. Form 20-F</h>
+
+The Commission estimates that currently foreign private issuers file 1,036 Form 20-Fs each year, approximately 35% of which will be impacted by the amendments. <sup>61</sup> The Commission therefore expects that each of 363 issuers will have a burden increase of 1.5 per cent (39 hours) in the number of hours required to prepare their Form 20-F, for a total increase of 14,157 hours. It also expects that issuers will bear 25% of these increased burden hours (3,539 hours), and that outside firms will bear 75% of the increased burden hours (10,617 hours) at an average cost of $300 per hour for a total of$3,185,100 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by foreign private issuers in the preparation of Form 20-F to 680,837 burden hours. The Commission further estimates that the amendments will increase the total annual burden associated with Form 20-F preparation to 2,723,348 burden hours, which will increase the average number of burden hours per response to
+
+For purposes of this estimate the approximate number of foreign private issuers that currently provide IFRS financial statements in their SEC filings (50) has been excluded.2,629. It also estimates that the amendments will increase the total annual costs attributed to the preparation of Form 20-F by outside firms to $612,753,300.
+
+<h>2. Form F-1</h>
+
+The Commission estimates that 42 foreign private issuers file registration statements on Form F-1 each year, approximately 30% of which will be impacted by the amendments. <sup>62</sup> It therefore expects that each of 13 issuers will have an increase of 1.5 per cent (27 hours) in the number of burden hours required to prepare their registration statements on Form F-1, for a total increase of 351 hours. The Commission expects that issuers will bear 25% of these increased burden hours (88 hours), and that outside firms will bear 75% of the reduced burden hours (264 hours) at an average cost of $300 per hour for a total of $79,200 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by foreign private issuers in the preparation of Form F-1 to 18,983 burden hours. It also estimates that the amendments will increase the total annual burden associated with Form F-1 preparation to 75,932 burden hours, which will increase the average number of burden hours per response to 1,808. It further estimates that the amendments will increase the total annual costs attributed to the preparation of Form F-1 by outside firms to $17,084,700.
+
+<h>3. Form F-2</h>
+
+Because the Commission does not expect that the amendments affect the one issuer that files a registration statement on Form F-2, it is not revising the burden estimates for that form. <sup>63</sup>
+
+<h>4. Form F-3</h>
+
+The Commission estimates that approximately 102 foreign private issuers file registration statements on Form F-3 each year, 45% of which will be impacted by the amendments. <sup>64</sup> It therefore expects that each of 46 issuers will have an increase of 1.5 per cent (2 hours) in the number of burden hours required to prepare their registration statements on Form F-3, for a total increase of 92 hours. It expects that issuers will bear 25% of this increased burden hours (23 hours), and that outside firms will bear 75% of the increased burden hours (69 hours) at an average cost of $300 per hour for a total of$20,700 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by issuers in the preparation of Form F-3 to 4,182 burden hours. It further estimates that the amendments will increase the total annual burden associated with Form F-3 preparation to 16,728 burden hours, which will increase the average number of burden hours per response to 164. It also estimates that theamendments will increase the total annual costs attributed to the preparation of Form F-3 by outside firms to $3,763,800.
+
+<h>5. Form F-4</h>
+
+The Commission estimates 68 foreign private issuers file registration statements on Form F-4 each year, appro ximately 20% of which will be impacted by the amendments. <sup>65</sup> It therefore expects that each of 14 issuers will have an increase of 1.5 per cent (22 hours) in the number of burden hours required to prepare their registration statements on Form F-4, for a total increase of 308 hours. It expects that issuers will bear 25% of these increased burden hours (77 hours), and that outside firms will bear 75% of the increased burden hours (23 hours) at an average cost of $300 per hour for a total of $69,300 in increased costs.
+
+Thus, the Commission estimates that the amendments to Form 20-F will increase the annual burden incurred by issuers in the preparation of Form F-4 to 24,580 burden hours. It further estimates that the amendments will increase the total annual burden associated with Form F-4 preparation to 98,320 burden hours, which will increase the average number of burden hours per response to 1,446. It further estimates that the amendments will increase the total annual costs attributed to the preparation of Form F-4 by outside firms to $22,122,000.
+
+<h>D. New Burden Estimates</h>
+
+Based on the preceding analysis and assuming that the number of respondents for each of the affected forms remains unchanged, the five hour burden increase due to the proposed accommodation and the further 1.5 per cent increase due to the proposed disclosure requirements for all first-time IFRS adopters will, together, increase the total burden estimates for companies from 677,298 hours to 681,291 for Form 20-F (an increase from 2,615 hours to 2,631 hours per form), from 18,895 hours to 18,999 hours for Form F-1 (an increase from 1,800 hours to 1,809 hours per form), from 4,159 hours to 4,240 for Form F-3 (an increase from 163 hours to 166 hours per form), and from 24,503 hours to 24,598 hours for Form F-4 (an increase from 1,441 hours to 1,447 hours per form). As discussed above, after year 2007 the five hour burden increase from the proposed accommodation will no longer apply and only the 1.5 per cent increase due to the proposed disclosure requirements for all first-time IFRS adopters will remain.
+
+<h>V. COST-BENEFIT ANALYSIS</h>
+
+In the Proposing Release, the Commission solicited comments on the expected costs and benefits of the proposed amendments to Form 20-F, as well as on any other costs and benefits that could result from the adoption of those proposed amendments. In response, commenters expressed widespread support for the relief that the proposal would provide to eligible issuers by permitting them to file two rather than three years of financial information for the financial year they switch to IFRS. However, several commenters maintained that the proposals regarding condensed U.S. GAAP financial information and financial statements for interim periods during the Transition Year would impose costs onforeign private issuers that were unnecessary to achieve the rule’s purpose and that outweighed the potential benefits to investors. The Commission has modified the final amendments in response to these concerns, thereby eliminating some of the potential costs that issuers may have incurred under the amendments as proposed.
+
+Although none of the commenters provided quantitative data to support their views, the Commission has revised the amendments to Form 20-F in response to the concerns that the commenters expressed. The Commission expects that the adopted amendments to Form 20-F will result in the following benefits and costs. <sup>66</sup>
+
+<h>A. Expected Benefits</h>
+
+The amendments to Form 20-F will benefit foreign private issuers that adopt IFRS, either voluntarily or by mandate, by facilitating their compliance with SEC disclosure requirements as those issuers transition from their Previous GAAP to IFRS. By permitting eligible issuers to provide two rather than three years of financial statements prepared in accordance with IFRS, the amendments will allow those issuers to avoid the retroactive application of accounting standards that may not have been finalized during the earliest reporting period to which they would have to be applied in order to provide financial statements that were in compliance with SEC filing requirements.
+
+By eliminating the third year of IFRS financial statements, the accommodation also benefits issuers by aligning SEC requirements with the IFRS 1 standard, which requires only one year of comparative information for the year IFRS is adopted. Through the amendments to Form 20-F, the Commission is eliminating the need for financial statements that would have been required by SEC rules but not otherwise. In years aftertheir Transition Year, when the accommodation will no longer apply, issuers will have available IFRS financial statements for the financial year that they were permitted to exclude under the accommodation.
+
+The amendments also will benefit investors in several ways. First, the accommodation will improve the clarity and quality of the financial disclosure that first- time adopters of IFRS provide in their SEC filings, thereby enhancing investor understanding. By clarifying the level of information required in the reconciliation of Previous GAAP information to IFRS, for example, the amendments will provide investors with a comparable level of reconciliation information between companies that will enable them to understand the material impact of the switch to IFRS on each issuer’s financial statements.
+
+The accommodation also is expected to benefit investors by encouraging the use of IFRS as a high quality body of accounting principles designed to accurately reflect the issuer’s financial position. By reducing the burden of financial reporting in registration statements filed by first-time adopters of IFRS, the accommodation will encourage those issuers either to enter or to continue their participation in the U.S. capital market, which will further benefit investors by increasing their investment possibilities. These benefits will likely lead to a more efficient allocation of capital.
+
+<h>B. Expected Costs</h>
+
+The amendments to Form 20-F could result in some costs to issuers relying on the accommodation, although those costs should be minimal as they relate principally to how information required under rules existing prior to these amendments should be presented when based on primary financial statements based on IFRS.
+
+One area in which issuers relying on the accommodation may face increased cost relates to the provision of interim financial statements. The Commission has adopted a flexible approach that provides an isuer with a number of options as to how to comply with the requirements. Although the costs of providing disclosure under the different options may vary, issuers providing interim financial information may select the approach that they deem most suitable to mitigate these potential burdens.
+
+The elements of the adopted amendments that apply to all first-time adopters of IFRS will also lead to some increased costs to issuers. The amendments that clarify the level of information that the reconciliation from Previous GAAP to IFRS should contain are not expected to result in increased costs to issuers, because they do not require additional disclosure beyond what first-time adopters of IFRS must provide to comply with IFRS 1. The amendments relating to the use of any exceptions to IFRS will require additional disclosure, and consequently are expected to result in some increased costs for companies that are required to provide that disclosure.
+
+<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+Under Section 605(b) of the Regulatory Flexibility Act, <sup>67</sup> the Commission certified that, when adopted, the proposed amendment to Form 20-F under the Exchange Act would not have a significant impact on a substantial number of small entities. It included this certification in Part VII of the Proposing Release. While the Commission encouraged written comments regarding this certification, none of the commenters responded to this request.
+
+<h>VII. PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS</h>
+
+Section 23(a)(2) of the Exchange Act <sup>68</sup> requires the Commission, when adopting rules under the Exchange Act, to consider the anti-competitive effects of any rule it adopts.
+
+Furthermore, Section 2(b) of the Securities Act <sup>69</sup> and Section 3(f) of the Exchange Act <sup>70</sup> require the Commission, when engaging in a rulemaking that requires it to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition and capital formation.
+
+In the Proposing Release, the Commission considered the proposed amendment to Form 20-F in light of the standards set forth in the above statutory sections. It requested comment on whether, if adopted, the proposed Form 20-F amendment would result in any anti-competitive effects or promote efficiency, competition and capital formation. The
+
+Commission further encouraged commenters to provide empirical data or other facts to support their views on any anti-competitive effects or any burdens on efficiency, competition or capital formation that might result from adoption of the proposed Form 20-F amendments. It received no comments in response to these requests.
+
+The adopted amendments allowing first-time adopters of IFRS to file two rather than three years of IFRS financial statements in their SEC filings are designed to increase efficiency, competition and capital formation by alleviating the burden and cost that eligible companies would face if required to recast under IFRS their results for the third year back for inclusion in annual reports and registration statements filed with the SEC. The amendmentsare intended to promote market efficiency by eliminating financial disclosure that would be costly to produce and would be of questionable value to investors. As a result of the more reliable disclosure that companies will provide under the amendments, investors will be able to make more informed investment decisions and capital may be allocated on a more efficient basis.
+
+The amendments adopted to require all foreign companies that change their basis of accounting to IFRS to provide information relating to IFRS exceptions on which they relied and to satisfy a required level of information in their reconciliation from Previous GAAP to IFRS should increase efficiency, competition and capital formation by enabling investors to base their investment decisions on a better understanding of the financial information of those companies. This should lead to a more efficient allocation of capital.
+
+<h>VIII. STATUTORY BASIS</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 249.220f.
+
+2 15 U.S.C. 78a et seq.
+
+3 The term "foreign private issuer" is defined in Exchange Act Rule 3b-4(c) [17 CFR 240.3b-4(c)]. A foreign private issuer is a non-government foreign issuer, except for a company that (1) has more than 50% of its outstanding voting securities owned by U.S. investors and (2) has either a majority of its officers and directors residing in or being citizens of the United States, a majority of its assets located in the United States, or its business principally administered in the United States.
+
+4 15 U.S.C. 77a et seq.
+
+5 “First-Time Application of International Financial Reporting Standards,” Release No. 33-8397 (the “Proposing Release”).
+
+6 This release and the adopted amendments use the term “Previous GAAP” to refer to the basis of accounting that a first-time adopter uses immediately before adopting IFRS. This usage is consistent with IFRS. See International Financial Reporting Standard 1: “First-time Adoption of International Financial Reporting Standards,” as issued in June 2003 (“IFRS 1”), Appendix A.
+
+7 Consistent with Form 20-F, IFRS and general usage outside the United States, this release uses the term "financial year" to refer to a fiscal year. See Instruction 2 to Item 3 of Form 20-F.
+
+8 Regulation (EC) No. 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards, Official Journal L. 243, 11/09/2002 P. 0001- 0004 (the “EU Regulation”). The Commission commends the EU, as well as Australia and other jurisdictions, for their efforts relating to IFRS. The Commission believes broad acceptance of all of IFRS, and of the IASB standard setting process, would serve to promote high quality, transparent and comparable reporting of financial results on a global basis.
+
+9 Under the EU Regulation, companies meeting certain criteria will be permitted an extension until 2007.
+
+10 15 U.S.C. 78m(a) or 78o(d). Section 13(a) of the Exchange Act requires every issuer of a security registered pursuant to Section 12 of the Exchange Act [15 U.S.C. 78l] to file with the Commission such annual reports and other reports as the Commission may prescribe. Section 15(d) of the Exchange Act requires each issuer that has filed a registration statement that has become effective pursuant to the Securities Act to file such reports as may be required pursuant to Section 13 in respect of a security registered pursuant to Section 12, unless the duty to file under Section 15(d) has been suspended for any financial year.
+
+11 See Item 8.A.2 for Form 20-F. Foreign private issuers are also required to present audited balance sheets as of the end of the past two financial years.
+
+12 See Item 3.A.1 of Form 20-F.
+
+13 In several countries the presentation of financial statements in accordance with IFRS becomes mandatory for financial years starting on or after January 1, 2005. This release refers to that financial year as “year 2005,” regardless of the actual beginning date of a company's financial year, and the three prior financial years as “year 2002,” “year 2003,” and “year 2004,” respectively. Accordingly, the financial statements for those years are referred to as “year 2002 financial statements,” “year 2003 financial statements,” and “year 2004 financial statements.” For issuers adopting IFRS for the first time during another financial year, the earliest of the three years for which financial statements are presently required under Form 20-F is referred to as the “third financial year,” the second financial year as the “second financial year,” and the financial year in which an issuer switches to IFRS as the “most recent financial year.”
+
+14 See the Proposing Release.
+
+15 These comment letters are posted on the Commission’s Web site at
+
+16 The term “Transition Year” refers to the financial year in which an issuer first changes its basis of accounting from Previous GAAP to IFRS. For example, for foreign issuers with a calendar year-end that are subject to the EU Regulation, the Transition Year would be the financial year ended December 31, 2005.
+
+17 For example, this responsibility can be found under Sections 11 and 12(a)(2) of the Securities Act and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+
+18 Under IFRS 1, an entity is a “first-time adopter” if the entity’s first IFRS financial statements are the first annual financial statements in which the entity adopts IFRS, by an explicit and unreserved statement in those financial statements of compliance with IFRS. IFRS 1, paragraph 3.
+
+19 Under the EU Regulation mandating the use of IFRS, EU Member States may allow companies to defer their adoption of IFRS until year 2007 if (1) a company is listed both in the EU and on a non-EU exchange and currently uses internationally accepted standards as its primary accounting standards, or (2) a company has only publicly traded debt securities.
+
+20 Annual reports on Form 20-F are due six months after the end of the financial year.
+
+21 The circumstances under which an audit report containing a disclaimer or qualification would be accepted are extremely limited. See Instruction to Item 8.A.3 of Form 20-F.
+
+22 In making this assertion, an Australian issuer may rely on the view that Australian GAAP complies with IFRS. This approach of relying on the home country standard setter’s compliance with IFRS does not apply to an issuer from another country that adopts IFRS as its home country GAAP within the time frame to which the accommodation applies, although such an issuer could assert its compliance with its home country GAAP, as well as its compliance with IFRS, if appropriate.
+
+23 Rule 3-05 relates to financial statements of businesses acquired or to be acquired; Rule 3-09 relates to separate financial statements of non-consolidated subsidiaries and 50-percent or less owned persons; Rule 3-10 relates to financial statements of guarantors and issuers of guaranteed securities registered or being registered; and Rule 3-16 relates to the financial statements of affiliates whose securities collateralize an issue registered or being registered.
+
+24 That rule defines a foreign business as a business that is majority owned by persons who are not citizens or residents of the United States and is not organized under the laws of the United States or any state thereof, and either (1) more than 50 percent of its assets are located outside the United States; or (2) the majority of its executive officers and directors are not United States citizens or residents.
+
+25 17 CFR 239.13.
+
+26 17 CFR 239.34.
+
+27 Under the Exchange Act, proxy statements are filed on Schedule 14A (17 CFR 240.14a-101) and information statements are filed on Schedule 14C (17 CFR 240.14c-101).
+
+28 Although the instructions to Item 8 continue to refer to U.S. generally accepted auditing standards (“GAAS”), the Commission notes that under the Sarbanes-Oxley Act of 2002, the Public Company Accounting Oversight Board (“PCAOB”) now has broad authority to set standards for audits of U.S. public companies. In Audit Committee Standard No. 1, the PCAOB directed auditors to cease referring to
+
+29 See Items 17(c) and 18 of Form 20-F.
+
+30 The instructions to Item 3.A of Form 20-F require a company to include selected financial data on a basis reconciled to U.S. GAAP for those periods for which the company was required to reconcile the primary annual financial statements in an SEC filing. Therefore, a foreign private issuer may be permitted to present fewer than five years of U.S. GAAP information under selected financial data in the years immediately after its initial SEC registration. This permits a company to build up a five-year history of
+
+31 While issuers are not permitted to have a side-by-side columnar format that combines information based on two or more sets of accounting principles, a format that presents the same information on a single page or table would be permitted, assuming there are appropriate legends and explanations. For example, an issuer could present selected financial data in a single page as follows: IFRS for years 2004 and 2005; below that U.S. GAAP for years 2001 through 2005; and below that Previous GAAP for years 2001 through 2004. Companies are generally free to choose the presentation of selected financial data that they feel is appropriate for their situation.
+
+32 This is the existing requirement under Form 20-F, Instruction 2 to Item 5.
+
+33 Under Item 4 of Form 20-F, an issuer must provide information about its business operations, the products it makes and the services it provides, and the factors that affect its business. The financial information that is included in response to this requirement is generally based on the primary financial statements of the issuer.
+
+34 Industry Guides serve as expressions of the policies and practices of the Division of Corporation Finance. They are of assistance to issuers, their counsel and others preparing registration statements and reports, as well as to the Commission’s staff.
+
+35 Rules 13a-16 and 15d-16.
+
+36 If a Form 6-K Report is incorporated by reference into a registration statement or prospectus, then the issuer should refer to the relief outlined below and in new General Instruction G to Form 20-F.
+
+37 The Committee of European Securities Regulators (“CESR”), for example, has encouraged European companies to provide investors with quantified information regarding the impact of the change to IFRS as soon as sufficiently reliable information is available. See CESR, “European Regulation on the Application of IFRS in 2005: Recommendation for Additional Guidance Regarding the Transition to IFRS,” (December 2003) (“CESR Recommendation”).
+
+38 Under Item 512(a)(4) of Regulation S-K, a foreign private issuer that registers securities on a shelf registration statement basis is required to undertake to include any financial statements required by Item
+
+39 Instruction 3(a) and (b) to Item 8.A.5 of Form 20-F.
+
+40 This may occur when an issuer whose audited financial statements included in its Annual Report on Form 20-F are prepared in accordance with U.S. GAAP publishes interim financial information prepared using home country GAAP.
+
+41 An issuer may be unable to comply fully with IFRS for interim financial statements during the Transition Year due to subsequent changes that may be made to standards or the development of interpretive material. Because of the potential for such changes, the accounting policies that an issuer applies in preparing its preliminary opening balance sheet may not be the same as those to be applied to the final opening balance sheet when that issuer prepares it first complete IFRS financial statements.
+
+42 Item 8.A.5 of Form 20-F and Item 512(a)(4) of Regulation S-K
+
+43 Items 17(c) and 18 of Form 20-F.
+
+44 See European Commission Press Release “Accounting standards: Commission endorses IAS 39,” November 19, 2004; IP/04/1385 available at
+
+45 See “IAS 39 Financial Instruments: Recognition and Measurement – Frequently Asked Questions (FAQ);” European Commission Memo/04/265, Brussels, November 19, 2004. As noted in that release, while it is possible that the EU may not adopt other parts of IFRS as written by the IASB, the European Commission believes that full endorsement of standards published by the IASB is preferable.
+
+46 An issuer that uses EU GAAP may, in note 1 to its financial statements, describe that body of accounting principles using any term it deems appropriate to designate reliance on the IFRS standards that the EU has adopted.
+
+47 For example, an issuer applying EU GAAP will include financial statement footnote disclosure that complies with IAS 32 “Financial Instruments: Disclosure and Presentation” even if the issuer does not fully apply IAS 39 relating to hedge accounting, as permitted under EU GAAP. The EU GAAP-IFRS reconciliation should disclose the financial statement effects and appropriate information in accordance with IAS 32, in respect of the full application of IAS 39 if different from that under EU GAAP.
+
+48 The U.S. GAAP reconciliation may be in accordance with Item 17 or Item 18 of Form 20-F, as appropriate. See General Instruction E(c) to Form 20-F.
+
+49 44 U.S.C. 3501 et seq.
+
+50 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+51 In the Proposing Release the Commission estimated that the accommodation would represent an overall PRA burden increase of 2 percent, the majority of which would have been attributable to the proposed requirement for condensed U.S. GAAP financial information.
+
+52 It is estimated that approximately 10 percent of the roughly 400 issuers that will rely on the accommodation will be subject to the provisions regarding interim financial statements. Of these, it is assumed that 10 percent (or four issuers), will select the Previous GAAP Option, 60 percent (or 24 issuers) will use the IFRS Option, 20 percent (or 8 issuers) will use the Condensed U.S. GAAP Information Option, and 10 percent (or 4 issuers) will use the Case-by-Case Option. The Previous GAAP Option does not represent a change from existing rules and therefore would not cause a burden increase. The IFRS Option avoids a future increase but does not increase the burden, and the U.S. GAAP Option and the Case- by-Case Option represent slight increases because they would call for information that had not been previously required.
+
+53 It is estimated that 10 of the 400 issuers that are expected to rely on the accommodation will use EU GAAP.
+
+54 For convenience, the estimated PRA hour burdens have been rounded to the nearest whole number.
+
+55 In connection with other recent rulemakings, Commission staff has had discussions with several private law firms and accounting firms to estimate an hourly rate of $300 as the cost of outside professionals that assist companies in preparing these disclosures. For Securities Act registration statements, the staff also considers additional reviews of the disclosure by underwriter's counsel and underwriters.
+
+56 This figure is based on the estimate of the ratio of the actual number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed either an annual report and/or a registration statement on Form 20-F between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of the applicable forms that were filed between January 1 and December 1, 2003.
+
+57 This figure is based on the estimate of the ratio of the number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed a Form F- 1 between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of registration statements on Form F-1 that were filed between January 1 and December 1, 2003.
+
+58 The Commission has proposed to eliminate Form F-2. See “Securities Offering Reform,” Release No. 33-8501 (November 3, 2004).
+
+59 This figure is based on the estimate of the ratio of the number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed a Form F- 3 between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of registration statements on Form F-3 that were filed between January 1 and December 1, 2003.
+
+60 This figure is based on the estimate of the ratio of the number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed a Form F- 4 between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of registration statements on Form F-4 that were filed between January 1 and December 1, 2003.
+
+61 This figure is based on the estimate of the ratio of the actual number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed either an annual report and/or a registration statement on Form 20-F between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of the applicable forms that were filed between January 1 and December 1, 2003.
+
+62 This figure is based on the estimate of the ratio of the number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed a Form F- 1 between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of registration statements on Form F-1 that were filed between January 1 and December 1, 2003.
+
+63 The Commission has proposed to eliminate Form F-2. See “Securities Offering Reform,” Release No. 33-8501 (November 3, 2004).
+
+64 This figure is based on the estimate of the ratio of the number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed a Form F- 3 between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of registration statements on Form F-3 that were filed between January 1 and December 1, 2003.
+
+65 This figure is based on the estimate of the ratio of the number of foreign private issuers that (1) are incorporated in countries that will require or permit the use of IFRS beginning in year 2005; (2) are incorporated in countries that presently permit but do not require the use of IFRS; (3) have filed a Form F- 4 between January 1 and December 31, 2003; and (4) appear current with their reporting obligations under the Exchange Act as of December 31, 2003, to the actual number of registration statements on Form F-4 that were filed between January 1 and December 1, 2003.
+
+66 It is estimated these amendments will affect approximately 400 foreign private issuers.
+
+67 5 U.S.C. 605(b).
+
+68 15 U.S.C. 78w(a)(2).
+
+69 15 U.S.C. 77b(b).
+
+70 15 U.S.C. 78c(f).

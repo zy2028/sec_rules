@@ -1,0 +1,205 @@
+https://www.sec.gov/rules/final/ia-2091.htm
+
+	I.0.0.0: I. Background
+
+	II.0.0.0: II. Discussion
+
+		II.A.0.0: A. New Rule 203A-2(f)
+
+			II.A.1.0: 1. Interactive Website
+
+			II.A.2.0: 2. De Minimis Exception for Non-Internet Clients
+
+			II.A.3.0: 3. Precluding Use of Rule 203A-2(c)
+
+			II.A.4.0: 4. Recordkeeping Requirements
+
+		II.B.0.0: B. Form ADV
+
+	III.0.0.0: III. Effective Date
+
+	IV.0.0.0: IV. Cost-Benefit Analysis
+
+		IV.A.0.0: A. Background
+
+		IV.B.0.0: B. Benefits
+
+		IV.C.0.0: C. Costs
+
+	V.0.0.0: V. Paperwork Reduction Act
+
+		V.A.0.0: A. Rule 203A-2(f)
+
+		V.B.0.0: B. Form ADV
+
+	VI.0.0.0: VI. Summary of Final Regulatory Flexibility Analysis
+
+	VII.0.0.0: VII. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Exemption for Certain Investment Advisers Operating Through the Internet Securities and Exchange Commission
+
+17 CFR Parts 275 and 279 [Release No. IA-2091; File No. S7-10-02] RIN 3235-AI15 Exemption for Certain Investment Advisers Operating Through the Internet 
+
+ Agency: Securities and Exchange Commission.
+
+ Action: Final rule.
+
+ Summary: The Commission is adopting rule amendments under the Investment Advisers Act of 1940 to exempt certain investment advisers that provide advisory services through the Internet from the prohibition on Commission registration. The rule amendments permit these advisers, whose businesses are not connected to any particular state, to register with the Commission instead of with state securities authorities. 
+
+ Effective Date: The rule amendments will become effective on January 20, 2003. 
+
+ For Further Information Contact: Marilyn Barker, Senior Counsel, or Jamey Basham, Special Counsel, at (202) 942-0719 or IArules@sec.gov , Office of Investment Adviser Regulation, Division of Investment Management, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0506.
+
+ Supplementary Information: The Commission is adopting amendments to rule 203A-2 [17 CFR 275.203A-2], Form ADV [(Part 1A, Item 2)] (17 CFR 279.1) and Schedule D to Form ADV [17 CFR 279.1] under the Investment Advisers Act of 1940 .
+
+<END HEADER>
+
+<h>Executive Summary </h>
+
+Section 203A of the Investment Advisers Act of 1940 (the "Advisers Act") generally prohibits an investment adviser from registering with the Commission unless that adviser has more than $25 million of assets under management or is an adviser to a registered investment company. The Commission is adopting new rule 203A-2(f) under the Advisers Act to exempt from the prohibition on Commission registration certain investment advisers that provide advisory services through the Internet.<sup> 1 </sup> An adviser is eligible for registration under the rule if the adviser provides investment advice to all of its clients exclusively through the adviser's interactive website, except that the adviser may advise fewer than 15 clients through other means during the preceding 12 months. 
+
+ I. Background 
+
+The National Securities Markets Improvement Act of 1996 ("NSMIA") amended the Advisers Act to divide the responsibility for regulating investment advisers between the Commission and state securities authorities.<sup> 2 </sup> Section 203A of the Advisers Act effects this division by generally prohibiting investment advisers from registering with us unless they have at least $25 million of assets under management or advise a registered investment company, and preempting most state regulatory requirements with respect to SEC-registered advisers.<sup> 3 </sup> The $25 million threshold was designed to distinguish investment advisers with a national presence from those that are essentially local businesses.<sup> 4 </sup> Congress recognized, however, that some investment advisers should be regulated at the federal level even though they have less than $25 million of assets under management, and gave the Commission the authority in section 203A(c) of the Advisers Act to exempt investment advisers, by rule or order, from the prohibition on Commission registration in cases in which the prohibition otherwise would be "unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes" of section 203A.<sup> 5 </sup> 
+
+In April of this year, we proposed to use our exemptive authority under section 203A(c) to adopt new rule 203A-2(f), providing relief to certain investment advisers who, unlike state-registered advisers, have no local presence and whose advisory activities are not limited to one or a few states.<sup> 6 </sup> These advisers, which we call "Internet Investment Advisers," provide investment advice to their clients through interactive websites. Clients visit these websites and answer online questions concerning their personal finances and investment goals. Thereafter, the adviser's computer-based application or algorithm processes and analyzes each client's response, and then transmits investment advice back to each client through the interactive website.<sup> 7 </sup> Clients residing in any state can, upon accessing the interactive website, obtain investment advice at any time.
+
+Internet Investment Advisers typically are not eligible to register with us. They do not manage the assets of their Internet clients, and consequently do not meet the $25 million statutory threshold for registration with the SEC. While traditional advisory firms with less than $25 million of assets under management usually must register in one or a few states, Internet Investment Advisers would be required as a practical matter to register in all the states absent an exemption.<sup> 8 </sup> Furthermore, our existing exemptive rules do not work for Internet Investment Advisers.<sup> 9 </sup>
+
+In response to our proposal we received 22 comment letters, most of which supported our proposal.<sup> 10 </sup> Ten commenters urged that we expand the exemption, six wanted us to narrow it, and six asserted that we should take no action. Several commenters representing state securities authorities objected to the rule, arguing that they should continue to be responsible for Internet Investment Advisers; some supported a narrower version of the rule.<h>II. Discussion </h>
+
+We are today adopting an exemption for Internet Investment Advisers in a form modified to reflect comments submitted to us. Rule 203A-2(f), which we discuss in more detail below, provides a narrow exemption for a type of adviser whose activities do not fall neatly into the model assumed by Congress when it added Section 203A to the Act to divide regulatory authority over advisers.<sup> 11 </sup> We have concluded that, as applied to these advisers, the application of the prohibition on Commission registration would be "unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of [Section 203A]."<sup> 12 </sup>
+
+In framing the scope of the exemption, we have carefully balanced the burdens of multiple state registration requirements for Internet Investment Advisers with the design of NSMIA to allocate responsibility for regulating smaller advisers to state securities authorities. Several commenters urging us to expand the rule suggested approaches that would or could result in the migration of a large number of smaller advisers to Commission registration. On the other hand, some of the commenters opposing or arguing for substantial narrowing of our proposed exemption seemed not to appreciate fully the burdens of multiple registration on Internet Investment Advisers.
+
+Absent an exemption, Internet Investment Advisers would likely incur the burden of temporarily registering in every state and later de-registering. State investment adviser registration statutes generally obligate advisers to register in every state in which the adviser obtains more than a de minimis number of clients. Because an Internet Investment Adviser uses an interactive website to provide investment advice, the adviser's clients can come from any state, at any time. As a result, an Internet Investment Adviser must as a practical matter register in every state. This ensures that the adviser's registrations will be in place when it later obtains the requisite number of clients from any particular state. The adviser may subsequently become eligible for our existing exemption under Rule 203A-2(e), permitting Commission registration for advisers otherwise obligated to register in at least 30 states, but not before the adviser had already incurred the burden of registering in every state.<sup> 13 </sup><h>A. New Rule 203A-2(f) </h>
+
+Under rule 203A-2(f), an adviser is exempt from the prohibition on Commission registration if the adviser provides investment advice to all of its clients exclusively through an interactive website. A limited exception, however, permits an adviser relying on the rule to provide investment advice to fewer than 15 clients through other means during the preceding 12 months. In addition, advisers registering with us in reliance on the rule must keep records demonstrating that they meet the conditions of the rule. We discuss each of the elements of the new exemption below.<h>1. Interactive Website </h>
+
+ The exemption is available only to an adviser that provides investment advice to clients exclusively through an "interactive website," except as permitted by the de minimis exception described below. The rule defines "interactive website" as a website in which computer software-based models or applications provide investment advice to clients based on personal information provided by each client through the website.<sup> 14 </sup> The rule is thus not available to advisers that merely use websites as marketing tools or that use Internet vehicles such as E-mail, chat rooms, bulletin boards and webcasts or other electronic media in communicating with clients. The Commission recognizes that most advisers today use (or could use) the Internet in some aspect of their business. As a result, expansion of the rule to include such activities as suggested by some commenters could undermine NSMIA's allocation of regulatory responsibility over smaller advisers to state securities authorities.
+
+In addition, the exemption is for advisers that provide investment advice to their Internet clients "exclusively" through their interactive websites. An adviser relying on the exemption may not use its advisory personnel to elaborate or expand upon the investment advice provided by its interactive website, or otherwise provide investment advice to its Internet clients, except as permitted by the de minimis exception discussed below.<sup> 15 </sup><h>2. De Minimis Exception for Non-Internet Clients </h>
+
+The new rule includes an exception that would permit an adviser relying on the rule to advise clients through means other than its interactive website, so long as the adviser had fewer than 15 of these non-Internet clients during the preceding 12 months. This is a change from the proposal, under which an adviser would have been eligible to rely on the rule so long as at least 90 percent of the adviser's clients obtained their investment advice exclusively through the interactive website. We included the "90 percent test" in our proposal to prevent Internet Investment Advisers from losing the exemption as a result of providing advice to a de minimis number of clients through means other than an interactive website. 
+
+A few commenters thought the rule should employ a lower percentage threshold permitting a greater level of non-Internet clients, which we believe would be inconsistent with the purpose of the exemption. Other commenters urged a narrower exemption, arguing that an adviser having a large number of Internet clients could, under the proposed 90 percent test, have as many or more non-Internet clients than many advisers have clients. 
+
+The commenters have persuaded us that the 90 percent test, as proposed, would have permitted more than a de minimis number of non-Internet clients. Accordingly, we have decided to replace the 90 percent test with a provision permitting an adviser relying on the rule to have fewer than 15 non-Internet clients during the course of the preceding twelve months.<sup> 16 </sup> In determining how many clients the adviser provided investment advice through means other than the adviser's interactive website for purposes of determining eligibility for the exemption, the rule provides that an Internet Investment Adviser may rely on the definition of "client" in rule 203(b)(3)-1.<sup> 17 </sup><h>3. Precluding Use of Rule 203A-2(c) </h>
+
+One commenter expressed concern that, absent changes to the language of the proposed rule, some advisers might use rule 203A-2(c) to attempt to evade the limit on the number of non-Internet clients under new rule 203A-2(f). Rule 203A-2(c) exempts an adviser from the prohibition on Commission registration if the adviser controls, is controlled by, or is under common control with, another SEC-registered adviser with the same principal place of business. The commenter expressed concern that an Internet Investment Adviser intent on evading the restrictions on non-Internet clients under new rule 203A-2(f) might attempt to organize a subsidiary firm to serve its non-Internet clients, and assert rule 203A-2(c) as a basis to register the subsidiary with the SEC, even though the subsidiary does not manage $25 million of client assets.<sup> 18 </sup> To forestall any such efforts, 203A-2(f), as adopted, is unavailable to an Internet Investment Adviser if another adviser in a control relationship with the Internet Investment Adviser relies on the Internet Investment Adviser's registration under rule 203A-2(f) as the basis for its own registration under rule 203A-2(c).<sup> 19 </sup><h>4. Recordkeeping Requirements </h>
+
+The rule requires an adviser relying on the exemption to maintain records demonstrating that it provides investment advice to its clients exclusively through an interactive website in accordance with the limits of the exemption.<sup> 20 </sup> An advisory firm relying on the exemption could comply with this requirement by maintaining records showing which of its clients the firm advised exclusively through its interactive website and which, if any, of its clients the firm advised through non-Internet means.<sup> 21 </sup><h>B. Form ADV </h>
+
+We are also amending Part 1 of Form ADV, the Uniform Application for Investment Adviser Registration. Advisers register with us by electronically submitting the information required by Part 1 of Form ADV through the Investment Adviser Registration Depository (the "IARD"). We are adding the exemption under rule 203A-2(f) to the list of exemptions in Item 2 of Part 1, in which advisers registering with us indicate the basis upon which they are eligible to register with the SEC.
+
+It will be some number of months before the National Association of Securities Dealers ("NASD"), which operates the IARD for us, completes reprogramming the IARD to implement this change to Item 2 of Part 1. In the interim, advisers relying on the 203A-2(f) exemption to register with us should select current Item 2(10), for registrants eligible for registration by SEC order, and in Schedule D, current Item 2.A(10), enter "203A-2(f)" in lieu of an application number. Upon NASD's implementation of the new 203A-2(f) exemption selection on IARD, registrants should amend their Item 2 selection and remove the Schedule D reference to the rule no later than their next annual amendment of Part 1.<h>III. Effective Date </h>
+
+The effective date of the new rule and rule amendments is January 20, 2003.<h>IV. Cost-Benefit AnalysisA. Background </h><h>A. Background </h>
+
+The Commission is sensitive to the costs and benefits imposed by its rules. New rule 203A-2(f) provides relief to Internet Investment Advisers. Under the rule, an Internet Investment Adviser is exempt from the prohibition on Commission registration if the adviser provides investment advice to all of its clients exclusively through its interactive website (except that the adviser may advise fewer than 15 clients through other means during the preceding 12 months). In addition, advisers registering with us in reliance on the rule must keep records demonstrating that they meet the conditions of the rule. Without the exemption to the prohibition on Commission registration as provided by new rule 203A-2(f), Internet Investment Advisers typically would not initially be eligible to register with us, as they do not manage the assets of their Internet clients, and, consequently, would not meet the $25 million statutory threshold for SEC-registration. Unlike a typical state-registered adviser, an Internet Investment Adviser's advisory activities are not confined to one or a few states. Because an Internet Investment Adviser uses an interactive website to provide investment advice, the adviser's clients can come from any state, at any time , without the adviser's prior knowledge. As a result, an Internet Investment Adviser must register in all states, ensuring it has its registration in place when the firm obtains the requisite number of clients from any particular state. Consequently, these advisers would be required, absent an exemption, to register in every state. 
+
+Moreover, the Commission's existing exemptive rules would not work for these advisers. For example, an Internet Investment Adviser relying on the multi-state exemption under rule 203A-2(e) must represent that it has reviewed its obligations under state law and has concluded that it would be required to register as an investment adviser with the securities administrators of at least 30 states. The state registration obligations of Internet Investment Advisers depend on the residences of their clients, and their clients can come from any state at any time. Thus, as a practical matter, these advisers would still need to register in every state and wait until they encounter registration obligations in 30 states before registering under rule 203A-2(e) and then canceling their state registrations. 
+
+Nor is it likely Internet Investment Advisers could rely on rule 203A-2(d) to carry them through an initial period of operation without state registration in anticipation of eligibility under the multi-state exemption. If an adviser relying on rule 203A-2(d) has not become eligible for SEC registration within 120 days, it must withdraw its registration. Internet Investment Advisers must typically register early in their development and testing phase in order to obtain venture capital, and many may not even be fully operational 120 days later. 
+
+In adopting rule 203A-2(f) and amendments to Form ADV, the Commission has given consideration to the costs, as well as the benefits of the new exemption.<h>B. Benefits </h>
+
+Rule 203A-2(f) will, we believe, provide several important benefits to Internet Investment Advisers. We have limited data on the number of Internet Investment Advisers who would be eligible to obtain these benefits, since most do not currently register with us. Based on news articles, we estimate that as many as 20 firms could avail themselves of the exemption. In the Proposing Release, we requested that commenters with additional data provide it to us. However, few commenters addressed the number of Internet Investment Advisers potentially eligible for the exemption, and none provided supporting data. Importantly, while these commenters were not in agreement whether our estimate was too high or too low, all agreed that the number of firms eligible to benefit by the exemption would likely grow in the future. 
+
+The rule will benefit Internet Investment Advisers by relieving them of the burden of registering temporarily in every state and subsequently deregistering upon becoming eligible under the multi-state exemption, as discussed above. To register in every state, an advisory firm will, in all likelihood, need assistance of counsel to perform several tasks. These include evaluating the statutes and regulations of each state to check for any disparities, responding to varying comments on the firm's registration submissions from multiple state securities administrators, reviewing the firm's operations for compliance with the statutory and regulatory requirements of every state, and the like. Several small firms commenting on the rule stated that the burden of complying with the registration requirements of multiple states prohibited or significantly impeded their firm's ability to provide investment advice to clients in multiple states.
+
+To estimate the approximate cost advisory firms would incur to obtain these services, our staff engaged in discussions with counsel familiar with state adviser registration and regulatory issues. Based on these discussions, we estimate the cost to be approximately $50,000 for each adviser, for a total of $1 million for all 20 advisers.<sup> 22 </sup> Some commenters asserted that the $50,000 estimate was significantly in excess of true costs, but none of these commenters provided any cost data or estimates of their own. One of these commenters asserted the estimate was flawed because it was based on registration with every state, whereas an Internet Investment Adviser would only be required to register in 29 states, and would then become eligible for the multi-state exemption once the adviser's registration obligations were triggered in a thirtieth state. However, this commenter did not explain how the Internet Investment Adviser, whose clients can come from any state at any time, would be able to predict which 29 states to register with as an initial matter. This commenter also argued the $50,000 estimate should be reduced to reflect the amount a firm would save on costs associated with SEC registration. We did not include such costs as an offset in our estimate, since the firm would still incur them upon reaching eligibility for our multi-state exemption. 
+
+The benefits of rule 203A-2(f) would also include other benefits that are difficult to quantify. Subjecting Internet Investment Advisers to the cost of registering temporarily in all states and to multiple state regulation acts as an impediment to launching these businesses. Rule 203A-2(f) would benefit this segment of the advisory industry by removing this potential barrier to entry, and may enable more firms to offer these types of Internet-based services. Other benefits include the savings to affected advisers from the cost of examinations by multiple states' regulators, as well as the savings to state securities authorities that would no longer examine these firms.<h>C. Costs </h>
+
+Rule 203A-2(f) would impose certain costs on advisers relying on the exemption. The Commission estimated that the total cost to each Internet Investment Adviser to comply with the recordkeeping provision of the new rule would be approximately $138.80,<sup> 23 </sup> such that the total cost for the 20 advisers that may be eligible for the new exemption at this time would be $2,776.<sup> 24 </sup>
+
+We have concluded that the benefits of rule 203A-2(f) and form amendments adopted today justify their costs.<h>V. Paperwork Reduction Act </h>
+
+As set forth in the Proposing Release, certain provisions of rule 203A-2(f) and form amendments that we are adopting today contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 (the "PRA").<sup> 25 </sup> The titles for the collections of information are "Exemption for Certain Investment Advisers Operating Through the Internet" and "Form ADV," both under the Advisers Act. The Commission submitted those collection of information requirements to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. The collection of information for Form ADV has been previously approved under OMB control number 3235-0049 (expires June 30, 2003). The collection of information for rule 203A-2(f) has recently been approved by OMB; the OMB control number is 3235-0559 (expires November 30, 2005). An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.<h>A. Rule 203A-2(f) </h>
+
+Rule 203A-2(f) includes a recordkeeping provision requiring an adviser registering under the new rule to maintain a record demonstrating that, with the exception of fewer than 15 clients during the preceding 12 months, all of its clients obtained investment advice exclusively through the adviser's interactive website. This recordkeeping provision contains a new "collection of information" requirement within the meaning of the PRA. Although we anticipate that most Internet Investment Advisers would generate the necessary records in the ordinary conduct of their Internet advisory business, we believe, as discussed in the Proposing Release, that the recordkeeping requirement might impose a small additional burden on these advisers. 
+
+In the Proposing Release, we estimated that the recordkeeping burden under the proposed rule should not exceed an average of four hours annually per Internet Investment Adviser. We also estimated that there would be approximately 20 potential respondents to the collection of information, for a total burden of 80 hours annually. We requested comments on the recordkeeping requirements, as well as on the number of Internet Investment Advisers likely to register with the Commission under the proposed rule.
+
+Only one commenter addressed our request for comment on the reasonableness of our estimate of the recordkeeping burden of the proposed rule. The commenter noted that the burden appeared reasonable and necessary. As for the number of advisers likely to register with us under the proposed rule, four commenters responded with views on this issue. One of the four thought our estimate was too low, suggesting 50 instead. Another of the four, however, considered our estimate of 20 too high. All four commenters opined that the number of Internet Investment Advisers would likely grow in the future.
+
+Rule 203A-2(f) is being adopted as proposed, with the exception that the de minimis exception for non-Internet clients was revised to state that an adviser relying on the rule may only accept fewer than 15 such clients during the preceding 12 months, and the adviser may not rely on the rule if another adviser with whom it is in a control relationship relies solely on the Internet adviser`s registration under rule 203A-2(f) to register under rule 203A-2(c). The burden estimate is unchanged. Providing the information required under rule 203A-2(f) is mandatory, as Commission staff uses this collection of information in its examination and oversight program. Responses to the information generally will not be kept confidential.<h>B. Form ADV </h>
+
+Rule 203A-2(f) adds a new category of advisers eligible for Commission registration and requires that Form ADV be amended. The addition of Internet Investment Advisers will increase the total burden under Form ADV, but these advisers' burden for completing Form ADV would not differ from that for current registrants. The Commission has revised its estimate of the burden hours required by Form ADV as a result of a change in the number of estimated respondents. We estimated in the Proposing Release that approximately 20 Internet Investment Advisers would register with the Commission under the proposed rule, and that each of these advisers would file one complete Form ADV and one amendment annually. The increase in the total annual burden for this collection of information results in a total revised burden of 46,921 hours.<sup> </sup>We requested comments on these estimates. As stated above, only one commenter addressed our request for comment on the reasonableness of the estimated recordkeeping burden of the proposed rule, by noting that the estimated burden appeared reasonable and necessary. 
+
+Providing the information required by Form ADV is mandatory, and responses to the information will not be kept confidential. The amendments to Form ADV were adopted substantially as proposed, and the burden estimate has not changed.<h>VI. Summary of Final Regulatory Flexibility Analysis </h>
+
+An Initial Regulatory Flexibility Analysis ("IRFA") was published in the Proposing Release. No comments were received on the IRFA. The Commission has prepared a Final Regulatory Flexibility Analysis ("FRFA"), in accordance with 5 U.S.C. 604, regarding rule 203A-2(f) and the amendments to Form ADV. The following summarizes the FRFA.
+
+The FRFA discusses the need for, and objectives of, the new rule exempting Internet Investment Advisers from the prohibition on Commission registration. Advisory firms eligible for the exemption will be relieved of the burden of temporarily registering in every state. 
+
+The FRFA also discusses the effect of the rule and rule amendments on small entities. For purposes of the Advisers Act and the Regulatory Flexibility Act, an investment adviser generally is a small entity if (i) it manages assets of less than $25 million reported on its most recent Schedule I to Form ADV; (ii) it does not have total assets of $5 million or more on the last day of the most recent fiscal year and (iii) it is not in a control relationship with another investment adviser that is not a small entity.<sup> 26 </sup> The FRFA states that the Commission estimates that approximately 20 advisers will be affected by rule 203A-2(f), and all 20 are likely to be small entities. 
+
+As discussed in the FRFA, rule 203A-2(f) imposes no new reporting requirements, but does impose recordkeeping requirements on advisers, including small advisers, that provide advisory services through interactive websites. Rule 203A-2(f) requires advisers registering under the new rule to maintain in an easily accessible place a record demonstrating that, with the exception of fewer than 15 clients during the preceding 12 months, all of its clients obtained investment advice exclusively through the adviser's interactive website. As the FRFA notes, these advisers will likely generate these records in the ordinary course of their business, and the Commission believes they will not incur any significant burden under the recordkeeping requirement. The FRFA also notes that the amendments to Form ADV, requiring advisers relying on the exemption to check a box indicating their eligibility for the exemption, would have no measurable effect on these advisers.
+
+The FRFA discusses alternatives considered by the Commission in adopting the rule that might minimize adverse effects on small advisers, including (a) the establishment of differing compliance or recordkeeping requirements or timetables that take into account resources available to small advisers; (b) the clarification, consolidation, or simplification of compliance and recordkeeping requirements under the new rule and rule amendments for small advisers; (c) the use of performance rather than design standards; and (d) an exemption from coverage of the new rule and rule amendments, or any part thereof, for small advisers. 
+
+The FRFA states that the compliance and reporting requirements contained in the new rule will not impose a significant burden on small advisers relying on the rule. As such, it does not appear necessary to establish differing compliance and reporting requirements for small entities. The FRFA also states that small advisers will likely generate records to satisfy the compliance and recordkeeping requirements in the ordinary course of their businesses, and as a result it is not necessary to clarify, consolidate, or simplify these requirements. Regarding the use of performance rather than design standards, the FRFA discusses that the rule uses performance standards in that the rule does not specify the means by which an adviser must keep records to demonstrate its compliance with the rule. Finally, the FRFA notes that exempting small advisers from these recordkeeping requirements would be inconsistent with NSMIA's allocation of regulatory responsibility for smaller advisers to the states, because the Commission will use these records in connection with its examination and oversight program to verify an adviser's eligibility to register with the Commission under the exemption instead of registering with state securities authorities. 
+
+The FRFA is available for public inspection in File No. S7-10-02. A copy of the FRFA may be obtained by contacting Marilyn Barker, Senior Counsel, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0506.<h>VII. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 Unless otherwise noted, when we refer to rule 203A-2 or any paragraph of the rule, we are referring to 17 CFR 275.203A-2 of the Code of Federal Regulations in which the rule is published, as amended by this release.
+
+2 Pub. L. No. 104-290, 110 Stat. 3416 (1996)(codified in scattered sections of the United States Code).
+
+3 15 U.S.C. 80b-18a. Advisers prohibited from registering with us remain subject to the regulation of state securities authorities.
+
+4 See S. Rep. No. 293, 104th Cong., 2d Sess. 3-5 (1996) (hereinafter Senate Report).
+
+5 15 U.S.C. 80b-3a(c). Section 203A was designed to allow the Commission to better use its limited resources by concentrating its regulatory responsibilities on advisers with national businesses, and to reduce the burden to investment advisers of the overlapping and duplicative regulation (existing prior to the enactment of NSMIA) by preempting state investment adviser statutes, thus subjecting advisers with national businesses to a single regulatory program administered by the Commission. See Senate Report at 2-4. Relying on this authority, the Commission has adopted and amended rule 203A-2 under the Advisers Act to permit nationally recognized statistical rating organizations, certain pension consultants, affiliated investment advisers, newly formed investment advisers, and advisers operating in multiple states to register with the Commission even if these advisers otherwise would not meet the criteria for Commission registration.
+
+6 Exemption for Certain Investment Advisers Operating Through the Internet , Investment Advisers Release No. 2028 (April 12, 2002)[(67 FR 19500 (April 19, 2002))]("Proposing Release").
+
+7 Internet Investment Advisers are required to provide these prospective Internet clients with a copy of their client brochure. Rule 204-3 [17 C.F.R. 275.204-3](an investment adviser must deliver either a copy of their Part 2 of Form ADV [17 C.F.R. 279.1] or a narrative brochure that contains at least the information required in Part 2). The personalized nature of the investment advice provided by these interactive websites makes the exception under Rule 204-3 for impersonal advisory services unavailable. Internet Investment Advisers may deliver their client brochure electronically, in compliance with previous SEC guidance on electronic delivery. See Use of Electronic Media by Broker-Dealers, Transfer Agents, and Investment Advisers for Delivery of Information , Investment Advisers Act Release No. 1562 (May 9, 1996) [61 FR 24644 (May 15, 1996)].
+
+8 See discussion in text accompanying note 13, infra .
+
+9 See discussion in Proposing Release at section I.
+
+10 These comment letters and a summary of comments prepared by our staff are available for public inspection and copying at our Public Reference Room in File No. S7-10-02. The comment summary is also available on our Internet website at .
+
+11 See Section I. of the Proposing Release.
+
+12 Section 203A(c).
+
+13 An Internet Investment Adviser relying on the multi-state adviser exemption provision would not be eligible for that exemption until the adviser had obtained the requisite number of clients in 30 states to trigger its registration obligations in those states. Under that rule, the adviser must represent that it has reviewed its obligation under state and federal law and has concluded that it would be required to register with the securities administrators of at least 30 states. Rule 203A-2(e)(2).
+
+14 Rule 203A-2(f)(2). In response to one comment requesting technical clarification of the definition, we have added language clarifying that an interactive website is one which provides advice based on personal information supplied by the client, in order to distinguish websites covered by the exemption from other types of websites that aggregate and provide financial information in response to user-provided requests that do not include personal information.
+
+15 The firm may still provide clients with assistance in the technical aspects of accessing and using the interactive website.
+
+16 The new rule's de minimis exception is similar to section 203(b)(3) of the Advisers Act [15 U.S.C. 80b-2(b)(3)], which exempts from the requirement to register with the Commission any adviser that, during the course of the preceding 12 months, has had fewer than 15 clients. We did not include the other requirements under section 203(b)(3), that the adviser may not hold itself out generally to the public as an investment adviser, and may not act as investment adviser to any registered investment company or business development company.
+
+17 See rule 203A-2(f)(3) (citing rule 203(b)(3)-1 [17 CFR 275.203(b)(3)-1]). Rule 203(b)(3)-1 provides a safe harbor provision for purposes of determining who may be deemed to be a single client for purposes of section 203(b)(3).
+
+18 Such an attempt would not, however, be successful because it would violate section 208(d) of the Advisers Act [15 U.S.C. 80b-8(d)], which makes it unlawful for any person "indirectly, or through or by any other person, to do any act or thing which it would be unlawful for such person to do directly" under the Advisers Act.
+
+19 Rule 203A-2(f)(1)(iii). An investment adviser controlled, controlling, or under common control with two or more SEC-registered investment advisers, only one of which is an Internet Investment Adviser, may still rely on the Commission registration of the other adviser to establish its eligibility for the exemption in rule 203A-2(c), and the Internet Investment Adviser will not be precluded from relying on rule 203A-2(f).
+
+20 Rule 203A-2(f)(1)(ii).
+
+21 Internet Investment Advisers maintaining these records in electronic form must do so in compliance with the Commission's rules on electronic recordkeeping, rule 204-2(g) [17 CFR 275.204-2(g)].
+
+22 $50,000 x 20 = $1,000,000. This figure does not, however, include the time to complete Form ADV initially and the fees to file Form ADV through the IARD, since advisers relying on the exemption will still incur these costs in registering with us. Similarly, this figure does not include state registration fees. States impose notice filing requirements upon Commission-registered advisers doing business in their states, with associated fees approximately equivalent to state registration fees.
+
+23 The Commission estimated this figure by multiplying the burden hours to comply with the proposed rule's recordkeeping requirements (4 hours) by an average hourly compensation rate of $34.70. This compensation rate includes overhead and is the rate for an operations supervisor outside of New York City, based on a 2000 study by the Securities Industry Association. The estimate of burden hours is based on the Commission's submission for the proposed rule under the Paperwork Reduction Act and reflects recent discussions with counsel familiar with advisers' recordkeeping issues. See infra Section V of this Release.
+
+24 20 x $138.80 = $2,776.
+
+25 44 U.S.C. 3501-3520.
+
+26 Rule 0-7 [17 CFR 275.0-7].

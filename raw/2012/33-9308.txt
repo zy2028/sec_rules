@@ -1,0 +1,631 @@
+https://www.sec.gov/rules/final/2012/33-9308.pdf
+
+I.0.0.0 BACKGROUND AND SUMMARY
+
+II.0.0.0 DISCUSSION OF THE FINAL RULES AND AMENDMENTS
+
+	II.A.0.0 Exemption from Securities Act Registration – Securities Act Rule 239
+
+		II.A.1.0 Proposed Rule
+
+		II.A.2.0 Comments
+
+		II.A.3.0 Final Rule
+
+	II.B.0.0 Exemptions from Exchange Act Section 12 Registration – Exchange Act Rules 12a-10 and Rule 12h-1(h)
+
+		II.B.1.0 Proposed Rule and Amendment
+
+		II.B.2.0 Comments
+
+		II.B.3.0 Final Rule and Amendment
+
+	II.C.0.0 Exemption from the Trust Indenture Act – Trust Indenture Act Rule 4d-11
+
+		II.C.1.0 Proposed Rule
+
+		II.C.2.0 Comments
+
+		II.C.3.0 Final Rule
+
+	II.D.0.0 Implications of Security-Based Swaps as Securities
+
+	II.E.0.0 Expiration of Temporary Exemptions for Eligible CDS
+
+III.0.0.0 CERTAIN ADMINISTRATIVE LAW MATTERS
+
+IV.0.0.0 ECONOMIC ANALYSIS
+
+V.0.0.0 PAPERWORK REDUCTION ACT
+
+	V.A.0.0 Background
+
+	V.B.0.0 Summary of Collection of Information
+
+	V.C.0.0 Paperwork Reduction Act Burden Estimates
+
+	V.D.0.0 Recordkeeping Requirements
+
+VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE RULES AND AMENDMENTS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 230, 240 and 260
+
+[Release Nos. 33-9308; 34-66703; 39-2484; File No. S7-22-11] RIN 3235-AL16
+
+EXEMPTIONS FOR SECURITY-BASED SWAPS ISSUED BY CERTAIN CLEARING AGENCIES
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: We are adopting exemptions under the Securities Act of 1933, the Securities Exchange Act of 1934, and the Trust Indenture Act of 1939 for security-based swaps issued by certain clearing agencies satisfying certain conditions. The final rules exempt transactions by clearing agencies in these security-based swaps from all provisions of the Securities Act, other than the Section 17(a) anti-fraud provisions, as well as exempt these security-based swaps from Exchange Act registration requirements and from the provisions of the Trust Indenture Act, provided certain conditions are met.
+
+EFFECTIVE DATE: The final rules are effective April 16, 2012.
+
+FOR FURTHER INFORMATION CONTACT: Andrew Schoeffler, Special Counsel, Office of Capital Markets Trends, Division of Corporation Finance, at (202) 551-3860, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-3628.
+
+SUPPLEMENTARY INFORMATION: We are adopting Rule 239 under the Securities Act
+
+of 1933 (“Securities Act”). <sup>1</sup>
+
+We are also adopting Rule 12a-10 and an amendment to Rule 12h-1
+
+under the Securities Exchange Act of 1934 (“Exchange Act”) <sup>2</sup> and Rule 4d-11 under the Trust Indenture Act of 1939 (“Trust Indenture Act”). <sup>3</sup>
+
+<END HEADER>
+
+<h>I. BACKGROUND AND SUMMARY</h>
+
+On July 21, 2010, the President signed the Dodd-Frank Act into law. <sup>4</sup>
+
+Title VII of the
+
+Dodd-Frank Act (“Title VII”) provides the Securities and Exchange Commission (“SEC” or the “Commission”) and the Commodity Futures Trading Commission (“CFTC”) with the authority to regulate over-the-counter (“OTC”) derivatives in light of the recent financial crisis.
+
+Title VII provides that the CFTC will regulate “swaps,” the SEC will regulate “security-based swaps,” and the CFTC and SEC will jointly regulate “mixed swaps.” <sup>5</sup>
+
+Title VII amendsthe Exchange Act to require, among other things, the following: (1) transactions in security- based swaps must be submitted for clearing to a clearing agency if such security-based swap isone that the Commission has determined is required to be cleared, unless an exception from mandatory clearing applies; <sup>6</sup> (2) transactions in security-based swaps must be reported to a registered security-based swap data repository (“SDR”) or the Commission; <sup>7</sup> and (3) if a security-based swap is subject to mandatory clearing, transactions in security-based swaps must be executed on an exchange or a registered or exempt security-based swap execution facility (“security-based SEF”), unless no exchange or security-based SEF makes such security-based swap available for trading or the security-based swap transaction is subject to the clearing exception in Exchange Act Section 3C(g). <sup>8</sup>
+
+Title VII seeks to ensure that, wherever possible and appropriate, security-based swaps are cleared. <sup>9</sup> Paragraph (a)(1) of new Exchange Act Section 3C establishes a mandatory clearingrequirement for certain security-based swaps. <sup>10</sup>
+
+Exchange Act Section 3C(b) sets forth a processby which we would determine whether a security-based swap or any group, category, type orclass of security-based swap that a clearing agency plans to accept for clearing is required to be cleared. <sup>11</sup> If we make a determination that a security-based swap is required to be cleared, then parties may not engage in such a security-based swap without submitting it for clearing, unless an exception applies. <sup>12</sup> If we make a determination that a security-based swap is not required to be cleared, such security-based swap may still be cleared on a non-mandatory basis by the clearing agency if it has rules that permit it to clear such security-based swap. <sup>13</sup> Further, pending the adoption of rules implementing the mandatory clearing requirement, a clearing agency may clear security-based swaps that the clearing agency’s rules permit it to clear. <sup>14</sup>
+
+Clearing agencies are broadly defined under the Exchange Act and may undertake avariety of functions. <sup>15</sup> One such function is to act as a central counterparty (“CCP”). <sup>16</sup>
+
+Forexample, when a security-based swap between two counterparties that are members of a CCP is executed and submitted for clearing, the original contract is extinguished and is replaced by two new contracts where the CCP is the buyer to the seller and the seller to the buyer. This process is known as “novation.” <sup>17</sup> At that point, the original counterparties are no longer counterparties to each other. As a result, the creditworthiness and liquidity of the CCP is substituted for the creditworthiness and liquidity of the original counterparties. <sup>18</sup>
+
+Under the rules we proposed regarding mandatory clearing, to meet the clearing requirement in Exchange Act Section 3C, the parties would be required to submit security-based swaps required to be cleared to a clearing agency that functions as a CCP for central clearing. <sup>19</sup> Those proposed rules also would establish procedures for a clearing agency to submit to us for a review each security-based swap, or group, category, type or class of security-based swap that the clearing agency plans to accept for clearing. We would review the submission and make a determination about whether the security-based swap, or group, category, type or class ofsecurity-based swap, is required to be cleared. <sup>20</sup>
+
+Under the statute and the proposed rules, the
+
+Agency Standards for Operation and Governance , Release No. 34-64017 (Mar. 3, 2011), 76 FR 14472 (Mar. 16, 2011) (“Clearing Agency Standards Proposing Release”).submission would be publicly available and a public comment period would be provided with respect to whether the clearing requirement will apply. <sup>21</sup>
+
+If we determine that a security-based swap, or group, category, type, or class of security- based swap, is required to be cleared, counterparties would be required to submit such security- based swaps negotiated and entered into bilaterally to the clearing agency for novation. <sup>22</sup> If we determine that a security-based swap, or group, category, type, or class of security-based swap, is not required to be cleared, such security-based swap, or group, category, type, or class of security-based swap, may still be cleared on a voluntary basis by a clearing agency that functionsas a CCP if the clearing agency has rules that permit it to clear such security-based swap. <sup>23</sup>
+
+Forsecurity-based swaps submitted for novation, the CCP will be the issuer of new security-based swaps.
+
+Because the definition of “security” in the Securities Act was amended in Title VII to include security-based swaps, <sup>24</sup> the novation of a security-based swap by a clearing agency functioning as a central counterparty involves an offer and sale by the clearing agency of a security (the security-based swap) under the Securities Act. The Securities Act requires that any offer and sale of a security must either be registered under the Securities Act or made pursuant toan exemption from registration. <sup>25</sup>
+
+Certain provisions of the Exchange Act relating to theregistration of classes of securities and the indenture qualification provisions of the Trust Indenture Act also potentially will apply to security-based swaps. The provisions of Section 12 of the Exchange Act could, without an exemption, require that security-based swaps be registered before a transaction could be effected on a national securities exchange. <sup>26</sup> In addition, registration of a class of security-based swaps under Section 12(g) of the Exchange Act will be required if the security-based swap is considered an equity security and there are more than 500 record holders of a particular class of security-based swaps at the end of a fiscal year. Further, without an exemption, the Trust Indenture Act requires qualification of an indenture for security- based swaps considered to be debt. <sup>27</sup>
+
+The provisions of Title VII do not contain an exemption from Securities Act or Exchange Act registration, or from Trust Indenture Act qualification, for security-based swaps. However, we believe that compliance by the clearing agency with the registration and qualification provisions of these Acts likely will be impracticable and frustrate the purposes of Title VII. We have taken action in the past to facilitate clearing of certain credit default swaps by clearing agencies functioning as CCPs. For example, prior to enactment of the Dodd-Frank Act, we permitted five clearing agencies to clear certain credit default swaps (“eligible CDS”) on atemporary conditional basis. <sup>28</sup>
+
+To facilitate the operation of clearing agencies as CCPs foreligible CDS, we also adopted temporary exemptions from certain provisions of the Securities Act, the Exchange Act and the Trust Indenture Act, subject to certain conditions. <sup>29</sup> In the adopting release, we noted that we believed that the existence of CCPs for CDS would beimportant in helping to reduce counterparty risks inherent in the CDS market. <sup>30</sup>
+
+In addition to
+
+Act of 1934 in Connection With Request of Chicago Mercantile Exchange Inc. and Citadel Investment Group, L.L.C. Related to Central Clearing of Credit Default Swaps, and Request for Comments , Release No. 34-59578 (Mar. 13, 2009), 74 FR 11781 (Mar. 19, 2009); Order Granting Temporary Exemptions Under the Securities Exchange Act of 1934 in Connection With Request on Behalf of ICE US Trust LLC Related to Central Clearing of Credit Default Swaps, and Request for Comments , Release No. 34-59527 (Mar. 6, 2009), 74 FR 10791 (Mar. 12, 2009); and Order Granting Temporary Exemptions Under the Securities Exchange Act of 1934 in Connection with Request of LIFFE Administration and Management and LCH.Clearnet Ltd.
+
+Related to Central Clearing Of Credit Default Swaps, and Request for Comments , Release No. 34-59164 (Dec. 24, 2008), 74 FR 139 (Jan. 2, 2009). The Commission subsequently extended and, in certain cases, modified certain of these temporary exemptive orders. See Release No. 34- 61973 (Apr. 23, 2010), 75 FR 22656 (Apr. 29, 2010) and Release No. 34-63389 (Nov. 29, 2010),75 FR 75520 (Dec. 3, 2010) (extending the order granted to ICE Clear Europe, Limited); Release No. 34-61975 (Apr. 23, 2010), 75 FR 22641 (Apr. 29, 2010) and Release No. 34-63390 (Nov. 29,2010), <sup>75</sup> FR <sup>75518</sup> (Dec. 3, 2010) (extending and modifying the order granted to Eurex Clearing
+
+AG); Release No. 34-61164 (Dec. 14, 2009), 74 FR 67258 (Dec. 18, 2009), Release No. 34-61803 (Mar. 30, 2010), 75 FR 17181 (Apr. 5, 2010), and Release No. 34-63388 (Nov. 29, 2010),75 FR 75522 (Dec. 3, 2010) (extending and modifying the order granted to Chicago Mercantile Exchange Inc.); and Release No. 34-61119 (Dec. 4, 2009), <sup>74</sup> FR <sup>65554</sup> (Dec. 10, 2009), Release
+
+No. 34-61662 (Mar. 5, 2010), 75 FR 11589 (Mar. 11, 2010), and Release No. 34-63387 (Nov. 29,2010), 75 FR 75502 (Dec. 3, 2010) (extending and modifying the order granted to ICE US Trust LLC). LIFFE A&M and LCH.Clearnet Ltd. allowed their temporary exemptive orders to lapse without seeking an extension.those actions with respect to eligible CDS, as discussed further below, we adopted exemptions under the Securities Act and the Exchange Act for certain standardized options. <sup>31</sup>
+
+On June 9, 2011, we proposed exemptions from the registration requirements of the Securities Act and the Exchange Act, and from the qualification requirements of the Trust Indenture Act, for security-based swaps issued by certain clearing agencies satisfying certain conditions to facilitate the intent of Dodd-Frank Act with respect to mandatory clearing of security-based swaps. <sup>32</sup> The proposed rules would exempt certain transactions by clearing agencies in these security-based swaps from all provisions of the Securities Act, other than the Section 17(a) anti-fraud provisions, as well as exempt these security-based swaps from the Exchange Act registration requirements and from the provisions of the Trust Indenture Act, provided certain conditions are met. <sup>33</sup>
+
+ICE Clear Europe, Ltd., and Chicago Mercantile Exchange Inc. As a result of the deemed registered provision, we had to grant a temporary exemptive order to these clearing agencies only relating to Sections 5 and 6 of the Exchange Act. This temporary exemptive order will expire upon the earliest compliance date set forth in any of the final Title VII rules regarding registration of security-based SEFs. See Order Granting Temporary Exemptions under the Securities Exchange Act of 1934 in Connection with the Pending Revision of the Definition of “Security” to Encompass Security-Based Swaps, and Request for Comment , Release No. 34-64795 (Jul. 1, 2011). The new temporary exemptive order contains conditions similar to those set forth in the temporary exemptive orders in effect prior to the deemed registered provisions pursuant to which certain clearing agencies were permitted to clear eligible CDS. See footnote 28 above.
+
+The Proposing Release requested comment on a variety of significant aspects of the proposed exemptions. We received seven comment letters in connection with the Proposing Release, of which six commented on the proposed exemptions. <sup>34</sup> Most commentators supported the proposed exemptions and did not suggest any changes to the exemptions as they applied to security-based swaps issued by a registered or exempt clearing agency in its function as a CCP. <sup>35</sup>
+
+As discussed below, a few commentators suggested additional exemptions for security-based swaps. We have reviewed and considered all of the comments that we received relating to the proposed exemptions.the Division of Corporation Finance issued a no-action letter that addressed the availability of these interim exemptions to offers and sales of security-based swaps that are based on or reference only loans or indexes only of loans. See Cleary Gottlieb Steen & Hamilton LLP (July 15, 2011). We understand that the staff intends to withdraw this no-action letter upon the compliance date for the final rules the Commission may adopt further defining both the terms “security-based swap” and “eligible contract participant.”
+
+As described in detail below, we are adopting the rules as proposed without modification.
+
+The exemptions we are adopting in this release cover all security-based swaps that may be cleared, including eligible CDS that currently are being issued in reliance on the temporary exemptions for eligible CDS that expire on April 16, 2012.
+
+<h>II. DISCUSSION OF THE FINAL RULES AND AMENDMENTS</h>
+
+<h>A. Exemption from Securities Act Registration – Securities Act Rule 239</h>
+
+<h>1. Proposed Rule</h>
+
+We proposed Securities Act Rule 239 to exempt the offer and sale of security-based swaps that are or will be issued to eligible contract participants by, and in a transaction involving, a clearing agency that is registered under Section 17A of the Exchange Act or exempt from such registration by rule, regulation or order of the Commission in its function as a CCP, from all provisions of the Securities Act, except the anti-fraud provisions of Section 17(a), subject to certain conditions.
+
+<h>2. Comments</h>
+
+Commentators generally supported proposed Securities Act Rule 239. <sup>36</sup> We received only one specific comment on the proposed rule. <sup>37</sup> This commentator suggested that the Commission provide an exemption under the Securities Act similar to the proposed rule for transactions in uncleared security-based swaps entered into between eligible contract participantsand effected through any trading platform. <sup>38</sup>
+
+This commentator did not provide any explanationas to why such exemption was needed, including how security-based swap trading platformsoperate, that would enable us to evaluate whether another exemption under the Securities Act is necessary or appropriate.
+
+We requested comment in the Proposing Release and in the Interim SBS Exemptions Release as to whether security-based swaps are or will be transacted in a manner that would not permit the parties to rely on existing exemptions under the Securities Act. <sup>39</sup> We also requested comment in these releases on whether the Commission should consider additional exemptions under the Securities Act for security-based swaps traded on a national securities exchange or security-based SEF with eligible contract participants. <sup>40</sup> This commentator’s suggestion related to exemptions affecting transactions that do not involve registered or exempt clearing agencies and appears responsive to the request for whether additional exemptions should be considered. Thus, we believe that this commentator’s suggestion relating to uncleared security-based swaps is more appropriate to be considered in connection with the Interim SBS Exemptions Release and, therefore, we are not adopting rules at this time providing exemptions that would apply to uncleared security-based swaps, including those that may be effected on or through trading platforms. <sup>41</sup>
+
+<h>3. Final Rule</h>
+
+We are adopting Securities Act Rule 239 without any changes from the proposal. The final rule exempts the offer and sale of security-based swaps that are or will be issued to eligible contract participants by, and in a transaction involving, a clearing agency that is registered under
+
+Section 17A of the Exchange Act <sup>42</sup> or exempt from such registration <sup>43</sup> by rule, regulation or order of the Commission (“registered or exempt clearing agency”) in its function as a CCP, from all provisions of the Securities Act, except the anti-fraud provisions of Section 17(a), subject to the conditions described below. <sup>44</sup> Thus, Securities Act Rule 239 as adopted permits the offer and sale of security-based swaps to eligible contract participants that are or will be issued by, and in a transaction involving, a registered or exempt clearing agency in its function as a CCP without requiring compliance with Section 5 of the Securities Act. <sup>45</sup>
+
+Consistent with the proposal, under Securities Act Rule 239 as adopted, the offer and sale of a security-based swap is exempt from the provisions of the Securities Act, other than Section 17(a), if the following conditions are satisfied:
+
+The security-based swap is or will be issued by a clearing agency that is registered with us under Section 17A of the Exchange Act or exempt from such registration by rule, regulation or order of the Commission;
+
+The Commission has determined that the security-based swap is required to be cleared or the registered or exempt clearing agency is permitted to clear the security- based swap pursuant to its rules;
+
+The security-based swap is sold only to an eligible contract participant (as defined in Section 1a(18) of the Commodity Exchange Act) in a transaction involving the registered or exempt clearing agency in its function as a CCP with respect to the security-based swap; <sup>46</sup> and
+
+For each security-based swap that is offered or sold in reliance upon this exemption, the following information is included in an agreement covering the security-based swap the registered or exempt clearing agency provides to, or makes available to, its counterparty or is posted on a publicly available website maintained by the registered or exempt clearing agency:
+
+A statement identifying any security, issuer, loan, or narrow-based security index underlying the security-based swap;
+
+A statement indicating the security or loan to be delivered (or class of securities or loans), or if cash settled, the security, loan or narrow-based security index (or class of securities or loans) whose value is to be used to determine the amount of the settlement obligation under the security-based swap; and
+
+A statement of whether the issuer of any security or loan, each issuer of a security in a narrow-based security index, or each referenced issuer underlying the security-based swap is subject to the reporting requirements of Exchange Act Section 13 or Section 15(d) and, if not subject to such reporting requirements, whether public information, including financial information, about any such issuer is available and where the information is available.
+
+We believe this exemption will further the goal in the Dodd-Frank Act of central clearing of security-based swaps. Without exempting the offers and sales of such security-based swaps by a registered or exempt clearing agency in its function as a CCP from the Securities Act (other than Section 17(a)), we believe that a registered or exempt clearing agency may not be able to clear security-based swaps in the manner contemplated by the Dodd-Frank Act and our proposedrules implementing its provisions. Therefore, we believe that with the above conditions, an exemption from the Securities Act is necessary and appropriate in the public interest and consistent with the protection of investors.
+
+Registered or Exempt Clearing Agency Issuing Security-Based Swaps in its Function as a CCP
+
+Consistent with the proposal, the Securities Act exemption applies only to offers and sales of security-based swaps that are or will be issued by, and in a transaction involving, a clearing agency in its function as a CCP that is either registered with us or exempt from such registration by rule, regulation or order of the Commission. Registered clearing agencies are regulated by us under the Exchange Act and must comply with the standards in the Exchange Act, including the requirements of Section 17A. <sup>47</sup> The activities of such clearing agencies relating to the clearing or submission for clearing of security-based swaps are subject to regulation under the Exchange Act and applicable rules thereunder. <sup>48</sup> The Securities Act exemption also is available for security-based swaps that are issued by a clearing agency that we have exempted from registration with us by rule, regulation, or order, subject to such terms andconditions contained in any exemption. <sup>49</sup>
+
+We believe it is appropriate to make the Securities Act
+
+U.S.C. 78q(k)], which provides that “[t]he Commission may exempt, conditionally or unconditionally, a clearing agency from registration under this section for the clearing of security- based swaps if the Commission determines that the clearing agency is subject to comparable, comprehensive supervision and regulation by the Commodity Futures Trading Commission or the appropriate government authorities in the home country of the agency. Such conditions may include, but are not limited to, requiring that the clearing agency be available for inspection by the Commission and make available all information requested by the Commission.” Thus, although we have the authority under the Exchange Act, as amended by the Dodd-Frank Act, to provide exemptions from clearing agency registration, our authority to grant an exemption from registration for clearing agencies that clear security-based swaps is different than it is for other clearing agencies.exemption available to security-based swaps issued by exempt clearing agencies because in granting an exemption the Commission could impose appropriate conditions to the availability of the exemption that would provide protection to investors.
+
+The Securities Act exemption applies to the extent the clearing agency will issue or is issuing the security-based swap in its function as a CCP and applies to transactions involving such clearing agency. <sup>50</sup> We note that a clearing agency’s role as a CCP and an issuer of security- based swaps is similar to a clearing agency’s role with respect to standardized options. <sup>51</sup> We believe that a clearing agency’s role as a CCP for security-based swaps, similar to a clearing agency’s role with respect to standardized options, is fundamentally different from a conventional issuer that registers transactions in its securities under the Securities Act. <sup>52</sup> For example, the purchaser of a security-based swap does not, except in the most formal sense, makean investment decision regarding the clearing agency. <sup>53</sup>
+
+Rather, the security-based swapinvestment decision is based on the referenced security, loan, narrow-based security index, or issuer. In this circumstance, coupled with the other conditions to the Securities Act exemption,we do not believe that Securities Act registration of the offer and sale of security-based swaps by a clearing agency in its function as a CCP to eligible contract participants is necessary.
+
+Security-Based Swaps the Commission Determines are Required to be Cleared or that a Clearing Agency is Permitted to Clear Pursuant to its Rules
+
+In the Mandatory Clearing Release, we proposed rules to implement the provisions of the Dodd-Frank Act regarding mandatory and voluntary clearing of security-based swaps, or groups, categories, or types or classes of security-based swaps. <sup>54</sup> Those proposed rules would establish procedures for a clearing agency to submit for a review the security-based swap, or group, category, type or class of security-based swap, that the clearing agency plans to accept for clearing. As proposed, we would review the submission and make a determination of whether the security-based swap, or group, category, type or class of security-based swap, is required to be cleared. <sup>55</sup>
+
+Consistent with the purposes of the Dodd-Frank Act, the Securities Act exemption is intended to facilitate clearing of security-based swaps that the Commission determines are subject to mandatory clearing, or that are permitted to be cleared pursuant to the clearing agency’s rules. Consequently, under the Securities Act exemption a registered or exempt clearing agency is entitled to rely on the exemption to issue, in its function as a CCP, security- based swaps that we determine are required to be cleared. In addition, the Securities Act exemption is available to a registered or exempt clearing agency issuing a security-based swap, in its function as a CCP, that is not subject to mandatory clearing but is permitted to be clearedpursuant to the clearing agency’s rules. The Securities Act exemption is not available for security-based swaps issued by a registered or exempt clearing agency in its function as a CCP that are not required to be cleared or permitted by its rules to be cleared.
+
+The Dodd-Frank Act also provides that if a security-based swap is subject to the mandatory clearing requirement, it must be traded on an exchange or a registered or exempt security-based SEF, unless no security-based SEF makes such security-based swap available to trade. <sup>56</sup> Thus, it is possible that a security-based swap could be subject to mandatory clearing without being traded on an exchange or security-based SEF. The Securities Act exemption is available for security-based swaps that are subject to the mandatory clearing requirement or are permitted to be cleared pursuant to the clearing agency’s rules, <sup>57</sup> regardless of whether such security-based swaps also are traded on a national securities exchange or through a security-based SEF. <sup>58</sup>
+
+We believe that if the conditions to the Securities Act exemption are satisfied, thenthe protections provided for in the analogous exemptions for standardized options and securityfutures arising from the requirement for exchange trading, such as compliance with the statutory listing standards, are not needed here. <sup>59</sup> Unlike security future products that may be purchased by any person, under the Dodd-Frank Act security-based swaps may only be offered and sold to eligible contract participants either pursuant to an exemption from the registration requirements of the Securities Act and in transactions not effected on a national securities exchange or in registered offerings effected on a national securities exchange. No offers or sales of security- based swaps may be made to non-eligible contract participants unless there is an effective registration statement under the Securities Act covering transactions in such security-based swap <sup>60</sup> and any security-based swap transaction with a non-eligible contract participant must beeffected on a national securities exchange. <sup>61</sup>
+
+As a result, security-based swaps issued by aregistered or exempt clearing agency in its function as a CCP may only be offered and sold to eligible contract participants, unless there is an effective registration statement and the transaction is effected on a national securities exchange. Thus, because only eligible contract participants may enter into the security-based swaps not traded on a national securities exchange, we do not believe it is necessary to condition the Securities Act exemption on whether the security-based swap is traded on a national securities exchange. In addition, including such a provision could frustrate the goals of the Dodd-Frank Act because the Dodd-Frank Act did not restrict transactions with eligible contract participants to transactions on national securities exchanges. Consequently, the Securities Act exemption does not include such a requirement.
+
+Sales Only to Eligible Contract Participants
+
+Under the Dodd-Frank Act, only an eligible contract participant may enter into security- based swaps other than on a national securities exchange. <sup>62</sup> In addition, security-based swaps that are not registered pursuant to the Securities Act can only be sold to eligible contract participants. <sup>63</sup> New Securities Act Section 5(d) specifically provides that it is unlawful to offer to buy, purchase, or sell a security-based swap to any person that is not an eligible contractparticipant, unless the transaction is registered under the Securities Act. <sup>64</sup>
+
+Given that Congressdetermined it is appropriate to limit the availability of registration exemptions under the Securities Act to eligible contract participants, consistent with the proposal, we believe it is appropriate to limit the Securities Act exemption to security-based swaps entered into with eligible contract participants.
+
+Disclosures Relating to the Security-Based Swaps
+
+The Securities Act exemption requires the registered or exempt clearing agency to disclose, either in its agreement regarding the security-based swap or on its publicly available website, certain information with respect to the security-based swap. Consistent with the proposal, this information includes the following:
+
+A statement identifying any security, issuer, loan, or narrow-based security index underlying the security-based swap;
+
+A statement indicating the security or loan to be delivered (or class of securities or loans), or if cash settled, the security, loan, or narrow-based security index (or class of securities or loans) whose value is to be used to determine the amount of the settlement obligation under the security-based swap; and
+
+A statement of whether the issuer of any security or loan, each issuer of a security in a narrow-based security index, or each referenced issuer underlying the security-based swap is subject to the reporting requirements of Exchange Act Section 13 or Section 15(d) and, if not subject to such reporting requirements, whether public information, including financial information, about any such issuer is available, and, if so, the location where the information is available.
+
+The purpose of the requirement relating to the availability of information is to inform investors about whether there is publicly available information about the issuer of the referenced securityor the referenced issuer. <sup>65</sup>
+
+We are not conditioning the Securities Act exemption on whether theissuer is subject to Exchange Act reporting or whether there is publicly available financial information about such issuer. As noted above, the Securities Act exemption for offers and sales of security-based swaps issued by, and in a transaction involving, a registered or exempt clearing agency in its function as a CCP is limited to security-based swaps entered into with an eligiblecontract participant. The Dodd-Frank Act did not restrict eligible contract participants’ ability to enter into security-based swaps based on whether or not there is publicly-available information about the issuer of the referenced security or loan or the referenced issuer. <sup>66</sup> As a result, and in light of the nature of the other regulatory safeguards, <sup>67</sup> we are not conditioning the Securities Act exemption on the actual availability or delivery of such information.
+
+While the Dodd-Frank Act does not condition clearing of security-based swaps on the availability of such information, we believe it is important for eligible contract participants to understand whether such information is publicly available. The availability (or absence) of public information is generally important to eligible contract participants and the registered or exempt clearing agency in evaluating and pricing the security-based swap. Therefore, the Securities Act exemption requires disclosure about whether such information is available.
+
+If the issuer of the referenced security or loan or the referenced issuer is not subject to Exchange Act reporting, but there is publicly available information about the issuer, the clearing agency is required under the Securities Act exemption to disclose that fact and disclose where the information is available. This disclosure could include, for example, a statement that the issuer is listed on a particular foreign exchange and where information about issuers on such exchange can be found.
+
+Under the Securities Act exemption, the required information could be provided in the agreement covering the security-based swap the registered or exempt clearing agency provides or makes available to the counterparty or on a publicly available website maintained by the clearing agency. We understand that master agreements and related schedules for security-based swaps generally contain detailed information about the terms of the security-based swaps. <sup>68</sup> In addition, each registered clearing agency is required to post and maintain a current and complete version of its rules on its website. Thus, we believe that parties engaging in security-based swaps transactions would be familiar with looking to the agreements or a clearing agency’s website to obtain information. Given that clearing agencies generally provide information in agreements and maintain publicly available websites, we believe that providing the information we are requiring to be disclosed in the agreement for the security-based swap or on the clearing agency’s publicly available website would not pose significant burdens for clearing agencies.
+
+<h>B. Exemptions from Exchange Act Section 12 Registration – Exchange Act Rules 12a-10 and Rule 12h-1(h)</h>
+
+<h>1. Proposed Rule and Amendment</h>
+
+We proposed Exchange Act Rule 12a-10 to exempt security-based swaps that are or have been issued by a registered or exempt clearing agency in reliance on the proposed exemption under the Securities Act from the registration requirements of Section 12(a) of the Exchange Act under certain conditions. We also proposed an amendment to Exchange Act Rule 12h-1 to exempt security-based swaps that are or have been issued by a registered or exempt clearing agency from the registration requirements of Section 12(g) of the Exchange Act under certain conditions.
+
+<h>2. Comments</h>
+
+Commentators generally supported the proposed rule and amendment. <sup>69</sup> We received only two specific comments on the proposed rule and amendment. <sup>70</sup> One commentator suggested that the Commission provide exemptions under the Exchange Act similar to the proposed rule and amendment for transactions in uncleared security-based swaps entered into between eligible contract participants and effected through any trading platform. <sup>71</sup> This commentator did not provide any explanation as to why such exemptions were needed, including how security-based swap trading platforms operate, that would enable us to evaluate whether other exemptions under the Exchange Act are necessary or appropriate. Another commentator suggested that the Commission provide an exemption under Section 12(g) of the Exchange Act similar to the proposed amendment for uncleared security-based swaps transactions entered into solely between eligible contract participants. <sup>72</sup>
+
+We requested comment in the Proposing Release and in the Interim SBS Exemptions Release as to whether security-based swaps are or will be transacted in a manner that would not permit the parties to rely on existing exemptions under the Exchange Act. <sup>73</sup> We also requested comment in these releases on whether the Commission should consider additional exemptions under the Exchange Act for security-based swaps traded on a national securities exchange or security-based SEF with eligible contract participants. <sup>74</sup> These commentators’ suggestions related to exemptions affecting transactions that do not involve registered or exempt clearing agencies and appear responsive to the request for whether additional exemptions should be considered. Thus, we believe that these commentators’ suggestions relating to uncleared security-based swaps are more appropriate to be considered in connection with the Interim SBS Exemptions Release and, therefore, we are not adopting rules at this time providing exemptions that would apply to uncleared security-based swaps, including those that may be effected on or through trading platforms. <sup>75</sup>
+
+<h>3. Final Rule and Amendment</h>
+
+Section 12(a) of the Exchange Act makes it unlawful for any broker or dealer to effect a transaction in a non-exempt security on a national securities exchange unless the security has been registered under Section 12(b) of the Exchange Act for trading on that exchange. Sectionsecurity index, and not the counterparty that is issuing the swap and that requiring an eligible contract participant to register a class of security-based swaps would be burdensome and would not provide any meaningful or useful information about the security-based swaps This commentator stated its view that the ongoing periodic reporting requirements and proxy rules, among other requirements, that are triggered by registration under the Exchange Act would not make sense to apply in the context of security-based swaps. Id.12(g)(1) of the Exchange Act, as modified by rule, requires any issuer with more than$10,000,000 in total assets and a class of equity securities held by 500 or more persons to register such security with us. <sup>76</sup>
+
+Rule 12b-1 under the Exchange Act prescribes the procedures for registration under both Section 12(b) and Section 12(g) of the Exchange Act. Absent an exemption, security-based swaps that will be traded on national securities exchanges would be required to be registered under Section 12(b) of the Exchange Act. A registered or exempt clearing agency issuing a security-based swap would be required, without an available exemption, to register the security- based swaps under Section 12(b) of the Exchange Act before such security-based swaps could be traded on a national securities exchange. In addition, if the security-based swaps were considered equity securities of the registered or exempt clearing agency, the registration provisions of Section 12(g) of the Exchange Act could apply.
+
+As noted above, just as a registered or exempt clearing agency is different from a conventional issuer that registers transactions in its securities under the Securities Act, it is also different with respect to registering a class of its securities, in this case the security-based swap issued by the registered or exempt clearing agency, under the Exchange Act. Therefore, we are adopting two rules relating to Exchange Act registration of security-based swaps that are or have been issued by a registered or exempt clearing agency in its function as a CCP.
+
+We are adopting new Rule 12a-10 under the Exchange Act without any changes from the proposal to exempt security-based swaps that are or have been issued by a registered or exempt clearing agency in reliance on Securities Act Rule 239 from Section 12(a) of the Exchange Actunder certain conditions. <sup>77</sup>
+
+Exchange Act Rule 12a-10 as adopted provides that Exchange Act
+
+Section 12(a) does not apply to any security-based swap that:is or will be issued by a registered or exempt clearing agency in its function as a CCP with respect to the security-based swap;the Commission has determined is required to be cleared, or that the clearing agency is permitted to clear pursuant to its rules;is sold to an eligible contract participant in reliance on Securities Act Rule 239; andis traded on a national securities exchange registered pursuant to Section 6(a) of the Exchange Act.
+
+We also are adopting an amendment to Exchange Act Rule 12h-1 without any changes from the proposal to exempt security-based swaps that are or have been issued by a registered or exempt clearing agency from the provisions of Section 12(g) of the Exchange Act under certain conditions. <sup>78</sup> Exchange Act Rule 12h-1(h) as adopted exempts from Section 12(g) of the Exchange Act security-based swaps that are issued by a registered or exempt clearing agency in its function as a CCP, whether or not such security-based swap is traded on a national securities exchange registered pursuant to Section 6(a) of the Exchange Act or a registered or exemptsecurity-based SEF. <sup>79</sup>
+
+In addition, the security-based swaps being issued by the registered orexempt clearing agency in its function as a CCP must be required to be cleared, or be permitted to be cleared pursuant to the clearing agency’s rules, and may only be sold to eligible contract participants.
+
+As we noted in the discussion of Securities Act Rule 239, we believe the interest of investors in the security-based swap is primarily with respect to the referenced security or loan, referenced issuer or referenced narrow-based security index, and not with respect to the registered or exempt clearing agency functioning as the CCP. <sup>80</sup> Therefore, we believe that requiring registration of security-based swaps under the Exchange Act would not provide additional useful information or meaningful protection to investors with respect to the security- based swap. In addition, the other consequences of Exchange Act registration, such as requirements for ongoing periodic reporting and application of the proxy rules to the clearing agency, would not be meaningful in the context of security-based swaps. At the same time, requiring such registration likely would impose burdens on clearing agencies issuing security-based swaps. <sup>81</sup>
+
+Therefore, based on the discussion above, we believe that exempting theregistered or exempt clearing agency from the requirements of the Exchange Act arising from Section 12(a) or 12(g) is necessary or appropriate in the public interest and is not inconsistent with the public interest or the protection of investors.
+
+In addition, we note that similar Exchange Act exemptions exist for standardized options issued by a registered options clearing agency and security futures products issued by aregistered or exempt clearing agency. <sup>82</sup>
+
+We believe that it is appropriate to establish comparableregulatory treatment for security-based swaps issued by a registered or exempt clearing agency with respect to the applicability of Section 12 of the Exchange Act to security-based swapsissued by a registered or exempt clearing agency. Moreover, we believe it is important to further the goal of facilitating clearing of security-based swaps while maintaining appropriate investor protection.
+
+Consistent with the proposal, security-based swaps that will not be cleared by a registered or exempt clearing agency in its function as a CCP but are listed for trading on a national securities exchange or registered or exempt security-based SEF will not be able to rely on these exemptions from registration under Section 12(b) or Section 12(g) of the Exchange Act. <sup>83</sup>
+
+<h>C. Exemption from the Trust Indenture Act – Trust Indenture Act Rule 4d-11</h>
+
+<h>1. Proposed Rule</h>
+
+We proposed Rule 4d-11 under Section 304(d) of the Trust Indenture Act that would exempt any security-based swap offered and sold in reliance on Securities Act Rule 239 from having to comply with the provisions of the Trust Indenture Act.
+
+<h>2. Comments</h>
+
+Commentators generally supported the proposed rule. <sup>84</sup> We received only two specificcomments on the proposed rule. <sup>85</sup>
+
+Consistent with the comments noted above, thesecommentators suggested that the Commission provide an exemption under the Trust Indenture Act similar to the proposed rule for certain uncleared security-based swap transactions involving eligible contract participants. <sup>86</sup> As noted above, these commentators’ suggestions related to exemptions affecting transactions that do not involve registered or exempt clearing agencies and appear responsive to the request for whether additional exemptions should be considered. Thus, we believe that these commentators’ suggestions relating to uncleared security-based swaps are more appropriate to be considered in connection with the Interim SBS Exemptions Release and, therefore, we are not adopting rules at this time providing exemptions that would apply to uncleared security-based swaps, including those that may be effected on or through trading platforms. <sup>87</sup>
+
+<h>3. Final Rule</h>
+
+We are adopting Rule 4d-11 under Section 304(d) of the Trust Indenture Act without any changes from the proposal. Final Rule 4d-11 exempts any security-based swap offered and sold in reliance on Securities Act Rule 239 from having to comply with the provisions of the Trust Indenture Act. <sup>88</sup> We adopted a similar exemption on a temporary basis for eligible CDS. <sup>89</sup>
+
+The Trust Indenture Act is aimed at addressing problems that unregulated debt offerings pose for investors and the public, <sup>90</sup> and provides a mechanism for debtholders to protect and enforce their rights with respect to the debt. We do not believe that the protections contained in the Trust Indenture Act are needed to protect eligible contract participants to whom a sale of a security-based swap is made in reliance on Securities Act Rule 239. The identified problems that the Trust Indenture Act is intended to address generally do not occur in the offer and sale ofsecurity-based swaps. <sup>91</sup>
+
+For example, security-based swaps are contracts between two partiesand, as a result, do not raise the same problem regarding the ability of parties to enforce their rights under the instruments as would, for example, a debt offering to the public. Moreover, through novation, the clearing agency functionally becomes the counterparty to the buyer and the seller, and, in the case where buyer and seller are both members of the CCP, each would look directly to the clearing agency to satisfy the obligations under the security-based swap. As a consequence, enforcement of contractual rights and obligations under the security-based swap would occur directly between such parties, and the Trust Indenture Act provisions would not provide any additional meaningful substantive or procedural protections.
+
+Accordingly, due to the nature of security-based swaps as contracts that will be or have been issued by a registered or exempt clearing agency in its function as a CCP, we do not believe the protections contained in the Trust Indenture Act are needed with respect to these instruments.securities that are exempt under Securities Act Section 3(a) but does not exempt from the Trust Indenture Act securities that are exempt by Commission rule. Accordingly, while Securities Act Rule 239 exempts the offer and sale of security-based swaps satisfying certain conditions from all the provisions of the Securities Act (other than Section 17(a)), the Trust Indenture Act would continue to apply absent Rule 4d-11.
+
+Therefore, we believe the exemption is necessary or appropriate in the public interest, consistent with the protection of investors and the purposes fairly intended by the Trust Indenture Act.
+
+<h>D. Implications of Security-Based Swaps as Securities</h>
+
+The exemptions we are adopting in this release are not available for security-based swaps that are not cleared (“uncleared security-based swaps”), including, for example, uncleared security-based swaps entered into on organized markets, such as a security-based SEF or a national securities exchange. It is our understanding that transactions involving uncleared security-based swaps entered into between eligible contract participants may occur today on organized platforms that would likely register as security-based SEFs, and we understand that this activity will likely continue after the full implementation of Title VII. <sup>92</sup> As noted above, security-based swaps are included in the definition of security under the Securities Act and the Exchange Act and are subject to the full panoply of the federal securities laws, including the registration requirements of Section 5 of the Securities Act and Section 12 of the Exchange Act. Because the exemptions we are adopting in this release are not available with respect to uncleared security-based swaps, counterparties that are eligible contract participants and engaging in an uncleared security-based swap would have to either rely on other available exemptions from the registration requirements of the Securities Act, the Exchange Act, and, if applicable, the Trust Indenture Act, or consider whether to register such transaction and/or class of security. <sup>93</sup>
+
+Further, as noted above, security-based swap transactions involving persons that are not eligible contract participants, whether the transaction is cleared or not cleared, must be registered under the Securities Act and effected on a national securities exchange. <sup>94</sup> One commentator suggested that the Commission adopt a simplified disclosure and registration scheme for those security-based swaps transactions that may involve persons who are not eligible contractparticipants. <sup>95</sup>
+
+As the commentator’s suggestions are outside the scope of the proposed rules, weare not considering the suggestions as part of this rulemaking. In the future, we may evaluate the need for a simplified disclosure and registration scheme for security-based swaps that may be offered and sold to persons who are not eligible contract participants.
+
+<h>E. Expiration of Temporary Exemptions for Eligible CDS</h>
+
+As noted above, we adopted the temporary exemptions for eligible CDS to facilitate the operation of clearing agencies functioning as CCPs for eligible CDS. Those exemptions expire on April 16, 2012. The exemptions we are adopting in this release cover all security-based swaps that may be cleared, including eligible CDS that currently are being issued in reliance on the temporary exemptions for eligible CDS. Clearing agencies that have been actively engaged as CCPs in clearing eligible CDS transactions in reliance on the temporary exemptions for eligible CDS will be required to comply with the conditions of the exemptions we are adopting in this release upon the effective date of the final rules.
+
+<h>III. CERTAIN ADMINISTRATIVE LAW MATTERS</h>
+
+The final rules will become effective on April 16, 2012. The Administrative Procedure Act generally requires that an agency publish an adopted rule in the Federal Register 30 daysbefore it becomes effective. <sup>96</sup> This requirement, however, does not apply if a substantive rule grants or recognizes an exemption or relieves a restriction or if the Commission finds good causenot to delay the effective date. <sup>97</sup>
+
+The Commission finds that the final rules meet both criteria.
+
+The final rules provide exemptions under the Securities Act, the Exchange Act and the Trust Indenture Act for security-based swaps issued by a registered or exempt clearing agency in its function as a CCP. In addition, as discussed above, we adopted the temporary exemptions for eligible CDS to facilitate the operation of clearing agencies as CCPs for eligible CDS. The exemptions we are adopting in this release cover all security-based swaps that may be cleared, including eligible CDS that currently are being issued in reliance on the temporary exemptions for eligible CDS. Given that the temporary exemptions for eligible CDS will expire on April 16, 2012, the final rules are needed to be effective by that date in order to continue facilitating the operation of CCPs in clearing eligible CDS.
+
+Although the final rules condition the exemptions on the registered or exempt clearing agency disclosing certain information with respect to the security-based swaps it clears, we believe that providing this information will not pose significant transition burdens for the three clearing agencies that have been actively engaged as CCPs in clearing eligible CDS in relianceon the temporary exemptions for eligible CDS, which expire on April 16, 2012. <sup>98</sup>
+
+As notedabove, these three clearing agencies are deemed registered as clearing agencies for purposes of clearing security-based swaps and are able to engage as CCPs in clearing eligible CDS, in part,pursuant to the temporary exemptive order relating to Sections 5 and 6 of the Exchange Act. <sup>99</sup> The temporary exemptive order contains the conditions relating to, among other things, available information about the eligible CDS and the underlying reference entity of such eligible CDS. Since these clearing agencies have been required to comply with these conditions, they should have the information readily available regarding the eligible CDS that they would need to comply with the conditions of the final rules we are adopting in this release. The final rules provide that these clearing agencies either make the information publicly available on the clearing agency’s website or in an agreement the clearing agency provides or makes available to its counterparty to the security-based swap transaction. As discussed below, we estimate that each clearing agency will spend approximately 2 hours in order to comply with this information disclosure requirement. <sup>100</sup>
+
+<h>IV. ECONOMIC ANALYSIS</h>
+
+As discussed above, we are adopting rules and amendments to existing rules to provide certain exemptions under the Securities Act, the Exchange Act, and the Trust Indenture Act for security-based swaps issued by a registered or exempt clearing agency in its function as a CCP. The final rules, which have not been changed from the proposal, exempt security-based swaps that are or will be issued to eligible contract participants by, and in a transaction involving, a registered or exempt clearing agency in its function as a CCP from all provisions of the Securities Act, other than the Section 17(a) antifraud provision, as well as from the registration requirements under Exchange Act Section 12 and the provisions of the Trust Indenture Act.
+
+We requested comment on the economic analysis included in the Proposing Release, but we did not receive any comments.
+
+The final rules are intended to further the goal of central clearing of security-based swaps by providing exemptions for the issuance of security-based swaps by a registered or exempt clearing agency in its function as a CCP from certain regulatory provisions that might otherwise impair their ability to engage in such clearing activities. Without an exemption, 1) a security- based swap transaction involving a registered or exempt clearing agency functioning as a CCP would have to be registered under the Securities Act; 2) the security-based swaps that are or have been issued in a transaction involving a registered or exempt clearing agency functioning as a CCP would have to be registered as a class of securities under the Exchange Act; and 3) the provisions of the Trust Indenture Act would apply. We believe that requiring compliance with these provisions likely would unnecessarily impede central clearing of security-based swaps and that the exemptions are necessary to facilitate the intent of the Dodd-Frank Act with respect to mandatory clearing of security-based swaps. Absent these exemptions, we believe that registered or exempt clearing agencies would incur additional costs due to compliance with the registration requirements of the Securities Act and the Exchange Act solely because of their clearing functions. <sup>101</sup>
+
+The final rules should facilitate clearing of security-based swaps by clearing agencies functioning as CCPs at minimal cost to the CCP. Because reliance on the exemptions will not require any filing with or submission to us, other than costs incurred to comply with the information condition of Securities Act Rule 239, the costs of being able to rely on such exemptions, we believe, are minimal.
+
+The exemptions would treat security-based swaps issued or cleared by a registered or exempt clearing agency in its function as a CCP in the same manner as similar types ofsecurities, such as security futures products and standardized options. <sup>102</sup>
+
+The exemptions aresimilar to the temporary exemptions for eligible CDS. A registered or exempt clearing agency issuing security-based swaps in its function as a CCP would benefit from the exemptions because it would not have to file registration statements covering the offer and sale of the security-based swaps. If a registered or exempt clearing agency is not required to register the offer and sale of security-based swaps, it would not have to incur the costs of such registration, including legal and accounting costs. Some of these costs, such as the costs of obtaining audited financial statements, may still be incurred by the clearing agency as a result of other regulatory requirements for clearing agencies.
+
+Exchange Act Rule 12a-10 provides that the Exchange Act Section 12(a) does not apply to any security-based swap that is issued by a registered or exempt clearing agency in reliance on Securities Act Rule 239 and traded on a national securities exchange. In addition, Exchange Act Rule 12h-1(h) exempts from Exchange Act Section 12(g) security-based swaps that are issued by a registered or exempt clearing agency in reliance on Securities Act Rule 239, whether or not such security-based swap is traded on a national securities exchange or a registered or exempt security-based SEF. Thus, the clearing agency will not incur the costs of registration or the costs associated with Exchange Act periodic reporting. The availability of exemptions under the Securities Act, the Exchange Act, and the Trust Indenture Act means that registered or exempt clearing agencies will not incur the costs associated with registering transactions or classes ofsecurities, such as costs associated with preparing documents describing security-based swaps, preparing indentures, or arranging for the services of a trustee.
+
+The final rules we are adopting exempt offers and sales of security-based swaps that are or will be issued to eligible contract participants by, and in a transaction involving, a registered or exempt clearing agency in its function as a CCP from all provisions of the Securities Act, other than the Section 17(a) antifraud provision, as well as from the registration requirementsunder Section 12 of the Exchange Act and the provisions of the Trust Indenture Act. <sup>103</sup>
+
+Becausethese exemptions are available to any registered or exempt clearing agency offering and selling security-based swaps to an eligible contract participant, in its function as a CCP, we do not believe that the exemptions impose a burden on competition. In contrast, we believe the exemptions as adopted will facilitate moving security-based swaps into centralized clearing, furthering the goal of the Dodd-Frank Act to reduce systemic risk while improving market access to hedging instruments that can contribute to lower costs of raising capital. In addition, we believe the exemptions will promote efficiency by treating security-based swaps issued by clearing agencies in a manner similar to standardized options and security futures issued by clearing agencies. Harmonizing the regulatory treatment of these securities under the Securities Act, Exchange Act, and the Trust Indenture Act should reduce the potential for regulatory arbitrage between such products.
+
+We also believe that the ability to novate security-based swaps with registered or exempt clearing agencies functioning as CCPs will improve the transparency of the security-based swap market and provide greater assurance to participants as to the capacity of the counterparty to perform its obligations under the security-based swap. We believe that clearing agencies providing the information required by Securities Act Rule 239(b)(3) may provide transparency among clearing agencies because it will make it easier for clearing agencies and eligible contract participants to determine what security-based swaps are being cleared. We believe that increased transparency in the security-based swap market could help to limit market turmoil and thereby facilitate the capital formation process.
+
+We recognize that a consequence of the exemptions would be the unavailability of certain remedies under the Securities Act and the Exchange Act and certain protections under the Trust Indenture Act. Absent an exemption, a clearing agency may have to file a registration statement covering the offer and sale of the security-based swaps, may have to register the class of eligible security-based swaps that it has issued or cleared under the Exchange Act, and may have to satisfy the applicable provisions of the Trust Indenture Act, which would provide investors with civil remedies in addition to antifraud remedies. A registration statement covering the offer and sale of security-based swaps may provide certain information about the clearing agency,security-based swap contract terms, and the identification of the particular reference securities, issuers, and loans underlying the security-based swap. However, it would not necessarily provide the type of information necessary to assess the risk of the reference issuer, security, narrow-based security index, or loan. Further, while a registration statement would provide information to eligible contract participants, as well as to the market as a whole, registered clearing agencies already are required to make their audited financial statements and otherinformation about themselves publicly available. <sup>104</sup> While an investor would be able to pursue an antifraud action in connection with the purchase and sale of security-based swaps under Exchange Act Section 10(b), <sup>105</sup> it would not be able to pursue civil remedies under Securities Act Sections 11 or 12. <sup>106</sup> We could still pursue an antifraud action in the offer and sale of security-based swaps issued by a clearing agency. <sup>107</sup>
+
+Securities Act Rule 239(b)(3) requires a clearing agency availing itself of the Securities Act exemption to include in an agreement covering the security-based swap the clearing agency provides or makes available to its counterparty or include on a publicly available website maintained by the clearing agency:
+
+A statement identifying any security, issuer, loan, or narrow-based security index underlying the security-based swap;
+
+A statement indicating the securities or loans to be delivered (or class of securities or loans), or if cash settled, the securities, loans or narrow-based security index (or class of securities or loans) whose value will determine the settlement obligation under the security-based swap; and
+
+A statement of whether the issuer of any security or loan, each issuer of a security in a narrow-based security index, or each referenced issuer underlying the security-based swap is subject to the reporting requirements of Exchange Act Section 13 or Section 15(d) and, if not subject to such reporting requirements, whether public information,including financial information, about any such issuer is available and where the information is available.
+
+We believe some of the information the clearing agency will make available will be the same information the clearing agency collects and analyzes in making its business decision to plan to accept the security-based swap, or any group, category, type, or class of security-based swaps, for clearing. A clearing agency may incur costs in providing or making available this information in order to rely on the exemption. <sup>108</sup>
+
+<h>V. PAPERWORK REDUCTION ACT</h>
+
+<h>A. Background</h>
+
+Certain provisions of Securities Act Rule 239 would result in “collection of informationrequirements” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>109</sup> Wepublished a notice requesting comment on the collection of information requirements in the Proposing Release for Securities Act Rule 239 and we submitted these requirements to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. We requested comment on the collection of information requirements included in the Proposing Release for Securities Act Rule 239, but we did not receive any comments.
+
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The title for this collection of information is:“Rule 239” (new collection of information).
+
+Rule 239 is a new collection of information under the Securities Act. This new collection of information relates to the information requirements for clearing agencies seeking to rely on the final rules. There is no mandatory retention period for the information disclosed, and the information disclosed will be made publicly available on the clearing agency’s website or in an agreement the clearing agency provides or makes available to its counterparty to the security- based swap transaction. The collection of information is mandatory and it will not be kept confidential.
+
+<h>B. Summary of Collection of Information</h>
+
+As discussed above, one condition to the availability of the exemption provided in Securities Act Rule 239 for offers and sales of security-based swaps issued by, and in a transaction involving, a registered or exempt clearing agency in its function as a CCP is that such registered or exempt clearing agency has an agreement covering the security-based swap that is provided or made available to its counterparty or a publicly available website maintained by the registered or exempt clearing agency that contains the following:
+
+A statement identifying any security, issuer, loan, or narrow-based security index underlying the security-based swap;
+
+A statement indicating the security or loan to be delivered (or class of securities or loans), or if cash settled, the security, loan or narrow-based security index (or class of securities or loans) whose value is to be used to determine the amount of the settlement obligation under the security-based swap; and
+
+A statement of whether the issuer of any security or loan, each issuer of a security in a narrow-based security index, or each referenced issuer underlying the security-basedswap is subject to the reporting requirements of Exchange Act Section 13 or Section 15(d) and, if not subject to such reporting requirements, whether public information, including financial information, about any such issuer is available and where the information is available.
+
+<h>C. Paperwork Reduction Act Burden Estimates</h>
+
+For purposes of the PRA, we estimate that there will be an annual incremental increase in the paperwork burden for clearing agencies as issuers of security-based swaps to comply with our new collection of information requirements. The disclosure provisions of Securities Act Rule 239 apply to registered or exempt clearing agencies relying on the exemption from the registration requirements of the Securities Act. These disclosure provisions will require those relying on the exemption to make certain information about security-based swaps that may be cleared by the registered or exempt clearing agency available to eligible contract participants and other market participants. This estimate is consistent with the estimate in the Proposing Release and we received no comments on this estimate.
+
+Currently, three clearing agencies clear eligible CDS, which include security-based swaps. <sup>110</sup> The obligation to centrally clear certain security-based swap transactions is a new requirement under Title VII of the Dodd-Frank Act, and clearing agencies that are deemed registered as clearing agencies are eligible to clear security-based swaps. Based on the fact that there are currently three clearing agencies authorized to clear security-based swaps and that there could conceivably be a few more in the foreseeable future, <sup>111</sup> we estimate that three to sixclearing agencies may plan to centrally clear security-based swaps and seek to rely on the exemptions we are adopting in this release, and therefore, would be subject to the collection ofinformation. <sup>112</sup>
+
+For purposes of the PRA, we estimate six clearing agencies would seek to relyon the exemptions we are adopting in this release. This estimate is consistent with the estimate in the Proposing Release and we received no comments on this estimate.
+
+We believe that a registered or exempt clearing agency issuing security-based swaps in its function as a CCP could incur some costs associated with disclosing, or providing or making available, certain information in accordance with Securities Act Rule 239, either in its agreement regarding the security-based swap or on its publicly available website, with respect to the security-based swap. A clearing agency also could incur costs associated with updating the information on its website or in its agreements, if necessary. The purpose of the requirement is to inform investors about whether there is publicly available information about the issuer of the referenced security or referenced issuer and we believe that a clearing agency likely already would be collecting and making public the type of information required by the final rule. <sup>113</sup>
+
+We estimate that each registered or exempt clearing agency issuing security-based swaps in its function as a CCP will spend approximately 2 hours each time it provides or updates the information in its agreements relating to security-based swaps or on its website. <sup>114</sup> We estimate that each registered or exempt clearing agency will provide or update the information 20 timesper year. <sup>115</sup>
+
+Therefore, we estimate that the total annual reporting burden for clearing agencies toprovide the information in their agreements relating to security-based swaps or on their website to comply with Securities Act Rule 239(b)(3) will be 240 hours (20 x 2 hours x 6 respondents). We estimate that 75% of the burden of preparation is carried by the clearing agency internally and that 25% of the burden is carried by outside professionals retained by the clearing agency at an average cost of $400 per hour. These estimates are consistent with the estimates in the Proposing Release and we received no comments on these estimates.
+
+<h>D. Recordkeeping Requirements</h>
+
+There is no recordkeeping requirement associated with Securities Act Rule 239.
+
+<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+Under Section 605(b) of the Regulatory Flexibility Act, <sup>116</sup> we certified that, when adopted, Rule 239 under the Securities Act, Rule 12a-10 under the Exchange Act, the amendment to Rule 12h-1 under the Exchange Act, and Rule 4d-11 under the Trust Indenture Act would not have a significant economic impact on a substantial number of small entities. This certification, including our basis for the certification, was included in Part VIII of the Proposing Release. We solicited comments on the potential impact of these rules and amendment on small entities, but received none. The final rules are identical to the proposed rules. Accordingly, there have been no changes to the proposal that would alter the basis upon which the certification was made.
+
+<h>VII. STATUTORY AUTHORITY AND TEXT OF THE RULES AND AMENDMENTS</h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 77a et seq.
+
+2 15 U.S.C. 78a et seq.
+
+3 15 U.S.C. 77aaa et seq.
+
+4 The Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat. 1376 (2010).
+
+5 Section 712(d) of the Dodd-Frank Act provides that the Commission and the CFTC, in consultation with the Board of Governors of the Federal Reserve System, shall jointly further define the terms “swap,” “security-based swap,” “swap dealer,” “security-based swap dealer,” “major swap participant,” “major security-based swap participant,” “eligible contract participant,” and “security-based swap agreement.” These terms are defined in Sections 721 and 761 of the Dodd-Frank Act and, with respect to the term “eligible contract participant,” in Section 1a(18) of the Commodity Exchange Act (“CEA”) [7 U.S.C. 1a(18)], as re-designated and amended by Section 721 of the Dodd-Frank Act. In April 2011, the SEC and the CFTC jointly proposed rules and interpretations to further define the terms “swap,” “security-based swap,” and “security-based swap agreement.” See Further Definition of “Swap,” “Security-Based Swap,” and “Security- Based Swap Agreement”; Mixed Swaps; Security-Based Swap Agreement Recordkeeping, Release No. 33-9204 (Apr. 29, 2011), 76 FR 29818 (May 23, 2011), corrected in Release No. 33- 9204A (June 1, 2011), 76 FR 32880 (June 7, 2011). In December 2010, the SEC and the CFTC jointly proposed rules and interpretations to further define the terms “Swap Dealer,” “Security- Based Swap Dealer,” “Major Swap Participant,” “Major Security-Based Swap Participant” and “Eligible Contract Participant.” See Further Definition of “Swap Dealer,” “Security-Based Swap Dealer,” “Major Swap Participant,” “Major Security-Based Swap Participant” and “Eligible Contract Participant”, Release No. 34-63452 (Dec. 7, 2010), 75 FR 80174 (Dec. 21, 2010) (“Intermediaries Definitions Release”).
+
+6 See Pub. L. No. 111-203, § 763(a) (adding Exchange Act Section 3C [15 U.S.C. 78c-3]).
+
+7 See Pub. L. No. 111-203, §§ 763(i) and 766(a) (adding Exchange Act Sections 13(m)(1)(G) and 13A(a)(1) [15 U.S.C. 78m(m)(1)(G) and 78m-1(a)(1)], respectively).
+
+8 See Pub. L. No. 111-203, § 763(a) (adding Exchange Act Section 3C [15 U.S.C. 78c-3]). See also Pub. L. No. 111-203, § 761 (adding Exchange Act Section 3(a)(77) [15 U.S.C. 78c(a)(77)] (defining the term “security-based swap execution facility”)), and Registration and Regulation of Security-Based Swap Execution Facilities, Release No. 34-63825 (Feb. 2, 2011) 76 FR 10948 (Feb. 28, 2011) (“Security-Based SEF Proposing Release”). See footnote 12 below for a discussion of the clearing exception in Exchange Act Section 3C(g) [15 U.S.C. 78c-3(g)].
+
+9 See, e.g., Report of the Senate Committee on Banking, Housing, and Urban Affairs regarding The Restoring American Financial Stability Act of 2010, S. Rep. No. 111-176 at 34 (stating that “[s]ome parts of the OTC market may not be suitable for clearing and exchange trading due to individual business needs of certain users. Those users should retain the ability to engage in customized, uncleared contracts while bringing in as much of the OTC market under the centrally cleared and exchange-traded framework as possible.”).
+
+10 Section 763(a) of the Dodd-Frank Act added Section 3C to the Exchange Act. See 15 U.S.C. 78c-3. See also Process for Submissions for Review of Security-Based Swaps for Mandatory Clearing and Notice Filing Requirements for Clearing Agencies; Technical Amendments to Rule 19b-4 and Form 19b-4 Applicable to All Self-Regulatory Organizations, Release No. 34-63557 (Dec. 15, 2010), 75 FR 82490 (Dec. 30, 2010) (“Mandatory Clearing Proposing Release”).
+
+11 See Exchange Act Section 3C(b) [15 U.S.C. 78c-3(b)] and Mandatory Clearing Proposing Release. In the Mandatory Clearing Proposing Release, we proposed rules to establish processes for (i) clearing agencies registered with the Commission to submit for review each security-based swap, or any group, category, type or class of security-based swaps, that the clearing agency plans to accept for clearing for a determination by the Commission of whether the security-based swap, or group, category, type or class of security-based swap is required to be cleared, and to determine the manner of notice the clearing agency must provide to its members of such submission, and (ii) how the Commission may stay the requirement that a security-based swap is subject to mandatory clearing.
+
+12 See Exchange Act Section 3C(g) [15 U.S.C. 78c-3(g)] and Mandatory Clearing Proposing Release. Section 3C(g)(1) provides that a security-based swap otherwise subject to mandatory clearing is not required to be cleared if one party to the security-based swap is not a financial entity, is using security-based swaps to hedge or mitigate commercial risk, and notifies the Commission, in a manner set forth by the Commission, how it generally meets its financial obligations associated with entering into non-cleared security-based swaps. See 15 U.S.C. 78c- 3(g)(1).
+
+13 See 15 U.S.C. 78s(b) and 12 U.S.C. 5465(e). See also Mandatory Clearing Proposing Release.
+
+14 Currently, three clearing agencies are permitted to clear certain credit default swaps, which are security-based swaps. See footnote 30 below. A clearing agency could begin clearing other security-based swaps if its rules permit clearing of such other security-based swaps.
+
+15 See Exchange Act Section 3(a)(23) [15 U.S.C. 78c(a)(23)].
+
+16 A CCP is an entity that interposes itself between the counterparties to a securities transaction, acting functionally as the buyer to every seller and the seller to every buyer. See Clearing
+
+17 “Novation” is a “process through which the original obligation between a buyer and seller is discharged through the substitution of the CCP as seller to buyer and buyer to seller, creating two new contracts.” Committee on Payment and Settlement Systems, Technical Committee of the International Organization of Securities Commissioners, Recommendations for Central Counterparties (November 2004) at 66.
+
+18 See Cecchetti, Gyntelberg and Hollanders, Central counterparties for over-the-counter derivatives, BIS Quarterly Review, September 2009, available at
+
+19 See Mandatory Clearing Proposing Release and proposed Rule 3Ca-2.
+
+20 See Mandatory Clearing Proposing Release and Pub. L. No. 111-203, § 763(a) (adding Exchange Act Section 3C [15 U.S.C. 78c-3]).
+
+21 Id.
+
+22 See Exchange Act Section 3C [15 U.S.C. 78c-3]) and proposed Exchange Act Rule 3Ca-2.
+
+23 See 15 U.S.C. 78s(b) and 12 U.S.C. 5465(e). As we note above, this ability to clear security- based swaps exists even before the adoption of rules implementing the mandatory clearing requirement.
+
+24 See Pub. L. No. 111-203, §768(a)(1) (amending Securities Act Section 2(a)(1) [15 U.S.C. 77b(a)(1)]). See also Pub. L. No. 111-203, §761(a)(2) (amending Exchange Act Section 3(a)(10) [15 U.S.C. 78c(a)(10)]).
+
+25 See Securities Act Section 5 [15 U.S.C. 77e].
+
+26 We note that a registered security-based SEF would not be a national securities exchange for purposes of the Exchange Act. Therefore, Exchange Act Sections 12(a) and (b) would not be applicable to transactions effected through such facilities.
+
+27 See 15 U.S.C. § 77aaa et seq.
+
+28 See Order Granting Temporary Exemptions under the Securities Exchange Act of 1934 in Connection with Request on Behalf of ICE Clear Europe Limited Related to Central Clearing of Credit Default Swaps, and Request for Comments, Release No. 34-60372 (Jul. 23, 2009), 74 FR 37748 (Jul. 29, 2009); Order Granting Temporary Exemptions under the Securities Exchange Act of 1934 in Connection with Request on Behalf of Eurex Clearing AG Related to Central Clearing of Credit Default Swaps, and Request for Comments, Release No. 34-60373 (Jul. 23, 2009), 74 FR 37740 (Jul. 29, 2009); Order Granting Temporary Exemptions Under the Securities Exchange
+
+29 See Temporary Exemptions for Eligible Credit Default Swaps to Facilitate Operation of Central Counterparties to Clear and Settle Credit Default Swaps, Release No. 33-8999 (Jan. 14, 2009), 74 FR 3967 (Jan. 22, 2009) (“Temporary CDS Exemptions Release”). The temporary rules exempt eligible credit default swaps from all provisions of the Securities Act, other than the Section 17(a) anti-fraud provisions, the Exchange Act registration requirements, and the provisions of the Trust Indenture Act, provided certain conditions were met (“temporary exemptions for eligible CDS”). We subsequently extended the expiration date of the temporary rules until April 16, 2012. See Extension of Temporary Exemptions for Eligible Credit Default Swaps to Facilitate Operation of Central Counterparties to Clear and Settle Credit Default Swaps, Release No. 33-9232 (Jul. 1, 2011), 76 FR 40223 (Jul. 8, 2011) (“Temporary CDS Exemptions Extension Release”).
+
+30 Title VII contains provisions that “deem registered” as a clearing agency for the purposes of clearing security-based swaps clearing agencies that met certain conditions. See Pub L. No. 111- 203, § 763(b) (adding Exchange Act Section 17A(l) [15 U.S.C. 78q-1(l)]. Three clearing agencies that had temporary exemptive orders permitting them to clear eligible CDS were deemed registered under this provision and currently are performing the functions of a CCP for eligible CDS. These clearing agencies are ICE Clear Credit LLC (f/k/a ICE U.S. Trust LLC),
+
+31 See Exemption for Standardized Options From Provisions of the Securities Act of 1933 and From the Registration Requirements of the Securities Exchange Act of 1934, Release No. 33-8171 (Dec. 23, 2002), 68 FR 1 (Jan. 2, 2003) (“Standardized Options Release”). See also Securities Act Rule 238 [17 CFR 230.238] and Exchange Act Rule 12h-1(d) [17 CFR 240.12h-1(d)].
+
+32 See Exemptions For Security-Based Swaps Issued By Certain Clearing Agencies, Release No. 33-9222 (June 9, 2011), 76 FR 34920 (June 15, 2011) (“Proposing Release”).
+
+33 In July 2011, the Commission adopted interim exemptions under the Securities Act, the Exchange Act and the Trust Indenture Act for uncleared security-based swaps that prior to July 16, 2011 were “security-based swap agreements” and not securities but became securities due to the provisions of Title VII. See Exemptions for Security-Based Swaps, Release No. 33-9231 (Jul. 1, 2011), 76 FR 40605 (Jul. 11, 2011) (“Interim SBS Exemptions Release”). These interim exemptions will expire upon the compliance date for the final rules the Commission may adopt further defining both the terms “security-based swap” and “eligible contract participant.” Further,
+
+34 The Commission received the following letters that commented specifically on the proposed exemptions: letter from Richard M. Whiting, Executive Director and General Counsel, Financial Services Roundtable, Robert Pickel, Chief Executive Officer, International Swaps and Derivatives Association, and Kenneth E. Bentsen, Jr., Executive Vice President, Public Policy and Advocacy, Securities Industry and Financial Markets Association (“FSR/ISDA/SIFMA Letter”); letter from Bruce Bolander, Gibson, Dunn & Crutcher LLP, dated Aug. 22, 2011 (“Gibson Dunn Letter”); letter from Scott Pintoff, General Counsel, GFI Group Inc., dated Jul. 25, 2011 (“GFI Letter”); letter from Lawrence J. Kramer, dated Jun. 22, 2011 (“Kramer Letter”); letter from Thomas A. Prentice, Ph.D, dated Jun. 21, 2011 (“Prentice Letter”); and letter from William Michael Cunningham, Creative Investment Research, Inc., dated Jul. 4, 2011 (“CIR Letter”). The letter from Scott C. Goebel, Senior Vice President, General Counsel, Fidelity Investments, dated Dec. 8, 2011, did not address the proposed exemptions but commented on rules the Commodity Futures Trading Commission proposed relating to collateral posted in connection with cleared derivatives trades.
+
+35 See FSR/ISDA/SIFMA Letter; Gibson Dunn Letter; GFI Letter; and CIR Letter. We also received comments that disagreed with CDS trading or the SBS exemptions generally. One individual commentator did not believe the Commission should adopt the proposed exemptions because this commentator believes they would facilitate trading in CDS, which this commentator objected to in some circumstances. See Kramer Letter. Another individual commentator opposed the proposed exemptions, but did not provide any explanation for the reason. See Prentice Letter.
+
+36 See FSR/ISDA/SIFMA Letter; Gibson Dunn Letter; GFI Letter; and CIR Letter.
+
+37 See GFI Letter.
+
+38 Id.
+
+39 See Proposing Release at 30; and Interim SBS Exemptions Release at 16.
+
+40 Id.
+
+41 The Commission received one comment letter on the Interim SBS Exemptions Release from an individual that opposed the interim exemptions; however, this commentator did not provide any explanation for the reason.
+
+42 See footnote 30 above for a discussion of the clearing agencies that are deemed registered for purposes of clearing security-based swaps. As noted above, three clearing agencies that had temporary exemptive orders relating to the clearing of eligible CDS were deemed registered under this provision and currently are performing the functions of a CCP for eligible CDS.
+
+43 The Dodd-Frank Act contains provisions permitting the Commission to provide exemptions from clearing agency registration with respect to security-based swaps in limited instances. See footnote 49 below. The final rules cover security-based swaps, including mixed swaps, issued by clearing agencies that the Commission specifically exempts from registration as a clearing agency by rule, regulation, or order.
+
+44 15 U.S.C. §77q. This exemption is similar to the Securities Act exemptions for standardized options and security futures products. See Securities Act Rule 238 [17 CFR 230.238] and Securities Ac Section 3(a)(14) [15 U.S.C. §77c(a)(14)].
+
+45 The exemption for the security-based swap transaction from Securities Act registration will not apply to any securities that may be delivered in settlement or payment of any obligations under the security-based swap (e.g. a physically settled credit default swap). With respect to such securities transactions, the parties to the security-based swap must either be able to rely on another exemption from the registration requirements of the Securities Act or must register such transaction. In evaluating the availability of an exemption from the Securities Act registration requirements, if such a security-based swap may be settled or paid through the delivery of a security, then the transaction in the underlying or referenced security will be considered to occur at the same time as the transaction in the related security-based swap. In this connection, we note that the Dodd-Frank Act amended Securities Act Section 2(a)(3) to provide that security-based swaps could not be used by an issuer, its affiliates, or underwriters to circumvent the registration requirements of Securities Act Section 5 with respect to the issuer’s securities underlying the security-based swap. See 15 U.S.C. 77b(a)(3). As amended, Section 2(a)(3) provides that “[a]ny offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.” As a result, such issuer, affiliate, or underwriter would have to comply with the registration requirements of the Securities Act with respect to such underlying or referenced security, unless another exemption from registration was available.
+
+46 Eligible contract participant is defined in CEA Section 1a(18) (as re-designated and amended by Section 721 of the Dodd-Frank Act). See also Pub. L. No. 111-203, § 761(a) (adding Exchange Act Section 3(a)(65) [15 U.S.C. 78c(a)(65)], which refers to the definition of eligible contract participant in the CEA). The definition of eligible contract participant contained the CEA (as amended by the Dodd-Frank Act) includes: financial institutions; insurance companies; investment companies; commodity pools; business entities, such as corporations, partnerships, and trusts; employee benefit plans; government entities, such as the United States, a State or local municipality, a foreign government, a multinational or supranational government entity, or an instrumentality, agency or department of such entities; market professionals, such as broker dealers, futures commission merchants, floor brokers, and investment advisors; and natural persons with a specified dollar amount invested on a discretionary basis. For certain of the entities and market professionals, the definition also contains certain conditions relating to the amount of assets or amount of monies invested on a discretionary basis. For a complete description of the definition, see CEA Section 1a(18) and Section 721 of the Dodd-Frank Act. Further, the Dodd-Frank Act authorized the CFTC and the SEC to jointly further define the definition of eligible contract participant. See Section 712(d)(1) of the Dodd-Frank Act. In December 2010, the CFTC and the SEC jointly proposed rules to further define the definition of eligible contract participant primarily relating to commodity pools and foreign exchange transactions. See Intermediaries Definitions Release.
+
+47 15 U.S.C. 78q-1. See also discussion in Mandatory Clearing Proposing Release.
+
+48 Id.
+
+49 Section 763(b) of the Dodd-Frank Act amended the Exchange Act and added Section 17(k) [15
+
+50 As we noted above, when functioning as a CCP, a clearing agency’s creditworthiness and liquidity are substituted for the creditworthiness and liquidity of the original counterparties. See footnote 18 above and accompanying text.
+
+51 See Standardized Options Release.
+
+52 Because the novation generally occurs after the counterparties have agreed to enter into the bilateral security-based swap being novated, the investment decision by the counterparties already has occurred.
+
+53 We note, however, that a member or other user of a clearing agency may have an interest in the financial condition of the clearinghouse because the member or user will be relying on the ability of the clearinghouse to meet its obligations with respect to cleared transactions. We have proposed that registered clearing agencies be required to make their audited financial statements and other information about themselves publicly available. See Clearing Agency Standards Proposing Release.
+
+54 See Mandatory Clearing Proposing Release.
+
+55 See Mandatory Clearing Proposing Release. For those security-based swaps that are submitted and not required to be cleared, the clearing agency in its function as a CCP may still clear those security-based swaps if it is permitted by its rules.
+
+56 Exchange Act Section 3C(h) specifies that transactions in security-based swaps that are subject to the clearing requirement of Exchange Act Section 3C(a)(1) must be executed on an exchange or on a security-based SEF registered with us (or a security-based SEF exempt from registration), unless no exchange or security-based SEF makes the security-based swap available to trade or the security-based swap transaction is subject to the clearing exception in Exchange Act Section 3C(g). See Pub. L. No. 111-203, § 763 (adding Exchange Act Section 3C(h) [15 U.S.C. 78c- 3(h)]). Exchange Act Section 3D(e) allows the Commission to exempt a security-based SEF from registration if the Commission finds that the security-based SEF is subject to comparable comprehensive supervision and regulation on a consolidated basis by the CFTC. See 15 U.S.C. 78c-4(e). The Commission proposed (but has not yet adopted) Regulation SB SEF under the Exchange Act that is designed to create a registration framework for security-based SEFs, establish rules with respect to Title VII’s requirement that a security-based SEF must comply with the fourteen enumerated core principles and enforce compliance with those principles, and implement a process for a security-based SEF to submit to the Commission proposed changes to its rules. See footnote 8 above.
+
+57 The exemption would be limited to security-based swaps issued by and in a transaction involving a registered or exempt clearing agency in its function as a CCP.
+
+58 See Security-Based SEF Proposing Release.
+
+59 Standardized options and security futures products are only traded on a national securities exchange and thus are subject to listing standards. See Securities Act Section 3(a)(14) [15 U.S.C. 77c(a)(14)], Exchange Act Section 12(a) [15 U.S.C. 78l(a)], and Exchange Act Rule 12h-1(e) [17 CFR 240.12h-1(e)]. See also footnote 31 above.
+
+60 See Pub. L. No. 111-203, § 768(b) (adding Securities Act Section 5(d) [15 U.S.C. 77e(d)]).
+
+61 See Pub. L. No. 111-203, § 763(e) (adding Exchange Act Section 6(l) [15 U.S.C. 78f(l)]).
+
+62 See also Pub. L. No. 111-203, § 763(e) (adding Exchange Act Section 6(l) [15 U.S.C. 78f(l)]).
+
+63 See Pub. L. No. 111-203, § 768(b) (adding Securities Act Section 5(d) [15 U.S.C. 77e(d)]).
+
+64 See Section 768(b) of the Dodd-Frank Act (adding new Securities Act Section 5(d) [15 U.S.C. 77e(d)]) (“Notwithstanding the provisions of section 3 or 4, unless a registration statement meeting the requirements of section 10(a) is in effect as to a security-based swap, it shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell, offer to buy or purchase or sell a security-based swap to any person who is not an eligible contract participant as defined in section 1a(18) of the Commodity Exchange Act [7 U.S.C. 1a(18)].”).
+
+65 For issuers that are not subject to Exchange Act reporting requirements, the following are some non-exclusive examples of issuers that may have information publicly available, including financial information about the issuer, or circumstances in which public information about a security may be available: (1) an entity that voluntarily files Exchange Act reports; (2) an entity that makes Securities Act Rule 144(d)(4) information available to any person; (3) a foreign private issuer whose securities are listed outside the United States; (4) a foreign sovereign issuer with outstanding debt; (5) for periods before July 21, 2010 an asset-backed security issued in a registered transaction with publicly available distribution reports (for periods after July 21, 2010, asset-backed issuers will continue to be subject to reporting); and (6) an asset-backed security issued or guaranteed by the Federal National Mortgage Association (“Fannie Mae”), the Federal Home Loan Mortgage Corporation (“Freddie Mac”) or the Government National Mortgage Association (“Ginnie Mae”).
+
+66 We note that eligible contract participants may enter into security-based swaps on a bilateral basis in reliance on an available exemption from the registration requirements of the Securities Act. The exemptions we are adopting in this release to facilitate clearing of security-based swaps do not apply to these bilateral transactions, even if they subsequently are novated or otherwise cleared in transactions to which the exemptions we are adopting in this release apply.
+
+67 As part of the process for submitting security-based swaps to us for a determination of whether such security-based swaps are subject to mandatory clearing, the Dodd-Frank Act requires us to take into account several factors, such as the existence of significant outstanding notional exposures, trading liquidity, and adequate pricing data, when reviewing a submission to clear security-based swaps by a clearing agency. Much of the information that the registered or exempt clearing agency will be required to include in its agreement or on its website, as a condition to the exemption, likely will already be included in the description of the security-based swaps that the clearing agency identifies publicly that it is going to clear. In addition to the security-based swap submission provisions, the Dodd-Frank Act and the rules proposed under the Act relating to reporting requirements, trade acknowledgments and verification, and business conduct would require certain disclosures relating to security-based swaps, some of which may potentially overlap with the information requirement we are adopting in this release. See, e.g., Mandatory Clearing Proposing Release, Regulation SBSR – Reporting and Dissemination of Security-Based Swap Information, Release No. 63346 (Nov. 19, 2010), 75 FR 75207 (Dec. 2, 2010) (“SBSR Proposing Release”), Trade Acknowledgment and Verification of Security-Based Swap Transactions, Release No. 34-63727 (Jan. 14, 2011), 76 FR 3859 (Jan. 21, 2011) (“Trade Acknowledgement and Verification Proposing Release”), and Business Conduct Standards for Security-Based Swap Dealers and Major Security-Based Swap Participants, Release No. 34- 64766 (Jun. 29, 2011), 76 FR 42396 (Jul. 18, 2011).
+
+68 In addition, the rules proposed in the Trade Acknowledgement and Verification Proposing Release and the SBSR Proposing Release would require information about the security-based swap to be reported to the security-based swap data repository.
+
+69 See FSR/ISDA/SIFMA Letter; Gibson Dunn Letter; GFI Letter; and CIR Letter.
+
+70 See GFI Letter; and FSR/ISDA/SIFMA Letter.
+
+71 See GFI Letter.
+
+72 See FSR/ISDA/SIFMA Letter. This commentator stated its view that investors in security-based swaps are primarily concerned with the referenced security or loan, issuer or narrow-based
+
+73 See Proposing Release at 30; and Interim SBS Exemptions Release at 16.
+
+74 Id.
+
+75 See footnote 41 above for a discussion of comments received on the Interim SBS Exemptions Release.
+
+76 15 U.S.C. 78l(g) and Exchange Act Rule 12g-1 [17 CFR 240.12g-1].
+
+77 15 U.S.C. 78l(a).
+
+78 15 U.S.C. 78l(g).
+
+79 Exchange Act Rules 12h-1(d) and 12h-1(e) provide similar exemptions for options and futures, respectively. See 17 CFR 240.12h-1(d) and (e).
+
+80 As noted above, a member or other user of the clearing agency may have an interest in the financial condition of the clearinghouse.
+
+81 See Pub. L. No. 111-203 § 763(b).
+
+82 See Exchange Act Section 12(a) [15 U.S.C. 78l(a)]; Exchange Act Rule 12a-9 [17 CFR 240.12a- 9]; and Exchange Act Rules 12h-1(d) and (e) [17 CFR 240.12h-1(d) and (e)].
+
+83 We recognize that security-based swaps that will be issued by a clearing agency, as well as security-based swaps that will not be cleared, may be traded on or through a national securities exchange or a security-based SEF. If the national securities exchange or security-based SEF is acting only in its capacity as a system or platform for trading securities, we do not believe it would be offering or selling the security-based swaps that are being traded or transacted by market participants on or through its system or platform, for purposes of either the Securities Act or the Exchange Act registration provisions applicable to security-based swaps. If the security- based swap being traded on or through the national securities exchange or security-based SEF will, by its terms, be cleared by a clearing agency in its function as a CCP, the security-based swap will be issued by such clearing agency, similar to standardized options and security-future products that are traded on national securities exchanges and cleared by registered clearing agencies. For a security-based swap that will not, by its terms, be cleared by a clearing agency in its function as a CCP, market participants must evaluate the availability of exemptions under the Securities Act and the Exchange Act for their security-based swap transactions.
+
+84 See FSR/ISDA/SIFMA Letter; Gibson Dunn Letter; GFI Letter; and CIR Letter.
+
+85 See GFI Letter; and FSR/ISDA/SIFMA Letter.
+
+86 Id. One of these commentators stated its view that because a security-based swap is a contract between two persons, security-based swap counterparties would not meaningfully benefit from the substantive and procedural protections of the Trust Indenture Act. This commentator also stated its view that eligible contract participants are capable of enforcing obligations under security-based swaps without the protections of the Trust Indenture Act and, therefore, that imposing the requirements of the Trust Indenture Act on security-based swaps would not further the goals of the Trust Indenture Act and would introduce unnecessary costs and burdens to these transactions. See FSR/ISDA/SIFMA Letter.
+
+87 See footnote 41 above for a discussion of comments received on the Interim SBS Exemptions Release.
+
+88 The Trust Indenture Act applies to debt securities sold through the use of the mails or interstate commerce. Section 304 of the Trust Indenture Act exempts from the Trust Indenture Act a number of securities and transactions. Section 304(a) of the Trust Indenture Act exempts
+
+89 See Rule 4d-11T [17 CFR 260.4d-11T]. See also footnote 29 above.
+
+90 See 15 U.S.C.77bbb(a).
+
+91 15 U.S.C. 77bbb(a).
+
+92 See Security-Based SEF Proposing Release (proposed rules relating to security-based SEFs would allow for transactions in uncleared security-based swaps to occur on registered security- based SEFs).
+
+93 Counterparties engaging in an uncleared security-based swap may rely upon the relief discussed in footnote 33 above, which is not affected by this rulemaking. However, such relief will expire upon the compliance date for the final rules the Commission may adopt further defining both the terms “security-based swap” and “eligible contract participant.”
+
+94 See footnote 64 above and accompanying text.
+
+95 See Gibson Dunn Letter.
+
+96 See 5 U.S.C. 553(d).
+
+97 See 5 U.S.C. 553(d)(1) and (3).
+
+98 Only the three clearing agencies that have been actively engaged as CCPs in clearing eligible CDS in reliance on the temporary exemptions for eligible CDS will initially be eligible to rely upon the exemptions contained in the final rules because the clearing agency rules currently only cover certain eligible CDS.
+
+99 See footnote 30 above.
+
+100 See discussion in Section V.C. below.
+
+101 See, e.g., the discussion in the Mandatory Clearing Proposing Release and the Clearing Agencies Proposing Release.
+
+102 See, e.g., Securities Act Section 3(a)(14) [15 U.S.C. 77c(a)(14)]; Securities Act Rule 238 [17 CFR 230.238]; Exchange Act Section 12(a) [15 U.S.C. 78l]; and Exchange Act Rules 12h-1(d) and (e) [17 CFR 240.12h-1(d) and (e)].
+
+103 Section 23(a)(2) of the Exchange Act requires us, when adopting rules under the Exchange Act, to consider the impact that any new rule would have on competition. 15 U.S.C. 78w(a)(2). Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition that is not necessary or appropriate in furtherance of the purposes of the Exchange Act. In addition, Section 2(b) of the Securities Act and Section 3(f) of the Exchange Act require us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to also consider whether the action will promote efficiency, competition, and capital formation. 15 U.S.C. 77b(b) and 15 U.S.C. 78c(f).
+
+104 See Regulation of Clearing Agencies, Release No. 34-16900 (Jun. 17. 1980), 45 FR 41920 (Jun. 23, 1980); and Exchange Act Rule 19b-4(l) and (m) [17 CFR 240.19b-4(l) and (m)].
+
+105 15 U.S.C. 78j(b).
+
+106 15 U.S.C. 77k and 77l.
+
+107 See 15 U.S.C. 77q and 15 U.S.C. 78j(b).
+
+108 We estimate that the total annual reporting burden for clearing agencies to provide the information in their agreements relating to security-based swaps or on their website to comply with Securities Act Rule 239(b)(3) will be 240 hours. We also estimate that 75% of the burden of preparation is carried by the clearing agency internally and that 25% of the burden is carried by outside professionals retained by the clearing agency at an average cost of $400 per hour. See discussion in Section V.C. below.
+
+109 44 U.S.C. 3501 et seq.
+
+110 These clearing agencies are ICE Clear Credit LLC (f/k/a ICE U.S. Trust LLC), ICE Clear Europe, Ltd., and the Chicago Mercantile Exchange Inc. See footnote 30 above.
+
+111 We do not expect there to be a large number of clearing agencies that clear security-based swaps, based on the significant level of capital and other financial resources necessary for the formation of a clearing agency.
+
+112 In the Proposing Release, we estimated that four to six clearing agencies may plan to centrally clear security-based swaps and seek to rely on the exemptions because at that time four clearing agencies were authorized to clear eligible CDS pursuant to certain temporary exemptive orders. See footnote 28 above. However, subsequent to the Proposing Release, three of these clearing agencies were deemed registered under Exchange Act Section 17A and currently are performing the functions of a CCP for eligible CDS. The fourth clearing agency was not deemed registered under Exchange Act Section 17A and because its temporary exemptive order has expired it is not currently performing the functions of a CCP for eligible CDS. See footnote 30 above.
+
+113 As noted above, three clearing agencies are deemed registered as clearing agencies for purposes of clearing security-based swaps and are able to engage as CCPs in clearing eligible CDS, in part, pursuant to the temporary exemptive order relating to Sections 5 and 6 of the Exchange Act. The temporary exemptive order contains conditions to such relief relating to, among other things, available information about the eligible CDS and the underlying reference entity of such eligible CDS. See footnote 30 above. We also note that we proposed rules in the Mandatory Clearing Proposing Release and the SBSR Proposing Release that would require some of the same information as the requirements adopted in this release. If we adopt those rules with information collections similar to that adopted in this release, we may adjust our PRA estimates.
+
+114 In the Mandatory Clearing Proposing Release, we estimated that four hours would be required by a clearing agency to post a security-based swap submission on its website to comply with proposed Rule 19b-4(o)(5). We believe that the information that would be required to rely on the exemptions we are adopting in this release is less extensive than the information that would be required in a security-based swap submission. Therefore, we estimate that the burden to include the information that would be required to rely on the exemptions in an agreement or on the clearing agency’s website would be less than the burden to post a security-based swap submission.
+
+115 In the Mandatory Clearing Proposing Release, we estimated that each clearing agency will submit 20 security-based swap submissions annually. Each submission will relate to a security-based swap, or group, category, type or class of security-based swap that the clearing agency plans to accept for clearing. We are using that estimate as the basis for our estimate as to how many times per year a clearing agency would be required to provide the information in reliance on the exemptions.
+
+116 5 U.S.C. 605(b).

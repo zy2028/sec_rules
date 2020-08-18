@@ -1,0 +1,901 @@
+https://www.sec.gov/rules/final/ia-1633.txt
+
+	I.0.0.0: I. BACKGROUND
+
+	II.0.0.0: II. DISCUSSION
+
+		II.A.0.0: A. Form ADV-T
+
+		II.B.0.0: B. Assets Under Management
+
+			II.B.1.0: 1. Securities Portfolios
+
+			II.B.2.0: 2. Continuous and Regular Supervisory or Management Services
+
+			II.B.3.0: 3. Safe Harbor for State-Registered Investment Advisers
+
+			II.B.4.0: 4. Valuation and Reporting of Securities Portfolios
+
+		II.C.0.0: C. Transitions Between State and Commission Registration
+
+			II.C.1.0: 1. Transition from Commission to State Registration
+
+			II.C.1.a: a. Annual Reporting of Continued Eligibility
+
+			II.C.1.b: b. 90-Day Grace Period
+
+			II.C.1.c: c. Cancellation of Commission Registration
+
+			II.C.2.0: 2. Transition from State to Commission Registration
+
+			II.C.2.a: a. The $5 Million "Window"
+
+			II.C.2.b: b. Registration with the Commission
+
+		II.D.0.0: D. Exemptions from Prohibition on Registration with the Commission
+
+			II.D.1.0: 1. Nationally Recognized Statistical Rating Organizations
+
+			II.D.2.0: 2. Pension Consultants
+
+			II.D.3.0: 3. Certain Affiliated Investment Advisers
+
+			II.D.4.0: 4. Investment Advisers With Reasonable Expectation of Eligibility
+
+			II.D.5.0: 5. Advisers to ERISA Plans
+
+		II.E.0.0: E. Investment Advisers Not Regulated or Required to be Regulated by States
+
+			II.E.1.0: 1. "Regulated or Required to be Regulated"
+
+			II.E.2.0: 2. "Principal Office and Place of Business"
+
+		II.F.0.0: F. Persons Who Act on Behalf of Investment Advisers
+
+			II.F.1.0: 1. "Investment Adviser Representative"
+
+			II.F.1.a: a. Retail Clients
+
+			II.F.1.b: b. Accommodation Clients
+
+			II.F.1.c: c. Supervised Persons Providing Indirect or Impersonal Advice
+
+			II.F.1.d: d. Dually Registered Investment Adviser Representatives
+
+			II.F.1.e: e. Solicitors
+
+			II.F.2.0: 2. "Place of Business"
+
+		II.G.0.0: G. National De Minimis Standard
+
+		II.H.0.0: H. Scope of State Authority Over Commission-Registered Investment Advisers
+
+			II.H.1.0: 1. Preemption of State Regulatory Authority
+
+			II.H.2.0: 2. Preservation of State Anti-Fraud Authority
+
+		II.I.0.0: I. Other Amendments to Advisers Act Rules
+
+			II.I.1.0: 1. Amendments to Form ADV; Elimination of Form ADV-S
+
+			II.I.2.0: 2. Rule 204-2 -- Books and Records
+
+			II.I.3.0: 3. Rule 205-3 -- Performance Fee Arrangements
+
+			II.I.4.0: 4. Rule 206(3)-2 -- Agency Cross Transactions
+
+			II.I.5.0: 5. Rules 206(4)-1, 206(4)-2, and 206(4)-4 -- Anti- Fraud Rules
+
+	III.0.0.0: III. EFFECTIVE DATES
+
+	IV.0.0.0: IV. PAPERWORK REDUCTION ACT
+
+	V.0.0.0: V. COST/BENEFIT ANALYSIS
+
+	VI.0.0.0: VI. SUMMARY OF REGULATORY FLEXIBILITY ANALYSIS
+
+	VII.0.0.0: VII. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+17 CFR Parts 275 and 279 [Release No. IA-1633, File No. S7-31-96] 
+
+RIN 3235-AH07 
+
+Rules Implementing Amendments to the Investment Advisers Act of 1940 
+
+AGENCY: Securities and Exchange Commission. 
+
+ACTION: Final rules. 
+
+SUMMARY: The Commission is adopting new rules and rule amendments under the Investment Advisers Act of 1940 ("Advisers Act") to implement provisions of the Investment Advisers Supervision Coordination Act ("Coordination Act") that reallocate regulatory responsibilities for investment advisers between the Commission and the states. The rules establish the process by which certain advisers will withdraw from Commission registration, exempt certain advisers from the prohibition on Commission registration, and define certain terms. The Commission also is amending several rules under the Advisers Act to reflect the changes made by the Coordination Act. The rules and rule amendments are intended to clarify provisions of the Coordination Act and assist investment advisers in ascertaining their regulatory status. 
+
+EFFECTIVE DATES: July 8, 1997, except for sect. 275.203A-2, which will become effective on [Insert date 60 days after publication in the Federal Register]. See section III of this Release. 
+
+FOR FURTHER INFORMATION CONTACT: Catherine M. Saadeh, Staff Attorney, or Cynthia G. Pugh, Staff Attorney, at (202) 942-0691, Task Force on Investment Adviser Regulation, Division of Investment Management, Stop 10-2, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549. The Commission has placed a list of frequently asked questions and answers about Form ADV-T and the changes in the regulation of investment advisers on the Commission's Internet web site. This list is located at http://www.sec.gov/rules/othern/advfaq.htm. The Commission staff will update these questions and answers from time to time. The Commission urges interested persons with access to the World Wide Web to review these questions and answers before contacting Commission staff. 
+
+SUPPLEMENTARY INFORMATION: The Commission is adopting new rules 203A-1, 203A-2, 203A-3, 203A-4, 203A-5, 222-1, and 222-2 [17 CFR 275.203A-1, 275.203A-2, 275.203A-3, 275.203A-4, 275.203A-5, 275.222-1, and 275.222-2], and amendments to rules 203(b)(3)-1, 204-1, 204-2, 205-3, 206(3)-2, 206(4)-1, 206(4)-2, 206(4)-3, and 206(4)-4 [17 CFR 275.203(b)(3)-1, 275.204-1, 275.204-2, 275.205- 3, 275.206(3)-2, 275.206(4)-1, 275.206(4)-2, 275.206(4)-3, and 275.206(4)-4], and Form ADV [17 CFR 279.1] under the Investment Advisers Act of 1940 [15 USC 80b-1] (the "Advisers Act" or the "Act"). The Commission is rescinding Form ADV-S [17 CFR 279.3] under the Advisers Act.
+
+<END HEADER>
+
+<h>EXECUTIVE SUMMARY</h>
+
+The Commission is adopting rules and rule amendments to implement certain provisions of the Investment Advisers Supervision Coordination Act. The Coordination Act amended the Advisers Act to, among other things, reallocate the responsibilities for regulating investment advisers ("investment advisers" or "advisers") between the Commission and the securities regulatory authorities of the states. Generally, the Coordination Act provides for Commission regulation of advisers with $25 million or more of assets under management, and state regulation of advisers with less than $25 million of assets under management. The rules and rule amendments:
+
+-- Establish the process by which advisers that are currently registered with the Commission determine their status as Commission- or state-registered advisers after July 8, 1997, the effective date of the Coordination Act;
+
+-- Amend Form ADV to require advisers to report annually to the Commission information relevant to their status as Commission-registered advisers;
+
+-- Relieve advisers of the burden of frequently having to register and then de-register with the Commission as a result of changes in the amount of their assets under management;
+
+-- Provide certain exemptions from the prohibition on registration with the Commission;
+
+-- Define certain terms used in the Coordination Act, including "investment adviser representative," "principal office and place of business," and "place of business"; and
+
+-- Clarify how advisers should count clients for purposes of both the new national de minimis exemption from state regulation and the federal de minimis exemption from Commission registration.
+
+I. BACKGROUND
+
+On October 11, 1996, President Clinton signed into law the National Securities Markets Improvement Act of 1996 ("1996 Act").<sup> 1 </sup> Title III of the 1996 Act, the Coordination Act, makes several amendments to the Advisers Act. The most significant of these amendments reallocates federal and state responsibilities for the regulation of the approximately 23,350 investment advisers currently registered with the Commission.<sup> 2 </sup> These amendments will become effective on July 8, 1997.<sup> 3 </sup>
+
+The reallocation of regulatory responsibilities grew out of a number of Congressional concerns regarding the regulation of investment advisers. Congress was concerned that the Commission's resources are inadequate to supervise the activities of the growing number of investment advisers registered with the Commission, many of which are small, locally operated, financial planning firms.<sup> 4 </sup> Congress concluded that if the overlapping regulatory responsibilities of the Commission and the states were divided by making the states primarily responsible for smaller advisory firms and the Commission primarily responsible for larger firms, the regulatory resources of the Commission and the states could be put to better, more efficient use.<sup> 5 </sup>
+
+Congress also was concerned with the cost imposed on investment advisers and their clients by overlapping, and in some cases, duplicative, regulation.<sup> 6 </sup> In addition to the Commission, forty-six states regulate the activities of investment advisers under state investment adviser statutes.<sup> 7 </sup> States generally have asserted jurisdiction over investment advisers that "transact business" in their state.<sup> 8 </sup> Consequently, many large advisers operating nationally have been subject to the differing laws of many states. Industry participants strongly asserted that compliance with differing state laws has imposed significant regulatory burdens on these large advisers.<sup> 9 </sup> Congress intended to reduce these burdens by subjecting large advisers to a single regulatory program administered by the Commission.<sup> 10 </sup>
+
+The Coordination Act reallocates regulatory responsibilities over advisers by limiting the application of federal law and preempting certain state laws. Under new section 203A(a) of the Advisers Act,<sup> 11 </sup> an investment adviser that is regulated or required to be regulated as an investment adviser in the state in which it maintains its principal office and place of business is prohibited from registering with the Commission unless the adviser (i) has assets under management of not less than $25 million (or such higher amount as the Commission may, by rule, deem appropriate), or (ii) is an adviser to an investment company registered under the Investment Company Act of 1940 (the "Investment Company Act").<sup> 12 </sup> The Commission is authorized to deny registration to any applicant that does not meet the criteria for Commission registration,<sup> 13 </sup> and is directed to cancel the registration of any adviser that no longer meets the criteria for registration.<sup> 14 </sup>
+
+On December 20, 1996, the Commission proposed rules and rule amendments to implement the Coordination Act.<sup> 15 </sup> The proposed rules would establish the process by which advisers no longer eligible to register with the Commission would withdraw from Commission registration, exempt certain advisers from the prohibition on Commission registration, and define certain terms used in the Coordination Act. The Commission also proposed to amend several rules under the Advisers Act to reflect the changes made by the Coordination Act.
+
+The Commission received 105 comment letters in response to the proposal, most of which were from investment advisers and their trade groups and counsel (hereinafter collectively referred to as "investment adviser commenters"). Twenty-six comment letters were received from state securities regulators (hereinafter referred to as "states"), including the North American Securities Administrators Association, Inc. ("NASAA").<sup> 16 </sup>
+
+In preparing these implementing rules for adoption, the Commission has been guided by the language of the Coordination Act and the policy considerations that led to its enactment. The Commission does not believe that it would be appropriate or within its proper authority to revisit policy decisions made by Congress, as some commenters appear to have suggested.
+
+<h>II. DISCUSSION</h>
+
+The Commission is adopting several rules implementing the provisions of the Coordination Act designed to reallocate the regulatory responsibilities for investment advisers between the Commission and the states.
+
+<h>A. Form ADV-T</h>
+
+Approximately 23,350 investment advisers currently are registered with the Commission. Based on information provided by these advisers, the Commission estimates that more than two-thirds of them would not be eligible to register with the Commission after July 8, 1997. These advisers must withdraw from registration or their registrations will be subject to cancellation.<sup> 17 </sup> To allow the Commission to determine each adviser's status under the Advisers Act, as amended by the Coordination Act, and to provide for the orderly withdrawal from Commission registration of advisers that are no longer eligible, the Commission proposed a transition rule, rule 203A- 5.<sup> 18 </sup> Among other things, rule 203A-5 would require all Commission-registered advisers to make a one-time filing of a new form, Form ADV-T. The Commission is adopting the rule and the form largely as proposed.<sup> 19 </sup> Paragraph (a) of rule 203A-5 requires all advisers registered with the Commission on July 8, 1997 to file a completed Form ADV-T with the Commission no later than that date.<sup> 20 </sup> Form ADV-T contains instructions designed to assist an adviser in determining whether it meets the criteria for Commission registration set forth in the Coordination Act and the exemptive rules adopted by the Commission.<sup> 21 </sup> Form ADV-T requires each adviser to indicate whether it remains eligible for Commission registration. For an adviser that indicates that it is not eligible for Commission registration, filing of Form ADV-T serves as the adviser's request for withdrawal from registration as of July 8, 1997.<sup> 22 </sup> An adviser that does not return the form or that fails to withdraw voluntarily from Commission registration if no longer eligible will be subject to having its registration canceled pursuant to section 203(h).<sup> 23 </sup>
+
+Form ADV-T is attached as Appendix A to this Release. Shortly after the publication of this Release, the Commission will mail a copy of Form ADV-T to each investment adviser registered with the Commission. In addition to a copy of Form ADV-T, each adviser will receive pre-printed address labels that will assist the Commission in processing the forms. The Commission asks advisers to return the Form ADV-T they receive in the mail using these pre-printed labels.
+
+<h>B. Assets Under Management</h>
+
+In most cases, the amount of assets an adviser has under management will determine whether the adviser will be registered with the Commission or the states. Section 203A(a)(2) of the Advisers Act defines "assets under management" as the "securities portfolios" with respect to which an investment adviser provides "continuous and regular supervisory or management services."<sup> 24 </sup> Form ADV-T contains instructions that clarify when an account is a "securities portfolio," what services constitute "continuous and regular supervisory or management services," and the appropriate method of valuing the account.<sup> 25 </sup>
+
+<h>1. Securities Portfolios</h>
+
+The Commission proposed an instruction to Form ADV-T to define a "securities portfolio" as any account at least fifty percent of the total value of which consists of securities.<sup> 26 </sup> Some commenters argued that the fifty percent test was too low and suggested a higher percentage, such as eighty percent. The Commission believes that Congress used the term "securities portfolio" to refer to the types of accounts typically managed by investment advisers, which include investments other than securities. The Commission believes that an account fifty percent of the total value of which consists of securities may be fairly characterized as a securities portfolio, and is adopting the fifty percent test substantially as proposed.<sup> 27 </sup>
+
+Because advisers in the normal course of business maintain portions of client accounts in cash, the Commission proposed that cash and cash equivalents be excluded by an adviser in determining whether an account is a securities portfolio.<sup> 28 </sup> Two commenters expressed concern that, under the proposal, if securities in a client's account were converted to cash to create a defensive investment position, and the remaining investments in the account were held, for example, in real estate, the account would not be deemed to be a securities portfolio. Such a result, one commenter pointed out, seemed at odds with the purpose of excluding cash when determining whether an account is a securities portfolio. To avoid such a result, the Commission has revised the instruction to permit an adviser to treat cash and cash equivalents as securities for the purpose of determining whether an account is a securities portfolio.<sup> 29 </sup>
+
+<h>2. Continuous and Regular Supervisory or Management Services</h>
+
+The Commission proposed to provide guidance in an instruction to Form ADV-T for determining whether an adviser provides an account with "continuous and regular supervisory or management services" within the meaning of section 203A(a)(2). As proposed, the instruction provided several examples of advisory arrangements and drew conclusions whether the accounts were provided with continuous and regular supervisory or management services. Commenters requested that the Commission provide greater clarity in the instruction, disagreed with some of the conclusions the Commission drew, and provided the Commission with examples of additional arrangements that would and would not receive continuous and regular supervisory or management services.
+
+The Commission has redrafted the instruction in light of the commenters' suggestions. As adopted, Instruction 8(c) to Form ADV-T sets forth general criteria, lists certain factors that should be considered in determining whether the criteria apply to an account, and provides examples designed to apply those criteria and factors. This approach should be more helpful to advisers in determining whether an account is provided continuous and regular supervisory or management services.
+
+Instruction 8(c) states that accounts over which an adviser has discretionary authority and for which it provides ongoing supervisory or management services receive continuous and regular supervisory or management services. The Commission expects that most discretionary accounts would meet this standard. In addition, a limited number of non-discretionary advisory arrangements may receive continuous and regular supervisory or management services, but only if the adviser "has an ongoing responsibility to select or make recommendations, based upon the needs of the client, as to specific securities or other investments the account may purchase or sell and, if such recommendations are accepted by the client, is responsible for arranging or effecting the purchase or sale."<sup> 30 </sup> Thus, an advisory relationship under which the adviser does not have discretionary authority must assign to the adviser other responsibilities typically associated with a discretionary account.<sup> 31 </sup>
+
+Instruction 8(c) provides three factors that advisers should use (and which the Commission will use) in applying these general principles. These factors are the terms of the advisory contract, the form of compensation, and the management practice of the adviser. No single factor is determinative. For example, advisers that provide portfolio management services are typically compensated on the basis of a percentage of the amount of assets under management averaged over some period of time. The use of this type of a compensation arrangement would tend to suggest that the account receives continuous and regular supervisory or management services, although a different compensation arrangement would not preclude that conclusion.
+
+<h>3. Safe Harbor for State-Registered Investment Advisers</h>
+
+The Commission recognizes that section 203A(a)(2) does not and the instructions to Form ADV-T do not provide a "bright line" test as to whether a particular arrangement involves the provision of continuous and regular supervisory or management services. The Commission, therefore, is adopting rule 203A-4, which provides a safe harbor from Commission registration for an adviser that is registered with a state securities authority (rather than the Commission) based on a reasonable belief that it is not required to register with the Commission because it does not have sufficient assets under management.<sup> 32 </sup> Commenters strongly supported the rule's adoption.
+
+Under rule 203A-4, the Commission will not assert a violation of the Advisers Act for failure to register with the Commission (or to comply with the provisions of the Advisers Act to which an adviser is subject if required to register) if the adviser reasonably believes that it does not have sufficient assets under management (at least $30 million) and is therefore not required to register with the Commission.<sup> 33 </sup> This safe harbor is available only to an adviser that is registered with the state in which it has its principal office and place of business.
+
+<h>4. Valuation and Reporting of Securities Portfolios</h>
+
+Under a proposed instruction to Form ADV-T, once an adviser has determined that an account is a "securities portfolio" that receives "continuous and regular supervisory or management services," the entire value of the account would be included in determining the amount of the adviser's assets under management. Several commenters objected to this approach, arguing that only the value of securities should be included as assets under management. The Commission believes that including only the value of securities would be inconsistent with section 203A(a)(2), which requires that "securities portfolios," not "securities," be included in assets under management. The use of the term "securities portfolios" rather than "securities" suggests that once an account is determined to be a securities portfolio, all assets in the account should be included as assets under management.<sup> 34 </sup>
+
+The Commission is aware that in some cases an adviser may have responsibility for an account only a portion of which receives continuous and regular supervisory or management services. As adopted, Instruction 8(b) to Form ADV-T provides that only the portion of a securities portfolio that receives continuous and regular supervisory or management services may be included as part of the adviser's assets under management.
+
+Under a proposed instruction to Form ADV-T, the value of a securities portfolio would be determined as of a date no more than ten business days before the filing of Form ADV-T. Several commenters said that more time was needed because some advisers obtain information on the value of client accounts from third parties that provide the information on a monthly or quarterly basis.<sup> 35 </sup> To provide advisers with greater flexibility, the Commission has revised the instruction so that the value of securities portfolios may be determined as of a date no more than 90 days prior to the date Form ADV-T is filed with the Commission.<sup> 36 </sup>
+
+The Commission proposed that the method by which the accounts are valued for purposes of determining assets under management be the same as that used to value the account for purposes of client reporting or to determine fees for investment advisory services. Commenters supported this proposal, which the Commission is adopting substantially as proposed.<sup> 37 </sup>
+
+<h>C. Transitions Between State and Commission Registration</h>
+
+The Coordination Act contemplates that a state-registered adviser whose assets under management increase to $25 million will withdraw its state registration and register with the Commission. Conversely, an adviser whose assets under management decrease below $25 million will withdraw its Commission registration and register with a state (or states). The Commission proposed to use its rulemaking authority under the Advisers Act, as amended, to reduce the regulatory burdens that may be caused by these transitions.<sup> 38 </sup>
+
+<h>1. Transition from Commission to State Registration</h>
+
+<h>a. Annual Reporting of Continued Eligibility</h>
+
+The Commission is amending Form ADV by adding new Schedule I ("eye") that requires advisers to report information on an ongoing basis similar to that reported on Form ADV-T.<sup> 39 </sup> Schedule I will be used both to determine whether new applicants are eligible for Commission registration, and to determine whether advisers registered with the Commission continue to be eligible for such registration. Schedule I must be updated annually, within 90 days after the end of the adviser's fiscal year.<sup> 40 </sup>
+
+The Commission proposed to require advisers to determine and report their assets under management annually in order to reduce the frequency with which advisers are required to change regulators as a result of a decrease in the amount of assets they have under management.<sup> 41 </sup> Under the proposal, an adviser whose assets under management fell below $25 million would not be required to report this event until after the end of its fiscal year (and not at all unless its assets under management remained below $25 million at the time it filed its Schedule I). Some state commenters asserted that an adviser should be required to withdraw its Commission registration promptly when its assets under management decrease below $25 million, or decrease by some percentage below $25 million. The Commission believes that these approaches could result in some advisers changing regulators too frequently, and is adopting the annual reporting requirement as proposed.<sup> 42 </sup>
+
+Under rule 204-1(a), a Commission-registered adviser must evaluate and report its continued eligibility for Commission registration once a year. An adviser that reports that it is no longer eligible must withdraw its registration within the 90-day grace period provided by rule 203A-1(c), discussed below, or be subject to a cancellation proceeding under section 203(h).<sup> 43 </sup>
+
+<h>b. 90-Day Grace Period</h>
+
+An adviser that withdraws from Commission registration will be subject to the registration requirements of one or more states. To allow such an adviser sufficient time to register under applicable state statutes, the Commission proposed to provide a "grace period" of 90 days after the date the adviser files its Schedule I indicating that it would not be eligible for Commission registration.<sup> 44 </sup> Several commenters argued that 90 days was insufficient, while a number of state commenters requested that the 90-day period be shortened, asserting that state registration generally is effected quickly.
+
+In light of these conflicting views, the Commission is adopting the 90-day grace period substantially as proposed.<sup> 45 </sup> A shorter period may not provide advisers with sufficient time to comply with the registration requirements of multiple states, particularly where the adviser must change its business practices or ensure that its employees prepare for and pass qualification examinations. On the other hand, a longer period may be unnecessary because, as a result of the annual determination of eligibility discussed above, a withdrawing adviser usually will have more than 90 days to come into compliance with state law. The Commission will monitor the operation of the rule and, if necessary, will shorten or lengthen the grace period.
+
+<h>c. Cancellation of Commission Registration</h>
+
+Upon the expiration of the grace period, the Commission may institute proceedings to cancel the adviser's registration if it has not yet been withdrawn.<sup> 46 </sup> As provided under the Advisers Act, the adviser will be given notice and an opportunity to show why its registration should not be cancelled.<sup> 47 </sup> Upon a showing by the adviser that it requires additional time to comply with state registration requirements, the Commission may stay the cancellation proceeding for a reasonable period, provided that the adviser has made a good faith effort to meet the registration requirements of state law and complied in good faith with the obligation to update Schedule I.
+
+<h>2. Transition from State to Commission Registration</h>
+
+<h>a. The $5 Million "Window"</h>
+
+The Commission proposed to make Commission registration optional for an adviser having between $25 and $30 million of assets under management.<sup> 48 </sup> The proposed rule would permit such an adviser to determine whether and when to change from state to Commission registration. In order to avoid having to de-register shortly after registering with the Commission, an adviser reaching the $25 million assets under management threshold could defer registration with the Commission. The adviser would not be required to register with the Commission until its assets under management reached $30 million, and would not be subject to Commission cancellation of its registration until its assets under management had fallen below $25 million.
+
+Most commenters supported the proposed rule as providing useful flexibility, although some commenters urged that the "window" be increased from $5 to $10 million. The Commission is adopting the rule as proposed, but will monitor its operation.<sup> 49 </sup> If the $5 million window proves to be inadequate to prevent transient registration, the Commission will consider expanding the provision.
+
+<h>b. Registration with the Commission</h>
+
+Under the proposal, a state-registered adviser would have been required to register with the Commission promptly when the adviser's assets under management reached $30 million.<sup> 50 </sup> In response to the suggestion of several commenters, the Commission is adopting paragraph (d) to rule 203A-1 to make the transition from state to Commission registration parallel with the transition from Commission to state registration.<sup> 51 </sup>
+
+Under rule 203A-1(d), certain advisers whose assets under management grow to $30 million may (but are not required to) postpone Commission registration until 90 days after the date the adviser is required to report $30 million or more of assets under management to its state securities authority.<sup> 52 </sup> If, however, the assets of an adviser relying on the rule are less than $30 million when it registers with the Commission, the adviser's application for registration would not be made effective.
+
+<h>D. Exemptions from Prohibition on Registration with the Commission</h>
+
+Section 203A(c) of the Advisers Act<sup> 53 </sup> authorizes the Commission to exempt advisers from the prohibition on Commission registration if the prohibition would be "unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes" of section 203A of the Act.<sup> 54 </sup> Pursuant to this authority, the Commission proposed a new rule, rule 203A-2, that would exempt from the prohibition on Commission registration four types of advisers that otherwise would not be eligible for Commission registration. The Commission is adopting rule 203A-2 substantially as proposed. An adviser that meets the conditions of a rule 203A-2 exemption is required by section 203 of the Advisers Act to register with the Commission, unless it qualifies for an exemption from registration under section 203(b) of the Act.<sup> 55 </sup>
+
+<h>1. Nationally Recognized Statistical Rating Organizations</h>
+
+The Commission proposed to exempt from the prohibition on Commission registration "nationally recognized statistical rating organizations" ("NRSROs"), commonly referred to as rating agencies, which are registered with the Commission as investment advisers.<sup> 56 </sup> The Proposing Release explained that, while NRSROs do not themselves have assets under management, their activities have a significant effect on the national securities markets and the operation of federal securities laws. All commenters addressing this exemption supported it, and the Commission is adopting the exemption as proposed.<sup> 57 </sup>
+
+<h>2. Pension Consultants</h>
+
+The Commission proposed to exempt from the prohibition on Commission registration pension consultants that provide investment advice to employee benefit plans with respect to assets having an aggregate value of at least $50 million during the adviser's last fiscal year.<sup> 58 </sup> Pension consultants provide various advisory services to plans and plan fiduciaries, including assistance in selecting and monitoring investment advisers that manage assets of such plans, but may not themselves have assets under management. In the Proposing Release, the Commission explained that the activities of pension consultants have a direct effect on the management of billions of dollars of plan assets, and that it would be inconsistent with the purposes of the Coordination Act for these advisers to be regulated by the states, rather than by the Commission.
+
+Most commenters addressing this exemption supported it, and the Commission is adopting the exemption substantially as proposed.<sup> 59 </sup> Several commenters raised questions, however, as to the scope of the exemption. The exemption is available to advisers that provide advice to employee benefit plans -- not to plan participants. An adviser that provides advice to plan participants (e.g., regarding the allocation of the participant's contributions in an employee directed defined contribution plan) would not be eligible for the exemption unless the adviser also provides advice to employee benefit plans with respect to $50 million of plan assets.<sup> 60 </sup> The advice, for example, could concern the funding of a defined benefit plan or the selection of funding vehicles for a defined contribution plan, but would have to be provided to the plan or the plan fiduciary.<sup> 61 </sup>
+
+Several commenters requested clarification whether the exemption would apply to an investment adviser that provides advisory services to pension plans, but not with respect to "securities portfolios" of those plans. These commenters are (or represent) firms that provide advice to plans regarding large real estate investments that are held both directly and indirectly through real estate investment trusts or other investment vehicles. Many of these firms provide advice with respect to plan assets worth hundreds of millions of dollars and are clearly "large" enterprises whose activities have an effect on national markets. As used in rule 203A-2(b), the term "assets of plans" is not limited to securities portfolios, and thus such investment advisers are eligible for the exemption.
+
+<h>3. Certain Affiliated Investment Advisers</h>
+
+The Commission proposed to exempt from the prohibition on Commission registration advisers that are affiliated with a Commission-registered adviser if the principal office and place of business of the affiliate is the same as that of the registered adviser.<sup> 62 </sup> In proposing the exemption, the Commission explained that when the activities of affiliated advisers are centrally managed, subjecting them to different regulatory schemes would be burdensome and inefficient.
+
+Most commenters that addressed this exemption supported it, stating that Commission registration of affiliated advisers would be more efficient. Many, however, urged that the availability of the exemption not be limited to advisers having the same principal office. In particular, some commenters suggested that the exemption be expanded to permit Commission registration of affiliated advisers whose compliance or books and records systems are integrated with those of a Commission-registered adviser.
+
+The Commission is not expanding the exemption as suggested because it is concerned that such an expansion could result in Commission registration of a large number of small, locally operated advisers, which Congress intended to be registered with the states.<sup> 63 </sup> The Commission understands that, as a result, some advisers whose operations are integrated with those of a Commission-registered adviser will be prohibited from registering with the Commission.<sup> 64 </sup> The Commission will entertain requests for exemptive relief from these advisers on a case-by-case basis under section 203A(c), and may consider expanding the exemption if experience suggests expansion would be appropriate.
+
+Under rule 203A-2(c) as adopted, an adviser that controls, is controlled by, or is under common control with an adviser eligible to register (and in fact registered) with the Commission must register with the Commission if the two advisers have the same principal office and place of business.<sup> 65 </sup> The rule defines "control" as the power to direct or cause the direction of the management or policies of an adviser, whether through ownership of securities, by contract, or otherwise.<sup> 66 </sup>
+
+<h>4. Investment Advisers With Reasonable Expectation of Eligibility</h>
+
+The Commission proposed an exemption to permit a newly formed adviser to register with the Commission at the time of its formation if the adviser has a reasonable expectation that within 90 days it will become eligible for Commission registration.<sup> 67 </sup> All commenters addressing this exemption supported it. Many, however, urged the Commission to give newly formed advisers a longer period than 90 days to become eligible for Commission registration. Some pointed out that even if the start-up adviser has obtained commitments from prospective clients for more than $25 million of assets, it may take more than 90 days for clients (particularly institutional clients) to transfer their assets to the adviser. To address this concern, the rule as adopted allows for a period of 120 days.<sup> 68 </sup>
+
+Under rule 203A-2(d), an adviser is exempt from the prohibition on Commission registration if, at the time of registration, it is not registered (or required to be registered) with the Commission or any state and has a reasonable expectation that it would be eligible for Commission registration within 120 days after the date its registration becomes effective.<sup> 69 </sup> At the end of the 120-day period, the adviser is required to file an amended Schedule I.<sup> 70 </sup> If the adviser indicates on the amended Schedule I that it has not become eligible to register with the Commission (e.g., it does not have at least $25 million of assets under management), the adviser is required to file a Form ADV-W concurrently with the Schedule I, thereby withdrawing from registration with the Commission.<sup> 71 </sup>
+
+<h>5. Advisers to ERISA Plans</h>
+
+Many investment advisers provide advice to employee benefit plans governed by the Employee Retirement Income Security Act of 1974 ("ERISA"). ERISA protects a plan's named fiduciary from liability for the individual decisions of an investment manager appointed by the fiduciary to manage the plan's assets.<sup> 72 </sup> The term investment manager is defined by ERISA to include certain investment advisers registered under the Advisers Act, as well as certain banks and insurance companies.<sup> 73 </sup> Although the Coordination Act amended ERISA to include state-registered investment advisers as investment managers, that amendment expires two years after enactment, on October 11, 1998.<sup> 74 </sup>
+
+Several commenters urged the Commission to use its authority under the Coordination Act to exempt advisers that manage accounts subject to ERISA. These commenters expressed concern that unless they were permitted to remain registered with the Commission, they effectively would be denied the ability to manage ERISA accounts and would be harmed competitively.
+
+Although the Commission shares these commenters' concerns, the Commission believes such an exemption would be inconsistent with the purposes of the Coordination Act and outside the scope of the Commission's authority. As described above, the grant of exemptive authority in section 203A(c) was designed to permit Commission registration of advisers that are larger, national firms, but do not have $25 million of assets under management. An exemptive rule conditioned solely on the management of assets of accounts subject to ERISA could exempt a large number of small, locally operated advisers.<sup> 75 </sup> In the Commission's view, in order for such a rule not to be anti- competitive, the rule would have to exempt all advisers that propose to serve clients regulated under ERISA. If not, the rule would preclude advisers from entering that market. Thus, such an exemption could result in most smaller advisers remaining registered with the Commission -- completely frustrating a principal purpose of the Coordination Act.<sup> 76 </sup>
+
+On April 7, 1997, Chairman Levitt wrote to the leadership of the Congressional committees with jurisdiction over ERISA, urging that legislation be enacted eliminating the "sunset" provision in the Coordination Act, thus making permanent the amendment of ERISA that permits state-registered advisers to serve as investment managers.<sup> 77 </sup>
+
+<h>E. Investment Advisers Not Regulated or Required to be Regulated by States</h>
+
+Under section 203A(a)(1) of the Advisers Act, advisers that are not regulated or required to be regulated as investment advisers in the state in which they have their principal office and place of business must register with the Commission regardless of the amount of assets they have under management.<sup> 78 </sup> This provision makes clear that the Commission will retain regulatory responsibility for an adviser with a principal office and place of business in a state that has not enacted an investment adviser statute,<sup> 79 </sup> and for foreign advisers doing business in the United States. The Coordination Act, however, does not provide an explanation of when an adviser is "regulated or required to be regulated" as an investment adviser, nor does it define "principal office and place of business." 
+
+<h>1. "Regulated or Required to be Regulated"</h>
+
+Under the proposal, the Commission would have interpreted the phrase "regulated or required to be regulated" in section 203A(a)(1) to mean "registered" with a state.<sup> 80 </sup> Under this interpretation, an investment adviser exempt from registration with the state in which it has its principal office and place of business would be eligible for registration with the Commission, even if it has less than $25 million of assets under management.
+
+Most commenters that addressed this issue, including several state commenters, supported the Commission's proposed interpretation. These commenters expressed concern that an alternative interpretation under which an adviser would be deemed "regulated" by a state if that state has in effect an investment adviser statute would result in a regulatory "gap" that leaves clients of advisers exempt from state registration and below the threshold for Commission registration at risk. Two commenters, however, objected to the proposed interpretation. One of these commenters argued that the proposed interpretation would be inconsistent with the goal of the Coordination Act, which was to make the Commission primarily responsible for larger advisers with national businesses and the state primarily responsible for smaller advisers. This commenter also disagreed with the reading of the legislative history of the Coordination Act reflected in the Proposing Release. According to the commenter, the legislative history supports the view that all advisers with a principal office in a state that has enacted a statute regulating advisers are prohibited from registering with the Commission if they do not meet the criteria for Commission registration.
+
+These comments have caused the Commission to reconsider its proposed interpretation. As discussed above, the legislative history of the Coordination Act makes clear that Congress intended the Coordination Act to result in the Commission regulating larger advisers and the states regulating smaller advisers.<sup> 81 </sup> The proposed interpretation, however, would result in the Commission being responsible for a large number of very small advisers that are not registered under state law because they qualify for state de minimis exemptions. It would be inconsistent with the purposes of the Coordination Act for the Commission to retain responsibility for advisers whose business activities states have determined are so limited that they do not warrant their regulatory attention. The proposed interpretation also would seem to frustrate the purpose of the Coordination Act to limit significantly the number of advisers registered with the Commission, since it would permit a substantial number of very small advisers to remain registered with the Commission.<sup> 82 </sup>
+
+The Commission believes a better interpretation of section 203A(a)(1) is that an adviser is "regulated or required to be regulated" in the state in which it has its principal office and place of business if that state has enacted an investment adviser statute.<sup> 83 </sup> Such a state has asserted its interest in regulating investment advisers. While a state may provide for exemptions from its registration requirements or exceptions to its definition of investment adviser, it does not thereby delegate regulatory responsibility for such advisers to the Commission.<sup> 84 </sup> Upon reconsideration, the Commission believes the Coordination Act's legislative history supports this position.<sup> 85 </sup>
+
+State commenters supporting the Commission's proposed interpretation argued that Congress intended to eliminate regulatory overlap, not to create a regulatory "gap" in which some advisers are left unregulated. Even under the proposed interpretation, however, advisers that qualify for registration exemptions under both federal and state law would continue to be unregulated, and thus it is difficult to draw any conclusions from the fact that some advisers will not be registered. To the extent there is a "gap," the Commission believes that it is more consistent with the Coordination Act for the gap be closed by the states, which are given primary responsibility for regulating advisers that are not eligible for Commission registration.
+
+<h>2. "Principal Office and Place of Business"</h>
+
+The Commission is adopting, as proposed, a new rule to define the term "principal office and place of business" to mean the "executive office of the investment adviser from which the officers, partners, or managers of the investment adviser direct, control, and coordinate the activities of the investment adviser."<sup> 86 </sup>
+
+<h>F. Persons Who Act on Behalf of Investment Advisers</h>
+
+In addition to preempting state law with respect to investment advisers registered with the Commission, the Coordination Act preempts state law with respect to their "supervised persons."<sup> 87 </sup> A supervised person is defined as any "partner, officer, director . . . , or employee of an investment adviser, or other person who provides investment advice on behalf of the investment adviser and is subject to the supervision and control of the investment adviser."<sup> 88 </sup>
+
+The Coordination Act preserves certain state laws with respect to certain supervised persons of Commission-registered advisers by providing that a "State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State."<sup> 89 </sup> The Coordination Act does not define "investment adviser representative," nor does it describe what constitutes a "place of business." In order to provide clarification, the Commission is adopting definitions of these terms. The Commission also is providing guidance as to the status of solicitors for Commission-registered advisers.
+
+<h>1. "Investment Adviser Representative"</h>
+
+Rule 203A-3(a), as adopted, defines the term "investment adviser representative" to mean a supervised person more than ten percent of whose clients are natural persons.<sup> 90 </sup> Natural persons who have at least $500,000 under management with the adviser representative's investment advisory firm immediately after entering into the advisory contract with the firm, or who the advisory firm reasonably believes have a net worth in excess of $1 million (together with assets held jointly with a spouse) immediately prior to entering into the advisory contract, are not counted towards the ten percent threshold.<sup> 91 </sup> Supervised persons who do not, on a regular basis, solicit, meet with, or otherwise communicate with clients of the investment adviser, or who provide only impersonal investment advice, are excluded from the definition of investment adviser representative.<sup> 92 </sup>
+
+The Commission received extensive comment on the proposed definition of investment adviser representative. Most investment adviser commenters asserted that it was important for the Commission to adopt a single definition of the term in order to effect the purpose of Congress in creating a more uniform, rational system of adviser regulation. NASAA and most of the states opposed the adoption of any Commission definition, arguing that (i) the Commission has no authority to define the term, (ii) Congress intended for the states to define the term, and (iii) the states have already defined the term.
+
+There is no contemporaneous legislative history explaining what Congress meant by the term investment adviser representative in section 203A(b)(1)(A).<sup> 93 </sup> The definition of investment adviser representative varies substantially from state to state.<sup> 94 </sup> As a result, the incorporation of state law would conflict with one of the primary goals of the Coordination Act, which is to promote uniformity of regulation.<sup> 95 </sup> Likewise, the incorporation of state law would be at odds with Congress' determination to preempt state laws regulating the offering of mutual fund shares,<sup> 96 </sup> as state investment adviser representative definitions generally encompass persons who provide advisory services to mutual funds.<sup> 97 </sup> Incorporation of state law also would be inconsistent with Congress' intention to limit the application of state law to at least some supervised persons. If a state adopted a sufficiently broad definition of the term investment adviser representative, the Coordination Act would have no preemptive effect, since all supervised persons would be subject to state licensing, registration, or qualification (hereinafter, "state qualification requirements.")<sup> 98 </sup>
+
+The Coordination Act does not contain any direction to incorporate state law. In light of the many provisions in the 1996 Act designed to promote uniformity of regulation, the decision of Congress to preempt state mutual fund regulation, and the preemptive language used by Congress, the Commission does not believe that Congress intended the definition of investment adviser representative to incorporate state law. Rather, the Commission believes that Congress left the term investment adviser representative undefined with the expectation that the Commission would use its rulemaking authority to define the term.
+
+The Commission's authority to adopt a rule classifying certain supervised persons as investment adviser representatives is clear.<sup> 99 </sup> The ambiguities created by Congress' use of the undefined term investment adviser representative make it important that the Commission, as the federal agency charged with administering the Advisers Act, define the term so that the substantial uncertainties and costly disputes likely to occur in the absence of such a definition may be avoided.<sup> 100 </sup> Only by adopting a uniform, national definition of investment adviser representative can Congress' intent to "delineate more clearly the securities law responsibilities of federal and state governments" be achieved.<sup> 101 </sup>
+
+<h>a. Retail Clients</h>
+
+As discussed above, Congressional committee reports provide no indication as to which persons providing investment advice on behalf of Commission-registered advisers Congress intended states to continue to register.<sup> 102 </sup> Therefore, in developing rules that "classify, for the purposes of any portion. . . of [the Advisers Act], persons, including employees controlled by an investment adviser" (emphasis added). its proposed definition, the Commission examined testimony Congress received in support of preserving state authority over investment adviser representatives of Commission-registered advisers.<sup> 103 </sup> Testimony offered by NASAA urged Congress to permit states to establish qualification standards for investment adviser representatives to protect "retail" investors.<sup> 104 </sup> The Commission assumed that this testimony persuaded Congress to preserve state authority over such persons, and proposed to define the term investment adviser representative in a manner consistent with the policy concerns expressed in the testimony.<sup> 105 </sup>
+
+Under the proposed definition, investment adviser representative would mean a supervised person of an investment adviser, if a substantial portion of the business of the supervised person is providing investment advice to clients who are natural persons. The proposed definition thus drew a distinction between natural persons, whom the Commission considered to be "retail investors," and investment companies, businesses, educational institutions, charitable institutions, and other types of clients. Under the proposed definition, most investment adviser representatives who provide advice primarily to natural persons would be subject to state qualification requirements.
+
+Commenters were divided over whether the definition should distinguish between retail and other types of clients. Many state commenters opposed this distinction, arguing there was no basis in the Coordination Act or its legislative history for limiting state oversight to adviser representatives that serve retail clients.<sup> 106 </sup> Many of these commenters referred to the example of an adviser representative who provides advisory services to small businesses as the type of supervised person that should be subject to state qualification requirements. In contrast, many investment adviser commenters supported the distinction, arguing that it was consistent with the legislative history cited by the Commission in the Proposing Release. Several of these commenters also urged the Commission to treat certain "high net worth" clients as institutional clients.
+
+The Commission continues to believe that it is consistent with the intent of Congress as reflected in the structure and purpose of the Coordination Act to distinguish between retail and other clients in defining the term investment adviser representative. While there are other possible criteria for distinguishing retail clients from other clients,<sup> 107 </sup> the Commission believes that treating natural persons as retail clients is consistent with the Coordination Act and has the advantage of simplicity and ease of administration.<sup> 108 </sup>
+
+Although small businesses may not be familiar with investing, they must be familiar with selecting qualified service providers, suppliers, and other parties with which they contract as a part of their businesses. Small businesses will receive a brochure setting forth the business and educational background of prospective advisers and will have the opportunity to make an informed decision whether the advisers are qualified.<sup> 109 </sup> Because adviser representatives providing advice to small businesses also typically provide advice to individual investors, it is unlikely that the Commission's decision to treat only natural persons as retail clients will have a significant effect on the number of adviser representatives subject to state qualification requirements.
+
+As suggested by several commenters, the Commission is modifying the rule to permit adviser representatives to exclude certain "high net worth" individuals from treatment as natural persons. Under the rule, high net worth individuals are those with whom the Commission permits advisers to enter into a "performance fee contract."<sup> 110 </sup> Because of their wealth, financial knowledge, and experience, the Commission has presumed that these individuals are less dependent on the protections of the provisions of the Advisers Act that prohibit such fee arrangements.<sup> 111 </sup> The Commission believes that such individuals similarly do not need the protections of state qualification requirements. Because of the historical treatment of wealthy and sophisticated individuals under the federal securities laws, Congress reasonably could have expected these persons not to be considered retail investors.<sup> 112 </sup>
+
+<h>b. Accommodation Clients</h>
+
+The Commission proposed to include in the definition of investment adviser representative only those supervised persons a "substantial portion" of whose business is providing advice to natural persons.<sup> 113 </sup> A substantial portion of a supervised person's business would be providing advice to natural persons if, during the preceding twelve months, more than ten percent of the supervised person's clients consisted of natural persons, or more than ten percent of the assets under management by the adviser attributable to the supervised person were assets of clients who are natural persons (the "ten percent allowance").
+
+Most commenters that addressed the proposed ten percent allowance supported it. Some investment adviser commenters urged the Commission to increase the allowance to 25 percent. The certain limited exceptions. Commission is adopting the ten percent allowance substantially as proposed. The Commission believes that increasing the allowance to 25 percent could result in supervised persons accepting natural person clients on more than just an accommodation basis. The Commission notes, however, that the exclusion of certain high net worth individuals from the ten percent allowance likely will have the effect of expanding the number of accommodation clients an adviser representative may accept.<sup> 114 </sup>
+
+Under the proposed rule, the ten percent allowance would have been measured either by reference to assets under management attributable to the supervised person ("asset test") or by reference to clients of the supervised person ("client test"). Commenters believed that these tests were too complicated and that the client test alone was sufficient. No commenters came forth, as the Commission had requested, with suggestions for making the asset test workable.<sup> 115 </sup> The Commission is not adopting the asset test, but is concerned that, as a result, an adviser representative who works on one or a few institutional or business client accounts may not be able to accept any accommodation clients because, if she did, more than 10 percent of her clients would consist of natural persons. The Commission directs the staff to work with investment advisers whose adviser representatives may be so affected. If a workable method of addressing this concern is developed, the Commission will revise the definition of investment adviser representative.
+
+The Commission also has revised the method of measuring the ten percent allowance. As proposed, the allowance would have been measured over the previous twelve month period. The Commission believes that the proposed approach is too complicated and would inappropriately delay the applicability of state qualification requirements.<sup> 116 </sup> As adopted, therefore, the rule requires a supervised person to determine compliance with the ten percent allowance at all times, with respect to current clients.<sup> 117 </sup>
+
+The Commission recognizes that some advisory firms consider each person to whom the firm provides advisory services to be a client only of the firm and not of any individual supervised person. The Commission believes that such an approach would be inconsistent with the Coordination Act, and thus a client also should be treated as a client of a supervised person if the supervised person has substantial responsibilities with respect to the client's account or communicates advice to the client. If more than one supervised person provides advice to a client, the client should be attributed to each supervised person.
+
+<h>c. Supervised Persons Providing Indirect or Impersonal Advice</h>
+
+The Commission also is adopting an exception from the definition of investment adviser representative for supervised persons who provide advice to natural persons, but who do not "on a regular basis solicit, meet with, or otherwise communicate with clients."<sup> 118 </sup> This exception excludes from state qualification requirements personnel of an adviser who may be involved in the formulation of investment advice given to natural persons, but who are not directly involved in providing advice to (or soliciting) clients. In addition, the Commission is excepting supervised persons who give only impersonal investment advice.<sup> 119 </sup> This provision excludes personnel who may be involved, for example, in preparing a newsletter, providing general market timing advice, or preparing a list of recommended purchases for inclusion on a web site. No commenters specifically addressed these provisions, which are being adopted substantially as proposed.
+
+<h>d. Dually Registered Investment Adviser Representatives</h>
+
+The Proposing Release requested comment whether an investment adviser representative that is dually registered as a broker-dealer agent in a state should be excepted from the definition of investment adviser representative.<sup> 120 </sup> A number of investment adviser commenters expressed support for such an exception, arguing that state investment adviser representative registration of registered broker-dealer agents is redundant. Many state and other commenters strongly opposed such an exception, asserting that it would be inappropriate to treat investment adviser representatives and broker-dealer agents the same since they perform different functions, are subject to different state examination requirements,<sup> 121 </sup> and are governed by different regulations and fiduciary standards. The Commission agrees, and the rule, as adopted, provides no exception for dually registered broker-dealer agents.
+
+<h>e. Solicitors</h>
+
+In the Proposing Release, the Coordination Act was interpreted as not generally preempting state regulation of solicitors for Commission-registered advisers.<sup> 122 </sup> Several commenters disagreed with this interpretation and asserted that if a solicitor is an employee of the adviser for which he or she solicits, the Coordination Act preempts state law unless the solicitor is an investment adviser representative. The Commission agrees, and is revising this interpretation.
+
+Section 203A(b) preempts state regulation of "supervised persons" of Commission-registered advisers, except those who are investment adviser representatives. Whether a solicitor for a Commission-registered adviser is subject to state qualification requirements thus turns, first, on whether the solicitor is a supervised person, and second, on whether he or she is an investment adviser representative. A supervised person is defined in section 202(a)(25) to be (i) any partner, officer, director (or other person occupying a similar status or performing similar functions), or employee of an investment adviser, or (ii) any other person who provides investment advice on behalf of the investment adviser and is subject to the supervision and control of the investment adviser. Because solicitation of clients may not involve providing investment advice on behalf of the adviser, the status of a solicitor as a supervised person will depend on the whether the solicitor is a "partner, officer, director, or employee" of the adviser, or an "other person."<sup> 123 </sup>
+
+A solicitor who is a partner, officer, director, or employee of a Commission-registered adviser is a supervised person, and is subject to state qualification requirements only if the solicitor is an investment adviser representative under rule 203A-3(a). A third-party solicitor for a Commission-registered adviser (i.e., a solicitor who is not a partner, officer, director, or employee of the adviser) is not a supervised person unless the solicitor provides investment advice on behalf of the investment adviser and is subject to the supervision and control of the adviser.<sup> 124 </sup> Thus, a third-party solicitor will be subject to state qualification requirements to the extent state investment adviser statutes apply to solicitors.<sup> 125 </sup> In some cases, a solicitor may solicit on behalf of both a state-registered adviser and a Commission-registered adviser. The Commission believes that the Coordination Act does not preempt states from subjecting such a solicitor to state qualification requirements.
+
+<h>2. "Place of Business"</h>
+
+While section 203A(b)(1)(A) preserves the ability of a state to license, register, or otherwise qualify investment adviser representatives of Commission-registered advisers, the section limits a state's authority to only those investment adviser representatives who have a "place of business" within the state. The Commission proposed to clarify that, for purposes of section 203A(b)(1)(A), a place of business is any place or office from which the investment adviser representative regularly provides advisory services or otherwise solicits, meets with, or communicates to clients.<sup> 126 </sup>
+
+Most commenters, while supporting the adoption of a Commission rule clarifying the term place of business, criticized the proposed definition as too vague. Investment adviser commenters were concerned with the uncertainty the use of the term "regularly" would create. They also were concerned that, as a result of the uncertainty, they would find it difficult to ensure compliance by their supervised persons with state qualification requirements. State commenters were concerned that they would find it difficult to enforce state qualification requirements because states would be required to prove that advice had been given on a regular basis at a particular place. The Commission has revised the definition of place of business to address these concerns.
+
+As adopted, rule 203A-3(b) defines a place of business of an investment adviser representative to mean (i) an office at which the investment adviser representative regularly provides investment advisory services, solicits, meets with, or otherwise communicates with clients, and (ii) any other location that is held out to the general public as a location at which the investment adviser representative provides investment advisory services, solicits, meets with, or otherwise communicates with clients.<sup> 127 </sup> For the purposes of rule 203A-3(b), an adviser representative would be considered to hold himself out to the general public as having a location at which he conducts advisory business by, for example, publishing information in a professional directory or a telephone listing, or distributing advertisements, business cards, stationery, or similar communications that identify the location as one at which the adviser representative is or will be available to meet or communicate with clients.<sup> 128 </sup>
+
+The definition encompasses permanent and temporary offices as well as other locations at which an adviser representative may provide advisory services, such as a hotel or auditorium.<sup> 129 </sup> Whether an adviser representative will be subject to the qualification requirements of a state in which the hotel or auditorium is located will turn on whether the adviser representative has let it generally be known that he or she will conduct advisory business at the location, rather than on the frequency with which the adviser representative conducts advisory business there. This definition should provide a clearer and more enforceable standard for determining when state qualification requirements are triggered.
+
+<h>G. National De Minimis Standard</h>
+
+The Coordination Act amends the Advisers Act to add new section 222(d), which makes state investment adviser statutes inapplicable to advisers that do not have a place of business in the state and have fewer than six clients who are residents of that state (the "national de minimis standard").<sup> 130 </sup> The Commission proposed a new rule to define the term "client" for purposes of section 222(d).<sup> 131 </sup>
+
+The proposed rule would treat as a single client a natural person and (i) any relative, spouse, or relative of the spouse of the natural person sharing the same principal residence, and (ii) all accounts of which the natural person and such persons are the sole primary beneficiaries. The proposed rule also would treat as a single client a corporation, general partnership, limited liability company, trust, or other legal organization (other than a limited partnership) that receives investment advice based on its investment objectives rather than the objectives of its shareholders, partners, members, or beneficial owners. Under the proposal, a limited partnership would be counted as a single client if it would be counted as a single client under rule 203(b)(3)-1.<sup> 132 </sup>
+
+Commenters stated the Commission's definition of the term "client" would provide needed uniformity under the national de minimis standard. The Commission is adopting a rule defining the term client, but is making several modifications from the proposal.<sup> 133 </sup> As suggested by commenters, the final rule also treats as a single client a natural person and (i) that person's minor children (whether or not they share the natural person's principal residence), and (ii) all trusts of which the natural person and/or any relative or spouse of that person sharing the same principal residence (or any minor children of that person) are the only primary beneficiaries. The rule also treats as a single client two or more corporations, partnerships, or other legal organizations that each receive investment advice based on the organization's investment objectives and have identical shareholders, partners, or beneficiaries.<sup> 134 </sup>
+
+Under the rule, any person for whom an investment adviser provides investment advisory services without compensation is not deemed to be a client.<sup> 135 </sup>
+
+Section 203(b)(3), the federal de minimis provision, exempts from registration with the Commission certain advisers having fewer than fifteen clients during the preceding twelve months. Rule 203(b)(3)-1 provides a safe harbor permitting the general partner or other investment adviser to a limited partnership to count the partnership, rather than each limited partner, as the client for purposes of section 203(b)(3). The Proposing Release requested comment whether the Commission should adopt one definition of "client" for purposes of both section 222 and section 203(b)(3) and if so, whether certain provisions of rule 203(b)(3)-1 should be revised.<sup> 136 </sup> Commenters favored the adoption of one definition of "client" to resolve open questions and provide consistency under both sections.
+
+The Commission agrees that one definition has advantages and therefore is amending rule 203(b)(3)-1 to create one definition of the term "client" for purposes of sections 203(b)(3) and 222(d).<sup> 137 </sup> In taking this action, the Commission has modified certain provisions of rule 203(b)(3)-1 that were not consistent with proposed rule 222-2's treatment of other legal organizations.<sup> 138 </sup> The Commission does not expect these changes to affect the scope of the relief that has been provided by rule 203(b)(3)-1. The Commission also has modified the proposed rule to incorporate the safe harbor approach of rule 203(b)(3)-1. As a safe harbor, the final rule is not intended to specify the exclusive method for determining who may be treated as a single client for purposes of sections 203(b)(3) and 222(d).<sup> 139 </sup> In addition, the final rule clarifies the treatment of foreign clients for purposes of section 203(b)(3).<sup> 140 </sup>
+
+Finally, the Commission wishes to emphasize that rules 203(b)(3)-1 and 222-2 define the term "client" only for purposes of counting clients under sections 203(b)(3) and 222(d). Persons that are grouped together for purposes of those sections may be required to be treated as separate clients for other purposes under the Advisers Act (and state investment adviser statutes).
+
+<h>H. Scope of State Authority Over Commission-Registered Investment Advisers</h>
+
+<h>1. Preemption of State Regulatory Authority</h>
+
+The Coordination Act gives the Commission primary responsibility to regulate advisers that remain registered with the Commission by preempting state regulation of those advisers. New section 203A(b)(1) of the Advisers Act provides that "[n]o law of any State . . . requiring the registration, licensing, or qualification as an investment adviser shall apply to any [adviser registered with the Commission]. . . ."<sup> 141 </sup> States retain authority over Commission-registered advisers under state investment adviser statutes to investigate and bring enforcement actions with respect to fraud or deceit against an investment adviser or a person associated with an investment adviser; to require filings, for notice purposes only, of documents filed with the Commission; and to require payment of state filing, registration, and licensing fees.<sup> 142 </sup>
+
+The Proposing Release stated the Commission's view that section 203A(b) preempts not only a state's specific registration, licensing, or qualification requirements, but all regulatory requirements imposed by state law on Commission- registered advisers relating to their advisory activities or services, except those provisions that are specifically preserved by the Coordination Act.<sup> 143 </sup> As a result, the Commission concluded that state regulatory provisions, such as those that establish recordkeeping, disclosure, and capital requirements, will no longer apply to advisers registered with the Commission.<sup> 144 </sup>
+
+The Commission received extensive comment on its interpretation of the scope of state preemption. Investment adviser commenters strongly favored the interpretation, while NASAA and many of the state commenters argued that the interpretation should be narrowed substantially. NASAA asserted that because the Coordination Act preempts only state registration requirements, only state regulatory requirements that "flow from" state registration are preempted.<sup> 145 </sup>
+
+The Commission continues to believe that the Coordination Act broadly preempts state investment adviser statutes with respect to Commission-registered advisers. While the language of section 203A(b)(1) is not necessarily clear on its face and is susceptible to different readings,<sup> 146 </sup> in the Commission's judgment the legislative history of the Coordination Act strongly supports broad preemption. Congress intended that Commission-registered advisers no longer be subject to "overlapping" state and federal regulation,<sup> 147 </sup> but instead be subject to uniform "national rules."<sup> 148 </sup> Under NASAA's narrower interpretation, however, multiple, non- uniform state regulation of Commission-registered advisers would be preserved. Moreover, the effect of the preemption provisions of the Coordination Act could be severely weakened, if not nullified, if a state were to impose regulatory requirements on advisers not subject to state registration, but who may be transacting business in the state.<sup> 149 </sup>
+
+The structure and design of section 203A suggest Congress intended to broadly preempt state investment adviser law. If Congress simply preempted all state law with respect to Commission-registered advisers, such a provision would have been over inclusive.<sup> 150 </sup> If Congress preempted state investment adviser law by itemizing specific regulations to be preempted, such a provision would have been under inclusive and would have led to confusion whether a particular state regulation was included within a preempted category. Thus, the Commission believes that section 203A(b)(1) was drafted to describe what state investment adviser statutes typically require -- registration, licensing, and qualification -- in order to preempt statutes containing these requirements with respect to Commission-registered advisers. This view of section 203A(b)(1) comports with the express intent of Congress to subject larger advisers to a uniform, national regulatory regime. It also explains why Congress believed it was necessary to preserve certain state authority. If section 203A(b)(1) preempts only the specific registration, licensing, and qualification requirements of state investment adviser statutes, Congress would not have had to preserve the authority of states to investigate and enforce fraud.<sup> 151 </sup>
+
+<h>2. Preservation of State Anti-Fraud Authority</h>
+
+Section 203A(b)(2) preserves state authority to investigate and bring enforcement actions with respect to fraud or deceit against a Commission-registered adviser or a person associated with a Commission-registered adviser. In the Proposing Release, the Commission interpreted section 203A(b)(2) as precluding a state from indirectly regulating the activities of Commission-registered advisers by applying state requirements that define "dishonest" or "unethical" business practices unless the prohibited practices would be fraudulent or deceptive absent the requirements.<sup> 152 </sup>
+
+NASAA and state commenters took strong exception to this interpretation. Some argued states could continue to enforce business practice rules as a means of enforcing anti-fraud rules. The Commission does not believe that the Coordination Act can be read to preserve such state regulatory authority over Commission-registered advisers. Under the design of the Coordination Act, Congress gave the responsibility of adopting and enforcing prophylactic rules with respect to state-registered advisers to states, and with respect to Commission-registered advisers to the Commission.<sup> 153 </sup> Both the states and the Commission, however, retain anti-fraud authority with respect to all advisers.<sup> 154 </sup> On its face, section 203A(b)(2) preserves only a state's authority to investigate and bring enforcement actions under its anti-fraud laws with respect to Commission-registered advisers.<sup> 155 </sup> The Coordination Act does not limit state enforcement of laws prohibiting fraud. Rather, states are denied the ability to reinstitute the system of overlapping and duplicative regulation of investment advisers that Congress sought to end.<sup> 156 </sup>
+
+<h>I. Other Amendments to Advisers Act Rules</h>
+
+The Commission proposed to amend several rules under the Advisers Act to reflect changes made by the Coordination Act.<sup> 157 </sup> The few commenters that addressed these proposed amendments generally supported them, and the Commission is adopting the amendments as proposed.
+
+<h>1. Amendments to Form ADV; Elimination of Form ADV-S</h>
+
+As proposed, the Commission is amending Form ADV to add a new Schedule I, which is substantially the same as Form ADV-T.<sup> 158 </sup> Schedule I will be used by the Commission to screen applicants as to eligibility for Commission registration. Schedule I is required to be included with all new registrations filed on or after July 8, 1997. Additionally, the Commission is adopting amendments to rule 204-1 to require an adviser to file an amended Schedule I annually within 90 days of the end of the adviser's fiscal year.<sup> 159 </sup> The Commission also is amending Items 18 and 19 to Part I of Form ADV to require advisers to determine discretionary and non- discretionary assets under management in the same manner as required by Instruction 7 of Schedule I.
+
+Like Form ADV-T, Schedule I requires an adviser to indicate whether it remains eligible for Commission registration. Unlike Form ADV-T, however, Schedule I does not operate as a request for withdrawal of the adviser's registration from the Commission; rather, an adviser that indicates that it is not eligible for Commission registration on Schedule I is required to withdraw from Commission registration by filing Form ADV-W.<sup> 160 </sup>
+
+The Commission no longer has any regulatory need for advisers to file Form ADV-S, the annual report for advisers registered under the Advisers Act, and therefore is eliminating the requirement to file Form ADV-S, amending rule 204-1 to delete references to Form ADV-S, and amending rule 279.3 to refer to Form ADV-T.
+
+<h>2. Rule 204-2 -- Books and Records</h>
+
+In light of the Congressional determination not to subject advisers registered with the states to substantive federal regulatory requirements after July 8, 1997, the Commission is amending rule 204-2 to make the recordkeeping requirements of that rule applicable only to advisers registered with the Commission.<sup> 161 </sup> Additionally, the Commission is amending rule 204-2 to require advisers that register with the Commission after July 8, 1997 to preserve any books and records the adviser was previously required to maintain under state law.<sup> 162 </sup> These books and records are required to be maintained in the same manner and for the same period of time as the other books and records required to be maintained under rule 204-2(a).<sup> 163 </sup>
+
+<h>3. Rule 205-3 -- Performance Fee Arrangements</h>
+
+By its terms, section 205 prohibits all advisers, except those exempt from registration under section 203(b), from entering into advisory contracts in which the adviser would be compensated on the basis of performance of client accounts.<sup> 164 </sup> Therefore, advisers prohibited from registering with the Commission after July 8, 1997 will continue to be subject to the limitations of section 205.<sup> 165 </sup> Rule 205-3 provides an exemption from these limitations, but the rule applies only to advisers registered with the Commission. The Commission is amending rule 205-3 to make this exemption available to all advisers, including those registered only under state law after July 8, 1997.<sup> 166 </sup>
+
+<h>4. Rule 206(3)-2 -- Agency Cross Transactions</h>
+
+By its terms, section 206(3) of the Advisers Act prohibits all advisers from engaging in agency cross transactions.<sup> 167 </sup> Rule 206(3)-2 provides a non-exclusive safe harbor from this prohibition, but applies only to certain advisers and broker-dealers registered with the Commission.<sup> 168 </sup> Therefore, advisers prohibited from registering with the Commission after July 8, 1997 will continue to be subject to the limitations of section 206(3). The Commission is amending rule 206(3)-2 to make this safe harbor available to all advisers, including those registered only under state law after July 8, 1997.<sup> 169 </sup>
+
+<h>5. Rules 206(4)-1, 206(4)-2, and 206(4)-4 -- Anti- Fraud Rules</h>
+
+The Commission has adopted four rules pursuant to its authority under section 206(4) to "define, and prescribe means reasonably designed to prevent . . . acts, practices, and courses of business [that] are fraudulent, deceptive, or manipulative."<sup> 170 </sup> These rules prohibit certain abusive advertising practices, govern an adviser's custody of client funds and securities, address the payment of cash to persons soliciting on behalf of an adviser, and require certain disclosure to clients regarding an adviser's financial condition and disciplinary history.<sup> 171 </sup> Each of these rules, other than the cash solicitation rule, applies to all advisers, regardless of whether they are registered with the Commission. The Commission is amending these rules to make them applicable only to advisers registered (or required to be registered) with the Commission. By excluding advisers not registered with the Commission from these rules, the Commission is not suggesting that the practices prohibited by these rules would not be prohibited by section 206.<sup> 172 </sup> Rather, the Commission recognizes that these rules contain prophylactic provisions, and that after the effective date of the Coordination Act, the application of these provisions to state-registered advisers is more appropriately a matter for state law.<sup> 173 </sup>
+
+<h>III. EFFECTIVE DATES</h>
+
+The effective date of the Coordination Act is July 8, 1997. With the exception of rule 203A-2, the rules and rule amendments adopted in this Release will take effect on that same date, July 8, 1997.
+
+Rule 203A-2, which provides four exemptions from the prohibition on Commission registration,<sup> 174 </sup> will become effective [insert date 60 days after publication in the Federal Register]. The Office of Management and Budget has determined that rule 203A-2 is a "major rule" under Chapter 8 of the Administrative Procedure Act,<sup> 175 </sup> which was added by the Small Business Regulatory Enforcement Fairness Act of 1996 ("SBREFA").<sup> 176 </sup> SBREFA requires all final agency rules to be submitted to Congress for review and requires generally that the effective date of a major rule be delayed for 60 days pending Congressional review. A major rule may become effective at the end of the 60-day review period, unless Congress passes a joint resolution disapproving the rule.<sup> 177 </sup>
+
+As discussed above, all investment advisers registered with the Commission on July 8, 1997 are required to file a completed Form ADV-T with the Commission no later than that date.<sup> 178 </sup> Advisers that are eligible for an exemption from the prohibition on Commission registration provided by rule 203A-2 must indicate that eligibility by checking the appropriate box on Form ADV-T. Although the exemptive rule will not become effective until [insert date 60 days after publication in the Federal Register], the instructions to Form ADV-T require an investment adviser to indicate eligibility for an exemption assuming that rule 203A-2 will become effective.<sup> 179 </sup> Advisers that will be eligible for an exemption under rule 203A-2 will remain registered with the Commission between July 8, 1997 and the rule 203A-2 effective date, although the exemptive rule will not be effective during that period. If Congress were to pass a joint resolution during that time period disapproving rule 203A-2, the Commission would notify all such advisers that those exemptions are not available.
+
+<h>IV. PAPERWORK REDUCTION ACT</h>
+
+Certain provisions of the rules and rule amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 (44 USC 3501 et seq.). The Commission submitted them to the Office of Management and Budget ("OMB") for review and OMB has approved them in accordance with 44 USC 3507(d). The title for the collections of information and their OMB control numbers are: "Form ADV" - 3235-0049, "Schedule I" - 3235-0490, "Rule 203A-5 and Form ADV-T" - 3235-0483, and "Rule 204-2" - 3235-0278, all under the Advisers Act. The Commission did not receive any comments from the public in response to its request for comments in the Paperwork Reduction Act section of the Proposing Release. The final rules as adopted do not include any changes that materially affect the collections of information, including their requirements, purpose, use, or necessity. In response to comments from OMB, the Commission revised part of its Paperwork Reduction Act submission to OMB to reflect one collection of information on Form ADV, as amended, and another collection of information on new Schedule I to Form ADV. As described below, this revision, as well as an updated estimate regarding the number of respondents to the collections of information, has resulted in a change to the burden estimates for Form ADV and Schedule I. The collections of information imposed by Form ADV, Schedule I, rule 203A-5 and Form ADV-T, and rule 204-2 are in accordance with 44 USC 3507(d). An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Form ADV
+
+Form ADV is required by rule 203-1 [17 CFR 275.203-1] to be filed by every applicant for registration with the Commission as an investment adviser. Rule 204-1 [17 CFR 275.204-1] sets forth the circumstances requiring the filing of an amended Form ADV. Registrants must file an amended Form ADV only when information on the initial Form ADV filing has changed, either at the end of the fiscal year or "promptly" for certain material changes. The Commission amended rule 204-1 to require an adviser additionally to file the cover page of Form ADV annually within 90 days after the end of the adviser's fiscal year (along with a new Schedule I, discussed below), regardless of whether other changes have taken place during the year.
+
+The Commission has revised its estimate of the overall burden hours required by Form ADV as a result of a change in the number of estimated respondents. The likely respondents to this collection of information are all applicants for registration with the Commission after July 8, 1997 as well as all currently- registered advisers who will remain registered after July 8, 1997. The number of currently-registered advisers is 23,350, and the Commission estimates that approximately 28 percent of these advisers (6,538) will remain registered after July 8, 1997. The Commission estimates that it will take currently-registered advisers 1.0672 hours, on average, to fill out and file an amended Form ADV, and that currently-registered advisers will, on average, file Form ADV 1.5 times per year. The Commission also estimates that it will take new applicants 9.0063 hours, on average, to fill out and file their first Form ADV. The Commission estimates that approximately 750 new applicants will register with the Commission per year. Of the 750 new applicants per year, 650 will amend Form ADV an average of 1 time annually. The estimated 100 newly-formed investment advisers that will rely on the exemption provided by 203A-2(d) will amend Form ADV an average of 2 times annually (for purposes of updating their Schedule I 120 days after initial registration). Accordingly, the revised annual burden estimate is 18,128 total hours in the aggregate for all respondents to Form ADV.
+
+The collection of information required by Form ADV is mandatory, and responses are not kept confidential. The amendments to the instructions to Form ADV and rule 204-1 do not affect the burden of filing Form ADV itself. The additional burden of filing the Schedule I is included in the analysis of Schedule I (below). Schedule I
+
+Schedule I is a new schedule to Form ADV. Schedule I requires an adviser to declare whether it is eligible for Commission registration. Schedule I, as part of Form ADV, is required to be filed with an investment adviser's initial application on Form ADV. The rules imposing this collection of information are found at 17 CFR 275.203-1 and 17 CFR 279.1. The Commission has not amended rule 203-1 or rule 279.1. Rule 204-1 [17 CFR 275.204-1] sets forth the circumstances requiring the filing of an amended Form ADV. The Commission amended rule 204-1 to require an adviser to file an amended Schedule I annually within 90 days after the end of the adviser's fiscal year. In addition, an investment adviser relying on the "reasonable expectation" exemption from the prohibition on Commission registration provided by rule 203A-2(d) is required to file an amended Schedule I to Form ADV at the end of 120 days after its initial registration with the Commission. If the adviser indicates on the amended Schedule I that it has not become eligible to register with the Commission, the adviser is required to file a Form ADV-W concurrently with the Schedule I, thereby withdrawing its registration with the Commission.<sup> 180 </sup> The collection of the information required by Schedule I is mandatory and responses will not be kept confidential.
+
+The Commission has revised its estimate of the overall burden hours required by Schedule I as a result of a change in the number of estimated respondents and by considering Schedule I as a separate collection of information from Form ADV. The likely respondents to this collection of information are all applicants for registration with the Commission after July 8, 1997 as well as all currently-registered advisers who will remain registered after July 8, 1997. As noted above, the Commission estimates that approximately 6,538 advisers will remain registered with the Commission after July 8, 1997. These currently-registered advisers will file Schedule I once per year. Of the 750 new applicants per year, 650 will file Schedule I once per year. The Commission estimates that approximately 100 newly registered advisers each year will rely on the "reasonable expectation" exemption provided by rule 203A-2(d), and that these advisers will file Schedule I twice per year. The Commission estimates that it will take all advisers, whether currently- registered or new applicants, 52.13 minutes, on average, to fill out and file Schedule I. Accordingly, the revised annual burden estimate is 6,419 total hours in the aggregate for all respondents to Schedule I. 
+
+Rule 203A-5 and Form ADV-T
+
+Providing the information required by Form ADV-T is mandatory, and responses will not be kept confidential. Rule 203A-5 and Form ADV-T are being adopted substantially as proposed, and the burden estimate has not changed. 
+
+Rule 204-2
+
+Providing the information and keeping the books and records required by rule 204-2 is mandatory, and responses generally are kept confidential. The amendments to rule 204-2 were adopted substantially as proposed, and the burden estimate has not changed.
+
+<h>V. COST/BENEFIT ANALYSIS</h>
+
+In adopting these rules the Commission has given consideration to their benefits as well as their costs. Certain of the new rules and rule amendments, as well as Form ADV-T and new Schedule I to Form ADV, are necessary to implement the Coordination Act, both initially and on an on-going basis.<sup> 181 </sup> They will establish the process by which the Commission will identify those larger advisers that will remain registered with the Commission and those smaller advisers that are not eligible for Commission registration. This process will implement Congress' determination that only larger advisers be regulated by the Commission. In addition, by identifying smaller advisers whose registration will be withdrawn, these rules will work to prevent the preemption of state laws regulating those small advisers that Congress intended to be regulated solely by the states. Although both of these benefits are substantial, neither is quantifiable. These rules impose some incidental preparation costs on investment advisers required to file Form ADV-T and on those advisers that will, on an ongoing basis, be required to file Schedule I. Without implementing rules, however, the goals of the Coordination Act would not be achieved.
+
+Other rules related to the eligibility for and process of Commission registration and de-registration are designed to reduce costs on investment advisers.<sup> 182 </sup> These rules (i) relieve advisers from the regulatory burden of frequently having to register and then de-register with the Commission as a result of changes in the amount of their assets under management, (ii) provide guidance on how an adviser should determine its assets under management, and (iii) provide a safe harbor for advisers that register with state securities authorities based on a reasonable belief that they are prohibited from registering with the Commission because they have insufficient assets under management. These rules are expected to provide investment advisers with substantial benefits, and are not expected to impose any significant costs on investment advisers or investors. 
+
+One rule exempts certain classes of advisers from the prohibition on Commission registration, based on a finding by the Commission that the prohibition on Commission registration would be unfair, a burden on interstate commerce, or inconsistent with the purposes of the Coordination Act.<sup> 183 </sup> This rule should reduce regulatory burdens on investment advisers, without significantly affecting compliance costs or imposing other significant costs on investment advisers or the investing public. Although the Commission will incur the incidental additional costs associated with regulating the advisers that qualify for these exemptive rules, the Commission has concluded that these costs are appropriate in light of the purposes of the Coordination Act and the exemptive authority provided to the Commission therein.
+
+The Commission is also adopting several definitional rules to fill gaps left open by the Coordination Act. These rules are intended to permit investment advisers to more readily ascertain their regulatory status and that of their supervised persons. Investment advisers generally are expected to benefit as a result of this increased certainty. In particular, Commission- registered advisers and their supervised persons may incur substantial benefits as a result of the definitions of investment adviser representative and place of business to the extent that the failure of the Commission to define these terms could lead to the application of significantly broader and non-uniform definitions by the states. Broader state definitions would subject a greater number of supervised persons to state qualification requirements than the Commission believes Congress intended.<sup> 184 </sup> The Commission believes that institutional and other non-retail clients do not need the protections of state qualification requirements. The Commission has concluded, therefore, that there are no substantial costs associated with the narrower definitions the Commission is adopting.
+
+Finally, amendments to several existing rules under the Advisers Act reflect the Coordination Act's reallocation of regulatory responsibilities over investment advisers. These amendments are not expected to provide substantial savings to investment advisers or to impose significant costs on investment advisers or the investing public. They will, however, have important regulatory benefits, because in each case the rules will either work to implement the Coordination Act's goal of reallocating regulatory responsibility for advisers between the Commission and the securities authorities of the states, or to ensure that smaller, state-registered advisers are not unfairly disadvantaged.
+
+A complete cost-benefit analysis (including supporting data) prepared by the Commission staff is available for public inspection in File No. S7-31-96, and a copy may be obtained by contacting Cynthia G. Pugh, Securities and Exchange Commission, 450 5th Street, N.W., Stop 10-2, Washington, D.C. 20549.
+
+<h>VI. SUMMARY OF REGULATORY FLEXIBILITY ANALYSIS</h>
+
+The Commission has prepared a Final Regulatory Flexibility Analysis ("FRFA") in accordance with the provisions of the Regulatory Flexibility Act ("Reg. Flex. Act") [5 USC 604] in connection with the adoption of rule and form amendments described in this Release. An Initial Regulatory Flexibility Analysis ("IRFA") was prepared in accordance with 5 USC 603 in conjunction with the Proposing Release and was made available to the public. A summary of the IRFA was published in Investment Advisers Act Release No. 1601 (Dec. 20, 1996) [61 FR 68480, 68491-92 (Dec. 27, 1996)]. As discussed further below, one comment was received on the IRFA.
+
+The FRFA explains both the need for, and the objectives of, the rules adopted by the Commission. As set forth in greater detail in the FRFA, the Coordination Act makes several amendments to the Advisers Act, the most significant of which reallocates federal and state responsibilities for the regulation of investment advisers currently registered with the Commission by limiting the application of federal law and preempting certain state laws. The adopted rules and rule amendments implement provisions of the Coordination Act that reallocate regulatory responsibilities for investment advisers between the Commission and the securities regulatory authorities of the states. The adopted rules establish the process by which all investment advisers that are currently registered with the Commission will determine their eligibility for Commission registration as of July 8, 1997, the effective date of the Coordination Act. The adopted amendments to several rules under the Advisers Act generally reflect the changes made by the Coordination Act.
+
+The FRFA also (i) summarizes the significant issues raised by public comments in response to the IRFA, (ii) summarizes the Commission's assessment of such issues, and (iii) states any changes made in the proposed rules as a result of such comments. The Commission received one comment on the IRFA,<sup> 185 </sup> which noted that the IRFA did not consider the potential impact of the proposed rules on small advisers that manage funds regulated under ERISA.<sup> 186 </sup> According to the commenter, by failing to discuss such an exemption or other potential alternatives that could minimize this impact on small ERISA advisers,<sup> 187 </sup> the Commission overlooked an important effect of the proposed rules. The Regulatory Flexibility Act requires that an agency describe in the IRFA those significant alternatives to the proposed rule that would further the stated objectives of the applicable statutes and that would minimize the significant economic impact of the proposed rule on small entities.<sup> 188 </sup> In response to this comment, the FRFA discusses the possibility of exempting these small advisers from the prohibition on Commission registration, and explains the Commission's conclusion that such an exemption would not be consistent with the objectives of the Coordination Act.
+
+The FRFA also provides a description of and an estimate of the number of small entities to which the rules will apply. For purposes of the Advisers Act and the Reg. Flex. Act, an investment adviser generally is a small entity (i) if it manages assets of $50 million or less, in discretionary or non-discretionary accounts, as of the end of its most recent fiscal year and (ii) if it renders other advisory services, has $50,000 or less in assets related to its advisory business.<sup> 189 </sup> The Commission estimates that up to 17,650 of approximately 23,350 investment advisers currently registered with the Commission are small entities. The Commission estimates that, after July 8, 1997, approximately 850 of these small-entity advisers will remain eligible for registration with the Commission.<sup> 190 </sup>
+
+As required by the Reg. Flex. Act, the FRFA describes the projected reporting, recordkeeping and other compliance requirements of the rules, and includes an estimate of the classes of small entities that will be subject to the requirements and the type of professional skills necessary for preparation of the reports or records. Rule 203A-5 requires all investment advisers registered with the Commission on July 8, 1997, to file new Form ADV-T no later than that date. The FRFA notes, however, that the Commission anticipates that as a consequence of this one-time filing, approximately 72 percent of the investment advisers currently registered with the Commission will no longer be subject to federal investment adviser regulatory requirements, including reporting and recordkeeping requirements. The incidental burden imposed by this one-time filing requirement is necessary in order to implement the Coordination Act. The FRFA explains that the Commission devised Form ADV-T so that an individual familiar with the adviser's services and operations may complete the form without legal or other professional assistance, although in some cases an adviser may need to seek outside assistance in connection with the calculation of its assets under management.
+
+The adopted amendments to Form ADV add new Schedule I, which must be completed by every adviser registering with the Commission after July 8, 1997, and revise Items 18 and 19 to Part I of Form ADV to direct advisers to determine discretionary and non-discretionary assets under management in the same manner as required by Schedule I. Schedule I requires advisers to report information similar to that required by Form ADV-T. The Commission believes that the burden this new schedule imposes on advisers is necessary in order to accomplish, on an ongoing basis, the Coordination Act's reallocation of regulatory responsibility for investment advisers. The FRFA notes that like Form ADV-T, the Commission has designed Schedule I so that an individual familiar with the adviser's services and operations can complete this schedule without legal or other professional assistance, although in some cases, an adviser may need to seek outside assistance in connection with the calculation of its assets under management. The FRFA explains that the annual burden imposed on small entity advisers by the amendments to Items 18 and 19 of Form ADV is expected to be negligible.
+
+Rule 203A-2(d) permits a newly formed investment adviser with a reasonable expectation that it will be eligible for Commission registration within 120 days after such registration becomes effective, to register with the Commission. The rule requires the newly formed adviser (i) to include on Schedule E to its Form ADV an undertaking to withdraw from Commission registration if, on the 120th day after registering with the Commission, it has not become eligible for Commission registration, and (ii) to file an amended Schedule I to Form ADV at the end of the 120-day period. If the amended Schedule I indicates that the adviser has not become eligible for Commission registration, the rule requires the adviser to file concurrently a Form ADV-W, thereby withdrawing its Commission registration. The FRFA notes that this burden on newly formed advisers that choose to rely on this rule will be outweighed by the cost savings and benefits provided by the rule.
+
+The adopted amendments to rule 204-1 require all Commission- registered investment advisers to update new Schedule I annually. The FRFA explains that because the Commission has eliminated the requirement that Commission-registered advisers annually file Form ADV-S, this new annual reporting requirement should not be a significant additional burden on the small-entity investment advisers that remain eligible for Commission registration after July 8, 1997.
+
+The adopted amendments to rule 204-2 make the books and recordkeeping requirements of that rule applicable only to advisers registered with the Commission, and so eliminate these recordkeeping requirements with respect to small entities and other advisers that are not eligible for Commission registration after July 8, 1997. The amendments to this rule also require advisers that register with the Commission after July 8, 1997, to preserve any books and records the adviser was previously required to maintain under state law, but this requirement is not expected to be a significant additional burden on advisers that register with the Commission after July 8, 1997. The FRFA notes that the adopted amendment does not have any impact on the type of professional skills necessary for compliance with rule 204-2. 
+
+The FRFA also describes the steps the Commission has taken to minimize the significant economic impact on small entities consistent with the stated objectives of applicable statutes.
+
+As discussed further in the FRFA, in connection with the adopted rules, the Commission considered the following alternatives to minimize the impact on small entities: (a) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (b) the clarification, consolidation, or simplification of compliance and reporting requirements under the rule for small entities; (c) the use of performance rather than design standards; and (d) exemption from coverage of the rule, or any part thereof, for small entities.<sup> 191 </sup> The Commission is easing the impact on small entities by increasing the threshold for Commission registration from $25 to $30 million of assets under management, and by providing an optional exemption from Commission registration for advisers with assets under management of between $25 and $30 million. The exemption gives such advisers, including many small entities, the flexibility to decide when it is best for them to transition from state to Commission registration if their assets under management increase to $25 million or more, and to transition from Commission to state registration if their assets decrease to $30 million or less, and so should enable these advisers to avoid the unnecessary costs and burdens associated with frequent transitions between regulators. The Commission is also adopting a second exemption from the prohibition on Commission registration that permits Commission registration by newly formed advisers that have a reasonable expectation of becoming eligible for Commission registration within 120 days. This exemption will help to ensure that newly formed advisers, including small entity advisers, will not be required to register with numerous states, only to de-register and re-register with the Commission shortly thereafter once their assets under management increase to $25 million.
+
+The FRFA explains that in the proposing release, the Commission also sought comment on other possible alternatives that could meet the need for flexibility for small entities, including whether the transition from state to Commission registration should include a grace period, or whether a state- registered adviser should only have to determine once annually whether it is required to register with the Commission due to an increase in its assets under management. In light of the comments on these issues, the Commission is adopting rule 203A- 1(d), which permits (but does not require) a state-registered adviser whose assets under management increase to $30 million to postpone registering with the Commission until 90 days after it has reported the increase in its assets under management in its annual filing with its state regulator. This rule will provide advisers, including small entity advisers, that have assets under management of close to $30 million, additional flexibility in determining if and when to transfer to Commission registration.
+
+The FRFA also discusses the general concern expressed by some commenters that the requirement that small advisers withdraw from Commission registration by filing Form ADV-T will have an adverse competitive effect on small advisers. The FRFA explains that the Commission believes that this concern is too speculative to be considered a significant economic impact on small advisers. Although there is some evidence that smaller advisers believe that holding themselves out as SEC-registered has marketing advantages, the Commission is not aware of evidence that shows the loss of such status would result in the loss of clients of inhibit an adviser's ability to market itself to new clients. Moreover, as detailed in the FRFA, the Commission believes that an exemption from the prohibition on Commission registration for small advisers that believe they would be put to a competitive disadvantage if required to de-register would be inconsistent with the purposes of the Coordination Act.
+
+As detailed in the FRFA, the Commission considered exempting small advisers that manage accounts subject to ERISA from the prohibition on Commission registration. Several commenters expressed concern that unless they were permitted to remain registered with the Commission, they effectively would be denied the ability to manage ERISA accounts and would be harmed competitively. The FRFA explains that, although the Commission shares these commenters' concerns,<sup> 192 </sup> the Commission believes such an exemption would be inconsistent with the purposes of the Coordination Act and outside the scope of the Commission's authority. The grant of exemptive authority in section 203A(c) was designed to permit Commission registration for advisers that are larger, national firms, but do not have $25 million under management. On April 7, 1997, however, Chairman Levitt wrote to the leadership of the Congressional committees with jurisdiction over ERISA, urging that legislation be enacted to make permanent the amendment of ERISA that would permit state-registered advisers to serve as investment managers.<sup> 193 </sup>
+
+The FRFA is available for public inspection in File No. S7- 31-96, and a copy may be obtained by contacting Cynthia G. Pugh, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-2, Washington, D.C. 20549.
+
+<h>VII. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 Pub. L. No. 104-290, 110 Stat. 3416 (1996) (codified in scattered sections of the United States Code).
+
+2 Other amendments made by the 1996 Act to the Advisers Act include revisions to (i) section 205 [15 USC 80b-5] to create additional exceptions to the Advisers Act's limitations on performance fee arrangements, (ii) section 222 [15 USC 80b-18a] to impose certain uniformity requirements on state investment adviser laws (see infra section II.G of this Release), (iii) section 203(e) [15 USC 80b-3(e)] to permit the Commission to deny or revoke the registration of any person convicted of any felony (or of any adviser associated with such a person), and (iv) section 203(b) [15 USC 80b-3(b)] to exempt from registration certain advisers to church employee pension plans. See sections 210, 304, 305(a), and 508(d) of the 1996 Act.
+
+3 See section 308(a) of the Coordination Act. The effective date of the Coordination Act was originally April 9, 1997. On March 31, 1997, President Clinton signed into law Pub. L. No. 105-8, which extended the effective date of the Coordination Act to July 8, 1997. See 111 Stat. 15 (1997).
+
+4 See S. REP. NO. 293, 104th Cong., 2d Sess. 3-4 (1996) [hereinafter Senate Report]. The number of investment advisers registered with the Commission increased dramatically from 5,680 in 1980 to approximately 23,350 today. By 1995, the Commission was able to examine smaller advisers on a routine basis on average only once every 44 years. See The Securities Investment Promotion Act of 1996: Hearing on S. 1815 Before the Senate Comm. on Banking, Housing, and Urban Affairs, 104th Cong., 2d Sess. 36 (1996) [hereinafter Senate Hearing] (testimony of Arthur Levitt, Chairman, SEC).
+
+5 See Senate Report, supra note 4, at 3-4.
+
+6 Id. at 2.
+
+7 The District of Columbia, Guam, and Puerto Rico also have enacted statutes regulating investment advisers. See D.C. CODE ANN. sections 2-2631 to -2651 (1994); 22 GUAM CODE ANN. sections 46201 - 46206 (1995); P.R. LAWS ANN. tit. 10, sections 861 - 864 (1976). The four states that currently do not have investment adviser statutes are Colorado, Iowa, Ohio, and Wyoming.
+
+8 See, e.g., UNIF. SEC. ACT section 201(c) (1988); ARK. CODE ANN. section 23-42-301(c) (Michie Supp. 1995); MD. CODE ANN., CORPS & ASS'NS section 11-401(b) (1993).
+
+9 See Senate Hearing, supra note 4, at 153 (Testimony of Mark D. Tomasko, Executive Vice President, Investment Counsel Association of America, Inc.) ("In some [advisory] firms, there are one or more persons whose sole job is to work on State registrations and requirements.").
+
+10 See Senate Report, supra note 4, at 2.
+
+11 15 USC 80b-3A(a).
+
+12 15 USC 80a. Any person that is an investment adviser to an investment company under section 2(a)(20) of the Investment Company Act [15 USC 80a-2(a)(20)], including a "sub-adviser," is eligible to register with the Commission, regardless of the amount of assets under management.
+
+13 Section 203(c) of the Advisers Act [15 USC 80b-3(c)].
+
+14 Section 203(h) of the Advisers Act [15 USC 80b-3(h)].
+
+15 Rules Implementing Amendments to the Investment Advisers Act of 1940, Investment Advisers Act Rel. No. 1601 (Dec. 20, 1996) [61 FR 68480 (Dec. 27, 1996)] ("Proposing Release").
+
+16 NASAA represents the 50 U.S. state securities agencies responsible for the administration of state securities laws, also known as "blue sky laws."
+
+17 See supra note 14 and accompanying text.
+
+18 See Proposing Release at section II.A.
+
+19 17 CFR 275.203A-5; 17 CFR 279.3.
+
+20 17 CFR 275.203A-5(a). Although Form ADV-T will not be effective until July 8, 1997, advisers may file Form ADV-T prior to that date. The registrations of advisers that indicate on Form ADV-T that they are no longer eligible to be registered with the Commission will not be withdrawn until July 8, 1997. See rule 203A-5(c)(1) [17 CFR 275.203A-5(c)(1)].
+
+21 See infra sections II.B, II.D, and II.E of this Release.
+
+22 See rule 203A-5(c) [17 CFR 275.203A-5(c)]; Instruction 6 to Form ADV-T. An adviser that indicates that it is not eligible for Commission registration on Form ADV-T is not required to file separately Form ADV-W [17 CFR 279.2] to withdraw from registration with the Commission. Commission-registered advisers seeking to withdraw their state registrations should contact their state regulators. The Commission will provide NASAA with a copy of each Form ADV-T filed with the Commission.
+
+23 See Instruction 1(f) to Form ADV-T.
+
+24 15 USC 80b-3A(a)(2).
+
+25 Instruction 8 to Form ADV-T. Several commenters believed that the proposed three-step process for determining assets under management was unnecessarily complex. Each step, however, is contemplated by section 203A(a), which limits assets under management to "securities portfolios" with respect to which the adviser provides "continuous and regular supervisory or management services," and requires that the amount of assets under management equal or exceed $25 million for Commission registration.
+
+26 See Proposing Release at section II.B.1.
+
+27 Instruction 8(a) to Form ADV-T. Real estate, commodities, and collectibles are not securities, and therefore should not be included as securities in determining whether an account meets the fifty percent test.
+
+28 See Proposing Release at section II.B.1.
+
+29 See Instruction 8(a). "Cash equivalents" include bank deposits, certificates of deposit, bankers acceptances, and similar bank instruments. Instruction 8(a) permits, but does not require, cash and cash equivalents to be treated as securities. Because cash and cash equivalents typically comprise a small component of most advisory accounts, the Commission believes that allowing advisers to treat these items as securities will not have a significant effect on the number of advisers that are eligible to register with the Commission.
+
+30 See Instruction 8(c).
+
+31 To enable the Commission to evaluate the claims of advisers relying on the non-discretionary management of assets as the basis of eligibility to remain registered with the Commission, Form ADV-T requires these advisers to append a written statement explaining the nature of the non-discretionary supervisory or management services. See Part III, Item (c) of Form ADV-T; Instruction 9 to Form ADV-T.
+
+32 17 CFR 275.203A-4.
+
+33 As discussed infra, the Commission is increasing the $25 million assets under management threshold for mandatory Commission registration to $30 million, and providing an optional exemption from the prohibition on registering with the Commission for advisers having between $25 and $30 million of assets under management. See infra section II.C.2.a of this Release.
+
+34 In addition, the Commission believes that a requirement that advisers segregate the securities components of an account principally consisting of securities holdings would be unnecessarily burdensome.
+
+35 Other commenters noted that additional time may be needed to value illiquid securities, closely-held businesses, and other difficult-to-value assets.
+
+36 Instruction 8(d) to Form ADV-T. Instruction 8(d) does not require all the assets in a securities portfolio to be valued as of the same date. An adviser, however, may not select the dates for valuation of assets so as to maximize (or minimize) the value of the adviser's assets under management. An amount determined by such a method would not, in the Commission's view, reflect the adviser's actual assets under management.
+
+37 See Instruction 8(d).
+
+38 See Proposing Release at section II.C.
+
+39 Schedule I is attached to this Release as Appendix B. For a discussion of the reporting requirements of Form ADV-T, see supra sections II.A and II.B of this Release.
+
+40 Rule 204-1(a)(1) [17 CFR 275.204-1(a)(1)]. As amended, rule 204-1(a) [17 CFR 275.204-1(a) requires advisers to amend Form ADV annually, regardless of whether data reported on the form changes. This annual amendment replaces Form ADV-S, which the Commission is rescinding. Because Form ADV-S is being rescinded, advisers are no longer required to file the written disclosure statement ("brochure") required by rule 204- 3 [17 CFR 275.204-3] with the Commission. The brochure, however, must be maintained as part of the adviser's books and records, and the Commission will continue to review these brochures during investment adviser examinations.
+
+41 See Proposing Release at section II.C.2.
+
+42 Commission data suggests that most advisers that will remain registered with the Commission have assets under management well in excess of $25 million. It is likely that only a few advisers each year will be required to move from Commission to state registration as a result of a decrease of assets under management, and thus few advisers will be registered temporarily with the Commission prior to reporting a reduced amount of assets under management on Schedule I.
+
+43 17 CFR 275.203A-1(c). See Instruction 6 to Schedule I. An adviser may withdraw from Commission registration as soon as it is no longer eligible to maintain its registration with the Commission, or it may wait until filing its annual Schedule I to withdraw. An adviser who becomes ineligible for Commission registration for reasons other than the amount of its assets under management also is permitted to wait until filing its annual Schedule I to withdraw.
+
+44 See Proposing Release at section II.C.2. The Commission did not propose a similar grace period in connection with the filing of Form ADV-T. The Commission presumes that an adviser not eligible to maintain its registration with the Commission on July 8, 1997 would already be registered with the appropriate state or states at the time of filing Form ADV-T. See Proposing Release at note 43.
+
+45 Rule 203A-1(c). The Commission is adopting rule 203A-1(c) with a slight revision. Under the rule as proposed, the grace period would have run from the date on which the adviser filed its Schedule I to indicate that it was no longer eligible to maintain its registration. As adopted, however, the grace period begins to run on the date on which the adviser was obligated by rule 204-1(a) to file such amendment. Thus, an adviser could not extend the grace period by failing to timely file Schedule I.
+
+46 If the adviser amends Schedule I during the grace period to report that it once again has become eligible for Commission registration (for example, because the amount of its assets under management increased since the adviser filed its Schedule I), the Commission will not institute cancellation proceedings.
+
+47 See section 211(c) of the Advisers Act [15 USC 80b- 21(c)]; rule 0-5 [17 CFR 275.0-5].
+
+48 See Proposing Release at section II.C.1.
+
+49 Rule 203A-1(a), (b) [17 CFR 275.203A-1(a), (b)].
+
+50 See Proposing Release at section II.C.1.
+
+51 Rule 203A-1(d) [17 CFR 275.203A-1(d)]. Rule 203A-1(d) does not affect the operation of the $5 million window. An adviser that has between $25 and $30 million of assets under management is permitted, but not required, to register with the Commission. Such an adviser may register with the Commission at any time. Rule 203A- 1(d) addresses only the question of when an adviser is required to register with the Commission.
+
+52 Rule 203A-1(d) is available only to advisers that are registered in a state that requires Schedule I (or a substantially similar form or rule) to be filed and annually updated. An adviser not registered in such a state must register promptly with the Commission upon reaching $30 million of assets under management. Rule 203A-1(d) is not available to an adviser whose eligibility for registration is based on becoming an adviser to an investment company or becoming eligible for one of the exemptions provided by rule 203A-2 [17 CFR 275.203A-2]. See section II.D of this Release.
+
+53 15 USC 80b-3A(c).
+
+54 15 USC 80b-3A.
+
+55 15 USC 80b-3, 80b-3(b).
+
+56 See Proposing Release at section II.D.1.
+
+57 Rule 203A-2(a) [17 CFR 275.203A-2(a)].
+
+58 See Proposing Release at section II.D.2.
+
+59 Rule 203A-2(b) [17 CFR 275.203A-2(b)]. The proposed rule would have exempted pension consultants to employee benefit plans, governmental plans, and church plans, each as defined in the Employee Retirement Income Security Act of 1974 ("ERISA") [29 USC 1001], as well as "[a]ny plan established and maintained by a state, its political subdivisions, or any agency or instrumentality of a state or its political subdivisions for the benefit of its employees." The Commission has withdrawn this latter category in response to a comment noting that these plans come within ERISA's definition of "governmental plan." The deletion of this category does not affect the scope of the exemption.
+
+60 Although the Coordination Act provides a $25 million threshold for Commission registration, the Commission is adopting a $50 million threshold for the pension consultant exemption. This higher threshold reflects the fact that a pension consultant has substantially less control over client assets than an adviser that has assets under management. A higher threshold is necessary to demonstrate that a pension consultant's activities have an effect on national markets.
+
+61 In determining the aggregate value of advised assets, the adviser may include only that portion of a plan's assets for which the adviser provided investment advice (including any advice with respect to the selection of an investment adviser to manage the assets). The value of assets must be determined as of the date during the adviser's most recently completed fiscal year that the adviser was last employed or retained by contract to provide investment advice to the plan or plan fiduciary with respect to those assets. See rule 203A-2(b)(3) [17 CFR 275.203A-2(b)(3)].
+
+62 See Proposing Release at section II.D.3.
+
+63 This could occur as a result of the National Association of Securities Dealers' ("NASD") requirement that its member broker-dealer firms supervise and keep books and records regarding certain private securities transactions of their registered representatives who also are registered individually as investment advisers. See NASD Notice to Members No. 94-44 (May 1994); see also NASD Notice to Members No. 96-33 (May 1996). Many of these broker-dealer firms are themselves registered investment advisers that will remain eligible for Commission registration after July 8, 1997. In some cases, a firm's registered representatives form a large network of individually registered investment advisers that use a broker-dealer firm to effect certain securities transactions on behalf of advisory clients. A broker-dealer firm's compliance with the obligation to supervise both its own trades and those that are effected through unaffiliated broker-dealers may result in its control of these registered advisers. Under the commenters' suggested approach, this control, together with the books and records the NASD requires, might qualify each individually registered adviser for the exemption, even though each such adviser has only a small, local business and would not otherwise be eligible for Commission registration.
+
+64 Of course, an adviser may choose to register its affiliates under its registration as a single registrant. If the adviser and its affiliates have aggregate assets under management of $25 million or more, the registrant would meet the threshold for Commission registration, regardless of whether the operations of the adviser and the affiliates are integrated.
+
+65 17 CFR 275.203A-2(c). The definition of principal office and place of business in rule 203A-3(c) [17 CFR 275.203A-3(c)] applies to this rule. See infra section II.E.2 of this Release. The Commission will consider a Commission-registered adviser and an affiliated adviser to have the same principal office and place of business if the principal office of the affiliate is in the proximate geographic area as the principal office of the registered adviser.
+
+66 In the Proposing Release, the Commission explained that by proposing rule 203A-2(c), it did not intend to suggest that an advisory firm may reorganize its operations in order to circumvent the requirements of the Advisers Act. See Proposing Release at note 54. Thus, for example, an adviser may not avoid application of the Advisers Act by creating a state-registered affiliate that is not separately and independently organized.
+
+67 See Proposing Release at section II.D.4.
+
+68 Rule 203A-2(d) [17 CFR 275.203A-2(d)]. Some commenters also asked for clarification as to what constitutes a "reasonable expectation." In proposing the exemption, the Commission anticipated that it would be used primarily by persons who start their own advisory firms after having been employed by or affiliated with other advisers, and that have received an indication from clients with substantial assets that they will transfer those assets to the management of the newly formed adviser. In such a case, an adviser would have a "reasonable expectation" that it would become eligible for Commission registration in the prescribed time. Other circumstances, however, also could support an adviser's reasonable expectation of becoming eligible.
+
+69 The requirement that the adviser not be registered or required to be registered with the Commission or any state is designed to ensure that the exemption is available only to start-up advisers. This requirement must be met at the time the adviser registers with the Commission. Rule 203A-2(d)(1) [17 CFR 275.203A- 2(d)(1)]. A newly formed adviser that registers with the Commission in reliance on this exemption, however, subsequently may register with a state or states during the 120-day period in anticipation of failing to become eligible for Commission registration.
+
+70 Rule 203A-2(d)(3) [17 CFR 275.203A-2(d)(3)].
+
+71 Id. When registering with the Commission, an adviser relying on this exemption must include on Schedule E to Form ADV an undertaking to withdraw from registration if, at the end of the 120-day period, the adviser would be prohibited from registering with the Commission. Rule 203A-2(d)(2) [17 CFR 275.203A-2(d)(2)]. An adviser required by rule 203A-2(d)(3) to withdraw from Commission registration at the end of the 120-day period will not have available the additional 90-day grace period provided by rule 203A-1(c) in which to effect the appropriate state registrations.
+
+72 Section 405(d)(1) of ERISA [29 USC 1105(d)(1)]. See 29 CFR 2509.75-8 (Department of Labor regulations providing interpretative guidance on ability of plan fiduciaries to delegate management and control of plan assets to other persons under ERISA).
+
+73 Section 3(38) of ERISA [29 USC 1002(38)]. See 29 CFR 2509.75-5 (Department of Labor regulations providing interpretative guidance on definition of "investment manager" under ERISA).
+
+74 Section 308(b) of the Coordination Act.
+
+75 To reflect Congress' intent that the Commission regulate only large, national advisers, the Commission's exemption for pension consultants is conditioned on the pension consultant's management of over $50 million of plan assets. See supra note 60.
+
+76 The Commission also believes its authority to exempt advisers to ERISA plans is circumscribed by the express Congressional determination that the amendment to ERISA provided in the Coordination Act expire after two years.
+
+77 Letters from Arthur Levitt, Chairman, SEC (Apr. 7, 1997) to The Honorable James M. Jeffords, Chairman, Committee on Labor and Human Resources, U.S. Senate, and The Honorable William F. Goodling, Chairman, Committee on Education and the Work Force, U.S. House of Representatives (available in SEC File No. S7-31- 96).
+
+78 15 USC 80b-3A(a)(1). The term "state" is defined in section 202(a)(19) of the Advisers Act [15 USC 80b- 2(a)(19)] to include the District of Columbia, Puerto Rico, the Virgin Islands, and any other possession of the United States.
+
+79 As discussed supra note 7, Colorado, Iowa, Ohio, and Wyoming currently do not have investment adviser statutes.
+
+80 See Proposing Release at section II.E.1.
+
+81 See supra notes 4 and 5 and accompanying text.
+
+82 One commenter stated that it believes that there are 600 such advisers in New York alone. The proposed interpretation also seems inconsistent with the goal of the Coordination Act to reduce regulatory burdens, since it could require a start-up adviser to first register with the Commission, then move to state registration as it outgrows the state de minimis exemption, and later, if it continues to grow, return to Commission registration.
+
+83 See supra note 7 and accompanying text.
+
+84 If a state repeals its investment adviser statute, the Commission will assume regulatory responsibility for all investment advisers with a principal office and place of business in that state.
+
+85 The Senate Report explains that the Commission "will continue to supervise all advisers that are based in a state that does not register investment advisers." Senate Report, supra note 4, at 4. The Proposing Release and a number of commenters cited this sentence for the proposition that an adviser is regulated by a state if it is registered with that state. See Proposing Release at note 59 and accompanying text. In context, however, it appears that the sentence means that the Commission will retain regulatory responsibility for small advisers in states that do not register any advisers.
+
+86 Rule 203A-3(c).
+
+87 Section 203A(b)(1)(A) of the Advisers Act [15 USC 80b- 3A(b)(1)(A)].
+
+88 Section 202(a)(25) of the Advisers Act [15 USC 80b- 2(a)(25)].
+
+89 Section 203A(b)(1)(A).
+
+90 17 CFR 203A-3(a).
+
+91 Rule 203A-3(a)(3)(i) [17 CFR 275.203A-3(a)(3)(i)]. See infra notes 110 - 112 and accompanying text.
+
+92 Rule 203A-3(a)(2) [17 CFR 275.203A-3(a)(2)]. See infra section II.F.1.c of this Release.
+
+93 The House bill, H.R. 3005, 104th Cong., 2d Sess. (1996), did not, in its original form, address the regulation of investment advisers. The Senate bill, which is the source of the Coordination Act, preempted state qualification requirements with respect to Commission-registered advisers and, as originally introduced, their employees. See S. 1815, 104th Cong., 2d Sess. section 103 (1996). The provision preserving state authority over investment adviser representatives was added by the conference committee. The "Joint Explanatory Statement of the Committee of Conference," however, states only that "[t]he Managers agreed to include certain amendments to the Investment Advisers Act of 1940 to eliminate duplication, promote efficiency, and protect investors." H.R. CONF. REP. No. 864, 104th Cong., 2d Sess. 41 (1996), reprinted in 1996 U.S.C.C.A.N. 3920, 3922. The debates in Congress that preceded final adoption of the bill reported by the conference committee note only that the states were given authority under the bill to continue to regulate "investment adviser representatives." 142 Cong. Rec. H12,047-01, H12,050 (daily ed. Sept. 28, 1996) (statement of Rep. Markey) ("At the same time, we agreed that the States should continue to have authority to license the individual representatives of investment advisers.").
+
+94 Although most states that require registration of investment adviser representatives have patterned their definition of investment adviser representative on the NASAA model definition, see UNIF. SEC. ACT section 401(g) (1986), many have modified this definition, both legislatively and administratively, to include, for example, any person: who holds himself out as an investment adviser (MD. CODE ANN., CORPS & ASS'NS section 11-101(g)(vii) (1993)); who deals directly with clients of the investment adviser (Arkansas Blue Sky Rule 102.01); or who prepares reports or analyses concerning securities (OKLA. STAT. ANN. tit. 71 section 2(l) (West Supp. 1997); VA. CODE ANN. section 13.1- 501(A) (1993); Definitions and Procedures for Investment Advisor Representatives and Branch Offices (Order of Deputy Commissioner of Securities, West Virginia Securities Division, May 25, 1993, amended eff. Oct. 11, 1995)).
+
+95 See Senate Report, supra note 4, at 4 ("Larger advisers, with national businesses, should be . . . subject to national rules.").
+
+96 See 1996 Act section 102 (amending section 18(b)(2) of the Securities Act of 1933 [15 USC 77r(b)(2)] to preempt state laws requiring registration of securities issued by investment companies that are registered or that have filed a registration statement with the Commission); Senate Report, supra note 4, at 6-7; H. REP. NO. 622, 104th Cong., 2d Sess. 30-31 (1996) [hereinafter House Report].
+
+97 The NASAA model definition of investment adviser representative includes any employee (except clerical or ministerial personnel) of an investment adviser who "manages accounts or portfolios of clients." See UNIF. SEC. ACT section 401(g)(2) (1986). Most states that define investment adviser representative include this provision in their definitions. See, e.g., MD. CODE ANN., CORPS. & ASS'NS, section 11-101(g)(1)(v) (1993); MASS. GEN. LAWS ANN. ch. 110A, section 401(n) (West Supp. 1996); NEV. REV. STAT. section 90.278(1)(d) (Michie Supp. 1995).
+
+98 Thus, such a definition would have the effect of reading out of the Coordination Act the provision in section 203A(b)(1)(A) preempting state qualification requirements as to supervised persons of Commission-registered advisers, violating the principle of statutory interpretation that a statute is to be construed so as to give effect to all of its language. See, e.g., United States v. Menasche, 348 U.S. 528, 538-39 (1955).
+
+99 Section 211(a) of the Advisers Act [15 USC 80b-21(a)] authorizes the Commission to adopt rules "as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission" in the Advisers Act and to "classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters." Section 202(a)(17) of the Advisers Act [15 USC 80b-2(a)(17)] authorizes the Commission to adopt
+
+100 Even if the Commission did not have the explicit grants of rulemaking authority discussed supra in note 99, the Supreme Court has recognized that regulatory agencies have authority to adopt rules to fill any gap left, implicitly or explicitly, by Congress, see Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 843-44 (1984), and that agency rulemaking may preempt state law, see City of New York v. Federal Communications Commission, 486 U.S. 57, 63- 64 (1988). The Commission notes that Congress specifically anticipated that Commission rulemaking would preempt state law. Section 203A(c) permits the Commission to exempt advisers from the prohibition on Commission registration, thereby preempting state law with respect to the exempted advisers.
+
+101 See Senate Report, supra note 4, at 2.
+
+102 See supra note 93.
+
+103 See Proposing Release at note 68 and accompanying text.
+
+104 See Senate Hearing, supra note 4, at 125 (testimony of Dee R. Harris, President, NASAA). See also id. at 178 (statement of Steven M.H. Wallman, Commissioner, SEC ("My concern is with the treatment of associated persons of [investment adviser] firms who provide advice to retail customers." (emphasis in original))).
+
+105 See Proposing Release at section II.F.1.
+
+106 Some of these commenters asserted that the Commission mischaracterized the intent of NASAA in referring to "retail" investors in its testimony. The Commission, however, did not base the proposed rule on the intent of NASAA in giving its testimony, but rather, on what the members of the Senate committee receiving NASAA's testimony (and the other members of Congress reviewing the legislative record) are reasonably likely to have believed NASAA's position was at the time of its testimony.
+
+107 Dictionaries typically define "retail" as the sale in small quantities to consumers. See, e.g., WEBSTER'S II NEW RIVERSIDE UNIVERSITY DICTIONARY 1003 (1994). Such a definition is not helpful in this context because, depending on who is viewed as the "consumer" of the advice, it leads to a conclusion either that all businesses are retail clients (because they are obtaining advice for their own portfolios), or that no businesses are retail clients (because the ultimate beneficiaries of the advice are the owners of the businesses).
+
+108 Requiring adviser representatives to determine whether a client is a "small business" would complicate the definition and create uncertainty as to the applicability of state qualification requirements. If small businesses were treated as retail persons, adviser representatives presumably would have to obtain income statements and/or balance sheets from their small business clients, and might be required to determine whether the income or assets of a small business client should be aggregated with the client's parent or affiliate in order to determine whether state qualification requirements apply.
+
+109 Rule 204-3 requires Commission-registered investment advisers to provide existing and prospective clients with a written disclosure statement describing the adviser's services and fees, investment methods and strategies, and education and business background, as well as other information. See Part II of Form ADV.
+
+110 See rule 205-3 [17 CFR 275.205-3].
+
+111 See Investment Advisers Act Rel. No. 966 (Nov. 14, 1985) [50 FR 48556 (Nov. 26, 1985)] (adopting rule 205- 3). Rule 205-3 permits a registered investment adviser to be compensated on the basis of a share of the capital gains on or capital appreciation of client assets. See infra section II.I.3 of this Release. Compensation of this type is prohibited by section 205(a)(1) of the Advisers Act [15 USC 80b-5(a)(1)] with
+
+112 This conclusion is supported by the determination by Congress in section 205(e) of the Advisers Act [15 USC 80b-5(e)] to broaden the authority of the Commission to permit advisers to enter into performance fee contracts with these persons.
+
+113 See Proposing Release at section II.F.1.
+
+114 See supra notes 110 - 112 and accompanying text.
+
+115 For example, an asset test would have to provide guidance on how to attribute assets managed by the adviser to a particular supervised person.
+
+116 For example, a supervised person who previously provided advisory services exclusively to institutional clients and who is reassigned to retail clients could not have been required, under the proposed rule, to comply with state qualification requirements for up to a year after being reassigned to retail clients, because the supervised person would not have been deemed to be an investment adviser representative until retail clients represented 10 percent of his clientele over a 12 month period. Conversely, an investment adviser representative who previously provided advice to retail clients and who is reassigned to institutional clients could have been required to continue to meet state qualification requirements even though she no longer had retail clients, because under the proposed rule, she would have continued to be an investment adviser representative until retail clients represented less than 10 percent of her clientele over a 12 month period.
+
+117 Rule 203A-3(a)(1) [17 CFR 275.203A-3(a)(1)]. The client test is measured with respect to all of an adviser representative's clients nationwide. Supervised persons may rely on the definition of "client" in rule 203(b)(3)-1 [17 CFR 275.203(b)(3)-1] for the purpose of counting clients, except that supervised persons need not count clients that are not U.S. residents. Rule 203A-3(a)(4) [17 CFR 275.203A-3(a)(4)].
+
+118 Rule 203A-3(a)(2)(i) [17 CFR 275.203A-3(a)(2)(i)].
+
+119 Rule 203A-3(a)(2)(ii) [17 CFR 275.203A-3(a)(2)(ii)].
+
+120 See Proposing Release at section II.F.1.
+
+121 The Commission notes, however, that many states accept a person's receiving a passing grade on a broker-dealer agent examination in lieu of an investment adviser representative examination to satisfy state investment adviser representative qualification requirements. For example, many states accept passage of Series 63 (NASAA Uniform State Law Exam) and Series 7 (General Securities Representative Exam) in lieu of investment adviser representative examinations. See, e.g., ALA. ADMIN. CODE r. 830-X-3-.08(4); OR. ADMIN. R. 441-175-120(4) (1994).
+
+122 See Proposing Release at section II.F.3. For a description of solicitors' activities, see Investment Advisers Act Rel. No. 688 (July 12, 1979) [44 FR 42126 (July 18, 1979)] (adopting rule 206(4)-3 [17 CFR 275.206(4)-3], the cash solicitation rule).
+
+123 In the Proposing Release, the Commission interpreted the "provides investment advice on behalf of" limitation in section 202(a)(25) as applying to all categories of persons in the definition of supervised persons. Upon reconsideration, the Commission believes that this limitation should be applied only to "other persons," and not to persons who are "partners, officers, directors, or employees." As one commenter pointed out, in a draft of the Coordination Act that preceded the one in which the definition of "supervised person" was added, state investment adviser regulations would have been preempted as to all employees of a Commission-registered adviser. The definition of "supervised person" and the "other persons who provide investment advice" language were added not to limit the types of employees of Commission-registered advisers exempted from state qualification requirements, but to include persons who may not be employees but assume a similar function (e.g., independent contractors). See Senate Report, supra note 4, at 4.
+
+124 Regardless of whether a solicitor is a "supervised person," a solicitor is a "person associated with an investment adviser" with respect to the adviser for which he or she solicits. See section 202(a)(17). The adviser, therefore, has an obligation to supervise its solicitors with respect to activities performed on its behalf. See Investment Advisers Act Rel. No. 688, supra note 122. A solicitor for an adviser providing solely impersonal advice is not necessarily a "person associated with an investment adviser." See Investment Advisers Act Rel. No. 688, supra note 122, at note 20.
+
+125 See, e.g., ALA. CODE section 8-6-2(19)(d) (1975); IDAHO CODE section 30-1402(14)(d) (Michie Supp. 1995) (defining investment adviser representative to include certain persons associated with an investment adviser that solicit for the sale of investment advisory services). Rule 206(4)-3 will continue to govern cash payments by a Commission-registered adviser to a solicitor who is subject to state qualification requirements.
+
+126 See Proposing Release at section II.F.2.
+
+127 17 CFR 275.203A-3(b). In response to a number of comments, the Commission is not adopting the "itinerant representative" provision contained in the proposed definition that would have deemed the residence of each client to be the place of business of an adviser representative that did not regularly provide advisory services in any location. That provision is unnecessary under the revised rule.
+
+128 An adviser representative who sends a letter to certain existing clients indicating, for example, that she will be in their area and available for a meeting would not have held out the location of the proposed meeting to the general public for purposes of rule 203A-3(b)(2) [17 CFR 275.203A-3(b)(2)]. Similarly, an adviser representative that communicates to a defined group under the terms of an advisory contract the location at which she will be available would not be holding herself out to the general public for purposes of rule 203A-3(b)(2). For example, in the case of a national organization that engages an adviser to provide advisory services to its members, an adviser representative who communicates its availability at a certain location to the members (even though those individuals may not yet be clients) would not be holding himself out to the general public.
+
+129 The following example discusses the application of the rule to an investment adviser representative who provides investment advisory services through an Internet web site to clients in many states: an adviser representative uses a computer at his home or an office in State W where he prepares material to be placed on the web site or distributed over the Internet (but where he does not "regularly provide investment advisory services, solicit, meet with, or otherwise communicate with clients"). He also maintains an office in State X where he evaluates the information provided by clients and provides information in response to clients. The adviser representative's web site advertises the representative's physical office in State Y where the representative meets clients. The adviser representative e-mails its materials to a web server in State Z for posting on the web and has a post office box or an agent in State B to whom clients are instructed to mail checks. Under the rule, the adviser representative would have places of business in State X (the state in which he has an office for purposes of the rule) and State Y (the state in which he holds himself out as conducting his advisory business), but not in any other state.
+
+130 15 USC 80b-18a(d).
+
+131 See Proposing Release at section II.G.
+
+132 At the time of the Proposing Release, rule 203(b)(3)-1 provided a safe harbor to count a limited partnership, as opposed to each limited partner, as a client for purposes of section 203(b)(3) of the Advisers Act [15 USC 80b-3(b)(3)]. As discussed infra, the Commission is amending rule 203(b)(3)-1 to address additional client relationships.
+
+133 See rule 203(b)(3)-1. The Commission also is adopting rule 222-1 [17 CFR 275.222-1], which defines other terms used in section 222. Rule 222-1(a) [17 CFR 275.222-1(a)] defines place of business in the same manner as rule 203A-3(b), except that the term is applied to investment advisers rather than investment adviser representatives. Rule 222-1(b) [17 CFR 275.222-1(b)] defines principal place of business in the same manner that rule 203A-3(c) defines principal office and place of business. See supra sections II.F.2 and II.E.2 of this Release.
+
+134 This provision codifies the Division's interpretative position that trusts with identical beneficiaries could be treated as a single client. See OSIRIS Management, Inc. (pub. avail. Feb. 17, 1984). The final rule does not require that the beneficial owners have identical ownership interests in each legal organization. An adviser could not avoid registration, however, by arranging nominal common ownership. See section 208(d) [15 USC 80b-8(d)] (which makes it unlawful generally for any person to do indirectly any act which it would be unlawful for that person to do directly under the Advisers Act or rules thereunder).
+
+135 The adviser, however, has all of the fiduciary obligations with respect to such a client that it has with respect to a paying client. In addition, if the assets of such an account are held in a securities portfolio with respect to which the adviser provides continuous and regular supervisory or management services, those assets must be included in the determination of the adviser's assets under management. See infra section II.B.1 of this Release. The Commission intends that the term "compensation," as used in the rule, have the same meaning as the term used in section 202(a)(11) of the Advisers Act [15 USC 80b-2(a)(11)]. See Applicability of the Investment Advisers Act to Financial Planners, Pension Consultants, and Other Persons Who Provide Investment Advisory Services as a Component of Other Services, Investment Advisers Act Rel. No. 1092 (Oct. 8, 1987) [52 FR 38400 (Oct. 16, 1987)], in which the Division explained that "compensation" includes any economic benefit, whether or not in the form of an advisory fee, and that it need not be paid directly, but can be provided by a third party.
+
+136 See Proposing Release at note 96 and accompanying text.
+
+137 Rule 222-2 [17 CFR 275.222-2], as adopted, provides that for purposes of section 222(d)(2) of the Act, an adviser may rely upon the definition of client provided by rule 203(b)(3)-1.
+
+138 Rule 203(b)(3)-1, as amended, no longer contains a requirement that the limited partnership interests be securities.
+
+139 Where a client relationship involving multiple persons does not come within the rule, the question of whether it may appropriately be treated as a single client must be determined on the basis of the facts and circumstances involved. In light of the inherently factual nature of such determinations, the Commission and its staff generally will not entertain requests for interpretive advice with respect to client relationships that do not come within rule 203(b)(3)-1. 
+
+140 17 CFR 275.203(b)(3)-1(b)(5). The rule provides that, for purposes of section 203(b)(3), an adviser with its principal office and place of business outside the United States must count only clients that are United States residents. An adviser with its principal office and place of business in the United States must count all clients, regardless of their place of residence. See generally Vocor International Holding S.A. (pub. avail. Apr. 9, 1990). Clients that are not United States residents need not be counted for purposes of section 222(d), since the availability of the national de minimis standard turns on the number of clients who are residents of the state in question.
+
+141 15 USC 80b-3A(b)(1).
+
+142 See section 203A(b)(2) of the Advisers Act [15 USC 80b- 3A(b)(2)]; section 307(a), (b) of the Coordination Act.
+
+143 See Proposing Release at note 20 and accompanying text.
+
+144 See Proposing Release at note 21 and accompanying text.
+
+145 Several state commenters asserted that, under the Commission's interpretation of the preemption provision, the Coordination Act would violate the Tenth Amendment's command that powers not delegated to the federal government by the Constitution are reserved to the states. This argument appears to confuse the scope of preemption (about which some of the commenters and the Commission disagree) with the constitutional authority of Congress (and the delegated authority of the Commission) to exclusively regulate investment advisers registered with the Commission. Section 203A(b) does nothing more than preempt certain state laws regulating Commission-registered advisers. The Supreme Court has made clear that the displacement of state law under a federal regulatory scheme does not violate the Tenth Amendment, provided that it is based on a valid exercise of Congress' constitutional powers such as those arising under the Commerce Clause. "[T]he Federal Government may displace state regulation even though this serves to 'curtail or prohibit the States' prerogatives to make legislative choices respecting subjects the States may consider important.'" Federal Energy Regulatory Commission v. Mississippi, 456 U.S. 742, 759 (1982) (quoting Hodel v. Virginia Surface Mining & Reclamation Ass'n, Inc., 452 U.S. 264, 290 (1981)). No commenter suggested that Congress exceeded its Commerce Clause authority in passing the Coordination Act. See, e.g., section 201 of the Advisers Act [15 USC 80b-1] (express findings of the effects of investment advisory activities on interstate commerce).
+
+146 NASAA interprets the language "[n]o law of any State . . . requiring the registration, licensing, or qualification" as restrictive (i.e., meaning "no state law that requires. . ."), while the Commission interprets the same language as descriptive (i.e., "no state law, which requires. . .").
+
+147 Senate Report, supra note 4, at 3-4.
+
+148 Id. at 4.
+
+149 This process could lead to Commission-registered advisers being subject to a less uniform scheme of regulation than state advisers, since states are expressly precluded by section 222(b) and (c) of the Advisers Act [15 USC 80b-18a(b), (c)] from enforcing non-uniform books and records and financial responsibility rules with respect to state-registered advisers, but not with respect to Commission-registered advisers. In its comment letter, NASAA cited Cipollone v. Liggett Group, Inc., 505 U.S. 504 (1992) for the proposition that the historic police powers of the states are not to be superseded by a federal statute unless that is the clear and manifest purpose of Congress. As discussed in the text above, the Commission believes that such clear and manifest purpose is demonstrated by the language of the Coordination Act and the intent of Congress as expressed in the Coordination Act's legislative history. 
+
+150 Such a provision, for example, would preempt areas of state law such as labor and employment laws, commercial codes, and even criminal law as it applies to Commission-registered advisers.
+
+151 See supra note 142 and accompanying text.
+
+152 See Proposing Release at notes 23 and 24 and accompanying text. The Commission, however, does not view section 203A(b)(2) as preempting state private civil liability laws or the authority of a state to bring an action against a Commission-registered adviser for failure to make notice filings or pay fees.
+
+153 Senate Report, supra note 4, at 4 ("The states should play an important and logical role in regulating small investment advisers whose activities are likely to be concentrated in their home state. Larger advisers with national businesses, should be registered with the Commission and be subject to national rules." (emphasis added)).
+
+154 Id. ("Both the Commission and the states will be able to continue bringing anti-fraud actions against investment advisers regardless of whether the investment adviser is registered with the state or the SEC.")
+
+155 While there is no legislative history addressing the scope of section 203A(b)(2), Congress used similar language to preserve state anti-fraud laws when it preempted state regulation of securities offerings in Title I of the 1996 Act. See section 18(c)(1) of the Securities Act of 1933 [15 USC 77r(c)(1)] ("the [state] securities commission[s] . . . shall retain jurisdiction under the laws of such State[s] to investigate and bring enforcement actions with respect to fraud or deceit . . . ." (emphasis added)). The House report discussing that section explained that "[i]n preserving State laws against fraud and deceit . . . the Committee intends to prevent the States from indirectly doing what they have been prohibited from doing directly. . . . The legislation preempts authority that would allow the States to employ the regulatory authority they retain to reconstruct in a different form the regulatory regime . . . that Section 18 has preempted." House Report, supra note 96, at 34. The Senate Report discusses a similar section in the Senate bill, stating that "[t]he Committee clearly does not intend for the "policing" authority to provide states with a means to undo the state registration preemptions." Senate Report, supra note 4, at 15.
+
+156 Although the Commission is subject to no similar prohibition with regard to the application of its prophylactic rules to state-registered advisers, the Commission is making such rules inapplicable to state-registered advisers in recognition of the clearly stated purposes of Congress in passing the Coordination Act. See infra section II.I of this Release.
+
+157 See generally Proposing Release at section II.H.
+
+158 See supra section II.C.1.a of this Release. Schedule I is attached to this Release as Appendix B.
+
+159 17 CFR 275.204-1(a)(1).
+
+160 Instruction 6 to Schedule I. A separate Form ADV-W continues to be required in order to assure that the Commission staff is able to act promptly on the withdrawal from registration. Subject to the grace period under rule 203A-1(c), failure to file the completed Form ADV-W will subject an adviser to the commencement of proceedings to cancel its registration.
+
+161 Rule 204-2(a) [17 CFR 275.204-2(a)].
+
+162 Rule 204-2(k) [17 CFR 275.204-2(k)].
+
+163 Under rule 204-2(k), an adviser changing from state to federal registration will count the period during which the books and records were maintained under state law toward compliance with the Commission's recordkeeping requirement. For example, an adviser that was state- registered for one year prior to registering with the Commission will be required to maintain the books and records required under state law for an additional four years to fulfill the requirement of rule 204-2(e) [17 CFR 275.204-2(e)] that books and records be maintained for five years.
+
+164 Section 205(a)(1) [15 USC 80b-5(a)(1)]. Section 205(a)(1) provides that "[n]o investment adviser, unless exempt from registration pursuant to section 203(b)" may enter into, extend, or renew any investment advisory contract that provides for performance-based compensation.
+
+165 State-registered advisers generally would not be exempted from registration under section 203(b), but rather, would be prohibited from registration under section 203A(a).
+
+166 The extension of rule 205-3's safe harbor to state-registered advisers does not preclude a state from further restricting performance fee arrangements.
+
+167 Section 206(3) [15 USC 80b-6(3)]. Section 206(3) makes it unlawful for any investment adviser acting as principal for its own account to knowingly sell any security to, or purchase any security from, a client, without disclosing to the client in writing before the completion of the transaction the capacity in which the adviser is acting and obtaining the client's consent. This limitation also applies if the adviser is acting as a broker for a person other than the client in effecting such a transaction.
+
+168 17 CFR 275.206(3)-2.
+
+169 The amendment to rule 206(3)-2 was not proposed in the Proposing Release, but the Commission believes that good cause exists to adopt the amendment without the notice and comment period required under section 553(b)(B) of the Administrative Procedure Act [5 USC 553(b)(B)]. In the Proposing Release, the Commission proposed to amend several rules under the Advisers Act to reflect changes made by the Coordination Act by exempting state-registered advisers from Commission regulation. In most cases, these amendments involved modifying the scope of the rules to apply only to Commission-registered advisers. See amendments to rules 204-2, 206(4)-1, 206(4)-2, and 206(4)-4 (discussed in sections II.H.2 and II.H.4 of the Proposing Release and sections II.I.2 and II.I.5 of this Release). In another case, however, a rule was proposed to be broadened in order to make an existing exemption available to all advisers, including state-registered advisers. See amendments to rule 205- 3 (discussed in section II.H.3 of the Proposing Release and section II.I.3 of this Release). In preparing the Proposing Release, the Commission staff surveyed the rules under the Advisers Act to determine which rules needed to be amended. The need to amend rule 206(3)-2, however, was brought to the attention of the Commission staff after the publication of the Proposing Release in the Federal Register. The Commission believes good cause exists to amend rule 206(3)-2 without notice and comment. The decision to amend rule 206(3)-2 does not reflect a specific policy decision, but rather, is part of the technical amendment of all the rules under the Advisers Act to reflect the changes of the Coordination Act. The public effectively was on notice that the Commission was undertaking such a technical revision to the Advisers Act rules. See Proposing Release at section II.H.1. ("The Commission is proposing amendments to several rules under the Advisers Act to reflect changes made by the Coordination Act."). 
+
+170 15 USC 80b-6(4).
+
+171 See rules 206(4)-1 to -4 [17 CFR 275.206(4)-1 to -4].
+
+172 The anti-fraud provisions of the Advisers Act will continue to apply to state-registered advisers after July 8, 1997. See Proposing Release at note 108 and accompanying text.
+
+173 The Commission also is amending rule 206(4)-3, the cash solicitation rule, to correct cross-references that were made incorrect by changes made to the Advisers Act by the Coordination Act.
+
+174 See supra section II.D of this Release.
+
+175 5 USC 801.
+
+176 Pub. L. No. 104-121, Title II, 110 Stat. 857 (1996). Under SBREFA, a rule is "major" if the rule is likely to result in (i) an annual effect on the economy of $100 million or more, (ii) a major increase in costs or prices for consumers or individual industries, or (iii) significant adverse effects on competition, investment, or innovation. 5 USC 804(2).
+
+177 5 USC 801(a)(3).
+
+178 See supra section II.A of this Release.
+
+179 See Instruction 5(a) to Form ADV-T. Likewise, investment advisers registering with the Commission on or after July 8, 1997, but before [insert date 60 days after publication in the Federal Register] should indicate eligibility for an exemption on Schedule I assuming that rule 203A-2 will become effective.
+
+180 Such an adviser also is required to file a short written undertaking on Schedule E to Form ADV, simply stating that the adviser "will withdraw from registration" if on the 120th day after registering with the Commission the adviser does not meet the eligibility requirements for registration under section 203A of the Advisers Act and rules thereunder. This requirement imposes only a nominal burden, subsumed under the burden attributed to the Form ADV.
+
+181 See rules 203A-5 and 204-1.
+
+182 See rule 203A-1, Instruction 8 to Form ADV-T, and rule 203A-4.
+
+183 See rule 203A-2.
+
+184 See supra section II.F.
+
+185 See Letter from The Honorable Christopher S. Bond, Chairman of the Senate Committee on Small Business (Feb. 25, 1997) to Arthur Levitt, Chairman, SEC (available in SEC File No. S7-31-96).
+
+186 See generally section II.D.5 of this Release. As discussed in that section, ERISA protects a plan's named fiduciary from liability for the individual decisions of an investment manager appointed by the fiduciary to manage the plan's assets. The term investment manager is defined by ERISA to include certain investment advisers that are registered under the Advisers Act, as well as certain banks and insurance companies. Although the Coordination Act amended ERISA to include state-registered investment advisers as investment managers, that amendment expires two years after enactment, on October 11, 1998.
+
+187 5 USC 603(c).
+
+188 See id.
+
+189 See rule 275.0-7 [17 CFR 275.0-7].
+
+190 The Commission estimates that approximately 16,800 (72 percent) of the 23,350 advisers currently registered with the Commission will be ineligible for Commission registration after July 8, 1997. Most of those 16,800 advisers will be small entities. Certain small entity advisers, however, will remain eligible for Commission registration, including, for example, small entity advisers in the four states that do not currently regulate investment advisers. The IRFA estimated that roughly 800 small entity advisers will remain eligible for Commission registration after the effective date of the Coordination Act. The estimate presented in the IRFA has been increased to reflect the additional advisers that have registered with the Commission.
+
+191 The Commission also considered these alternatives in connection with the proposed rules. See IRFA; Investment Advisers Act Rel. No. 1601 (Dec. 20, 1996) [61 FR 68480, 68491-92 (Dec. 27, 1996)] (summary of IRFA).
+
+192 For analytical purposes, the Commission assumes that ERISA assets may make up as much as 30% (or $6.8 billion) of the total of approximately $22.7 billion of discretionary assets managed by all advisers that manage less than $25 million of discretionary assets. Assuming that all of those assets would be transferred from those smaller advisers, and that on average the smaller advisers earned a 1% fee to manage those ERISA assets, it is estimated that as much as $68 million in fees could be foregone by small advisers that no longer qualify as investment managers under ERISA. These fees would probably be earned instead by larger advisers that are registered with the Commission.
+
+193 Letters from Arthur Levitt, Chairman, SEC (Apr. 7, 1997) to The Honorable James M. Jeffords, Chairman, Committee on Labor and Human Resources, U.S. Senate, and The Honorable William F. Goodling, Chairman, Committee on Education and the Work Force, U.S. House of Representatives (available in SEC File No. S7-31- 96).

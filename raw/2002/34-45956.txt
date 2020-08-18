@@ -1,0 +1,849 @@
+https://www.sec.gov/rules/final/34-45956.htm
+
+	I.0.0.0: II. Discussion
+
+		I.A.0.0: A. Settlement Prices for Cash-Settled Security Futures Products
+
+			I.A.1.0: 1. Background
+
+			I.A.2.0: 2. Proposed Rule for Settlement Prices
+
+			I.A.3.0: 3. Final Rule
+
+			I.A.3.a: a. Final Settlement Price for Cash-Settled Security Futures Products Must Fairly Reflect the Opening Price
+
+			I.A.3.b: b. Definitions of "Opening Price" and "Regular Trading Session"
+
+			I.A.3.c: c. Determining a Final Settlement Price When Opening Price Not Readily Available
+
+			I.A.3.d: d. New Provision to Resolve Conflict Between Market Rules and Clearing Agency Rules
+
+			I.A.3.e: e. Exemptions
+
+		I.B.0.0: B. Regulatory Halts
+
+			I.B.1.0: 1. Background
+
+			I.B.2.0: 2. Proposed Rule for Regulatory Halts
+
+			I.B.3.0: 3. Final Rule
+
+			I.B.3.a: a. Trading Halt Coordination in Single-Stock Futures
+
+			I.B.3.b: b. Trading Halt Coordination in Narrow-Based Security Index Futures
+
+			I.B.3.c: c. Definition of a Regulatory Halt
+
+			I.B.3.d: d. Exemptions
+
+		I.C.0.0: C. Commissions' Interpretation of Statutory Requirements for Coordinated Surveillance
+
+			I.C.1.0: 1. Markets Trading Security Futures
+
+			I.C.2.0: 2. Exchanges Trading Securities Other Than Security Futures
+
+	III.0.0.0: III. Paperwork Reduction Act
+
+		III.A.0.0: A. Summary of Collection of Information
+
+		III.B.0.0: B. Proposed Use of Information
+
+		III.C.0.0: C. Respondents
+
+		III.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+		III.E.0.0: E. Record Retention Period
+
+		III.F.0.0: F. Collection of Information Is Mandatory
+
+		III.G.0.0: G. Confidentiality
+
+	IV.0.0.0: IV. Costs and Benefits of the Final Rule
+
+		IV.A.0.0: A. Comments
+
+		IV.B.0.0: B. Benefits of SEC Rule 6h-1 under the Exchange Act
+
+		IV.C.0.0: C. Costs of SEC Rule 6h-1 under the Exchange Act
+
+	V.0.0.0: V. Consideration of the Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+
+		V.A.0.0: A. Effects on Competition
+
+			V.A.1.0: 1. Settlement Procedures for Cash-Settled Security Futures Products
+
+			V.A.2.0: 2. Trading Halt Provisions
+
+			V.A.3.0: 3. Conclusion
+
+		V.B.0.0: B. Effects on Efficiency and Capital Formation
+
+			V.B.1.0: 1. Settlement Procedures for Cash-Settled Security Futures Products
+
+			V.B.2.0: 2. Trading Halt Provisions
+
+	VI.0.0.0: VI. Final Regulatory Flexibility Act
+
+	VII.0.0.0: VII. Statutory Basis and Text of Rule
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Cash Settlement and Regulatory Halt Regulations for Security Futures Products COMMODITY FUTURES TRADING COMMISSION
+
+17 CFR Part 41
+
+RIN 3038-AB86
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Part 240
+
+[Release No. 34-45956; File No. S7-15-01]
+
+RIN 3235-AI24
+
+Cash Settlement and Regulatory Halt Requirements for Security Futures Products 
+
+ AGENCIES: Commodity Futures Trading Commission and Securities and Exchange Commission
+
+ ACTION: Joint final rule
+
+ SUMMARY: The Commodity Futures Trading Commission ("CFTC") and the Securities and Exchange Commission ("SEC") (collectively "Commissions") are adopting a new rule generally to require that the final settlement price for each cash-settled security futures product fairly reflect the opening price of the underlying security or securities, and that trading in any security futures product halt when a regulatory halt is instituted with respect to a security or securities underlying the security futures product by the national securities exchange or national securities association listing the security. The rule adopted today would set forth more specifically how the exchange's or association's rules can satisfy provisions added to the Commodity Exchange Act ("CEA") and the Securities Exchange Act of 1934 ("Exchange Act") by the Commodity Futures Modernization Act of 2000 ("CFMA"). The Commissions are also issuing an interpretation of the statutory requirement under the CEA and the Exchange Act that procedures be put in place for coordinated surveillance among the markets trading security futures products and any market trading any security underlying the security futures products or any related security.
+
+ EFFECTIVE DATE: June 24, 2002. 
+
+ FOR FURTHER INFORMATION CONTACT: 
+
+ CFTC: Richard A. Shilts, Acting Director, Division of Economic Analysis, at (202) 418-5275; Thomas M. Leahy, Jr., Financial Instruments Unit Chief, Division of Economic Analysis, at (202) 418-5278; or Gabrielle A. Sudik, Attorney, Office of General Counsel, at (202) 418-5120, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, DC 20581. E-mail: (RShilts@cftc.gov), (TLeahy@cftc.gov), or (GSudik@cftc.gov).
+
+ SEC: Jerry Carpenter, Assistant Director, at (202) 942-4187; Terri Evans, Assistant Director, at (202) 942-4162; Alton Harvey, Office Head, at (202) 942-4167; Michael Gaw, Special Counsel, at (202) 942-0158; Cyndi Nguyen, Attorney, at (202) 942-4163; and Michael Rae, Attorney, at (202) 942-0785, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+ SUPPLEMENTARY INFORMATION: The CFTC is adopting Rule 41.1(j) through (l), 41.25(a)(2), 41.25(b), and 41.25(d) under the CEA.<SUP> 1 </SUP> The SEC is adopting Rule 6h-1 under the Exchange Act.<SUP> 2 </SUP>
+
+<END HEADER>
+
+<h>I. Introduction</h2 </h>
+
+The CFMA<SUP> 3 </SUP> authorizes the trading of futures on individual stocks and narrow-based security indexes (collectively, "security futures ").<SUP> 4 </SUP> The CFMA defines security futures products as "securities" under the Exchange Act,<SUP> 5 </SUP> the Securities Act of 1933,<SUP> 6 </SUP> the Investment Company Act of 1940,<SUP> 7 </SUP> and the Investment Advisers Act of 1940,<SUP> 8 </SUP> and as contracts of sale for future delivery of a single security or of a narrow-based security index or options thereon under the CEA.<SUP> 9 </SUP> Accordingly, the regulatory framework established by the CFMA for the markets and intermediaries trading security futures products provides the SEC and the CFTC with joint jurisdiction. 
+
+Under the Exchange Act, it is unlawful for any person to effect transactions in security futures products that are not listed on a national securities exchange<SUP> 10 </SUP> or on a national securities association registered pursuant to Section 15A(a) of the Exchange Act.<SUP> 11 </SUP> In addition, Section 6(h)(2) of the Exchange Act<SUP> 12 </SUP> provides that such an exchange or association may trade only those security futures products that conform with listing standards filed by the exchange or association with the SEC under Section 19(b) of the Exchange Act<SUP> 13 </SUP> and that meet certain criteria specified in Section 2(a)(1)(D)(i) of the CEA<SUP> 14 </SUP> and the standards and conditions enumerated in Section 6(h)(3) of the Exchange Act.<SUP> 15 </SUP> 
+
+ In particular, the CEA and the Exchange Act stipulate that the listing standards of an exchange or association trading security futures products shall, among other things, require that trading in the security futures product not be readily susceptible to manipulation of the price of such security futures products, nor to causing or being used in the manipulation of the price of any underlying security or option thereon.<SUP> 16 </SUP> In addition, listing standards must require that the market on which the security futures product trades has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded.<SUP> 17 </SUP> 
+
+Accordingly, the Commissions proposed amendments to Rule 41.1 and Rule 41.25 under the CEA, and new Rule 6h-1 under the Exchange Act to generally provide that (i) the final settlement price for each cash-settled security futures product fairly reflect the opening price of the underlying security or securities, and (ii) the listing standards of national securities exchanges and national securities associations trading security futures products establish a halt in trading in any security futures product when the national securities exchange or national securities association listing the security institutes a regulatory halt with respect to a security or securities underlying the security futures product.<SUP> 18 </SUP> In response to the Proposing Release, the Commissions received eight comment letters.<SUP> 19 </SUP> As discussed further below, the Commissions are adopting the rule substantially as proposed, with slight modifications in response to recommendations by commenters. II. Discussion<h>A. Settlement Prices for Cash-Settled Security Futures Products1. Background </h><h>1. Background </h>
+
+All currently traded index futures and options are cash-settled. When stock index futures and options began trading in the mid-1980s, virtually all of these products used closing-price settlement procedures. Closing-price settlement procedures in index futures and options generally base the index settlement price on the execution prices from the last regular session trades in the underlying securities. The cash settlement provisions of stock index futures and options contracts facilitated the growth of sizeable index arbitrage activities by firms and professional traders and made it relatively easy for arbitrageurs to buy or sell the underlying stocks at or near the market close on expiration Fridays<SUP> 20 </SUP> in order to "unwind" arbitrage-related positions. These types of unwinding programs at the close on expiration Fridays often severely strained the liquidity of the securities markets. 
+
+Regulators and self-regulators were concerned that the liquidity constraints faced by the securities markets to accommodate expiration-related buy or sell programs at the market close on expiration Fridays could exacerbate ongoing market swings during an expiration and could provide opportunities for entities to anticipate these pressures and enter orders as part of manipulative or abusive trading practices designed to artificially drive up or down share prices. To reduce such expiration-related strains on market liquidity, markets trading the most actively-traded futures contracts and many stock index option contracts moved to opening-price settlement procedures. As discussed in the Proposing Release, opening-price settlement procedures offered several features that enabled the securities markets to better handle expiration-related unwinding programs.<h>2. Proposed Rule for Settlement Prices </h>
+
+In view of the experience gained with settlements in cash-settled stock index futures and options in the 1980s and in light of the potential for manipulation of the underlying securities markets, the Commissions proposed that security futures products that specify cash settlement in lieu of physical delivery use a final settlement price that fairly reflected the opening price of the underlying security or securities as the basis for cash settling positions at contract expiration.<SUP> 21 </SUP> 
+
+The Commissions' proposal also required that, if an opening price for an underlying security or securities was not readily available, the final settlement price of the overlying cash-settled security futures product had to fairly reflect the price of the underlying security or securities during its most recent regular trading session. The Commissions' proposal provided exchanges and associations with some discretion to implement this general rule. Finally, the proposal explicitly permitted the Commissions to grant a national securities exchange or national securities association an exemption from the above requirements.<h>3. Final Rulea. Final Settlement Price for Cash-Settled Security Futures Products Must Fairly Reflect the Opening Price </h><h>a. Final Settlement Price for Cash-Settled Security Futures Products Must Fairly Reflect the Opening Price </h>
+
+The Commissions are adopting the requirement as proposed that the final settlement price of a cash-settled security futures product fairly reflect the opening price of the underlying security or securities, if the opening price is readily available.<SUP> 22 </SUP> 
+
+Several commenters generally supported this aspect of the proposal.<SUP> 23 </SUP> One commenter stated that cash-settled security futures products should be settled based on opening prices of the underlying securities because cash-settled index options already are required to settle in the same manner.<SUP> 24 </SUP> A second commenter advocated opening price settlement because closing-price settlement procedures for futures and options products in the 1980s "strained the liquidity of the securities markets and raised concerns about opportunities for manipulative or abusive trading practices."<SUP> 25 </SUP> This commenter believed that, with the increased use of opening-price settlement, specialists are better able to handle expiration-related unwinding programs because there are well-developed opening procedures to disseminate price indications in an orderly manner and because specialists have the remainder of the session to trade out of any position imbalances acquired at the opening. 
+
+A third commenter noted that the migration in 1987 from closing price to opening price settlement on its S&P 500 and other futures contracts "was largely in response to the fact that Friday afternoon settlements - which corresponded to existing practices for listed options expirations - exposed NYSE specialists to large information-less market-on-close orders without an adequate mechanism to cope."<SUP> 26 </SUP> Nevertheless, this commenter pointed out potential problems with the proposed approach. It stated, for example, that the openings of all securities do not occur simultaneously and, therefore, calculation of an index must be based on non-synchronous transaction prices. This commenter also noted that a volume-weighted average transaction price over a short time interval has evolved into an industry standard for determining final settlement prices for futures based on securities trading on decentralized markets, such as Nasdaq. In response to the foregoing, the Commissions note that the rule being adopted today does not mandate that a particular methodology be used to derive an opening price. A national securities exchange or national securities association is, therefore, free to develop its own methodology for determining final settlement prices, provided that the result "fairly reflects" the opening price.<SUP> 27 </SUP> 
+
+The same commenter also stated that the Commissions' proposal could create a discrepancy between security futures products based on narrow-based security indexes and other derivative products based on the same indexes: while the former would be required to settle using opening prices, the latter are subject to no such requirement.<SUP> 28 </SUP> Another commenter noted that the option on the S&P 100 index (the "OEX" option) still employs closing-price settlement and called upon the Commissions to bring OEX into line with the opening-price settlement procedures now being adopted.<SUP> 29 </SUP> 
+
+The Commissions do not believe it is necessary or appropriate at this time to mandate opening settlement procedures for all options and futures. As the Commissions noted in the Proposing Release, CBOE believed that the closing price settlement procedures were appropriate for OEX because these options were used primarily by retail investors and were not actively used in the types of index arbitrage unwinding programs that had strained the liquidity of the securities markets at the close on expiration.<SUP> 30 </SUP> Further, the Commissions note that the vast majority of options do use opening-price settlement procedures;<SUP> 31 </SUP> therefore, the rule being adopted today is consistent with that general practice.<SUP> 32 </SUP> 
+
+One commenter also did not believe that the decision to employ opening- rather than closing-price procedures should be based on a perceived threat of increased manipulative activity, arguing that improvements in audit trails, record-keeping practices, and inter-exchange cooperation have greatly increased the ability to detect and punish manipulative activity.<SUP> 33 </SUP> The Commissions agree that these enhancements have increased the ability of regulators to detect and punish manipulative trading activity. Nevertheless, the Commissions believe that it is appropriate to take steps that reduce not merely the incentive, but also the ability to manipulate the market. For example, one commenter described its implementation of special closing procedures to reduce the scope for end-of-day manipulation, while stating that the use of opening prices would obviate the need for these special closing procedures.<SUP> 34 </SUP> This commenter also noted that opening-price settlement decreases the likelihood of price distortions not brought about by manipulative intent, such as human error, that can significantly affect the closing prices of securities and their overlying indexes, because the markets have no time before the closing to correct such errors. The Commissions believe that market distortions - whether caused by manipulation, human error, or difficulties in balancing buy- and sell-side interest - are more likely to occur in an environment in which closing-price settlement of derivative products is used, and that the potential for these distortions exists to a far lesser degree at the opening.<SUP> 35 </SUP> 
+
+i. CFTC Technical Amendment 
+
+The CFTC notes one technical change to the text of CFTC Rule 41.25(b). In an earlier rulemaking, the CFTC adopted an introductory paragraph that required that the cash settlement price of security futures products must be "reliable and acceptable, be reflective of prices in the underlying securities market and be not readily susceptible to manipulation."<SUP> 36 </SUP> The CFTC included this language in the earlier rulemaking to reflect the CFTC's longstanding policy regarding the standards for cash-settlement of futures contracts, which are set forth in the CFTC's Guideline No. 1.<SUP> 37 </SUP> The CFTC also included this language in the Proposing Release for the present rulemaking.<SUP> 38 </SUP> In the final rules published today, the CFTC has decided to eliminate this introductory paragraph because the requirements of the paragraph are embodied in the remainder of the Rule 41.25(b) and in other rules in Part 41. 
+
+The requirements that the cash settlement price must be reliable, acceptable and reflect the prices in the underlying securities markets are embodied in CFTC Rules 41.25(b)(1) and (2). These rules require that cash settlement prices be based on the opening price of a security futures product's underlying security or securities, or, if the opening price for one or more securities is not readily available, the final settlement price of the security futures products must fairly reflect the price of the underlying security or securities during the most recent regular trading session for such securities or the next available opening price. Based on prior analyses and for reasons discussed in the proposing release, the CFTC previously has determined that opening prices represent reliable indicators of the values of securities and thus are acceptable for hedging of securities' positions. In addition, opening prices are established under procedures designed to ensure that the prices are reflective of prices in the underlying securities market. Finally, the requirement that the cash settlement price not be readily susceptible to manipulation is embodied in CFTC Rule 41.22(f), which states, "Trading in the security futures products is not readily susceptible to manipulation of the price of such security futures product, nor to causing or being used in the manipulation of the price of any underlying security, option on such security, or option on a group or index including such securities, consistent with the conditions for trading of §41.25[.]"<SUP> 39 </SUP><h>b. Definitions of "Opening Price" and "Regular Trading Session" </h>
+
+The Commissions are adopting the definition of "regular trading session" as proposed.<SUP> 40 </SUP> However, in response to comments, the Commissions have modified the definition of "opening price" by clarifying that, if a security is not listed on a national securities exchange or a national securities association, the opening price shall be the price at which a security opened for trading, or a price that fairly reflects the price at which a security opened for trading, on the primary market for the security. 
+
+The Commissions proposed to define "opening price" as "the price at which a security opened for trading, or a price that fairly reflects the price at which a security opened for trading, during the regular trading session of the national securities exchange or national securities association that lists the security."<SUP> 41 </SUP> One commenter, however, observed that security futures products may be based on securities the primary markets of which are foreign, and that using the opening price from a U.S. market - if there is one - might not be a meaningful or practical solution for optimal contract design.<SUP> 42 </SUP> 
+
+The Commissions acknowledge that the proposed definition of "opening price" failed to contemplate that the market trading a security that underlies a security futures product could be a market other than a national securities exchange or national securities association, such as a foreign stock exchange. Therefore, the Commissions have revised the definition to provide that, if the underlying security is not listed on a national securities exchange or a national securities association, the opening price is the price at which the security opened for trading, or a price that fairly reflects the price at which a security opened for trading, on the primary market for the security. To the extent that the underlying security is listed on a national securities exchange or national securities association, however, as explained further below, the Commissions continue to believe that it is appropriate to use the opening price from the listing market.<SUP> 43 </SUP> 
+
+One commenter stated that it may soon become the case that the listing market is not the primary trading venue for a security and, thus, not the most liquid market.<SUP> 44 </SUP> The Commissions agree that this possibility exists, but nevertheless believe that national securities exchanges and national securities associations are, at the present time, a significant source of liquidity for those securities that are permitted to underlie security futures products and, therefore, that opening prices derived from these listing markets are appropriate to use as final settlement prices. Moreover, the Commissions believe, at this time, that a rule requiring, for example, the calculation of trading volumes to determine the appropriate primary market from which to derive an opening price for a security listed in the U.S. would impose unnecessary burdens without furthering the anti-manipulation goals enshrined in Section 2(a)(1)(D)(i)(VII) of the CEA<SUP> 45 </SUP> and Section 6(h)(3)(H) of the Exchange Act.<SUP> 46 </SUP><h>c. Determining a Final Settlement Price When Opening Price Not Readily Available </h>
+
+The Commissions proposed that, if the opening price of an underlying security were not readily available, the final settlement price of a cash-settled security futures product overlying that security must reflect a price of the underlying security taken from its most recent regular trading session. The proposed rule provided, however, that national securities exchanges and national securities associations could request exemptions from the Commissions on a case-by-case basis. 
+
+Although one commenter supported this aspect of the proposal,<SUP> 47 </SUP> four commenters generally opposed the Commissions' exclusive use of a "look back" settlement procedure for security futures products when the opening prices for the underlying securities are unavailable and, instead, recommended using the next day's opening prices.<SUP> 48 </SUP> These commenters noted that the existing cash settlement procedures for stock index options and stock index futures allow "next opening" prices.<SUP> 49 </SUP> Further, one commenter, a clearing agency, urged the Commissions not to require national securities exchanges and national securities associations to adopt rules addressing the determination of security futures final settlement prices when opening prices are not readily available, because of potential conflicts with clearing agency rules.<SUP> 50 </SUP> Another commenter believed that the establishment of consistent and commercially appropriate alternative pricing conventions should be resolved by a collaboration among the exchanges that design the product and the clearinghouse, with appropriate consultation with their members and participants.<SUP> 51 </SUP> 
+
+In addition, several commenters contended that under the Commissions' proposed rule hedges could be significantly disrupted.<SUP> 52 </SUP> One commenter specifically noted that market participants holding hedged or arbitraged positions expect to unwind the positions simultaneously at stock prices that have equal value in relation to derivative settlement prices.<SUP> 53 </SUP> According to the commenter, this equal value is achieved when the prices used to calculate the index settlement are the same prices that the market participant receives when unwinding the stock side of the position; when one or more component stocks cannot be unwound at that price, the settlements become disjointed and financial exposure occurs. Two commenters described how such a scenario would have unfolded had September14, 2001, been an expiration Friday: A security futures product - under the Commissions' proposal -would have settled based on the prices of underlying securities traded on September10, although prices at the next opening on September17 were generally significantly lower.<SUP> 54 </SUP> 
+
+In response to the comment letters, the final rule adopted by the Commissions allows for either look-back or next opening prices to be used as alternate final settlement prices when an opening price is not readily available.<SUP> 55 </SUP> The Commissions agree with the commenters that the original proposal could result in an unwanted and unwarranted de-linking of hedging positions if they mandated look-back pricing procedures for security futures products. The Commissions also agree that it would be inadvisable for the Commissions' rule to result in proposed rule changes by national securities associations and national securities exchanges that could conflict with the rules of their registered clearing agency or derivatives clearing organization.<SUP> 56 </SUP> 
+
+The Commissions will not, however, prohibit a national securities exchange or national securities association from employing look-back pricing if it believed that such course were appropriate. One commenter stated that situations may arise in which a very small percentage of the securities of an index fail to trade on an expiration Friday.<SUP> 57 </SUP> In such situations, the commenter believed, it would be reasonable to allow the overlying derivative on the index to settle by using look-back prices for those few underlying securities that did not open, rather than waiting to obtain the next opening price for those few securities before settlement. The commenter recommended that there be flexibility to employ look-back pricing if twopercent or less of the weighting of an index did not open for trading on an expiration Friday. While the Commissions do not believe it is appropriate to set a de minimis standard for use of look-back pricing, the Commissions agree with the commenter's general point that situations may arise where the ability to use look-back pricing will facilitate the fair settlement of an overlying security futures product. The Commissions further note that the final rule being adopted today is consistent with OCC rules that allow for look-back pricing in certain circumstances.<SUP> 58 </SUP><h>d. New Provision to Resolve Conflict Between Market Rules and Clearing Agency Rules </h>
+
+The rule adopted by the Commissions today allows a national securities exchange or national securities association to choose between look-back and next opening pricing procedures for security futures products; however, it also provides the registered clearing agency or derivatives clearing organization that is used to clear such products with the authority to determine the final settlement prices in certain circumstances.<SUP> 59 </SUP> The Commissions believe that the rule adopted today is consistent with the current conditions under which OCC provides clearing services to national securities exchanges and national securities associations. Any national securities exchange or national securities association wishing to use OCC clearing services for security futures must enter into a clearing agreement with OCC in which both parties agree that security futures will be cleared by OCC in accordance with OCC's by-laws and rules, which currently give OCC the final authority to determine final settlement prices in certain circumstances.<SUP> 60 </SUP> The Commissions believe that the rule adopted today takes into account such arrangements, as well as allows for similar arrangements between other clearing agencies or derivatives clearing organizations and national securities exchanges or national securities associations. The Commissions also believe that the rule adopted today addresses concerns raised by commenters. 
+
+Under proposed CFTC Rule 41.25 and SEC Rule 6h-1, a clearing agency or derivatives clearing organization would not have been entitled to determine a final settlement price. One clearing agency commenter pointed out that its rules relating to security futures products specifically provide that, in the case of a conflict between OCC's rules and the rules of a national securities exchange or national securities association, OCC rules control.<SUP> 61 </SUP> OCC expressed the view that "the Commissions' rules should not force the exchanges to adopt rules in this area at all, but rather should permit that function to be left to the rules of the clearing organization."<SUP> 62 </SUP> OCC further stated that, "[w]hether or not the exchanges have rules on this subject, it should remain clear that the rules of the clearing organization will control in the event of any inconsistency, thus assuring uniformity of treatment of fungible products that might be traded on more than one exchange." Another commenter endorsed the view that the clearing agency's rules should control in the event of a conflict.<SUP> 63 </SUP> 
+
+The Commissions disagree with the view that markets trading security futures products should not address settlement procedures. To the extent that a clearing agency or derivatives clearing organization does not have rules in place to address all situations for determining the settlement price of a cash-settled security futures product, the national securities exchange or national securities association that trades such product should have rules in place. However, the Commissions believe that it is appropriate to expressly provide that, in the event of a conflict between the rules of a registered clearing agency or derivatives clearing organization and a market that trades a security futures product, the clearing agency or derivatives clearing organization may establish a new final settlement price for a security futures product if it determines, pursuant to its rules, that the final settlement price determined by the exchange or association is not consistent with the protection of investors or customers, as applicable, and the public interest, taking into account such factors as fairness to buyers and sellers of the affected security futures product, the maintenance of a fair and orderly market in such security futures product, and consistency of interpretation and practice. In the absence of such a provision, confusion could arise if securities underlying a security futures product failed to trade on an expiration Friday and the market trading the security futures product and its clearing agency or derivatives clearing organization had different rules for determining a final settlement price. Moreover, this provision will make security futures products that trade on different markets more fungible, because a single clearing agency or derivatives clearing organization will be able in certain circumstances to harmonize procedures across different markets for determining alternate settlement prices.<h>e. Exemptions </h>
+
+In the final rule adopted by the Commissions, the Commissions' ability to grant exemptions to the rule's requirements has been expanded slightly from that proposed. The proposal explicitly provided that any national securities exchange or national securities association may receive an exemption from the requirements that final settlement prices of security futures products reflect the opening prices of the underlying securities or, if opening prices are not available, look-back pricing procedures. The final rule explicitly provides that the CFTC may grant an exemption with respect to any provision of paragraphs (a)(2) and (b) of CFTC Rule 41.25, provided that the CFTC finds that the exemption is consistent with the public interest and the protection of customers.<SUP> 64 </SUP> Similarly, the rule explicitly provides that the SEC may grant an exemption with respect to any provision of SEC Rule 6h-1, provided that the exemption is necessary or appropriate in the public interest and consistent with the protection of investors.<SUP> 65 </SUP> The Commissions are expanding the scope of the exemption to make it more consistent with the SEC's exemptive authority under Section 36 of the Exchange Act, which allows the SEC, by rule, regulation, or order to conditionally or unconditionally exempt any person, security, or transaction, or any classes thereof, from any rule or regulation under the Exchange Act, to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.<SUP> 66 </SUP> Because exchanges and associations are subject to the requirements of both CFTC Rule 41.25(a)(2) and (b) and SEC Rule 6h-1, to be exempt from such requirements an exchange or association would have to obtain an exemption from both the CFTC and the SEC.<h>B. Regulatory Halts1. Background </h><h>1. Background </h>
+
+Generally, there are two types of regulatory halts used in the equity and options markets: news pending halts and circuit breaker halts. News pending halts are designed to protect the interests of current and potential shareholders by facilitating the orderly dissemination of potentially market moving information and the discovery of fair and reasonable prices for securities based on new information.<SUP> 67 </SUP> A news pending halt benefits current and potential shareholders by halting all trading in the securities until there has been an opportunity for the information to be disseminated to the public. It also helps to promote public confidence in the market and the integrity of the marketplace by giving the public an opportunity to evaluate information in making investment decisions. 
+
+Circuit breakers are brief, coordinated cross-market trading halts used by the stock, options, and index futures markets to mitigate systemic stress when a severe one-day market drop of historic proportions prevents the financial markets from operating in an orderly manner.<SUP> 68 </SUP> The Commissions approved various exchanges' circuit breaker proposals in response to the October 1987 market break to permit these brief, coordinated cross-market halts to provide opportunities during a severe market decline to reestablish an equilibrium between buying and selling interests in an orderly fashion, and to help to provide market participants with a reasonable opportunity to become aware of, and respond to, significant price movements.<SUP> 69 </SUP> The coordinated cross-market trading halts provided by circuit breaker procedures are designed to operate only during significant market declines and to substitute orderly, pre-planned halts for the ad hoc and destabilizing halts which can occur when market liquidity is exhausted.<SUP> 70 </SUP> Currently, all stock exchanges and the NASD have rules or policies to implement coordinated circuit breaker halts.<SUP> 71 </SUP> The options markets also have rules applying circuit breakers.<SUP> 72 </SUP> Finally, the index futures exchanges have adopted circuit breaker halt procedures in conjunction with their price limit rules<SUP> 73 </SUP> for index products.<SUP> 74 </SUP> The options markets also have in place rules regarding trading halts on index options.<SUP> 75 </SUP> Several of the options markets will halt trading when, for example, a certain fixed percentage of the index halts trading or when it is appropriate in the interests of a fair and orderly market and to protect investors.<SUP> 76 </SUP><h>2. Proposed Rule for Regulatory Halts </h>
+
+As discussed above, Section 2(a)(1)(D)(i)(X) of the CEA<SUP> 77 </SUP> and Section 6(h)(3)(K) of the Exchange Act<SUP> 78 </SUP> provide that listing standards for security futures products must include procedures to coordinate trading halts between the market that trades the security futures product, any market that trades any underlying security, and other markets on which any related security is traded. To assure such coordination of trading halts, the Commissions proposed CFTC Rule 41.25(a)(2) and SEC Rule 6h-1. More specifically, the Commissions proposed that trading in a future on a single security be halted at all times that such a news pending regulatory halt or a circuit breaker regulatory halt has been instituted by the listing market for the underlying security. The Commissions also proposed that trading be halted in a future on a narrow-based security index when a news pending or circuit breaker regulatory halt was instituted for one or more underlying securities that constitute 30 percent or more of the market capitalization of the narrow-based security index.<SUP> 79 </SUP><h>3. Final Rulea. Trading Halt Coordination in Single-Stock Futures </h><h>a. Trading Halt Coordination in Single-Stock Futures </h>
+
+The Commissions are adopting, as proposed, a requirement that the rules of a national securities exchange or national securities association that lists or trades security futures products provide that trading of a future on a single security be halted at all times that a regulatory halt has been instituted for the underlying security.
+
+Two commenters agreed that trading in a future on a single security should be halted when trading in the underlying security is subject to a regulatory halt.<SUP> 80 </SUP> Another commenter, while generally supporting the proposed trading halt requirements for single-stock futures, believed that it may be appropriate to trade a single stock futures product when the listing market has imposed a trading halt, if the listing market is not the principal trading venue for the underlying security because the prices on that market may not be reflective of current market conditions.<SUP> 81 </SUP>
+
+In addition, one commenter believed that the requirement to halt trading in single-stock futures when trading in the underlying security is halted was overly broad to satisfy the requirement that procedures be put in place to coordinate trading halts.<SUP> 82 </SUP> This commenter believed that this was overly broad and burdensome in its application to retail investors for whom single-stock futures might serve as the only available means for managing risk. This commenter recommended allowing trading halt sessions during which investors with risk exposure to an underlying equity, which has been halted, might have the opportunity to enter into single stock futures transactions with dealers. 
+
+The Commissions understand the concern raised by one commenter regarding continued trading of a security futures product when the underlying security has halted trading if the listing market is not the primary market. However, the Commissions believe that designating the listing market as the venue for the purpose of applying the rule provides for ease of use and application, because it does not require national securities exchanges or national securities associations to determine the primary market for each underlying security. Further, due to the contractual relationship between the issuer and the listing market, the listing market has a direct and ongoing relationship with the issuer. The Commissions believe, therefore, that the listing market is in the best position to be informed promptly by the issuer that pending news would require the imposition of a trading halt. Finally, the Commissions believe that the listing market represents sufficient liquidity that imposing a trading halt on a security futures product when the listing market for the underlying security imposes a trading halt furthers the purposes of Section 2(a)(1)(D)(i)(X) of the CEA<SUP> 83 </SUP> and Section 6(h)(3)(K) of the Exchange Act.<SUP> 84 </SUP> 
+
+With respect to the commenter's concern regarding the potential impact of such a rule on retail investors, the Commissions note that one of the purposes of trading halts is to provide for an adequate opportunity for information about a security to be disseminated to the public. The Commissions do not believe that it would be consistent with the protection of investors to permit investors, including retail investors, to trade a surrogate for a security - i.e. , a future on the security - without the benefit of material information about such security or the benefit of such other information that was the basis for the regulatory halt. 
+
+Finally, with respect to news pending halts, two commenters questioned the absolute requirement that trading in a security futures product must be halted during a news pending halt in the underlying security.<SUP> 85 </SUP> These commenters recommended providing exchanges with discretion to impose a trading halt when there is a news pending trading halt in the underlying security. Specifically, one commenter believed that this discretion is important because there may be circumstances when it is necessary to allow trading in a security futures product when the underlying stock is halted, such as when there is a need to adjust positions before an expiration.<SUP> 86 </SUP> 
+
+Given the rarity of an occurrence when a national securities exchange or national securities association would feel compelled to continue trading a security futures product while the trading of underlying stock is halted, the Commissions do not agree that there ought to be discretion in imposing regulatory halts for security futures products. The Commissions note that the underpinning for imposing news pending regulatory halts is promoting investor protection and fair and orderly markets. To the extent that there is pending news that could impact an investor's decision and to the extent that single-stock futures are surrogates for the underlying security, the Commissions continue to believe in the need for a provision requiring that trading in a security futures product be halted at all times that a regulatory halt has been instituted for the underlying security or securities, with certain limits for narrow-based security index futures. Furthermore, in the event that discretion is needed, the Commissions note that the exemptive authority in CFTC Rule 41.25(d) and SEC Rule 6h-1(d) allows the Commissions to exempt national securities exchanges or national securities associations from the regulatory halt provisions if the CFTC determines that such an exemption is consistent with the public interest and the protection of customers and the SEC determines that such exemption is necessary or appropriate in the public interest and consistent with the protection of investors. 
+
+By adopting this rule, the Commissions aim to maintain and preserve the integrity of this mechanism so that the trading of security futures products will not be used as a tool to circumvent the institution of regulatory halts. Moreover, the Commissions believe that the purpose of halting trading in the underlying security would be frustrated if market participants could circumvent this halt by trading during the halt in the related security futures product.<SUP> 87 </SUP><h>b. Trading Halt Coordination in Narrow-Based Security Index Futures </h>
+
+The Commissions proposed that national securities exchanges and national securities associations halt trading in a future on a narrow-based security index when component securities representing 30 percent or more of the market capitalization of such index are subject to a regulatory halt. In response to comments, the final rules modify the proposal by increasing to 50 percent the market capitalization represented by the component security or securities in a narrow-based security index that must be halted before a national securities exchange or national securities association must halt trading in a future on such index.
+
+In addition to the comments supporting the Commissions' proposed trading halt rule,<SUP> 88 </SUP> the Commissions received three comments specifically addressing the application of regulatory halts to futures based on narrow-based security indexes.<SUP> 89 </SUP> One commenter neither specifically supported nor opposed the Commissions' proposed 30 percent capitalization test, although it suggested a possible alternative such as allowing narrow-based security index futures based principally on U.S. listed securities to continue trading until they have become limit offered at a price limit corresponding to a particular coordinated circuit breaker level.<SUP> 90 </SUP> Another commenter believed that the Commissions' proposal to require a trading halt in a narrow-based security index future when a component security or securities that constitute 30 percent or more of the market capitalization of the index are subject to a trading halt was too low a threshold to justify the disruption that it would inflict upon the futures market.<SUP> 91 </SUP> Instead, this commenter recommended that the threshold be no lower than 50 percent of an index's capitalization to be consistent with the threshold required for re-opening futures trading on broad-based indexes following a market-wide halt. This commenter noted that when trading in futures on a broad-based index is halted as a result of an exchange-wide halt in the relevant securities market, such futures trading resumes only when at least 50 percent of the securities underlying an index, by market capitalization, have reopened for trading.<SUP> 92 </SUP>
+
+Another commenter recommended providing exchanges with greater discretion to decide whether to impose or maintain a trading halt.<SUP> 93 </SUP> This commenter stated that by specifying a specific percentage level, the proposed rule implied that it would be improper for an exchange to consider trading interruptions in underlying stocks that collectively represent less than 30 percent of an index. This commenter also believed that because not all indexes underlying security futures products may be capitalization weighted, it may be difficult for exchanges to determine on a real-time basis when securities comprising 30 percent of the market capitalization of a price-weighted or equal dollar weighted index are halted. Similarly, one of the commenters expressed a concern that, with respect to corporate news events, it may be operationally difficult to determine on a real-time basis whether the threshold of market capitalization has been crossed.<SUP> 94 </SUP> This commenter hoped the Commissions would recognize the potential difficulty and accept good faith attempts to comply.
+
+The Commissions do not believe that trading in a narrow-based security index future should necessarily be halted because a trading halt has been instituted for only one or several low-weighted component securities. An inappropriately low threshold could lead to needless and potentially disruptive trading halts in the narrow-based index future. However, as noted in the Proposing Release, regulatory halts of narrow-based-index component securities could affect a sufficiently large portion of the index to make continued trading of a security futures product based on that index a means of improperly circumventing regulatory halts in the underlying component securities. Under these circumstances, trading halt procedures would not be coordinated, as required by Section 2(a)(1)(D)(i)(X) of the CEA<SUP> 95 </SUP> and Section 6(h)(3)(K) of the Exchange Act,<SUP> 96 </SUP> since the security futures product would continue to trade while investors would be precluded from trading the underlying securities. Moreover, the SEC believes that continued trading in the security futures product under these circumstances could undercut key provisions in the securities laws designed to protect investors and promote the fair and orderly operation of the markets.
+
+However, in response to the commenter's statement that the 30 percent market capitalization test was too low, and therefore, potentially too disruptive to the market, and after consideration of the potential effects of the proposed 30 percent trading halt threshold, the Commissions are requiring that trading be halted in a narrow-based security index futures product when component securities representing 50 percent or more of the market capitalization of that narrow-based security index are subject to a regulatory halt. The Commissions believe that one of the major economic benefits that market participants derive from the trading of futures on narrow-based security indexes is the ability to hedge positions containing the securities underlying the indexes, thereby reducing the risk of holding positions in those securities. For traders using a narrow-based security index future to hedge a position containing the component index securities, trading halts in certain of those component securities necessarily will introduce basis risk because the one-to-one relationship between the cash portfolio of securities and the narrow-based index future is disrupted. 
+
+The Commissions believe that the proposed 30 percent threshold is too low because it could unnecessarily disrupt hedge positions involving futures on narrow-based security indexes that may still be substantially performing their intended risk-shifting function when trading is halted in a limited number of the index's component securities. The Commissions believe that a 50 percent threshold would better serve the requirement's intended purpose. In adopting a 50 percent threshold, the Commissions sought to balance the utility of maintaining effective hedge positions with concerns about circumventing the coordination requirement by allowing trading in narrow-based index futures to continue when trading in a limited number of the underlying securities is halted. 
+
+The Commissions believe that while it is not possible to eliminate completely the risk involved in hedging securities with a future on a narrow-based security index when trading halts are instituted for certain of those underlying securities, the 50 percent threshold reduces such risk. Therefore, the Commissions are adopting a 50 percent threshold because it appears to appropriately balance the goals of hedging utility with the prevention of improper circumvention of regulatory halts in the underlying securities. The Commissions also note that the 50 percent threshold is consistent with existing thresholds for re-opening trading in broad-based security index futures following a market-wide trading halt in the trading of the underlying securities.<SUP> 97 </SUP> 
+
+The Commissions reiterate, however, that their rule is not designed to preclude a market trading futures on narrow-based security indexes from halting trading when securities representing less than 50 percent of the market capitalization of the index are halted or for other appropriate reasons, such as operational difficulties being experienced by the market or its automated systems or concerns over clearance and settlement operations. The Commissions also note that the threshold at 50 percent provides further discretion to national securities exchanges and national securities associations to establish their thresholds at lower levels, or to change the thresholds as market conditions or experience warrant. This provides flexibility to the markets to modify trading halt thresholds, which would not be possible if the Commissions set the threshold at a lower level.
+
+With respect to the commenters' concern regarding the potential difficulty in calculating the market capitalization of an index, especially for price-weighted or equal dollar weighted indexes, for purposes of instituting the regulatory halt, the Commissions note that selecting market capitalization as the method for calculating the weight of the index is similar to an existing standard used to calculate trigger points for circuit breaker operations.<SUP> 98 </SUP> The Commissions chose to apply a similar method in implementing regulatory halts to narrow-based security index futures products. In addition, in specifying market capitalization as the method for weighing an index, the rule provides clarity and uniformity for all national securities exchanges and national securities associations to utilize in implementing regulatory halts in security futures products based on narrow-based security indexes and helps prevent the trading of security futures products from becoming a means of circumventing regulatory halts in the underlying securities.<h>c. Definition of a Regulatory Halt </h>
+
+The Commissions are adopting the definition of regulatory halt as proposed.<SUP> 99 </SUP> Specifically, a regulatory halt is defined as a delay, halt, or suspension in the trading of a security by the national securities exchange or national securities association that lists the security as a result of a news pending regulatory halt or the operation of circuit breakers. The definition of regulatory halt does not include the listing market's halting of trading because of an imbalance of buy and sell orders in a particular security or when trading is disrupted due to a problem in its systems or on its trading floor. The definition of regulatory halt in the rule adopted today incorporates the definition of news pending regulatory halt contained in the Consolidated Tape Association Plan ("CTA Plan").<SUP> 100 </SUP> Under the CTA Plan, a regulatory halt occurs whenever the primary market for any eligible security, in the exercise of its regulatory functions, halts or suspends trading in the security because the primary market has determined (i) that there are matters relating to the security or issuer that have not been adequately disclosed to the public, or (ii) that there are regulatory problems relating to the security which should be clarified before trading is permitted to continue.<SUP> 101 </SUP> When a regulatory trading halt is initiated by the primary market for a security, the regional exchanges and Nasdaq also halt trading in the security, and the options exchanges halt trading in related options. The options exchanges also halt trading in an equity option when the underlying security has ceased trading.<SUP> 102 </SUP>
+
+Although generally supporting the requirement to halt trading in single-stock futures when trading in the underlying security has been halted due to a corporate news event, one commenter stated that the definition of regulatory halt could be refined to address situations not contemplated by the CFMA, such as where the listing market is not the primary trading venue for the underlying security or where the listing market is in a foreign country.<SUP> 103 </SUP> 
+
+In response to this comment, the Commissions note that the rule being adopted today does not preclude national securities exchanges and national securities associations trading security futures products from halting trading if they believe it is necessary to the orderly operation of the market. The rules of a national securities exchange or national securities association may permit it to halt trading in situations not covered by the rule being adopted today.<SUP> 104 </SUP> To the extent that the security or securities underlying a security futures product is listed on a foreign market, under the rule adopted today, national securities exchanges and national securities associations have the flexibility to impose trading halt requirements where the underlying security is listed solely on a foreign market. Further, the Commissions believe that it would be unduly burdensome and administratively difficult to require national securities exchanges and associations to calculate the primary market for each security underlying a security futures product. Again, under their rules, national securities exchanges and associations may also halt trading in a security futures product if the primary market, but not the listing market, halted trading in the underlying security or securities, but it is not mandated by the Commissions' rules. 
+
+With respect to the Commissions' proposal to include within the definition of "regulatory halt" trading halts due to circuit breaker procedures, three commenters generally supported the extension of market-wide circuit breaker procedures to security futures products in order to ensure coordinated and consistent circuit breaker procedures across equity products.<SUP> 105 </SUP> One of the commenters, however, noted a potential competitive issue over security futures product "look-alikes" that can trade in the unregulated upstairs market and do currently trade in foreign jurisdictions that may not adhere to the coordinated circuit breaker procedures.<SUP> 106 </SUP> This commenter recommended that the Commissions provide exchanges with latitude in implementing coordinated circuit breaker procedures and flexibility in imposing this requirement on security futures products where the principal trading venues for the underlying securities (or for a subset in the case of narrow-based indexes) are in foreign markets. 
+
+The Commissions note that the coordinated cross-market trading halts provided by circuit breaker procedures are designed to operate only during significant market declines and to substitute orderly, pre-planned halts for the ad hoc and destabilizing halts that can occur when market liquidity is exhausted. The circuit breakers also protect investors and the market by providing opportunities for market and market participants to assess market conditions and potential systemic stress during a historic market decline. In approving the original circuit breakers proposed by the securities market, the SEC noted that the circuit breakers were an effort by the securities and futures markets to arrive at a coordinated means to address potentially destabilizing market volatility of the severity of the October 1987 market break.<SUP> 107 </SUP> Therefore, in the interest of having coordinated trading halts across the U.S. equity markets, the Commissions do not agree that the exchanges should have latitude in implementing coordinated circuit breaker procedures on security futures products where the underlying security is not solely listed in a foreign market. To the extent that additional latitude is needed, the Commissions have the discretion to grant separate exemptions in those circumstances if the CFTC determines that such an exemption is consistent with the public interest and the protection of customers and the SEC determines that such exemption is necessary or appropriate in the public interest and consistent with the protection of investors.
+
+For these reasons, the Commissions believe that it is important to include within the definition of regulatory halt cross-market circuit breakers and, therefore, to require the application of cross-market circuit breaker regulatory halt procedures to security futures products. Moreover, the Commissions believe that such requirement is necessary to satisfy the requirements of Section 2(a)(1)(D)(i)(X) of the CEA<SUP> 108 </SUP> and Section 6(h)(3)(K) of the Exchange Act.<SUP> 109 </SUP> If cross-market circuit breaker regulatory halt procedures were not applied to the security futures products, such a failure would undermine the use of trading halts in the underlying securities markets.<h>d. Exemptions </h>
+
+As discussed previously,<SUP> 110 </SUP> the Commissions are expanding the exemption provisions in CFTC Rule 41.25(d) and SEC Rule 6h-1(d), which were originally proposed to apply only to the final settlement prices for security futures products. Under the final rule, the CFTC has the authority to grant an exemption with respect to any provision of paragraphs (a)(2) and (b) of CFTC Rule 41.25, provided that the CFTC finds that the exemption is consistent with the public interest and the protection of customers.<SUP> 111 </SUP> The SEC has the authority to grant an exemption with respect to any provision of SEC Rule 6h-1, provided that the exemption is necessary or appropriate in the public interest and consistent with the protection of investors.<SUP> 112 </SUP> Because exchanges and associations are subject to the requirements of both CFTC Rule 41.25(a)(2) and (b) and SEC Rule 6h-1, to be exempt from such requirements an exchange or association would have to obtain an exemption from both the CFTC and the SEC.<h>C. Commissions' Interpretation of Statutory Requirements for Coordinated Surveillance1. Markets Trading Security Futures </h><h>1. Markets Trading Security Futures </h>
+
+In amending the CEA and Exchange Act to permit the trading of futures on single stocks and narrow-based security indexes, Congress specifically required that exchanges and associations trading these new products have procedures in place for coordinated surveillance with other markets on which security futures products trade, any market on which any security underlying the security futures product is traded, and other markets on which any related security trades.<SUP> 113 </SUP> Because security futures products are surrogates for the securities on which their values are based, such coordinated surveillance is essential to detection of manipulation and insider trading. As discussed in detail below, the Commissions interpret the statutory requirement for coordinated surveillance to mean that if an exchange or association is a Full Member of the Intermarket Surveillance Group ("ISG")<SUP> 114 </SUP> or has the ability to obtain all information that a Full Member of the ISG is currently able to obtain from both current and former members, including, among other things, the ability to obtain market surveillance reports or information, and information relating to investigations, then that market would meet the statutory requirement for coordinated surveillance.
+
+For an exchange or association to satisfy the statutory requirement that "procedures be in place for coordinated surveillance," the Commissions stated in the Proposing Release that they believed it was "essential that all such exchanges and associations be Full Members of the ISG."<SUP> 115 </SUP> In view of the role that the ISG plays, the Commissions stated their belief that the ISG should grant full memberships to all national securities exchanges and national securities associations registered pursuant to Section 15A(a) of the Exchange Act<SUP> 116 </SUP> trading securities futures products, including Security Futures Product Exchanges, upon a good-faith showing that the entities meet the criteria for full membership. 
+
+The CFTC in a separate proposing release also proposed, in part, to require boards of trade trading security futures products to be Full Members of ISG.<SUP> 117 </SUP> The CFTC received three comment letters regarding this aspect of the CFTC Proposal.<SUP> 118 </SUP> All of the commenters raised concerns regarding mandatory memberships in ISG. As a result, the CFTC deferred making a decision on requiring membership in ISG to allow the Commissions together to consider the appropriate means of ensuring that the coordinated surveillance requirement under the CEA and the Exchange Act is satisfied.<SUP> 119 </SUP> 
+
+As noted in the Proposing Release, ISG was created under the auspices of the SEC as a forum to ensure that national securities exchanges and national securities associations adequately share surveillance information and coordinate inquiries and investigations designed to address potential intermarket manipulations and trading abuses. Full Members routinely share a great deal of surveillance and investigatory information, and the SEC continues to believe that this framework has proven to be an effective mechanism to ensure that there is adequate information sharing and investigatory coordination for potential intermarket manipulations and trading abuses. 
+
+The Commissions continue to believe that any national securities exchange - including an exchange registered under Section 6(g) of the Exchange Act - that satisfies the requirements to be a Full Member of ISG should be admitted as a Full Member of ISG. Nevertheless, in light of comment letters received on the CFTC Proposal, we do not believe that an exchange trading security futures products must be a Full Member of ISG to satisfy the requirement that "procedures be in place for coordinated surveillance among the market on which the security futures product is traded, any market on which any security underlying the security futures product is traded, and other markets on which any related security is traded to detect manipulation and insider trading."<SUP> 120 </SUP> 
+
+In particular, the Commissions believe that exchanges and associations trading security futures products may also satisfy the CEA's and Exchange Act's coordinated surveillance requirement through Affiliate Membership in ISG, if the Affiliate Members trading security futures products also enter into supplemental agreements with other Affiliate Members trading security futures products and with Full Members to share the same information as Full Members of ISG currently share with each other.<SUP> 121 </SUP> The Commissions, however, believe that the current information sharing agreement among Affiliate Members and the agreement between Affiliate and Full Members (referred to in Appendix A as "Affiliate Agreement") is insufficient to satisfy the obligation of a market trading security futures products to coordinate surveillance with other markets trading security futures and with markets trading related products because of certain limitations on the information that must be shared.<SUP> 122 </SUP> The Commissions believe, however, that these limitations, discussed below, can be overcome if Affiliate Members trading security futures products and Full Members agree to share information beyond what is currently required by the ISG for Affiliate Members. 
+
+For example, ISG provides to Full Members market surveillance reports. It is unclear whether Full Members have access to market surveillance reports of Affiliate Members or whether Affiliate Members have access to such information from each other. The Commissions understand that this information is, as a practical matter, made available to all ISG members upon request, but believe that the obligation to provide such information upon request should be explicit. In addition, Full Members are required to share information and documents, upon request, about current and former members.<SUP> 123 </SUP> Affiliate Members, however, are only required to share with each other and with Full Members information and documents relating to current members.<SUP> 124 </SUP> Similarly, Full Members are only required to share with Affiliate Members information about current members, not about their former members.<SUP> 125 </SUP> The Commissions believe that information about former members is necessary under some circumstances to facilitate investigations by Full and Affiliate Members. 
+
+Moreover, the agreement among Full Members allows Full Members to request information and documents from each other relating to ongoing investigations.<SUP> 126 </SUP> This information can be very useful in assisting an exchange performing its own, related investigation. However, the agreement between Full Members and Affiliate Members (and among Affiliate Members) does not provide for the sharing of this type of information. It is the Commissions' understanding that these agreements did not provide for the sharing of investigatory information due to a perceived prohibition in the CEA that restricted the sharing of such information.<SUP> 127 </SUP> The CFTC, however, believes the CEA allows the sharing of investigatory documents and information, provided that the futures market providing such information adopts a rule allowing for the sharing of information pursuant to an information sharing arrangement.<SUP> 128 </SUP> Therefore, because there is no legal prohibition on sharing investigatory information, the Commissions believe that such information may be shared between Affiliate and Full Members and among Affiliate Members trading security futures products. Without the sharing of such investigatory information, investigations by an Affiliate Member into manipulation or trading abuses related to the trading of security futures could be hindered unnecessarily. In addition, a Full Member's inability to obtain such information or documents from an Affiliate Member could hinder the Full Member's investigation of manipulation or trading abuses in other securities that were related to manipulation or trading abuses in the trading of security futures on an Affiliate Member's market. 
+
+Finally, once information is requested, Affiliate Members are generally only required to use "best efforts" in accordance with their rules to obtain the information.<SUP> 129 </SUP> In addition, Affiliate Members only need to provide the information to Full Members to the extent that it is not inconsistent with its rules or with applicable law.<SUP> 130 </SUP> Similarly, Full Members are only required to use best efforts in accordance with their rules to obtain the requested information for Affiliate Members and to provide such information to the extent that it is not inconsistent with its rule or applicable law.<SUP> 131 </SUP> Such limitations are not included as part of the agreement among Full Members. The Commissions believe that any restrictions on the ability of Affiliate or Full Members to share information could hinder the ability of these members to coordinate surveillance.
+
+As discussed above, the Commissions believe that the limitations on an Affiliate Member's obligations to share information could be easily addressed through means other than becoming Full Members of ISG. For example, Affiliate Members trading security futures products and Full Members could enter into a supplementary agreement to share the information described above among each other despite the limitations in the current agreements.<SUP> 132 </SUP> If Full and Affiliate Members enter into this type of agreement, the Commissions believe that the markets would meet the statutory requirement for coordinated surveillance.
+
+The Commissions also believe that exchanges trading security futures products could satisfy the requirement to coordinate surveillance by entering into bilateral surveillance agreements with each exchange, association, or market on which any security underlying the security futures product or related security is traded to detect manipulation and insider trading. The Commissions, however, believe that such bilateral agreements would have to contain essentially the same information sharing obligations that Full Members of ISG currently have with respect to each other.<SUP> 133 </SUP>
+
+Accordingly, if a market trading security futures products becomes a Full Member of the ISG, becomes an Affiliate Member of the ISG and enters into a supplemental agreement to share the additional information described above with Full Members and other Affiliate Members trading security futures products, or enters into appropriate bilateral surveillance agreements to detect manipulation and insider trading with each exchange, association or market on which security futures products trade, and any market on which any security underlying the security futures product or related security is traded, the Commissions believe that the market would satisfy the requirements of Section 2(a)(1)(D)(i)(VIII) of the CEA and Section 6(h)(3)(I) of the Exchange Act.<SUP> 134 </SUP><h>2. Exchanges Trading Securities Other Than Security Futures </h>
+
+Sections 6(b)(1) and 15A(b)(2) of the Exchange Act require all national securities exchanges and national securities associations to enforce compliance by their members and persons associated with their members, with the provisions of the Exchange Act and the rules and regulations thereunder.<SUP> 135 </SUP> Securities exchanges' and associations' memberships in ISG currently enable them to satisfy this requirement with respect to enforcement of the proscriptions against insider trading and the anti-manipulation provisions of the federal securities laws.<SUP> 136 </SUP> Security futures products are surrogates for their underlying securities and, therefore, there is the potential that trading in this new product could be used to manipulate trading in the underlying security or in other related securities, such as options. Accordingly, the SEC believes that the introduction of security futures products means that, to satisfy their obligations under Sections 6 and 15A of the Exchange Act,<SUP> 137 </SUP> exchanges and associations that trade securities that are related to security futures must have the same ability to share information and to coordinate surveillance with markets trading such security futures products as they currently have through ISG with exchanges and associations trading other securities. For this reason, the SEC believes that the limitations described above in the current obligations of Affiliate Members to share information with Full Members would also unnecessarily hinder or constrain the ability of national securities exchanges and national securities associations to enforce compliance with the federal securities laws. 
+
+The SEC believes that exchanges and associations could address these limitations on the obligations of Affiliate Members to share information by, for example, entering into a supplementary agreement to share such information among Full and Affiliate Members despite the limitations in the current agreements. Alternatively, the SEC believes that exchanges or associations trading securities that are related to security futures traded by an exchange or association that is not a Full Member of ISG could satisfy the requirement to coordinate surveillance by entering into bilateral surveillance agreements with such exchange or association that is adequate to detect manipulation and insider trading. The Commissions, however, believe that such bilateral agreements would have to contain essentially the same information sharing obligations that Full Members of ISG currently have with respect to each other.<h>III. Paperwork Reduction Act </h>
+
+ CFTC: This rulemaking contains information collection requirements. As required by the Paperwork Reduction Act of 1995, 44 U.S.C. 3507(d), the CFTC submitted a copy of the proposed amendments to its rules to the Office of Management and Budget (OMB) for its review. 
+
+Collection of Information: Part 41, Relating to Security Futures Products, OMB Control Number 3038-0059.
+
+No comments were received in response to the CFTC's invitation in the proposed rules to comment on any paperwork burden associated with these regulations.<SUP> 138 </SUP>
+
+ SEC: Certain provisions of the new rule contain "collection of information requirements" within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<SUP> 139 </SUP> Accordingly, the Commission submitted the proposed rule to the Office of Management and Budget ("OMB") in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. OMB approved the new collection and assigned it OMB Control No. 3235-0555. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.
+
+In the Proposing Release, the Commissions solicited comments on these collection of information requirements. The Commissions received no comments that specifically addressed the PRA portion of the Proposing Release. Because the new rule is substantially similar to the proposed rule, the SEC continues to believe that the estimates published in the Proposing Release regarding the proposed collection of information burdens associated with the new rule are appropriate.<h>A. Summary of Collection of Information </h>
+
+As discussed above, the Exchange Act, as amended by the CFMA, provides that a national securities exchange or national securities association may trade security futures products only if the listing standards for such products conform with the requirements set forth in Section 6(h)(3) of the Exchange Act.<SUP> 140 </SUP> These listing standards must, among other things, require that: (1)trading in the security futures product not be readily susceptible to manipulation of the price of such security futures product, nor to causing or being used in the manipulation of the price of any underlying security, option on such security, or option on a group or index including such securities,<SUP> 141 </SUP> and (2) the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded.<SUP> 142 </SUP> To further these statutory mandates, the SEC is adopting SEC Rule 6h-1 to generally provide that: (1)the final settlement price for each cash-settled security futures product fairly reflect the opening price of the underlying security or securities; and (2)the trading in any security futures product halt when a regulatory halt is instituted with respect to a security or securities underlying the security futures product by the national securities exchange or national securities association listing the security. The SEC anticipates that national securities exchanges and national securities associations that wish to trade security futures products will file with the SEC proposed rule changes, pursuant to Section 19(b) of the Exchange Act,<SUP> 143 </SUP> to establish listing standards that are consistent with the requirements set forth in Section 6(h)(3) of the Exchange Act.<SUP> 144 </SUP><h>B. Proposed Use of Information </h>
+
+The SEC will review these proposed rule changes in the manner prescribed by Section 19(b) of the Exchange Act. In addition, the SEC will publish these proposed rule changes to afford the public an opportunity to comment on the listing standards adopted by national securities exchanges and national securities associations with respect to security futures products.<h>C. Respondents </h>
+
+The SEC estimates that there will be 17 respondents to the proposed rule: 9currently registered national securities exchanges, 1 national securities association (the NASD) that operates a securities market (Nasdaq), and an estimated 7 futures markets that are expected to register as Security Futures Product Exchanges.<h>D. Total Annual Reporting and Recordkeeping Burden </h>
+
+The SEC received no comments on its proposed estimates and has not revised them. The SEC estimates the paperwork burden for each respondent to comply with proposed SEC Rule 6h-1 will be 10 hours of legal work at $128/hour,<SUP> 145 </SUP> for a total cost of $1,280 per respondent. The SEC estimates that the total burden on all respondents will be 170 hours (10 hours/response x 17 respondents x 1 response/respondent), for a total cost of $21,760 ($1,280/response x 17 respondents x 1response/respondent). The SEC believes that these burdens will be incurred on a one-time basis and will not recur.<h>E. Record Retention Period </h>
+
+As set forth in SEC Rule17a-1,<SUP> 146 </SUP> a national securities exchange or national securities association must retain records of the collection of information for at least five years, the first two years in an easily accessible place. However, SEC Rule 17a-1 requires a national securities exchange registered under Section 6(g) of the Exchange Act to retain only those records relating to persons, accounts, agreements, contracts, and transactions involving security futures products.<SUP> 147 </SUP><h>F. Collection of Information Is Mandatory </h>
+
+This collection of information is mandatory for any national securities exchange or national securities association that elects to list and trade security futures products.<h>G. Confidentiality </h>
+
+Any information filed with the Commission will be made publicly available. Information in the files of national securities exchanges or national securities associations that elect to list and trade security futures products will be subject to Commission enforcement inquiries or investigations and trading reconstructions, as well as for inspections and examinations.<h>IV. Costs and Benefits of the Final Rule </h>
+
+ CFTC: Section 15 of the CEA requires the CFTC to consider the costs and benefits of its action before issuing a new regulation.<SUP> 148 </SUP> The CFTC understands that, by its terms, Section 15 does not require the CFTC to quantify the costs and benefits of a new regulation or to determine whether the benefits of the proposed regulation outweigh its costs. Nor does Section 15 require that each proposed rule be analyzed in isolation when that rule is a component of a larger package of rules or rule revisions. Rather, Section 15 simply requires the CFTC to "consider the costs and benefits" of its action. 
+
+Section 15 further specifies that costs and benefits shall be evaluated in light of five broad areas of market and public concern: protection of market participants and the public; efficiency, competitiveness, and financial integrity of futures markets; price discovery; sound risk management practices; and other public interest considerations. Accordingly, the CFTC could in its discretion give greater weight to any one of the five enumerated areas of concern and could in its discretion determine that, notwithstanding its costs, a particular rule was necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the Act. 
+
+The CFTC considered the costs and benefits of these rules in light of the specific areas of concern identified in Section 15,<SUP> 149 </SUP> and concluded that the rules should have no effect, from the standpoint of imposing costs or creating benefits, on the financial integrity or price discovery function of the futures and options markets or on the risk management practices of trading facilities or others. The rules also should have no material effect on the protection of market participants and the public and should not impact the efficiency and competition of the markets.
+
+The CFTC invited public comment on the costs and benefits of the proposed rules.<SUP> 150 </SUP> The CFTC received no comments. Accordingly, the CFTC has determined to adopt the rules discussed above.
+
+ SEC: The CFMA<SUP> 151 </SUP> authorizes the trading of futures on individual stocks and narrow-based security indexes ("security futures").<SUP> 152 </SUP> The CFMA provides, among other things, that the listing standards for security futures products must require that trading in security futures products not be readily susceptible to manipulation of the price of such security futures product, nor to causing or being used in the manipulation of the price of any underlying security, option on such security, or option on a group or index including such securities.<SUP> 153 </SUP> In addition, listing standards must require that the market on which the security futures product trades has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded.<SUP> 154 </SUP> 
+
+Accordingly, the SEC is adopting new SEC Rule 6h-1 under the Exchange Act generally to require that the final settlement price for each cash-settled security futures product fairly reflect the opening price of the underlying security or securities, and that trading in any security futures product halt when a regulatory halt is instituted with respect to a security or securities underlying the security futures product by the national securities exchange or national securities association listing the security.
+
+Specifically, SEC Rule 6h-1(a) defines the terms "opening price," "regular trading session," and "regulatory halt" generally as proposed.<SUP> 155 </SUP> However, the SEC has incorporated a provision into the definition of "opening price" to clarify that if a security is not listed on a national securities exchange or a national securities association, the opening price shall be the price at which a security opened for trading, or a price that fairly reflects the price at which a security opened for trading, on the primary market for the security. 
+
+Also like the proposed rule, adopted SEC Rule 6h-1(b)(1) requires that the final settlement price of a cash-settled security futures product must fairly reflect the opening price of the underlying security or securities.<SUP> 156 </SUP> However, if the opening price for one or more securities underlying a security futures product is not readily available,<SUP> 157 </SUP> SEC Rule 6h-1(b)(2) provides that the final settlement price of the security futures product shall fairly reflect the price of the underlying security or securities during its most recent regular trading session or the next available opening price of the underlying security or securities.<SUP> 158 </SUP> Furthermore, notwithstanding SEC Rule 6h-1(b)(1) or (b)(2), the SEC amended the proposed rule to add SEC Rule 6h-1(b)(3), which states that if a clearing agency to which a final settlement price of a security futures product is or would be reported determines, pursuant to its rules, that such final settlement price is not consistent with the protection of investors and the public interest, the clearing agency has the authority to determine, under its rules, a final settlement price for such security futures product. Under SEC Rule 6h-1(b)(3), the clearing agency must take into account such factors as fairness to buyers and sellers of the affected security futures product, the maintenance of a fair and orderly market in such security futures product, and consistency of interpretation and practice.
+
+With respect to regulatory halts for security futures products, the SEC is generally adopting the provision as proposed requiring that trading of a security futures product based on a single security be halted at all times that a regulatory halt has been instituted for the underlying security.<SUP> 159 </SUP> The trading of security futures product based on a narrow-based security index must be halted at all times that a regulatory halt has been instituted for one or more of the underlying securities that constitute 50 percent or more of the market capitalization of the narrow-based security index.<SUP> 160 </SUP>
+
+Finally, the SEC has expanded the exemption in SEC Rule 6h-1(d) to permit the SEC to grant a national securities exchange or national securities association an exemption from any provision of SEC Rule 6h-1 if the SEC determines that such an exemption is necessary or appropriate in the public interest and consistent with the protection of investors. The SEC has expanded the scope of the exemption to make it more consistent with its exemptive authority under Section 36 of the Exchange Act, which allows the SEC, by rule, regulation, or order to conditionally or unconditionally exempt any person, security, or transaction, or any classes thereof, from any rule or regulation under the Exchange Act, to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.<SUP> 161 </SUP><h>A. Comments </h>
+
+In the Proposing Release,<SUP> 162 </SUP> the SEC requested comments on all aspects of the costs and benefits of the adopted rule, including identification of additional costs and benefits of the changes. In addition, the SEC encouraged commenters to identify, discuss, analyze, and supply relevant data regarding the proposed rule. Specifically, the SEC requested data to quantify the costs and benefits of the proposed rule. The SEC requested estimates of these costs and benefits, as well as any costs and benefits not already described, which may result from the adoption of the proposed rule. Furthermore, the SEC requested comment on the estimate of the number of respondents that would be affected by proposed SEC Rule 6h-1 and the costs and benefits associated with complying with the proposed rule. The SEC specifically requested comments on the operational and maintenance costs associated with the proposal and whether these costs would be significant. Commenters were asked to provide analysis and empirical data to support their views on the costs and benefits associated with the proposal.
+
+Although no comments specifically addressed the Costs and Benefits analysis in the Proposing Release,<SUP> 163 </SUP> there were comments that may apply generally to the costs and benefits of the adopted rule. The SEC anticipates that the rule adopted today will generate the costs and benefits described below and has incorporated the general comments into the applicable discussion.<h>B. Benefits of SEC Rule 6h-1 under the Exchange Act </h>
+
+Adopted SEC Rule 6h-1(a) defines the terms "opening price," "regular trading session," and "regulatory halt." As a definitional provision, subparagraph (a) imposes no costs on the respondents. However, by defining the terms, the SEC believes that adopted SEC Rule 6h-1(a) should benefit respondents by providing legal certainty to respondents when complying with the rule. 
+
+One commenter stated that the definition of "opening price" failed to anticipate instances where the market trading a security underlying a security futures product may be a market other than a national securities exchange or national securities association, such as a foreign stock exchange.<SUP> 164 </SUP> Therefore, the SEC has revised the definition to provide that, if the underlying security is not listed on a national securities exchange or a national securities association, the opening price is the price at which the security opened for trading, or a price that fairly reflects the price at which a security opened for trading, on the primary market for the security. The SEC believes that the additional language should provide clear guidance and clarification of the term "opening price" in those instances where the security futures products may be based on securities that are not listed in the United States. To the extent that the underlying security is listed on a national securities exchange or national securities association, the SEC believes that it is appropriate to use the opening price from the listing market. Despite the commenter's view that the listing market may not be the primary trading venue for a security and, thus, not the most liquid market,<SUP> 165 </SUP> the SEC believes that the listing market is a significant source of liquidity for a security that underlies a security futures product and that a rule requiring, for example, the calculation of trading volumes to determine the appropriate primary market from which to derive an opening price for a security listed in the U.S. would impose unnecessary burdens without significantly furthering anti-manipulation goals. 
+
+Further, this commenter stated that the proposed definition of the term "regulatory halt," which is being adopted as proposed, also does not address situations where the listing market is not the primary trading venue for the underlying security or where the listing market is in a foreign country.<SUP> 166 </SUP> The SEC notes that the rule adopted today is not intended to limit the ability of national securities exchanges and national securities associations to impose a trading halt in other circumstances, such as when the underlying security is listed on a foreign market that has halted trading. The rule provides national securities exchanges and national securities associations with the flexibility to submit proposed rule changes that address situations not covered by the rule being adopted today.<SUP> 167 </SUP> However, in those instances where the underlying security is listed in the United States, the SEC believes that by specifically designating the listing market as the appropriate venue, the rule allows for ease of application and clear guidance for respondents to administer and implement the rule. For example, the SEC believes that, due to the contractual relationship between the issuer and the listing market, the listing market has a direct and ongoing relationship with the issuer and, therefore, is in the best position to be informed promptly by the issuer that pending news would require the imposition of a trading halt. 
+
+Adopted SEC Rule 6h-1(b)(1) requires that the final settlement price of a cash-settled security futures product must fairly reflect the opening price of the underlying securities or securities. Several commenters generally supported this aspect of the proposal.<SUP> 168 </SUP> The SEC believes that the provision for cash-settled security futures products under adopted SEC Rule 6h-1(b)(1) is necessary to minimize opportunities for intermarket manipulations and to promote the fair and orderly operation of the securities markets. In particular, opening-price settlement procedures appear to be necessary to satisfy Section 6(h)(3)(H) of the Exchange Act<SUP> 169 </SUP> that listing standards for security futures products must require that trading in a security futures product not be readily susceptible to manipulation of the price of such product, nor to causing or being used in the manipulation of the price of any underlying security, option on such security, or option on a group or index including such securities. 
+
+The SEC believes that SEC Rule 6h-1(b)(1) should facilitate the ability of the securities markets to handle expiration-related unwinding programs and mitigate the liquidity strains that had previously been experienced in the securities markets on expirations for stock index futures and options. The SEC further believes that the liquidity constraints associated with expiration-related buy or sell programs at the close on expiration Fridays aggravated ongoing market swings during an expiration and provided opportunities for entities to anticipate these pressures and enter orders as part of manipulative or abusive trading practices designed to artificially drive up or down share prices.<SUP> 170 </SUP>
+
+The SEC notes that the rule adopted today provides national securities exchanges and national securities associations with flexibility to implement the requirements of the Exchange Act. The SEC notes that the rule adopted today does not mandate that a particular methodology be used to derive an opening price. A national securities exchange or national securities association would retain the flexibility to establish the procedures to determine the opening price, which will be used to determine the settlement price of security futures products. The SEC believes that this flexibility should provide respondents with the ability to meet the needs of the market place, while satisfying their obligations under the Exchange Act.
+
+In those instances where the opening price was not readily available, the SEC proposed that the final settlement price of a cash-settled security futures product overlying that security must reflect a price of the underlying security taken from its most recent regular trading session. The proposed rule also provided that national securities exchanges and national securities associations could request exemptions from the settlement price provisions from the SEC on a case-by-case basis. 
+
+Although one commenter supported this aspect of the proposal,<SUP> 171 </SUP> four commenters generally opposed the SEC's exclusive use of a "look back" settlement procedure for security futures products when the opening prices for the underlying securities are unavailable and, instead, recommended using the next day's opening prices.<SUP> 172 </SUP> These commenters noted that the existing cash settlement procedures for stock index options and stock index futures allow "next opening" prices.<SUP> 173 </SUP> Further, one commenter, a clearing agency, urged the SEC not to require national securities exchanges and national securities associations to adopt rules addressing the determination of security futures final settlement prices when opening prices are not readily available because of potential conflicts with clearing agency rules.<SUP> 174 </SUP> Another commenter believed that the establishment of consistent and commercially appropriate alternative pricing conventions should be resolved by a collaboration among the exchanges that design the product and the clearinghouse, with appropriate consultation with their members and participants.<SUP> 175 </SUP> Furthermore, several commenters argued that under the SEC's proposed rule hedges could be significantly disrupted.<SUP> 176 </SUP>
+
+In response to the commenters, the final rule adopted by the SEC allows either look-back or look forward opening prices to be used as alternate final settlement prices when an opening price is not readily available. Specifically, adopted SEC Rule 6h-1(b)(2) requires that, if an opening price for one or more securities underlying a security futures product is not readily available, the final settlement price of the security futures product shall fairly reflect (i) the price of the underlying security or securities during the most recent regular trading session for such security or securities, or (ii) the next available opening price of the underlying security or securities. 
+
+As discussed earlier, the SEC agrees with the commenters' view that the proposed rule could have resulted in an unwanted and unwarranted de-linking of hedging positions if it mandated look-back pricing procedures for security futures products. The SEC believes that the adopted rule will provide national securities exchanges and national securities associations with some discretion to implement this general rule without dictating how the settlement price is derived for a security futures product. The SEC further notes that the final rule adopted today is consistent with OCC rules that allow for look-back pricing in certain circumstances. 
+
+In addition, one commenter indicated that problems could arise if an exchange or association that trades a security futures product and the registered clearing agency through which it clears such product had different rules for the determination of an alternate settlement price.<SUP> 177 </SUP> For example, a national securities exchange or national securities association wishing to use OCC clearing services for security futures must enter into a clearing agreement with OCC in which both parties agree that security futures will be cleared by OCC in accordance with OCC's by-laws and rules, which currently give OCC the final authority to determine final settlement prices in certain circumstances.<SUP> 178 </SUP> This commenter recommended that the clearing agency be permitted, under its rules, to determine the final settlement price of the security futures product.<SUP> 179 </SUP> In light of the comments, the final rule has been amended. Pursuant to adopted SEC Rule 6h-1(b)(3), if a clearing agency determines, pursuant to its rules, that such final settlement price is not consistent with the protection of investors and the public interest, taking into account such factors as fairness to buyers and sellers of the affected security futures product, the maintenance of a fair and orderly market in such security futures product, and consistency of interpretation and practice, the clearing agency has the authority to determine, under its rules, a final settlement price for such security futures product.
+
+The SEC believes that in the absence of such a provision, confusion could arise if securities underlying a security futures product failed to trade on an expiration Friday and the market trading the security futures product and its clearing agency had different rules determining a final settlement price. Moreover, this provision should make security futures products that trade on different markets more fungible, because a single clearing agency will be able to harmonize procedures across different markets for determining alternate settlement prices.
+
+In addition, adopted SEC Rule 6h-1(c)(1) and (c)(2) requires the trading on security futures products based on a single security to be halted at all times that a regulatory halt has been instituted for the underlying security or, if based on a narrow-based security index, to be halted at all times that a regulatory halt has been instituted for one or more underlying securities that constitute 50 percent or more of the market capitalization of the narrow-based security index. The SEC believes that the adopted rule should help preserve the investor protection and market integrity goals of regulatory halt procedures in the securities markets. The SEC believes that the close relationship between the underlying security or securities and the pricing of the overlying security futures product generally justifies a regulatory halt of the security futures product at all times that a regulatory halt has been instituted for the underlying security or securities.<SUP> 180 </SUP>
+
+With respect to regulatory halts due to pending news, the SEC does not agree with two commenters who questioned the absolute requirement that trading in a security futures product must be halted during a news pending halt in the underlying security.<SUP> 181 </SUP> These commenters recommended providing exchanges with discretion to impose a trading halt when there is a news pending trading halt in the underlying security.<SUP> 182 </SUP> Specifically, one commenter believed that this discretion is necessary to allow trading in a security futures product when the underlying stock is halted in certain circumstances, such as when there is a need to adjust positions before an expiration.<SUP> 183 </SUP> Given the rarity of such situations and that the significant underpinning for imposing news pending regulatory halts is to promote investor protection and fair and orderly markets, the SEC believes that, to the extent that there is pending news that could impact an investor's decision and to the extent that single-stock futures are surrogates for the underlying security, there is a need for a provision requiring that trading in a security futures product be halted at all times that a regulatory halt has been instituted for the underlying security or securities, with certain limits for narrow-based security index futures. SEC Rule 6h-1(c)(1) and (2), which concern regulatory halts, will benefit current and potential shareholders by providing an opportunity for material information about the underlying security or securities to be disseminated to the public. Since pending news may have a significant effect on trading, the SEC believes that all investors should have an opportunity to learn of and react to material information in order to make informed investment judgments.<SUP> 184 </SUP> Accordingly, news pending regulatory halts should foster public confidence in the market and promote the integrity of the market place. Furthermore, the SEC believes that requiring an exchange or association to halt trading on a security futures product at all times that a regulatory halt has been instituted for the underlying security or securities should contribute to the maintenance of an efficient market.
+
+In addition, the SEC believes that regulatory halts in the trading of security futures products due to the operation of circuit breakers should further protect investors and the markets by mitigating potential systemic stress during a historic market decline and allow for the reestablishment of an equilibrium between buying and selling interests in an orderly fashion. The SEC generally believes that pre-determined, coordinated, cross-market operations of circuit breakers would effectively address market declines that threaten to result in ad hoc and potentially destabilizing market closings. 
+
+The SEC does not agree with one commenter's recommendation that the SEC should provide exchanges with latitude in implementing coordinated circuit breaker procedures and flexibility in imposing this requirement on security futures products where the principal trading venues for the underlying securities (or for a subset of securities in the case of narrow-based indexes) are in foreign markets.<SUP> 185 </SUP> The SEC believes that it is important to require the application of cross-market circuit breaker regulatory halt procedures to security futures products and that such a requirement is necessary to satisfy the requirements of Section 6(h)(3)(K) of the Exchange Act.<SUP> 186 </SUP> If cross-market circuit breaker regulatory halt procedures were not applied to the security futures products, the lack of such procedures would undermine the use of trading halts in the underlying securities. Furthermore, national securities exchanges and national securities associations do have the flexibility under the rule to impose trading halt requirements where the underlying security is listed solely on a foreign market.
+
+In addition, to be effective, circuit breakers have to be coordinated across stock, stock index futures, and options markets in order to prevent intermarket problems of the kind experienced in October 1987.<SUP> 187 </SUP> Since the markets currently coordinate regulatory halts between the listing market for the underlying security and other markets that trade the underlying security or any related security in order to promote investor protection and fair and orderly markets, SEC Rule 6h-1(c)(1) and (2) should help ensure such coordination and effectiveness through the use of regulatory halts in the markets trading security futures products.
+
+Although the SEC understands the concern raised by one commenter regarding continued trading of a security futures product when the underlying security has halted trading if the listing market is not the primary market,<SUP> 188 </SUP> the SEC believes that, due to the contractual relationship between the issuer and the listing market, the listing market has a direct and ongoing relationship with the issuer and is, consequently, in the best position to be informed promptly by the issuer that pending news would require the imposition of a trading halt. The SEC also believes that designating the listing market as the venue for the purpose of applying the rule provides for ease of use and application and prevents national securities exchanges or national securities associations from having to determine the primary market for each underlying security. Further, the SEC believes that the listing market should represent sufficient liquidity that imposing a trading halt on a security futures product when the listing market for the underlying security imposes a trading halt furthers the purposes of Section 6(h)(3)(K) of the Exchange Act.<SUP> 189 </SUP>
+
+With respect to narrow-based security indexes, the SEC believes that trading should be halted when a trading halt has been instituted for a sufficiently large portion of an index in order to prevent continued trading of the security futures product from becoming a means to improperly circumvent regulatory trading halts in the underlying securities. If trading in only one component security is halted, continued trading in a security future based on an index in which such a security represents a substantial portion of the index value could also undermine the trading halt in the underlying security. The SEC believes that trading halt procedures also would not be coordinated, as contemplated by Section 6(h)(3)(K) of the Exchange Act,<SUP> 190 </SUP> if the security futures product based on an index continued to trade while investors were precluded from trading some or all of the underlying securities. Moreover, the SEC believes that continued trading in the security futures product under these circumstances could undercut key provisions in the securities laws designed to protect investors and promote the fair and orderly operation of the markets. 
+
+Accordingly, the SEC believes that a general practice whereby trading is halted for the security futures product when investors lack access to current pricing information in the primary market for the underlying security should contribute to the maintenance of fair and orderly markets. Moreover, the SEC believes that this coordination of trading halts by SEC Rule 6h-1(c)(1) and (2) would generally benefit investors and the market by providing fewer opportunities for abuse and manipulation. SEC Rule 6h-1(c)(1) and (2) also would further increase investor confidence in the stability of the markets by assuring investors and the public that the national securities exchanges and national securities associations trading security futures product are reasonably equipped to handle market demand and pending material news. 
+
+Furthermore, in the final rule adopted by the SEC, the rule permits the SEC to grant an exemption with respect to any provision of SEC Rule 6h-1 based on its existing exemptive authority pursuant to Section 36 of the Exchange Act. Any exemption would require a finding that the action is necessary or appropriate in the public interest and consistent with the protection of investors. The SEC believes that the exemption provided for in SEC Rule 6h-1(d)<SUP> 191 </SUP> would benefit national securities exchanges and national securities associations by providing them with flexibility in responding to changing market conditions, as well as provide the SEC with continued oversight over the respondents by granting an exemption when it is necessary or appropriate in the public interest and is consistent with the protection of investors.<h>C. Costs of SEC Rule 6h-1 under the Exchange Act </h>
+
+The SEC estimates that there would be 17 respondents to the rule: 9currently registered national securities exchanges, 1 national securities association (the NASD) that operates a securities market (Nasdaq), and an estimated 7 futures markets that are expected to register as Security Futures Product Exchanges.
+
+National securities exchanges and national securities associations may file proposed rule changes pursuant to Section 19(b) of the Exchange Act<SUP> 192 </SUP> to implement SEC Rule 6h-1.<SUP> 193 </SUP> However, the SEC notes that even in the absence of SEC Rule 6h-1 each of the respondents would have to file one or more proposed rule changes to adopt listing standards for security futures products to trade security futures products pursuant to the Exchange Act, as amended by the CFMA. 
+
+Further, under Rule17a-1 of the Exchange Act,<SUP> 194 </SUP> a national securities exchange or national securities association is required to retain records of the collection of information for at least 5 years, with the first 2 years in an easily accessible place. However, Rule 17a-1 requires a Security Futures Product Exchange to retain only those records relating to persons, accounts, agreements, contracts, and transactions involving security futures products.<SUP> 195 </SUP> The SEC believes that respondents would not incur any additional capital or start-up costs beyond the paperwork costs, nor any additional operational or maintenance costs, to comply with the collection of information requirements under SEC Rule 6h-1.<SUP> 196 </SUP> As discussed above, the paperwork burden for each respondent to comply with the new rule will be $1,280, resulting in a total cost for the 17 respondents of $21,760.
+
+As mentioned earlier, adopted SEC Rule 6h-1(a) defines the terms "opening price," "regular trading session," and "regulatory halt." The definitions of the relevant terms impose no costs on the respondents. 
+
+SEC Rule 6h-1 also requires respondents that choose to trade security futures products to develop a system for determining the settlement price of a cash-settled security futures product to fairly reflect the opening price of the underlying security. However, because respondents to the adopted rule currently have systems in place to determine opening prices, the SEC believes that respondents complying with the settlement provisions of SEC Rule 6h-1 would only incur minimal operational or maintenance costs to reconfigure their current settlement procedures to fairly reflect the opening price of the underlying security. 
+
+In addition, in order to comply with SEC Rule 6h-1(c)(1) and (2), the SEC believes that national securities exchanges and national securities associations may incur costs in developing or adapting existing systems to monitor when listing markets have instituted a regulatory halt for an underlying security of the security futures product. Similarly, costs may be incurred for system changes needed to calculate the market capitalization of an underlying narrow-based security index and when one or more of the underlying securities that constitute 50 percent or more of the market capitalization of a narrow-based security index are subject to a regulatory halt. The commenters did not provide the SEC with actual estimates of the costs they would incur to institute such a system. To the extent that systems need to be developed to determine the market capitalization of narrow-based security indexes to trigger a regulatory trading halt, the SEC does not believe that the additional costs that may be incurred will be substantial. Similarly, with respect to the costs in developing or adapting existing systems to monitor when listing markets institute regulatory halts for the security or securities, as applicable, underlying the security futures product, the SEC believes that these costs should not be substantial in light of the fact that the majority of affected markets already have systems in place to monitor regulatory halts. For instance, the SEC notes that 9 of the estimated 17 respondents are already required to provide notification of regulatory halts since they are participants of the Consolidated Tape Association Plan ("CTA Plan")<SUP> 197 </SUP> and thus, should already have systems in place to monitor each other of regulatory halts being instituted. The SEC also believes that each of the remaining respondents will have to develop a similar system to monitor when regulatory halts have been instituted for the underlying security. However, any costs that will be incurred to establish such a system arise from the requirements of the Exchange Act, as amended by the CFMA, to coordinate trading halts.<SUP> 198 </SUP> The rule adopted today merely clarifies the requirement imposed by the Exchange Act, as amended by the CFMA. 
+
+One commenter believed that the requirement to halt trading in single-stock futures when trading in the underlying security is halted was overly broad to satisfy the requirement that procedures be put in place to coordinate trading halts.<SUP> 199 </SUP> This commenter believed that this was overly broad and burdensome in its application to retail investors for whom single-stock futures might serve as the only available means for managing risk and that the SEC should allow trading halt sessions during which investors with risk exposure to an underlying equity, which has been halted, might have the opportunity to enter into single-stock futures transactions with dealers. 
+
+In response, the SEC notes that the purpose of trading halts is to ensure that there is an adequate opportunity for information about a security to be disseminated to the public. The SEC does not believe that it would be consistent with the protection of investors to permit investors, including retail investors, to trade a surrogate for a security when trading is halted in that security. By adopting this rule, the SEC seeks to maintain and preserve the integrity of this mechanism so that the trading of security futures products will not be used as a tool to circumvent the institution of regulatory halts. Moreover, the SEC believes that the purpose of halting trading in the underlying security would be frustrated if market participants could circumvent this halt by trading during the halt in the related security futures product.<SUP> 200 </SUP>
+
+Another commenter believed that the SEC's proposal to require a trading halt in a narrow-based security index future when a security or securities that constitute 30 percent or more of the market capitalization of the index are subject to a trading halt was too low a threshold to justify the disruption that it would inflict upon the futures market.<SUP> 201 </SUP> Another commenter recommended providing exchanges with greater discretion to decide whether to impose or maintain a trading halt.<SUP> 202 </SUP> This commenter also believed that because not all indexes underlying security futures products may be capitalization weighted, it may be difficult for exchanges to determine on a real-time basis when securities comprising 30 percent of the market capitalization of a price-weighted or equal dollar weighted index are halted. Similarly, one of the commenters expressed a concern that, with respect to corporate news events, it may be operationally difficult to determine on a real-time basis whether the threshold of market capitalization has been crossed.<SUP> 203 </SUP> 
+
+In response to the commenter's statement that the 30 percent market capitalization test was too low and after consideration of the potential effects of the proposed 30 percent trading halt threshold, the adopted rule requires trading to be halted in a narrow-based security index futures product when component securities representing 50 percent or more of the market capitalization of that narrow-based security index are subject to a regulatory halt.<SUP> 204 </SUP> The SEC believes that one of the major economic benefits that market participants derive from the trading of futures on narrow-based security indexes is the ability to hedge positions containing the securities underlying the indexes, thereby reducing the risk of holding positions in those securities. For traders using a narrow-based security index future to hedge a position containing the component index securities, trading halts in certain of those component securities necessarily will introduce basis risk because the one-to-one relationship between the cash portfolio of securities and the narrow-based index future is disrupted. 
+
+The SEC believes that the proposed 30 percent threshold is too low because it could unnecessarily disrupt hedge positions involving futures on narrow-based security indexes that may still be substantially performing their intended risk-shifting function when trading is halted in a limited number of the index's component securities. The SEC believes that a 50 percent threshold would better serve the requirement's intended purpose. In adopting a 50 percent threshold, the SEC sought to balance the utility of maintaining effective hedge positions with concerns about circumventing the coordination requirement by allowing trading in narrow-based index futures to continue when trading in a limited number of the underlying securities is halted. The SEC believes that while it is not possible to eliminate completely the risk involved in hedging securities with a future on a narrow-based security index when trading halts are instituted for certain of those underlying securities, the 50 percent threshold reduces such risk. Therefore, the SEC is adopting a 50 percent threshold because it appears to appropriately balance the goals of hedging utility with prevention of improperly circumventing regulatory halts in the underlying securities. With respect to the commenters' concern regarding the potential difficulty in calculating the market capitalization of an index, especially for price-weighted or equal dollar weighted indexes, for purposes of instituting the regulatory halt, the SEC notes that selecting market capitalization as the method for calculating the weight of the index is similar to an existing standard used to calculate trigger points for circuit breaker operations.<SUP> 205 </SUP> Consequently, the SEC chose to apply a similar method in implementing regulatory halts to narrow-based security index futures product. Furthermore, in specifying market capitalization as the method for weighing an index, the rule provides clarity and uniformity for all respondents to utilize in implementing regulatory halts in security futures products based on narrow-based security indexes. If the rule allowed for different methods of weighing an index for purposes of imposing a regulatory halt in the trading of a security futures product, the SEC believes that the trading of security futures products may be more susceptible to becoming a means of circumventing regulatory halts in the underlying securities.<h>V. Consideration of the Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation </h>
+
+ SEC: Section 3(f) of the Exchange Act<SUP> 206 </SUP> requires the SEC, whenever it is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. In addition, Section 23(a)(2) of the Exchange Act<SUP> 207 </SUP> requires the SEC, when promulgating rules under the Exchange Act, to consider the impact any such rules would have on competition. Section 23(a)(2) further provides that the SEC may not adopt a rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. In the Proposing Release, the SEC requested comment on these issues.<SUP> 208 </SUP><h>A. Effects on Competition1. Settlement Procedures for Cash-Settled Security Futures Products </h><h>1. Settlement Procedures for Cash-Settled Security Futures Products </h>
+
+SEC Rule 6h-1 provides that the final settlement price for each cash-settled security futures product fairly reflect the opening price of the underlying security or securities. In the event that the opening price of an underlying security is not readily available, SEC Rule 6h-1 permits a national securities exchange or national securities association that lists and trades an overlying cash-settled security futures product to use look-back or next opening pricing procedures to derive a final settlement price for the security futures product. However, if a clearing agency determines, pursuant to its rules, that such final settlement price is not consistent with the protection of investors and the public interest, taking into account such factors as fairness to buyers and sellers of the affected security futures product, the maintenance of a fair and orderly market in such security futures product, and consistency of interpretation and practice, the clearing agency has the authority to determine, under its rules, a final settlement price for such security futures product. 
+
+The SEC does not believe that these provisions will impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. The rule adopted today codifies what is general industry practice for other cash-settled derivative products. Thus, even in the absence of the rule, it is likely that the markets would have opted for opening-price rather than closing-price procedures for security futures products. In addition, under the final rule, the market listing the security futures product may use look-back or next opening prices in instances where the opening price of an underlying security is not readily available. The SEC believes that this flexibility will assist national securities exchanges and national securities associations in responding to market conditions when creating security futures products. Finally, the provision that allows a clearing agency to determine a final settlement price in certain instances will remove an obstacle to the fungibility of security futures products, which may in time lead to the same security futures product being multiply traded on more than one national securities exchange or national securities association. The SEC believes that the trading of security futures products on multiple markets promote competition. 
+
+The Commissions received one comment on the proposed settlement procedures that briefly addressed competitive issues. This commenter stated that exchange-listed security futures products "will be subject to intense competition" and urged the Commissions to avoid rulemaking that would lead to the sub-optimal design of security futures products and thereby "unfairly tilt the competitive landscape."<SUP> 209 </SUP> In light of the revisions made to the rule at the suggestion of the various commenters, the SEC believes that the rule will further the anti-manipulation principles of Section 6(h)(3)(H) of the Exchange Act<SUP> 210 </SUP> while giving the markets flexibility to determine the characteristics of the products that they wish to trade. In addition, the SEC believes that the final rule promotes competition by providing national securities exchanges and national securities associations with the ability to structure their security futures products so as to respond to competitive forces in the marketplace.<h>2. Trading Halt Provisions </h>
+
+The Commissions received two comments that address the competitive aspects of the trading halt provisions of the proposed rule. One commenter stated that security futures product "lookalikes" can trade in the unregulated upstairs market and in foreign jurisdictions; to the extent that these other trading venues do not coordinate their trading halts, "there is a potential competitive issue."<SUP> 211 </SUP> Likewise, the second commenter stated that sophisticated investors could create a synthetic future in a halted stock.<SUP> 212 </SUP> 
+
+The SEC does not believe that the trading halt provisions will impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. These provisions do restrict competition, in the sense that they restrict the freedom and ability to trade a security futures product whenever trading is halted in the underlying security or securities. The SEC believes, however, that such a requirement is necessary and appropriate to further the purposes of the Exchange Act, which require that listing standards for security futures products must include procedures to coordinate trading halts between the market that trades the security futures product, any market that trades any underlying security, and other markets on which any related security is traded. Specifically, in the absence of these mandatory halts for the security futures product, the purpose of declaring the halt in the underlying security or securities would be frustrated, because the market for the overlying security futures product could serve as a proxy for the underlying market. 
+
+Further, the SEC believes that trading halts promote fair competition by providing an adequate opportunity for information about a security to be disseminated to the public. The SEC does not believe that it would be consistent with the protection of investors, particularly retail investors, to permit trading in a surrogate for a security when trading is halted in that security. Thus, the SEC believes it is essential, to ensure fair and orderly markets, to prevent a national securities exchange or national securities association from becoming a proxy market by trading an overlying security futures product when trading is halted in an underlying security. Furthermore, any potential restraint on competition caused by the rule's trading halt provisions must be weighed against the requirement that listing standards, pursuant to Section 6(h)(3)(K) of the Exchange Act,<SUP> 213 </SUP> include procedures to coordinate trading halts with the market that trades the underlying security.<h>3. Conclusion </h>
+
+The SEC finds that SEC Rule 6h-1 will promote competition and will not impose any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.<h>B. Effects on Efficiency and Capital Formation1. Settlement Procedures for Cash-Settled Security Futures Products </h><h>1. Settlement Procedures for Cash-Settled Security Futures Products </h>
+
+The SEC believes that the settlement provisions of SEC Rule 6h-1 will improve efficiency and capital formation. Although no commenters addressed the efficiency and capital formation aspects of the proposed rule directly, some of the commenters<SUP> 214 </SUP> noted that the proposed rule could have significant adverse monetary consequences and, by implication, impact efficiency and capital formation. Under the proposed rule, a security futures product would have been required to use look back prices in the event that the opening price of the underlying security or securities were not readily available. These commenters noted that situations could arise where, due to some disruption to the markets, a hedge consisting of a security futures product and another security was "mismatched." This unhedged exposure could result in significant market losses. The final rule reduces the possibility of such losses - and, thus, improves efficiency and capital formation - by allowing security futures products to settle based on next opening prices if an opening price for one or more security futures products is not readily available and by allowing a registered clearing agency, in certain circumstances, to harmonize inconsistent settlement practices.<h>2. Trading Halt Provisions </h>
+
+The Commissions received no comments directly addressing efficiency and capital formation aspects of the trading halt provisions of SEC Rule 6h-1. 
+
+Regulatory trading halts provide an opportunity for investors to learn of, and react to, material information to make informed investment judgments. In addition, they mitigate potential systematic stress during severe market declines and allow for the reestablishment of an equilibrium between buying and selling interests in an orderly fashion. Accordingly, the SEC believes that the trading halt provisions of SEC Rule 6h-1, by requiring national securities exchanges and national securities associations to halt trading in security futures products when trading is halted in the underlying security or securities, will ultimately improve efficiency and capital formation by creating a more fair and orderly marketplace.<h>VI. Final Regulatory Flexibility Act </h>
+
+ CFTC: The Regulatory Flexibility Act ("RFA") requires federal agencies, in promulgating rules, to consider the impact of those rules on small entities.<SUP> 215 </SUP> The rules adopted herein would affect designated contract markets, registered derivatives transaction execution facilities and derivatives clearing organizations. The CFTC has previously established certain definitions of "small entities" to be used in evaluating the impact of its rules on small entities in accordance with the RFA. In its previous determinations, the CFTC concluded that contract markets are not small entities for the purpose of the RFA.<SUP> 216 </SUP> The CFTC recently determined that registered derivatives transaction execution facilities and derivatives clearing organizations are not small entities for purposes of the RFA.<SUP> 217 </SUP> The CFTC invited the public to comment on the Chairman's certification that these rules would not have a significant economic impact on a substantial number of small entities.<SUP> 218 </SUP> The CFTC received no comments on the certification.
+
+ SEC: Pursuant to Section 605(b) of the Regulatory Flexibility Act,<SUP> 219 </SUP> the SEC certified that the adopted rule would not have a significant economic impact on a substantial number of small entities. This certification, including the reasons therefore, was attached to the Proposing Release No. 34-44743 (August 24, 2001) as Appendix A. The SEC solicited comments concerning the impact on small entities and the Regulatory Flexibility Act certification, but received no comments.<h>VII. Statutory Basis and Text of Rule </h>
+
+<END MAIN TEXT>
+
+1 Rule 41.1(j) - (l), 17 CFR 41.1, hereinafter referred to as CFTC Rule 41.1; 41.25(a)(2), 17 CFR 41.25(a)(2), hereinafter referred to as CFTC Rule 41.25(a)(2); 41.25(b), 17 CFR 41.25(b), hereinafter referred to as CFTC Rule 41.25(b); and 41.25(d), 17 CFR 41.25(d), hereinafter referred to as CFTC Rule 41.25(d).
+
+2 Rule 6h-1, 17 CFR 240.6h-1, hereinafter referred to as SEC Rule 6h-1.
+
+3 Pub. L. No. 106-554, Appendix E, 114 Stat. 2763.
+
+4 After December 21, 2003, the Commissions may jointly determine to permit trading of puts, calls, straddles, options, or privileges on security futures (along with security futures, collectively referred to as "security futures products"). See Section 2(a)(1)(D)(iii) of the CEA, 7 U.S.C. 2(a)(1)(D)(iii); Section 6(h)(6) of the Exchange Act, 15 U.S.C. 78f(h)(6).
+
+5 See Section 3(a)(10) of the Exchange Act, 15 U.S.C. 78c(a)(10).
+
+6 See Section 2(a)(1) of the Securities Act of 1933, 15 U.S.C. 77b(a)(1).
+
+7 See Section 2(a)(36) of the Investment Company Act of 1940, 15 U.S.C. 80a-2(a)(36).
+
+8 See Section 202(a)(18) of the Investment Advisers Act of 1940, 15 U.S.C. 80b-2(a)(18).
+
+9 See Section 1a(31) of the CEA, 7 U.S.C. 1a(31).
+
+10 Section 6(g) of the Exchange Act, 15 U.S.C. 78f(g), allows a designated contract market under Section 5 of the CEA, 7 U.S.C. 7, or a registered derivatives transaction execution facility under Section 5a of the CEA, 7 U.S.C. 7a, to register as a national securities exchange solely for the purpose of trading security futures products ("Security Futures Product Exchange"). See Securities Exchange Act Release No. 44692 (August 13, 2001), 66 FR 43721 (August 20, 2001) (adopting, in part, requirements for designated contract markets and registered derivatives transaction execution facilities to register as national securities exchanges). By definition, the phrase "national securities exchange" encompasses Security Futures Product Exchanges. For simplicity, the text of this release refers to national securities exchanges and national securities associations. The CFTC's rules in Section VII of this release, however, by their terms, apply to designated contract markets and registered derivatives transaction execution facilities.
+
+11 15 U.S.C. 78 o -3(a).
+
+12 15 U.S.C. 78f(h)(2).
+
+13 15 U.S.C. 78s(b).
+
+14 7 U.S.C. 2(a)(1)(D)(i).
+
+15 15 U.S.C. 78f(h)(3).
+
+16 See Section 2(a)(1)(D)(i)(VII) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(VII); Section 6(h)(3)(H) of the Exchange Act, 15 U.S.C. 78f(h)(3)(H).
+
+17 See Section 2(a)(1)(D)(i)(X) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(X); Section 6(h)(3)(K) of the Exchange Act, 15 U.S.C. 78f(h)(3)(K). Before a national securities exchange or national securities association lists or trades security futures products, it is required to file, pursuant to Section 19(b) of the Exchange Act, 15 U.S.C. 78s(b), a proposed rule change with the SEC establishing listing standards that comply with Section 6(h)(3) of the Exchange Act, 15 U.S.C. 78f(h)(3). Generally, a national securities exchange registered under Section 6(a) of the Exchange Act, 15 U.S.C. 78f(a), or a national securities association registered under Section 15A(a) of the Exchange Act, 15 U.S.C. 78 o -3(a), must file proposed rule changes with the SEC pursuant to Section 19(b)(1) of the Exchange Act, 15 U.S.C. 78s(b)(1), for notice, comment, and SEC approval, prior to implementation, unless the rule is otherwise permitted to become effective pursuant to Section 19(b)(3) of the Exchange Act, 15 U.S.C. 78s(b)(3). A Security Futures Product Exchange or a national securities association registered under Section 15A(k) of the Exchange Act, 15 U.S.C. 78 o -3(k), must generally submit, pursuant to Section 19(b)(7) of the Exchange Act, 15 U.S.C. 78s(b)(7), proposed rule changes relating to certain enumerated matters, including listing standards. See 17 CFR 240.19b-7.
+
+18 See Securities Exchange Act Release No. 44743 (August 24, 2001), 66 FR 45904 (August 30, 2001) ("Proposing Release").
+
+19 See letters to Jean A. Webb, Secretary, CFTC, and Jonathan G. Katz, Secretary, SEC, from, or on behalf of: Joanne Moffic-Silver, General Counsel, Chicago Board Options Exchange, dated October 1, 2001 ("CBOE Letter"); David J. Vitale, President and Chief Executive Officer, Chicago Board of Trade, dated October 1, 2001 ("CBOT Letter"); James J. McNulty, President and Chief Executive Officer, Chicago Mercantile Exchange, Inc., dated October 1, 2001 ("CME Letter"); Jonathon Barton, Chairman, Futures Industry Association/Securities Industry Association Steering Committee on Security Futures, dated April 4, 2002 ("FIA/SIA Steering Committee Letter"); James E. Buck, Senior Vice President and Secretary, New York Stock Exchange, Inc., dated October 19, 2001 ("NYSE Letter"); William H. Navin, Executive Vice President and General Counsel, the Options Clearing Corporation, dated October 3, 2001 ("OCC Letter"); Joel Greenberg, Managing Director, Susquehanna International Group, LLP, dated October 17, 2001 ("SIG Letter"); and Larry Coury, Silvia Madrid, Laura Murias, Mike Periera, Vivek Sahota, Benjamin Sparks, Adrian Spirollari, and Wallace Truesdale, Students at Fordham University School of Law, dated October 1, 2001 ("Students Letter"). In addition to the comment letters received on the Proposing Release, the Commissions reviewed three comment letters received by the CFTC on its separate proposal regarding full membership in the Intermarket Surveillance Group. See infra discussion at Section II.C., Commissions' Interpretation of Statutory Requirements for Coordinated Surveillance.
+
+20 The term "expiration Fridays" refers to the third Friday of each month that marks the expiration date for that month's individual stock options, stock index options, and stock index futures contracts. On the expiration date, options and futures contracts cease to exist. Some stock index futures and options expire on a quarterly basis, with their expiration Friday occurring on the third Friday of the last month of the quarter (March, June, September, and December).
+
+21 See Proposing Release, supra note 18.
+
+22 CFTC Rule 41.25(b)(1) and SEC Rule 6h-1(b)(1). The CFTC is adopting one technical change to CFTC Rule 41.25(b). See discussion infra at II.A.3.a.i., CFTC Technical Amendment.
+
+23 See CBOE Letter, CBOT Letter, and NYSE Letter.
+
+24 See CBOE Letter.
+
+25 See NYSE Letter.
+
+26 See CME Letter.
+
+27 Any rule change proposed by a national securities exchange or national securities association to establish listing standards for security futures products, including methodologies for determining final settlement prices, would have to be filed with the SEC pursuant to Section 19 of the Exchange Act, 15 U.S.C. 78s, and the rules thereunder. See supra note 10 and accompanying text. Rule changes should also be submitted to the CFTC in accordance with CFTC Rule 41.24, 17 CFR 41.24.
+
+28 See CME Letter.
+
+29 See NYSE Letter.
+
+30 For example, the OCC indicated that for the month of November 2001, the dollar amount of premiums settled in SPX options was over 12 times larger than that for OEX options. Both indexes are capitalization-based indexes from Standard & Poor's.
+
+31 See Proposing Release, supra note 18.
+
+32 If the circumstances so warrant, the SEC may in the future consider requiring all cash-settled options to use opening-price settlement procedures.
+
+33 See CME Letter.
+
+34 See NYSE Letter.
+
+35 See supra discussion at Section II.A.1., Background.
+
+36 See 66 FR 55078 (November 1, 2001).
+
+37 See 17 CFR Part 40, Appendix A(a)(2)(iii).
+
+38 See 66 FR at 45918.
+
+39 See 17 CFR 41.22(f); 66 FR at 55084. See also Core Principle for Contract Markets 3 of the CEA requiring designated contract markets to list contracts that are not readily susceptible to manipulation; Core Principle for Contract Markets 4 of the CEA requiring designated contract markets to monitor trading to prevent manipulation, price distortion, and disruptions of the delivery or cash-settlement process; and Core Principle for DTEFs 3 of the CEA requiring DTEFs to monitor trading to ensure orderly trading. Sections 5(d)(3), 5(d)(4) and 5a(d)(3) of the CEA; 7 U.S.C. 7(d)(3), 7(d)(4) and 7a(d)(3).
+
+40 A "regular trading session" of a security means the normal hours for business of a national securities exchange or national securities association that lists the security. See CFTC Rule 41.1(k) and SEC Rule 6h-1(a)(2).
+
+41 See proposed CFTC Rule 41.1(j) and proposed SEC Rule 6h-1(a)(1).
+
+42 See CME Letter.
+
+43 If a security futures product were based on an American Depository Receipt ("ADR") traded on a national securities exchange or national securities association, the opening price for the ADR would necessarily, under the rule adopted today, be derived from the national securities exchange or national securities association that trades it. However, if a security futures product were based on the foreign security itself, the market listing the security futures product must exercise its discretion to identify the primary market of the foreign security for purposes of deriving its opening price. See Securities Exchange Act Release No. 44725 (August 20, 2001).
+
+44 See CME Letter.
+
+45 7 U.S.C. 2(a)(1)(D)(i)(VII).
+
+46 15 U.S.C. 78f(h)(3)(H).
+
+47 See CBOT Letter.
+
+48 See CBOE Letter, CME Letter, and SIG Letter. See also OCC Letter (urging the Commissions to withdraw this aspect of the proposal, or at a minimum, modify it to allow the final settlement value to be based on the next opening).
+
+49 See CBOE Letter, CME Letter, and SIG Letter. Two of these commenters - the CBOE and the CME - stated that, until May 2000, the futures and options markets derived alternate settlement prices from a previous trading session, but changed their procedures after Hurricane Floyd threatened to close the NYSE on the expiration Friday of September17, 1999. See , e.g. , Securities Exchange Act Release No. 42857 (May30, 2000), 65 FR 36185 (June 7, 2000) (approving SR-CBOE-00-02, which replaced look-back pricing with next opening pricing procedures on CBOE in certain situations). See also FIA/SIA Steering Committee Letter (stating that the Commissions' proposed requirement is inconsistent with existing market practice and rules governing a broad range of listed stock index products) and OCC By-Laws, Article XII, Section 5 (allowing OCC to fix the final settlement price for security futures products using next opening prices of the underlying securities, as well as look-back pricing).
+
+50 See OCC Letter.
+
+51 See FIA/SIA Steering Committee Letter.
+
+52 See CBOE Letter, CME Letter, FIA/SIA Steering Committee Letter, OCC Letter, and SIG Letter.
+
+53 See SIG Letter.
+
+54 See OCC Letter and SIG Letter.
+
+55 CFTC Rule 41.25(b)(2) and SEC Rule 6h-1(b)(2). The Commissions' rules do not specify the circumstances in which an opening price would not be "readily available." National securities exchanges and national securities associations, however, would have to establish, as part of their listing standards, specific rules that apply this term. In addition, national securities exchanges and national securities associations would have to file proposed rule changes to delineate which method would be used in determining final settlement prices and when it would be applied.
+
+56 For a further discussion on this issue, See discussion infra at II.A.3.d., New Provision to Resolve Conflict Between Market Rules and Clearing Agency Rules.
+
+57 See SIG Letter.
+
+58 See OCC By Laws, Article XII, Section 5 (allowing OCC to fix the final settlement price for security futures products using next opening prices of the underlying securities, as well as look-back pricing).
+
+59 See CFTC Rule 41.25(b)(3) and SEC Rule 6h-1(b)(3).
+
+60 See Securities Exchange Act Release No. 44727 (August 20, 2001), 66 FR 45351 (August 28, 2001).
+
+61 See OCC Letter and OCC By-Laws, Article XII, Section 6.
+
+62 See also FIA/SIA Steering Committee Letter (urging the Commissions not to require exchanges and associations to adopt rules addressing the determination of fallback security futures final settlement prices when opening prices are not readily available).
+
+63 See CBOE Letter.
+
+64 See CFTC Rule 41.25(d). In the Proposing Release, the CFTC referred to "investors" when discussing the exemptive provision. The final rule will more closely adhere to the CEA, and refer instead to "customers."
+
+65 See SEC Rule 6h-1(d).
+
+66 See Section 36 of the Exchange Act, 15 U.S.C. 78mm. See also Section 8a(5) of the CEA allows the CFTC to make and promulgate such rules and regulations as, in the judgment of the CFTC, are reasonably necessary to effectuate any of the provisions or to accomplish any of the purposes of the CEA. 7 U.S.C. 12a(5). The CFTC believes that granting an exemption to the use of opening prices for cash settlement would be consistent with Section 8a(5) of the CEA, so long as the exemption is consistent with the public interest, the protection of customers, and otherwise furthers the provisions of the CEA.
+
+67 See , e.g. , the American Stock Exchange LLC ("Amex"), Listing Standards, Policies and Requirements, Section 402(b); Boston Stock Exchange ("BSE") Rules of the Board of Governors, Supplement to Chapter XXVII, Section 4; National Association of Securities Dealers ("NASD") Rule 4120; and the New York Stock Exchange, Inc. ("NYSE") Listed Company Manual, Sections 202.06 and 202.07.
+
+68 See Circuit Breaker Report by the Staff of the President's Working Group on Financial Markets dated August 18, 1998 ("Circuit Breaker Report").
+
+69 See Securities Exchange Act Release No. 26198 (October 19, 1988), 53 FR 41637 (October 24, 1988) (order approving circuit breaker rules for the Amex, CBOE, NASD, NYSE). The CFTC approved circuit breaker price limit and trading halt rule changes after the publication in the Federal Register of the proposed rule changes and request for public comment, 53 FR 35539 (September 14, 1988) (CBOT, CME, Kansas City Board of Trade, New York Futures Exchange).
+
+70 See Circuit Breaker Report, supra note 68.
+
+71 See Securities Exchange Act Release No. 39846 (April 9, 1998), 63 FR 18477 (April 15, 1998) (order approving proposals by Amex, BSE, Chicago Stock Exchange ("CHX"), NASD, NYSE, and the Philadelphia Stock Exchange, Inc. ("Phlx")). See also Amex Rule 117; BSE, Rules of the Board of Governors, Section 34A; CHX Rule 10A; Cincinnati Stock Exchange ("CSE") Rule 12.11; NYSE Rule 80B; the Pacific Exchange, Inc. ("PCX") Rule 4.22 (a), (b), and (c); and Phlx Rule 133. CSE Rule 12.11 gives the chairman or the president of the CSE the power to suspend trading whenever he or she believes that such suspension would be in the public interest, which has been interpreted as requiring the CSE, as a matter of policy, to halt trading in all equities traded on the CSE in conjunction with halted trading at all other U.S. equity and equity-related markets. See Securities Exchange Act Release No. 26440 (January 10, 1989), 54 FR 1830 (January 17, 1989). The NASD also recognizes the risks imposed on any single market that remains open while all other U.S. markets have halted trading in response to extraordinary price movements, and maintains a market closing policy to halt, upon SEC request, all domestic trading in both securities listed on the Nasdaq Stock Market and all equity and equity-related securities trading in the over-the-counter market should other major securities markets initiate market-wide trading halts in response to extraordinary market conditions. See NASD Rule 4120; NASD IM-4120-4. The SEC notes that it has a standing request with the NASD to halt trading as quickly as practicable whenever the NYSE and other equity markets have suspended trading. See Securities Exchange Act Release No. 39582 (January 26, 1998), 63 FR 5408 (February 2, 1998).
+
+72 See Amex Rule 950 (applying Amex Rule 117, Trading Halts Due to Extraordinary Market Volatility, to options transactions); CBOE Rule 6.3B; the International Securities Exchange, LLC ("ISE") Rule 703; PCX Rule 4.22 (which applies to options contracts through Rules 6.1(a) and (e)); and Phlx Rule 133.
+
+73 A price limit, in itself, does not halt trading in the futures, but prohibits trading at prices below the pre-set limit during a price decline. Intraday price limits are removed at pre-set times during the trading session, such as ten minutes after the thresholds are reached or at 3:30 p.m., whichever is earlier. Daily price limits remain in effect for the entire trading session. Specific price limits are set for each stock index futures contract. There are no price limits for U.S. stock index options, equity options, or stocks.
+
+74 See , e.g. , CME Rule 4002.I. The CME will implement a circuit breaker trading halt in SPX Futures if the 10 percent circuit breaker halt has been imposed in the securities markets and the futures are "locked" at their 10percent price limit. Trading will not reopen in SPX Futures until the circuit breaker halt has been lifted in the securities markets and trading has resumed in stocks comprising at least 50 percent of the index capitalization. The CME will implement another circuit breaker trading halt in SPX Futures if the 20 percent circuit breaker halt has been imposed in the securities markets and the futures are locked at their 20 percent price limit. Once again, trading will not reopen in SPX Futures until the circuit breaker halt has been lifted in the securities markets and trading has resumed in stocks comprising at least 50 percent of the index capitalization.
+
+75 See Amex Rule 918C(b)(3); CBOE Rule 24.7; PCX Rule 7.11; and Phlx Rule 1047A(c).
+
+76 For example, trading on the PCX in any index option is halted whenever trading in underlying securities whose weighted value represents more than 20 percent of the value of a broad-based index or 10 percent of the value of other indices is halted. See PCX Rule 7.11. Similarly, under Phlx Rule 1047A(c), trading in any index option may be halted whenever trading on the primary market in underlying securities representing more than 10 percent of the current index value is halted or suspended, and there is approval from two floor officials and the concurrence of a market regulation officer. See Phlx Rule 1047A(c).
+
+77 7 U.S.C. 2(a)(1)(D)(i)(X).
+
+78 15 U.S.C. 78f(h)(3)(K).
+
+79 It should be noted that the Commissions have jointly adopted rules to establish the method of determining the market capitalization of a narrow-based security index for the limited purpose of determining whether a security is one of the 750 securities with the largest market capitalization under one of the exclusions from the definition of narrow-based security index. See Securities Exchange Act Release No. 44724 (August 20, 2001), 66 FR 44490 (August 23, 2001).
+
+80 See CBOT Letter and NYSE Letter.
+
+81 See CME Letter. See infra notes 103-104 and accompanying text.
+
+82 See Students Letter.
+
+83 7 U.S.C. 2(a)(1)(D)(i)(X).
+
+84 15 U.S.C. 78f(h)(3)(K).
+
+85 See CBOE Letter and FIA/SIA Steering Committee Letter.
+
+86 See CBOE Letter.
+
+87 The Commissions' rules do not preclude a market trading security futures products from halting trading for other appropriate reasons, such as operational difficulties being experienced by the market or its automated systems or concerns over clearance and settlement operations.
+
+88 See supra notes 80 and 81.
+
+89 See CBOE Letter, CBOT Letter, and CME Letter.
+
+90 See CME Letter.
+
+91 See CBOT Letter.
+
+92 See, e.g. , CBOT Rule 1008.01 and CME Rule 4002.I., supra note 74.
+
+93 See CBOE Letter.
+
+94 See CME Letter.
+
+95 7 U.S.C. 2(a)(1)(D)(i)(X).
+
+96 15 U.S.C. 78f(h)(3)(K).
+
+97 See CBOT Rule 1008.01 and CME Rule 4002.I., supra note 74.
+
+98 See , e.g. , CME Rule 4002.I., supra note 74.
+
+99 See CFTC Rule 41.1(l) and SEC Rule 6h-1(a)(3).
+
+100 See Securities Exchange Act Release No. 41315 (April 20, 1999), 64 FR 23142 (April 29, 1999) (noting that the NYSE follows the CTA Plan when instituting a regulatory halt); and Securities Exchange Act Release No. 41877 (September 14, 1999), 64 FR 51566 (September 23, 1999) (noting that Amex follows the CTA Plan when instituting a regulatory halt); see also CTA Plan (Second Restatement), Section XI (a). The CTA Plan is a joint industry plan that governs the consolidated transaction reporting system, and each of the participants agrees to comply with the provisions of the plan. Recognizing the importance of disseminating information with respect to trading halts in certain securities, the CTA Plan imposes notification obligations upon the primary market whenever a regulatory halt occurs.
+
+101 See CTA Plan (Second Restatement), Section XI (a). For example, an event that may qualify under this standard and call for a regulatory halt is when it is unclear whether a security continues to meet the listing standards of the market on which the security is listed.
+
+102 The rules of the options exchanges generally provide for halts in options whenever it is appropriate in the interests of a fair and orderly market and to protect investors. See Amex Rule 918(b); CBOE Rule 6.3(a) and .04 of the Interpretations and Policies of CBOE Rule 6.3; ISE Rule 702; PCX Rule 6.65(a); and Phlx Rule 1047(b).
+
+103 See CME Letter.
+
+104 One commenter believed that the Commissions should expand on the examples of the reasons why national securities exchanges and associations could impose additional trading halts to include order imbalances. See NYSE Letter. As noted above, the rule being adopted today does not preclude a market trading security futures products from establishing rules that permit or require it to halt trading for other appropriate reasons.
+
+105 See CBOE Letter and FIA/SIA Steering Committee Letter; see also CME Letter.
+
+106 See CME Letter.
+
+107 See Securities Exchange Act Release No. 26198 (October 19, 1988), 53 FR 41637 (October 24, 1988).
+
+108 7 U.S.C. 2(a)(1)(D)(i)(X).
+
+109 15 U.S.C. 78f(h)(3)(K).
+
+110 See supra discussion at II.A.3.e., Exemptions, which discusses the expansion of the exemption to make it more consistent with the SEC's exemptive authority under Section 36 of the Exchange Act.
+
+111 See CFTC Rule 41.25(d).
+
+112 See SEC Rule 6h-1(d).
+
+113 Section 2(a)(1)(D)(i)(VIII) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(VIII); Section 6(h)(3)(I) of the Exchange Act, 15 U.S.C. 78f(h)(3)(I).
+
+114 ISG Full Members are Amex, BSE, CBOE, CHX, CSE, ISE, NASD, NYSE, PCX and Phlx.
+
+115 See Proposing Release, supra note 18.
+
+116 15 U.S.C. 78 o -3(a).
+
+117 See 66 FR 37932 (July 20, 2001) ("CFTC Proposal").
+
+118 The CFTC received comment letters from CME, Amex, and ISG.
+
+119 See 66 FR 55078 (November 1, 2001).
+
+120 Section 2(a)(1)(D)(i)(VIII) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(VIII); Section 6(h)(3)(I) of the Exchange Act, 15 U.S.C. 78f(h)(3)(I).
+
+121 An ISG Affiliate Member is a contract market or foreign self-regulatory organization that has become affiliated with ISG. See Appendix A for the relevant provisions of the agreement among Full Members of ISG.
+
+122 Futures exchanges and non-U.S. exchanges and associations are Affiliate Members of ISG. The limitations in an Affiliate Member's obligations to share information is of less concern when an Affiliate Member is not trading securities.
+
+123 See Appendix A, Section 2(b).
+
+124 See , e.g. , Appendix A, Section 2(c).
+
+125 See , e.g. , Appendix A, Section 2(d).
+
+126 See Appendix A, Section 2(b).
+
+127 See 8c(a)(2) of the CEA, 7 U.S.C. 12c(a)(2).
+
+128 See 8a(6) of the CEA, 7 U.S.C. 12a(6).
+
+129 See , e.g. , Appendix A, Section 2(c).
+
+130 Id .
+
+131 See , e.g. , Appendix A, Section 2(d).
+
+132 The Commissions note that this may require exchanges and associations trading security futures products to implement rules allowing for the sharing of information. See supra notes 126-128.
+
+133 See Appendix A, Section 2.
+
+134 7 U.S.C. 2(a)(1)(D)(i)(VIII); 15 U.S.C. 78f(h)(3)(I).
+
+135 In addition, Sections 6(b)(1) and 15A(b)(2) of the Exchange Act require all national securities exchanges and national securities associations to enforce compliance by their members and persons associated with their members, with the provisions of the exchanges' or associations' own rules. Section 6(b)(1) of the Exchange Act, 15 U.S.C. 78f(b)(1); Section 15A(b)(2) of the Exchange Act, 15 U.S.C. 78 o -3(b)(2).
+
+136 Sections 9 and 10(b) of the Exchange Act, 15 U.S.C. 78i and 78j(b)
+
+137 15 U.S.C. 78f and 15 U.S.C. 78 o -3.
+
+138 See Proposing Release, 66 FR at 45912.
+
+139 44 U.S.C. 3501 et seq.
+
+140 15 U.S.C. 78f(h)(3).
+
+141 See 15 U.S.C. 78f(h)(3)(H).
+
+142 See 15 U.S.C. 78f(h)(3)(K).
+
+143 15 U.S.C. 78s(b).
+
+144 15 U.S.C. 78f(h)(3).
+
+145 The estimated rate of $128 per hour is derived from the SIA Management and Professional Earnings, Table 107 (Attorney, New York), and includes a 35 percent differential for bonus, overhead, and other expenses.
+
+146 17 CFR 240.17a-1.
+
+147 See 15 U.S.C. 78q(b)(4)(B).
+
+148 7 U.S.C. 19.
+
+149 See Proposing Release, 66 FR at 45914.
+
+150 See Proposing Release, 66 FR at 45914.
+
+151 Pub. L. No. 106-554, Appendix E, 114 Stat. 2763.
+
+152 After December 21, 2003, the SEC and the CFTC may jointly determine to permit trading of puts, calls, straddles, options, or privileges on security futures (along with security futures, collectively referred to as "security futures products"). See Section 2(a)(1)(D)(iii) of the CEA, 7 U.S.C. 2(a)(1)(D)(iii); Section 6(h)(6) of the Exchange Act, 15 U.S.C. 78f(h)(6).
+
+153 See Section 2(a)(1)(D)(i)(VII) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(VII); Section 6(h)(3)(H) of the Exchange Act, 15 U.S.C. 78f(h)(3)(H).
+
+154 See Section 2(a)(1)(D)(i)(X) of the CEA, 7 U.S.C. 2(a)(1)(D)(i)(X); Section 6(h)(3)(K) of the Exchange Act, 15 U.S.C. 78f(h)(3)(K).
+
+155 SEC Rule 6h-1(a).
+
+156 SEC Rule 6h-1(b).
+
+157 Although SEC Rule 6h-1(b)(2) does not define when an opening price would not be "readily available," national securities exchanges and national securities associations would have to establish, as part of their listing standards, rules that interpret this term.
+
+158 The SEC amended the proposed rule to allow look forward pricing in response to recommendations by commenters.
+
+159 SEC Rule 6h-1(c)(1).
+
+160 In the Proposing Release, the SEC originally proposed halting trading in a security futures product when 30 percent of the market capitalization of a narrow-based security index halted trading in the underlying markets. As discussed further below, this change was made in response to commenters. See SEC Rule 6h-1(c)(2). The rule being adopted today does not preclude a market trading security futures products based on narrow-based security indexes from halting trading at a threshold of less than 50 percent of the market capitalization of the index or for other appropriate reasons, such as operational difficulties being experienced by the market or its automated systems or concerns over clearance and settlement operations.
+
+161 See supra note 66 and accompanying text.
+
+162 See Proposing Release, supra note 18.
+
+163 See Proposing Release, supra note 18.
+
+164 See CME Letter.
+
+165 See CME Letter.
+
+166 See CME Letter.
+
+167 One commenter believed that the SEC and the CFTC should expand on the examples of the types of reasons why national securities exchanges and associations could impose additional trading halts provided in the footnotes of the Proposing Release to include order imbalances. See NYSE Letter. As noted above, the rule being adopted today is not designed to preclude a market trading security futures products from halting trading for other appropriate reasons. Therefore, a national securities exchange or national securities association would be free to impose additional restrictions on trading that are not required by this rule.
+
+168 See CBOE Letter, CBOT Letter, and NYSE Letter.
+
+169 15 U.S.C. 78f(h)(3)(H).
+
+170 The liquidity constraints faced by the securities markets due to unwinding programs used in closing-price settlement procedures were discussed by the SEC staff in its report on the market decline on November 15, 1991. See SEC Division of Market Regulation, Trading Analysis of November 15, 1991 (October 1992).
+
+171 See CBOT Letter.
+
+172 See CBOE Letter, CME Letter, and SIG Letter. See also OCC Letter (urging the Commissions to withdraw this aspect of the proposal, or at a minimum, modify it to allow the final settlement value to be based on the next opening).
+
+173 See CBOE Letter, CME Letter, and SIG Letter. See also FIA/SIA Steering Committee Letter (stating that the Commissions' proposed requirement is inconsistent with existing market practice and rules governing a broad range of listed stock index products) and OCC By-Laws, Article XII, Section 5 (allowing OCC to fix the final settlement price for security futures products using next opening prices of the underlying securities, as well as look-back pricing).
+
+174 See OCC Letter.
+
+175 See FIA/SIA Steering Committee Letter.
+
+176 See CBOE Letter, CME Letter, FIA/SIA Steering Committee Letter, OCC Letter, and SIG Letter.
+
+177 See OCC Letter.
+
+178 See supra note 60 and accompanying text.
+
+179 See OCC Letter; see also CBOE Letter (recommending that security futures products have the proviso that the clearing corporation rules have precedence for determining the index value at expiration during a trading halt in the underlying security); FIA/SIA Steering Committee Letter (urging the Commissions not to require exchanges and associations to adopt rules addressing the determination of fallback security futures final settlement prices when opening prices are not readily available).
+
+180 The trading halt provision of adopted SEC Rule 6h-1(c) would not be exclusive. The adopted rule is not designed to preclude a market trading security futures products from halting trading for other appropriate reasons, such as operational difficulties being experienced by the market or its automated systems or concerns over clearance and settlement operations.
+
+181 See CBOE Letter and FIA/SIA Steering Committee Letter.
+
+182 Id .
+
+183 See CBOE Letter.
+
+184 See Securities Exchange Act Release No. 32890 (September 14, 1993), 58 FR 48916 (September 20, 1993).
+
+185 See CME Letter.
+
+186 15 U.S.C. 78f(h)(3)(K).
+
+187 In response to the events of October 19, 1987, when the Dow Jones Industrial Average ("DJIA") sustained a one-day decline of 508 points (22.6%), the nation's securities and futures markets in 1988 adopted rules that provide for coordinated, cross-market trading halts in all equity and equity-derivative markets following specified declines in the DJIA. See Circuit Breaker Report, supra note 68. See also Securities Exchange Act Release No. 38080 (December 23, 1996), 61 FR 69126 (December 31, 1996) (citing the SEC's desire to have coordinated mechanisms across these markets to deal with potential volatility that may develop during periods of extreme downward volatility).
+
+188 See CME Letter.
+
+189 15 U.S.C. 78f(h)(3)(K).
+
+190 15 U.S.C. 78f(h)(3)(K).
+
+191 The SEC may grant an exemption from the rule, either unconditionally or on specified terms and conditions, if it finds that such exemption is necessary or appropriate in the public interest and consistent with the protection of investors. See Section 36 of the Exchange Act, 15 U.S.C. 78mm.
+
+192 15 U.S.C. 78s(b).
+
+193 The SEC has adopted Rule 19b-7, which would direct Security Futures Product Exchanges to file proposed rule changes on Form 19b-7. See Securities Exchange Act Release No. 44692, supra note 10.
+
+194 17 CFR 240.17a-1.
+
+195 See 15 U.S.C. 78q(b)(4)(B).
+
+196 See Paperwork Reduction Act discussion at Section III.
+
+197 The CTA Plan is a joint industry plan that governs the consolidated transaction reporting system. Parties to the CTA Plan are as follows: the American Stock Exchange LLC, Boston Stock Exchange, Inc., Chicago Board Options Exchange, Inc., Chicago Stock Exchange, Inc., Cincinnati Stock Exchange, Inc., National Association of Securities Dealers, Inc., New York Stock Exchange, Inc., Pacific Exchange, Inc., and Philadelphia Stock Exchange, Inc. See CTA Plan (Second Restatement), Section III (a).
+
+198 Section 6(h)(3)(K) of the Exchange Act, 15 U.S.C. 78f(h)(3)(K).
+
+199 See Students Letter.
+
+200 The SEC's rule does not preclude a market trading security futures products from halting trading for other appropriate reasons, such as operational difficulties being experienced by the market or its automated systems or concerns over clearance and settlement operations.
+
+201 See CBOT Letter.
+
+202 See CBOE Letter.
+
+203 See CME Letter.
+
+204 As with adopted SEC Rule 6h-1(c)(1), the trading halt provision of adopted SEC Rule 6h-1(c)(2) is not intended to be exclusive. The adopted rule is not designed to preclude a market trading security futures products based on narrow-based security indexes from halting trading at a threshold of less than 50 percent of the market capitalization of the index or for other appropriate reasons, such as operational difficulties being experienced by the market or its automated systems or concerns over clearance and settlement operations.
+
+205 See , e.g. , CME Rule 4002.I., supra note 74.
+
+206 15 U.S.C. 78c(f).
+
+207 15 U.S.C. 78w(a)(2).
+
+208 The CFTC is not required to consider its proposed rules under these standards.
+
+209 See CME Letter.
+
+210 15 U.S.C. 78f(h)(3)(H).
+
+211 See CME Letter.
+
+212 See Students Letter.
+
+213 15 U.S.C. 78f(h)(3)(K).
+
+214 See supra note 52.
+
+215 5 U.S.C. 601 et seq.
+
+216 See 47 FR 18618, 18619 (April 30, 1982) (discussing contract markets).
+
+217 See 66 FR 14262, 14268 (March 9, 2001) (discussing registered derivatives transaction execution facilities); 66 FR 45604, 45609 (August 29, 2001) (discussing derivatives clearing organizations).
+
+218 See Proposing Release, 66 FR at 45918.
+
+219 5 U.S.C. 605(b).  http://www.sec.gov/rules/final/34-45956.htm

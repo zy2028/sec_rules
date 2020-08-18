@@ -1,0 +1,363 @@
+https://www.sec.gov/rules/final/33-7427.txt
+
+	I.0.0.0: I. BACKGROUND
+
+	II.0.0.0: II. RULE CHANGES ADOPTED
+
+		II.A.0.0: A. EDGAR transition rules eliminated
+
+		II.B.0.0: B. New Rule 601 of Regulation S-T governing foreign private issuers
+
+		II.C.0.0: C. Rule 10 of Regulation S-T
+
+		II.D.0.0: D. Rule 11 of Regulation S-T
+
+		II.E.0.0: E. Rule 13 of Regulation S-T
+
+		II.F.0.0: F. Notification of delayed filing - Form DF
+
+		II.G.0.0: G. Rule 101 of Regulation S-T
+
+			II.G.1.0: 1. Exemption for Form 10-K as first electronic filing
+
+			II.G.2.0: 2. Proxy materials and annual reports to security holders furnished by registrants subject to reporting obligations under Section 15(d) of the Exchange Act
+
+			II.G.3.0: 3. Schedules 13D and 13G
+
+			II.G.4.0: 4. Proxy material filed pursuant to Exchange Act Rule 16b-3(b)(2)(ii)
+
+			II.G.5.0: 5. Filings made in connection with Securities Act exemptions
+
+			II.G.6.0: 6. Certain material filed pursuant to Investment Company Act Sections 23(c), 24(e) and 24(f)
+
+		II.H.0.0: H. Hardship Exemptions
+
+			II.H.1.0: 1. Confirming copy legends
+
+			II.H.2.0: 2. Sanctions
+
+			II.H.3.0: 3. Exhibits
+
+			II.H.3.a: a. Exhibit index
+
+			II.H.3.b: b. Technical procedures
+
+		II.I.0.0: I. Proxy statement performance graph
+
+	III.0.0.0: III. OTHER ELECTRONIC SUBMISSION, PROCESSING AND RETRIEVAL ISSUES
+
+	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
+
+	V.0.0.0: V. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT
+
+	VII.0.0.0: VII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+17 CFR Parts 200, 228, 229, 230, 232, 239, 240 and 260 
+
+[Release Nos. 33-7427; 34-38798; 39-2355; IC-22730; File No. S7-28-96] 
+
+RIN 3235-AG96 Rulemaking for the EDGAR System 
+
+AGENCY: Securities and Exchange Commission 
+
+ACTION: Final Rules 
+
+SUMMARY: The Securities and Exchange Commission ("Commission") today adopts a number of amendments to its rules governing the submission of filings and other documents through the Electronic Data Gathering, Analysis, and Retrieval ("EDGAR") system. These amendments reflect the Commission's experience with the EDGAR system as well as the close of the initial phase-in stage of the EDGAR project. 
+
+EFFECTIVE DATE: These rule changes will become effective on [insert date 30 days following publication in the Federal Register]. 
+
+FOR FURTHER INFORMATION CONTACT: James R. Budge, Division of Corporation Finance at (202) 942-2950, or Ruth Armfield Sanders, Division of Investment Management at (202) 942-0633, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549. 
+
+SUPPLEMENTARY INFORMATION: The Commission today adopts amendments to the following rules relating to electronic filing on the EDGAR system: Rule 200.30-1, <sup> 1 </sup> Rule 200.30-5, <sup> 2 </sup> Item 601 of Regulation S-B and Regulation S-K, <sup> 3 </sup> Rule 405 of Regulation C, <sup> 4 </sup> Rules 10, <sup> 5 </sup> 11, <sup> 6 </sup> 101, <sup> 7 </sup> 102, <sup> 8 </sup> 201, <sup> 9 </sup> 202, <sup> 10 </sup> 303, <sup> 11 </sup> 304, <sup> 12 </sup> 307 <sup> 13 </sup> and 311 <sup> 14 </sup> of Regulation S-T, <sup> 15 </sup> Forms S-2, <sup> 16 </sup> S-3, <sup> 17 </sup> S-8, <sup> 18 </sup> F-2 <sup> 19 </sup> and F-3 <sup> 20 </sup> under the Securities Act of 1933 ("Securities Act"), <sup> 21 </sup> Rule 0-1, <sup> 22 </sup> Rule 13d-2, <sup> 23 </sup> Rule 13e-4, <sup> 24 </sup> Schedule 14A, <sup> 25 </sup> and Rule 14e-1 <sup> 26 </sup> under the Securities Exchange Act of 1934 ("Exchange Act"), <sup> 27 </sup> and Rule 0-2 <sup> 28 </sup> under the Trust Indenture Act of 1939. <sup> 29 </sup> The Commission also is adding new Rules 100 and 601 to Regulation S-T, and eliminating Rules 901, 902 and 903 of Regulation S-T, the EDGAR transition rules. <sup> 30 </sup>
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+In 1993, registrants and others began to electronically submit many of the documents filed with the Commission via the EDGAR system. <sup> 31 </sup> Domestic registrants became electronic filers in a series of discrete phase-in groups. Following a congressionally-mandated test period, which included electronic filing by several phase-in groups, the Commission certified that the system satisfied all statutory requirements and announced a schedule to complete the transition to mandated electronic filing for most filers. <sup> 32 </sup> On May 6, 1996, the last group of domestic registrants was phased in. Once the phase-in period was over, the Commission reviewed its electronic filing rules and proposed to update them. <sup> 33 </sup> The Commission recognized in the proposals the shift from a paper-based filing system to an electronic one. The proposals also reflected the practical experience the Commission gained with electronic filing over the last several years.
+
+<h>II. RULE CHANGES ADOPTED</h>
+
+The Commission proposed for public comment a number of minor and technical changes to its electronic filing rules. The Commission solicited comment with respect to each proposal. Three commenters responded. <sup> 34 </sup> The Commission continues to believe, as it did in the proposing release, that the rule proposals would benefit filers and the staff. The Commission today adopts the proposed changes, except as discussed below.
+
+<h>A. EDGAR transition rules eliminated</h>
+
+The Commission adopted Rules 901, 902 and 903 of Regulation S-T to govern the phase-in of registrants and provide guidance in situations where one party to a transaction was a phased-in electronic filer and another party was a paper filer. With the end of the phase-in period, these transition rules are no longer needed. The Commission is eliminating these rules, retaining in other rules in Regulation S-T any provisions that are still useful, as explained more fully below. <sup> 35 </sup>
+
+Rule 101(d) of Regulation S-T now includes the requirement, formerly found in Rules 901(d) and 902(g), that a new electronic filer submit a paper copy of its first electronic filing. The Commission also is retaining in Rule 101 the (continued...) 
+
+<h>B. New Rule 601 of Regulation S-T governing foreign private issuers</h>
+
+The Commission does not require foreign private issuers and foreign governments to file electronically unless they are acting in concert with, or as a third party filer with respect to, a domestic registrant. Until now, foreign private issuers' electronic filing responsibilities were outlined in Rule 901 of Regulation S-T. Since the Commission has now eliminated that rule, its requirements applicable to foreign private issuers and foreign governments are being adopted as new Rule 601 of Regulation S-T. This rule states that these entities generally are not required to file electronically, unless they are filing jointly with a domestic registrant or acting as a third party filer with respect to such a registrant.
+
+The provisions delegating authority to the Division of Corporation Finance and the Division of Investment Management to change phase-in dates are also being eliminated. Rule 902(e) [17 CFR 232.902(e)] addressed matters of concern during EDGAR transition from paper to electronic filing, particularly with reference to an electronically filed Securities Act Rule 497(e) [17 CFR 230.497(e)] "sticker" relating to a prospectus previously filed in paper. Since the transition has been completed, these provisions are no longer necessary. However, the staff continues to be of the view that a registrant need not re-submit the prospectus or statement of additional information to which a Rule 497(e) "sticker" relates, if the related document has been filed electronically.
+
+The new rule also provides that these companies or entities may choose to file electronically in most situations. The EDGAR system currently supports many types of documents filed by foreign private issuers and foreign governments. The Commission intends to make future modifications to the EDGAR system, where appropriate, to broaden the availability of EDGAR to additional form types used by these foreign filers.
+
+The new rule also codifies a staff interpretation where a foreign private issuer engages in an exchange offer, merger or other business combination transaction with a domestic registrant and the foreign private issuer files a registration statement under the Securities Act with respect to the transaction. In these cases, the parties can file the registration statement and other documents relating to the transaction in paper if the domestic registrant will not be a reporting entity when the transaction is concluded. This eliminates the burden from companies whose only electronic filing obligations would arise in connection with the filing of a registration statement.
+
+<h>C. Rule 10 of Regulation S-T</h>
+
+Rule 10(b) of Regulation S-T <sup> 36 </sup> has for several years included a note strongly urging persons who are about to become electronic filers to submit a Form ID to obtain EDGAR access and security codes between three and six months prior to their first required electronic filing. The Commission is amending this instruction to emphasize that those making their first required filings, including issuers making initial public offerings, should submit their Forms ID early to be ready to make their initial filings in electronic format.
+
+<h>D. Rule 11 of Regulation S-T</h>
+
+In the past, the Commission retained its official records on microfiche. The Commission has changed this practice and now allows for storage of filed documents in a variety of media. In order to reflect current records retention practices, the term "official filing" in Rule 11(m) of Regulation S-T <sup> 37 </sup> is being newly defined to mean any filing that has been received and accepted by the Commission, regardless of filing medium.
+
+<h>E. Rule 13 of Regulation S-T</h>
+
+The Commission proposed codifying in Rule 13 of Regulation S-T <sup> 38 </sup> a staff interpretive letter that relates to the timing of filing proxy materials permitted to be "mailed for filing" with the Commission at the same time they are published, furnished, sent or given to security holders or others. <sup> 39 </sup> This letter allows issuers and others to electronically file proxy materials promptly on the next business day following distribution to security holders where it is impracticable to file the materials electronically on the same business day of the Commission (between the hours of 8:00 a.m. and 5:30 p.m.) on which the distribution first occurs. The Commission staff currently is reviewing the rules that govern the timing of filing proxy materials in light of the growing public reliance on the EDGAR database for investment information and the use of other rapid information dissemination methods. Consequently, the Commission has decided not to codify this position at this time. However, the interpretive position given in the Lesser letter will continue to be in effect unless and until the related rules are changed.
+
+<h>F. Notification of delayed filing - Form DF</h>
+
+The Commission proposed creating a new Form DF which filers could use to preserve the timeliness of their Exchange Act periodic reports and other specified documents without the need for staff intervention. The proposal was designed as an alternative to the filing date adjustment procedure already in place. While one commenter expressed a positive interest in the proposal, the Commission has decided to defer action on it for the present. Once the direction of future EDGAR programming is established, the Commission may reconsider the proposal. Filing date adjustments will continue to be considered on a case-by-case basis.
+
+Under Rule 13, candidates must demonstrate bona fide attempts to file electronically and must experience unanticipated technical difficulties in order to qualify for a filing date adjustment. It has been staff policy to consider filing date adjustment requests primarily in connection with Exchange Act reports, beneficial ownership reports and reports filed under Section 16. Generally, the staff does not grant filing date adjustments relating to registration statements or other transactional filings.
+
+Reasonable requests for an adjustment to the filing date of an Exchange Act report will be granted if the filing is made (or re-submitted) promptly. However, filers have an obligation to confirm the status of their filings and must read the related acceptance or suspension messages carefully to determine if the filing was successfully made. For example, if a filing inadvertently was submitted as a test or a confirming electronic copy, and was therefore not considered an official filing, a new filing must be made immediately and the staff must be notified if the second transmission was after the due date of the filing and an adjustment is desired. It is not the policy of the staff to grant adjustments backdating a filing over an extended period of time.
+
+<h>G. Rule 101 of Regulation S-T</h>
+
+<h>1. Exemption for Form 10-K as first electronic filing</h>
+
+During the phase-in period, issuers had an automatic exemption from electronic filing for their first required filing after becoming subject to electronicfiling rules if that document was a Form 10-K <sup> 40 </sup> or 10-KSB. <sup> 41 </sup> Now that all domestic issuers have become electronic filers, this provision no longer is needed. Reporting entities will already have had the advantage of the one-time exemption and any new issuer's first filing will not be an annual report on either of these forms. Consequently, the Commission is eliminating this provision. Of course, if a company experiences special difficulties in the preparation or filing of its annual reports, it may continue to follow the procedures for hardship exemptions outlined in Rules 201 and 202 of Regulation S-T.
+
+<h>2. Proxy materials and annual reports to security holders furnished by registrants subject to reporting obligations under Section 15(d) of the Exchange Act</h>
+
+Form 10-K and Form 10-KSB both require issuers reporting under Section 15(d) of the Exchange Act <sup> 42 </sup> to furnish to the Commission for its information any annual report to security holders covering the registrant's last fiscal year and every proxy statement, form of proxy or other proxy soliciting material sent to more than ten of the registrant's security holders with respect to any annual or other meeting of security holders. When these issuers submit this information with their Exchange Act annual reports, it is not deemed filed with the Commission unless it is incorporated by reference into the report itself.
+
+The Commission intended that these documents be filed electronically, but they were not specifically addressed in Rule 101 of Regulation S-T. The Commission is amending Rule 101 to correct this omission. Filers should submit these proxy materials using the same EDGAR form type as used for other definitive proxy statements, DEF 14A, or DEFA14A for definitive additional materials, as outlined in the EDGAR Filer Manual. Consistent with the requirements to furnish annual reports to security holders under the proxy rules, registrants have the option to submit their annual report to security holders pursuant to these annual reporting provisions either in paper or in electronic format. If filed electronically, filers should use the ARS form type. <sup> 43 </sup>
+
+<h>3. Schedules 13D and 13G</h>
+
+The electronic filing rules require that the first electronic amendment to a paper-filed Schedule 13D or Schedule 13G restate the entire text of the schedule. <sup> 44 </sup> The purpose of this requirement is to ensure that a complete and current copy of these schedules is placed on the electronic database so that financial observers do not need to refer to paper filings for a complete version of the filings. However, the staff's position has been that if the purpose of the first electronic amendment is to report a reduction in beneficial ownership that relieves the filer from further reporting obligations, the amendment needs not include a restatement of the entire text of the schedule, but only the amended portions. The Commission is codifying this position. A restatement requirement in these situations is burdensome to filers and provides little benefit to those who follow beneficial ownership transactions.
+
+<h>4. Proxy material filed pursuant to Exchange Act Rule 16b-3(b)(2)(ii)</h>
+
+Effective August 15, 1996, <sup> 45 </sup> the Commission no longer requires that issuers file certain proxy material related to employee benefit plans under the rules promulgated under Section 16 of the Exchange Act. <sup> 46 </sup> Consequently, the Commission is amending Regulation S-T Rule 101(c) of Regulation S-T to eliminate the provision relating to the old filing requirement. <sup> 47 </sup>
+
+<h>5. Filings made in connection with Securities Act exemptions</h>
+
+The Commission has eliminated Regulations B and F, <sup> 48 </sup> which provided exemptions under the Securities Act. Consequently, references in Rule 101(c) of Regulation S-T to filings made pursuant to those regulations have been removed.
+
+<h>6. Certain material filed pursuant to Investment Company Act Sections 23(c), 24(e) and 24(f)</h>
+
+The Commission is adding to the Regulation S-T list of mandated electronic submissions certain documents previously not expressly included in, but intended to be covered under, Rule 101 of Regulation S-T. <sup> 49 </sup> The submissions added are documents filed with the Commission pursuant to Sections 23(c), <sup> 50 </sup> 24(e), <sup> 51 </sup> and 24(f) <sup> 52 </sup> of the Investment Company Act.
+
+<h>H. Hardship Exemptions</h>
+
+<h>1. Confirming copy legends</h>
+
+Rule 202 of Regulation S-T provides for exemptions from electronic filing, pursuant to delegated authority, for documents, portions of documents, or groups of documents where the electronic filer would incur undue burden and expense to convert the material to an electronic format. Paragraph (d) of that rule allows the staff to grant such exemptions for a limited period of time premised on an undertaking to submit an electronic version of the material at the end of the stated period. However, unlike Rule 201 (for temporary hardship exemptions), Rule 202(d) has not included a requirement that the electronic version be identified as a confirming electronic copy of what was filed in paper pursuant to the exemption by including a legend to that effect on the first page of the document. The Commission is adding this requirement to be consistent with other similar provisions and to alert users of the information to the fact that the information previously had been filed in paper.
+
+<h>2. Sanctions</h>
+
+The Commission also is modifying the language found in Rule 202(d) of Regulation S-T and in the instructions to Forms S-2, S-3, S-8, F-2 and F-3 to reflect the fact that failure to submit a confirming electronic copy pursuant to a Rule 202(d) hardship exemption renders the registrant ineligible to use the form. Rule 303 of Regulation S-T also is revised by broadening its language to provide that documents filed in paper under Rule 202(d) cannot be incorporated by reference if a required confirming electronic copy is not submitted with respect to that document. Similarly, the tender offer rules have been amended to indicate that tender offer periods are tolled so long as all required confirming electronic copies have not been submitted to the Commission. <sup> 53 </sup> These changes are consistent with the treatment associated with temporary hardship exemption requirements and codify current staff interpretation.
+
+<h>3. Exhibits</h>
+
+<h>a. Exhibit index</h>
+
+Rule 102 of Regulation S-T and Item 601 of Regulations S-K and S-B require filers to indicate in a filing's exhibit index whether a confirming electronic copy of a paper-filed exhibit has been submitted by placing the letters "CE" next to the item in the index. In the past, the language in the rules has been limited to confirming electronic copies submitted pursuant to a temporary hardship exemption. The Commission is amending these provisions to encompass all documents originally filed in paper pursuant to any type of hardship exemption for which a filer submits a required confirming electronic copy.
+
+<h>b. Technical procedures</h>
+
+The electronic filing rules contemplate under certain circumstances paper filing of exhibits in connection with an otherwise electronic filing. Filers may do this pursuant to either a temporary hardship exemption or a continuing hardship exemption, depending on the type of hardship involved. In every case involving a temporary hardship exemption, the filer is required within six business days following the paper filing to submit a confirming electronic copy of the material filed in paper. <sup> 54 </sup> Persons making filings in paper pursuant to a continuing hardship exemption may be required to file a confirming electronic copy of the paper-filed material after a designated period of time. <sup> 55 </sup> Usually a confirming electronic copy consists of an entire filing that was filed in paper pursuant to a hardship exemption. The electronic version is identified to the electronic system as only a copy of a previously-filed paper document and is not considered a new filing. Where the subject of the hardship exemption is an exhibit only, the standard protocol cannot be followed because exhibits cannot be filed standing alone -- they must be a part of a filing.
+
+Persons who have an obligation to submit electronic confirming copies of an exhibit filed in paper pursuant to a hardship exemption must submit the exhibit electronically by filing an amendment to the document to which the exhibit relates. The CONFIRMING-COPY tag should not be used in the submission header. Filers should include a statement in the amendment explaining that the amendment is solely to submit an electronic copy of an exhibit previously filed in paper pursuant to a hardship exemption. The Commission is codifying this procedure in the rules by adding an instruction to Rule 201 and Rule 202 of Regulation S-T.
+
+<h>I. Proxy statement performance graph</h>
+
+Electronic filers who must furnish a stock performance comparison graph in their proxy statements pursuant to Item 402(l) of Regulation S-K <sup> 56 </sup> are required to satisfy that obligation in their electronic filings by setting forth the data from the graph in tabular form. <sup> 57 </sup> The rules also require filers to supplementally furnish a copy of the graph to the staff. In order to reduce the burden on proxy filers, the Commission is eliminating the requirement that the graph be supplementally sent to the staff. Of course, registrants will continue to be required to produce a copy of the graph, as sent to security holders, upon staff request, pursuant to Rule 304(c). <sup> 58 </sup>
+
+The Commission is revising Rule 304(d) to expressly apply to investment company registrants. Investment company filers will now follow the provisions of Rule 304(d) in their preparation of the line graph required by Item 5A of Form N-1A, <sup> 59 </sup> a practice previously encouraged by the staff of the Division of Investment Management. <sup> 60 </sup> While one commenter believed that three month's transitional time should be given, the Commission believes that, given the previous experience with submissions under this rule, there is no necessity for a transition period.
+
+J. Annual Report provisions inapplicable to investment companies
+
+The Commission is revising Rule 303(b) of Regulation S-T <sup> 61 </sup> to clarify that it does not apply to investment company filers, a codification of staff interpretation. Rule 303(b) now expressly states that its requirements concerning incorporation by reference to reports to security holders do not apply to investment companies.
+
+The Commission also is revising Schedule 14A, clarifying that investment companies need not submit electronically annual or quarterly reports to security holders, or any portion thereof, incorporated by reference into a proxy statement, if the report was filed electronically. <sup> 62 </sup> This revision is also a codification of staff interpretation.
+
+K. Computational materials to be filed under cover of Form SE
+
+Some issuers of asset-backed securities file large amounts of computational materialswith a Form 8-K, pursuantto two no-action letters. <sup> 63 </sup> These materials often are voluminous and difficult to convert to an acceptable electronic format. Typically, filers of such materials have been granted hardship exemptions from filing them electronically. In order to reduce compliance costs both to the issuers and the staff, the Commission is amending Rule 311 of Regulation S-T to add this type of supporting documentation to the list of items that may be filed in paper under cover of Form SE without the need for staff action. The Form 8-K itself, as well as any required term sheets, should be filed electronically.
+
+L. Financial Data Schedules
+
+The Commission is codifying the principles outlined in two staff interpretive positions relating to Financial Data Schedules. First, a note is being added stating that issuers of asset-backed securities (as defined in Form S-3, except that the securities need not be investment grade) that are not required to file financial statements with the Commission in their Securities Act registration statements or their reports filed pursuant to Sections 13(a) or 15(d) of the Exchange Act are not required to submit a Financial Data Schedule in connection with those filings. <sup> 64 </sup> This is consistent with the requirement that Financial Data Schedules be submitted only when updated financial statements are filed. A second note also is being added to the effect that a registrant is not required to restate prior Financial Data Schedules for a recapitalization that is in the form of a stock split or reverse stock split, provided that the <EPS> tag in the Financial Data Schedule for the period in which the stock split occurs includes a footnote that indicates that a stock split has occurred and its effective date, and that prior Financial Data Schedules have not been restated for the recapitalization. <sup> 65 </sup>
+
+In addition, the Financial Data Schedule rules provide that where a filer submits a document in paper pursuant to a temporary hardship exemption, and the document would have been accompanied by a Financial Data Schedule if filed in electronic format, the filer must submit the Financial Data Schedule with the confirming electronic copy of the filing. Since documents may be filed in paper pursuant to a continuing hardship exemption on the condition that the issuer file an electronic version within a stated time period, <sup> 66 </sup> the Commission is amending its rules to reflect its position that registrants must submit a Financial Data Schedule with the required confirming electronic copy of a document filed in paper pursuant to any hardship exemption where the underlying document would have included the schedule had it been filed originally in electronic format.
+
+M. Red ink requirements
+
+The Commission has eliminated its requirements to print designated information in red ink. <sup> 67 </sup> Consequently, it is revising Rule 307 of Regulation S-T to reflect this change.
+
+<h>III. OTHER ELECTRONIC SUBMISSION, PROCESSING AND RETRIEVAL ISSUES</h>
+
+In the proposing release, the Commission solicited comment on various ways to expand or otherwise modify the EDGAR system to help both users of the EDGAR database as well as filers. The Commission asked specific questions about electronic submission of confidential treatment requests, no-action letters, <sup> 68 </sup> and exempt offerings as well as other matters. Each of the three commenters made useful suggestions that the Commission will consider in its ongoing evaluation of the future of the system.
+
+<h>IV. COST-BENEFIT ANALYSIS</h>
+
+No commenter responded to the Commission's solicitation of comment with respect to the costs and benefits that would result if the rule proposals were adopted. The Commission anticipates that the rule changes will not impose significant costs on filers, since they generally are codifications and/or clarifications of existing filing practices. The rule changes should be beneficial to filers inasmuch as they clarify existing rules and make the filing community at large more aware of current practices and interpretations. The Commission also considered the impact of the rule changes on competition, as required under Section 23(a) of the Exchange Act. There will be little or no impact on competition for the reasons explained in connection with the costs and benefits generally.
+
+<h>V. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+In connection with the rule proposals, the Chairman of the Commission has certified that the amendments proposed herein would not, if adopted, have a significant economic impact on a substantial number of small entities. The certification, including the factual bases for the determination, was published with the proposing release in satisfaction of Section 605(b) of the Regulatory Flexibility Act, 5 U.S.C. 605(b).
+
+<h>VI. PAPERWORK REDUCTION ACT</h>
+
+The staff consulted with the Office of Management and Budget ("OMB") and submitted for approval in accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) proposed Form DF. Since the Commission is not adopting Form DF at this time, there will be no change to information collection requirements as a result of this rulemaking.
+
+<h>VII. STATUTORY BASIS</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 200.30-1.
+
+2 17 CFR 200.30-5.
+
+3 17 CFR 228.601 and 229.601, respectively.
+
+4 17 CFR 230.405.
+
+5 17 CFR 232.10.
+
+6 17 CFR 232.11.
+
+7 17 CFR 232.101.
+
+8 17 CFR 232.102.
+
+9 17 CFR 232.201.
+
+10 17 CFR 232.202.
+
+11 17 CFR 232.303.
+
+12 17 CFR 232.304.
+
+13 17 CFR 232.307.
+
+14 17 CFR 232.311.
+
+15 17 CFR Part 232.
+
+16 17 CFR 239.12.
+
+17 17 CFR 239.13.
+
+18 17 CFR 239.16b.
+
+19 17 CFR 239.32.
+
+20 17 CFR 239.33.
+
+21 15 U.S.C. 77a et seq.
+
+22 17 CFR 240.0-1.
+
+23 17 CFR 240.13d-2.
+
+24 17 CFR 240.13e-4.
+
+25 17 CFR 240.14a-101.
+
+26 17 CFR 240.14e-1.
+
+27 15 U.S.C. 78a et seq.
+
+28 17 CFR 260.0-2.
+
+29 15 U.S.C. 77aaa et seq.
+
+30 17 CFR 232.901, 232.902 and 232.903, respectively.
+
+31 The rules initiating mandated electronic filing were adopted as interim rules in: Release No. 33-6977 (February 23, 1993) [58 FR 14628] (containing a general description of the EDGAR system, Regulation S-T (the electronic filing regulation), and the rules applicable to filings processed by the Division of Corporation Finance); Release No. IC-19284 (February 23, 1993) [58 FR 14848] (relating to rules specific to investment companies and institutional investment managers); and Release No. 35-25746 (February 23, 1993) [58 FR 14999] (relating to rules specific to public utility holding companies).
+
+32 Release No. 33-7122 (December 19, 1994) [59 FR 67752].
+
+33 Release No. 33-7369 (December 5, 1996) [61 FR 65440].
+
+34 These letters are available for inspection and copying in the Public Reference Room at the Commission's Headquarters at 450 Fifth Street, N.W., Washington, D.C. Refer to File No. S7-28-96.
+
+35 New Rule 100 of Regulation S-T and the changes to Rule 101 of Regulation S-T. The definition of "electronic filer" in Rule 11 of Regulation S-T, Rule 405 of Regulation C, Exchange Act Rule 0-1, and Trust Indenture Act Rule 0-1 have been updated to reflect these changes. note formerly found in Rule 901 relating to electronic filing of beneficial ownership reports with respect to foreign private issuers. The Office of EDGAR Policy in the Division of Corporation Finance ((202) 942-2940) or the EDGAR Branch in the Division of Investment Management ((202) 942-0591), as appropriate, can answer questions relating to these issues.
+
+36 17 CFR 232.10(b).
+
+37 17 CFR 232.11(m).
+
+38 17 CFR 232.13.
+
+39 Henry Lesser (November 28, 1995).
+
+40 17 CFR 249.310.
+
+41 17 CFR 249.310b.
+
+42 15 U.S.C. 78o(d).
+
+43 Investment companies are required to file electronically with the Commission copies of their annual, semi-annual and other periodic reports to security holders. See Rule 101(a)(iv) of Regulation S-T [17 CFR 232.101(a)(iv)] and Rule 30b2-1 [17 CFR 270.30b2-1] of the Investment Company Act of 1940 [15 U.S.C. 80a-1 et seq.]("Investment Company Act"). These filers should use the N-30D or N-30B-2 form type, as appropriate.
+
+44 Rule 101(a)(2)(ii) of Regulation S-T [17 CFR 232.101(a)(2)(ii)] and Rule 13d-2(c) [17 CFR 240.13d-2(c)].
+
+45 Release No. 34-37260 (May 31, 1996) [61 FR 30376].
+
+46 Former Rule 16b-3(b)(2)(ii) [17 CFR 240.16b-3(b)(2)(ii)].
+
+47 Technical amendments to citations in paragraphs (a)(1)(ii) and (c)(6) of Rule 101 also have been adopted.
+
+48 Release No. 33-7300 (May 31, 1996) [61 FR 30397].
+
+49 Rule 101(a)(1)(iv) of Regulation S-T [17 CFR 232.101(a)(1)(iv)].
+
+50 15 U.S.C. 80a-23(c).
+
+51 15 U.S.C. 80a-24(e).
+
+52 15 U.S.C. 80a-24(f). While Form 24F-2 [17 CFR 274.24] is among the filings which must be submitted electronically, filers should be aware that there is no need to replicate electronically items such as boxes and vertical lines appearing in the paper version of this form.
+
+53 Rules 13e-4 and 14e-1.
+
+54 Rule 201(b) of Regulation S-T [17 CFR 232.201(b)].
+
+55 Rule 202(d) of Regulation S-T.
+
+56 17 CFR 229.402(l).
+
+57 Rule 304(d) of Regulation S-T [17 CFR 232.304(d)].
+
+58 17 CFR 232.304(c). Paragraph (b)(2) also is being amended to conform its language with the changes made to Rule 304 in Release 33-7289 (May 9, 1996) [61 FR 24652], relating to use of electronic media for delivery purposes.
+
+59 17 CFR 274.11A.
+
+60 The staff of the Commission has never interpreted a textual description of the performance graph as sufficient to fulfill the requirement of Rule 304(a), as suggested by one commenter.
+
+61 17 CFR 232.303(b).
+
+62 Note D.4 to Schedule 14A.
+
+63 Distribution of Certain Written Materials Relating to Asset-Backed Securities, (February 17, 1995) and Mortgage and Asset-Backed Securities -- Furnishing Information to Customers, (May 20, 1994).
+
+64 See Ford Motor Credit Company (April 14, 1995).
+
+65 See AFLAC/AFLAC Incorporated (April 10, 1996).
+
+66 Rule 202(d) of Regulation S-T.
+
+67 Release No. 33-7300.
+
+68 Since the Commission issued the proposing release, the Division of Corporation Finance has established a new e-mail address to receive requests for interpretive or no-action letters. Persons seeking such letters from the Division may now submit their requests either in paper or electronically at cfletters@sec.gov. At this time, electronic requests must be in standard e-mail text or ASCII format so the staff can easily read and print the letters. These letters will be processed by the staff in the same manner as requests submitted in paper. If there is confidential information in the request, remember that it may be possible for others to intercept and read e-mail. This mailbox should be used only for requests for interpretive or no-action letters from the Division of Corporation Finance, not for other correspondence. The requests should comply with all of the procedures set forth in Release No. 33-6269 (December 5, 1980), except that multiple copies are not needed. The letter should include the telephone number of the requestor.
+
+69 15 U.S.C. 79a et seq.
+
+70 15 U.S.C. 77aaa et seq.
+
+71 15 U.S.C. 80a-1 et seq.

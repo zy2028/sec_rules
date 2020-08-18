@@ -1,0 +1,411 @@
+https://www.sec.gov/rules/final/2018/33-10450.pdf
+
+I.0.0.0 BACKGROUND AND SUMMARY
+
+II.0.0.0 DISCUSSION OF THE FINAL RULE
+
+	II.A.0.0 Comments
+
+		II.A.1.0 Comments on the Applicability of the Proposed Rule to Research Reports One commenter argued that the proposed rule should be expanded to cover written communications involving “research” discussing security-based swaps. This commenter
+
+		II.A.2.0 Comments on Other Matters
+
+	II.B.0.0 Final Rule
+
+		II.B.1.0 SBS Price Quotes
+
+		II.B.2.0 SBS-Related Research Reports
+
+III.0.0.0 OTHER MATTERS
+
+IV.0.0.0 ECONOMIC ANALYSIS
+
+	IV.A.0.0 Baseline
+
+	IV.B.0.0 Analysis of the Final Rule
+
+	IV.C.0.0 Alternatives Considered
+
+V.0.0.0 PAPERWORK REDUCTION ACT
+
+VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE FINAL RULE
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 230
+
+[Release No. 33-10450; File No. S7-09-14] RIN 3235-AL41
+
+Treatment of Certain Communications Involving Security-Based Swaps That May Be Purchased Only By Eligible Contract Participants
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: We are adopting a rule under the Securities Act of 1933 (“Securities Act”) to provide that certain communications involving security-based swaps will not be deemed to constitute “offers” of such security-based swaps for purposes of Section 5 of the Securities Act. The final rule covers the publication or distribution of price quotes that relate to security-based swaps that may be purchased only by persons who are eligible contract participants (“covered SBS”) and are traded or processed on or through certain trading platforms. The final rule also covers a broker, dealer, or security-based swap dealer’s publication or distribution of written communications that discuss covered SBS and that meet the definition of “research report” in Rule 139(d) under the Securities Act and certain other conditions.
+
+DATES: Effective January 16, 2018.
+
+FOR FURTHER INFORMATION CONTACT: Andrew Schoeffler, Special Counsel, Office of Capital Markets Trends, Division of Corporation Finance, at (202) 551-3860, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-3628.
+
+SUPPLEMENTARY INFORMATION: We are adopting Rule 135d under the Securities Act. <sup>1</sup>
+
+<END HEADER>
+
+<h>I. BACKGROUND AND SUMMARY</h>
+
+On July 21, 2010, President Barack Obama signed the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) <sup>2</sup> into law. Title VII of the Dodd-Frank Act (“Title VII”) provides the Securities and Exchange Commission (“SEC” or the “Commission”) and the Commodity Futures Trading Commission (“CFTC”) with the authority to regulate over- the-counter derivatives. Under Title VII, the CFTC regulates “swaps,” the SEC regulates “security-based swaps,” and the CFTC and SEC jointly regulate “mixed swaps.” <sup>3</sup>
+
+Title VII amended the Securities Act and the Securities Exchange Act of 1934 (“Exchange Act”) <sup>4</sup> to include “security-based swaps” in the definition of “security.” <sup>5</sup> As a result, “security-based swaps” are subject to the Securities Act and the Exchange Act and the rules and regulations thereunder. Section 5 of the Securities Act requires that any offer or sale of a security must either be registered under the Securities Act or be made pursuant to an exemption from registration. <sup>6</sup> As a result, counterparties entering into security-based swap transactions need either to rely on an available exemption from the registration requirements of the Securities
+
+Act or register such transactions. Title VII also amended the Securities Act to prohibit offers and sales of security-based swaps to persons who are not “eligible contract participants” (“ECPs” ) <sup>7</sup> unless a registration statement is in effect as to the security-based swaps . <sup>8</sup>
+
+Because security-based swaps are included in the definition of “security,” the publication or distribution of certain communications involving security-based swaps on an unrestricted basis could be viewed as offers of those security-based swaps within the meaning of Section 2(a)(3) of the Securities Act. <sup>9</sup> Further, such communications also may be considered offers to non-ECPs, even though such persons are not permitted to purchase the security-based swaps unless, as noted above, a registration statement under the Securities Act is in effect as to such security-based swaps. <sup>10</sup> If there are no Securities Act exemptions available with respect to a security-based swap transaction, the required registration of such transactions could negatively affect the security-based swaps market.
+
+On September 8, 2014, the Commission proposed a rule to address the treatment of certain communications involving covered SBS, in particular price quotes relating to covered SBS that are traded or processed on or through a facility either registered as a national securities exchange or as a security-based swap execution facility (“security-based SEF”), or exempt from
+
+U.S.C. 77e(d)]). Section 105(c)(1) of the Jumpstart Our Business Startups Act subsequently re- designated Section 5(d) of the Securities Act as Section 5(e). See Pub. L. No. 112-106, 126 Stat. 306 (2012).registration as a security-based SEF pursuant to a rule, regulation, or order of the Commission (“SBS price quotes”). <sup>11</sup> Under the proposed rule, the publication or distribution of SBS price quotes would not be deemed to constitute an offer, an offer to sell, or a solicitation of an offer to buy or purchase the security-based swaps that are the subject of such communications or any guarantees of such security-based swaps for purposes of Section 5 of the Securities Act. <sup>12</sup> The purpose of the proposed rule was to further the goal of Title VII to bring the trading of security- based swaps onto regulated trading platforms while avoiding unintended consequences arising from the application of the Securities Act to the dissemination of price quotes on such platforms.
+
+The Proposing Release requested comment on all aspects of the proposed rule, including whether the proposed rule should cover other types of communications, such as communications characterized as research that discuss security-based swaps. <sup>13</sup> We have reviewed and considered all of the comments that we received relating to the proposed rule. As described in detail below, we are adopting the rule substantially as proposed, with one substantive addition addressing written communications that discuss covered SBS and meet the definition of “research report” in
+
+Rule 139(d) under the Securities Ac t <sup>14</sup> and certain other conditions (“SBS-related research reports”). The final rule provides that a broker, dealer, or security-based swap dealer’s publication or distribution of SBS-related research reports will not be deemed to be an offer of the security-based swaps that are the subject of such communication or any guarantees of such security-based swaps for purposes of Section 5 of the Securities Act.
+
+The final rule does not affect the treatment of research reports under existing Securities Act Rules 137, 138 and 139 (the “Research Rules”) . <sup>15</sup> As a result, communications relating to offerings of securities underlying security-based swaps, including by operation of Section 2(a)(3) of the Securities Act , <sup>16</sup> must be analyzed separately under the Research Rules. In that case, any discussion of a security-based swap in a research report would be analyzed under the final rule, while any discussion of securities underlying such security-based swap (which could be in the same research reports discussing the security-based swap) would be analyzed under the Research Rules.230.139. The Commission has not previously addressed the applicability of the Research Rules in the context of research discussing security-based swaps because most security-based swaps were not securities prior to the effective date of Title VII.
+
+While the provisions of Title VII relating to security-based SEFs have not yet been fully implemented, <sup>17</sup> given that market participants currently are publishing and distributing SBS- related research reports, we believe that it is appropriate at this time to adopt the final rule. As one commenter noted, <sup>18</sup> if SBS-related research reports are published or distributed on an unrestricted basis, such communications may be viewed as an offer. As a result, they may affect the availability of Securities Act exemptions for transactions in the security-based swaps that may be discussed in the research reports. <sup>19</sup> Such communications also may constitute an illegal offer to non-ECPs if there is no effective registration statement under the Securities Act because no Securities Act exemptions are available for offers and sales of security-based swaps to non- ECPs. In addition, potential uncertainty about the availability of Securities Act exemptions for transactions between ECPs may lead some market participants to not engage in security-based swap transactions or withhold or limit the publication or distribution of SBS-related research reports. This in turn could reduce the information available to investors and other marketparticipants in the security-based swaps market, credit markets, and securities markets generally. We believe that the final rule is needed at this time to reduce this uncertainty.
+
+We are not extending the expiration date of the interim final exemptions or adopting one commenter’s request for an exemption from the registration and other provisions of the Securities Act for security-based swap transactions between ECPs. <sup>20</sup> We do not believe that either course would address the identified concern about the availability of existing Securities Act exemptions for transactions between ECPs. For example, neither course would address the concern that certain communications involving security-based swaps could be considered offers to non-ECPs. As noted above, such offers must be registered under the Securities Act because no exemptions from the registration requirements of the Securities Act are available for offers and sales of security-based swaps to non-ECPs. <sup>21</sup> As such, neither course would remove uncertainty about whether certain communications involving security-based swaps would be deemed to be offers to non-ECPs and thereby require registration of the relevant security-based swaps under the Securities Act.
+
+<h>II. DISCUSSION OF THE FINAL RULE</h>
+
+<h>A. Comments</h>
+
+We received four comment letters, each of which supported the proposed rule. <sup>22</sup> We discuss and respond to the comments received below.
+
+<h>1. Comments on the Applicability of the Proposed Rule to Research Reports One commenter argued that the proposed rule should be expanded to cover written communications involving “research” discussing security-based swaps. This commenterargued that such written communications are not meaningfully different from other types of securities research produced and distributed by broker-dealers and their affiliates in the ordinary course of business. The commenter noted that such written communications are produced and distributed by broker-dealers’ or their affiliates’ research departments and are subject to the same policies and procedures as other securities research. <sup>24</sup> The commenter also noted that such written communications often are included within other published securities research, such as general credit research, and in such materials credit analysts frequently discuss security-based swaps in the context of more general analyses of credit markets, credit strategies, or credit worthiness of an issuer. <sup>25</sup> Further, the commenter noted that such written communications included in other credit research or research reports may be published or distributed by broker- dealers or their affiliates through a variety of channels, which, depending on the particular firm, may include proprietary platforms as well as third-party research aggregators. <sup>26</sup> Such written communications included in other credit research or research reports may be made accessible toexisting clients, including clients that are not ECPs, and in some cases may be made accessible to the general public. <sup>27</sup></h>
+
+Because of the manner in which such written communications are disseminated, the commenter was concerned that the publication or distribution of such communications may be deemed to be an offer of the relevant security-based swaps, including to non-ECPs. <sup>28</sup> According to the commenter, there could be no exemption available for such offer because of the possible dissemination to or accessibility by non-ECPs. <sup>29</sup> Further, the commenter noted that determining whether an exemption is available for each particular security-based swap transaction as a result of such written communications would be a time-consuming and fact-intensive judgment call. <sup>30</sup> The commenter noted that if no Securities Act exemptions are available for a security-based swap transaction because such written communications are viewed as an offer, market participants may withhold or limit the publication or distribution of such written communications. <sup>31</sup>
+
+The commenter described the possible effects of a limitation on the publication or distribution of such written communications on the security-based swaps market and securities markets generally. According to the commenter, such written communications inform market participants’ investment decisions. <sup>32</sup> For example, such written communications assist ECPs in determining the pricing of security-based swaps, such as credit default swaps, including withrespect to the relative value of a given security-based swap in relation to other securities. <sup>33</sup> In addition, the commenter indicated that such written communications also have informational value to securities markets generally, including to non-ECPs. <sup>34</sup> Market participants, whether transacting in security-based swaps or not, may find such written communications useful in analyzing underlying issuers or securities because such communications provide views on markets, sectors, and/or issuers. <sup>35</sup> For example, credit default swaps can be an indicator of an issuer’s creditworthiness. <sup>36</sup> Further, the commenter noted that such written communications may be disseminated about swaps based on broad indices of securities or issuers (which are subject to a different regulatory regime). <sup>37</sup> A different treatment of communications discussing security-based swaps (i.e., those swaps based on a single security, an issuer or a narrow-based security index) could result in incomplete information being available to the security-based swaps market and securities markets generally. <sup>38</sup>
+
+<h>2. Comments on Other Matters</h>
+
+As we noted in the Proposing Release, <sup>39</sup> we previously adopted interim final rules to provide exemptions under the Securities Act, the Exchange Act, and the Trust Indenture Act of 1939 (“Trust Indenture Act”) <sup>40</sup> for those security-based swaps that prior to the effective date of Title VII were “security-based swap agreements” and are defined as “securities” under the
+
+Securities Act and the Exchange Act due solely to the provisions of Title VII (collectively, the “interim final exemptions” ) . <sup>41</sup> We adopted the interim final exemptions because, among other things, we were concerned about disrupting the operation of the security-based swaps market while we evaluated the implications for security-based swaps under the Securities Act and the Exchange Act as a result of the inclusion of the term “security-based swap” in the definition of “security.” The interim final exemptions expire on February 11, <sup>2018</sup> . <sup>42</sup>
+
+The Proposing Release requested comment as to whether the expiration date of the interim final exemptions should be altered, including possibly shortening or further extending the expiration date. <sup>43</sup> The Commission did not receive any comments addressing whether we should alter the expiration date of the interim final exemptions, but we did receive one comment that addressed issues relating to the interim final exemptions . <sup>44</sup> The commenter requested that weconsider adopting an exemption from the registration and other provisions of the Securities Act, other than the anti-fraud provisions of Section 17(a), for security-based swap transactions between ECPs. <sup>45</sup> The commenter argued that an exemption from the registration and other provisions of the Securities Act is needed to provide legal certainty as to whether security-based swap transactions effected on security-based SEFs are exempt from the registration requirements of the Securities Act. <sup>46</sup> In particular, the commenter argued that certain activities engaged in by the operator of a security-based SEF may create uncertainty as to the availability of exemptions from Section 5 of the Securities Act for such transactions. <sup>47</sup>
+
+We do not believe that the exemption suggested by the commenter would provide the legal certainty the commenter seeks. The operator of a security-based SEF will facilitate security-based swap transactions by providing the trading platform on or through which other parties will offer and sell security-based swaps to each other. The examples provided by the commenter primarily relate to activities typically conducted by brokers or dealers. Market participants regularly communicate with each other to facilitate and execute transactions, and the examples appear to be no different from the activities typically conducted by brokers or dealers in connection with other private offerings of securities effected on trading platforms. The commenter did not explain why such activities in the context of security-based swap transactions would affect the ability of market participants to rely upon existing Securities Act exemptions.
+
+In contrast, the rule we are adopting today addresses a unique feature of security-based swapsexemptions we adopted for security-based swap transactions involving an eligible clearing agency. See Proposing Release (79 FR at 54231 through 32).regulation—balancing the prohibition on offers and sales to non-ECPs with the need to disseminate information broadly to market participants, which may incidentally include non- ECPs. The final rule addresses the concern that certain communications involving SBS price quotes and SBS-related research reports could be viewed as offers to non-ECPs in violation of Section 5(e) of the Securities Act. The exemption suggested by the commenter would not address the concern that certain communications could be considered offers to non-ECPs or provide greater certainty in the security-based swaps market because it would not address this concern. As such, we believe that the final rule better addresses this concern.
+
+We are not persuaded that there is a need for an exemption from the registration and other provisions of the Securities Act for security-based swap transactions between ECPs. As we finalize our regulation of security-based SEFs, we will remain mindful as to whether the regulation of particular communications presents barriers to the efficient operation of the security-based swaps market that are not necessary to protect investors. Further, we are taking no action as to the interim final exemptions, and our adoption of the final rule in this release will not affect the interim final exemptions. The interim final exemptions expire on February 11, 2018. <sup>48</sup>
+
+<h>B. Final Rule</h>
+
+We are adopting Rule 135d under the Securities Act substantially as proposed, with one substantive addition concerning SBS-related research reports. We believe that the final rule is necessary and appropriate so that the publication or distribution of SBS price quotes will not cause unintended consequences for the operation of security-based swap trading platforms following the full implementation of Title VII. We also believe that the final rule is necessaryand appropriate so that a broker, dealer, or security-based swap dealer’s ability to publish or distribute SBS-related research reports will not be restricted in a manner that would limit the availability of information about security-based swaps to investors and other market participants.
+
+We note that although the final rule provides that the publication or distribution of SBS price quotes and SBS-related research reports will not be deemed to be offers for purposes of Section 5 of the Securities Act, the final rule will not otherwise affect the provisions of any exemptions from the registration requirements of the Securities Act. As a result, market participants will still need to make a determination as to whether an exemption from the registration requirements of the Securities Act is available with respect to a security-based swap transaction, including whether such transaction complies with any applicable conditions of the exemption. We also note that the final rule applies to any communication of SBS price quotes or SBS-related research reports regardless of whether transactions in the relevant security-based swaps are effected bilaterally in the over-the-counter market or on or through security-based swap trading platforms, or are subsequently cleared in transactions involving an eligible clearing agency. <sup>49</sup>
+
+<h>1. SBS Price Quotes</h>
+
+The final rule allows SBS price quotes to be published or distributed without such dissemination being considered an offer of the relevant security-based swaps or any guaranteesthereof for purposes of Section 5 of the Securities Act . <sup>50</sup> The scope of dissemination methods covered by the final rule is broad. The final rule applies to the initial publication or distribution of SBS price quotes on security-based swap trading platforms. It also applies to any subsequent republication or redistribution of SBS price quotes on or through mediums other than security- based swap trading platforms, including on-line information services, as it is possible that participants in security-based swap trading platforms that receive the SBS price quotes could further disseminate the SBS price quotes without restriction. We do not believe that the treatment of the SBS price quotes under the final rule should depend on who republishes or redistributes the SBS price quotes or where they are republished or redistributed, so long as only ECPs may purchase the relevant security-based swaps.
+
+The final rule applies to SBS price quotes, which could take a number of forms depending on the type of trading platform model, including indicative quotes, executable quotes, bids and offers, and other pricing information and other types of quote information that may develop in the future. We are not defining the specific type of SBS price quotes with respect to which the final rule will apply because we do not want to limit the types of trading platform models that currently or may in the future exist. <sup>51</sup> This approach is intended to allow flexibility in the final rule as organized markets for the trading of security-based swaps continue to develop.
+
+The final rule addresses price quotes relating to security-based swaps that are traded or processed on or through registered or exempt security-based SEFs and national securities exchanges because the Title VII provisions applicable to these entities, as well as existing requirements applicable to national securities exchanges, require them to make their trading platforms available or price quotes on their platforms available to all participants without limitation.
+
+We believe that the final rule with respect to SBS price quotes is necessary and appropriate in the public interest. One of the goals of Title VII is to bring the trading of security- based swaps onto regulated trading platforms, such as security-based SEFs and national securities exchanges, which should help advance the objective of greater transparency for the trading of security-based swaps. We believe that increased transparency in the security-based swaps market could help lower transaction costs associated with market participant risk mitigating strategies and thereby lower the cost of capital and facilitate the capital formation process. If the publication or distribution of SBS price quotes is unrestricted, no Securities Act exemptions may be available with respect to transactions in the relevant security-based swaps because such communications may be viewed as an offer of those security-based swaps, including to non-ECPs. Accordingly, we believe that the final rule is needed so that the publication or distribution of SBS price quotes will not cause unintended consequences for the operation of security-based swap trading platforms by affecting the ability of market participants to rely on available exemptions from the registration requirements of the Securities Act or requiring that such transactions be registered under the Securities Act because they are viewed as offers to non-ECPs.
+
+We also believe that the final rule with respect to SBS price quotes is consistent with the protection of investors. We believe that the final rule strikes an appropriate balance between providing more certainty to market participants while ensuring that the interests of non-ECPs are adequately protected. Security-based swaps that are not registered under the Securities Act are permitted to be sold only to ECPs, and therefore the final rule is limited to the publication or distribution of SBS price quotes that relate to security-based swaps that may be purchased only by ECPs. Treating the publication or distribution of SBS price quotes as not being offers of the relevant security-based swaps will not harm non-ECPs because they will not be able to purchase such security-based swaps. Further, security-based swap transactions entered into solely between ECPs will be subject to the comprehensive regulatory regime of Title VII once it has been fully implemented, including transaction reporting, trade acknowledgment and verification, and business conduct standards . <sup>52</sup> In addition, the final rule relates to the treatment of communications involving SBS price quotes as offers for purposes of Section 5 of the Securities Act and will preserve the other protections of the federal securities laws, including the
+
+Commission’s ability to pursue an antifraud action in the offer and sale of the securities under Section 17(a) of the Securities Act. <sup>53</sup>
+
+The final rule also will enable security-based swap dealers to publish or distribute SBS price quotes on an unrestricted basis without concern that such publication or distribution could jeopardize the availability of exemptions from the registration requirements of the Securities Act for transactions involving the relevant security-based swaps. Unrestricted access to SBS price quotes will improve market transparency by providing all investors with the same information on the pricing of security-based swap transactions.
+
+Therefore, we believe that the final rule with respect to SBS price quotes is necessary or appropriate in the public interest, and consistent with the protection of investors.
+
+<h>2. SBS-Related Research Reports</h>
+
+We believe that written communications discussing security-based swaps that fall within the definition of “research report” in Rule 139(d) under the Securities Act should be treated similarly to other research involving securities offered pursuant to exemptions from the registration requirements of the Securities Act and should not be considered to be an offer. <sup>54</sup> We previously have noted the value of securities research in providing information to investors and the securities markets generally. <sup>55</sup> We believe that failing to exclude such written communications from the definition of “offer” under the Securities Act could have an adverse effect on the information available to investors and other market participants in the security- based swaps market, credit markets and securities markets generally. Further, we believe thatwritten communications discussing security-based swaps and security-based swap agreements should have consistent regulatory treatment.
+
+The Research Rules generally apply in the context of registered offerings. They also apply in the context of two types of unregistered offerings: Rule 144A and Regulation S offerings . <sup>56</sup> Under the Research Rules, research reports meeting certain conditions are not considered offers or general solicitation or general advertising in connection with offerings relying on Rule 144A and are not deemed to be directed selling efforts or to be inconsistent with the offshore transaction requirements of Regulation S. The Commission addressed these types of unregistered offerings in the Research Rules because it was concerned that the restrictions in Rule 144A and in Regulation S had resulted in brokers and dealers unnecessarily withholding regularly published securities research. <sup>57</sup> Security-based swaps offerings typically are not transacted in registered offerings or in reliance on Rule 144A or Regulation S and, as a result, the Research Rules currently do not cover written communications discussing security-based swaps.
+
+The final rule imposes several conditions on the publication or distribution of such written communications. First, the written communications must discuss covered SBS. <sup>58</sup> Second, the broker, dealer, or security-based swap dealer must publish or distribute research reports on the issuer underlying the security-based swap or its securities in the regular course of its business and the publication or distribution of the research report must not represent the initiation of publication of research reports about such issuer or its securities or the reinitiation of such publication following discontinuation of publication of such research reports. Third, thewritten communications must be a “research report” as defined in Rule 139(d) under the Securities Act. <sup>59</sup> The final rule clarifies that the term “issuer” as used in the definition of “research report” is (i) the issuer of a security or loan referenced in the security-based swap, (ii) each issuer or issuer of a security in a narrow-based security index referenced in the security- based swap, or (iii) each issuer referenced in the security-based swap (each, a “Referenced Issuer”). This provision makes clear that the “issuer” referenced in the definition of “research report” for purposes of the final rule is the Referenced Issuer and not the counterparties to the security-based swap. <sup>60</sup>
+
+The conditions to the final rule are similar to the conditions that apply to research reports covered by Rules 138 and 139 in the context of unregistered offerings transacted in reliance on Rule 144A or Regulation S . <sup>61</sup> Rules 138 and 139 include other conditions that apply to communications used in unregistered offerings transacted in reliance on Rule 144A and Regulation S that limit the types of issuers whose securities may be the subject of the securities research that is covered by the Research Rules. However, in the context of security-based swaps, a Referenced Issuer typically is not involved in the offering of the security-based swap. <sup>62</sup> As such, we do not believe that it is necessary to limit the types of issuers that may be the subject of SBS-related research reports.
+
+We believe that the final rule with respect to SBS-related research reports is necessary and appropriate in the public interest. As noted above, absent the provisions of the final rule, unrestricted publication or distribution of SBS-related research reports may affect the availability of Securities Act exemptions from registration and may constitute making “offers” to non-ECPs. Accordingly, we believe that the final rule is necessary so that the publication or distribution of SBS-related research reports will not impede the continuous flow of essential information into the security-based swaps market and security markets generally, affect the ability of market participants to rely on available exemptions from the registration requirements of the Securities Act, or require registration of the transactions under the Securities Act because they are viewed as offers to non-ECPs.
+
+We also believe that the final rule is consistent with the protection of investors. The availability of the final rule is conditioned on the satisfaction of certain requirements similar to the Research Rules. These requirements were included in the Research Rules to permit the dissemination of securities research around the time of an offering while avoiding offering abuses. <sup>63</sup> We believe that these requirements, which were designed to ensure that appropriate investor protections are maintained, will be similarly effective in avoiding offering abuses in the security-based swaps context. Further, the final rule applies with respect to covered SBS. Excluding the publication or distribution of SBS-related research reports from the definition of “offer” will not harm non-ECPs because they will not be able to purchase the relevant security- based swaps, as discussed above. Finally, the final rule has no effect on other provisions of the federal securities laws, including the application of the registration requirements of the Securities Act to transactions involving securities referenced in security-based swaps as well as thecontinued application of the antifraud provisions of the federal securities laws to transactions in security-based swaps or the securities referenced in such security-based swaps.
+
+Therefore, we believe that the final rule with respect to SBS-related research reports is necessary or appropriate in the public interest, and consistent with the protection of investors.
+
+<h>III. OTHER MATTERS</h>
+
+If any of the provisions of these rules, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
+
+Section 553(d) of the Administrative Procedure Act generally requires an agency to publish an adopted rule in the Federal Register 30 days before it becomes effective. <sup>64</sup> This requirement does not apply, however, if the adopted rule is a “substantive rule which grants or recognizes an exemption or relieves a restriction.” <sup>65</sup> We find that the final rule is a substantive rule which relieves a restriction. As explained above, under current law, there is uncertainty as to whether the publication or distribution of SBS price quotes or SBS-related research reports could be viewed as an “offer” of the relevant security-based swaps within the meaning of the Securities Act. If such communications are deemed to be an offer, the relevant security-based swaps consequently would not be able to be offered or sold absent an effective registration statement under the Securities Act. The final rule relieves this restriction and dispels market uncertainty by providing that the publication or distribution of SBS price quotes and SBS-relatedresearch reports will not be deemed offers of the relevant security-based swaps for purposes of Section 5 of the Securities Act.
+
+<h>IV. ECONOMIC ANALYSIS</h>
+
+We are sensitive to the economic consequences and effects, including costs and benefits, of our rules. The discussion below addresses the potential economic consequences and effects of the final rule and alternatives, including the costs and benefits, as well as the potential effects on efficiency, competition, and capital formation. <sup>66</sup>
+
+The final rule does not itself establish the scope or nature of the substantive requirements for security-based swaps following the full implementation of Title VII or their related costs and benefits. The rules implementing the substantive requirements under Title VII will be subject to their own economic analysis. The costs and benefits described below therefore are those that may arise in connection with the final rule.
+
+<h>A. Baseline</h>
+
+To assess the economic impact of the final rule, we are using as our baseline the regulation of security-based swaps as it exists at the time of this release, taking into account applicable rules adopted by the Commission, including the interim final exemptions affecting security-based swaps under the Securities Act and the Exchange Act.
+
+As part of the economic analysis in the Business Conduct Standards Adopting Release, we provided an extensive description of the security-based swaps market, including a detailed analysis of the participants in the security-based swaps market and the levels of security-based
+
+U.S.C. 77b(b). We have integrated our consideration of these issues into this economic analysis.swaps trading activity. <sup>67</sup> The present release addresses a narrower aspect of the security-based swaps market, and we refer market participants to the more comprehensive discussion set forth in the Business Conduct Standards Adopting Release for additional context. In particular, we noted in the Business Conduct Standards Adopting Release that the single-name credit default swaps market—a significant part of the security-based swaps market generally—involves thousands of distinct counterparties but with a heavy concentration of transactions among a relatively small number of dealer entities. <sup>68</sup> The notional size of the single-name credit default swaps market is in the trillions of dollars annually, corresponding to hundreds of thousands of individual transactions, and with approximately 80% of transactions between dealers. <sup>69</sup> Among the non-dealer market participants, private funds are the largest constituent group, followed by Dodd-Frank Act-defined special entities and investment companies registered under the Investment Company Act of 1940. <sup>70</sup> More broadly, the analysis shows that although the dollar volume of transactions in the security-based swaps market is large, there are fewer market participants than for other securities markets. <sup>71</sup>
+
+As noted above, <sup>72</sup> we adopted the interim final exemptions to exempt offers and sales of security-based swap agreements that became security-based swaps on the effective date of Title VII from all provisions of the Securities Act, other than the Section 17(a) anti-fraud provisions, as well as from the Exchange Act registration requirements and from the provisions of the Trust
+
+Indenture Act, provided that the transactions are entered into solely between ECPs. Currently, certain market participants may rely on the interim final exemptions to continue to enter into security-based swap transactions as they did prior to the effective date of Title VII without concern they would have to comply with the provisions of the Securities Act.
+
+The interim final exemptions are available, however, only for certain types of transactions involving security-based swaps. The security-based swaps covered by the interim final exemptions are only those that would have been “security-based swap agreements” prior to the effective date of Title VII, which is a narrower category of security-based swaps than under Title VI I . <sup>73</sup> In addition, the persons who may enter into security-based swaps covered by the interim final exemptions may be different from those entering into “security-based swap agreements” prior to the effective date of Title VII because the definition of “eligible contract participant” under Title VII is narrower than the pre-Title VII definition. <sup>74</sup> Any security-based swap transaction that cannot rely on the interim final exemptions would have to rely on another available exemption from the registration requirements of the Securities Act, such as the exemption in Section 4(a)(2), <sup>75</sup> or would have to be registered under the Securities Act.
+
+However, no Securities Act exemptions are available with respect to security-based swap transactions involving non-ECPs because Title VII amended the Securities Act to require that alloffers and sales of security-based swaps to non-ECPs must be registered under the Securities Act. <sup>76</sup>
+
+The interim final exemptions are self-executing and as such are available without any action by the Commission or its staff. As a result, market participants must make their own determinations as to whether such exemptions are available with respect to a particular security- based swap transaction. Given that such exemptions are self-executing, we do not have any data or other quantifiable information regarding the use of such exemptions, including which market participants are effecting transactions in reliance on such exemptions or the number of transactions effected in reliance on such exemptions.
+
+If we do not take other action, the interim final exemptions will expire on February 11, 2018. Although the analysis below considers the economic consequences and effects of the final rule under the current baseline, which includes the interim final exemptions, we also consider the potential impact of the final rule without the interim final exemptions in our discussion of alternatives.
+
+<h>B. Analysis of the Final Rule</h>
+
+Under the final rule, certain communications involving security-based swaps are not considered “offers” for purposes of Section 5 of the Securities Act. However, unlike the interim final exemptions, the final rule is not itself an exemption from the registration requirements of the Securities Act. As a result, while the types of communications covered by the final rule are not considered offers, market participants engaging in any security-based swap transaction will have to either satisfy the conditions of existing exemptions under the Securities Act or register such transactions under the Securities Act.
+
+Security-based swaps are transacted through hundreds of thousands of individual transactions annually, but because the available registration exemptions are self-executing, we do not know what fraction of market participants that engage in these transactions currently rely on the interim final exemptions as opposed to other exemptions from registration under the Securities Act. <sup>77</sup> For transactions involving security-based swaps that do not satisfy the conditions of the interim final exemptions, the final rule will assist market participants in evaluating how they should analyze certain communications that may affect their transactions.
+
+In particular, market participants will be able to assess the availability of exemptions from the registration requirements of the Securities Act without concern that certain communications will affect the availability of such exemptions.
+
+The final rule is self-executing in that the publication or distribution of SBS price quotes or SBS-related research reports is excluded from the definition of “offer” and thereby will not be deemed to be an offer to buy or purchase the security-based swaps that are the subject of the SBS price quotes or SBS-related research reports or any guarantees of such security-based swaps that are securities for purposes of Section 5 of the Securities Act without any action by the Commission or its staff. Because the final rule is self-executing, the only cost of being able to rely on the final rule is to determine its applicability. In addition, the final rule does not create any new filing, reporting, recordkeeping, or disclosure reporting requirements for any market participants.
+
+Excluding the types of communications covered by the final rule from the definition of “offer” will have minimal economic consequences or effects on the ability of market participants to enter into security-based swap transactions compared with the baseline. <sup>78</sup> For example, as compared to the baseline, the final rule does not affect the ability of market participants to enter into security-based swap transactions in reliance on available exemptions under the Securities Act, such as the exemption in Section 4(a)(2). While the interim final exemptions have limited conditions, <sup>79</sup> which differ from the conditions of the exemption under Section 4(a)(2) (including with respect to the communications that are the subject of the final rule), some security-based swap transactions engaged in after the effective date of Title VII may have been effected in reliance on Section 4(a)(2) rather than in reliance on the interim final exemptions. Further, the protections that currently exist under the interim final exemptions and under Section 4(a)(2) still apply. For example, the interim final exemptions do not limit or otherwise affect the antifraud provisions of the federal securities laws, including Section 17(a) of the Securities Act.
+
+The final rule does not impose new requirements on market participants. Further, because the final rule is available with respect to any security-based swap transaction involving an ECP, we do not believe that the final rule impairs competition between the different types of trading venues and methods that differ in the extent to which they make SBS price quotes available to the public and differ in their level of public SBS price quotes. Moreover, we believethat the final rule furthers the goal of Title VII to bring the trading of security-based swaps onto regulated trading platforms, which should help advance the objective of greater transparency and a more competitive environment for the trading of security-based swaps. As a result, we believe that increased transparency and competitiveness in the security-based swaps market could help lower transaction costs associated with market participant hedging (risk mitigating) strategies and thereby lower the cost of capital and facilitate the capital formation process. We also note that investors and other users of SBS-related research reports may benefit from the additional information provided by security-based swaps research included in research on other securities.
+
+We believe that the costs associated with the final rule are minimal. The final rule does not impose additional costs on market participants to determine ECP status. <sup>80</sup> In addition, non- ECPs are not permitted to purchase any security-based swaps that are the subject of the SBS price quotes or SBS-related research reports within the scope of the final rule, and the Securities Act registration requirements continue to apply to security-based swap transactions involving such non-ECPs. As a result of these limitations, the exclusion of the SBS price quotes and SBS- related research reports from being deemed offers should not increase the potential for unlawful sales of security-based swaps to non-ECPs.
+
+We recognize that a consequence of the final rule is that the vast majority of offers and sales of security-based swap transactions that potentially could be implicated by the final rule are unlikely to be registered under the Securities Act (with the consequent unavailability of certain remedies). As a result, and as is the case under the interim final exemptions, there will not be an effective registration statement under the Securities Act covering the offer and sale of suchsecurity-based swaps. A registration statement would provide certain information about the market participants, the security-based swap contract terms, and the identification of the particular reference securities, issuers, or loans underlying the security-based swaps. Further, while an investor will be able to pursue an antifraud action in connection with the purchase and sale of the securities in these security-based swap transactions under Section 10(b) of the Exchange Act, an investor will not be able to pursue civil remedies under Section 11 or 12(a)(2) of the Securities Act because the offer and sale of the securities in these security-based swap transactions will not be registered under the Securities Act. In addition, an investor may be limited in its ability to pursue civil remedies under Section 12(a)(1) of the Securities Act because the publication or distribution of quotes for security-based swaps will not be deemed to be an offer for purposes of Section 5 of the Securities Act. However, the Commission could still pursue an antifraud action in the offer and sale of the securities in these security-based swap transactions under Section 17(a) of the Securities Act.
+
+We note that the Business Conduct Standards require, among other things, that certain disclosures be made to certain ECPs. <sup>81</sup> Such disclosures include (i) the material risks and characteristics of the security-based swap, and certain clearing rights, (ii) the material incentives or conflicts of interest that a security-based swap dealer or major security-based swap participant may have in connection with the security-based swap, and (iii) the daily mark of the security- based swap. <sup>82</sup> While the information to be conveyed in the daily mark is not equivalent to that in a registration statement, we believe it could provide a counterparty with a useful and meaningful reference point against which to assess, among other things, the calculation of variation marginfor a security-based swap or portfolio of security-based swaps, and otherwise inform the counterparty’s understanding of its financial relationship with the security-based swap dealer or major security-based swap participant. <sup>83</sup> Moreover, because under the Business Conduct Standards security-based swap dealers and major security-based swap participants are required to provide the same valuation to all of their counterparties, and because counterparties could interact with multiple security-based swap dealers and major security-based swap participants, counterparties should have greater confidence of equal treatment as they now have the ability to observe when valuations differ among security-based swap dealers and major security-based swap participants.
+
+As noted above, to the extent that a security-based swap transaction does not meet the conditions of the interim final exemptions, the counterparties to such transaction likely are effecting the transaction in reliance on an available exemption from the registration requirements of the Securities Act. The final rule will benefit these counterparties because they will be able to assess the availability of an exemption from the registration requirements of the Securities Act without concern that the publication or distribution of SBS price quotes or SBS-related research reports for the security-based swap that is the subject of the transaction may compromise the availability of an exemption. The final rule also will benefit these counterparties by clarifying that the publication or distribution of SBS price quotes or SBS-related research reports does not constitute an offer of the security-based swaps that are the subject of such SBS price quotes or SBS-related research reports to non-ECPs. As noted above, no exemptions from the registrationparticipant from the appropriate clearing agency, and, for an uncleared security-based swap, the midpoint between the bid and offer prices for a particular security-based swap, or the calculated equivalent of the midpoint as of the close of business. Id.requirements of the Securities Act are available with respect to offers of security-based swaps to non-ECPs. As a result, without the final rule, these counterparties would be required to incur the costs associated with registration under the Securities Act.
+
+Unlike an equity or debt security, a security-based swap transaction could entail an ongoing financial commitment (i.e., economic exposure) between the dealer (or its affiliate) and the ECP client, whereby a client loss could result in a dealer gain of equal measure. The dealer (or its affiliate) would, at least initially, take the opposite economic exposure as that of the client, who may be entering into the transaction based on information provided by the dealer’s research or the research of its affiliate. In such instances, the research may not be considered independent.
+
+While the final rule’s treatment of SBS-related research reports could facilitate these types of transactions, which have the potential for a conflict of interest, we note that such communications are permissible today under the interim final exemptions, and that the additional disclosures required by the Business Conduct Standards should make such potential conflicts transparent to ECPs. Further, the Business Conduct Standards require detailed descriptions of any material risks and other characteristics of a security-based swap, which may mitigate any bias introduced in the SBS-related research reports.
+
+It remains possible, however, that some market participants may use the provisions under the final rule to disseminate SBS-related research reports with the intent of making an offer or for solicitation purposes, particularly given the lower cost of disseminating these reports compared to registration statements. The potential for market participants to misuse the final rule in this manner should be mitigated by the fact that the final rule covers only communications made in connection with security-based swaps that may be sold only to ECPs and would notcover other security-based swaps that may be offered or sold to non-ECPs. Further, the final rule incorporates other safeguards similar to those in the Research Rules. <sup>84</sup>
+
+<h>C. Alternatives Considered</h>
+
+One alternative to the final rule that we considered was to take no action at this time to address issues arising under the Securities Act for certain communications involving security- based swaps. This alternative would affect all security-based swap transactions, including those currently relying on the interim final exemptions. At this time, all security-based swap transactions either must be registered under the Securities Act or rely on an available exemption from registration. If we take no action with respect to the treatment of communications involving security-based swaps, the publication or distribution of SBS price quotes or SBS- related research reports could be deemed to constitute an offer, an offer to sell, or a solicitation of an offer to buy or purchase security-based swaps. If considered offers, such communications could affect the availability of exemptions from the registration requirements of the Securities Act. If no Securities Act exemptions are available with respect to a security-based swap transaction, such transactions would require registration.
+
+We believe that taking no action could disrupt and impose unnecessary costs on this segment of the security-based swaps market because it would perpetuate uncertainty as to whether certain communications involving SBS price quotes or SBS-related research reports will be deemed offers for purposes of Section 5 of the Securities Act. Without the final rule, the risk that these communications will be deemed offers might lead some market participants either not to engage in these security-based swap transactions, which could impede the market, or to register the offer and sale of the security-based swap transactions, which would likely increasecosts for market participants. This risk also may lead some market participants to withhold or limit the publication or distribution of SBS-related research reports, which could reduce the amount and quality of the information available to investors and other market participants in the security-based swaps market, credit markets and securities markets generally.
+
+We believe that the final rule facilitates capital formation and promotes efficiency by lowering the costs of security-based swap transactions relative to what would be required without the final rule. Without the final rule and following the expiration of the interim final exemptions, we believe that the operation of the registration provisions of the Securities Act could have unintended consequences for the operation of security-based swap trading platforms and the ability of market participants to enter into these security-based swap transactions in reliance on available exemptions from the registration requirements of the Securities Act following the full implementation of Title VII. Following the expiration of the interim final exemptions, we anticipate that the final rule will facilitate a more efficient market place for these security-based swap transactions.
+
+Without the final rule, a market participant may choose not to continue to participate in these types of transactions if compliance with the registration requirements of the Securities Act is required. This would likely curtail the use of trading platforms and venues that make use of broad communications methods for the public dissemination of SBS price quotes. As noted above, one of the goals of Title VII is to bring the trading of security-based swaps onto regulated trading platforms. In the absence of applicable Securities Act exemptions for a security-based swap transaction because the dissemination of price quotes for security-based swaps could be viewed as offers of those security-based swaps, the costs of the required registration of such transactions under the Securities Act could limit the incentive for market participants to engagein security-based swap transactions on regulated trading platforms. In response to the lack of an available exemption from registration, some market participants may also seek to restructure their operations to minimize their transactions in, or contact with, the United States in an effort to avoid having to register these transactions under the Securities Act. If market participants were to determine not to engage in security-based swap transactions due to the lack of an available exemption from registration, or to restructure their operations and thus avoid U.S. exposure because of the lack of such an exemption, such actions could affect the number of price quotes for, and the liquidity of, certain types of security-based swaps, which could have a detrimental effect on the ability of U.S. market participants to obtain credit exposure or hedge risk, and could have a more general adverse impact on the liquidity and price discovery of security-based swap transactions. This effect would be inconsistent with the tenet of increased transparency that is central to the legislative intent of Title VII.
+
+If market participants continue to engage in security-based swap transactions without the final rule and register these transactions under the Securities Act, they would incur increased compliance costs associated with such registration. Additionally, there is unlikely to be a commensurate benefit to registration given that the investors typically in greater need of the investor protections provided by registration are likely not ECPs, and those investors are not eligible to purchase any security-based swaps that are the subject of the communications within the scope of the final rule.
+
+While the use of a shelf registration statement may be available to some participants and would lessen the costs of registration compared to the costs for participants who were not able to use a shelf registration statement, there would be costs whether or not a shelf registrationstatement is available. <sup>85</sup> Given the eligibility criteria for using a shelf registration statement, the use of a shelf registration statement is likely to be available to a majority of market participants. However, to the extent that there is a decrease in the dissemination of certain communications related to security-based swaps in the absence of the final rule, such a decline may be concentrated among market participants who cannot lower their costs by using a shelf registration statement.
+
+Another alternative to the final rule would be to deem only SBS price quotes as not constituting offers for purposes of Section 5 of the Securities Act. To the extent SBS-related research reports are deemed to be offers for purposes of Section 5, dealers or their affiliates may not include information about security-based swaps in research reports, which may otherwise be useful to some investors. However, inclusion of this information may create conflicts of interest problems unique to the security-based swaps market, as discussed above.
+
+<h>V. PAPERWORK REDUCTION ACT</h>
+
+The final rule does not impose any new “collections of information” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”), <sup>86</sup> nor does it create any new filing, reporting, recordkeeping, or disclosure reporting requirements. Accordingly, we are not submitting the final rule to the Office of Management and Budget for review in accordance with the PRA. <sup>87</sup>
+
+<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+Under Section 605(b) of the Regulatory Flexibility Act, <sup>88</sup> we certified that proposed Rule 135d under the Securities Act would not have a significant economic impact on a substantial number of small entities. This certification, including our basis for the certification, was included in Part VII of the Proposing Release. We solicited comments on the potential impact of the proposed rule on small entities but received none. We are adopting this rule as proposed with one substantive addition concerning SBS-related research reports. We do not believe that this substantive addition alters the basis upon which the certification in the Proposing Release was made. Accordingly, we certify that Rule 135d under the Securities Act will not have a significant economic impact on a substantial number of small entities.
+
+<h>VII. STATUTORY AUTHORITY AND TEXT OF THE FINAL RULE</h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 77a et seq.
+
+2 Pub. L. No. 111-203, 124 Stat. 1376 (2010).
+
+3 The SEC and the CFTC, in consultation with the Board of Governors of the Federal Reserve System, jointly further defined the product and intermediary terms used in Title VII, including “swap,” “security-based swap,” “swap dealer,” “security-based swap dealer,” “major swap participant,” “major security-based swap participant,” “eligible contract participant,” and “security-based swap agreement.” See Further Definition of “Swap Dealer,” “Security-Based Swap Dealer,” “Major Swap Participant,” “Major Security-Based Swap Participant” and “Eligible Contract Participant”, Release No. 34-66868 (Apr. 27, 2012), 77 FR 30596 (May 23, 2012) (“Intermediary Definitions Adopting Release”), and Further Definition of “Swap,” “Security- Based Swap,” and “Security-Based Swap Agreement”; Mixed Swaps; Security-Based Swap Agreement Recordkeeping, Release No. 33-9338 (Jul. 18, 2012), 77 FR 48208 (Aug. 13, 2012) (“Product Definitions Adopting Release”).
+
+4 15 U.S.C. 78a et seq.
+
+5 See Sections 761(a)(2) and 768(a)(1) of the Dodd-Frank Act (amending Section 3(a)(10) of the Exchange Act [15 U.S.C. 78c(a)(10)] and Section 2(a)(1) of the Securities Act [15 U.S.C. 77b(a)(1)], respectively).
+
+6 See 15 U.S.C. 77e.
+
+7 The term “eligible contract participant” is defined in Section 1a(18) of the Commodity Exchange Act [7 U.S.C. 1a(18)]. The definition of the term “eligible contract participant” in the Securities Act refers to the definition of “eligible contract participant” in the Commodity Exchange Act. See Section 5(e) of the Securities Act [15 U.S.C. 77e(e)]. The SEC and the CFTC have adopted final rules further defining the term “eligible contract participant.” See Intermediary Definitions Adopting Release.
+
+8 See Section 768(b) of the Dodd-Frank Act (adding new Section 5(d) of the Securities Act [15
+
+9 See 15 U.S.C. 77b(a)(3).
+
+10 See footnote above and accompanying text.
+
+11 See Treatment of Certain Communications Involving Security-Based Swaps That May Be Purchased Only By Eligible Contract Participants, Release No. 33-9643 (Sep. 8, 2014), 79 FR 54224 (Sep. 11, 2014) (“Proposing Release”).
+
+12 See Proposing Release. Security-based swaps may be guaranteed to provide protection against a counterparty’s default. A guarantee of a security is itself a security for purposes of the Securities Act. See Section 2(a)(1) of the Securities Act [15 U.S.C. 77b(a)(1)]. As a result, the publication or distribution of SBS price quotes also may be viewed as offers of any guarantees of the security-based swaps that are the subject of the SBS price quotes. Because we believe that a guarantee of a security-based swap is part of the security-based swap transaction, the proposed rule also would deem the publication or distribution of SBS price quotes to not constitute an offer, an offer to sell, or a solicitation of an offer to buy or purchase any guarantees of the security-based swaps that are the subject of the SBS price quotes.
+
+13 See Proposing Release (79 FR at 54233 through 34). The Proposing Release discussed the types of communications covered and not covered by the proposed rule and included an extensive request for comment about communications characterized as research that discuss security-based swaps. See Proposing Release (79 FR at 54232 through 34).
+
+14 Rule 139(d) defines a research report as “a written communication, as defined in Rule 405, that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.” See 17 CFR 230.139(d).
+
+15 The Research Rules are safe harbors that describe the circumstances in which a broker or dealer may publish or distribute securities research around the time of a securities offering without violating Section 5 of the Securities Act. See 17 CFR 230.137, 17 CFR 230.138 and 17 CFR
+
+16 See 15 U.S.C. 77b(a)(3). Section 2(a)(3) provides, among other things, that “[a]ny offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security- based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.”
+
+17 There are many types of platforms currently in operation on or through which security-based swap transactions are effected. See Proposing Release (79 FR at 54225) and pages 18 through 20 (79 FR at 54228 through 29). While certain of these platforms may be required to register as security-based SEFs upon the full implementation of Title VII, they currently are not required to do so pursuant to exemptive relief adopted by the Commission. See Temporary Exemptions and Other Temporary Relief, Together with Information on Compliance Dates for New Provisions of the Securities Exchange Act of 1934 Applicable to Securities-Based Swaps, Exchange Act Release No. 64678 (Jun. 15, 2011), 76 FR 36287 (Jun. 22, 2011). The final rule covers the dissemination of price quotes relating to security-based swaps that are traded or processed on or through exempt security-based SEFs. As such, platforms currently operating pursuant to the Commission’s exemptive relief could rely upon the final rule in the event that there is uncertainty about dissemination of price quotes affecting the availability of exemptions from the registration requirements of the Securities Act.
+
+18 See footnote below and accompanying text.
+
+19 For example, the commenter noted that if such communications were deemed to be an offer, the exemption in Section 4(a)(2) may not be available. Id.
+
+20 See footnotes and below and accompanying text.
+
+21 See footnote above and accompanying text.
+
+22 See letter from Chris Barnard, dated October 27, 2014; letter from Daniel E. Glatter, Deputy General Counsel, GFI Group Inc., dated November 10, 2014 (“GFI Letter”); letter from Bryan Levin, Greenspring Funding, dated October 16, 2014; and letter from Kyle Brandon, Managing Director, Securities Industry and Financial Markets Association, dated December 8, 2014 (“SIFMA Letter”).
+
+23 See SIFMA Letter.
+
+24 Id. See, e.g., Regulation Analyst Certification [17 CFR 242.500 through 505] and FINRA Rules 2241 (Research Analysts and Research Reports) and 2242 (Debt Research Analysts and Debt Research Reports).
+
+25 See SIFMA Letter. Such research generally discusses security-based swaps in the following contexts: (i) providing an investment recommendation as to a specific security-based swap by offering views on the security or a relative value analysis against another security; (ii) referring to security-based swaps in connection with an analysis of credit markets or proposed credit trading strategies; or (iii) discussing one or more security-based swaps in the context of covering other securities of the related issuer as an indicator of the overall creditworthiness of such issuer. Id.
+
+26 Id.
+
+27 Id.
+
+28 Id.
+
+29 Id.
+
+30 Id.
+
+31 Id.
+
+32 Id.
+
+33 Id.
+
+34 Id.
+
+35 Id.
+
+36 Id.
+
+37 Id.
+
+38 Id.
+
+39 See Proposing Release (79 FR at 54226 and 54234).
+
+40 15 U.S.C. 77aaa et seq.
+
+41 See Rule 240 under the Securities Act [17 CFR 230.240], Rules 12a-11 and Rule 12h-1(i) under the Exchange Act [17 CFR 240.12a-11 and 17 CFR 240.12h-1], and Rule 4d-12 under the Trust Indenture Act [17 CFR 260.4d-12]. See also Exemptions for Security-Based Swaps, Release No. 33-9231 (Jul. 1, 2011), 76 FR 40605 (Jul. 11, 2011). The category of security-based swaps covered by the interim final exemptions involves those that would have been defined as “security- based swap agreements” prior to the enactment of Title VII. See Section 2A of the Securities Act [15 U.S.C. 77b(b)-1)] and Section 3A of the Exchange Act [15 U.S.C. 78c-1], each as in effect prior to the Title VII effective date. For example, the vast majority of security-based swap transactions involve single-name credit default swaps, which would have been “security-based swap agreements” prior to the Title VII effective date. In contrast, the definition of “security- based swap agreement” did not include security-based swaps that are based on or reference only loans and indexes only of loans. The Division of Corporation Finance issued a no-action letter that addressed the availability of the interim final exemptions to offers and sales of security-based swaps that are based on or reference only loans or indexes only of loans. See Cleary Gottlieb Steen & Hamilton LLP (Jul. 15, 2011). As noted in the Proposing Release, this no-action letter will remain in effect for so long as the interim final exemptions remain in effect.
+
+42 See Exemptions for Security-Based Swaps, Release No. 33-10305 (Feb. 10, 2017), 82 FR 10703 (Feb. 15, 2017).
+
+43 See Proposing Release (79 FR at 54234).
+
+44 See GFI Letter. The commenter submitted a previous comment letter requesting exemptions under the Securities Act, the Exchange Act, and the Trust Indenture Act for security-based swap transactions entered into between ECPs and effected through any trading platform similar to the
+
+45 Id.
+
+46 Id.
+
+47 Id.
+
+48 See footnote above and accompanying text.
+
+49 For security-based swap transactions involving an eligible clearing agency, the exemptions we adopted under the Securities Act, the Exchange Act, and the Trust Indenture Act will continue to be available. See Rule 239 under the Securities Act [17 CFR 230.239], Rules 12a-10 and 12h- 1(h) under the Exchange Act [17 CFR 240.12a-10 and 240.12h-1(h)], and Rule 4d-11 under the Trust Indenture Act [17 CFR 260.4d-11]. See also Exemptions for Security-Based Swaps Issued By Certain Clearing Agencies, Release No. 33-9308 (Mar. 30, 2012), 77 FR 20536 (Apr. 5, 2012). These exemptions do not apply to security-based swap transactions not involving an eligible clearing agency, even if the security-based swaps subsequently are cleared in transactions involving an eligible clearing agency. Id.
+
+50 The term “security-based swap” includes mixed swaps. The term “mixed swap” is defined in Section 3(a)(68)(D) of the Exchange Act [15 U.S.C. 78c(a)(68)(D)]. See Section IV of the Product Definitions Adopting Release.
+
+51 The Proposing Release discussed five examples of trading platforms that represent broadly the types of models for the trading of security-based swaps, including single-dealer request for quote platforms, aggregator-type platforms, multi-dealer request for quote platforms, limit order book systems, and electronic brokering platforms. See Proposing Release (79 FR at 545228 through 29). These examples may not represent every single trading method in existence today and the discussion was intended to give an overview of the models without providing the nuances of each particular model. Certain of these trading platforms may become security-based SEFs following the full implementation of Title VII.
+
+52 See, e.g., Regulation SBSR – Reporting and Dissemination of Security-Based Swap Information, Release No. 34-74244 (Feb. 11, 2015), 80 FR 14564 (Mar. 19, 2015), and Release No. 34-78321 (Jul. 14, 2016), 81 FR 53545 (Aug. 12, 2016); Trade Acknowledgment and Verification of Security-Based Swap Transactions, Release No. 34-78011 (Jun. 8, 2016), 81 FR 39807 (Jun. 17, 2016); and Business Conduct Standards for Security-Based Swap Dealers and Major Security- Based Swap Participants, Release No. 34-77617 (Apr. 14, 2016), 81 FR 29959 (May 13, 2016) (“Business Conduct Standards Adopting Release”). The business conduct standards generally require, among other things, disclosure by security-based swap dealers and major security-based swap participants to counterparties of (i) the material risks and characteristics of the security- based swap, and certain clearing rights, (ii) the material incentives or conflicts of interest that a security-based swap dealer or major security-based swap participant may have in connection with the security-based swap, and (iii) the daily mark of the security-based swap (collectively, the “Business Conduct Standards”). See Business Conduct Standards Adopting Release. The Business Conduct Standards also require that security-based swap dealers and major security- based swap participants verify that a counterparty meets the eligibility requirements of an ECP. See Business Conduct Standards Adopting Release.
+
+53 See 15 U.S.C. 77q(a).
+
+54 This approach is consistent with a commenter’s views. See SIFMA Letter.
+
+55 See Securities Offering Reform, Release No. 33-8591 (Jul. 19, 2005), 70 FR 44722 (Aug. 3, 2005) (“Securities Offering Reform Adopting Release”).
+
+56 See paragraphs (b) and (c), respectively, of Rules 138 and 139 under the Securities Act [17 CFR 230.138(b), 17 CFR 230.138(c), 17 CFR 139(b) and 17 CFR 139(c)].
+
+57 See Securities Offering Reform Adopting Release.
+
+58 See footnote above.
+
+59 See footnote above. The definition of “research report” in Rule 138 under the Securities Act is the same as the definition of that term in Rule 139 under the Securities Act. See 17 CFR 230.138.
+
+60 The security-based swaps market generally involves bilateral contracts privately negotiated between security-based swap dealers and sophisticated counterparties who must qualify as ECPs, with no secondary resale market. As a result of the bilateral nature of the security-based swap, each party could be viewed as the issuer of a security-based swap to the other party.
+
+61 See footnote above.
+
+62 Footnotes and above and accompanying text address transactions where the issuer may be involved in the offering of the security-based swaps.
+
+63 See Securities Offering Reform Adopting Release.
+
+64 See 5 U.S.C. 553(d).
+
+65 See 5 U.S.C. 553(d)(1).
+
+66 Section 2(b) of the Securities Act requires that the Commission, when engaging in rulemaking that requires it to consider whether an action is necessary or appropriate in the public interest, to also consider whether the action will promote efficiency, competition, and capital formation. 15
+
+67 See footnote above.
+
+68 See Business Conduct Standards Adopting Release.
+
+69 Id.
+
+70 Id.
+
+71 Id.
+
+72 See footnote above and accompanying text.
+
+73 See Section 3(a)(68) of the Exchange Act for the definition of “security-based swap.” 15 U.S.C. 78c(a)(68). See footnote above regarding the definition of “security-based swap agreement.”
+
+74 The amendments to the definition of “eligible contract participant” increased the dollar threshold for certain persons and, with respect to natural persons, replaced a “total assets” test with an “amounts invested on a discretionary basis” test. See Section 1a(12) of the Commodity Exchange Act [7 U.S.C. 1a(12)], as in effect prior to the effective date of Title VII, and Section 1(a)(18) of the Commodity Exchange Act, as re-designated and amended by Section 721 of the Dodd-Frank Act. The definition of the term “eligible contract participant” in the Securities Act and in the Exchange Act refers to the definition of “eligible contract participant” in the Commodity Exchange Act. See footnote above.
+
+75 See 15 U.S.C. 77d(a)(2).
+
+76 See footnote above and accompanying text.
+
+77 Given that these exemptions, including the exemption in Section 4(a)(2) of the Securities Act, are self-executing, we do not have any data or other quantifiable information regarding the number of market participants that may be effecting security-based swap transactions in reliance on these exemptions. However, we believe that a significant portion of market participants engaging in these transactions are eligible to rely on the interim final exemptions because the vast majority of security-based swap transactions involve single-name credit default swaps, which would have been “security-based swap agreements” prior to the effective date of Title VII. See footnote above and accompanying text.
+
+78 The baseline used in this analysis takes into account the interim final exemptions and the fact that Title VII has not been fully implemented. As noted above, unless further action is taken, the interim final exemptions will expire on February 11, 2018. In the discussion of alternatives below, we consider the economic consequences and effects of the final rule without the interim final exemptions.
+
+79 See footnote above and accompanying text. In that regard we note, for example, that security- based swaps based on single loans would not be within the definition of “security-based swap agreement” in effect prior to the effective date of Title VII.
+
+80 The determination of whether a person is an ECP is part of the Business Conduct Standards, which require that security-based swap dealers and major security-based swap participants verify the ECP eligibility of their security-based swap counterparties. See footnote above.
+
+81 See footnote above. The Commission has adopted rules to implement the Business Conduct Standards provisions of the Dodd-Frank Act.
+
+82 Id.
+
+83 For instance, under the Business Conduct Standards, the required disclosure of the daily mark consists of, for a cleared security-based swap, providing counterparties with the daily end-of-day settlement price received by the security-based swap dealer or major security-based swap
+
+84 See footnote above and accompanying text.
+
+85 Certain market participants could reduce the registration burden by using the Form S-3 registration statement for their securities offerings. We previously have estimated that 50 or fewer entities ultimately may have to register with us as security-based swap dealers. See Business Conduct Standards Adopting Release. These entities (or their affiliates) are likely to be seasoned or well-known seasoned issuers that are eligible to use the Form S-3 registration statement for their securities offerings. In particular, these entities (or their affiliates) are likely to have a Form S-3 shelf registration statement that is effective under the Securities Act. A shelf registration statement covers the offer and sale of securities that are not necessarily to be sold in a single offering immediately upon effectiveness; instead, the securities are typically sold in a number of “takedowns” over a period of time or on a continuous basis. A shelf registration statement allows issuers to conduct multiple types and amounts of securities offerings using the same registration statement. If these entities (or their affiliates) are required to register the offer and sale of the securities in security-based swap transactions, they would likely use their shelf registration statements for the offerings. For takedowns off their shelf registration statements, an entity (or its affiliate) would file a prospectus supplement under the Securities Act that contains the specific terms of the offering. As a result of the shelf registration procedure, these entities (including their affiliates) would incur lower costs relating to the takedown for each security- based swap transaction than they would otherwise incur if they had to use a non-shelf registration statement for the security-based swap transactions. While the use of a shelf registration statement would reduce the registration burden for qualifying market participants, it may not be available to all market participants.
+
+86 44 U.S.C. 3501 et seq.
+
+87 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+88 5 U.S.C. 605(b).

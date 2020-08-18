@@ -1,0 +1,197 @@
+https://www.sec.gov/rules/final/ia1769.htm
+
+	I.0.0.0: II. Background
+
+		I.A.0.0: A. Rule 204-5
+
+		I.B.0.0: B. Form ADV-Y2K
+
+			I.B.1.0: 1. Part I: Information Required From All Advisers
+
+			I.B.2.0: 2. Part II: Information Required from Advisers to Investment Companies
+
+	IV.0.0.0: IV. Paperwork Reduction Act
+
+	V.0.0.0: V. Cost/Benefit Analysis
+
+	VI.0.0.0: VI. Summary of Regulatory Flexibility Analysis
+
+	VII.0.0.0: VII. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Investment Adviser
+
+Year 2000 Reports 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+17 CFR Parts 275 and 279 
+
+(Release No. IA- 1769; IC-23476; File No. S7-20-98) 
+
+ RIN 3235-AH45 
+
+Investment Adviser Year 2000 Reports 
+
+AGENCY: Securities and Exchange Commission. 
+
+ ACTION: Final rule. 
+
+ SUMMARY: The Commission is adopting a new rule and form under the InvestmentAdvisers Act of 1940 that requires most registered investment advisers to file with theCommission reports regarding their plans for addressing the Year 2000 computer problem.The reports will provide the Commission and investors with information regardingadvisers‘ plans to address the Year 2000 problem. 
+
+ EFFECTIVE DATE: The rule and form will become effective November 13, 1998. See section III.A for filing dates. 
+
+ FOR FURTHER INFORMATION CONTACT: Carolyn-Gail Gilheany, Senior Counsel, orArthur B. Laby, Special Counsel, at (202) 942-0716, Task Force on Investment AdviserRegulation, Division of Investment Management, Securities and Exchange Commission, 450Fifth Street, N.W., Mail Stop 5-6, Washington, D.C. 20549. The Commission has placed alist of frequently asked questions and answers about Form ADV-Y2K on the CommissionsInternet web site. The list is located at http://www.sec.gov/rules/othern/faqs2000.htm . TheCommission staff will update these questions and answers from time to time. The Commissionurges interested persons with access to the Internet to review these questions and answersbefore contacting Commission staff. 
+
+ SUPPLEMENTARY INFORMATION: The Commission today is adopting rule 204-5 (17 CFR275.204-5) and Form ADV-Y2K (17 CFR 279.9) under the Investment Advisers Act of 1940 (15U.S.C. 80b) ("Advisers Act").
+
+<END HEADER>
+
+<h>I . Executive Summary The Commission is conducting a review of U.S. public companies and the U.S. securitiesindustry to examine how they will address the Year 2000 computer problem. <sup> 1 </sup> As part of this initiative, we recently adopted rule changes torequire certain broker-dealers and transfer agents to file reports with the Commission onYear 2000 readiness. <sup> 2 </sup> Today theCommission is adopting a new rule and form that requires most investment advisersregistered with the Commission under the Advisers Act to file reports on their Year 2000readiness. The reports will permit us to better evaluate the preparedness of advisers forthe Year 2000 problem, identify the advisers that pose a significant risk to their clientsand shareholders, and evaluate the adequacy of disclosure made by advisers regarding theYear 2000 problem. This rule is the most recent in a series of actions we have taken in aneffort to assure that the securities industry is prepared for the computer challengespresented by the Year 2000 problem. </h>
+
+ II. Background Investment advisers ("advisers") are responsible for managing approximately$15 trillion in assets, including over $5 trillion in mutual funds. <sup> 3 </sup> Advisers manage these assets by using both internal computersystems and external systems that connect them with the markets, service providers andclients. The failure of advisers‘ computer systems could threaten their ability tomanage client assets, communicate information to clients and comply with the federalsecurities laws. <sup> 4 </sup> In the case ofinvestment companies, a breakdown in their systems could interfere with the day-to-daymanagement of fund portfolios, delay shareholder transactions and compromise recordkeepingand other compliance systems. 
+
+The Commission has taken several measures to encourage advisers and funds to timelyaddress the challenges posed by the Year 2000 problem. Since 1996, our examiners haveraised Year 2000 concerns during adviser and investment company examinations, and recentlyour staff has begun a series of examinations that focus on plans to address the Year 2000problem. Last year, Chairman Levitt sent a letter to all registered advisers urging themto prepare for the Year 2000 problem, <sup> 5 </sup>and in July 1998, we published an interpretive release to provide guidance on thedisclosure obligations of advisers, funds and others. <sup> 6 </sup> Last month, we announced a moratorium on the implementation ofnew SEC rules that require major reprogramming of systems by, among others, investmentadvisers and funds. <sup> 7 </sup> The moratoriumis designed to facilitate and encourage securities industry participants to allocatesufficient resources to remediation of the Year 2000 problem. 
+
+On June 30, 1998, the Commission issued a release proposing rule 204-5 ("ProposingRelease") that would require most advisers registered with the Commission to submit aform, Form ADV-Y2K, on their preparedness for the Year 2000 problem. <sup> 8 </sup> In response to the proposal, we received 24 comment letters fromprofessional and trade organizations and investment advisers. Nearly all of the commenterssupported the proposal, which we are adopting largely as proposed. 
+
+ III . Discussion<h>A. Rule 204-5 New rule 204-5 requires each investment adviser that is registered with the Commissionand (i) has at least $25 million of assets under management, <sup> 9 </sup> or (ii) is an adviser to an investment company registered underthe Investment Company Act of 1940, <sup> 10 </sup>to file Form ADV-Y2K with the Commission. <sup> 11 </sup>The form must be filed with the Commission no later than December 7, 1998, and an updatedform must be filed no later than June 7, 1999. Each filing must reflect the adviser‘spreparedness for the Year 2000 problem no earlier than 15 days before the respectivefiling deadline. </h>
+
+Shortly after publication of this release, we will mail a copy of Form ADV-Y2K to eachregistered adviser. The form mailed to each adviser will contain certain pre-printedinformation, such as the advisers name and registration number. The form (without thepre-printed information) also is available on the Commission‘s web site, and advisersmay down-load the form and complete it on their computers, print the completed form, andreturn it to the Commission. <sup> 12 </sup> TheCommission asks advisers to return the Form ADV-Y2K they receive in the mail containingthe pre-printed information or the version down-loaded from the web-site. <sup> 13 </sup> An authorized person of the adviser, who participates inmanaging or directing the adviser‘s affairs, must sign the report. <sup> 14 </sup> Form ADV-Y2K, like all forms filed with the Commission byinvestment advisers, will be publicly available. <sup> 15 </sup> Shortly after the Commission receives the forms, we will makedata from the forms available on the Commission‘s web site. <sup> 16 </sup> In addition, the Commission or its staff, after reviewing theforms and other pertinent information, may make findings or conclusions, or compileinformation from filings by individual firms, and make firm-specific, aggregate orderivative information available to the public, Congress or members of the securitiesindustry. 
+
+Four commenters urged us to exempt from the rule advisers that also are SEC-registeredbroker-dealers or transfer agents, or affiliates of banks. These commenters argued thatsince these advisers are required to file similar reports with us or with the bankregulatory agencies, there is no reason to require duplicative reports. While theCommission appreciates the need to avoid imposing unnecessary paperwork on investmentadvisers, we are not adopting these commenters‘ suggestions. An adviser‘sresponse to the same or similar questions in Form BD-Y2K, Form TA-Y2K <sup> 17 </sup> or similar forms filed with the banking regulatory agencies,may (and in some cases should) be different because of the different focus of thosereports. To the extent there is overlap among the reports, the burdens imposed bycompleting Form ADV-Y2K should not be significant since previous responses can simply berestated in Form ADV-Y2K (if they remain accurate). <sup> 18 </sup><h>B. Form ADV-Y2K New Form ADV-Y2K has two parts. The first part must be completed by all advisersrequired to file the form, while the second part must be completed only by advisers toinvestment companies registered with the Commission under the Investment Company Act.1. Part I: Information Required From All Advisers Part I of the form contains 13 questions about an adviser‘s plans to address theYear 2000 problem with respect to all of its clients. <sup> 19 </sup> The questions are in multiple choice or fill-in-the-blankformat; all advisers filing the form must respond to each question. Form ADV-Y2K asks forinformation in several areas: (1) the adviser‘s Year 2000 compliance plan; (2)resources and personnel to address Year 2000 issues; (3) systems that may be affected; <sup> 20 </sup> (4) the adviser‘s progress inaddressing Year 2000 issues; (5) contingency plans; (6) the readiness of third parties;and (7) whether, and the means by which, the adviser takes into consideration the Year2000 preparedness of issuers of securities the adviser recommends to clients. <sup> 21 </sup> </h><h>1. Part I: Information Required From All Advisers Part I of the form contains 13 questions about an adviser‘s plans to address theYear 2000 problem with respect to all of its clients. <sup> 19 </sup> The questions are in multiple choice or fill-in-the-blankformat; all advisers filing the form must respond to each question. Form ADV-Y2K asks forinformation in several areas: (1) the adviser‘s Year 2000 compliance plan; (2)resources and personnel to address Year 2000 issues; (3) systems that may be affected; <sup> 20 </sup> (4) the adviser‘s progress inaddressing Year 2000 issues; (5) contingency plans; (6) the readiness of third parties;and (7) whether, and the means by which, the adviser takes into consideration the Year2000 preparedness of issuers of securities the adviser recommends to clients. <sup> 21 </sup> </h>
+
+Several questions elicit information on specific aspects of the adviser‘s plans toaddress the Year 2000 problem and when those plans will be complete. <sup> 22 </sup> This information is important so that the Commission can learnnot only about the steps an adviser is taking to prepare, but also when it expects tocomplete those steps. Several commenters expressed concern that some of these questions,as proposed, appeared to prescribe specific steps that all advisers must take inorder to prepare for the Year 2000 problem. <sup> 23 </sup>We have revised the wording of these questions to clarify that the Advisers Act requires no particular steps to be taken by an adviser to prepare for the Year 2000 problem. <sup> 24 </sup> The Commission highly recommends,however, that all advisers consider the six steps of preparation the Commission hasidentified that advisers and funds can take to prepare for the Year 2000 computer problem. <sup> 25 </sup> 
+
+An adviser that has computer systems for which it has made different amounts ofprogress in preparing for the Year 2000 must respond to questions regarding its Year 2000preparedness based on a "qualitative average" of its systems. <sup> 26 </sup> This qualitative average requires an adviser to give greaterweight to mission-critical systems than to other of its systems. Commenters generallypreferred this approach to an alternative under which the adviser‘s progress withrespect to each system would be separately reported. 
+
+Responses to several questions in Form ADV-Y2K depend on obtaining information aboutthird party systems that communicate with the adviser‘s systems. Several commentersasserted that advisers should be required to report only on their own readiness for theYear 2000 problem, not on the readiness of third parties, especially since the adviser isrequired to execute the form. Because many advisers rely extensively on the computersystems of third parties in their day-to-day business, eliminating these questions wouldreduce substantially the utility of these reports and yield an incomplete picture ofreadiness for the Year 2000. The Commission, therefore, has not eliminated these questionsfrom the form. <sup> 27 </sup><h>2. Part II: Information Required from Advisers to Investment Companies Part II of Form ADV-Y2K must be completed by advisers to a registered investmentcompany or group of investment companies. Part II is designed to elicit information aboutthe Year 2000 readiness of the investment companies ("funds"). Only advisersthat are sponsors or administrators of a fund complex must complete Part II. <sup> 28 </sup> If no sponsor or administrator ofthe complex is a registered adviser, at least one adviser to a fund (or series) in thecomplex must submit a report for the fund complex, if the adviser is registered with theCommission. <sup> 29 </sup> </h>
+
+The Commission proposed to require each adviser to a fund complex to report for theentire complex unless another adviser is reporting on behalf of the fund, and explainedthat this approach would permit multiple advisers to a single fund complex to decide amongthemselves which adviser would file the report. <sup> 30 </sup> We received numerous objections to this proposal from advisersto funds. Many argued that advisers or sub-advisers that do not sponsor funds are not in aposition to report on a fund‘s preparation for the Year 2000 problem. In response, wehave added a note clarifying that the adviser that is the sponsor or administrator of afund complex should file the report. <sup> 31 </sup>In some cases, however, the sponsor or administrator of a fund complex is not a registeredinvestment adviser, and no adviser otherwise might be required to file Part II for thatfund complex. Therefore, in such cases (which the Commission believes to be few) at leastone of the advisers to the fund complex must file Part II of Form ADV-Y2K on behalf of thecomplex. <sup> 32 </sup> 
+
+Commenters on the Proposed Form expressed concern that some of the questions in Part IIcontained assumptions that funds rather than third party service providers (such asadvisers or administrators) were engaged in Year 2000 planning and remediation activities.We have revised several questions and deleted others to make clear that the form is notbased on these assumptions. We also have added an instruction at the suggestion of onecommenter to clarify that advisers, in responding to questions in Form ADV-Y2K, shouldtreat as third parties any other advisers or sub-advisers for the fund or funds for whichthe adviser is completing the Form. <sup> 33 </sup>Finally, in response to two comments, we have added an instruction clarifying how advisersto insurance company separate accounts, <sup> 34 </sup>and the funds underlying the separate accounts, should respond to items in Form ADV-Y2K. <sup> 35 </sup><h>IV. Paperwork Reduction Act As discussed in the Proposing Release, certain provisions of rule 204-5 (17 CFR275.204-5) contain collection of information requirements within the meaning of thePaperwork Reduction Act of 1995 <sup> 36 </sup>because registered advisers would have to file new Form ADV-Y2K (17 CFR 279.9) with theCommission. The form is necessary for the Commission to assess the steps advisers aretaking to manage and avoid Year 2000 problems. The Commission did not receive publiccomments in response to its request for comments in the Proposing Release on the PaperworkReduction Act analysis. <sup> 37 </sup> </h>
+
+Under Office of Management and Budget rules, an agency may not conduct or sponsor, anda person is not required to respond to, a collection of information unless the agencydisplays a valid OMB control number.<sup> </sup> <sup> 38 </sup> The Commission, therefore, has sent the collection ofinformation requirements contained in rule 204-5 and Form ADV-Y2K to the Office ofManagement and Budget for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11.The title for the collection of information is "Proposed Rule 204-5" and"Form ADV-Y2K." OMB has approved the PRA request and assigned control number3235-0513 to Form ADV-Y2K with an expiration date of December 31, 1999. 
+
+The Commission is adopting rule 204-5 and Form ADV-Y2K and requiring most registeredinvestment advisers to file the form with the Commission regarding advisers‘ plans toaddress the Year 2000 computer problem. The rule imposing this collection of informationcan be found at 17 CFR 275.204-5 and 17 CFR 279.9. The collection of information requiredby Form ADV-Y2K is mandatory and responses are not kept confidential. 
+
+Rule 204-5 describes the requirement to file Form ADV-Y2K. The Commission estimatesthat there are approximately 7,500 investment advisers registered with the Commission,approximately 6,500 of which would be required to file Form ADV-Y2K. Although the amountof time needed to comply with the rule could vary, the Commission estimates that, onaverage, an adviser would devote approximately two employee hours of preparation time tocompleting Part I of the form, and an additional two employee hours to completing Part IIof the form, if the adviser is required to complete Part II. This estimate was based onfield-testing of Form ADV-Y2K by the Commission‘s Office of Compliance Inspectionsand Examinations. The total annual burden will be 14,782 hours ((6,500 advisers × 2 hours)+ (891 advisers × 2 hours)). This burden would be incurred twice, once in 1998 and once in1999. The rule would not impose an ongoing reporting requirement, and the rule and form,as adopted, do not impose a greater paperwork burden on advisers than was estimated anddescribed in the Proposing Release.<h>V. Cost/Benefit Analysis The Commission is sensitive to the costs and benefits imposed by its rules, andunderstands that completing Form ADV-Y2K may impose costs on advisers and funds. Asdiscussed below, we believe that the costs imposed by requiring advisers to complete FormADV-Y2K are necessary and justified in light of the need to make information on the Year2000 problem available to investors, Congress and the Commission. </h>
+
+The Commission believes that requiring advisers to report on their readiness for theYear 2000 problem will yield important benefits, both direct and indirect. The Year 2000reports required by the rule will yield direct benefits because they will assist theCommission in evaluating the preparedness of advisers and funds for the Year 2000 computerproblem. The reports also will help us identify advisers and funds that may not bepreparing for the Year 2000 problem and may pose a risk to their clients and shareholders.The reports also will identify disclosure by advisers and funds regarding risks associatedwith the Year 2000 problem that may be inadequate. Finally, the reports will permit theCommission to make information available to the public and to fulfill requests by membersof Congress for information regarding the securities industry‘s readiness for theYear 2000 problem. 
+
+The Year 2000 reports will yield important indirect benefits. By requiring the Year2000 reports at this time, some advisers and funds, whose Year 2000 preparedness effortsto date have been inadequate, may be persuaded to accelerate their efforts, which couldsave them significant costs in the future if they fail to make the necessary modificationsto their computer systems. <sup> 39 </sup> Thisindirect benefit is difficult to quantify. It is difficult to estimate the costs thatcould be incurred if computer systems of advisers and funds fail to function properlyafter December 31, 1999. <sup> 40 </sup>Moreover, if the systems of advisers and funds fail after December 31, 1999, it could havenegative effects not only for the advisers and funds themselves, but also for investorsand third parties, such as underwriters, brokers, transfer agents, custodians,sub-advisers and other service providers. 
+
+Avoiding the harm to third parties may be one of most important benefits to properpreparation for the Year 2000 problem. Most firms‘ computer systems today depend onthe systems of many other firms and individuals. If even one of these systems were tofail, this could have negative repercussions on the systems of other firms with which itscomputers communicate. The failure to address this interdependence may be one of thegreatest harms stemming from the Year 2000 problem. <sup> 41 </sup> The benefit of avoiding this harm from occurring, althoughdifficult to quantify, may be extremely significant to investors, firms and the economy ingeneral. 
+
+The proposed rule may impose some additional costs on advisers and funds. Advisers mayneed to spend resources obtaining answers to questions in the form, completing the formand submitting it to the Commission. These costs likely will vary from adviser to adviser.Small advisers, for example, may spend comparatively little time completing the formbecause small advisers are likely to have few systems, and one person may be responsiblefor all of the systems. This person may have all of the information necessary to completethe form and can do so in a few minutes. Larger advisers may require more time becausethey are more likely to have many systems and it is possible that such advisers would haveto draw on the knowledge of several individuals to complete the form. 
+
+The Commission estimates that there are approximately 7,500 investment advisersregistered with the Commission, approximately 6,500 of which would be required to fileForm ADV-Y2K. Although the time needed to comply with the rule likely will vary fromadviser to adviser, the Commission estimates that an adviser will devote approximately twoemployee hours of time to complete Part I of the form. In addition, approximately 891registered investment advisers have registered investment companies as clients. In ourview, those 891 advisers are likely to need an additional two hours completing Part II ofthe form on behalf of a fund or fund complex. 
+
+These estimates are based on field-testing of the form by the Commission‘s Officeof Compliance Inspections and Examinations. Two commenters discussed the amount of time itwould take to complete the form. One agreed with the Commission‘s estimate while theother stated that the Commission‘s estimate was low, but did not specify the amountof time that would be required. Thus, the Commission is not revising its annual burdenestimate, which is 14,782 hours ((6,500 advisers × 2 hours) + (891 advisers × 2 hours)).The form likely will be completed by information technology professionals. The Commissionestimates the hourly wage rate for these professionals to be $100 per hour. TheCommission, therefore, estimates that the total annual cost of completing the forms is$1,478,200. <sup> 42 </sup> The Commissionbelieves that the proposed rule would not impose significant additional costs oninvestment advisers. 
+
+The Commission requested comment on its cost/benefit analysis, and commenters wererequested to provide views and empirical data relating to any costs and benefitsassociated with the rule. No comments about the cost/benefit analysis, other than thosediscussed above, were provided, and no data were presented. The Commission believes thatthe costs imposed by the rule are insignificant compared to the benefits. If advisers andfunds are not prepared for the Year 2000 problem, however, the effect on advisers andfunds, and their clients and third party service providers, could be very substantial. Forthat reason, in the Commission‘s view, the chance of ameliorating the Year 2000problem with respect to advisers and funds justifies the costs involved.<h>VI. Summary of Regulatory Flexibility Analysis The Commission has prepared a Final Regulatory Flexibility Analysis ("FRFA")in accordance with the provisions of the Regulatory Flexibility Act ("Reg. Flex.Act") (5 U.S.C. 604) in connection with the adoption of the rule described in thisRelease. An Initial Regulatory Flexibility Analysis ("IRFA") was prepared inaccordance with 5 U.S.C. 603 in conjunction with the Proposing Release and was madeavailable to the public. A summary of the IRFA was published in the Proposing Release. Nocomments were received on the IRFA. <sup> 43 </sup></h>
+
+The FRFA discusses both the need for, and objectives of, the rule and form adopted bythe Commission. As set forth in greater detail in the FRFA, the rule requires mostregistered investment advisers to file with the Commission a report on Form ADV-Y2Kregarding plans to address the Year 2000 computer problem. 
+
+The FRFA provides a description and an estimate of the number of small entities towhich the rule will apply. For purposes of the Advisers Act and the Reg. Flex. Act, aninvestment adviser generally is a small entity if (i) it manages assets of $25 million orless reported on its last amended Form ADV (17 CFR 279.1) or its most recent Schedule I toForm ADV (17 CFR 279.1), (ii) it does not have total assets of $5 million or more on thelast day of its most recent fiscal year, and (iii) it is not in a control relationshipwith another investment adviser that is not a small entity. <sup> 44 </sup> The Commission estimates that approximately 1,000 investmentadvisers registered with the Commission are small entities. 
+
+Few or none of the approximately 1,000 small entities would be subject to the rule.Only Commission registered advisers that either have $25 million or more under managementor act as advisers to registered investment companies must file Form ADV-Y2K. Since thedefinition of small entity establishes a threshold of $25 million under management, mostor all small entities are exempt from the rule by its terms. In addition, the Commissionbelieves that few or no investment advisers that have less than $25 million undermanagement have more than $5 million in assets or are in a control relationship with anentity that is not considered a small entity. The only other potential small entities thatwould be subject to the rule are those advisers that advise a registered investmentcompany. The Commission is not aware of any small entity that advises a registeredinvestment company. Therefore, the Commission believes that there are few or no smallentities affected by the rule. 
+
+Finally, the FRFA states that, in adopting the amendments, the Commission considered(a) the establishment of differing compliance requirements that take into account theresources available to small entities; (b) simplification of the rule‘s requirementsfor small entities; (c) the use of performance rather than design standards; and (d) anexemption from the rules for small entities. The FRFA states that the Commission concludedthat different standards for small entities are not necessary or appropriate. 
+
+The FRFA is available for public inspection in File No. S7-20-98, and a copy may beobtained by contacting Carolyn-Gail Gilheany, Senior Counsel, Task Force on InvestmentAdviser Regulation, Division of Investment Management, Securities and Exchange Commission,450 Fifth Street, N.W., Mail Stop 5-6, Washington, D.C. 20549.<h>VII. Statutory Authority The Commission is adopting rule 204-5 and Form ADV-Y2K under the authority in sections204 and 211(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b-4 and 80b-11(a)). </h>
+
+<END MAIN TEXT>
+
+1 On January 1, 2000, certain computer systems mayfunction erroneously if modifications have not been made, because the systems may read thedate 01/01/00 as being January 1, 1900, or another incorrect date.
+
+2 Reports to be Made by Certain Brokers and Dealers,Exchange Act Release No. 40162 (July 2, 1998) (63 FR 37668 (July 13, 1998)); Year 2000Readiness Reports To Be Made by Certain Transfer Agents, Exchange Act Release No. 40163 (July 2, 1998) (63 FR 37688 (July 13, 1998)). Under these rules, broker-dealers arerequired to file Form BD-Y2K; transfer agents are required to file Form TA-Y2K.
+
+3 See The Investment Company Institute, CurrentStatistical Releases, Trends in Mutual Fund Investing, April 1998, available at http://www.ici.org/facts_figures/trends_0298.html.
+
+4 See Tracey Longo, The Millennium Time Bomb, 28 FinancialPlanning 180 (Sept. 1998).
+
+5 Letter from Chairman Levitt, dated November 13, 1997,available at http://www.sec.gov/news/press/97-102.txt .
+
+6 Statement of the Commission Regarding Disclosure of Year2000 Issues and Consequences by Public Companies, Investment Advisers, InvestmentCompanies, and Municipal Securities Issuers, Securities Act Release No. 7558 (July 29,1998) (63 FR 41394 (Aug. 4, 1998)) (Statement on Year 2000 Disclosure).
+
+7 Commission Statement of Policy on Regulatory Moratorium to Facilitate the Year 2000 Conversion, Investment Advisers Act Release No. 1949 (Aug. 27, 1998) (63 FR 47051 (Sept. 3, 1998)).
+
+8 Investment Adviser Year 2000 Reports, InvestmentAdvisers Act Release No. 1728 (June 30, 1998) (63 FR 36632 (July 7, 1998)).
+
+9 The amount of assets under management for purposes of the rule is the amount reported on Schedule I of the adviser‘s most recently filed Form ADV (17 CFR 279.1), or the most recent amendment to its Form ADV.
+
+10 15 U.S.C. 80a.
+
+11 Generally only advisers that have at least $25 millionof assets under management or that advise a registered investment company can registerwith the Commission. See section 203A(b) of the Advisers Act (15 U.S.C. 80b-3a(b)).Advisers in the states that do not regulate investment advisers, advisers with principalplaces of business in foreign countries, and other advisers exempt by SEC rule from the$25 million assets under management limitation, however, may register with the Commission.See rule 203A-2 under the Advisers Act (17 CFR 275.203A-2).
+
+12 The SEC‘s web site is www.sec.gov . The Commission also ismaking available, through its web site, the software required to access the form.
+
+13 The Commission had considered requiring advisers tofile by fax, but we are not doing so because we are unsure about the ability of thetechnology we had planned to use to accept the expected volume of filings.
+
+14 The adviser is not required to engage an independentpublic accountant to attest to the report. The Commission had proposed not to require anauditor attestation for Form ADV-Y2K, and the commenters agreed that the auditor‘sattestation was not necessary.
+
+15 See section 210(a) of the Advisers Act (15 U.S.C.80b-10(a)). One commenter requested that the forms not be made public. The Commissionbelieves it is important that investors be able to access information about theiradvisers‘ preparedness for the Year 2000 problem, just as they can access similarinformation about broker-dealers. See Exchange Act Rule 17a-5(e)(5)(v) (17 CFR240.17a-5(e)(5)(v)).
+
+16 The information will be available at http://www.sec.gov/divisions/investment/iaregulation/advfaq.htm . Severalcommenters expressed concern that their responses to certain questions may appearincomplete in the absence of a more detailed explanation. To address this concern, theCommission will place on its web site a statement explaining that the information on theform may be incomplete, and that it only reflects developments as of the date the form wassubmitted to the SEC. The statement will urge interested readers to seek more completeinformation from the adviser about its preparedness for the Year 2000 problem.
+
+17 Reports to be Made by Certain Brokers and Dealers,supra note 2; Year 2000 Readiness Reports To Be Made by Certain Transfer Agents, supranote 2.
+
+18 We are also not adopting one commenter‘ssuggestion that advisers organized in a holding company structure be permitted to file asingle report on the Year 2000 preparedness of the holding company. Such an approach wouldmake it very difficult for us and members of the public reviewing the data to distinguishbetween those advisers who were not required to file Form ADV-Y2K from those that failedto comply with the filing requirement. Advisers that are members of a holding company withintegrated computer systems should be able simply to use identical responses in each ofthe reports filed with the Commission.
+
+19 The questions in Part I of Form ADV-Y2K are generallythe same as the questions in Part I of Form BD-Y2K and Form TA-Y2K.
+
+20 There are no universal definitions formission-critical systems; it is up to each adviser to determine which of its systems aremission-critical.
+
+21 See Question 11 to Part I of Form ADV-Y2K. TheCommission has added this question in light of the important role advisers can play inidentifying issuers and securities that may be adversely affected by Year 2000 problems,and protecting their clients from losses as a result. The Commission recognizes, however,that some advisers have investment styles that make consideration of Year 2000preparedness of issuers irrelevant. For example, some advisers‘ advice is limited tothe advisability of investing in broad asset classes ( e.g. , market timers); some manageaccounts that track indexes; and others use "technical analysis" and base theiradvice on market trends, but not on the fundamentals of particular issuers. These adviserswould respond to this item by checking the "Not Applicable" response. An advisershould only check the "Not Applicable" box if it is an appropriate response withrespect to all of its accounts.
+
+22 See Questions 5, 7-10 to Part I of Form ADV-Y2K.
+
+23 Also, t wo commenters raised questions about therequirement in the instructions to Part I that advisers include information about theiraffiliates that are not required to file the form. The Commission has clarified thatadvisers should include information about SEC registered affiliates that are not requiredto complete the form, i.e. , those that have less than $25 million of assets undermanagement, but are permitted to register under an exemption.
+
+24 See Questions 7-8 to Part I of Form ADV-Y2K. Under theAdvisers Act, an adviser that is unable, or uncertain about its ability, to address Year2000 issues, would be required to disclose this information, if material, to its clients.See Statement on Year 2000 Disclosure, supra note 6.
+
+25 These steps are: (i) identification of potential Year2000 problems; (ii) assessment of steps to avoid Year 2000 problems; (iii) implementationof steps to avoid Year 2000 problems; (iv) internal testing of software designed to avoidYear 2000 problems; (v) point-to-point testing of software designed to avoid Year 2000problems ( i.e. , testing with service providers such as broker-dealers, custodians,transfer agents and distributors); and (vi) implementation of tested software that willavoid Year 2000 problems.
+
+26 See Instruction 4 to Part I of Form ADV-Y2K.
+
+27 In our Statement on Year 2000 Disclosure, supra note6, we stated that an issuer should assess "whether third parties with whom a companyhas material relationships are Year 2000 compliant." We also stated that an issuershould take "reasonable steps to verify the Year 2000 readiness of any third partythat could cause a material impact on the company" and that we understood "thatthis is often done by analyzing the response to questionnaires sent to these thirdparties." We believe that investment advisers should take similar steps. Therefore,the Commission has added an instruction to the form that requires advisers to makereasonable inquiries of third parties to obtain information necessary to respond to theform. See General Instructions to Form ADV-Y2K. If an adviser has no reason to believethat a third party‘s responses to an inquiry were not truthful, the Commission wouldnot expect the adviser to inquire further.
+
+28 If there are multiple administrators or sponsors, theadviser must complete the form only with respect to funds for which another adviser hasnot reported.
+
+29 See Instruction 1 to Part II of Form ADV-Y2K.
+
+30 See Proposing Release, supra note 8.
+
+31 See Instruction 1 to Part II of Form ADV-Y2K.
+
+32 As noted in the Proposing Release, the Commission doesnot have authority under Section 204 of the Advisers Act (15 U.S.C. 80b-4) to require afund sponsor or administrator that is not registered under Section 203 of the Advisers Act(15 U.S.C. 80b-3) to file Form ADV-Y2K.
+
+33 See Instruction 3 to Part II of Form ADV-Y2K.
+
+34 These separate accounts are typically registered withthe Commission as unit investment trusts.
+
+35 See Instruction 4 to Part II of Form ADV-Y2K. Thisinstruction is designed to exclude from Form ADV-Y2K information about the Year 2000preparedness of the insurance company‘s general computer systems, the primaryfunction of which is to support fixed rate insurance products that are generally excludedfrom regulation as securities.
+
+36 44 U.S.C. 3501.
+
+37 Although two commenters discussed the amount of timethat would be required to complete Form ADV-Y2K, none specifically addressed the PaperworkReduction Act analysis in the Proposing Release. One commenter believed that the timeestimate for completing Form ADV-Y2K was reasonable; the other commenter believed theCommission‘s estimate was too low, but did not specify the amount of time it wouldtake to complete the form.
+
+38 44 U.S.C. 3506(c)(1)(B)(v).
+
+39 It has been estimated that without correctivemeasures, ninety percent of all computer applications worldwide may fail, or fail tofunction properly, because of the inability properly to recognize the date change. MaggieParent, Morgan Stanley Year 2000 Issue Paper (May 1997), available at http://www.ms.com/y2k/index.html.
+
+40 The Securities Industry Association has stated thatthe transition to the Year 2000 is the largest business and technology effort that the world has ever experienced. See SIA, Year 2000, available at http://www.sia.com/year_2000/index.html.
+
+41 C. Lawrence Meador and Leland G. Freeman, Year 2000: The Domino Effect, Datamation (Jan. 1997), available at http://www.datamation.com/PlugIn/issues/1997/jan/01depend.html.
+
+42 This burden would be incurred twice, once in 1998 and once in 1999.
+
+43 Although two commenters discussed the amount of time required to complete Form ADV-Y2K, none specifically addressed the IRFA.
+
+44 The Commission recently adopted revised definitions of"small entity." See Definitions of "Small Business" or "SmallOrganization" Under the Investment Company Act of 1940, the Investment Advisers Actof 1940, the Securities Exchange Act of 1934, and the Securities Act of 1933, InvestmentAdviser Act Release No. 1727 (June 24, 1998) (63 FR 35508 (June 30, 1998)). http://www.sec.gov/rules/final/ia1769.htm

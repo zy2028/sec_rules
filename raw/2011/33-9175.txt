@@ -1,0 +1,979 @@
+https://www.sec.gov/rules/final/2011/33-9175.pdf
+
+I.0.0.0 Background
+
+		I..1.0 to require any securitizer to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by securitizer, so that investors may identify asset originators with clear underwriting deficiencies; and
+
+		I..2.0 to require each nationally recognized statistical rating organization (“NRSRO”) to include, in any report accompanying a credit rating for an asset-backed securities offering, a description of (A) the representations, warranties and enforcement mechanisms available to investors; and (B) how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.12
+
+II.0.0.0 Discussion of Amendments
+
+	II.A.0.0 Disclosure Requirements for Securitizers
+
+		II.A.1.0 Definition of Exchange Act-ABS for Purposes of Rule 15Ga-1
+
+		II.A.2.0 Definition of Securitizer for Purposes of Rule 15Ga-1
+
+	II.A.0.0 an issuer of an asset-backed security; or
+
+	II.B.0.0 a person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuer.20
+
+		II.B.3.0 Application to Municipal Securitizers
+
+		II.B.4.0 Disclosures Required by Rule 15Ga-1
+
+			II.B.4.a Proposed New Rule 15Ga-1
+
+			II.B.4.b Comments on the Proposed Rule
+
+			II.B.4.c Final Rule
+
+		II.B.5.0 Form ABS-15G
+
+			II.B.5.a Proposed Form ABS-15G
+
+			II.B.5.b Comments on the Proposed Rule
+
+			II.B.5.c Final Form ABS-15G
+
+	II.B.0.0 Disclosure Requirements in Regulation AB Transactions
+
+		II.B.1.0 Proposed Amendments to Regulation AB
+
+		II.B.2.0 Comments Received on the Proposal
+
+		II.B.3.0 Final Rule
+
+	II.C.0.0 Disclosure Requirements for NRSROs
+
+		II.C.1.0 Proposed New Rule 17g-7
+
+		II.C.2.0 Comments received on Proposed Rule
+
+III.0.0.0 Transition Period
+
+IV.0.0.0 Paperwork Reduction Act
+
+	IV.A.0.0 Background
+
+		IV.A.1.0 “Form ABS-15G” (a new collection of information);
+
+		IV.A.2.0 “Regulation S-K” (OMB Control No. 3235-0071); 199 and
+
+		IV.A.3.0 “Rule 17g-7” (a new collection of information).
+
+	IV.B.0.0 Summary of the Final Rules
+
+	IV.C.0.0 Summary of Comment Letters on the PRA Analysis and Revisions to Proposals
+
+	IV.D.0.0 PRA Reporting and Cost Burden Estimates
+
+		IV.D.1.0 Form ABS-15G
+
+		IV.D.2.0 Forms S-1, S-3 and 10-D
+
+		IV.D.3.0 Regulation S-K
+
+		IV.D.4.0 Rule 17g-7
+
+		IV.D.5.0 Summary of Changes to Annual Burden Compliance in Collection of Information
+
+X.0.0.0 of the 2010 ABS Proposing Release. We also add 393 to estimate for offerings under other exemptions that were not within the scope of the 2010 ABS Proposing Release. Thus, in total we use an estimated annual average number of 2,067 ABS offerings for the basis of our PRA burden estimates.
+
+	X.A.0.0 Benefits
+
+	X.B.0.0 Costs
+
+VII.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
+
+VIII.0.0.0 Regulatory Flexibility Act Certification
+
+IX.0.0.0 Statutory Authority and Text of Rule and Form Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 229, 232, 240 and 249
+
+Release Nos. 33-9175; 34-63741; File No. S7-24-10 RIN 3235-AK75
+
+DISCLOSURE FOR ASSET-BACKED SECURITIES REQUIRED BY SECTION 943 OF THE DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT
+
+AGENCY: Securities and Exchange Commission
+
+ACTION: Final rule.
+
+SUMMARY: Pursuant to Section 943 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, <sup>1</sup> we are adopting new rules related to representations and warranties in asset-backed securities offerings. The final rules require securitizers of asset- backed securities to disclose fulfilled and unfulfilled repurchase requests. Our rules also require nationally recognized statistical rating organizations to include information regarding the representations, warranties and enforcement mechanisms available to investors in an asset-backed securities offering in any report accompanying a credit rating issued in connection with such offering, including a preliminary credit rating.
+
+DATES : Effective Date: March 28, 2011. Compliance Dates:
+
+Rule 15Ga-1: The initial filing required by Rule 15Ga-1(c)(1) for the three years ended December 31, 2011 is required to be filed on February 14, 2012, except that a securitizer that is any State or Territory of the United States, the District of Columbia, any political subdivision of any State, Territory or the District of Columbia, or any public instrumentality
+
+of one or more States, Territories or the District of Columbia, shall provide the initial filing required by Rule 15Ga-1(c)(1) for the three years ended December 31, 2014 and file on February 14, 2015.
+
+Regulation AB: Any registered offering of asset-backed securities commencing with an initial bona fide offer on or after February 14, 2012 must comply with the information requirements of new Item 1104(e) of Regulation AB. For any such offering that relies on Securities Act Rule 415(a)(1)(x), a Securities Act registration statement filed after December 31, 2011 relating to such offering must be pre-effectively or post-effectively amended, as applicable, to make the prospectus included in Part I of the registration statement compliant. The information required by Item of 1121 of Regulation AB is required for all Form 10-Ds required to be filed after December 31, 2011.
+
+Rule 17g-7: NRSROs will be required to provide the information required by the rule to be included in a report accompanying a credit rating for an offering of asset-backed securities for any such report issued on or after September 26, 2011.
+
+FOR FURTHER INFORMATION CONTACT: Rolaine Bancroft, Attorney-Advisor, in the Office of Rulemaking, at (202) 551-3430, Division of Corporation Finance, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-3628 or, with respect to Rule 17g-7, Joseph I. Levinson, Special Counsel, at (202) 551-5598, Division of Trading and Markets, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-3628.
+
+SUPPLEMENTARY INFORMATION: We are adopting amendments to Items 1104 and 1121 <sup>2</sup> of Regulation AB <sup>3</sup> (a subpart of Regulation S-K) under the Securities Act of 1933
+
+(“Securities Act”) <sup>4</sup> and Rules 101 and 314 <sup>5</sup> of Regulation S-T. <sup>6</sup> We also are adding Rules 15Ga-1 <sup>7</sup> and 17g-7 <sup>8</sup> and Form ABS-15G <sup>9</sup> under the Securities Exchange Act of 1934 (“Exchange Act”) <sup>10</sup> and the Act.
+
+TABLE OF CONTENTS
+
+Background
+
+Discussion of Amendments
+
+Disclosure Requirements for Securitizers
+
+Definition of Exchange-Act ABS for Purposes of Rule 15Ga-1
+
+Definition of Securitizer for Purposes of Rule 15Ga-1
+
+Application to Municipal Securitizers
+
+Disclosures Required by Rule 15Ga-1
+
+Proposed New Rule 15Ga-1
+
+Comments on the Proposed Rule
+
+Final Rule
+
+Form ABS-15G
+
+Proposed Form ABS-15G
+
+Comments on the Proposed Rule
+
+Final Form ABS-15G
+
+Disclosure Requirements in Regulation AB Transactions
+
+Proposed Amendments to Regulation AB
+
+Comments on the Proposed Amendments
+
+Final Rule
+
+Disclosure Requirements for NRSROs
+
+Proposed New Rule 17g-7
+
+Comments on the Proposed Rule
+
+Final Rule
+
+Transition Period
+
+Paperwork Reduction Act
+
+Background
+
+Summary of the Final Rules
+
+Summary of Comment Letters on the PRA Analysis and Revisions to Proposals
+
+PRA Reporting and Cost Burden Estimates
+
+Form ABS-15G
+
+Forms S-1, S-3 and 10-D
+
+Regulation S-K
+
+Rule 17g-7
+
+Summary of Changes to Annual Burden Compliance in Collection of Information
+
+Benefit-Cost Analysis
+
+Benefits
+
+Costs
+
+Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
+
+Regulatory Flexibility Act Certification
+
+Statutory Authority and Text of Rule and Form Amendments
+
+<END HEADER>
+
+<h>I. Background</h>
+
+On October 4, 2010, we proposed rules to implement Section 943 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Act”) related to asset-backed securities (“ABS”). <sup>11</sup> Section 943 of the Act requires the Commission to prescribe regulations on the use of representations and warranties in the market for asset-backed securities:
+
+<h>1. to require any securitizer to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by securitizer, so that investors may identify asset originators with clear underwriting deficiencies; and</h>
+
+<h>2. to require each nationally recognized statistical rating organization (“NRSRO”) to include, in any report accompanying a credit rating for an asset-backed securities offering, a description of (A) the representations, warranties and enforcement mechanisms available to investors; and (B) how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.12</h>
+
+In addition to the rules required by the Act, we also re-proposed disclosure requirements in Regulation AB in order to conform disclosures about repurchase request activity to those required by Section 943 of the Act. <sup>13</sup>
+
+As we discussed in the Proposing Release, in the underlying transaction agreements for an asset securitization, sponsors or originators typically make representations and warranties relating to the pool assets and their origination, including about the quality of the pool assets. For instance, in the case of residential mortgage-backed securities, one typical representation and warranty is that each of the loans has complied with applicable federal, state and local laws, including truth-in-lending, consumer credit protection, predatory and abusive laws and disclosure laws. Another representation that may be included is that no fraud has taken place in connection with the origination of the assets on the part of the originator or any party involved in the origination of the assets. Upon discovery that a pool asset does not comply with the representation or warranty, under transaction covenants, an obligated party, typically the sponsor, must repurchase the asset or substitute a different asset that complies with the representations and warranties for the non-compliant asset. The effectiveness of the contractual provisions related to representations and warranties has been questioned and lack of responsiveness by sponsors to potential breaches of the representations and warranties relating to the pool assets has been the subject of investor complaint. <sup>14</sup>pursuant to the transaction agreements. We also proposed that issuers disclose the repurchase demand and repurchase and replacement activity concerning the asset pool on an ongoing basis in periodic reports.typically have not included specific mechanisms to identify breaches of representations and warranties or to resolve a question as to whether a breach of the representations and warranties has occurred. Thus, these contractual agreements have frequently been ineffective because, without access to documents relating to each pool asset, it can be difficult for the trustee, which typically notifies the sponsor of an alleged breach, to determine whether or not a representation or warranty relating to a pool asset has been breached. In the 2010 ABS Proposing Release, the Commission proposed a condition to shelf eligibility that would require a provision in the pooling and servicing agreement that would require the party obligated to repurchase the assets for breach of representations and warranties to periodically furnish an opinion of an independent third party regarding whether the obligated party acted consistently with the terms of the pooling and servicing agreement with
+
+As discussed in more detail below, we have taken into consideration the comments received on the proposed rules and are adopting new Rules 15Ga-1 and 17g-7, new Form ABS-15G and amendments to Regulation AB. The rules and form that we are adopting today implement the requirements of Section 943 of the Act, and also conform disclosure requirements for prospectuses and ongoing reports for ABS sold in registered transactions. We received over forty comment letters in response to the proposed rules. These letters came from investors, securitizers, corporations, credit rating agencies, professional and trade associations, law firms, municipal entities, and other interested parties. <sup>15</sup> In general, commentators supported the manner in which we proposed to implement Section 943 of the Act. Some commentators opposed some aspects of the proposed rules and suggested modifications to the proposals.respect to any loans that the trustee put back to the obligated party for violation of representations and warranties and which were not repurchased. See Section II.A.3.b. of the 2010 ABS Proposing Release. See also the Committee on Capital Markets Regulation, The Global Financial Crisis: A Plan for Regulatory Reform , May 2009, at 135 (noting that contractual provisions have proven to be of little practical value to investors during the crisis); see also Investors Proceeding with Countrywide Lawsuit , Mortgage Servicing News, Feb. 1, 2009 (describing class action investor suit against Countrywide in which investors claim that language in the pooling and servicing agreements requires the seller/servicer to repurchase loans that were originated with “predatory” or abusive lending practices) and American Securitization Forum, ASF Releases Model Representations and Warranties to Bolster Risk Retention and Transparency in Mortgage Securitizations , (Dec. 15, 2009), available at http://www.americansecuritization.com . It has been reported that only large ABS investors, such as Fannie Mae and Freddie Mac, have been able to effectively exercise repurchase demands.
+
+See Aparajita Saha-Bubna, “Repurchased Loans Putting Banks in Hole,” Wall Street Journal (Mar. 8, 2010)(noting that most mortgages put back to lenders are coming from Fannie Mae and Freddie Mac). See also Joe Adler, “Regulators See Growing Threat from Put-Backs,” American Banker (Dec. 6, 2010) (noting that investor put-back cases face procedural hurdles and that investors are trying to unionize around repurchasing). However, recent articles report that banks have begun settlement efforts. See e.g. , Dawn Kopecki and Hugh Son, “Bank of America Deal on Loan-Repurchase Demands Sets ‘Template’ for Banks,” Bloomberg (Jan. 4, 2011) available at http://www.bloomberg.com/news/2011-01-03/banks-stocks-rise-after-bank-of-america- settles-mortgage-putback-claims.html (noting recent settlements of repurchase claims).10/s72410.shtml .
+
+The adopted rules reflect changes made in response to many of these comments. We discuss our revisions with respect to each proposed rule in more detail throughout this release. The rules we are adopting require:
+
+ABS securitizers to disclose demand, repurchase and replacement history in a tabular format for an initial three-year look back period ending December 31, 2011;
+
+ABS securitizers to disclose, subsequent to that date, demand, repurchase and replacement activity in a tabular format on a quarterly basis;
+
+ABS issuers to disclose demand, repurchase and replacement history for a three-year look back period, in the same tabular format as new Rule 15Ga-1, in the body of the prospectus;
+
+ABS issuers to disclose demand, repurchase and replacement activity for a specific ABS, in the same tabular format, in periodic reports filed on Form 10-D; and
+
+NRSROs to disclose, in any report accompanying a credit rating for an ABS transaction, the representations, warranties and enforcement mechanisms available to investors and how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.
+
+<h>II. Discussion of Amendments</h>
+
+<h>A. Disclosure Requirements for Securitizers</h>
+
+We proposed and are adopting new Rule 15Ga-1 to implement Section 943(2) of the Act. This new rule would require any securitizer of asset-backed securities to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by securitizer, so thatinvestors may identify asset originators with clear underwriting deficiencies. Under the new rule, a securitizer would provide the disclosure by filing new Form ABS-15G. <sup>16</sup>
+
+<h>1. Definition of Exchange Act-ABS for Purposes of Rule 15Ga-1</h>
+
+As we discussed in the Proposing Release, the Act amended the Exchange Act to include a definition of an “asset-backed security” and Section 943 of the Act references that definition. <sup>17</sup> The statutory definition of an asset-backed security (“Exchange Act-ABS”) is much broader than the definition of an asset-backed security in Regulation AB (“Reg AB- ABS”). <sup>18</sup> The definition of an Exchange Act-ABS includes securities that are typically sold in transactions that are exempt from registration under the Securities Act, such as collateralized debt obligations (“CDOs”), as well as securities issued or guaranteed by a government sponsored entity (“GSE”), such as Fannie Mae and Freddie Mac and municipal securities that otherwise come within the definition. <sup>19</sup> Since Section 943 uses the broader
+
+Exchange Act-ABS definition, our new Rule 15Ga-1 would require a securitizer to provide disclosures relating to all asset-backed securities that fall within the statutory definition, whether or not sold in Securities Act registered transactions. However, as we discuss further below, even if a security meets the definition of an Exchange Act-ABS, the new disclosure requirement would only be triggered if the underlying transaction agreements contain a covenant to repurchase or replace an asset.
+
+<h>2. Definition of Securitizer for Purposes of Rule 15Ga-1</h>
+
+Section 943 and new Rule 15Ga-1 impose the disclosure obligation on a “securitizer” as defined in the Exchange Act. The Act amended the Exchange Act to include the definition of a “securitizer”. Under the Exchange Act, a securitizer is either:
+
+<h>A. an issuer of an asset-backed security; or</h>
+
+<h>B. a person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuer.20</h>
+
+The definition of securitizer is not specifically limited to entities that undertake transactions that are registered under the Securities Act or conducted in reliance upon any particular exemption. <sup>21</sup> Consequently, it applies to any entity or person that issues or
+
+Exchange Act. For more information regarding GSEs, see Task Force on Mortgage-Backed Securities Disclosure, “Staff Report: Enhancing Disclosure in the Mortgage-Backed Securities Markets” (Jan. 2003) available at http://www.sec.gov/news/studies/mortgagebacked.htm .organizes an Exchange Act-ABS as specified in Section 15G(a)(3) of the Exchange Act. Further, as noted above, Section 943 and Section 15G(a)(3) do not distinguish between securitizers of Exchange Act-ABS in registered or unregistered transactions, and our new Rule 15Ga-1 would apply equally to securitizers offering ABS in registered and unregistered transactions.
+
+With respect to registered transactions and the definitions of transaction parties in Regulation AB, sponsors and depositors <sup>22</sup> both fall within the statutory definition of securitizer. A sponsor typically initiates a securitization transaction by selling or pledging to a specially created issuing entity a group of financial assets that the sponsor either has originated itself or has purchased in the secondary market. <sup>23</sup> In some instances, the transfer of assets is a two-step process: the financial assets are transferred by the sponsor first to an intermediate entity, often a limited purpose entity created by the sponsor for a securitization program and commonly called a depositor, and then the depositor will transfer the assets to the issuing entity for the particular asset-backed transaction. <sup>24</sup> Because both sponsors and depositors fit within the statutory definition of securitizers, both entities would have the disclosure responsibilities under new Rule 15Ga-1. However, if a sponsor filed alldisclosures required under new Rule 15Ga-1, which would include disclosures of the activity of affiliated depositors, as described below, consistent with the proposal final Rule 15Ga-1 provides that those depositors affiliated with the sponsors would not have to separately provide and file the same disclosures. We believe this is appropriate for affiliated securitizers because otherwise such disclosure would be duplicative and would not provide any additional useful information, since as noted above, the depositor usually serves as an intermediate entity of a transaction initiated by a sponsor. <sup>25</sup> In addition, investors would be able to find information “aggregated by securitizer” as required by Section 943 in this case because the table would be aggregated either by affiliated depositors or the sponsor the ABS.
+
+We received two comment letters that urged us to consider two other situations related to a securitizer’s filing requirement. One requested that either the Exchange Act reporting party or the party that contractually assumes a reporting duty would have the obligation to disclose repurchase request information and file Form ABS-15G, but not both. <sup>26</sup> The other requested we allow securitizers to reference and rely on originator disclosures to satisfy a securitizer’s requirements if they have made contractual arrangements to do so. <sup>27</sup> Both of these commentators requested filing accommodations that related to unaffiliated parties, and we are concerned that the requested approach could make it more difficult forinvestors to locate the information “aggregated by securitizer” as is required by Section 943 because the relationship between unaffiliated transaction parties may not be readily understood. Therefore, we are requiring that all securitizers in a transaction file Form ABS- 15G, unless they are affiliated securitizers as discussed above.
+
+One commentator explained that requiring disclosure of assets “originated and sold,” as proposed, could be construed to require the securitizer to report demand and repurchase activity on loans originated and sold by it but securitized by other securitizers which might lead to inconsistent and duplicative reporting. <sup>28</sup> In the case of Exchange Act-ABS issued by the GSE’s, we received several comment letters noting that the term securitizer, for purposes of Rule 15Ga-1 should be applied solely to Fannie Mae or Freddie Mac and not the financial institution transferring loans for securitization by Fannie Mae or Freddie Mac. <sup>29</sup> We agree with commentators observations that “originated and sold” may be read to require disclosure about transfers of assets that were not securitized, and thus as discussed further below, we have revised the rule to require disclosure concerning assets “securitized” by securitizers.
+
+<h>3. Application to Municipal Securitizers</h>
+
+As stated earlier, Section 943 and the new rule apply to Exchange Act-ABS whether or not offered and sold in Securities Act registered transactions. In addition, Section 943 and the new rule impose the disclosure obligation on any securitizer, as defined in the Exchange Act. Thus, the new rule will apply to a municipal entity that is a securitizer of Exchange Act- ABS (“municipal securitizer”). We sought comment in the Proposing Release on whether we should provide further guidance regarding the application of proposed Rule 15Ga-1 tosecurities issued by municipal entities that would fall within the definition of Exchange-Act ABS. We also asked whether the types of municipal securities about which proposed Rule 15Ga-1 would require a municipal securitizer to provide representation and warranty repurchase disclosure was clear. Several commentators provided examples of municipal securities that could fall within the definition of Exchange-Act ABS such as student loan bonds, housing and mortgage bonds, bond-bank issuances, and revolving fund bonds. <sup>30</sup>
+
+With respect to proposed Rule 15Ga-1, a few commentators noted that it would not likely apply to most municipal securities because the underlying transaction documents typically would not contain a covenant to repurchase or replace an asset if it does not comply with representation and warranty provisions, if any. <sup>31</sup> Commentators also noted various reasons why proposed Rule 15Ga-1 should not apply to municipal securitizers, such as a belief that they have an express statutory exemption or <sup>32</sup> or that there is a requirement under the Act to first make a rule determination about the status of the securities. <sup>33</sup> In addition, several commentators argued that the Commission has authority to exempt municipalsecuritizers from Rule15Ga-1, citing the overall structure of the Act’s amendments and legislative history. These commentators questioned whether Congress intended to require Section 943 disclosures with respect to municipal securities at all. <sup>34</sup>
+
+Other commentators suggested that the Commission wait for the results of the municipal disclosure study required by Subtitle H of the Act <sup>35</sup> before requiring compliance with the proposals <sup>36</sup> as well as for the results of the Commission’s municipal field hearings, discussed below. <sup>37</sup> One investor group was concerned that a piecemeal approach to municipal securities disclosure would have the unintended effect of creating confusion for investors and issuers alike because different asset classes of municipal securities would be subject to different disclosure requirements. <sup>38</sup>
+
+Moreover, many commentators argued that certain municipal ABS, such as housing bonds, only include assets originated under strict underwriting standards and are subject to legal and program requirements in order to obtain and maintain guarantees and tax-exemptstatus <sup>39</sup> and noted that issues regarding underwriting deficiencies and unfulfilled repurchase requests that the Act intends to address have not been an issue in the municipal securities market. <sup>40</sup> Furthermore, according to a few commentators, any repurchase obligations that do exist for municipal ABS have been enforced by the relevant municipal issuer in order to ensure the continual tax-exempt status of the municipal ABS. <sup>41</sup>
+
+Commentators also noted that a significant difference between municipal ABS and more typical Exchange Act-ABS is that the Municipal Securities Rulemaking Board (MSRB)<sup>42</sup> collects and publicly disseminates market information and information about municipalsecurities issuers and offerings on its centralized public database, EMMA. <sup>43</sup> Thus, even though most municipal securities are sold in unregistered transactions in reliance on exemptions from registration, as commentators noted, <sup>44</sup> as a result of the applicability of Exchange Act Rule 15c2-12 to municipal securities offerings by underwriters, municipal issuers issuing municipal securities subject to that rule already provide disclosures in offering documents and disclosures to the secondary market pursuant to continuing disclosureagreements entered into for the benefit of bondholders. Under Rule 15c2-12, specified annual and event notices are required to be submitted to the MSRB’s EMMA system. <sup>45</sup> However, Rule 15c2-12 does not specifically require representation and warranty repurchase disclosure.
+
+Commentators noted other factors that distinguish securitizers of municipal ABS from other Exchange Act-ABS securitizers. For instance, commentators noted that municipal securitizers generally are state or local government entities and exist to serve a public purpose. <sup>46</sup> In addition, commentators also noted that municipal ABS in some cases are secured by a pledge of assets or are secured by a general obligation of the municipal issuer. <sup>47</sup> Finally, commentators stated that market participants do not identify or consider municipal securities as substantially similar to ABS. <sup>48</sup>
+
+Despite the distinguishing factors discussed above, we have determined that the final rules should apply to municipal securitizers. Section 943(2) of the Act requires the Commission to adopt rules mandating that “any securitizer” of an Exchange Act-ABS,including municipal ABS, provide the disclosures specified therein. The statute does not expressly provide the Commission the authority to provide exemptions for particular classes of securitizers, including municipal securitizers. We note that Section 943 is a stand-alone provision and is not included as an amendment to the Exchange Act or the Securities Act. As a result, our final rule applies to municipal ABS if they otherwise come within the definition of Exchange Act-ABS. Nonetheless, we recognize that municipal securitizers may have had less experience with developing and providing the types of information required by Section 943(2) and the new rule, and thus may have less developed infrastructures for providing the required disclosures. <sup>49</sup> We believe that a delayed compliance date for municipal securitizers should allow those securitizers to observe how the rule operates for other securitizers and to better prepare for implementation of the rules. We also believe that delayed compliance for municipal securitizers will allow us to evaluate the implementation of Rule 15Ga-1 by other securitizers and provide us with the opportunity to consider whether adjustments to the rule would be appropriate for municipal securitizers before the rule becomes applicable to them. As commentators also noted, we are currently undergoing a review of the municipal securities market, and as part of that review, we recently began a series of field hearings to examine the municipal securities markets, including disclosure and transparency within the municipal securities markets. <sup>50</sup> At the conclusion of this process, the staff of the Commission expects to prepare a report containing information learned and anyrecommendations for regulatory changes, industry “best practices,” or legislative changes. <sup>51</sup> The results of our review and the studies required by the Act <sup>52</sup> could lead us to conclude that changes to the requirements of Rule 15Ga-1 would be appropriate for municipal securitizers.
+
+Therefore, we are delaying compliance for new Rule 15Ga-1 for municipal securitizers for a period of three years after the date applicable to securitizers other than municipal securitizers. <sup>53</sup> For purposes of the delayed compliance only, a municipal securitizer would be any securitizer that is a State or Territory of the United States, the District of Columbia, any political subdivision of any State, Territory or the District of Columbia, or any public instrumentality of one or more States, Territories or the District of Columbia.
+
+In addition, as discussed below, in an effort to limit the cost and burden on municipal securitizers subject to the new rule, as well as provide the disclosures for investors in the same location as other disclosures regarding municipal securities, we will permit municipal securitizers to satisfy the rule’s filing obligation by filing the information on EMMA. <sup>54</sup>
+
+<h>4. Disclosures Required by Rule 15Ga-1</h>
+
+In accordance with Section 943 of the Act, we are adopting new Rule 15Ga-1 <sup>55</sup> to require any securitizer of an Exchange Act-ABS to provide tabular disclosure of fulfilled and unfulfilled repurchase requests, so that investors may identify asset originators with clear underwriting deficiencies.under the Exchange Act and other statutory requirements we are implementing.
+
+<h>a. Proposed New Rule 15Ga-1</h>
+
+We proposed that if the underlying transaction agreements include a covenant to repurchase or replace an underlying asset for breach of a representation or warranty, then a securitizer would be required to provide the information described below for all assets originated or sold by the securitizer that were the subject of a demand for repurchase or replacement with respect to all outstanding Exchange Act-ABS of the securitizer held by non-affiliates of the securitizer. As discussed further below, we proposed that a securitizer provide the repurchase history for the last five years by filing Form ABS-15G at the time a securitizer first offers an Exchange Act-ABS or organizes and initiates an offering of Exchange Act-ABS, registered or unregistered, after the effective date of the new rules, as adopted. In addition, we proposed that going forward, a securitizer would provide the disclosures for all outstanding Exchange Act-ABS on a monthly basis by filing Form ABS- 15G.
+
+Section 943(2) requires disclosure of fulfilled and unfulfilled repurchase requests.
+
+Therefore, we proposed to require tabular disclosure of assets subject to any and all demands for repurchase or replacement of the underlying pool assets as long as the transaction agreements provide a covenant to repurchase or replace an underlying asset, which would include demands that did not result in a repurchase under the transaction agreements and demands that were made by the investors upon the trustee. We also proposed that securitizers be permitted to footnote the table to provide additional explanatory disclosures to describe the data disclosed.
+
+In the Proposing Release, we expressed concern that initially a securitizer may not be able to obtain complete information from a trustee about demands made by investors becauseit may not have tracked these demands. Because securitizers may not have access to historical information about investor demands made upon the trustee, (as opposed to trustee demands upon the securitizer, which presumably, would be known to the securitizer) prior to the effective date of the new rules, we proposed an instruction that a securitizer may disclose in a footnote, if true, that a securitizer requested and was able to obtain only partial information or was unable to obtain any information with respect to investor demands to a trustee that occurred prior to the effective date of the proposed rules and state that the disclosures do not contain all investor demands made to the trustee prior to the effective date.
+
+In the Proposing Release, we acknowledged that a single securitizer (i.e., sponsor) may have several securitization programs to securitize different types of asset classes.
+
+Because the Act requires information “aggregated by securitizer”, we proposed that a securitizer list the names of all the issuing entities <sup>56</sup> of Exchange Act-ABS outstanding, in order of the date of formation of the issuing entity, so that investors may identify the securities that contain the assets subject to the demands for repurchase and when the issuing entity was formed. We also proposed to require disclosure of the asset class and grouping of the information in the table by asset class. Additionally, if any of the Exchange Act-ABS of the issuing entity were registered under the Securities Act, we proposed that the Central Index Key (“CIK”) number of the issuing entity be disclosed and that the securitizer indicate by check mark whether any Exchange Act-ABS were registered. We noted that these items would provide important information that would enable an investor to locate additional publicly available disclosure for registered transactions, if applicable. Because the Actentity created at the direction of the sponsor or depositor that owns or holds the pool assets and in whose name the asset-backed securities supported or serviced by the pool assets are issued.provided that disclosure is required “so that investors may identify asset originators with clear underwriting deficiencies”, <sup>57</sup> we proposed that securitizers further break out the information by originator of the underlying assets.
+
+We also proposed that the table provide information about the assets that were subject of a demand; the assets that were repurchased or replaced; the assets that were not repurchased or replaced; and the assets that are pending repurchase or replacement. <sup>58</sup> Additionally, we proposed an instruction to include footnote disclosure about the reasons why repurchase or replacement is pending. <sup>59</sup> Lastly, we proposed that the table include totals by asset class for columns that require numbers of assets and principal amounts. <sup>60</sup>
+
+<h>b. Comments on the Proposed Rule</h>
+
+Comments on this aspect of the proposal were mixed. We received several comments on the form and the content of the table. Four commentators expressed general support that the proposed rule would implement the statutory requirements. <sup>61</sup> Some commentators suggested that we only require reporting where the repurchase obligation is tied torepresentations and warranties regarding the underwriting criteria. <sup>62</sup> Another commentator remarked that while repurchase requests occur for many reasons, they serve as a useful benchmark to identify loans with potential problems, such as early payment defaults, incorrect loan information, fraud problems, impermissible adverse selection procedures, or paperwork deficiencies. <sup>63</sup>
+
+Several commentators also requested that demands be limited to those that comport with the procedures specified in the transaction documents. <sup>64</sup> One commentator noted that its investor members believe that existing transaction agreements include overly restrictive thresholds for recognizing bona fide repurchase demands, and noted that even where the data may be incomplete, demands that were not made in accordance with the relevant transaction documents would provide directional information as to the responsiveness of securitizers and originators of assets as well as identify originators with a history of underwriting deficiencies. <sup>65</sup>
+
+Comments regarding the proposal to provide repurchase history for an initial five- year look back period were mixed. Several commentators were generally supportive of an initial look back period. <sup>66</sup> Two commentators noted that the requirement should apply regardless of whether the ABS is outstanding at the end of the reporting period. <sup>67</sup> Several
+
+American Financial Services Association (AFSA), ASF, BOA, Commercial Real Estate Finance Council (CREFC), Financial Services Roundtable (Roundtable), SIFMA and Wells Fargo Bank (Wells) (effectively excluding investor demands upon a trustee if not provided for in the transaction agreements). See also fn. 14.others did not support an initial look back period and requested prospective application only. <sup>68</sup> Several commentators noted issues with historical information, such as lack of systems to capture the data, the change in underwriting standards since the housing crisis, misperceptions that may arise from analyzing fragmented data, and the ability to obtain the data from other transaction parties including that certain transaction parties may no longer exist. <sup>69</sup> We also received comment letters suggesting that a three- or five-year look back period would be appropriate for ongoing periodic disclosures. <sup>70</sup>
+
+Several commentators requested that a securitizer should report activity for different asset classes in separate reports, instead of including the activity for all asset classes in which the securitizer has issued ABS in a single report, as proposed. <sup>71</sup> One commentator acknowledged that the result of this suggested change would be that some securitizers may be required to file more than one report, but its members believed reports by asset class would produce more consistent reports that are more useful to investors in evaluating particular offerings. <sup>72</sup>
+
+Most commentators generally supported disclosure of the name of the asset originator. <sup>73</sup> A few commentators suggested that disclosure should only be required if the number of assets or amounts related to a particular originator exceeds a certain de minimis(CMBP), CREFC, GSEs, Kutak, MBA, NABL, Roundtable, and Wells. In addition, three commentators suggested that the statute did not clearly require historical information. See letters from ABA, ABASA andamount of the asset pool. <sup>74</sup> Another commentator requested that instead of listing all issuing entities, it be allowed to aggregate the data by seller of the loan and noted that the GSEs have hundreds of thousands of individual GSE securities outstanding; therefore, a listing by individual issuing entity would likely result in extremely unwieldy and disjointed disclosures. <sup>75</sup>
+
+We also received several comments regarding revisions to the columns in the table in order to provide more standardized disclosures. Generally, commentators requested more standardization regarding demands that were pending and not repurchased or replaced. <sup>76</sup> One commentator also strongly recommended that whether, and to what extent detail is provided, should be left to the judgment of each individual securitizer, rather thanmandated. <sup>77</sup> Other commentators requested we specifically require more narrative disclosure about the information presented in the table. <sup>78</sup>
+
+<h>c. Final Rule</h>
+
+After considering the comments, we are adopting the table substantially as proposed, with some modifications to the format of the table. We are also adopting modifications to the filing requirement for the initial disclosures and to the filing requirements for periodic disclosures. We continue to believe that Section 943(2) requires historical disclosures abouta securitizer’s repurchase history, in order to give investors a clearer sense of potential problems with originators’ underwriting practices, but as we recognized in the Proposing Release, and as commentators stated, securitizers may not have all of the information readily available. Therefore, we have tailored the final amendments to address many of the concerns expressed by the commentators that we believe are consistent with the purposes of Section 943.
+
+As proposed, we are requiring disclosure in the table with respect to any Exchange Act-ABS where the underlying transaction agreements contain a covenant to repurchase or replace an underlying asset for breach of a representation or warranty. We are not limiting the disclosure requirement to representations and warranties concerning underwriting standards, as suggested by some commentators <sup>79</sup> because as discussed above, covenants may require repurchase if the underlying asset does not meet other types of representations and warranties, such as applicable laws or fraud, which could also be indicative of underwriting deficiencies. <sup>80</sup> We are also revising the text of the regulation to refer to assets “securitized” by a securitizer instead of “originated and transferred” as proposed to address commentators concerns as described above. <sup>81</sup>
+
+After considering the comments received, we are adopting additions to the table in order to provide better disclosures about the demand, repurchase and replacement history so that investors may identify asset originators with clear underwriting deficiencies.
+
+First, the final rule requires, as proposed, that a securitizer disclose the asset class and group the information in the table by asset class (column (a)). <sup>82</sup>
+
+Second, the final rule requires, as proposed, that the securitizer disclose the names of the issuing entities <sup>83</sup> of the ABS and list the issuing entities in order of the date of formation (column (a)). <sup>84</sup> In addition, we are adding an instruction to clarify that the activity should include all issuing entities that had securities outstanding during the reporting period in order to provide investors with complete and comparable disclosure for the entire reporting period. <sup>85</sup>
+
+Third, the final rule requires, as proposed, that the securitizer indicate by check mark whether the transaction was registered under the Securities Act of 1933 (column (b)) and provide the CIK number of the issuing entity (column (a)). <sup>86</sup>
+
+Fourth, the final rule requires, as proposed, that securitizers disclose the name of the originator of the underlying assets. In addition, we are adopting an instruction to clarify that all originators must be disclosed. <sup>87</sup> As noted earlier, some commentators requested that we require only disclosure of originators that originated more than a de minimis amount of the assets within an issuing entity, or that were responsible for more than a de minimis number of repurchase requests. <sup>88</sup> We, however, believe that in order for the disclosures to meet the purpose of the statute to “identify asset originators with clear underwriting deficiencies,” it must be comparable, and even de minimis amounts may in the aggregate over time create information gaps about an originators’ repurchase history. In addition, originators with no repurchase request activity should be listed in the table also to provide comparable disclosures.
+
+Fifth, the final rule requires new columns to disclose the number, outstanding principal balance and percentage by principal balance of the assets originated by each originator in the pool at the time of securitization for each issuing entity (columns (d) through (f)). <sup>89</sup> We were persuaded by one commentator’s suggestion that the columns should be added in order to assist investors in placing the information on repurchase demands in the proper context. <sup>90</sup> This way, investors may be able to determine the concentration of each originators’ assets in each securitized asset pool.included. See generally , letters from AFGI, CFRL, CMBP, MBIA and Metlife (noting that without the disclosure requirement of the originator, it may be more difficult for investors to make fair comparisons regarding the repurchase history, including which originators are most likely to be subject to repurchase or replacement requests and which are most likely to honor such requests when made).
+
+Sixth, we are adopting, as proposed, a requirement to disclose the number, outstanding principal balance and percentage by principal balance of assets that were subject of a demand to repurchase or replace for breach of representations and warranties (columns(g) through (i)), including investor demands upon a trustee. <sup>91</sup> As stated earlier, Section 943(2) requires disclosure of fulfilled and unfulfilled repurchase requests. We continue to believe that disclosure should not be limited to only those demands, repurchases and replacements made pursuant to the transaction agreement alone. Investors have demanded that trustees enforce repurchase covenants because transaction agreements do not typically contain a provision for an investor to directly make a repurchase demand. <sup>92</sup> Since Section 943(2) does not limit the required disclosures to those demands successfully made by the trustee, under our final rule, investor demands upon a trustee are required to be included in the table, irrespective of the trustee’s determination to make a repurchase demand on a securitizer based on the investor request. As we discussed above, we recognize that initially a securitizer may not be able to obtain complete information from a trustee because it may not have established systems to track investor demands. To address this concern, we are adopting, substantially as proposed, a provision in Rule 15Ga-1 that a securitizer may include a footnote if the securitizer was unable to obtain all information with respect to investor demands upon a trustee that occurred prior to July 22, 2010 (the effective date of the Act)and state that the disclosure does not contain investor demands upon a trustee made prior to July 22, 2010. <sup>93</sup>
+
+The Act does not specify when the disclosure should first be provided, or the frequency with which it should be updated. We are adopting a three-year look back period for the initial disclosures, instead of a five-year look back period, as proposed. We believe a three-year look back period for the initial disclosures strikes the right balance between the disclosure benefits to investors, availability of historical information and compliance costs to securitizers. <sup>94</sup> Commentators suggested that periods from three to five years would provide a sufficient period of data for investors to make comparisons in order to identify underwriting deficiencies. <sup>95</sup> However, we also recognize other commentators’ suggestions that the rule apply only prospectively because of concerns regarding the availability and comparability of historical information relating to repurchase demands (including investor demands upon a trustee). <sup>96</sup> In particular, older data may be very hard or impossible for securitizers to obtain if they have not had systems in place to track the data required for the required disclosures, which may lead to less comparable data. In order to balance the goals of the Act with commentators’ concerns that all securitizers may not be able to provide complete information, we are also adopting a provision in Rule 15Ga-1 <sup>97</sup> to permit a securitizer to omit information that is unknown or not reasonably available to the securitizer without
+
+NABL, Roundtable, and Wells.unreasonable effort or expense similar to Exchange Act Rule 12b-21. <sup>98</sup> Under the final rule, a securitizer must provide the information it possesses or it can acquire without unreasonable effort or expense, and the securitizer must include a statement describing why unreasonable effort or expense would be involved in obtaining the omitted information.
+
+Seventh, we are adopting, as proposed, a requirement to disclose the number, outstanding principal balance and percentage by principal balance of assets that were repurchased or replaced for breach of representation and warranties (columns (j) through (l)). <sup>99</sup>
+
+Eighth, we are persuaded by commentators’ suggestions that we should clarify our proposal for disclosures related to pending purchase requests in order to better reflect the repurchase request and resolution process in a comparable format, as opposed to if the information were presented in footnotes. <sup>100</sup> As a result, we are adopting requirements to present more specific information about the pending nature of the demand. We are requiring disclosure of the number, outstanding principal balance and percentage by principal balance of assets that are pending repurchase or replacement specifically due to the expiration of a cure period (columns (m) through (o)) <sup>101</sup> and where the demand is currently in dispute (columns (p) through (r)). <sup>102</sup> If the cure period has expired, and the demand is not in dispute, the asset should be reflected in the “demand rejected” columns described below. <sup>103</sup>
+
+Ninth, we are also persuaded by commentator’s suggestions that we should clarify our proposal for disclosures related to unfulfilled repurchase requests. <sup>104</sup> As a result, we are adopting requirements to present the number, outstanding principal balance and percentage by principal balance of assets that were not repurchased or replaced because the demand was withdrawn (columns (s) through (u)) <sup>105</sup> and because the demand was rejected (columns (v) through(x)). <sup>106</sup>
+
+Tenth, we are addressing commentators’ requests <sup>107</sup> that we clarify the disclosures required for the amount of outstanding principal balance and percentage by principal balance by adopting an instruction to specify that outstanding principal balance shall be the principal balance as of the reporting period end date and the percentage by principal balance shall be the outstanding principal balance of the asset(s) subject to the repurchase request(s) divided by the outstanding principal balance of the asset pool as of the reporting period end date.
+
+Eleventh, we are adopting, with slight modification from our proposal, a requirement that the securitizer provide totals by each issuing entity reported, and for all issuing entities for columns that require number of assets and principal balance amounts. <sup>108</sup>
+
+Finally, the rule requires securitizers to include narrative disclosure in order to further explain the information presented in the table, if applicable. We are revising the proposed instruction to clarify that securitizers should indicate by footnote and provide narrative disclosure in order to further explain information presented in all columns of the table, asappropriate. <sup>109</sup> As noted above, we received several comments requesting that we expressly require certain disclosures to be provided by footnote or accompanying narrative disclosure. <sup>110</sup> Some commentators also requested confirmation that providing narrative information would not jeopardize an issuer’s reliance upon a private offering exemptions or safe harbors. <sup>111</sup> As we noted in the Proposing Release, filing proposed Form ABS-15G would not foreclose the reliance of an issuer on the private offering exemption in the Securities Act of 1933 and the safe harbor for offshore transactions from the registration provisions in Section 5. <sup>112</sup>
+
+<h>5. Form ABS-15G</h>
+
+<h>a. Proposed Form ABS-15G</h>
+
+As we discussed in the Proposing Release, the disclosures required by Rule 15Ga-1 do not fit neatly within the framework of existing Securities Act and Exchange Act Forms because those forms relate to registered ABS transactions, and unregistered ABS transactions are not required to file those forms. <sup>113</sup> Therefore, we proposed new Form ABS-15G to be filed on EDGAR so that parties obligated to make disclosures related to Exchange Act-ABS under Rule 15Ga-1 could file the disclosures on EDGAR. We proposed that a securitizer provide the repurchase history for the last five years by filing Form ABS-15G at the time asecuritizer first offers an Exchange Act-ABS or organizes and initiates an offering of Exchange Act-ABS, registered or unregistered, after the effective date of the new rules, as adopted. In addition, we proposed that going forward, a securitizer would provide the disclosures for all outstanding Exchange Act-ABS on a monthly basis by filing Form ABS- 15G within 15 calendar days after the end of each calendar month. We proposed continued periodic reporting through and until the last payment on the last Exchange Act-ABS outstanding held by a non-affiliate that was issued by the securitizer or an affiliate. We also proposed that securitizers file Form ABS-15G to provide a notice to terminate the reporting obligation and disclose the date the last payment was made. Consistent with current filing practices for other ABS forms, <sup>114</sup> for purposes of making the disclosures required by Rule 15Ga-1, we proposed that Form ABS-15G be signed by the senior officer of the securitizer in charge of the securitization.
+
+<h>b. Comments on the Proposed Rule</h>
+
+Comments received on new Form ABS-15G were mixed. Two commentators requested that disclosures be provided on currently available forms because Section 943 does not expressly require, nor create an obligation to file on a new form. <sup>115</sup> One commentator suggested that the disclosure requirements apply only to an initial offering of an Exchange
+
+Act-ABS, and not to ongoing reporting because they believe that ongoing information regarding repurchase activity will provide little benefit to investors who have already made the decision to purchase a particular ABS. <sup>116</sup> However, another commentator stated that filing Form ABS-15G on EDGAR would make the disclosures readily available to all investors and the public and would ensure that the data is maintained, easy to find, and cost free for investors as well as regulators and policymakers. <sup>117</sup>
+
+Several commentators suggested that the trigger for the initial filing not be tied to when a securitizer completes its first offering after the effective date of the new rule. <sup>118</sup> Of those, two commentators suggested that the Form ABS-15G filings be required on a certain date after the effective date of the new rules. <sup>119</sup> In support of the proposed trigger, one commentator noted that the prospect of a new issuance by many securitizers may be delayed for a long period following the effective date of the final rules. As a result, investors and insurers of outstanding ABS would be deprived of the information at a time when representation and warranty repurchase claims and disputes related to residential mortgages, in particular, are increasing. <sup>120</sup> Several commentators requested a long implementation period in order to set up systems and gather historical data. <sup>121</sup> Three commentators proposed alternative filing rules suggesting we require securitizers to file a single Form ABS-15G if nodemands are received. <sup>122</sup> Three suggested that, thereafter, an annual confirmation could be filed to confirm that no demands have occurred since the filing of the previous Form ABS- 15G. <sup>123</sup>
+
+Comments received on reporting frequency of ongoing reporting were mixed, with some supporting monthly, <sup>124</sup> quarterly, <sup>125</sup> and annual <sup>126</sup> ongoing reporting. Several commentators suggested that reporting should only be required if any repurchase activity has occurred. <sup>127</sup> The preferred due date of the filing ranged from 30 days to 90 days after the end of the period. <sup>128</sup> In addition, some commentators requested that the table be presented in periodic intervals rather than on a cumulative basis. <sup>129</sup>
+
+<h>c. Final Form ABS-15G</h>
+
+We are adopting new Form ABS-15G so that securitizers may provide the disclosures required by new Rule 15Ga-1. As noted above, the Act does not specify when the disclosureshould first be provided, or the frequency with which it should be updated. As discussed above in Section III.A.4.c., we are adopting a requirement to file initial disclosures required by new Rule 15Ga-1 for the last three years. However, we were persuaded by commentators’ concerns that our proposal to trigger the filing requirement of Form ABS-15G at the time a securitizer first offers an Exchange Act-ABS or organizes and initiates an offering of Exchange Act-ABS, registered or unregistered, after the effective date of the new rules could deny market participants of information about demand, repurchase and replacement activity. <sup>130</sup> Further, delaying the required disclosure of information about originators could impair investors’ ability to compare issuing entities and the originators of the underlying pools. Therefore, we are adopting a requirement that any securitizer that issued an Exchange Act-ABS during the three-year period ended December 31, 2011, that includes a covenant to repurchase or replace an underlying asset for breach of a representation or warranty, would be required to file on new Form ABS-15G the disclosures required by new Rule 15Ga-1, if the securitizer has Exchange Act-ABS that had such a covenant to repurchase or replace outstanding held by non-affiliates as of December 31, 2011. <sup>131</sup> If a securitizer has no activity to report for the three-year period, then it may indicate that by checking the appropriate box on Form ABS-15G. The initial Form ABS- 15G will be required to be filed no later than 45 days after the end of the three-year period, or on February 14, 2012.
+
+As we discussed in the Proposing Release, while we believe that Congress intended to provide investors with historical information about repurchase activity so that investors mayidentify asset originators with clear underwriting deficiencies, we also recognized that securitizers may not have historically collected the information required under the new rules. We are requiring that the initial disclosures be limited to the last three years of activity, rather than five years as proposed, in order to balance the requirements of Section 943 and the burden on securitizers to provide the historical disclosures. As we note above, we are also adopting certain provisions in new Rule 15Ga-1 in order to address commentators’ concerns regarding the production of historical information. <sup>132</sup> On balance, we believe that the new rule addresses the Act’s requirement and investors’ need for historical disclosures in order to identify asset originators with clear underwriting deficiencies, while also addressing securitizers’ concerns with the challenges of producing historical information and related liability.
+
+We are also persuaded by commentators’ views regarding the frequency of reporting and, therefore, we are adopting a requirement for securitizers to provide periodic disclosures of demand, repurchase and replacement history on a quarterly basis <sup>133</sup> by filing Form ABS- 15G on EDGAR within 45 days of the end of the calendar quarter. <sup>134</sup> In the Proposing Release, we noted that most transaction agreements provide for monthly distributions, and also provide for reporting on a monthly basis. We were persuaded, however, by commentators’ suggestions that demand, repurchase and replacement history could be presented in less frequent intervals while still providing meaningful disclosure. For instance, as commentators noted, the repurchase process may move slowly, and monthly reportingmay not be a useful interval for investors if no activity typically occurs during such periods. <sup>135</sup> We also had proposed that ongoing disclosures be presented on a cumulative basis, for each issuing entity. Instead, we are adopting, as suggested by commentators, a requirement for securitizers to present only the information for the quarter in their quarterly filing because cumulative data may be cumbersome to manipulate and not be as useful to identify recent trends as information presented on a quarter by quarter basis. <sup>136</sup> In addition, as noted in the Proposing Release, we recognize that demands may have been made prior to the beginning of the initial look back period and that resolution may have occurred after that date. We are also adopting two instructions to clarify that a securitizer would need to disclose activity during the reporting period, even if it relates to assets that were subject to demands made prior to the beginning of the reporting period, <sup>137</sup> including if they were made prior to the beginning of the three-year look back period. Securitizers should include footnote disclosure to clarify, if applicable.
+
+Further, to address commentators’ concerns that certain issuers who include a covenant to repurchase or replace pool assets in their transaction agreements, but who are never presented with a repurchase demand would be required to make disclosure, we areadopting a provision, suggested by commentators, <sup>138</sup> that in lieu of providing the table, a securitizer may check a box indicating that it had no demands during the quarter. <sup>139</sup> Thereafter, a securitizer would have suspended its obligation to report on a quarterly basis, until the time when a demand occurs during the quarterly reporting period. <sup>140</sup> However, the securitizer would be required to file an annual Form ABS-15G to confirm that no demands were made during the entire year. <sup>141</sup> If demands were made during a calendar quarter, the securitizer would have to report that activity for the calendar quarter by filing Form ABS- 15G within 45 days of the end of the calendar quarter. The new rule would also apply to new securitizers where the new securitizer would have to file Form ABS-15G for the calendar quarter in which it issued Exchange Act-ABS. <sup>142</sup> If no demand activity occurred, it could check the box indicating that no activity occurred and thereafter, would not have to file Form ABS-15G on a quarterly basis until it had demand history to report. A new securitizer would still be required to file an annual Form ABS-15G to indicate it had no demand activity if true.
+
+We are also adopting, as proposed, the ability to terminate the reporting obligation. The new rule allows a securitizer to terminate its reporting obligation when the last payment is made on the last Exchange Act-ABS outstanding held by a non-affiliate that was issued by the securitizer or an affiliate.
+
+Lastly, as discussed above, in an effort to limit the cost and burden on municipal securitizers subject to the new rule as well as allow issuers to provide the Rule 15Ga-1 disclosures for investors in the same location as other disclosures regarding municipal securities, we will permit municipal securitizers to satisfy the filing obligation by filing the information required by new Rule 15Ga-1 on EMMA. <sup>143</sup>
+
+<h>B. Disclosure Requirements in Regulation AB Transactions</h>
+
+<h>1. Proposed Amendments to Regulation AB</h>
+
+We re-proposed some of our 2010 ABS proposals for Regulation AB with respect to disclosures regarding sponsors in prospectuses and with respect to disclosures about the asset pool in periodic reports, so that issuers would be required to include the disclosures in the same format as required by proposed Rule 15Ga-1(a). <sup>144</sup> We proposed that issuers of Reg AB-ABS provide disclosures in the same format as proposed Rule 15Ga-1(a) within a prospectus and within ongoing reports on Form 10-D. For prospectuses, we proposed that if the underlying transaction agreements provide a covenant to repurchase or replace an underlying asset for breach of a representation or warranty, then issuers would be required to provide in the body of the prospectus disclosure of a sponsor’s repurchase demand and repurchase and replacement history for the last three years, pursuant to the format proscribed in Rule 15Ga-1(a). In addition, we proposed to limit the disclosure required in the prospectus to repurchase history for the same asset class as the securities being registered.
+
+Our proposal did not include a materiality threshold, as Section 943 includes no such standard. We proposed that a reference be included in the prospectus to the Form ABS-15G filings made by the securitizer (i.e., sponsor) of the transaction and disclose the CIK number of the securitizer so that investors may easily locate Form ABS-15G filings on EDGAR.
+
+We also proposed to amend Item 1121 of Regulation AB so that issuers would be required to disclose the demand, repurchase and replacement history regarding the assets in the pool in the format prescribed by new Rule 15Ga-1(a) in Form 10-D. In order to conform the requirements to proposed Rule 15Ga-1, we also did not include a materiality threshold. We proposed that the Form 10-D include a reference to the Form ABS-15G filings made by the securitizer of the transaction and disclose the CIK number of the securitizer so that investors may easily locate Form ABS-15G filings on EDGAR. As we noted in the Proposing Release, providing repurchase history disclosure in prospectuses and in Form 10- D would be independent from and would not alleviate a securitizer’s obligation to disclose ongoing information for all of their transactions as required by new Rule 15Ga-1.
+
+<h>2. Comments Received on the Proposal</h>
+
+Commentators generally supported our proposal to have Regulation AB disclosures in the same format as required under proposed Rule 15Ga-1 to lessen the burden on securitizers and permit investors to more readily review and compare the data. <sup>145</sup> However, we also received three comment letters suggesting that Regulation AB should be subject to a materiality threshold <sup>146</sup>
+
+One commentator suggested that the information presented in the prospectus should be presented as of a date not later than 135 days prior to the date of first use of the prospectus. <sup>147</sup> We received one comment letter which stated that monthly reporting is appropriate at the issuing entity level where most ABS are making distributions to investors on a monthly basis and monthly reporting is tied directly to that schedule. <sup>148</sup>
+
+Five commentators supported a different liability standard for historical data <sup>149</sup> and some suggested that we adopt implementation in a fashion similar as we had provided for static pool implementation. <sup>150</sup>
+
+<h>3. Final Rule</h>
+
+We are adopting the amendment to Item 1104 substantially as proposed with a few modifications in response to comments received. <sup>151</sup> We are revising the text of the regulation to refer to assets “securitized” by a securitizer instead of “originated and transferred”, as proposed, to address commentators concerns and to conform to Rule 15Ga-1 as described above in Section II.A.2. Also, as proposed, tabular disclosure is required in prospectuses in the format required by new Rule 15Ga-1 for the last three years. <sup>152</sup> We are also adopting, as proposed, a requirement that issuers include a reference to the CIK number of the securitizer.
+
+In addition, and as suggested by a commentator, <sup>153</sup> we are adopting a requirement that the information presented in the prospectus shall not be more than 135 days old. <sup>154</sup> This provision should reduce the burdens on securitizers because it is consistent with the disclosure conventions for static pool and interim financial information as well as the quarterly filing deadlines we are adopting today for Form ABS-15G. <sup>155</sup> It also should not diminish the quality of the information provided to investors because, as we discuss above, commentators stated that the repurchase process is typically slow and quarterly reporting is an appropriate interval to provide useful information about demand and repurchase activity. <sup>156</sup> In addition, information subsequent to the last quarterly reporting period may be available for a particular Exchange Act-ABS if it is required to report on Form 10-D on a more frequent basis than quarterly, such as monthly.
+
+Finally, as we discuss above, commentators expressed significant concern about the ability to produce historical data to meet the requirements of Item 1104 and requested specific relief from liability for historical information. <sup>157</sup> We recognize that issuers may not have been collecting the necessary data for periods before the compliance date of the new rules and even if they had been collecting the necessary information, the information may not have been collected under processes and controls with a view toward disclosure in a prospectus. However, we believe that concerns regarding the availability of data on a goingforward basis will not be applicable. Therefore, we are addressing commentators’ concerns by phasing in the disclosure requirement. A prospectus filed in the first year after the compliance date, will be permitted to include a one-year look back period, and in the second year after the compliance date, a two-year look back period. <sup>158</sup> Prospectuses filed in the third year after the compliance date and thereafter must include the full three-year look back period.
+
+We are also adopting the amendment to Item 1121, as proposed, so that investors will receive disclosures with their reports on Form 10-D about the demand, repurchase and replacement history with respect to a particular issuing entity.
+
+<h>C. Disclosure Requirements for NRSROs</h>
+
+<h>1. Proposed New Rule 17g-7</h>
+
+We proposed to add new Exchange Act Rule 17g-7, which would implement Section 943(1) of the Act by requiring an NRSRO to make certain disclosures in any report accompanying a credit rating relating to an asset-backed security. <sup>159</sup> Specifically, in accordance with Section 943(1), Rule 17g-7 as proposed would require an NRSRO <sup>160</sup> toinclude, in such reports, a description of the representations, warranties and enforcement mechanisms available to investors and a description of how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities. <sup>161</sup> As discussed above, the Act also amended the Exchange Act to include the definition of an “asset-backed security” and Section 943 of the Act references that definition. <sup>162</sup> Therefore, we proposed that under Rule 17g-7 an NRSRO must provide the disclosures with respect to any Exchange Act-ABS, whether or not the security is offered in a transaction registered with the Commission.
+
+In the Proposing Release we noted that Section 943, by its terms, applies to any report accompanying a credit rating for an ABS transaction, regardless of when or in what context such reports and credit ratings are issued. Proposed Rule 17g-7 was intended to reflect the broad scope of this congressional mandate. In addition, we proposed a note to the new rule which would clarify that for the purposes of the proposed rule, a “credit rating” would include any expected or preliminary credit rating issued by an NRSRO. <sup>163</sup> We noted in the Proposing Release that in ABS transactions, pre-sale reports are typically issued by an NRSRO at the time the issuer commences the offering and typically include an expected or preliminary credit rating and a summary of the important features of a transaction. We alsoand warranty relating to fraud in the origination of the assets, and a statement if there is no such representation or warranty.noted that disclosure at the time pre-sale reports are issued is particularly important to investors, since such reports provide them with important information prior to the point at which they make an investment decision. <sup>164</sup>
+
+<h>2. Comments received on Proposed Rule</h>
+
+We received two comment letters expressing general support for the enhanced disclosure that the proposed Rule 17g-7 would require. <sup>165</sup> One commentator noted that it should facilitate an investor’s understanding of available remedies for a breach and that the additional requirement for NRSROs to produce information regarding the representations, warranties and enforcement mechanisms available to investors in issuances of similar securities would further enhance the value of this information for investors by allowing them to readily compare various transactions involving the same asset class or similar asset class. <sup>166</sup>
+
+Two commentators requested that the rule text be revised to refer exclusively to representations and warranties regarding the pool assets. <sup>167</sup> One commentator expressed its belief that Congress intended Section 943(1) to include those representations and warranties that an issuer makes about the underlying assets, not those concerning other aspects of the transaction, e.g., corporate or governance representations. <sup>168</sup><sup>164</sup>
+
+We further noted that Section 932 of the Act amends Section 15E of the Exchange Act to require the
+
+Commission to adopt rules requiring NRSROs to prescribe and use a form to accompany the publication of each credit rating that discloses certain information. See Section 932 of the Act. For the purposes of Section 943 and new Rule 17g-7, such a form would clearly be a “report” and, as such, if published in connection with a rating relating to an asset-backed security, would therefore require the necessary disclosures regarding the representations, warranties and enforcement mechanisms available to investors and how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.
+
+We received several comments regarding the term “similar securities.” Several commentators requested that we clarify or expressly define the term, <sup>169</sup> while one commentator suggested that we require all NRSROs (in collaboration with investors and other market participants) to agree on concepts of “similar securities.” <sup>170</sup> On the other hand, one commentator argued that deciding whether one security is similar to another, and therefore deciding whether their terms are comparable, is ultimately a question of analytic judgment that should be left in the hands of the NRSRO. <sup>171</sup>
+
+Some commentators urged us to allow NRSROs to provide the required disclosures by reference to a transaction’s offering documents or other materials disclosed by the issuer or underwriter, primarily due to the anticipated length of the disclosures. <sup>172</sup> One commentator suggested as an alternative limiting the disclosure requirement to a summary of the provisions. <sup>173</sup> However, another commentator opposed allowing NRSROs to satisfy the proposed disclosure requirement by referring to prospectus disclosure, noting the enhanced utility to investors that would arise from placing the relevant disclosure in a ratings report alongside information about the representations, warranties and enforcement mechanisms available to investors in issuances of similar securities. <sup>174</sup>
+
+Commentators were also divided on the issue of utilizing, for the purpose of the required disclosure, industry standards for the representations, warranties and enforcement mechanisms available to investors. Several commentators voiced support for allowingcomparisons to industry standards for the representations, warranties and enforcement mechanisms available to investors as an alternative to comparisons to the representations, warranties and enforcement mechanisms available to investors in issuances of similar securities, <sup>175</sup> while others suggested that the rule should eliminate the comparison to standard securities altogether and replace it with a requirement to provide comparisons to industry standards. <sup>176</sup> One commentator suggested instead that the rule itself establish or reference mechanisms “to encourage the development and standardization of effective ABS representations and warranties to increase the ability to make meaningful comparisons among ABS securities and to strengthen investor confidence that promises made to investors can be enforced.” <sup>177</sup> Other commentators, however, opposed the use of industry standards for comparative purposes. <sup>178</sup> Finally, some commentators suggested that the rule should expressly state that comparisons to either an NRSRO’s internal benchmarks for representations, warranties and enforcement mechanisms or to any applicable industry standards would meet the requirement. <sup>179</sup>
+
+We received two comment letters expressing conditional support for the note to the proposed rule clarifying that for the purposes of the proposed rule, a “credit rating” wouldinclude any expected or preliminary credit rating issued by an NRSRO. <sup>180</sup> One of these commentators expressed its belief that the required disclosure should be limited only to pre- sale reports, <sup>181</sup> while the second stated that its support was contingent on our allowing all required disclosure under the rule to be done by reference to issuer or underwriter materials. <sup>182</sup> Another commentator, noting that under existing market practice, the timing of pre-sale reports is often unpredictable and there may have been instances where rating agencies have not provided pre-sale reports for rated transactions, expressed its belief that the required disclosure should be part of the offering memorandum. <sup>183</sup>
+
+Two commentators expressed their belief that the rule’s requirements should apply to issuer paid ratings only. <sup>184</sup> Another commentator, however, argued against exempting non- issuer paid ratings from the scope of the rule, noting that Section 943(1) does not discriminate between NRSRO business models. <sup>185</sup> Finally, one commentator argued that the rule should not apply to ratings of ABS issuances by foreign issuers that are not issuing securities into the US market. <sup>186</sup>3.	Final Rule
+
+We are adopting new Rule 17g-7 as proposed, including the proposed note to the rule indicating that for the purposes of the rule’s requirement, a “credit rating” includes any expected or preliminary credit rating issued by an NRSRO. As explained in the Proposing
+
+Release, we intend the term “preliminary credit rating” to include any rating, any range of ratings, or any other indications of a rating used prior to the assignment of an initial credit rating for a new issuance.
+
+We acknowledge commentators’ concerns about the interpretation of the term “similar securities,” as well as some commentators’ requests that NRSROs be allowed to utilize comparisons to industry standards as an alternative to, or instead of, comparisons to the representations, warranties and enforcement mechanisms available to investors in issuances of similar securities. While we recognize these views, we are concerned that defining similar securities or allowing reliance exclusively on industry standards for the purpose of the required comparisons could create unintentional gaps in disclosure. We expect, however, that in making its own determinations as to what constitutes a “similar security” for the purposes of the required comparisons, an NRSRO would draw upon its knowledge of industry standards, along with its own experience with previously rated deals and its knowledge of the market in general. As discussed in the Proposing Release, we anticipate that one way an NRSRO could fulfill the requirement to describe how representations, warranties and enforcement mechanisms differ from those provided in similar securities would be to review previous issuances both on an initial and an ongoing basis in order to establish, and periodically revise as appropriate, “benchmarks” for various types of securities.
+
+As noted above, several commentators suggested we allow NRSROs to satisfy the requirements of new Rule 17g-7 by incorporating the required disclosures by reference to the transaction’s offering documents. We were not persuaded, however, by these comments and believe that Congress intended, by including clear and specific language in Section 943(1),that investors receive the disclosures within the ratings report itself. Similarly, in response to commentators’ suggestions that the rule should apply only to representations and warranties regarding the pool assets, as well as to the suggestion that the rule should not apply to foreign issuers that are not issuing securities into the US market, we note that nothing in the text of Section 943(1) would support drawing any such distinctions in connection with reports issued by NRSROs subject to Commission oversight.
+
+We also acknowledge commentators’ concerns regarding the application of the rule to unsolicited ratings. We note that this concern can be addressed directly by NRSROs themselves through disclosure in their reports accompanying credit ratings. For example, an NRSRO could disclose whether it was hired by the arranger and therefore received information on the representations, warranties and enforcement mechanisms directly; was issuing an unsolicited rating using access to arranger information provided under Rule 17g- 5(a)(3), <sup>187</sup> in which case it obtained that information indirectly; or was issuing an unsolicited rating without relying on Rule 17g-5(a)(3), in which case it may not have had access to the information at all. The rule as adopted does not include any limitation on the application of the disclosure requirement to “any report accompanying a credit rating.” As such, the requirements of the rule will apply to reports issued in conjunction with both solicited and unsolicited ratings.
+
+<h>III. Transition Period<sup>187</sup>17 CFR 240.17g-5(a)(3). This provision requires an NRSRO that is hired by an arranger to determinean initial credit rating for a structured finance product to take certain steps designed to allow an NRSRO that is not hired by the arranger to nonetheless determine an initial credit rating – and subsequently monitor that credit rating – for the structured finance product. See Amendments to Rules for Nationally Recognized Statistical Rating Organizations, SEC Release No. 34-61050 (November 23, 2009) [74 FR 63832].</h>
+
+The new rules will be effective 60 days after publication in the Federal Register; however, securitizers, issuers and NRSROs will be required to comply with the new rules as described below.
+
+With regard to Rule 15Ga-1, we received several comments suggesting a compliance date of six months, <sup>188</sup> one year, <sup>189</sup> 18 months <sup>190</sup> and two years <sup>191</sup> from the effective date of the new rule. Some commentators noted that securitizers need a longer time to implement the systems for tracking and recording repurchase requests necessary to comply with the rule. <sup>192</sup> However, other commentators believed that many securitization sponsors and servicers have systems in place and have collected the information. <sup>193</sup>
+
+We have considered the comments and as noted earlier, for those securitizers other than municipal securitizers, who have issued ABS during the three-year period ended December 31, 2011, the rule will require that the initial filing pursuant to new Rule 15Ga-1 be filed on EDGAR by February 14, 2012. We are providing this transition period so that securitizers and other transaction participants may set up systems and gather historical data and to track the data.
+
+In addition, as discussed above, we are delaying compliance for a period of three years for municipal securitizers. Therefore, municipal securitizers will be required to makethe initial filing required by Rule 15Ga-1(c)(1) for the three years ended December 31, 2014 and file on February 14, 2015. Also, as discussed above, we will permit municipal securitizers to satisfy the rule’s filing obligation by filing the information on EMMA.
+
+We are also providing the same transition period with respect to demand, repurchase and replacement history disclosure in registration statements and prospectuses in accordance with Regulation AB; therefore, Item 1104 disclosures would be required with the first bona fide offering of registered ABS on or after February, 14, 2012. The information in prospectuses should be as of date no older than 135 days. However, as we describe above, we are phasing in the look back period in the first two years of compliance. <sup>194</sup>
+
+With respect to Form 10-Ds, the information should be provided with respect to the particular ABS that is required to report on Form 10-D after December 31, 2011.
+
+Securitizers will already be obligated to report information with respect to transactions issued prior to December 31, 2011 on Form ABS-15G on a quarterly basis; therefore, the information required by new Item 1121(c) of Regulation AB should be readily available to report on Form 10-D for a particular Reg AB-ABS (including for Reg AB-ABS issued prior to December 31, 2011).
+
+With respect to Rule 17g-7, we received two comments about the transition period, one requesting six months <sup>195</sup> and the other one year, <sup>196</sup> in each case primarily to be able to comply with the requirement to perform a comparison to similar securities. We are providing a period of six months from the effective date of the new rule for NRSROs tocomply with new Rule 17g-7. We believe this is sufficient time to allow NRSROs to set up the systems to collect, maintain and analyze previous issuances to establish benchmarks.
+
+<h>IV. Paperwork Reduction Act</h>
+
+<h>A. Background</h>
+
+Certain provisions of the rule amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (PRA). <sup>197</sup> We published notice requesting comment on the collection of information requirements in the Proposing Release, and we submitted these requirements to the Office of Management and Budget (OMB) for review in accordance with the PRA. <sup>198</sup>
+
+An agency may not conduct or sponsor, and a person is not required to comply with, a collection of information unless it displays a currently valid control number. The titles for the collections of information are:
+
+<h>1. “Form ABS-15G” (a new collection of information);</h>
+
+<h>2. “Regulation S-K” (OMB Control No. 3235-0071); 199 and</h>
+
+<h>3. “Rule 17g-7” (a new collection of information).</h>
+
+The regulation listed in No. 2 was adopted under the Securities Act and the Exchange Act and sets forth the disclosure requirements for registration statements and periodic andcurrent reports filed with respect to asset-backed securities and other types of securities to inform investors.
+
+The regulations and form listed in Nos. 1 and 3 are new collections of information under the Act. Rule 15Ga-1 would require securitizers to provide disclosure regarding fulfilled and unfulfilled repurchase requests with respect to Exchange Act-ABS pursuant to the Act. Form ABS-15G is a new form type that will contain Rule 15Ga-1 disclosures and be filed with the Commission. Rule 17g-7 will require NRSROs to provide disclosure regarding representations, warranties, and enforcement mechanisms available to investors in any report accompanying a credit rating issued by an NRSRO in connection with an Exchange Act-ABS transaction.
+
+Compliance with the amendments is mandatory. Responses to the information collections will not be kept confidential and there is no mandatory retention period for the collections of information.
+
+<h>B. Summary of the Final Rules</h>
+
+As discussed in more detail above, the new rules and amendments we are adopting will require:
+
+ABS securitizers to disclose demand, repurchase and replacement history in a tabular format for an initial three-year look back period ending December 31, 2011;
+
+ABS securitizers to disclose, subsequent to that date, demand, repurchase and replacement activity in a tabular format on a quarterly basis;
+
+ABS issuers to disclose demand, repurchase and replacement history for a three-year look back period, in the same tabular format as new Rule 15Ga-1, in the body of the prospectus;
+
+ABS issuers to disclose demand, repurchase and replacement activity for a specific ABS, in the same tabular format, in periodic reports filed on Form 10-D; and
+
+NRSROs to disclose, in any report accompanying a credit rating for an ABS transaction, the representations, warranties and enforcement mechanisms available to investors and how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.
+
+The new rules implement Section 943 of the Act as well as conform disclosure in prospectuses and ongoing reports for ABS sold in registered transactions.
+
+<h>C. Summary of Comment Letters on the PRA Analysis and Revisions to Proposals</h>
+
+In the Proposing Release, we requested comment on the PRA analysis. We have made several changes in response to comments on the substance of the proposals that are designed to avoid potential unintended consequences and reduce possible additional costs or burdens pointed out by commentators. For example, in response to comment letters regarding the burdens of monthly reporting pursuant to Rule 15Ga-1, we have made responsive revisions to change to a quarterly periodic reporting requirement. We are also permitting a securitizer to suspend its reporting obligation as long as it has no repurchase activity for the reporting period; however, a securitizer would still have to provide an annual confirmation that no disclosure is required under Rule 15Ga-1 by checking a box on new Form ABS-15G.
+
+We received one comment letter addressing our PRA burden estimates for Rule 17g- 7, as proposed. The commentator argued that our PRA estimate of 10 hours underestimated the time that NRSROs would need to gather all of the information to conduct thecomparisons required by the rule and requested an adequate transition period in order to prepare to comply with the rule. <sup>200</sup> The comment letter, however, did not acknowledge the additional burden estimates that we provided for in the Proposing Release. In addition to the estimated 10 hours per transaction to compare the terms of the current transaction to the benchmarks, cited by the commentator, we also estimated an initial burden of 3,000 hours to set up systems to establish benchmarks and an additional 3,000 hours per year to revise the various benchmarks. Because we believe these estimates adequately estimate the burden imposed by Rule 17g-7, we are not revising our estimates with respect to Rule 17g-7.
+
+<h>D. PRA Reporting and Cost Burden Estimates</h>
+
+Our PRA burden estimates for the rule amendments are based on information that we receive on entities assigned to Standard Industrial Classification Code 6189, the code used with respect to asset-backed securities, as well as information from outside data sources. <sup>201</sup> When possible, we base our estimates on an average of the data that we have available for years 2004, 2005, 2006, 2007, 2008, and 2009.
+
+In adopting rules under the Credit Rating Agency Reform Act of 2006 (“the Rating Agency Act”), <sup>202</sup> as well as proposing additional rules in November 2009, we previously estimated that approximately 30 credit rating agencies would be registered as NRSROs. <sup>203</sup>
+
+<h>1. Form ABS-15G</h>
+
+This new collection of information relates to new disclosure requirements for securitizers that offer Exchange Act-ABS. Under the new rules, such securitizers are required to disclose demand, repurchase and replacement history with respect to pool assets across all trusts aggregated by securitizer. We had proposed that the new information be required at the time a securitizer offers Exchange Act-ABS after the implementation of the new rule, and then monthly, on an ongoing basis as long as the securitizer has Exchange Act- ABS outstanding held by non-affiliates. Instead, we are adopting that the new information be required for all securitizers that offered Exchange Act-ABS during the three-year period ending December 31, 2011, and that have Exchange Act-ABS outstanding that are held by non-affiliates. Going forward, periodic disclosures will be required on a quarterly basis. We are also permitting securitizers to suspend quarterly reporting so long as they have no activity for the quarterly period; however a securitizer is required, annually, to confirm that they had no activity for the year. The disclosures are required to be filed on EDGAR on new Form ABS-15G, except that municipal securitizers may satisfy their reporting obligations by filing their disclosures on EMMA. As discussed in the Proposing Release, we believe that the costs of implementation would include costs of collecting the historical information, software costs, costs of maintaining the required information, and costs of preparing and filing the form. Although the new requirements apply to securitizers, which by definition include both sponsors and issuers, we base our estimates on the number of unique ABS sponsors because we are also providing under the final rule, that issuers affiliated with a sponsor would not have to file a separate Form ABS-15G to provide the same Rule 15Ga-1 disclosures.
+
+Our estimates in the Proposing Release were based on the number of unique ABS securitizers (i.e., sponsors) over 2004-2009, which was 540, for an average of 90 unique securitizers per year. <sup>204</sup> We base our burden estimates for this collection of information on the assumption that most of the costs of implementation would be incurred before the securitizer files its first Form ABS-15G. Because ABS issuers currently have access to systems that track the performance of the assets in a pool we believe that securitizers should also have access to information regarding whether an asset had been repurchased or replaced. However, securitizers may not have historically collected the information and systems may not currently be in place to track when a demand has been made, and in particular, systems may not be in place to track those demands made by investors upon trustees. Therefore, securitizers would incur a one-time cost to compile historical information in systems.
+
+Furthermore, the burden to collect and compile the historical information may vary significantly between securitizers, due to the number of asset classes and number of ABS issued by a securitizer.
+
+For the initial filing, we estimate that 270 unique securitizers would be required to file Form ABS-15G. <sup>205</sup> We estimate that a securitizer would incur a one-time setup cost for the initial filing of 852 hours to collect and compile historical information and adjust its existing systems to collect and provide the required information going forward. <sup>206</sup> Therefore,we estimate that it would take a total of 230,040 hours for a securitizer to set up the mechanisms to file the initial Rule 15Ga-1 disclosures. <sup>207</sup> We allocate 75% of these hours (172,530 hours) to internal burden for all securitizers. For the remaining 25% of these hours (57,510 hours), we use an estimate of $400 per hour for external costs for retaining outside professionals totaling $23,004,000.
+
+After a securitizer has made the necessary adjustments to its systems in connection with the new rule and, after an initial filing of Form ABS-15G disclosures has been made, securitizers will have to file Form ABS-15G on a quarterly basis, unless it suspends its reporting obligation. We estimate that each subsequent quarterly filing of Form ABS-15G to disclose ongoing information by a securitizer will take approximately 30 hours to prepare, review and file. We estimate, for PRA purposes, that the average number of quarterly Form ABS-15G filings per year will be 720. <sup>208</sup>
+
+Therefore, after the initial filing is made, we estimate the total annual burden hours for preparing and filing the disclosure will be 21,600 hours. <sup>209</sup> We allocate 75% of those hours (16,200 hours) to internal burden hours for all securitizers and 25% of those hoursestimate of two computer programmers for two months, which equals 21 days per month times two employees times two months times eight hours per day.(5,400 hours) for professional costs totaling $400 per hour of external costs of retaining outside professionals totaling $ 2,160,000.
+
+In addition, securitizers that have suspended their quarterly reporting obligation are required to file one annual confirmation that no repurchase activity has occurred for the calendar year. We estimate an average of 90 confirmation filings per year. <sup>210</sup> We estimate that each annual filing to confirm that no activity occurred on Form ABS-15G will take approximately 5 hours to prepare, review and file, therefore we estimate the total annual burden hours to be 450. <sup>211</sup> We allocate 75% of those hours (338 hours) to internal burden hours for all securitizers and 25% of those hours (113 hours) for professional costs totaling$400 per hour of external costs of retaining outside professionals totaling $ 45,000.
+
+Therefore, the total internal burden hours are 189,068 <sup>212</sup> and the total external costs are $25,209,000. <sup>213</sup> The increase from our original burden estimate in the Proposing Release is primarily due to the change in the trigger for the initial filing requirement. However, we have significantly reduced the burden estimate on a going forward basis by requiring quarterly, instead of monthly filings, as proposed, as well as permitting securitizers to suspend the quarterly reporting obligation.
+
+<h>2. Forms S-1, S-3 and 10-D</h>
+
+We are requiring that asset-backed securities offered on Forms S-1 and S-3 include the required Rule 15Ga-1 disclosures for the same asset class in registration statements. We are also requiring that issuers of registered ABS include the new Rule 15Ga-1 disclosures for only the pool assets on Form 10-D, which contains periodic distribution and pool performance information. The burden for the collection of information is reflected in the burden hours for Form ABS-15G filed by a securitizer; however, Forms S-1, S-3 and 10-D are filed by asset-backed issuers, and issuers may include a portion of the information in the prospectus and in periodic reports. Therefore, we have not included additional burdens for Forms S-1, S-3 and 10-D.
+
+<h>3. Regulation S-K</h>
+
+Regulation S-K, which includes the item requirements in Regulation AB, contains the requirements for disclosure that an issuer must provide in filings under both the Securities Act and the Exchange Act. In 2004, we noted that the collection of information requirements associated with Regulation S-K as it applies to ABS issuers are included in Form S-1, Form S-3, Form 10-K and Form 8-K. <sup>214</sup>
+
+The amendments would make revisions to Regulation S-K. The collection of information requirements, however, are reflected in the burden hours estimated for the various Securities Act and Exchange Act forms related to ABS issuers. The rules in Regulation S-K do not impose any separate burden. Consistent with historical practice, we have retained an estimate of one burden hour to Regulation S-K for administrative convenience.
+
+<h>4. Rule 17g-7</h>
+
+This new collection of information relates to new disclosure requirements for NRSROs. Under new Rule 17g-7, an NRSRO is required to disclose in any report accompanying a credit rating in an asset-backed securities offering the representations, warranties and enforcement mechanisms available to investors and describe how they differ from those in issuances of similar securities. The following summarizes the burden estimates for Rule 17g-7 that we provided in the Proposing Release. We estimated it would take 1 hour per ABS transaction to review the relevant disclosures prepared by an issuer, which an NRSRO would presumably have reviewed as part of the rating process, and convert those disclosures into a format suitable for inclusion in any report to be issued by an NRSRO. We noted our expectation that an NRSRO would incur an initial setup cost to collect, maintain and analyze previous issuances to establish benchmarks as well as an ongoing cost to review the benchmarks to ensure that they remain appropriate. We estimated that the initial review and set up system cost will take 100 hours and that NRSROs will spend an additional 100 hours per year revising the various benchmarks. Therefore, we estimated it would take a total of 3,000 hours <sup>215</sup> for NRSROs to set up systems and an additional 3,000 hours per year revising various benchmarks. <sup>216</sup>
+
+On a deal-by-deal basis, we estimated it would take NRSRO 10 hours per ABS transaction to compare the terms of the current deal to those of similar securities. Because NRSROs would need to provide the disclosures in connection with the issuance of a credit rating on a particular offering of ABS, we based our estimates on an annual average of 2,067
+
+ABS offerings. <sup>217</sup> We also assigned four to the number of credit ratings per issuance of ABS, based on an average of two NRSROs preparing two reports (pre-sale and final) for each transaction. Therefore, we estimated that it would take a total of 90,948 hours, annually, for NRSROs to provide the new Rule 17g-7 disclosures. <sup>218</sup> As noted above, we received one comment letter regarding our PRA estimate for Rule 17g-7, <sup>219</sup> and as we discuss above, we are not adjusting our PRA estimates with respect to Rule 17g-7.
+
+<h>5. Summary of Changes to Annual Burden Compliance in Collection of Information</h>
+
+Table 1 illustrates the annual compliance burden of the collection of information in hours and costs for the new disclosure requirements for securitizers and NRSROs. Below, the new Rule 15Ga-1 requirement for securitizers is noted as “Form ABS-15G” and the new requirement for NRSROs is noted as “17g-7.”
+
+VI.	Benefit-Cost Analysis
+
+Section 943 of the Act requires the Commission to prescribe rules relating to disclosure of demand, repurchase and replacement history by securitizers and disclosure of
+
+<h>X. of the 2010 ABS Proposing Release. We also add 393 to estimate for offerings under other exemptions that were not within the scope of the 2010 ABS Proposing Release. Thus, in total we use an estimated annual average number of 2,067 ABS offerings for the basis of our PRA burden estimates.representations, warranties, and enforcement mechanisms by NRSROs. In response to the requirements of Section 943, the Commission is adopting new rules and form amendments that would require securitizers and NRSROs to make the required disclosures.</h>
+
+First, Section 943(2) requires any securitizer to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by the securitizer, so that investors may identify asset originators with clear underwriting deficiencies. As the Act requires, our rules will apply to “any securitizer” of Exchange Act-ABS, including unregistered Exchange Act- ABS. The Act requires disclosure of “fulfilled and unfulfilled repurchase requests” and our new rules require disclosure of all repurchase requests, not just those limited to the transaction agreements. Further, the Act requires disclosure “across all trusts aggregated by the securitizer.” The new rule seeks to account for the potential limited availability and usefulness of older information by requiring securitizers to provide demand and repurchase history, initially for a three-year look back period and then quarterly on an ongoing basis for all outstanding Exchange Act-ABS held by non-affiliates during the reporting period. In order to implement the disclosure requirement, we are requiring that securitizers provide the disclosures in a tabular format and file them on EDGAR on new Form ABS-15G. As we discuss above, the new rules provide that if an affiliate securitizer has filed the same disclosures, then other affiliated securitizers would not have to also file the disclosures in order to avoid duplicate disclosures. In addition, a securitizer may suspend its quarterly reporting obligation if it has no reportable activity and makes an annual filing to confirm that it has had no activity for the prior year. We are also providing approximately a one-year transition period so that securitizers may set up systems and gather the data to make the required disclosures. For municipal securitizers, we are providing approximately a four-yeartransition period and permitting municipal securitizers to satisfy the filing obligation by filing on EMMA.
+
+Second, we are also adopting disclosure requirements with respect to repurchase requests in Regulation AB in order to conform disclosures in prospectuses and in periodic reports to those required by Section 943 of the Act.
+
+Third, Section 943(1) of the Act requires that each NRSRO include in any report accompanying a credit rating, a description of the representations, warranties and enforcement mechanisms available to investors. Our new Rule 17g-7 includes an instruction to clarify that for purposes of the requirement, a “credit rating” includes any expected or preliminary credit rating issued by an NRSRO.
+
+We are sensitive to benefits and costs imposed by the new rules, form and amendments. The discussion below focuses on the benefits and costs of the amendments made by the Commission to implement the Act within its permitted discretion, rather than the overall benefits and costs of the changes mandated by the Act.
+
+<h>A. Benefits</h>
+
+In new Rule 15Ga-1 we choose to require that the disclosure mandated by the Act be presented in a tabular format with standardized headings. We believe that this data formatting requirement will benefit investors by providing them with demand, repurchase and replacement information that is easy to use and easy to compare across securitizers.
+
+We are limiting the scope of the disclosures to outstanding Exchange Act-ABS, and in the initial filing to the last three years of demand, repurchase and replacement history. We believe that a three-year look back period strikes the right balance between compliance coststo securitizers and disclosure benefits to investors, since three years of data should be sufficient for investors to identify originators with underwriting deficiencies.
+
+After the initial filing, securitizers are required to file Form ABS-15G, periodically, on a quarterly basis with information about activity that occurred during the quarter, so that consistent with the purpose of Section 943 of the Act, an investor may monitor the demand, repurchase and replacement activity across all Exchange Act-ABS issued by a securitizer. We have chosen to require that the quarterly report include information for the current quarter, instead of cumulative data. This will benefit investors by allowing them the flexibility to track activity over periods of their choosing because it is more user-friendly and less unwieldy than cumulative data. Depending on their needs, they can analyze the current- quarter data alone or aggregate it with data from prior filings in order to identify trends. In addition, aggregated data for the same asset class would be provided in prospectuses.
+
+Several provisions in the adopted rules are designed to limit filing costs to securitizers without diminishing the usefulness of the disclosure available to investors. We are permitting a securitizer to suspend its quarterly obligation if it has no reportable activity, though such a securitizer would still be required to file an annual confirmation that it had no reportable demand or repurchase activity by checking a box on Form ABS-15G. In addition, if an affiliate securitizer has filed the same disclosures with respect to a particular ABS transaction, then other affiliated securitizers would not have to also file the disclosures. We are also requiring that the disclosures be filed on EDGAR on new Form ABS-15G and permitting municipal securitizers to satisfy the reporting obligation by filing on EMMA. By requiring the new Form ABS-15G to be filed on EDGAR, the required information for most securitizers would be housed in a central repository that would preserve continuous access tothe information to the benefit of investors. Municipal securitizers can file the information in a central repository for municipal market information, EMMA. Although it is likely that most, if not all municipal securitizers will file on EMMA, they are not required to. However, we believe that filing on EMMA will facilitate use by investors, since the demand, repurchase and replacement disclosures will generally be available in the same repository where investors are most likely to look for other municipal ABS disclosures. .
+
+The one-year transition period will provide securitizers time to set up systems and gather the data to make the required disclosures. For municipal securitizers, we are providing an additional three-year transition period so that they may develop the infrastructures and observe how the rule operates for other securitizers, so that they may better prepare to comply with the new rules.
+
+To facilitate investors’ use of demand, repurchase and replacement information, we are amending Regulation AB to require disclosures in the prospectus and periodic reports in a format similar to that required by Rule 15Ga-1. The information in the prospectus must be presented for a three-year look-back period, so that an investor in a particular offering receives and may review cumulative information in one place. Furthermore, an investor would receive disclosure about a demand, repurchase and replacement activity related to a particular ABS in periodic reports, which may be required to be filed at a more frequent interval than Form ABS-15G, such as monthly.
+
+If an Exchange Act-ABS is rated, new Rule 17g-7 would require disclosures by NRSROs about the representations, warranties and enforcement mechanisms available to investors, and how they differ from those of other similar securities in a report accompanying a credit rating. We interpret a “credit rating” to include any expected or preliminary creditrating issued by an NRSRO because pre-sale reports typically accompany an expected or preliminary rating. We believe that this interpretation will benefit investors by allowing them access to information on representations, warranties and enforcement mechanisms prior to the point at which they make an investment decision. As a result, these disclosures will possibly expand the information available to investors and improve transparency regarding the use of representations and warranties in ABS transactions.
+
+<h>B. Costs</h>
+
+With respect to Rule 15Ga-1, the requirement to file on EDGAR initially and then on a quarterly basis will result in costs related to preparation of such filings. Filing on EDGAR would require a securitizer to obtain authorization codes and to adhere to formatting instructions. While our revision from monthly to a quarterly reporting requirement will reduce the filing burden on securitizers, an annual filing would still be required to confirm by check box that no demand, repurchase or replacement activity has occurred. <sup>220</sup>
+
+In addition, we are providing approximately a one-year transition period (and an additional three years for municipal securitizers), which will delay the availability of current information on representations and warranties repurchase activity to investors; however, we believe that a transition period of this length is necessary for securitizers to set up systems and gather historical data needed to comply with the new rules. Further, investors would not receive information about repurchase activity for periods prior to the initial three-year period; however, it is not clear that older data would provide useful information about underwriting deficiencies, because many loan origination and underwriting standards have changed post-crisis. In addition, older data may be very hard or impossible for securitizers to obtain if they have not had systems in place to track the data required for the required disclosures.
+
+The new rules implement the Act’s requirement on securitizers to disclose the repurchase and replacement demands resulting from breaches of representations and warranties in past ABS transactions initially, for the last three years and then updated disclosures going forward on a quarterly basis. We understand that some of the data collection may be costly. In some cases, it may be very difficult to obtain repurchase or replacement records from the distant past. <sup>221</sup> The final rule, however, permits a securitizer under certain conditions to omit information unknown and not available to the securitizer without unreasonable effort or expense.
+
+As noted above, we have chosen to require that ongoing quarterly reports include information for the current quarter, instead of cumulative data. Therefore, users who would find cumulative data more helpful will need to make additional efforts to compile the information for periods; although cumulative information related to the same asset class would be available in a prospectus for a three-year look back period.
+
+In order to minimize duplicate disclosures, the new rules would not require a securitizer to report if an affiliated securitizer in the same transaction files the required disclosures. As discussed above, we believe this accommodation is appropriate because otherwise such disclosure would be duplicative and would not provide any additional useful information, since as noted above, the depositor usually serves as an intermediate entity of a transaction initiated by a sponsor. However, in some cases, users who would findinformation about affiliated transactions useful will need to compile information about affiliated transactions themselves. <sup>222</sup>
+
+The new rules, pursuant to the Act, would also require NRSROs to disclose in any report accompanying a credit rating for an ABS transaction the representations, warranties and enforcement mechanisms available to investors and how they differ from those of other similar securities. A note to new Rule 17g-7 clarifies the statutory requirements by explaining that for the purposes of the rule’s requirements, a “credit rating” includes any expected or preliminary credit rating issued by an NRSRO. This clarification is designed to ensure that the disclosure requirements of the rule will apply to pre-sale reports issued by NRSROs in ABS transactions. We recognize that this could result in some additional incremental costs to NRSROs; however, we believe that any such additional costs would be more than offset by the benefits to investors that will arise from the inclusion of the required disclosures in NRSRO pre-sale reports, thus providing them with additional information prior to the point at which they make an investment decision.
+
+<h>VII. Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation</h>
+
+Section 23(a) of the Exchange Act <sup>223</sup> requires the Commission, when making rules and regulations under the Exchange Act, to consider the impact a new rule would have on competition. Section 23(a)(2) prohibits the Commission from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposesof the Exchange Act. Section 2(b) of the Securities Act <sup>224</sup> and Section 3(f) of the Exchange Act <sup>225</sup> require the Commission, when engaging in rulemaking that requires it to consider whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action would promote efficiency, competition, and capital formation.
+
+The new rules implement Section 943 of the Act and amend Regulation AB in order to conform disclosures in prospectuses and periodic reports to those required by Section 943. New Rule 15Ga-1 implements Section 943(2) by requiring disclosures of the repurchase history of securitized assets be filed on EDGAR (or in the case of municipal securitizers, may be filed in the alternative on EMMA). Filing on these centralized databases preserves access to information, thereby enhancing transparency regarding the use of representations and warranties in asset-backed securities transactions, and an investor’s ability to consider historical information when making an investment decision. Requiring that information be presented in a standardized tabular format will further enable investors to more easily understand the disclosed information, compare originators, and identify those with better underwriting criteria or practices. Our amendments to Regulation AB, which require conforming disclosures in the prospectus and periodic reports to the disclosures required by Rule 15Ga-1, should promote comparison of repurchase history information. Furthermore, if investors pull funds away from ABS with consistent underwriting deficiencies or purchase such ABS at a significant discount, securitizers would find it in their interest to avoid acquiring pool assets from originators with a record of poor loan underwriting. As a result,such originators would have an additional incentive to improve their loan origination and underwriting processes. The ultimate effect would be that of better allocative efficiency and improved capital formation.
+
+New Rule 15Ga-1 also includes provisions designed to limit the filing costs to securitizers without compromising the disclosure available to investors, thereby improving efficiency in the ABS market. First, if an affiliate securitizer has filed the same disclosures required by new Rule 15Ga-1, then other affiliated securitizers in the same ABS transaction would not have to also file the same disclosures. Second, a securitizer may suspend its ongoing quarterly reporting obligation if it has no reportable activity, although it would still be required to file an annual confirmation that it had no reportable activity.
+
+Because the rules generally apply equally to all securitizers, and ABS transactions, we do not believe the rules will have an impact on competition. However, we are providing a delayed compliance date for securitizers of ABS that are municipal entities in order to provide those securitizers with more time to better prepare for implementation of the Rule 15Ga-1. Therefore, the costs of compliance may also be delayed for municipal securitizers, which could provide municipal securitizers with a competitive cost advantage over other securitizers for a period of time. Based on our research, however, the dollar volume of ABS issued by municipal securitizers has typically been significantly less than other securitizers.
+
+New Rule 17g-7 implements Section 943(1) of the Act by requiring NRSROs to describe in any report accompanying a credit rating, in an asset-backed securities offering, how the representations, warranties and enforcement mechanisms of the rated ABS differ from the representations, warranties and enforcement mechanisms in issuances of similar securities. The rule applies to any expected or preliminary credit rating issued by an NRSROand will therefore require that this information be presented in pre-sale reports issued by NRSROs in connection with asset-backed securities offerings. As such, the rule will provide information to investors at an earlier point in time, which may promote allocative efficiency and capital formation.
+
+We requested comment on whether the proposed rule, if adopted, would promote efficiency, competition, and capital formation. We did not receive any comments directly responding to this request. <sup>226</sup>
+
+<h>VIII. Regulatory Flexibility Act Certification</h>
+
+In Part IX of the Proposing Release, the Commission certified pursuant to 5 U.S.C. 605(b) that the new rules contained in this release would not have a significant economic impact on a substantial number of small entities. While the Commission encouraged written comments regarding this certification, no commentators responded to this request or indicated that the rules, as adopted would have a significant economic impact on a substantial number of small entities.<sup>226</sup>
+
+One commentator did note, however, that if the proposed rules did not provide an adequate transitionperiod, some securitizers would have to remain out of the securitization markets until they can complete the transition, with potential adverse effects on capital formation. It also expressed concern that requiring that reports be compiled for all asset classes in a single filing may amplify the issue. See letter from Roundtable. As we note above, we have considered the comments received and we note that we have provided a long transition period and the initial filing requirement is not triggered by the timing of new offerings.
+
+<h>IX. Statutory Authority and Text of Rule and Form Amendments</h>
+
+<END MAIN TEXT>
+
+11 See Release No. 33-9148 (Oct. 4, 2010) [75 FR 6278] (the “Proposing Release”).
+
+12 See Section 943 of the Act.
+
+13 In April of 2010, we proposed rules that would revise the disclosure, reporting and offering process for asset-backed securities. See Asset Backed Securities, SEC Release No. 33-9117 (April 7, 2010) [75 FR 23328] (the “2010 ABS Proposing Release”). Among other things, the 2010 ABS Proposing Release proposed new disclosure requirements with respect to repurchase requests. Specifically, we proposed that issuers disclose in prospectuses the repurchase demand and repurchase and replacement activity for the last three years of sponsors of asset-backed transactions or originators of underlying pool assets if they are obligated to repurchase assets
+
+14 As we noted in the Proposing Release and the 2010 ABS Proposing Release, transaction agreements
+
+15 The public comments we received are available on our website at
+
+16 See also Section II.B. for discussion of disclosures in prospectuses and periodic reports.
+
+17 Section 3(a)(77) of the Exchange Act, as amended by the Act, provides that the term “asset-backed security” means a fixed-income or other security collateralized by any type of self-liquidating financial asset (including a loan, a lease, a mortgage, or a secured or unsecured receivable) that allows the holder of the security to receive payments that depend primarily on cash flow from the asset, including: a collateralized mortgage obligation; a collateralized debt obligation; a collateralized bond obligation; a collateralized debt obligation of asset-backed securities; a collateralized debt obligation of collateralized debt obligations; and a security that the Commission, by rule, determines to be an asset-backed security for purposes of this section; and does not include a security issued by a finance subsidiary held by the parent company or a company controlled by the parent company, if none of the securities issued by the finance subsidiary are held by an entity that is not controlled by the parent company.
+
+18 In 2004, we adopted the definition of “asset-backed security” in Regulation AB. The definition and our interpretations of it are intended to establish parameters for the types of securities that are appropriate for the alternate disclosure and regulatory regime provided in Regulation AB and the related rules for Form S-3 registration of ABS. The definition does not mean that public offerings of securities outside of these parameters, such as synthetic securitizations, may not be registered with the Commission, but only that the alternate regulatory regime is not designed for those securities. The definition does mean that such securities must rely on non-ABS form eligibility for registration, including shelf registration. See Section III.A.2 of Asset-Backed Securities, SEC Release no. 33-8518 (January 7, 2005) [70 FR 1506] (the “2004 ABS Adopting Release”) and Item 1101(c) of Regulation AB [17 CFR 1101(c)].
+
+19 Government sponsored enterprises (GSEs) such as Fannie Mae and Freddie Mac purchase mortgage loans and issue or guarantee mortgage-backed securities (MBS). MBS issued or guaranteed by these GSEs have been and continue to be exempt from registration under the Securities Act and reporting under the
+
+20 See Section 15G(a)(3) of the Exchange Act, as amended by the Act.
+
+21 We received comment letters on the application of proposed Rule 15Ga-1 to ABS offered outside the United States and to ABS sold in the United States by foreign securitizers. See e.g., letters from American Bar Association (ABA), Association for Financial Markets in Europe (AFME), Center for Responsible Lending (CFRL), U.S. Senator Carl Levin (Levin), Metropolitan Life Insurance Company (Metlife) and Securities Industry and Financial Markets Association (SIFMA). Section 943 of the Act does not expressly provide for Commission exemption for particular classes of securitizers from the requirements. If securitizers of Exchange Act-ABS are subject to our jurisdiction, then securitizers are required to provide the disclosures required by Rule 15Ga-1.
+
+22 We interpret the term “issuer” in Section 15G(a)(3)(A) to refer to the depositor of an asset-backed security. This treatment is consistent with our historical regulatory approach to that term, including the Securities Act and the rules promulgated under the Securities Act and the Exchange Act. See, e.g., Securities Act Rule 191 (17 CFR 230.191) and Exchange Act Rule 3b-19 (17 CFR 240.3b-19).
+
+23 A sponsor, as defined in Regulation AB, is the person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuing entity. See Item 1101(l) of Regulation AB [17 CFR 229.1101(l)]. Sponsors of asset-backed securities often include banks, mortgage companies, finance companies, investment banks and other entities that originate or acquire and package financial assets for resale as ABS. See Section II. of the 2004 ABS Adopting Release.
+
+24 A depositor receives or purchases and transfers or sells the pool assets to the issuing entity. See Item 1101(e) of Regulation AB [17 CFR 229.1101(e)]. For asset-backed securities transactions where there is not an intermediate transfer of assets from the sponsor to the issuing entity, the term depositor refers to the sponsor. For asset-backed securities transactions where the person transferring or selling the pool assets is itself a trust, the depositor of the issuing entity is the depositor of that trust.
+
+25 There may be other situations where multiple affiliated securitizers would have individual reporting obligations under Rule 15Ga-1 with respect to a particular transaction. Under our final rule, if one securitizer has filed all the disclosures required in order to meet the obligations under Rule 15Ga-1, which would include disclosures of the activity of affiliated securitizers, those securitizers would not be required to separately provide and file the same disclosures. Several commentators also requested that a securitizer be permitted to file separate reports for different asset classes, instead of including the activity for all asset classes in which the securitizer has issued ABS in a single report. See discussion below in Section II.A.4.b. and fn. 82.
+
+26 See letter from SIFMA (noting, “for example, in a ‘rent-a-shelf’ transaction, both the renter and the registrant could be deemed securitizers”).
+
+27 See letter from ABA (noting that the Commission has previously allowed ABS issuers to incorporate by reference information filed by third parties, such as credit enhancement providers or significant obligors).
+
+28 See letter from American Securitization Forum (ASF).
+
+29 See e.g., letters from ASF, Bank of America (BOA), Fannie Mae and Freddie Mac (GSEs), Mortgage Bankers Association (MBA), and SIFMA.
+
+30 See e.g., letters from Federated Investors, Inc., Investment Company Institute (ICI), National Association of Bond Lawyers (NABL), Kutak Rock (Kutak) and Moody’s Investors Service (Moody’s). We also received some comment letters that questioned whether municipal securities fall within the definition of Exchange Act-ABS. In particular, a few letters questioned whether a municipal security would meet the Exchange-Act ABS criteria of payments depending “primarily on the cash flow from the asset” if the security also is secured by a general obligation of the municipal issuer. See e.g., letters from Kutak, Education Finance Council (EFC) and Minnesota Housing Finance Agency (MHFA).
+
+31 See e.g., letters from NABL and Connecticut Housing Finance Authority (CHFA).
+
+32 Several commentators noted that the Tower Amendment (Section 15B(d)(1) of the Exchange Act [15 USC 78o-4] expressly prohibits the Securities and Exchange Commission and the Municipal Securities Rulemaking Board (“MSRB”) from requiring an issuer of municipal bonds (including housing bonds) to make any specific disclosure filing with the SEC or MSRB prior to the sale of these securities to investors. See e.g., letters from Kutak, Group of 14 Municipal Organizations (Muni Group), NABL, National Association of Local Housing Finance Agencies (NALHFA), Treasurer of the State of Connecticut (Nappier), National Council of State Housing Agencies (NCHSA) and Robert W. Scott (Scott).
+
+33 Commentators cited to the phrase “a security that the Commission, by rule, determines to be an asset- backed security” that appears after the description of examples of Exchange Act-ABS. See Section 3(a)(77) of the Exchange Act, as amended by the Act. See e.g., letters received from NABL, Muni Group, and Scott.
+
+34 In particular, one commentator noted that despite the broad definition of “asset-backed security,” it believes the SEC has the authority to exempt municipal securities from this rule, and doing so is necessary and appropriate in light of Section 3(a)(2) of the Securities Act and Section 3(a)(12) of the Exchange Act, which both treat municipal securities as exempted securities. See letter from NCHSA. Other commentators argued that the Commission has the authority to exempt municipal securities from risk retention in Section 941of the Act (Credit Risk Retention), and those same exemptions should apply to Section 943. See e.g., letters from ICI, NABL, NALHFA, NCSHA, Muni Group, and Scott. Specifically, four commentators cited to language in the Joint Explanatory Statement of the Conference Committee suggesting the Commission has authority to grant total or partial exemptions from risk-retention and disclosure requirements for municipal securities. See e.g., letters from ICI, NCSHA, Muni Group, and Scott. But see letter from Nappier (noting concerns from Senate staff that future transactions might be created and structured through municipal issuers specifically to avoid the asset-backed securities provisions).
+
+35 Section 976 of the Act requires the Comptroller General of the United States to submit a report to Congress on the results of a study and review of the disclosure required to be made by issuers of municipal securities, including recommendations for how to improve disclosure by issuers of municipal securities no later than 24 months after the date of enactment of the Act. In addition, pursuant to Section 977 of the Act, the Comptroller General of the United States is also required to conduct a study of the municipal securities markets and report no later than 18 months after the date of enactment of the Act.
+
+39 See e.g., letters from Connecticut Higher Education Supplemental Loan Authority (CHESLA), CHFA, Hawkins, Delafield and Wood (Hawkins), Kutak, MHFA, NABL, and NCSHA.
+
+40 See generally letters from CHESLA CHFA, EFC, Hawkins, Kutak, MHFA, Muni Group, NABL, NCSHA, and City of New York (NYC )(noting generally that the policy concerns that led to adoption of the Act are not present in the case of municipal securities and the municipal securities markets did not experience the failures or defaults that led to the Act). See also Moody’s Investors Service, Inc., Special Report: U.S. Municipal Bond Defaults and Recoveries, 1970-2009, February, 2010 (noting that municipal issuers have a very limited default experience with only 54 defaults over the period 1970-2009). See also letter from NYC (noting that tax lien securitizations arise out of operation of law and are not originated pursuant to underwriting standards).
+
+41 See e.g., letters from CHESLA, CHFA and NABL.
+
+42 The MSRB, a self-regulatory organization subject to oversight by the Commission, regulates securities firms and banks that underwrite, trade and sell municipal securities. The Act broadened the mission of the MSRB to include the protection of state and local governments and other municipal entities, in addition to investors and the public interest. The MSRB also regulates municipal advisors. See Section 975 of the Act.
+
+43 See e.g., letters from EFC, Kutak, MHFA, NABL and NCSHA. The website address for EMMA is
+
+44 See e.g., letters from EFC, Kutak, MHFA, NABL and NCSHA.
+
+45 Pursuant to Exchange Act Rule 15c2-12 [17 CFR 240.15c2-12], municipal underwriters must submit final official statements, for municipal securities offerings subject to the rule, on EMMA, which must include, at a minimum, information on the terms of the securities, financial information or operating data concerning the issuer and other entities, enterprises, funds, accounts or other persons material to an evaluation of the offering, and a description of the continuing disclosure undertaking made in connection with the offering (including any indication of any failures to comply with such undertaking during the past five years). Official statements typically also include information regarding the purposes of the issuance, how the securities will be repaid, and the financial and economic characteristics of the obligor with respect to the offered securities. Several commentators stated that, if the final rules applied the Section 943 disclosure requirements to municipal securitizers, then these disclosures should be made on EMMA rather than on EDGAR because they argued that filing such disclosures on EDGAR would be confusing to issuers and to investors who have become accustomed to using EMMA as the repository of municipal-related disclosures. See e.g., letters from EFC, Kutak, NABL and NCSHA.
+
+46 See e.g., letters from CHESLA and CHFA (public purpose is to alleviate the shortage of quality affordable housing) and NALHFA (public purpose is to provide mortgage assistance to first-time home buyers, and multi-family below-market financing for the acquisition, construction and preservation of rental housing for lower-income households).
+
+47 See e.g., letters from EFC, Kutak, MHFA, and NABL.
+
+48 See e.g., letters from Muni Group and Scott.
+
+49 See e.g., letters from CHESLA (noting that it operates with a staff of two and a part-time Executive Director); Kutak (noting that many municipal issuers rely on paper files and do not have the technology or staff to produce historical information); and NABL (noting that certain state agencies will need to obtain the necessary funds to meet the filing requirements, and certain state agencies determine their budgets on a biannual cycle).
+
+50 See SEC Press Release 2010-64, SEC Sets Field Hearings on State of Municipal Markets, Sept. 7, 2010 available on the “Spotlight on the State of the Municipal Securities Market” page of our Web site at
+
+56 Issuing entity is defined in Item 1101(f) of Regulation AB [17 CFR 229.1101(f)] as the trust or other
+
+57 See Section 943(2) of the Act.
+
+58 We noted that if the ABS were offered in a registered transaction, an investor may be able to locate additional detailed information. For instance, in the 2010 ABS Proposing Release, we proposed that issuers be required to provide loan-level disclosure of repurchase requests on an ongoing basis. If the proposal is adopted, then an issuer would be required to indicate whether a particular asset has been repurchased from the pool with each periodic report on a Form 10-D. If the asset has been repurchased, then the registrant would have to indicate whether a notice of repurchase has been received, the date the asset was repurchased, the name of the repurchaser and the reason for the repurchase. That proposal remains outstanding. See previously proposed Item 1(i) of Schedule L-D [Item 1121A of Regulation AB] in the 2010 ABS Proposing Release.
+
+59 For example, the securitizer would indicate by footnote if pursuant to the terms of a transaction agreement, assets have not been repurchased or replaced pending the expiration of a cure period.
+
+60 See letter from Association of Mortgage Investors on the 2010 ABS Proposing Release (requesting that disclosure of information regarding claims made and satisfied under representation and warranties provisions of the transaction documents be broken down by securitization and then aggregated).
+
+61 See letters from ICI, Levin, Metlife, and SIFMA (investor members).
+
+65 See letter from SIFMA.
+
+66 See e.g., letters from Association of Financial Guaranty Insurers (AFGI), CFRL, Metlife, MBIA Inc. (MBIA), and SIFMA.
+
+67 See letters from Metlife and SIFMA.
+
+68 See e.g., letters from ABA, ABASA, AFSA, ASF, BOA, Community Mortgage Banking Project
+
+74 See e.g., letters from GSEs, Kutak, and SIFMA. In addition, SIFMA noted that to the extent that an originator is no longer in existence, the securitizer should have the option of not providing the information related to such originator.
+
+75 See letter from GSEs.
+
+76 See e.g., letters from ASF, CMBP, Metlife and SIFMA (suggesting that additional columns should be added to the table to make clear which demand requests have not been resolved and are subject of arbitration, litigation or negotiation). See also letters from ABA, BOA and Roundtable (suggesting that standardized categories of information would better reflect the repurchase request and resolution process so that investors may more easily compare information presented in the table than if it were presented in footnotes only).
+
+77 See letter from CREFC.
+
+78 See e.g., letters from CFRL and Metlife.
+
+79 See e.g., letters from ABA, ABASA, AFSA, ASF, BOA, CREFC, Roundtable, SIFMA and Wells.
+
+80 See Section I. See also letter from Levin (noting repurchase requests may occur for early payment defaults, incorrect loan information, fraud, impermissible adverse selection procedures and paperwork deficiencies).
+
+81 See e.g., letters from ASF, BOA, GSEs, MBA and SIFMA (generally noting that the requirement should apply solely to Fannie Mae or Freddie Mac and not the institution transferring loans for securitization by Fannie Mae or Freddie Mac. See also Section II.A.2. regarding the definition of securitizer for purposes of Rule 15Ga-1.
+
+82 Rule 15Ga-1(a)(1)(i). As noted earlier, some commentators requested that a securitizer should report activity for different asset classes in separate reports, instead of including the activity for all asset classes in a single report. See e.g., letters from ABA, ASF, BOA, CMBP, Metlife, Roundtable and SIFMA. As discussed in Section II.A.2., both sponsor and depositors fall within the definition of securitizer and thus are obligated under Section 943 and the new rule to provide the disclosures. The final rule addresses commentators’ requests because sponsors typically securitize assets of different classes through separate affiliated depositors for each asset class. For example, if a sponsor has two different affiliated depositors, one that securitizes auto loans and the other credit cards, the sponsor’s reporting obligation would be satisfied if each of the depositors filed the required disclosures with respect to all of their respective trusts. Thus, a sponsor would not have to separately provide and file the same disclosures, if they were filed by an affiliated depositor of the same transaction. We expect users will find reports disclosing the information by asset class useful in making comparisons regarding originators of the same asset class.
+
+83 17 CFR 229.1101(f).
+
+84 Rule 15Ga-1(a)(1)(ii). In a stand-alone trust structure, usually backed by a pool of amortizing loans, a separate issuing entity is created for each issuance of ABS backed by a specific pool of assets. The date of formation of the issuing entity would most likely be at the same time of the issuance of the ABS. In a securitization using a master trust structure, the ABS transaction contemplates future issuances of ABS by the same issuing entity, backed by the same, but expanded, asset pool. Master trusts would organize the data using the date the issuing entity was formed, which would most likely be earlier than the date of the most recent issuance of securities.
+
+85 See e.g., letters from Metlife and SIFMA (suggesting that disclosure should include any deals that were outstanding at any point in time during a reporting period).
+
+86 Rule 15Ga-1(a)(1)(iii).
+
+87 Rule 15Ga-1(a)(1)(iv). We are adding the instruction to clarify that all originators are required to be
+
+91 Rule 15Ga-1(a)(1)(vi)
+
+92 See Jody Shenn, “BNY Won’t Investigate Countrywide Mortgage Securities,” Bloomberg Business Week (Sep. 13, 2010) available at countrywide-mortgage-securities.html (noting the difficulties that investors are facing to enforce contracts with respect to repurchase demands) and Al Yoon, “NY Fed joins other investors on loan repurchase bid,” Reuters (Aug. 4, 2010) available at (noting that investors have been frustrated with trustees and servicers and are banding together to force trustees to act on repurchase requests). See also Kevin J. Buckley, “Securitization Trustee Issues,” The Journal of Structured Finance (Summer 2010) (discussing investors demands upon trustees to enforce sellers’ repurchase obligations).
+
+97 Rule 15Ga-1(a)(2). See e.g., letters from AFSA, ASF, BOA, CREFC, Roundtable and SIFMA.
+
+104 See fn. 100.
+
+105 Rule 15Ga-1(a)(1)(x). See e.g., letters from CMBP, Roundtable and SIFMA.
+
+106 Rule 15Ga-1(a)(1)(xi). See e.g., letters from BOA, Roundtable and SIFMA.
+
+107 See e.g., letters from AFSA (suggesting that a method of calculation should be prescribed or disclosed in order to provide comparable data) and Roundtable (noting that the percentage by principal balance is not straightforward, given that the pool size will vary over time).
+
+108 Rule 15Ga-1(a)(1)(xii). We had proposed to require totals by asset class only.
+
+109 We had urged footnote disclosure for the entire table; however, we had specifically proposed an instruction with respect to repurchase requests that were pending.
+
+110 See e.g., letters from SIFMA (requesting disclosure of the party responsible for the breach, exclusion of originator no longer in existence, and notation of assets subject to multiple repurchase requests); Metlife (requesting disclosure of specific violations of representations and warranties, status of the claims and the reason for denial); and ABA (requesting disclosure of whether a demand was resolved through an indemnity payment or purchase price adjustment but not a repurchase).
+
+111 See e.g., letters from ABA, ASF, BOA and SIFMA.
+
+112 15 U.S.C. 77e.
+
+113 However, a portion of the information required by Rule 15Ga-1 would be required in a registration statement and in periodic reports as we discuss further below.
+
+114 The Form 10-K report for ABS issuers must be signed either on behalf of the depositor by the senior officer in charge of securitization of the depositor, or on behalf of the issuing entity by the senior officer in charge of the servicing. See General Instruction J.3. of Form 10-K [17 CFR 249.310] In addition, the certifications for ABS issuers that are required under Section 302 of the Sarbanes-Oxley Act of 2002 [15 U.S.C. 7241] must be signed either on behalf of the depositor by the senior officer in charge of securitization of the depositor if the depositor is signing the Form 10–K report, or on behalf of the issuing entity by the senior officer in charge of the servicing function of the servicer if the servicer is signing the Form 10-K report. In our 2010 ABS Proposing Release, we also proposed to require that the senior officer in charge of securitization of the depositor sign the registration statement (either on Form SF-1 or Form SF-3) for ABS issuers. See Section II.F. of the 2010 ABS Proposing Release.
+
+115 See letters from AFSA (suggesting that securitizers be given a choice of providing the information either on new Form ABS-15G or by presenting the disclosure in related offering documents) and ASF (noting that disclosure would be more useful to investors in an offering document).
+
+116 See letter from AFSA (but also noting that frequent securitizers who sponsor multiple asset classes would find it easier to make a single filing on Form ABS-15G rather than in a series of prospectuses).
+
+117 See letter from Levin.
+
+118 See e.g., letters from AFGI, AFSA, ASF, MBIA, Metlife and SIFMA.
+
+119 See Metlife (suggesting 90 days after effective date), and ASF (suggesting no earlier than one year after effective date).
+
+120 See letter from AFGI. Metlife also requested that sponsors with significant outstanding securitizations should file Form ABS-15G in order to enable fair comparisons for investors.
+
+121 See e.g., letters from ASF, BOA, GSEs, MBA and SIFMA. See further discussion about the transition period below in Section III.
+
+122 See letters from ABA, ASF and SIFMA. In addition, two other commentators suggested that only a statement or checkbox be provided to confirm no activity to report if periodic reporting would still be required. See letters from AFSA and NABL.
+
+123 See letters from ABA, ASF and SIFMA.
+
+124 See letters from AFGI and ICI (generally supporting monthly reporting), and Metlife (noting that monthly reporting would be adequate and that a frequency longer than quarterly would fail to provide investors with information about underwriting deterioration).
+
+125 Some commentators noted that the repurchase process may move slowly, and monthly reporting may not be a useful interval for investors. In particular, residential mortgage ABS typically provide for cure periods of 60-90 days. Further, commentators argued that monthly reporting of no change in activity would be burdensome. See e.g., letters from ABA, ABASA, ASF, CREFC, Roundtable and SIFMA. Other commentators generally supported a quarterly reporting interval. See letters from BOA, CMBP, GSEs, MBA and NYC.
+
+126 See letters from AFSA, GSEs, Kutak, NABL and NYC (generally supporting an annual reporting interval).
+
+127 See e.g., letters from ABA, AFSA, BOA, NABL, Roundtable and SIFMA.
+
+128 See letters from ABA and NABL (suggesting the Form ABS-15G be required 45 days after period end). See also letters from AFSA, CREFC, NYC and SIFMA.
+
+129 See letter from Metlife (noting that repurchase activity in more recent windows of time would provide useful information on trends in asset quality). See also letter from ABA (noting that cumulative reporting may make the information unwieldy and that information about earlier periods would be available on the SEC website).
+
+130 See e.g., letters from AFGI, MBIA, Metlife and SIFMA.
+
+131 Rule 15Ga-1(c).
+
+132 See Section II.A.4.c., Rule 15Ga-1(c)(1) and Item 1.01 of Form ABS-15G.
+
+133 See e.g., letters from ABA, ABASA, ASF, BOA, CMBP, CREFC, GSEs, MBA, Metlife, NYC, Roundtable and SIFMA.
+
+134 See Rule 15Ga-1(c)(2) and Item 1.02 of Form ABS-15G. See e.g., letters from ABA and NABL.
+
+135 See fn. 125. Also, as we discuss further below, we are adopting amendments to Regulation AB that would require disclosure of demand, repurchase and replacement history with respect to a particular issuing entity to be provided in distribution reports, which may occur more frequently than quarterly. For example, if a Form 10-D is due to be filed monthly for a particular issuing entity, then demand, repurchase and replacement history of that particular ABS would have to be reported monthly. See e.g., letter from SIFMA.
+
+136 Rule 15Ga-1(c)(2). See letters from ABA (suggesting that only updated information be provided) and Metlife (noting that repurchase activity in more recent windows of time would provide useful information on trends in asset quality). In addition, investors may locate information about prior periods on our website and as we discuss below in Section II.B.3., we are amending Regulation AB to require cumulative repurchase history for a three-year look back period in prospectuses. We also highlight the instruction to Rule 15Ga-1(a)(1)(ii) which specifies that the table should include all issuing entities with activity during the quarterly reporting period, including those that are no longer outstanding at the end of the calendar quarter.
+
+137 See instructions to paragraph (a)(1) and (c)(1) of Rule 15Ga-1.
+
+138 See e.g., letters from ABA and ASF.
+
+139 Rule 15Ga-1(c)(2)(i).
+
+140 If a securitizer had no activity during the initial three-year period, and indicated that by checking the box on the initial filing, then its obligation to file periodic filings would be suspended. See Rule 15Ga- 1(c)(2)(i).
+
+141 Rule 15Ga-1(c)(2)(ii).
+
+142 Rule 15Ga-1(c)(2)(i). We had proposed that the disclosure requirements would be triggered with an offering of Exchange Act-ABS. Under the final rule, a new securitizer would not be required to make the initial three-year look back filing because it would not have any Exchange Act-ABS outstanding as of December 31, 2011 and thus, would not have any historical repurchase activity to report. Thus, a new securitizer is only required to provide information on a prospective basis.
+
+143 Rule 314 of Regulation S-T.
+
+144 In the 2010 ABS Proposing Release, we also proposed to amend Item 1110(c) of Regulation AB to require originators (of greater than 20% of the assets underlying the pool) to disclose the amount, if material, of publicly securitized assets originated or sold by the sponsor that were the subject of a demand to repurchase or replace for breach of the representations and warranties concerning the pool assets that has been made in the prior three years pursuant to the transaction agreements on a pool by pool basis as well as the percentage of that amount that were not then repurchased or replaced by the sponsor. That proposal remains outstanding.
+
+145 See letters from Metlife and SIFMA.
+
+146 See letters from ASF, BOA and SIFMA.
+
+147 See letter from BOA.
+
+148 See letter from SIFMA.
+
+149 See letters from AFSA, ASF, BOA, Roundtable and SIFMA.
+
+150 See letters from AFSA, ABA, BOA and SIFMA (suggesting that information related to periods prior to the effective date or ABS issued prior to the effective date not be considered part of the prospectus or registration statement). See also Section III.B.4. of the 2004 ABS Adopting Release.
+
+151 Item 1104(e) of Regulation AB.
+
+152 Item 1104(e)(1) of Regulation AB. As we noted in the Proposing Release, we proposed that prospectuses include disclosure about the same asset class for a three-year look back period because information about other asset classes and information older than three years may make the size of the prospectus unwieldy and investors should have ready access to more current information. See fn. 57 of the Proposing Release.
+
+153 See letter from BOA.
+
+154 Item 1104(e)(3). For example, a prospectus dated May 12, 2012 could include information as of December 31, 2011 (the information would be 133 days old); however, because a quarterly report on Form ABS-15G for the period ending March 31, 2012, would be due on May 15, 2012 (45 days after quarter end), then a prospectus dated May 17, 2012 would need to provide disclosures as of March 31, 2012.
+
+155 See, e.g., Item 1105 of Regulation AB (17 CFR 229.1105), Rule 3-01 of Regulation S-X (17 CFR 210.3-01) and Rule 3-12 of Regulation S-X (17 CFR 210.3-12).
+
+156 See fn. 125 and 135.
+
+157 See e.g. letters from AFSA, ASF, BOA, Roundtable and SIFMA.
+
+158 Therefore, prospectuses filed between February 14, 2012 and February 13, 2013 would be permitted to include only one year of repurchase activity; prospectuses filed between February 14, 2013 and February 13, 2014 would be permitted to include only two years of repurchase activity. All prospectuses filed on or after February 14, 2014 would be required to include three years of repurchase activity. Investors may locate information for prior periods on Form ABS-15G.
+
+159 In June 2008, we proposed a new Rule 17g-7 that would have required an NRSRO to publish a report containing certain information each time the NRSRO published a credit rating for a structured finance product or, as an alternative, use ratings symbols for structured finance products that differentiated them from the credit ratings for other types of debt securities. See Exchange Act Release No. 57967 (June 16, 2008), [73 FR 36212]. In November 2009, we announced that we were deferring consideration of action on that proposal and separately proposed a new Rule 17g-7 to require annual disclosure by NRSROs of certain information. See Proposed Rules for Nationally Recognized Statistical Rating Organizations, SEC Release 34–61051 (November 23, 2009), [74 FR 63866]. Although we are adopting a new rule with the same rule number, that proposal remains outstanding.
+
+160 Current Item 1111(e) of Regulation AB [17 CFR 1111(e)] already requires issuers to disclose the representations and warranties related to the transaction in prospectuses. Additionally, in the 2010 ABS Proposing Release, the Commission proposed changes to this item to require a description of any representation
+
+161 As discussed in the Proposing Release, we anticipate that one way an NRSRO could fulfill the requirement to describe how representations, warranties and enforcement mechanisms differ from those provided in similar securities would be to review previous issuances both on an initial and an ongoing basis in order to establish “benchmarks” for various types of securities and revise them as appropriate.
+
+162 See Section 3(a)(77) of the Exchange Act, as amended by the Act.
+
+163 As explained in the Proposing Release, we intend the term “preliminary credit rating” to include any rating, any range of ratings, or any other indications of a rating used prior to the assignment of an initial credit rating for a new issuance. See generally Credit Ratings Disclosure, SEC Release No. 33–9070 (October 7, 2009) [74 FR 53086].
+
+169 See e.g., letters from ASF, CREFC, Fitch, Levin, MBA, Realpoint and SIFMA.
+
+170 See letter from Metlife.
+
+171 See letter from S&P.
+
+172 See letters from ASF, Moody’s, Realpoint and S&P.
+
+173 See letter from ASF.
+
+174 See letter from ICI.
+
+175 See letters from ASF, CREFC, Moody’s and S&P.
+
+176 See letters from Realpoint and Metlife. The latter commentator suggested comparisons to industry standards as an alternative to its preferred basis of comparison, a uniform set of representations, warranties and enforcement mechanisms within each underlying asset class agreed upon by all NRSROs in collaboration with investors and other market participants.
+
+177 See letter from Levin.
+
+178 See letters from MBA and SIFMA.
+
+179 See letters from ASF and S&P. The ASF noted that its NRSRO members have broad-based internal measures for representations and warranties in ABS transactions, and believe that these measures could act as benchmarks, or as a starting point for developing benchmarks, to meet the required comparison.
+
+180 See letters from Realpoint and S&P.
+
+181 See letter from Realpoint (also arguing for the exclusion of surveillance reports from the rule’s scope).
+
+182 See letter from S&P.
+
+183 See letter from Metlife.
+
+184 See letters from ABA and Realpoint.
+
+185 See letter from S&P.
+
+186 See letter from Moody’s.
+
+188 See letter from Roundtable (but noting a six month period would only be appropriate if the final rule would only require prospective information).
+
+189 See letter from ASF (suggesting a compliance date of no earlier than one year from the date of publication of the final rule if the rule would only require prospective information).
+
+190 See letters from BOA and SIFMA.
+
+191 See letter from GSEs. See also letter from Roundtable suggesting an alternative of 24 months if securitizers are required to re-create data that was not maintained.
+
+192 See letters from BOA, MBA and SIFMA.
+
+193 See letters from AFGI and Metlife.
+
+194 In the first year after the compliance date issuers may limit the disclosures to the prior year of activity and in the second year after the compliance date, disclosures may be limited to the prior two years of activity.
+
+195 See letter from Moody’s.
+
+196 See letter from Fitch.
+
+197 44 U.S.C. 3501 et seq.
+
+198 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+199 The paperwork burden from Regulation S-K is imposed through the forms that are subject to the requirements in those regulations and is reflected in the analysis of those forms. To avoid a Paperwork Reduction Act inventory reflecting duplicative burdens and for administrative convenience, we assign a one- hour burden to Regulation S-K.
+
+200 See letter from Fitch.
+
+201 We rely on two outside sources of ABS issuance data. We use the ABS issuance data from Asset- Backed Alert on the initial terms of offerings, and we supplement that data with information from Securities Data Corporation (SDC).
+
+202 Pub. L. No. 109-291 (2006).
+
+203 See e.g., Section VIII of Proposed Rules for Nationally Recognized Statistical Rating Organizations, SEC Release No. 34–61051 (Dec. 4, 2009) [74 FR 63866].
+
+204 We base the number of unique sponsors on data from SDC.
+
+205 We estimate 270 securitizers for the three-year period from January 1, 2009- December 31, 2011, the look back period for the initial disclosures, (90 unique securitizers X 3 years). Also, as noted above, municipal securitizers will not be subject to Rule 15Ga-1 until three years after the implementation date for other securitizers. For purposes of the PRA, however, we have calculated the burden estimates as if the rule was fully phased in for all companies.
+
+206 The value of 852 hours for setup costs is based on staff experience. In the Proposing Release, we estimated that 672 of those hours will be to set up systems to track the information and is calculated using an
+
+207 852 hours to adjust existing systems per securitizer X 270 average number of unique securitizers.
+
+208 The Form ABS-15G is required to be filed on a quarterly basis; however, based on comments received that securitizers of certain asset classes would be able to immediately suspend the quarterly reporting requirement because they have not received demands for repurchase (See letters from ABA and ASF) and data available, we are estimating that 90 securitizers would be able to suspend their quarterly reporting requirement after filing the initial filing. Therefore, we estimate that 180 securitizers would be subject to the quarterly reporting requirement (270 – 90). As a result, we expect 720 quarterly filings of Form ABS-15G per year (180 X 4 quarterly filings per year). We assume that the number of quarterly filings will remain the same in the second and third years after implementation because we estimate that the average number of new securitizers that will trigger the reporting obligation each year will be 90, but we also use the same estimate of 90 securitizers that would be able to suspend its quarterly reporting requirement, resulting in no increase in the number of securitizers or quarterly filings.
+
+209 30 hours X 720 filings.
+
+210 Because the first annual confirmation filing would not be due until February 2013, we estimate no annual filings in the first year of implementation. In the second year of implementation we estimate 90 securitizers will file the annual confirmation. In the third year, we estimate that 180 securitizers will file the annual confirmation. The total number of annual confirmations filed would be 270 over three years, therefore we estimate for PRA purposes, an annual average of 90 filings.
+
+211 5 hours X 90 filings.
+
+212 172,530 hours + 16,200 hours + 338 hours.
+
+213 $23,004,000 + $2,160,000 + $45,000.
+
+215 100 hours X 30 NRSROs.
+
+216 100 hours X 30 NRSROs.
+
+217 The annual average number of registered offerings was 958 and the annual average number of Rule 144A ABS offerings was 716 for an estimated annual average of 1,674 over the period 2004-2009. See Section
+
+218 4 reports X 2,067 ABS offerings X 11 hours (1 hour to review disclosures + 10 hours to compare and prepare).
+
+219 See letter from Fitch.
+
+222 Rule 15Ga-1 requires a securitizer to indicate if the ABS transaction was registered and disclose the CIK number of the issuing entity of the ABS transaction, so that users may locate other information available on EDGAR.
+
+223 15 U.S.C. 78w(a).
+
+224 15 U.S.C. 77b(b).
+
+225 15 U.S.C. 78c(f).

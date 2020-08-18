@@ -1,0 +1,403 @@
+https://www.sec.gov/rules/final/34-50295.htm
+
+	I.0.0.0: I. INTRODUCTION
+
+		I.A.0.0: A. Background
+
+		I.B.0.0: B. Protection of Customer Funds Related to SFP Transactions in Customer Securities Accounts
+
+		I.C.0.0: C. Clearance and Settlement of SFPs
+
+	II.0.0.0: II. THE PROPOSED AMENDMENTS
+
+	III.0.0.0: III. OVERVIEW OF THE COMMENTS RECEIVED
+
+	IV.0.0.0: IV. FINAL AMENDMENTS
+
+		IV.A.0.0: A. General
+
+		IV.B.0.0: B. Item 14
+
+		IV.C.0.0: C. Item 15
+
+		IV.D.0.0: D. Note B
+
+		IV.E.0.0: E. Note G
+
+			IV.E.1.0: 1. The Conditions of Note G Generally
+
+			IV.E.2.0: 2. Subparagraph (a) to Note G
+
+			IV.E.3.0: 3. Subparagraph (b)(1) to Note G
+
+			IV.E.3.a: a. Subparagraph (b)(1)(i)
+
+			IV.E.3.b: b. Subparagraph (b)(1)(ii)
+
+			IV.E.3.c: c. Subparagraph (b)(1)(iii) to Note G
+
+			IV.E.3.d: d. Subparagraph (b)(1)(iv) to Note G
+
+			IV.E.4.0: 4. Subparagraph (b)(2) to Note G
+
+			IV.E.5.0: 5. Subparagraph (b)(3) to Note G
+
+			IV.E.6.0: 6. Subparagraph (b)(4) to Note G
+
+		IV.F.0.0: F. One Chicago
+
+		IV.G.0.0: G. Amendment to Rule 30-3
+
+	V.0.0.0: V. PAPERWORK REDUCTION ACT
+
+		V.A.0.0: A. Collection of Information under these Amendments
+
+		V.B.0.0: B. Proposed Use of Information
+
+		V.C.0.0: C. Respondents
+
+		V.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+		V.E.0.0: E. Collection of Information Is Mandatory
+
+		V.F.0.0: F. Confidentiality
+
+		V.G.0.0: G. Record Retention Period
+
+		V.H.0.0: H. Request for Comment
+
+	VI.0.0.0: VI. COSTS AND BENEFITS OF THE PROPOSED AMENDMENTS
+
+		VI.A.0.0: A. Introduction
+
+		VI.B.0.0: B. Benefits
+
+		VI.C.0.0: C. Costs
+
+	VII.0.0.0: VII. CONSIDERATION OF BURDEN ON COMPETITION, AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
+
+	VIII.0.0.0: VIII. REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	IX.0.0.0: IX. STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200 and 240 [Release No. 34-50295; File No. S7-34-02] RIN 3235-AI61 Rule 15c3-3 Reserve Requirements for Margin Related to Security Futures Products 
+
+ AGENCY: Securities and Exchange Commission (the "Commission").
+
+ ACTION: Final rule.
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting amendments to the formula for determination of customer reserve requirements of broker-dealers under the Securities Exchange Act of 1934 to address issues related to customer margin for security futures products. The amendments permit a broker-dealer to include margin related to security futures products written, purchased, or sold in customer securities accounts required and on deposit with a registered clearing agency or a derivatives clearing organization as a debit item in calculating its customer reserve requirement under specified conditions. The amendments are intended to help ensure that a broker-dealer is not required to fund its customer reserve requirements with proprietary assets. In addition, the Commission is adopting a rule amendment delegating authority to the Director of the Division of Market Regulation to provide relief, under certain circumstances, from the conditions under which margin related to customer security futures products margin may be included as a debit item. 
+
+ EFFECTIVE DATE: [Insert date thirty days after publication in the Federal Register].
+
+ FOR FURTHER INFORMATION CONTACT: Michael A. Macchiaroli, Associate Director, at (202) 942-0132; Thomas K. McGowan, Assistant Director, at (202) 942-4886; or Matthew B. Comstock, Special Counsel, at (202) 942-0156, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+<END HEADER>
+
+<h>I. INTRODUCTION </h>
+
+The Commission published proposed amendments to Rule 15c3-3a<sup> 1 </sup> for comment in the Federal Register on September 23, 2002 (the "Proposal").<sup> 2 </sup> The Proposal delineated the method for calculating broker-dealer customer reserve requirements in light of enactment of the Commodity Futures Modernization Act of 2000 ("CFMA")<sup> 3 </sup> and the commencement of trading in security futures products. The Commission now is adopting the final rule amendments described below.<h>A. Background </h>
+
+The CFMA, which became law on December 21, 2000, amended the Commodity Exchange Act ("CEA") and the Securities Exchange Act of 1934 ("Exchange Act") to permit the trading of single stock and narrow-based index futures ("security futures") and established a framework for the regulation of security futures products ("SFPs").<sup> 4 </sup> An SFP is both a security and a future.<sup> 5 </sup> Thus, a customer who wishes to buy or sell an SFP must conduct the SFP transaction through a person registered both with the Commodity Futures Trading Commission ("CFTC") as either a futures commission merchant ("FCM") or an introducing broker ("IB") and with the Commission as a broker-dealer.<h>B. Protection of Customer Funds Related to SFP Transactions in Customer Securities Accounts </h>
+
+The term "customer," as defined in Exchange Act Rule 15c3-3, includes a person who holds an SFP in a securities account.<sup> 6 </sup> The Commission adopted Rule 15c3-3 in 1972, in part, to ensure that a broker-dealer in possession of customers' funds either deployed those funds "in safe areas of the broker-dealer's business related to servicing its customers" or, if not deployed in such areas, deposited the funds in a reserve bank account to prevent commingling of customer and firm funds.<sup> 7 </sup> Rule 15c3-3 requires a broker-dealer to calculate what amount, if any, it must deposit on behalf of customers in the reserve bank account, entitled "Special Reserve Bank Account for the Exclusive Benefit of Customers" ("Reserve Bank Account"), under the formula set forth in Rule 15c3-3a ("Reserve Formula").<sup> 8 </sup> Generally, the Reserve Formula requires a broker-dealer to calculate any amounts it owes its customers and the amount of funds generated through the use of customer securities, called credits, and compare this amount to any amounts its customers owe it, called debits.<sup> 9 </sup> If credits exceed customer debits, the broker-dealer must deposit that net amount in the Reserve Bank Account.<sup> 10 </sup><h>C. Clearance and Settlement of SFPs </h>
+
+A broker-dealer may clear and settle an SFP transaction through a clearing agency registered with the Commission ("Clearing Agency")<sup> 11 </sup> or through a derivatives clearing organization ("DCO")<sup> 12 </sup> registered with the CFTC.<sup> 13 </sup> Section 17A does not require a DCO to register as a Clearing Agency with the Commission if the only securities it clears are SFPs.<sup> 14 </sup> Similarly, a Clearing Agency is not required to register as a DCO with the CFTC if the only futures it clears are SFPs.<sup> 15 </sup>
+
+As part of the clearance and settlement process for customer SFP transactions, a Clearing Agency or DCO (collectively, a "Clearing Organization"), under its rules, will require the broker-dealer carrying customer SFP accounts to post margin at the Clearing Organization. The Clearing Organization requires this margin to protect itself if a broker-dealer defaults on its obligations to the Clearing Organization related to SFPs. The broker-dealer, in turn, must collect margin from the customer who engages in the SFP transaction.<sup> 16 </sup> Customer margin protects the broker-dealer if the customer defaults on its obligations under an SFP transaction.<h>II. THE PROPOSED AMENDMENTS </h>
+
+The Proposal would have permitted a broker-dealer to include margin related to SFPs written, purchased, or sold in customer securities accounts required and on deposit with a Clearing Organization as a debit item in calculating its customer reserve requirement, subject to the conditions set forth in Note G of the Proposal. Note G would have helped to ensure that a Clearing Organization maintained sufficient financial resources and creditworthiness to protect customer SFP margin on deposit. The standards set forth in Note G of the Proposal are discussed below in detail.<h>III. OVERVIEW OF THE COMMENTS RECEIVED </h>
+
+The Commission requested not only general comments, but also solicited comments on each aspect of the Proposal. The Commission received five comment letters, two from The Options Clearing Corporation ("OCC"), a Clearing Agency and DCO; and one each from Chicago Mercantile Exchange Inc. ("CME"), a designated contract market<sup> 17 </sup>; the Futures Industry Association ("FIA"), and The Steering Committee on Securities Futures of the Futures Industry Association and Securities Industry Association ("FIA/SIA Steering Committee"). All of the commenters supported the Commission's determination to permit a broker-dealer to treat margin related to SFPs written, purchased, or sold in customer securities accounts required and on deposit with a Clearing Organization as a debit item in calculating its reserve requirement under the Reserve Formula. The commenters noted, among other things, that Clearing Organizations hold funds that the broker-dealer already has set aside to satisfy customer claims. Thus, inclusion of the debit in the Reserve Formula reduces the amount that a broker-dealer must deposit in its Reserve Bank Account on behalf of customers.
+
+The OCC and the FIA, however, generally opposed the requirements set forth in proposed Note G. OCC and FIA questioned the need for the conditions and OCC expressed concerns about the costs and burdens of compliance. The FIA/SIA Steering Committee expressed concerns that broker-dealer might face liquidity problems if a Clearing Organization no longer could meet the requirements of proposed Note G. The FIA/SIA Steering Committee also objected that broker-dealers could not easily determine if a Clearing Organization could meet the requirements of proposed Note G. 
+
+Finally, we note that in its second letter, OCC requests the Commission to amend the Reserve Formula to allow for a debit related to what it describes as "customer cross-margining accounts."<sup> 18 </sup> The requested amendment, however, is being addressed in another context and, in any event, is outside of the scope of these final amendments. 
+
+We address the comments in greater detail below in the discussion of the final amendments.<h>IV. FINAL AMENDMENTSA. General </h><h>A. General </h>
+
+The Commission has reviewed carefully the comments received and is adopting final amendments to Rule 15c3-3a, with certain modifications in response to comments received. Specifically, the final amendments redesignate Item 14 as Item 15, add a new Item 14 and new Note G, amend Note B and amend newly redesignated Item 15, as described below. 
+
+Generally, these final amendments permit a broker-dealer to include the amount of customer SFP margin required and on deposit at a Clearing Organization as a debit in the Reserve Formula.<sup> 19 </sup> The Reserve Formula requires a broker-dealer that clears and carries SFPs in securities accounts on behalf of customers to include cash that it receives from the customer as a credit item in calculating the customer reserve requirement.<sup> 20 </sup> Before we adopted these amendments, however, the Reserve Formula would not have permitted a broker-dealer that clears and carries SFPs in securities accounts on behalf of customers to record an offsetting debit for customer SFP margin that it posts with a Clearing Organization. Without the amendments to Rule15c3-3a, the broker-dealer would be required to fund its customer reserve requirement at least in part with proprietary assets, which would require the broker-dealer to maintain two reserves to cover the same customer property, one reserve in the Reserve Bank Account and the second with the Clearing Organization.<h>B. Item 14 </h>
+
+Proposed new Item 14 would have permitted the broker-dealer to include a debit in its Reserve Formula computation to the extent of customer SFP margin required and on deposit with a Clearing Organization, subject to the conditions contained in Note G. The Commission did not receive any comments on proposed new Item 14 and adopts new Item 14 as proposed.<h>C. Item 15 </h>
+
+The Commission proposed to amend Rule 15c3-3a to redesignate current Item 14 as proposed Item 15. Proposed Item 15 would have been amended to include a reference to proposed Item 14 relating to customer SFP margin in the computation of debits under the Reserve Formula.<sup> 21 </sup> The Commission did not receive any comments on this section and adopts Item 15 in the final amendments as set forth in the Proposal.<h>D. Note B </h>
+
+The Commission proposed to amend Note B to extend to SFPs the same Reserve Formula treatment currently afforded a letter of credit collateralized by customer securities deposited with OCC for options margin purposes. Under current Note B to the Reserve Formula, a broker-dealer that posts a letter of credit collateralized by customer securities at OCC as customer options margin must include the amount of that letter of credit as a credit item in its Reserve Formula computation, to the extent of the margin requirement. A broker-dealer records the credit because it uses customer assets to secure the letter of credit. A firm must include both the credit under Note B and the debit under Item 13 to set the customer reserve requirement at the appropriate level. 
+
+The Commission did not receive any comments on the proposed amendments to Note B and adopts the amendments to Note B as proposed. The final amendments do not change the treatment, delineated in pre-Proposal Note B, of letters of credit collateralized by securities used to meet customer options margin. Rather, under the final amendments, a broker-dealer that posts a letter of credit collateralized by customer securities at a Clearing Organization as customer SFP margin must include the amount of that letter of credit as a credit item in its Reserve Formula computation, to the extent of the margin requirement, just as it would for options margin deposited at OCC. As with options margin, the broker-dealer includes the credit because it uses customer assets to secure the letter of credit.<sup> 22 </sup><h>E. Note G </h>
+
+Note G, as adopted, outlines the four conditions under which a broker-dealer may include customer SFP margin required and on deposit at a Clearing Organization as a debit in Item 14 of the Reserve Formula.<sup> 23 </sup> Specifically, the debit is includable only if a broker-dealer clears SFPs through a Clearing Organization that: (1) meets certain minimum financial requirements; (2) deposits customer SFP margin in a bank account for the exclusive benefit of clearing members; (3) maintains safeguards for handling cash and securities, obtains fidelity bond coverage, and provides for period examinations by independent public accountants; and (4) in the case of DCOs, provides the Commission with an undertaking that permits representatives or designees of the Commission to examine it for compliance with Note G. The following sections explain Note G in detail.<h>1. The Conditions of Note G Generally </h>
+
+In its comment letter, the FIA states generally that the Commission should permit a broker-dealer to include customer SFP margin required and on deposit with a Clearing Organization as a debit item in its Reserve Formula calculation, as set forth in Item 14, regardless of whether the Clearing Organization meets the criteria contained in proposed Note G.<sup> 24 </sup> In support of its position, the FIA contends that as part of the Clearing Organization registration process, either the Commission or the CFTC necessarily determined that the Clearing Agency or DCO possessed sufficient financial and operational capacity to protect customer funds and securities.<sup> 25 </sup> 
+
+The FIA and FIA/SIA Steering Committee also contend that the Proposal places an undue burden on a broker-dealer to determine if a Clearing Organization meets the conditions set forth in proposed Note G.<sup> 26 </sup> Finally, the FIA/SIA Steering Committee asserts that the Proposal does not address the consequences for broker-dealers if a Clearing Organization no longer meets the criteria of Note G. Specifically, the FIA/SIA Steering Committee is concerned that if such an event occurs, customer SFP margin deposits at the Clearing Organization could pose liquidity risk to broker-dealers.<sup> 27 </sup> 
+
+The Commission believes the conditions set forth in Note G are necessary to protect customers. Generally, each debit permitted in the Reserve Formula effectively is fully secured. As noted above, the debit represents an amount that a customer owes the broker-dealer. Thus, if a customer defaults on its obligation, the broker-dealer could liquidate the collateral to recover what it is owed. 
+
+The debits associated with customer SFP margin required and on deposit at a Clearing Organization, however, are not secured. These debits represent SFP margin that a broker-dealer has posted with a Clearing Organization on behalf of customers. The Clearing Organization, however, does not post collateral with the broker-dealer. Consequently, if a Clearing Organization defaults on its obligation to return the collateral, the broker-dealer would be forced to obtain the margin through legal proceedings. The conditions set forth in Note G seek to ensure that a broker-dealer deposits customer SFP margin at a Clearing Organization that meets minimum standards for financial soundness and creditworthiness and that identifies, segregates, and protects customer funds and securities from outside liens. These conditions, therefore, aid in protecting unsecured customer SFP margin debits, consistent with the customer protection function of Rule 15c3-3, so that the margin will be available to return to customers, even in times of severe market stress. 
+
+The Commission is providing clarification in response to the FIA and FIA/SIA Steering Committee's comment on how a broker-dealer can determine if a Clearing Organization meets the conditions of Note G. We have added subparagraph (c) to Item 14, Note G to clarify that a broker-dealer must determine, at least annually, that the Clearing Organization meets the conditions of Item 14, Note G.<sup> 28 </sup> To make the determination, a broker-dealer could obtain written representations consistent with subparagraph (c) of Item 14 from the Clearing Organization, either directly or through its designated examining authority. A designated examining authority could publish a list, updated at least annually, of the Clearing Organizations that have represented to the designated examining authority that they meet the conditions of this Note G. Of course, a broker-dealer must make any determination in good faith. 
+
+Commenters also expressed concern about the consequences of a Clearing Organization's failure to meet the criteria of Note G on a continual basis. If a Clearing Organization no longer meets the conditions of Note G, the SRO or the Commission will consider promptly whether broker-dealers may continue to include related debits in the Reserve Formula under the relevant facts and circumstances.<sup> 29 </sup><h>2. Subparagraph (a) to Note G </h>
+
+Under subparagraph (a) to proposed Note G, the range of customer SFP margin collateral acceptable for debit treatment would have consisted of cash, proprietary qualified securities, and letters of credit collateralized by customer securities. The CME argues that the Commission should expand the range of collateral acceptable for debit treatment in a broker-dealer's Reserve Formula calculation under subparagraph (a) to include money market mutual funds that meet specified requirements.<sup> 30 </sup>
+
+The final amendments retain cash, proprietary qualified securities and letters of credit collateralized by customers' securities as the range of collateral acceptable for debit treatment. This collateral is identical to the collateral acceptable for debit treatment related to customer options margin required and on deposit at the OCC.<sup> 31 </sup> Moreover, subparagraph (a) to Note G is consistent with Rule 15c3-3's requirement that a broker-dealer deposit cash or qualified securities to meet its deposit requirement under the Reserve Formula.<sup> 32 </sup> Any expansion of that collateral is beyond the scope of this rulemaking.<h>3. Subparagraph (b)(1) to Note G </h>
+
+As described more fully below, under proposed subparagraph (b)(1) to Note G, a broker-dealer could have included customer SFP margin as a debit item in the Reserve Formula if it cleared SFPs through a Clearing Organization that met certain criteria. Specifically, subparagraph (b)(1) would have permitted a broker-dealer to include customer SFP margin required and on deposit at a Clearing Organization as a debit item in its Reserve Formula calculation if that Clearing Organization met one of two alternative conditions evidencing the sufficiency of its financial resources and its creditworthiness. 
+
+In the Proposal, the Commission requested comments on the creditworthiness standards contained in subparagraph (b)(1) to Note G. Specifically, the Commission asked if the conditions contained in subparagraph (b)(1) were necessary to help ensure that a broker-dealer conducted business with creditworthy Clearing Organizations. The Commission also asked if it should consider "different or additional criteria to determine creditworthiness." 
+
+In response to comments received, the final amendments add two alternative conditions, which are discussed below. One condition permits a showing of sufficiency of financial resources and creditworthiness based upon the amount of margin deposits that a Clearing Organization holds. The other alternative condition permits the Commission, upon written application, to exempt a Clearing Organization from the requirements of subparagraph (b)(1), upon such terms as are appropriate under the relevant facts and circumstances, after consideration of whether the exemption is necessary or appropriate in the public interest, and consistent with the protection of investors. The final amendments delegate the authority to grant the exemption to the Director of the Division of Market Regulation.<h>a. Subparagraph (b)(1)(i) </h>
+
+Subparagraph (b)(1)(i) of proposed Note G would have permitted a broker-dealer to include customer SFP margin deposited with a Clearing Organization as a debit item in the Reserve Formula if the Clearing Organization maintained the highest investment-grade rating from a nationally recognized statistical rating organization ("NRSRO").<sup> 33 </sup> OCC objects to this alternative financial sufficiency test arguing that, to some degree, a Clearing Organization cannot control its credit rating.<sup> 34 </sup> According to OCC, it operated safely for a number of years without the highest investment-grade rating from an NRSRO and other, sound Clearing Organizations currently operate without such a rating.<sup> 35 </sup>
+
+The final amendments retain subparagraph (b)(1)(i) to Note G as one means for broker-dealers to comply with subparagraph (b)(1). This alternative is consistent with the customer protection function of Rule 15c3-3 and is necessary because of the unsecured nature of the customer SFP margin debit. A rating from an NRSRO is an indication from an independent source both of the long-term financial strength of a Clearing Organization and its general creditworthiness.<h>b. Subparagraph (b)(1)(ii) </h>
+
+Subparagraph (b)(1)(ii) to proposed Note G would have provided a second alternative to the investment-grade rating standard of subparagraph (b)(1)(i). Subparagraph (b)(1)(ii) would have permitted a broker-dealer to include customer SFP margin required and on deposit with a Clearing Organization as a debit item if, among other things, the Clearing Organization maintained security deposits from clearing members in connection with regulated options or futures transactions of at least $500 million and assessment power over member firms of at least $1.5 billion.
+
+OCC objects to subparagraph (b)(1)(ii) as an alternative to the highest investment-grade rating test. OCC asserts that it might not be able to maintain security deposits of at least $500 million because of a proposed rule change pending before the Commission that would affect the manner in which it calculates its clearing fund.<sup> 36 </sup> Even if deposits remained above $500 million, OCC asserts that making the security deposit available to general creditors, as proposed subparagraph (b)(1) to Note G requires, conflicts with its bylaws.<sup> 37 </sup>
+
+OCC also comments that the Commission should not set the financial resource standards at $500 million in security deposits and $1.5 billion in assessment power.<sup> 38 </sup> As noted, OCC believes that as part of the Clearing Organization registration process, either the Commission or the CFTC necessarily determined that the Clearing Organization possessed sufficient financial capacity to protect customer funds and securities. Moreover, OCC does not believe that the Commission intended to approve a financial standard under which a Clearing Organization that maintains $500 million in security deposits and $1.5 billion in assessment power would meet the standard, but a Clearing Organization that maintains a total of $2 billion in resources, but not the requisite amount of security deposits and assessment power, would not.<sup> 39 </sup>
+
+In response to certain of OCC's comments, the Commission has revised the second alternative. The final amendments retain the $500 million security deposits requirement of proposed subparagraph (b)(1)(ii) to Note G. This requirement helps ensure that a Clearing Organization maintains liquidity and financial resources sufficient to protect customer margin on deposit, which is unsecured. Moreover, the Commission established the amount of the security deposit based upon the Commission staff's experience and their discussions with the industry.
+
+The final rule amendments also define the term "security deposits" in subparagraph (b)(1)(ii) of Note G. Although the Commission did not propose a definition of this term, it did explain what it meant by the term and invited comments. Security deposits, as described in the Proposal, referred to a fund that a Clearing Organization could use to secure its general obligations to creditors. Commenters, however, expressed concerns that the explanation contained in the Proposal conflicted with the purposes for which Clearing Organizations could use their clearing funds.<sup> 40 </sup> In response, the Commission has modified the explanation of "security deposits" to address these concerns and incorporated this modified explanation as a definition in the rule text for purposes of clarity. As adopted, the term "security deposits," as defined in subparagraph (b)(1)(ii) of Note G, refers to a general fund that consists of cash or securities held by a Clearing Organization. The Clearing Organization may use this fund to protect participants and the Clearing Organization: (1) from the defaults of participants, and (2) from clearing agency losses (not including day-to-day operating expenses), such as losses of securities not covered by insurance or other resources of the Clearing Organization. The security deposit is in addition to, and separate from, margin deposited with the Clearing Organization.
+
+ In response to the OCC's comments, the Commission revised subparagraph (b)(1)(ii) to Note G to allow a broker-dealer to include a debit for customer SFP margin on deposit with a Clearing Organization that, among other requirements, maintains security deposits and assessment power that equal a combined total of at least $2 billion, at least $500 million of which is in the form of security deposits. This requirement protects customers by helping to ensure that broker-dealers utilize Clearing Organizations that maintain a ready pool of liquid assets. It also provides additional flexibility by permitting broker-dealers to utilize a Clearing Organization that maintains any combination of at least $500 million in security deposits and assessment power that equals at least $2 billion.<sup> 41 </sup><h>c. Subparagraph (b)(1)(iii) to Note G </h>
+
+As noted above, the Commission solicited comments on the creditworthiness standards contained in subparagraph (b)(1) to proposed Note G. OCC expressed concern that although it currently meets at least one of the conditions in subparagraph (b)(1) as set forth in the Proposal, it might not be able to meet them in the future, even though it might generally be creditworthy for purposes of clearing SFP transactions.<sup> 42 </sup> 
+
+In response to OCC's comments, the final amendments add new subparagraph (b)(1)(iii) to Note G, which was not part of the Proposal. Under subparagraph (b)(1)(iii), a broker-dealer may include customer SFP margin required and on deposit with a Clearing Organization as a debit in the Reserve Formula if, among other things, the Clearing Organization maintains at least $3 billion in margin deposits. The margin deposits may be a combination of proprietary and customer assets. The Commission believes, based upon discussions between Commission staff and the industry, that the significant level of margin deposits indicates that a Clearing Organization has sufficient financial resources to hold unsecured debits and, therefore, should be an alternative to the other options in subparagraph (b)(1). Moreover, the addition of subparagraph (b)(1)(iii) provides broker-dealers with greater flexibility in complying with Note G.<h>d. Subparagraph (b)(1)(iv) to Note G </h>
+
+In response to OCC's comments, the final amendments also add new subparagraph (b)(1)(iv) to Note G, which was not part of the Proposal. Subparagraph (b)(1)(iv) establishes procedures for the Commission, in its sole discretion, to provide an exemption that would enable a broker-dealer to utilize a Clearing Organization that does not meet the requirements of subparagraphs (b)(1)(i)-(iii) of Item 14, Note G to Rule 15c3-3a. The Commission may approve an exemption under subparagraph (b)(1)(iv), subject to such conditions as are appropriate under the circumstances, if the exemption and the conditions are necessary or appropriate in the public interest, and is consistent with the protection of investors. For example, a broker-dealer or a Clearing Organization, for the benefit of a broker-dealer, may demonstrate in writing that an exemption under subparagraph (b)(1)(iv) is necessary or appropriate in the public interest, and is consistent with the protection of investors by showing that the Clearing Organization possesses sufficient financial resources or is sufficiently creditworthy to hold unsecured debits. Moreover, as with subparagraph (b)(1)(iii), the addition of subparagraph (b)(1)(iv) provides broker-dealers with greater flexibility in complying with Note G.<h>4. Subparagraph (b)(2) to Note G </h>
+
+Under proposed subparagraph (b)(2) to Note G, a broker-dealer could have included customer SFP margin as a debit if it utilized a Clearing Organization that deposited the margin in a bank, as section 3(a)(6) of the Exchange Act defines the term.<sup> 43 </sup> Proposed subparagraph (b)(2) would have required the bank to agree in writing to refrain from placing a lien or otherwise attaching the account that contained customer margin.<sup> 44 </sup> 
+
+OCC states that proposed subparagraph (b)(2) would force it to change substantially the manner in which it handles clearing member margin deposits for non-futures accounts. OCC does not maintain separate bank or custodian accounts for customer, proprietary, or market maker margin.<sup> 45 </sup> Furthermore, OCC contends that it cannot deposit customer SFP margin in a Reserve Bank Account because it does not calculate customer SFP margin separately from other types of customer margin.<sup> 46 </sup> Rather, OCC determines margin requirements based upon the net risk of a portfolio of positions that includes other derivatives products.<sup> 47 </sup>
+
+The final amendments alter the requirements of proposed subparagraph (b)(2) in response to the comments received. Unlike the Proposal, the final amendments to subparagraph (b)(2) do not require customer margin to be segregated from clearing member proprietary and market maker margin deposited at a bank. Under amended subparagraph (b)(2), a broker-dealer may include customer SFP margin as a debit item if it utilizes a Clearing Organization that obtains from a bank specific, written notification related to margin deposited at that bank or held at that bank and pledged to the Clearing Organization. In the written notification, the bank must acknowledge that any funds or securities deposited with it as margin, or held by it and pledged to a Clearing Organization as margin, are for the exclusive benefit of clearing members of the Clearing Organization, subject to the Clearing Organization's interest in the margin. The written notification also must state that the bank will hold such funds and securities in an account separate from any other accounts that the Clearing Organization maintains. Furthermore, the written notification must provide that the bank will not use cash or securities deposited or pledged as margin as security for a loan to the Clearing Organization, and agree not to encumber the cash and securities in any way. Subparagraph (b)(2), however, permits the Clearing Organization to pledge clearing member cash and securities to a bank for any purpose that Commission or Clearing Organization rules otherwise permit. 
+
+Subparagraph (b)(2), as adopted, will protect customer cash and securities, consistent with Rule 15c3-3. First, customer SFP margin will be segregated from Clearing Organization proprietary funds under subparagraph (b)(2). Consequently, a clearing member more easily could retrieve customer SFP margin from the Clearing Organization, if necessary. Second, subparagraph (b)(2) is intended to prevent the use of customer property for non-customer purposes because it requires identification of SFP margin, including customer SFP margin, and segregation of that margin from a Clearing Organization's proprietary funds and securities. Rule 15c3-3 prohibits use of customer property to support non-customer activities.<sup> 48 </sup> Third, subparagraph (b)(2) prevents the bank at which a Clearing Organization holds funds and securities as SFP margin, including customer SFP margin, from utilizing that property for its own purposes.<h>5. Subparagraph (b)(3) to Note G </h>
+
+Subparagraph (b)(3) of proposed Note G would have required a broker-dealer to utilize a Clearing Organization that established, documented, and maintained safeguards with respect to the handling, transfer, and delivery of cash and securities; fidelity bond coverage for its employees and agents; and provisions for periodic examination from independent public accountants.<sup> 49 </sup> 
+
+OCC objects to subparagraph (b)(3)(ii). It asserts that it cannot easily obtain fidelity bond coverage for all of its agents.<sup> 50 </sup>
+
+In response to comments received, the final amendments clarify the scope of paragraph (b)(3)(ii). First, a Clearing Organization must maintain fidelity bond coverage only for those employees or agents who handle customer funds or securities. Second, in the case of agents who handle customer funds or securities, the Clearing Organization must ensure only that the agent maintains fidelity bond coverage. The Clearing Organization itself need not maintain the coverage.<sup> 51 </sup><h>6. Subparagraph (b)(4) to Note G </h>
+
+Under subparagraph (b)(3)(iv)<sup> 52 </sup> of proposed Note G, a broker-dealer could have included a debit in the Reserve Formula for customer SFP margin deposited at a DCO not otherwise registered with the Commission only if it utilized a DCO that had provided an undertaking to the Commission.<sup> 53 </sup> In the undertaking, the DCO would have agreed to examination by the Commission for compliance with proposed subparagraphs (b)(1) through (b)(3) of proposed Note G.<sup> 54 </sup> 
+
+The Commission did not receive any comments on proposed subparagraph (b)(3)(iv) and will retain a modified undertaking requirement in the final rules. The Commission believes that an undertaking is necessary to protect customer SFP margin on deposit with a DCO because it allows the Commission to examine a DCO for compliance with Note G. Subparagraph (b)(4) of the final rules clarifies, however, that the obligation to obtain the undertaking from the DCO rests with the broker-dealer who wishes to utilize the DCO. A broker-dealer may comply with subparagraph (b)(4) if it utilizes a DCO that has provided the Commission with a written undertaking, in a form acceptable to the Commission, under which the DCO agrees to be examined by the Commission for compliance with subparagraphs (b)(1) through (b)(3) to Note G.<h>F. One Chicago </h>
+
+In its first comment letter, OCC noted that its associate clearinghouse agreement with the Clearing Division of the CME, which relates to security futures traded on OneChicago, LLC, allows the CME to maintain only two clearing accounts with OCC, a proprietary account and a segregated futures account. If the CME were to carry customer security futures positions for its members in securities accounts as well as futures accounts, the CME would maintain security futures positions from both account types in its segregated futures account at OCC. Although this would result in a commingling of positions subject to CFTC customer protection and insolvency regimes with positions subject to SEC customer protection and SIPC insolvency regimes, we would not consider this commingling to be inconsistent with Note G. A broker-dealer that clears customer SFP transactions through the CME would include any related debit in the Reserve Formula for that customer SFP margin related to that transaction, if appropriate.<h>G. Amendment to Rule 30-3 </h>
+
+The Commission has adopted an amendment to Rule 30-3 of its Rules of Organization and Program Management governing delegations of authority to the Director of the Division of Market Regulation ("Director").<sup> 55 </sup> The amendment adds paragraph (a)(10)(iii). This paragraph contains a new delegation authorizing the Director to review and grant, unconditionally or subject to specified terms and conditions, written applications submitted under subparagraph (b)(1)(iv) of Item 14, Note G to Rule 15c3-3a for exemptions that would enable broker-dealers to utilize Clearing Organizations that do not meet the requirements of subparagraphs (b)(1)(i)-(b)(1)(iii) of Note G.
+
+The delegation of authority to the Director is intended to conserve Commission resources by permitting the staff to review and act on applications under subparagraph (b)(1)(iv) of Item 14, Note G to Rule 15c3-3a, if appropriate. Nevertheless, the staff may submit matters to the Commission for consideration, as it deems appropriate. Furthermore, the Commission retains discretionary authority under Section 4A(b) of the Exchange Act to review, upon its own initiative or upon application by a party adversely affected, any exemption granted or denied by the Division pursuant to delegated authority. 
+
+The Commission finds, in accordance with the Administrative Procedure Act, 5 U.S.C. 553(b)(3)(A), that this amendment to Rule 30-3 relates solely to agency organization, procedure, or practice. Accordingly, notice and opportunity for public comment, as well as publication 30 days before its effective date, are unnecessary. Because notice and comment are not required for this final rule, a regulatory flexibility analysis is not required under the Regulatory Flexibility Act.
+
+The amendment to Rule 30-3 does not contain any collection of information requirements as defined by the Paperwork Reduction Act of 1995, as amended. In addition, it will not impose any costs on the public.<h>V. PAPERWORK REDUCTION ACT </h>
+
+As discussed in the Proposal, certain provisions of the final amendments to Rule 15c3-3a contain "collection of information requirements" within the meaning of the Paperwork Reduction Act of 1995.<sup> 56 </sup> The Commission submitted the amendments to the Office of Management and Budget ("OMB") for review and approval in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The OMB approved a collection of information entitled, "Customer Protection — Reserves and Custody of Securities (17 CFR 240.15c3-3)," OMB Control Number 3235-0078. Because the amendments to Rule 15c3-3, as adopted, are substantially similar to those proposed, the Commission continues to believe that the estimates published in the Proposal regarding the proposed collection of information burdens associated with the amendments to Rule 15c3-3 are appropriate. We solicited, but did not receive, comments on the Paperwork Reduction analysis contained in the Proposal.<h>A. Collection of Information under these Amendments </h>
+
+As discussed, the final amendments to Rule 15c3-3a permit a broker-dealer that clears and carries<sup> 57 </sup> customer SFPs in securities accounts on behalf of customers to include certain credits and debits in its Reserve Formula calculation relating to SFP margin required and on deposit with a Clearing Organization. The amendments permit a broker-dealer to include as a debit the amount of customer SFP margin required and on deposit with a Clearing Organization only if that entity maintains sufficient liquid capital; obtains written notification from a bank that customer SFP margin deposited at, or held by, the bank is held unencumbered, solely for the benefit of customer, and is segregated from non-customer property; and maintains a system for safeguarding the handling, transfer and delivery of cash and SFPs. In addition, the amendments require a broker-dealer to obtain from a DCO not otherwise registered with the Commission an executed undertaking in which the DCO agrees to examination by the Commission to monitor the DCO's compliance with the applicable conditions set forth in the amendments to Rule 15c3-3a, Note G, subparagraphs (b)(1) through (3).<h>B. Proposed Use of Information </h>
+
+The Commission, self-regulatory organizations ("SROs"), and other securities regulatory authorities will use the information collected under the final amendments to Rule 15c3-3a to determine if a broker-dealer is in compliance with Rule 15c3-3 and with other, related customer protection requirements. The Commission, SROs, and other securities regulatory authorities also will use this information to monitor whether a Clearing Organization has safeguarded customer funds properly.<h>C. Respondents </h>
+
+The final amendments to Rule 15c3-3a apply only to those broker-dealers that clear and carry SFPs in securities accounts for the benefit of customers. Moreover, these provisions apply only to broker-dealers that carry customer funds, securities, or property and do not claim an exemption from Rule 15c3-3a. As of the end of 2003, there were 607 clearing firms. At that time, there were 46 broker-dealers that were clearing and carrying firms and also registered with the CFTC as FCMs.<sup> 58 </sup> Based upon conversations between the Commission staff and industry representatives about the number of firms that may conduct SFP business, the staff estimates that the number of firms likely to engage in this business, in addition to the broker-dealers already registered with the CFTC as FCMs, is 10% of the clearing and carry firms not presently registered with the CFTC.<sup> 59 </sup> Thus, the staff estimates that approximately 102 firms (46 + ((607 — 46) x 10%)) will be required to comply with these final amendments to obtain the debit treatment.<h>D. Total Annual Reporting and Recordkeeping Burden </h>
+
+Under the final amendments to add new Item 14, amend and redesignate Item 15, amend Note B and add new Note G to Rule 15c3-3a, a broker-dealer that clears and carries SFPs in securities accounts for the benefit of customers may include customer SFP margin required and on deposit at a Clearing Organization as a debit item in the Reserve Formula. The Commission staff revised the burden hour estimates contained in the Proposal to reflect the latest statistics available from the Securities Industry Association ("SIA"). The staff now estimates that broker-dealers that engage in an SFP business will spend approximately 510 hours (or 5 hours each x 102 clearing broker-dealers) to modify software to accommodate changes in the calculation of the Reserve Formula pursuant to the final amendment to Note B and new Item 14, and amended and redesignated Item 15. This will be a one-time burden. The Commission staff also estimates that broker-dealers will spend approximately 25.5 hours per week (or 0.25 hours x 102 clearing broker-dealers), for a yearly total of 1,326 hours (25.5 hours x 52 weeks), to verify and input the information required under the final amendments to Note B and new Item 14.
+
+Furthermore, broker-dealers that clear and settle SFP transactions through DCOs not otherwise registered with the Commission will spend time to verify that the DCO has made the undertaking to the Commission under subparagraph b to Note G. The Commission staff estimates these broker-dealers will spend 25.5 hours (or 0.25 hours x 102 clearing broker-dealers) to obtain the undertakings. This will be a one-time burden unless a broker-dealer changes clearing DCOs.
+
+Finally, under subparagraph (c) to Note G, broker-dealers will spend time to verify that Clearing Organizations through which they clear SFP transactions meet the conditions of Note G. The Commission staff estimates that these broker-dealers will spend 25.5 (0.25 hours x 102 clearing broker-dealers) to make this verification. Only clearing and carrying broker-dealers that engage in customer SFP transactions will incur any of the costs described above.<h>E. Collection of Information Is Mandatory </h>
+
+The collection of information is mandatory if a broker-dealer clears and carries SFPs in securities accounts on behalf of customers and wants to record customer margin required and on deposit with a Clearing Organization as a debit item in its Reserve Formula calculation.<h>F. Confidentiality </h>
+
+The collection of information under the final amendments to Rule 15c3-3a will be provided to the Commission and SROs, but not subject to public availability.<h>G. Record Retention Period </h>
+
+Rule 17a-4(b)(8)(xiii) requires broker-dealers to preserve information related to possession and control requirements under Rule 15c3-3 for three years, the first two years in an accessible place.<h>H. Request for Comment </h>
+
+In the Proposal, the Commission solicited comments to:
+
+(i) Evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information would have practical utility;
+
+(ii) Evaluate the accuracy of the Commission's estimate of the burden of the proposed collection of information;
+
+(iii) Enhance the quality, utility, and clarity of the information to be collected; and
+
+(iv) Minimize the burden of the collection of information on those required to respond, including through the use of automated collection techniques or other forms of information technology. The Commission did not receive any comments on Paperwork Reduction Act issues.<h>VI. COSTS AND BENEFITS OF THE PROPOSED AMENDMENTSA. Introduction </h><h>A. Introduction </h>
+
+Passage of the CFMA in December of 2000 permitted the trading of SFPs and established a framework for the Commission and CFTC to regulate SFPs jointly. This framework was necessary because the CFMA defined an SFP as both a security and a future<sup> 60 </sup> and, therefore, subject both to the CEA and the Exchange Act. Accordingly, both Clearing Agencies, which are regulated by the Commission, and DCOs, which are regulated by the CFTC, may clear SFPs. Consistent with these provisions, the Commission is amending Exchange Act Rule 15c3-3a by redesignating Item 14 as Item 15, adding new Item 14 and new Note G, amending Item B and amending newly redesignated Item 15. We did not receive any comments on the cost-benefit analysis contained in the Proposal.<h>B. Benefits </h>
+
+The final amendments to Rule 15c3-3a are intended to enhance the customer protection function of Rule 15c3-3. In particular, Note G is drafted to help protect customer property by requiring that a broker-dealer, if it wishes to include customer SFP margin as a debit item in the Reserve Formula, clear and settle its customer SFP transactions only through a Clearing Organization that has significant financial resources. Note G is further intended to protect customer property by permitting the debit treatment only if a broker-dealer uses a Clearing Organization that meets requirements related to the identification and segregation of customer property. This requirement is intended to prevent use of customer property for non-customer purposes. The internal risk management system mandated under Note G seeks to protect a broker-dealer and its customers by helping its Clearing Organization to monitor whether customer margin is protected from both default and use in other areas of the entity's business. These enhanced customer protections decrease the likelihood of a SIPC liquidation.
+
+Amended Note B, new Item 14, and new Note G are intended to help a broker-dealer that clears and carries SFPs in securities accounts on behalf of customers calculate the appropriate customer reserve requirement under the Reserve Formula. Without amended Note B, a broker-dealer's Reserve Formula computation would not include a credit to reflect the firm's use of customer assets to secure a letter of credit, which is then used as customer SFP margin deposit with a Clearing Organization. Similarly, without Item 14 and Note G, a broker-dealer's Reserve Formula computation would not include a debit to reflect the firm's use of its own assets for customer purposes to meet its customer SFP margin deposit requirements. In that case, a broker-dealer's regulatory costs would be higher. 
+
+Amended Note B, new Item 14 and new Note G permit a broker-dealer to include the amount of customer SFP margin required and on deposit at a Clearing Organization as a debit in the Reserve Formula. Without these changes to Rule15c3-3a, the broker-dealer would be required to fund its customer reserve requirement at least in part with proprietary assets, which would require the broker-dealer to maintain two reserves to cover the same customer property, one reserve in the Reserve Bank Account and the second with the Clearing Organization. Consequently, the costs of engaging in a customer SFP business would increase. Thus, amended Note B, new Item 14 and new Note G should lower the costs of clearing and carrying SFPs in customer securities accounts.<h>C. Costs </h>
+
+The amendments were drafted to reduce the burden of the Reserve Formula on broker-dealers by allowing a broker-dealer to include the amount of customer SFP margin required and on deposit at a Clearing Organization as a debit in the Reserve Formula. This treatment permits a broker-dealer that clears and carries SFPs in securities accounts on behalf of customers to calculate the appropriate customer reserve requirement.
+
+Amended Note B requires a broker-dealer to include certain customer SFP margin required and on deposit with a Clearing Organization as a credit item in the Reserve Formula. New Item 14 permits a broker-dealer to include customer SFP margin required and on deposit with a Clearing Organization as a debit item. The Commission staff has updated costs estimates delineated below to reflect the most recent statistics available from the SIA. A broker-dealer will incur a one-time cost to re-program software that performs Reserve Formula calculations to include Note B and Item 14 in those calculations. Based on the paperwork costs described above, the Commission staff estimates total reprogramming costs will be $29,172.<sup> 61 </sup> 
+
+Under amended Note B and new Item 14, broker-dealers also will incur minimal, annual costs to verify and input debit item amounts into its customer reserve requirement calculation. We estimate the yearly paperwork burden will be 1,326 hours to complete these tasks. Therefore, the Commission staff estimates the annual paperwork cost to broker-dealers will be $55,739 (1,326 hours x $37 per hour for an operations specialist).<sup> 62 </sup>
+
+Moreover, broker-dealers that clear SFP transactions through a DCO will incur costs to obtain an undertaking from the DCO, as Note G requires. The Commission staff estimates the paperwork cost to broker-dealers of obtaining the undertaking required under Note G will be $2,097.63.<sup> 63 </sup> The costs will be recurring only if the broker-dealer changes its clearing DCO. 
+
+Finally, under subparagraph (c) to Note G, broker-dealers will incur costs each year to verify that Clearing Organizations through which they clear SFP transactions meet the conditions of Note G. The Commission staff estimates that the annual cost of making this verification will be $2097.63 (0.25 hours x 102 broker-dealers x $82.26 per hour for an attorney).<sup> 64 </sup> Only clearing and carrying broker-dealers that engage in customer SFP transactions will incur any of the costs described above.<h>VII. CONSIDERATION OF BURDEN ON COMPETITION, AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION </h>
+
+Section 3(f) of the Exchange Act<sup> 65 </sup> requires the Commission, whenever it engages in rulemaking and must consider or determine if an action is necessary or appropriate in the public interest, to consider if the action will promote efficiency, competition, and capital formation. Section 23(a)(2) of the Exchange Act<sup> 66 </sup> requires the Commission, in making rules under the Exchange Act, to consider the impact that any such rule would have on competition. Exchange Act Section 23(a)(2) prohibits the Commission from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+In the Proposal, the Commission solicited comments on the effect of the proposed amendments on competition, efficiency, and capital formation. The Commission did not receive any comments that addressed this issue. 
+
+The final amendments to Rule 15c3-3a clarify the treatment of customer SFP margin required and on deposit with a Clearing Organization for purposes of calculating a broker-dealer's customer reserve requirement under the Reserve Formula. We believe that clarification of the debit treatment of customer SFP margin for Reserve Formula purposes will serve as an efficient and cost-effective means for broker-dealers to determine how they will calculate their customer reserve requirements if they clear and carry SFPs in securities accounts for the benefit of customers. We expect the final amendments to Rule 15c3-3a to promote efficiency because firms still may use their present systems for computation of customer reserve requirements under the Reserve Formula, after they make the required adjustments, rather than build new Reserve Formula systems.
+
+Furthermore, the final amendments to Rule 15c3-3a are intended to allow a broker-dealer to avoid depositing proprietary assets unnecessarily in the Reserve Bank Account to meet its obligations under the Reserve Formula. We believe that the amendments will permit a broker-dealer to direct a greater portion of its assets to its businesses and, therefore, promote capital formation.
+
+As discussed, the final amendments to Rule 15c3-3a permit a broker-dealer that clears and carries SFPs in securities accounts on behalf of customers to include customer SFP margin required and on deposit with a Clearing Organization as a debit item for purposes of calculating its customer reserve requirement under the Reserve Formula. The final amendments permit this treatment regardless of whether the broker-dealer clears customer SFP transactions through a Clearing Agency or DCO, if the Clearing Agency or DCO meets certain minimum financial standards and segregates customer SFP margin funds. Thus, we believe that the final amendments to Rule 15c3-3a will not impose any competitive burden that is not necessary or appropriate in furtherance of the purposes of the Exchange Act.<h>VIII. REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+The Commission has certified, pursuant to 5 U.S.C. section 605(b), that the amendments to Rule 15c3-3a will not have a significant economic impact on a substantial number of small entities. This certification was incorporated into the Proposal. The Commission did not receive any comments about the impact on small entities or the Regulatory Flexibility Act certification.<h>IX. STATUTORY AUTHORITY </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.15c3-3a.
+
+2 Exchange Act Release No. 46492 (Sept. 12, 2002), 67 FR 59747 (Sept. 23, 2002).
+
+3 Pub. L. No. 106-554, 114 Stat. 2763 (2000).
+
+4 The term "security futures product" includes both a security future and any option or privilege on a security future. CEA section 1a(32) (7 U.S.C. 1a(32)) and Exchange Act section 3(a)(56) (15 U.S.C. 78c(a)(56)).
+
+5 Exchange Act sections 3(a)(10) and (11) (15 U.S.C. 78c(a)(10) and (11)).
+
+6 See 17 CFR 240.15c3-3(a)(1) (definition of "customer"), which was amended in 2002. See also Exchange Act Release No. 46473 (Sept. 9, 2002), 67 FR 58284.
+
+7 Exchange Act Release No. 9856 (Nov. 10 1972), 37 FR 25224; 17 CFR 240.15c3-3(e).
+
+8 17 CFR 240.15c3-3(e)(1) and (2).
+
+9 17 CFR 240.15c3-3(e)(2).
+
+10 17 CFR 240.15c3-3(e)(2).
+
+11 Exchange Act section 17A (15 U.S.C 78q-1).
+
+12 CEA section 1a(9) (7 U.S.C. 1a(9)).
+
+13 CEA sections 5b (a), (b) and (c) (7 U.S.C. 7a-1(a), (b) and (c)).
+
+14 Exchange Act section 17A(b)(7)(A) (15 U.S.C 78q-1(b)(7)(A)).
+
+15 CEA section 7a-1(a)(2) (7 U.S.C. 7a-1(a)(2)).
+
+16 17 CFR 240.400 et seq. .
+
+17 A "contract market" is "a board of trade designated by the [Commodity Futures Trading] Commission as a contract market under the Commodity Exchange Act or in accordance with" 17 CFR 1.3(h).
+
+18 Letter from William H. Navin, The Options Clearing Corporation to Mr. Jonathan G. Katz, Secretary, Securities and Exchange Commission ("OCC Letter"), dated Jan. 21, 2003, pp.1-2.
+
+19 The final amendments provide customer SFP margin required and on deposit at a Clearing Organization with similar debit treatment under the Reserve Formula as customer options margin required and on deposit with OCC. To receive debit treatment under the Reserve Formula, the collateral posted at a Clearing Organization as customer SFP margin must be the same type of collateral posted at OCC as customer options margin.
+
+20 17 CFR 240.15c3-3, Item 1.
+
+21 Exchange Act Release No. 46492 (Sept. 12, 2002), 67 FR 59747, at 59754 (Sept. 23, 2002).
+
+22 17 CFR 240.15c3-3a, Item 2, Note B.
+
+23 The modifications to Note G are discussed below.
+
+24 FIA Letter, p.2. OCC supports this position. See Letter from William H. Navin, The Options Clearing Corporation to Mr. Jonathan G. Katz, Secretary, Securities and Exchange Commission ("OCC Letter"), dated Oct. 23, 2002, pp.5-6.
+
+25 Id .
+
+26 FIA Letter, p.2; FIA/SIA Letter, p.2.
+
+27 FIA/SIA Letter, p.2.
+
+28 See paragraph (c) of Item 14, Note G.
+
+29 The Commission could utilize a number of approaches in determining how to address whether a broker-dealer may continue to include customer SFP margin as a debit item if a Clearing Organization no longer meets the criteria of Note G. For example, the Commission could use of its exemptive authority to exempt temporarily a broker-dealer from utilizing a Clearing Organization that complies with Note G.
+
+30 Letter from James J. McNulty, President and Chief Executive Officer, Chicago Mercantile Exchange Inc. to Mr. Jonathan G. Katz, Secretary, Securities and Exchange Commission ("CME Letter"), dated Oct. 22, 2002, pp.1-2.
+
+31 See 17 CFR 240.15c3-3a, Note F.
+
+32 See 17 CFR 240.15c3-3(e)(1).
+
+33 Exchange Act Release No. 46492 (Sept. 12, 2002), 67 FR 59747, at 59749 (Sept. 23, 2002).
+
+34 OCC Letter, p.3.
+
+35 OCC Letter, p.3.
+
+36 See File No. SR-OCC-2002-03 (Jan. 29, 2002). The letter states the OCC's proposed rule change does not contain a $500 million minimum. Under the proposed rule change, the size of the fund would be related to risk margin and could vary substantially over time, possibly falling below $500 million. OCC also believes that such an occurrence would not reflect any reduction it its creditworthiness, "but would instead reflect a reduction in the size of the potential obligations that the clearing fund might be called upon to satisfy." Members of the Commission staff currently are reviewing the proposal. OCC Letter, pp.3-4.
+
+37 Id .
+
+38 OCC Letter, p.5. The term "assessment power" included in the final amendments to Rule 15c3-3a relates to a Clearing Organization's ability, under its rules, to assess its members in excess of amounts required for a security deposit to meet emergency funding needs.
+
+39 Id .
+
+40 Clearing Organizations have indicated that they are likely to use their clearing funds as security deposits.
+
+41 OCC asserts that a clearing member could withdraw its membership, rather than meet an obligation to pay an additional assessment. OCC Letter, p.5. A Clearing Organization, however, need only possess the assessment authority. Moreover, a Clearing Organization may meet the entire $2 billion requirement of (b)(1)(ii) through maintenance of security deposits.
+
+42 See OCC Letter, p.4.
+
+43 Exchange Act Release No. 46492 (Sept. 12, 2002), 67 FR 59747, at 59749 (Sept. 23, 2002).
+
+44 Id .
+
+45 OCC Letter, p.7.
+
+46 OCC states that it will continue compliance with the Commodity Exchange Act's segregation requirements with respect to funds deposited with the OCC as margin in a segregated futures account. OCC Letter, p.7.
+
+47 Id . at p.8.
+
+48 Exchange Act Release No. 46019 (June 3, 2002), 67 FR 39642 (June 10, 2002).
+
+49 Exchange Act Release No. 46492 (Sept. 12, 2002), 67 FR 59748, at 59754 (Sept. 23, 2002).
+
+50 OCC Letter, p.8.
+
+51 The Proposal would have required a Clearing Organization to make "provisions for" fidelity bond coverage. That phrase was meant to encompass both coverage that a Clearing Organization provides and coverage that an agent provides. The final amendments clarify that scope of fidelity bond coverage; therefore, the phrase is no longer necessary in the final rule text.
+
+52 Subparagraph (b)(3)(iv) has been redesignated as subparagraph (b)(4) in the final rules.
+
+53 67 FR 59747, at 59754 (Sept. 23, 2002), Exchange Act Release No. 46492 (Sept. 12, 2002).
+
+54 Id .
+
+55 17 CFR 200.30-3.
+
+56 44 U.S.C. 3501.
+
+57 A clearing and carrying broker-dealer is an entity that may hold customer funds or securities.
+
+58 The final amendments contain changes in the number of clearing and carrying firms, including changes in the number of clearing and carrying firms registered as FCMs. These new numbers represent the latest statistics available from the Securities Industry Association.
+
+59 These estimates are identical to those set forth in Exchange Act Release No. 46473 (Sept. 9, 2002).
+
+60 Exchange Act sections 3(a)(10) and (11) (15 U.S.C. 78c(a)(10) and (11)).
+
+61 Security Industry Association's ("SIA") Report on Management and Professional Earnings in the Securities Industry 2003 ("2003 Report"). According to the 2003 Report, the hourly cost of a programmer is approximately $55 and the hourly cost of a senior programmer is approximately $66. These hourly wage costs, and all other hourly wage costs in this document, include a 35% increase above the SIA wage figures to account for overhead costs. The staff estimates that a programmer would spend approximately four hours to modify software to meet the requirements of proposed Note B and Items 14 and 15. Further, the Staff estimates that a senior programmer would spend approximately one hour on the project. Total cost: ((4 hours x $55 per hour x 102 broker-dealers) + (1 hour x $66 per hour x 102 broker-dealers)) = $29,172.
+
+62 2003 Report.
+
+63 The SIA's 2003 Report's survey on attorney salaries in the securities industry contained only one response, which was unrealistically low. Consequently, we used the salary data from the SIA's Report on Management and Professional Earnings in the Securities Industry 2002 ("2002 Report"). According to the 2002 Report, the hourly cost of an attorney is approximately $82.26. The Staff estimates that an attorney would spend approximately 15 minutes obtaining the undertaking. Total cost: (0.25 x 102 broker-dealers x $82.26 per hour) = $2,097.63.
+
+64 2002 Report.
+
+65 15 U.S.C. 78c(f).
+
+66 15 U.S.C. 78w(a)(2).
+
+67 15 U.S.C. 78o, 78q, 78w(a), and 78mm.

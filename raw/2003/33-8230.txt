@@ -1,0 +1,669 @@
+https://www.sec.gov/rules/final/33-8230.htm
+
+	I.0.0.0: I. BACKGROUND
+
+	II.0.0.0: II. THE AMENDMENTS
+
+		II.A.0.0: A. Required Electronic Filing of Forms 3, 4 and 5
+
+		II.B.0.0: B. Required Website Posting of Forms 3, 4 and 5
+
+		II.C.0.0: C. Rule 16a-3(h)
+
+		II.D.0.0: D. Hardship Exemptions and Adjustments of Filing Dates
+
+		II.E.0.0: E. Item 405 of Regulation S-K
+
+		II.F.0.0: F. Forms 3, 4 and 5
+
+		II.G.0.0: G. Form ET
+
+		II.H.0.0: H. Filing Hours
+
+	III.0.0.0: III. THE NEW ELECTRONIC FILING SYSTEM
+
+	IV.0.0.0: IV. PAPERWORK REDUCTION ACT
+
+	V.0.0.0: V. COST-BENEFIT ANALYSIS
+
+		V.A.0.0: A. Benefits
+
+		V.B.0.0: B. Costs
+
+	VI.0.0.0: VI. EFFECT ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+	VII.0.0.0: VII. FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
+
+		VII.A.0.0: A. Need for the Amendments
+
+		VII.B.0.0: B. Significant Issues Raised by Public Comment
+
+		VII.C.0.0: C. Small Entities Subject to the Amendments
+
+		VII.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		VII.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VIII.0.0.0: VIII. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Mandated Electronic Filing and Website Posting for Forms 3, 4 and 5 SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 230, 232, 239, 240, 249, 250, 259, 260, 269 and 274
+
+[RELEASE NOS. 33-8230, 34-47809, 35-27674, IC-26044; File No. S7-52-02]
+
+RIN 3235-AI26
+
+MANDATED ELECTRONIC FILING AND WEBSITE POSTING FOR FORMS 3, 4 AND 5 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule.
+
+ SUMMARY: We are adopting rule and form amendments to mandate the electronic filing, and website posting by issuers with corporate websites, of beneficial ownership reports filed by officers, directors and principal security holders under Section 16(a) of the Securities Exchange Act of 1934, generally as required by Section 403 of the Sarbanes-Oxley Act of 2002. We have implemented changes to the EDGAR system in order to facilitate electronic filing. In addition, we are adopting rule changes to eliminate magnetic cartridges as a means of electronic filing. The rule and form amendments generally are adopted as proposed. However, we adopt additional rule amendments that permit Section 16 forms submitted by direct transmission on or before 10:00 p.m. Eastern time to be deemed filed on the same business day and make a temporary hardship exemption unavailable to these forms. The intended general effect of the proposals is to facilitate compliance with the will of Congress, as reflected in amended Section 16(a), and to facilitate the more efficient transmission, dissemination, analysis, storage and retrieval of insider ownership and transaction information in a manner that will benefit investors, filers and the Commission.
+
+ DATES: Effective Date: June 30, 2003.
+
+Compliance Dates: Reporting persons must comply with the electronic filing requirements for beneficial ownership reports filed on or after June 30, 2003. Issuers must comply with the website posting requirements as to beneficial ownership reports filed on or after June 30, 2003. Magnetic cartridges may not be used as a means of electronic filing after June 27, 2003. 
+
+ FOR FURTHER INFORMATION CONTACT: For assistance with questions about the rule and form amendments in general, contact Mark W. Green, Senior Special Counsel (Regulatory Policy), at (202) 942-1940, or Anne M. Krauskopf, Special Counsel, at (202) 942-2900, Division of Corporation Finance, U.S. Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20459-0301. For assistance with technical questions about EDGAR or to request access codes, call the EDGAR Filer Support Office at (202) 942-8900.
+
+ SUPPLEMENTARY INFORMATION: We are adopting<SUP> 1 </SUP> amendments that will revise Rules 13,<SUP> 2 </SUP> 101,<SUP> 3 </SUP> 104<SUP> 4 </SUP> and 201<SUP> 5 </SUP> under Regulation S-T<SUP> 6 </SUP> and Rule 16a-3(h)<SUP> 7 </SUP> and Forms 3, 4 and 5<SUP> 8 </SUP> under the Securities Exchange Act of 1934 ("Exchange Act").<SUP> 9 </SUP> We also are adopting an amendment that will add new Rule 16a-3(k) under the Exchange Act. Finally, we are adopting amendments that will rescind Form ET<SUP> 10 </SUP> and revise Rule 12 of Regulation S-T,<SUP> 11 </SUP> Rule 110<SUP> 12 </SUP> under the Securities Act of 1933 ("Securities Act"),<SUP> 13 </SUP> the description of Form 144 contained in the Code of Federal Regulations,<SUP> 14 </SUP> Rule 0-2<SUP> 15 </SUP> under the Exchange Act, Rule 21<SUP> 16 </SUP> under the Public Utility Holding Company Act of 1935 ("Public Utility Act"),<SUP> 17 </SUP> and Rule 0-5<SUP> 18 </SUP> under the Trust Indenture Act of 1939 ("Trust Indenture Act").<SUP> 19 </SUP>
+
+<END HEADER>
+
+<h>I. BACKGROUND </h>
+
+Section 16<SUP> 20 </SUP> applies to every person who is the beneficial owner of more than 10% of any class of equity security registered under Section 12 of the Exchange Act<SUP> 21 </SUP> and each officer and director (collectively, "reporting persons" or "insiders") of the issuer of the security. Upon becoming a reporting person, or upon the Section 12 registration of that class of securities, Section 16(a)<SUP> 22 </SUP> requires a reporting person to file an initial report<SUP> 23 </SUP> with the Commission disclosing the amount of his or her beneficial ownership of all equity securities of the issuer.<SUP> 24 </SUP> To keep this information current, Section 16(a) also requires reporting persons to report to the Commission<SUP> 25 </SUP> changes in this ownership, or the purchase or sale of a security-based swap agreement<SUP> 26 </SUP> involving these equity securities.<SUP> 27 </SUP>
+
+Before the effective date of the amendments adopted in this release, insiders may file reports on Forms 3, 4 and 5 either in paper or electronically on the Commission's Electronic Data Gathering, Analysis and Retrieval System ("EDGAR").<SUP> 28 </SUP> On July 30, 2002, the Sarbanes-Oxley Act of 2002 (the "Sarbanes-Oxley Act")<SUP> 29 </SUP> was enacted. The Sarbanes-Oxley Act amended Section 16(a) to require, not later than July 30, 2003, insiders to file these forms electronically, and the Commission and issuers with corporate websites to post change in beneficial ownership reports on their websites.<SUP> 30 </SUP>
+
+The legislative mandate is consistent with our own progress, since 1993, toward requiring electronic filing of Forms 3, 4 and 5. In 1993, we adopted rules, primarily Regulation S-T,<SUP> 31 </SUP> that required domestic issuers to file most documents electronically but did not permit electronic filing of Forms 3, 4 and 5. In 1995, we revised Regulation S-T to permit voluntary electronic filing of Forms 3, 4 and 5.<SUP> 32 </SUP> In 1996, we asked for comment on whether to require EDGAR filing of any documents then allowed to be filed electronically on a voluntary basis.<SUP> 33 </SUP> Early in 2000, we announced that we intended to propose mandated electronic filing of Forms 3, 4 and 5 and asked for comments.<SUP> 34 </SUP> Later in 2000, we reiterated our expectation of proposing these requirements and stated that we would consider the comments received in connection with future rulemaking.<SUP> 35 </SUP> 
+
+In accordance with the will of Congress, on December 20, 2002, we proposed rule and form amendments that would mandate the electronic filing and website posting of Forms 3, 4 and 5. In the Proposing Release, we also proposed to eliminate magnetic cartridges as a means of electronic filing. We received 22 comment letters relating to the Proposing Release. Commenters that provided a general view on the proposals supported them as a means of achieving earlier public notification of insiders' transactions and wider public availability of information about those transactions. We address specific comments received where applicable in this release.<SUP> 36 </SUP>
+
+In implementing Congress' directive to require Forms 3, 4 and 5 to be filed on EDGAR, we seek to achieve the same benefits for investors, filers and the Commission that we sought when we first mandated electronic filing for most documents. Since its inception, the primary goals of our EDGAR system have been to facilitate the rapid dissemination of financial and business information about companies and other parties participating in U.S. capital markets while making the transmission and the Commission's processing of filings more efficient.
+
+Mandated electronic filing benefits members of the investing public and the financial community by making information contained in Commission filings available to them minutes after receipt by the Commission. Information concerning insiders' transactions in issuer equity securities will be publicly accessible substantially sooner and more broadly than it was before. In addition, the electronic format of the information facilitates research and data analysis. The accelerated Section 16(a) filing requirement that took effect in August, 2002 makes electronic filing even more valuable.<SUP> 37 </SUP> Finally, investors clearly want electronic access to these forms.<SUP> 38 </SUP> Many investors believe that reports of directors' and executive officers' transactions in company equity securities provide useful information as to management's views of the performance or prospects of the company and that more timely and transparent access to reports will be even more useful.
+
+Filers will benefit from changes to the electronic filing system specifically designed to make electronic filing easier while continuing to provide speedy, secure and reliable transmission, as discussed below. We note that many companies help their insiders or submit the insiders' filings on their behalf. We encourage this practice to facilitate accurate and timely filing. Our objective, however, is to create a system that insiders can use relatively easily themselves, particularly as an insider is legally responsible for filing regardless of who submits a filing on the insider's behalf.<SUP> 39 </SUP>
+
+The use of EDGAR also will facilitate more efficient storage, retrieval and analysis of ownership and transaction information than paper filing. Quicker access to ownership and transaction information should not only facilitate review of the information but also enhance the Commission's ability to study and address issues that relate to this information.
+
+Website posting of Forms 3, 4 and 5 by issuers with corporate websites will provide a convenient, rapidly disseminated electronic source in addition to EDGAR that is conducive to research and data analysis. One objective of the amendments is to encourage availability of this information in a variety of locations, so that it is broadly accessible.
+
+Following adoption of these electronic filing and website posting requirements, insiders will continue to be required to report the same transactions and holdings as before. In particular, Section 16(a) requires insiders to report all security-based swap agreements<SUP> 40 </SUP> and transactions involving derivative securities,<SUP> 41 </SUP> including those in the form of over-the-counter options contracts, forwards, collars,<SUP> 42 </SUP> and security futures.<SUP> 43 </SUP> The Commission will take action for failure to report these transactions.<h>II. THE AMENDMENTSA. Required Electronic Filing of Forms 3, 4 and 5 </h><h>A. Required Electronic Filing of Forms 3, 4 and 5 </h>
+
+We are adopting as proposed the amendments to Regulation S-T<SUP> 44 </SUP> to require insiders to file Forms 3, 4 and 5 with us on EDGAR.<SUP> 45 </SUP> As noted above, Rule 101(b)(4) of Regulation S-T currently permits reporting persons to file Forms 3, 4 and 5 on EDGAR. The amendments revise Rule 101 by: 
+
+ removing subparagraph (4) from paragraph (b) (the voluntary EDGAR filing paragraph); and
+
+ adding a reference to forms filed under Section 16(a) to subparagraph (a)(1)(iii) (located in the mandated EDGAR filing paragraph). 
+
+Regulation S-T also requires the electronic filing of any related correspondence and supplemental information pertaining to a document that is the subject of mandated EDGAR.<SUP> 46 </SUP> These materials are not disseminated publicly but are available to the Commission staff. This requirement will apply to persons who file Forms 3, 4 and 5 on or after the effective date of the amendments.<h>B. Required Website Posting of Forms 3, 4 and 5 </h>
+
+We also are adopting as proposed the amendment to Rule 16a-3<SUP> 47 </SUP> to add a new paragraph (k) to require an issuer that maintains a corporate website to post on its website all Forms 3, 4 and 5 filed with respect to its equity securities by the end of the business day after filing. One commenter asked us to clarify the term "corporate website," stating that the term does not distinguish between public (internet) and private (intranet) sites. We clarify that the term "corporate website" refers to public (internet) sites, reflecting the legislative purpose of providing broader dissemination of this information to investors. 
+
+As we stated in the Proposing Release, an issuer can satisfy this requirement whether it provides access directly or by hyperlinking<SUP> 48 </SUP> to reports via a third-party service instead of maintaining the forms itself if the following conditions are met:<SUP> 49 </SUP> 
+
+ the forms are made available in the required time frame;
+
+ access to the reports is free of charge to the user;
+
+ the display format allows retrieval of all information in the forms;<SUP> 50 </SUP>
+
+ the medium to access the forms is not so burdensome that the intended users cannot effectively access the information provided;<SUP> 51 </SUP>
+
+ the access includes any exhibits or attachments;
+
+ access to the forms is through the issuer website address the issuer normally uses for disseminating information to investors;<SUP> 52 </SUP> and
+
+ any hyperlink is directly to the Section 16 forms (or to a list of the Section 16 forms) relating to the posting issuer instead of just to the home page or general search page of the third-party service.<SUP> 53 </SUP> 
+
+Three commenters addressed where hyperlinks must lead. Two of the commenters urged that we not require a hyperlink to each individual Section 16 form because such a requirement would be unduly burdensome. The third commenter asked whether the hyperlink could be to a site with all Commission filings related to the issuer or whether it had to be to a site that contained only Section 16 forms or a list of them. As stated in the list of conditions above, the hyperlink must lead directly to the Section 16 forms or to a list of them. It is possible, for example, to link to the Section 16 forms relating to an issuer in the EDGAR database on our website in a manner that does not require an update each time another Section 16 form is filed as to that issuer.<SUP> 54 </SUP> 
+
+Two commenters addressed hyperlink captions. One of these commenters asked how specific the caption should be and the other suggested that we clarify that the link must be displayed clearly. We clarify that the link caption must indicate clearly that the link leads to the issuer's insiders' Section 16 forms. 
+
+Two commenters questioned whether an issuer always could post Section 16 filings by the end of the business day after filing. The commenters noted that, even where an insider complies with the Rule 16a-3(e)<SUP> 55 </SUP> requirement to send or deliver a duplicate of a Section 16 form to the issuer not later than the time the form is transmitted for filing with the Commission, the issuer still may receive the filing after the website posting deadline, for example when the insider sends the form by certified mail. We recognize that issuers may need to coordinate more closely with their insiders to avoid this concern, but that such coordination may not always be practicable, particularly with more than 10% beneficial owners.
+
+Rule 16a-3(e) requires the insider to send or deliver the duplicate to the person designated by the issuer to receive such statements, or, in the absence of such designation, to the issuer's corporate secretary or person performing equivalent functions. In making this designation, we would expect an issuer also to designate an electronic transmission medium compatible with the issuer's own systems, so that a form sent via that medium at the time specified by Rule 16a-3(e) would be received by the issuer in time to satisfy the website posting deadline. To assure that insiders are aware of the designated person and electronic transmission medium, we encourage issuers to post this information on their websites together with the Section 16 filings. Of course, issuers also may consult EDGAR to obtain notice of new filings. We also note that the concern about obtaining an electronic copy of the filing would not arise for issuers that rely on a hyperlink (for example, to EDGAR) instead of, or in addition to, direct website posting.
+
+Two commenters addressed posting duration. One favored a one-year period and the other favored at least a one-year period (noting that we might want to lengthen the period to allow investors to spot trends). As adopted, Rule 16a-3(k) requires each form to remain accessible on the issuer's website for at least a 12-month period. We believe that a 12-month period that begins when the form is posted strikes the right balance between the issuer effort needed to post and the investor benefit from having access to the Section 16 forms through the additional source of the issuer's website. In this regard, we note that the Section 16 forms will be available indefinitely in the EDGAR database on our website.
+
+One commenter addressed rule-mandated Form 3 posting in the absence of a statutory requirement. The commenter favored our proposal to mandate Form 3 posting on the basis that it would provide timely and complete disclosure regarding initial ownership positions and, therefore, prove useful in assessing changes. We also conclude that mandated posting of Form 3 is appropriate. We believe that the benefits of wider dissemination of the fact that a person is an insider and that person's initial ownership will outweigh the marginal additional effort required to post these forms. Accordingly, we adopt this requirement as proposed.
+
+The website posting requirement will become effective at the same time as the electronic filing requirement. However, we continue to encourage issuers to post Section 16(a) reports on their websites before the implementation date.
+
+The Commission is modifying proposed Rule 16a-3(k) with respect to investment companies.<SUP> 56 </SUP> One commenter noted that a website that contains information about an investment company typically would be maintained by a separate entity, such as its investment adviser, and recommended that we tailor the rule to reflect this. We agree that this is appropriate and are modifying Rule 16a-3(k) to clarify that the requirement to post Forms 3, 4, and 5 applies to an investment company that does not maintain its own website if the company's investment adviser, sponsor, depositor, trustee, administrator, principal underwriter, or any affiliated person of the investment company maintains a website that includes the name of the investment company. If there is more than one such website, the investment company would be required to post its Forms 3, 4, and 5 on one such website. We would expect the investment company to use the same website to post all of its Forms 3, 4 and 5.<h>C. Rule 16a-3(h) </h>
+
+As proposed, we are deleting as no longer necessary the deemed timely filed provision in Rule 16a-3(h) under the Exchange Act, effective at the same time the Forms 3, 4 and 5 electronic filing requirement becomes effective. Rule 16a-3(h) will continue to state that the date of filing is the date of receipt by the Commission.<SUP> 57 </SUP> The deletion applies only to the rule's provision that a Form 3, 4 or 5 will be deemed timely filed if the filing person establishes that the form was timely delivered to a third party entity providing delivery services in the ordinary course of business that guaranteed delivery of the filing to the Commission no later than the required filing date. Because the "deemed timely filed" provision was designed for and applies only to paper filings, we believe it no longer will be needed once the electronic filing requirement is effective.
+
+One commenter suggested that we retain the "deemed timely filed" provision for guaranteed electronic filings, reasoning that a filer should not be considered delinquent when a third-party service provider fails to fulfill its filing guarantee. We believe, however, that in light of the improvements to EDGAR for Section 16 form filing discussed below, electronic filing can be readily accomplished and there will be no need for the "deemed timely filed" provision in the electronic context.<h>D. Hardship Exemptions and Adjustments of Filing Dates </h>
+
+Rules 201 and 202 of Regulation S-T<SUP> 58 </SUP> address hardship exemptions from EDGAR filing requirements and Rule 13(b) of Regulation S-T<SUP> 59 </SUP> addresses the related issue of filing date adjustments.
+
+A filer may obtain a temporary hardship exemption under Rule 201 if it experiences unanticipated technical difficulties that prevent the timely preparation and submission of an electronic filing by filing a properly legended paper copy<SUP> 60 </SUP> of the filing under cover of Form TH.<SUP> 61 </SUP> A filer who files in paper under the temporary hardship exemption must submit an electronic format copy of the filed paper document within six business days of the filing of the paper format document.<SUP> 62 </SUP>
+
+A filer may apply for a continuing hardship exemption under Rule 202 if it cannot file all or part of a filing without undue burden or expense.<SUP> 63 </SUP> In contrast to the self-executing temporary hardship exemption process, a filer can obtain a continuing hardship exemption only by submitting a written application, upon which the Commission staff must then act under delegated authority.
+
+Instead of pursuing a hardship exemption, a filer may request a filing date adjustment under Rule 13(b) of Regulation S-T.<SUP> 64 </SUP> This rule addresses circumstances where an electronic filer attempts in good faith to file a document with the Commission in a timely manner but the filing is delayed due to technical difficulties beyond the filer's control. In those instances, the filer may request an adjustment of the document's filing date. The staff may grant the request if it appears that the adjustment is appropriate and consistent with the public interest and the protection of investors. 
+
+In the Proposing Release, we asked questions regarding temporary hardship exemptions relating to whether to shorten electronic follow-up periods or, alternatively, eliminate the ability to use the temporary hardship exemption for Section 16 filings. Three commenters addressed hardship exemptions, urging us to keep the temporary hardship exemption available for Section 16 filings to accommodate the infrequent, deserving circumstances that arise or to adopt a tolerant attitude toward hardship exemption availability at least during the first 12 months of mandated electronic filing of Section 16 forms.
+
+After considering these comments, we have nonetheless decided to amend Rule 201(a) of Regulation S-T to make temporary hardship exemptions unavailable to Forms 3, 4 and 5 for the following reasons: 
+
+ the relative ease of using the new on-line filing system;
+
+ the extended 10 p.m. Eastern time filing deadline;<SUP> 65 </SUP>
+
+ the limited value to the public of paper filings; and
+
+ the availability of a filing date adjustment under the same circumstances a temporary hardship exemption would have been available. 
+
+We agree with the commenters that relief should be available when appropriate circumstances arise, no matter how infrequent. We believe, however, that this relief will be more appropriate if provided through a filing date adjustment rather than through a temporary hardship exemption. The temporary hardship exemption is best suited for use in connection with a transactional filing that must reach the Commission on a specific date in order for some action to be taken. For example, if a company must file a pre-effective amendment to a Securities Act registration statement in order to request immediate acceleration of effectiveness, technical difficulties may justify filing the registration statement in paper under a temporary hardship exemption. In contrast, when the filing is a Section 16 form, the public would be better served by having the document in electronic format. We believe an electronic Section 16 form is likely to arrive sooner where a filing date adjustment is used than it would were it to come in as a confirming copy after a temporary hardship exemption was used. 
+
+Filing date adjustments, as would have been true of temporary hardship exemptions, should be few in number given the relative brevity of Section 16 forms, the relative ease of electronically filing them through EDGAR's new on-line feature and the strong interest in timely and readily available disclosure of Section 16 forms. A failure to obtain timely an identification number or access codes will not justify a filing date adjustment.<SUP> 66 </SUP> Moreover, as is also the case with other forms required to be filed on EDGAR, upon effectiveness of the rules we adopt today, our filing desk will not accept in paper format any Form 3, 4 or 5<SUP> 67 </SUP> except in the highly unlikely event that the filing satisfies the requirements for a continuing hardship exemption under Regulation S-T.<SUP> 68 </SUP> A filing date adjustment will, however, be available in appropriate circumstances.<SUP> 69 </SUP><h>E. Item 405 of Regulation S-K </h>
+
+Recognizing that insiders may experience temporary difficulties in transitioning to mandated electronic filing, one commenter suggested that we provide issuers limited, temporary relief from disclosing Section 16 reporting delinquencies pursuant to Item 405 of Regulations S-K and S-B.<SUP> 70 </SUP> This disclosure is required in the issuer's proxy or information statement,<SUP> 71 </SUP> for the annual meeting at which directors are elected, and its Form 10-K<SUP> 72 </SUP>, 10-KSB<SUP> 73 </SUP> or N-SAR<SUP> 74 </SUP>. We are persuaded that temporary limited relief from Item 405 disclosure is appropriate for a Form 4 that is: 
+
+ filed not later than one business day following the regular due date, and
+
+ filed during the first 12 months following the effective date of mandated electronic filing. 
+
+We believe that this temporary relief will be helpful to issuers and insiders, without removing issuers' incentive to assist insiders with timely filing. Eligibility for this disclosure relief does not change the fact that any Form 3, 4 or 5 filed later than the applicable due date violates Section 16(a).<h>F. Forms 3, 4 and 5 </h>
+
+ We are adopting with minor revisions the proposed amendments to Forms 3, 4 and 5 mainly to facilitate the electronic filing provisions, as follows: 
+
+ Amend the introductory section before the General Instructions of Forms 3, 4 and 5 to delete the reference to IRS identification numbers. Consistent with that deletion, we amend each of the forms to delete Item 3 (before Table I), which provides a space for a filer that is an entity, at its option, to include an IRS identification number.<SUP> 75 </SUP> We believe this information is unnecessary in this context. An IRS identification number has not proved useful for tracking because only some filers provide it. Only non-natural person filers have been permitted to provide it and even they could choose whether to do so.
+
+ Amend the General Instructions to Forms 3, 4 and 5 to 
+
+ delete the references to the deemed timely filed provision in Rule 16a-3(h);<SUP> 76 </SUP> 
+
+ 
+
+ delete the statement that electronic filing is optional;<SUP> 77 </SUP> 
+
+ 
+
+ add a statement clarifying that electronic filing is mandatory absent a hardship exemption, referencing Regulation S-T, and describing how to obtain staff assistance in electronic filing;<SUP> 78 </SUP> 
+
+ 
+
+ revise the joint filer provisions to cross-reference the signature rule and separate out paper-only requirements;<SUP> 79 </SUP>and
+
+ 
+
+ add a note providing instructions for filing in paper pursuant to a hardship exemption.<SUP> 80 </SUP> 
+
+ Amend General Instruction 6 to Forms 3, 4, and 5 to indicate that if a filer runs out of space on the electronic form, the filer should put the additional information in a footnote, and if there is not enough room in the space provided for a footnote, the footnote should refer to an exhibit to the form<SUP> 81 </SUP> that contains the additional information.<SUP> 82 </SUP> Revised General Instruction 6 also adopts a numbering system for exhibits.<SUP> 83 </SUP>
+
+ Add General Instruction 8 to Form 3 and General Instruction 9 to Forms 4 and 5 explaining how to present information in amendments to previously filed forms.<SUP> 84 </SUP>
+
+ Amend Item 4 of the items before Table I of Form 4 to clarify that it requires the date of the earliest transaction required to be reported.
+
+ Amend Item 6 of the items before Table I of Form 3 and Item 5 of the items before Table I of Forms 4 and 5 to require an amended form to specify the date the original form was filed. 
+
+ Amend the heading of Form 5 to clarify it by adding at the end "of Securities."
+
+ Amend Items 4 and 5 of the items before Table I of Form 5 to require that, when addressing the date as to which the form is filed, a day be specified in addition to, as previously required, a month and year. Adding a day requirement will result in a full date that will ease processing and searches.
+
+ Amend Item 4 of the items before Table I of Form 5 to clarify that it requires the issuer's fiscal year end date.
+
+ Amend Form 5 by adding, in the space immediately below Table I and immediately above the sentence regarding multiple reporting persons, a reminder regarding separate line reporting of different securities classes and forms of ownership. 
+
+ Amend the heading of column 9 of Table II of Form 5 to clarify that the reference to "year" is a reference to the issuer's fiscal year, which will make the heading consistent with the heading of column 5 of Table I of Form 5.
+
+ Amend the heading of column 10 of Table II of Form 5 to add the word "form" to clarify that the column requires disclosure of ownership form ( i.e. , direct or indirect) and conform the heading with its counterparts in Table I of Form 5 and Tables I and II of Forms 3 and 4.<SUP> 85 </SUP> 
+
+ Remove the reference to Social Security Numbers from the description of Securities Act Form 144.<SUP> 86 </SUP> This was inadvertently retained in previous rulemaking.<SUP> 87 </SUP><h>G. Form ET </h>
+
+We are making one change to the EDGAR system and the rules that affects all filings, not just Section 16(a) reports. Electronic filers have been permitted to make electronic submissions either as direct transmissions, via dial-up modem or Internet, or on magnetic cartridge.<SUP> 88 </SUP> However, the number of filers using magnetic cartridges is minimal. In the current calendar year, no filer has used magnetic cartridge transmission. During 2002, one filer filed one magnetic cartridge containing a single form. The filer apparently used the magnetic cartridge approach solely to avoid a temporary problem with direct transmission. Therefore, as proposed, we are eliminating<SUP> 89 </SUP> magnetic cartridges as a transmission medium and Form ET,<SUP> 90 </SUP> the transmittal form that must accompany all magnetic cartridge submissions.<SUP> 91 </SUP><h>H. Filing Hours </h>
+
+Rule 13(a) of Regulation S-T addresses electronic submission acceptance. Currently, persons can file by direct electronic transmission between the hours of 8 a.m. and 10:00 p.m., Washington, DC time on weekdays that are not federal holidays. An accepted filing for which transmission begins before 5:30 p.m. Eastern time is deemed filed on the same day. Generally, an accepted filing that begins after 5:30 p.m. is deemed filed on the next business day.<SUP> 92 </SUP> However, a post-effective amendment or registration statement filed to increase the number of securities registered as permitted by Securities Act Rule 462(b)<SUP> 93 </SUP> is deemed filed on the same business day (as long as it is received before 10 p.m.).<SUP> 94 </SUP>
+
+In the Proposing Release, we requested comment on amending Rule 13(a) to treat an accepted Form 3, 4 or 5 filing in the same manner as a Rule 462(b) filing for purposes of the deemed filing date. More commenters addressed filing hours than anything else. Eleven commenters supported the extension to 10 p.m. Two of those commenters also expressed support for an extension to midnight. Finally, four commenters expressed support for the ability to file 24 hours a day.
+
+The commenters supporting a Rule 462(b) type extension to 10 p.m. or midnight generally took the view that 
+
+ the extension would ease administrative burdens, especially for filers that are natural persons or located in the western part of the U.S., particularly in light of the rapid Form 4 filing deadline; and
+
+ form dissemination still would occur no later than before the market opens the next business day, as is currently true for forms filed after market close but before 5:30 p.m. on a business day. 
+
+Commenters supporting 24-hour-a-day filing cited essentially the same views. In addition, two commenters stated their belief that the Commission would not need to be open 24 hours a day because forms filed when the Commission was closed could be held in a queue until re-opening. One commenter added its belief that the Commission should be able to perform maintenance and back-up without disrupting 24 hour-a-day filing.
+
+We agree that extended filing hours would ease filers' administrative burdens, without impairing prompt public availability of the filed information. Accordingly, we have amended Rule 13(a) to provide that any Form 3, 4 or 5 submitted by direct transmission on or before 10 p.m. Eastern time is deemed filed on the same business day.<SUP> 95 </SUP> However, filer support hours will not be correspondingly extended, so filer support will remain available only until 7:00 p.m. Eastern time. We encourage filers to submit their filings as early in the day as practicable, notwithstanding the 10 p.m. deadline, to avoid the risk that last-minute difficulties will result in a late filing.
+
+The EDGAR system will be programmed to provide that a form filed between 5:30 p.m. and 10:00 p.m. Eastern time is assigned a filing date on the same business day and disseminated that evening. We expect this programming to be completed around the end of July 2003. Until then, EDGAR will continue to assign the next business day to these filings as their filing date and disseminate them on the next business day. However, from the effective date of the amendments until the programming is completed, we will apply amended Rule 13(a) to consider a Form 3, 4 or 5 to be timely filed based on the time of receipt displayed on our website. A form with a time of receipt on or before 10 p.m. will be deemed to be filed on the date of receipt.<h>III. THE NEW ELECTRONIC FILING SYSTEM </h>
+
+The Proposing Release discussed our plans for a new on-line filing system to make it easier to file Forms 3, 4 and 5 and easier to locate and search for the data in these forms. In March 2003, the Commission made the new system available for testing. In its initial version, insiders and those who acted on their behalf were able to access our website to fill out and submit test forms. On May 5, 2003, EDGAR Release 8.5 became effective and the new system went live and began to provide the method for insiders to file electronically.<SUP> 96 </SUP> As a result, EDGARLink filing no longer is available for these forms.<SUP> 97 </SUP>
+
+Users of the test site commented that the new system was easy to use and intuitive. They identified some improvements that would be beneficial to filers. Most of these changes will be implemented in EDGAR Release 8.6, currently scheduled for the end of July.<SUP> 98 </SUP>
+
+Some filers, either directly or through agents, may wish to create a customized form and file it as a reduced content filing. A reduced content filing is a filing that provides header information ( e.g ., form type) and the data for mandatory fields that we specify and otherwise complies with specified technical filing requirements. In March 2003, we announced the necessary reduced content specifications, including, mandatory fields and technical filing requirements, to provide adequate preparation time before the new system's implementation.<SUP> 99 </SUP> Reduced content filings will enable issuers and insiders to use third-party service providers for filings, if they wish to do so, just as they do today.
+
+In order to file, persons will need the same codes as are required to file on EDGARLink. Persons can acquire the codes only by submitting a Form ID.<SUP> 100 </SUP> We urge Form ID filers to keep the information they provide up to date by revising the information on-line through our website as necessary. Companies and other third party filing agents with appropriate access codes will continue to be able to submit forms on behalf of insiders.<SUP> 101 </SUP> We expect to introduce enhanced verification procedures in the future. 
+
+Under the new system, if a filing is made on behalf of multiple insiders, each insider will be required to have a Central Index Key (CIK) and CIK Confirmation Code (CCC) for validation.<SUP> 102 </SUP> Multiple insiders will be allowed to report on a single form only if they all have an interest in a transaction or holding reported.
+
+To access and file the forms through our website, filers must begin by having valid EDGAR access codes and logging on to the site. A button on the menu will give filers the option to create an on-line Form 3, 4 or 5, or an amendment to any of these forms. The filer should have all the necessary information available before going on-line to file. Due to cost and technical limitations, data entry must be performed quickly enough to avoid time-outs that end the session. A time-out will occur one hour following the user's last activity on the system. The system will not be able to provide a way to save an incomplete form on-line from session to session. The system will validate as many fields as possible for data type and required fields while the filer fills in the form. Filers will have the chance to correct errors and verify the accuracy of the information before submitting the filing. An on-line help function will be available.
+
+The filer will be able to download and print the filing and add attachments before submission.<SUP> 103 </SUP> Once the filing is submitted, the system will display the accession number of the filing or a message that says the accession number will follow in a return notification.<SUP> 104 </SUP> A filer will be able to obtain a return copy of the form shortly after filing, and also will be able to see the filing on our website. Filers who submit their forms directly by entering information into the on-line templates must click on the "Transmit Submission" button on or before 10:00 p.m. Eastern time on a Commission business day for the submission to be completed that day. Similarly, a reduced content filing must begin transmission on or before 10:00 p.m. Eastern time to be completed the same day.
+
+Summarized below are comments we received regarding the system relating to access codes, filing options and system features, and our responses.
+
+Four commenters asked us to address the situation where a Form ID is filed to obtain a new CCC access code for an insider who already has a CCC code. Two commenters stated that this can happen, for example, where an insider serves on multiple boards and more than one issuer arranges Form ID filing. The situation cited is that a new CCC is issued, which cancels the previous CCC. As a result, an attempt to file arranged by a person unaware of the change could result in an error message, delay and extra effort. As potential alternative resolutions, commenters suggested that the Commission: 
+
+ in response to a repeat Form ID, either provide the existing codes and permission to use them or return the Form ID to the insider with a notice that the insider already has access codes;
+
+ provide a mechanism to allow filers to determine whether the insider already has access codes;<SUP> 105 </SUP>
+
+ provide separate access code sets with respect to each issuer as to which the person files reports;<SUP> 106 </SUP> or 
+
+ take the position that a good faith attempt to obtain and use codes that results in mishandling or termination of existing codes constitutes a valid basis for a temporary hardship exemption.<SUP> 107 </SUP> 
+
+We are sensitive to the concerns expressed regarding granting access codes to individuals. In some cases, an individual is an insider of more than one issuer. The staff takes care to assign only one CIK code to each individual, regardless of the number of issuers as to which the person files reports. When multiple issuers request CIK codes for the same individual, however, occasionally new access codes are assigned in error. Often one issuer tells the staff that the original codes have been lost or compromised when, in fact, the insider is using them when submitting filings as to another issuer. When new codes are generated for the same person, as identified by the unique CIK code, the previously generated codes become invalid.
+
+We are exploring potential methods for the system to identify uniquely each insider and enable an insider, or an issuer or other third party acting on the insider's behalf, to manage the access codes more effectively and arrange new access codes, if necessary, on a real-time basis. Ultimately, we may address the situation even more broadly ( i.e ., not only in the context of Section 16 filings). For the time being, however, we urge 
+
+ insiders to file Forms ID well in advance of when they expect to need codes, to keep track of their codes and to advise issuers for which they later become insiders of their existing codes; and
+
+ issuers and other third parties involved in the filing process to inquire whether an insider already has codes before submitting a Form ID filing on the insider's behalf.<SUP> 108 </SUP> 
+
+Five commenters addressed alternatives to limiting electronic filing of insider reports to the new on-line system. All five commenters suggested that insiders remain able to file through the current EDGARLink system during at least the initial few months of the new on-line system. Among their reasons were to provide more time for third-party software development, facilitate a smoother transition and enable filers to prepare a submission in advance (and thereby ease proofreading).
+
+We have considered the commenters' suggestions and concerns regarding alternate methods of filing. However, due to technical and resource limitations, we cannot maintain parallel systems, such as EDGARLink and the new on-line system. 
+
+A significant number of commenters addressed the operation of the new on-line system. They addressed input features generally, the relationship between reduced content filings and on-line filing, and technical issues regarding data format and tagging.
+
+Commenters suggested input features that are user-friendly in general and, in particular, allow users to 
+
+ save incomplete forms for the next on-line session;
+
+ complete forms off-line and file them on-line;
+
+ use an unlimited number of lines in each transaction table;
+
+ receive a warning before a time-out;
+
+ avoid separately converting attachments into an EDGAR format;
+
+ avoid the need to input data manually into fields automatically populated based on, for an initial report, information in the Form ID and, for a subsequent report, information in the last previous report;
+
+ access instructions from the related part of the on-line template; and
+
+ use pull-down menus for a variety of items. 
+
+The system allows users to avoid separately converting attachments into an EDGAR form<SUP> 109 </SUP> and allows users to use pull-down menus in responding to some items. As the Commission staff and filers develop operational experience with the on-line filing system, we plan to consider whether pull-down menus would be feasible for additional items. 
+
+Due to cost and storage limitations, the system currently does not allow users to: 
+
+ save incomplete forms for the next on-line session (but the system does allow users to print their incomplete forms and, thereby, retain a hard copy);
+
+ complete forms off-line and file them on-line except by using a third party or other reduced content filing process;
+
+ use an unlimited number of lines in each transaction table (but we believe the number of lines available adequate);
+
+ receive a warning before a time-out; 
+
+ avoid the need to input data manually into fields automatically populated based on, for a Form 4 or Form 5, information in the last previous report (but some fields will be populated automatically based on information in the Form ID ( e.g. , the insider's name)); or
+
+ access instructions from the related part of the on-line template. 
+
+We plan to consider these features and other improvements in connection with potential future system enhancements. We encourage system users to continue to provide their comments and suggestions to the staff.
+
+Six commenters asked questions or cited concerns about data tagging and the format selected for information filed and displayed. The system requires that information be filed in the standard format of XML. We will disseminate that information on our website in two formats - viewable through a form and XML tagged. Users can take the XML tagged information and download it into an existing application or create an application to use the information. We believe that our approach to filing and dissemination formats makes it relatively easy to file, access and analyze insider beneficial ownership information.
+
+Some commenters requested that we put Forms 3, 4 and 5 and their amendments in a separate area of our website. They stated that this would provide easy access to the information for members of the public interested in these forms. We believe that the same effect has been accomplished by providing the ability on our website to make a search limited to these forms, as well as the ability to search for company filings excluding these forms.<SUP> 110 </SUP><h>IV. PAPERWORK REDUCTION ACT </h>
+
+ The amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<SUP> 111 </SUP> We published a notice requesting comment on the collection of information requirements in the Proposing Release, and submitted these requirements to the Office of Management and Budget ("OMB") for review.<SUP> 112 </SUP> These requests are pending before the OMB. When we receive OMB clearance, we will publish notice in the Federal Register. We did not receive any comments on the Paperwork Reduction Act analysis contained in the Proposing Release.
+
+Consistent with the will of Congress, the amendments that affect all of these information collections, except for Form ET, generally conform the amended rules and forms to the mandated electronic filing requirements provided by the amendments to Section 16(a) enacted in Section 403 of the Sarbanes-Oxley Act.
+
+Compliance with the adopted amendments will be mandatory. The information required by the amendments will not be kept confidential by the Commission except that the information required by Form ID will be kept confidential, subject to a request under the Freedom of Information Act.<SUP> 113 </SUP>
+
+An agency may not conduct or sponsor, and a person is not required to respond to, an information collection unless it displays a currently valid OMB control number. The titles of the affected information collections are the EDGAR Forms ID, ET, SE and TH, and Exchange Act Forms 3, 4 and 5. The changes made to the proposed amendments would not increase the burden estimates for Forms ID, ET, SE and TH previously submitted to the OMB.<SUP> 114 </SUP> We expect that the adopted amendments will obligate reporting persons to disclose on Forms 3, 4 and 5 essentially the same information that they are required to disclose today.<SUP> 115 </SUP><h>V. COST-BENEFIT ANALYSIS </h>
+
+The adopted amendments relating to mandated electronic filing and website posting largely represent the implementation of a Congressional mandate. As we stated in the Proposing Release, we expect these amendments will achieve the same benefits for investors and filers that we sought when we first adopted mandated EDGAR rules for most filings.<SUP> 116 </SUP>
+
+We solicited comment on the expected benefits and costs and on any others that could result from adoption of mandated electronic filing and website posting requirements. We also requested data as to what percentage of filings are done by or with the help of the issuer. We discuss the responses below.<h>A. Benefits </h>
+
+We expect the adopted amendments regarding mandated electronic filing and website posting to benefit investors and filers.
+
+Mandated electronic filing should benefit members of the investing public and financial community by making information contained in Commission filings easily available to them minutes after receipt by the Commission and, thereby, make them more likely to access and act quickly on the information. The electronic format of the information should facilitate research and data analysis. The new accelerated Section 16(a) filing requirement described above should make quick electronic access even more valuable.
+
+Filers should benefit from changes to the electronic filing system specifically designed to make electronic filing easier while continuing to provide speedy, secure and reliable delivery. 
+
+The use of EDGAR also will facilitate more efficient storage, retrieval and analysis of ownership and transaction information than filing in paper. Quicker access to ownership and transaction information should not only facilitate review of the information but also enhance the Commission's ability to study and address issues that relate to this information. 
+
+Website posting by issuers with corporate websites will provide a convenient, rapidly disseminated electronic source in addition to EDGAR that is conducive to research and data analysis. In general, website posting will help to make ownership and transaction information more broadly accessible.
+
+Of the commenters that expressed support for some or all of the proposed amendments, three cited benefits among those we stated we expected to result. All three commenters cited more timely access to information. Two commenters cited easier access to information. No commenter provided data to quantify the value of benefits identified.<h>B. Costs </h>
+
+We expect that the adopted amendments regarding mandated electronic filing and website posting will result in some costs to insiders and issuers. However, we expect that many insiders and issuers will not bear the full range of costs resulting from the adoption of these amendments for the reasons described below.
+
+The expected costs of mandated electronic filing consist of both initial and ongoing costs. Initial costs are those associated with obtaining, completing and sending to the Commission a Form ID to obtain filing credentials, and the purchase of compatible computer equipment and software. Initial costs further include those associated with learning about the electronic filing system, placing the filing data in electronic format for the initial electronic filing and subscribing to an Internet service provider. Ongoing costs are those associated with maintaining the framework developed through the initial costs (for example, updating information required by Form ID) and any additional costs arising from each subsequent filing (for example, placing the new filing data in electronic format).<SUP> 117 </SUP>
+
+We expect that many insiders will incur few, if any, additional costs from electronic filing. We understand that many issuers help their insiders or submit the insiders' filings on their behalf. To the extent insiders do not receive this assistance, we believe many already will have the necessary computer equipment and Internet access to enable them to file using the templates that will appear on the Commission's website. Finally, some insiders already have filed Forms ID and gained experience in arranging electronic filing. As previously noted, approximately 38% of the Forms 3, 4 and 5 filed in March 2003 were filed electronically.
+
+Even issuers that help their insiders to file electronically, whether to a greater or lesser extent, are not likely to incur additional costs. These issuers already are required to file on EDGAR and generally have the needed computer equipment and Internet service provider access to enable them to facilitate filing using the templates that will appear on the Commission's website.
+
+Issuers should incur relatively few direct costs from the website posting requirement. Because the requirement applies only to issuers that already have a corporate website, issuers will not need to incur the costs associated with creating or maintaining a website. In addition, issuers could limit their additional costs associated with posting by hyperlinking to a third-party website such as EDGAR.<SUP> 118 </SUP>
+
+Of the commenters expressing concerns in terms of cost or burden, most expressed concern about filing hours. Five commenters essentially stated that a 5:30 p.m. Eastern time filing deadline would be overly burdensome.<SUP> 119 </SUP> As we noted earlier, we are extending the filing deadline to 10:00 p.m. Eastern time. 
+
+Two commenters expressed concern about the burden on issuers that satisfy their website posting requirement by hyperlinks if we require the hyperlinks to be updated with each Section 16 report filing. As we noted earlier, it is possible, for example, to link to the Section 16 reports relating to an issuer in the EDGAR database on our website in a manner that does not require an update each time another Section 16 report is filed as to that issuer.
+
+One commenter stated that a failure to maintain EDGARLink as a filing option once the new system is in place would require third-party software providers to implement the new requirements outside the normal development cycle and, as a result, could place a considerable strain on their resources.<SUP> 120 </SUP> As we noted earlier, due to technical and resource limitations, we cannot maintain parallel systems.
+
+One commenter suggested that we make minor changes to the current EDGARLink approach rather than provide a new system in order to avoid overly burdensome costs to disseminators. We believe that approach would be inconsistent with our goal of establishing a user-friendly system. One commenter stated that if the new system is not user-friendly, we should not underestimate the costs.<h>VI. EFFECT ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION </h>
+
+Section 23(a)(2) of the Exchange Act<SUP> 121 </SUP> requires us, when adopting rules under the Exchange Act, to consider the impact that any new rule would have on competition. In addition, Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Furthermore, Section 2(b) of the Securities Act,<SUP> 122 </SUP> Section 3(f) of the Exchange Act<SUP> 123 </SUP> and Section 2(c) of the Investment Company Act require us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+The adopted amendments regarding mandated electronic filing and website posting are intended to facilitate the more efficient transmission, dissemination, analysis, storage and retrieval of insider ownership and transaction information.<SUP> 124 </SUP> This should improve investors' ability to make informed investment and voting decisions. Informed investment and voting decisions generally promote market efficiency and capital formation.
+
+In the Proposing Release, we considered the amendments in light of the standards set forth in the above statutory sections. We solicited comment on whether, if adopted, the proposed amendments would impose a burden on competition. We also requested comment on whether, if adopted, the proposed amendments would promote efficiency, competition and capital formation. Finally, we requested commenters to provide empirical data and other factual support for their views if possible.
+
+While several commenters stated that various aspects of the proposed amendments would result in undue burdens, only one commenter addressed anti-competitive effects. According to this commenter, the new on-line filing system would curtail the private sector business that provides software programs that facilitate insider filings. This commenter further asserted that this private sector business would innovate if not given an early disincentive from developing efficient filing systems. We believe that it is very important for insiders to have a user-friendly system that they can use relatively easily to fulfill their filing obligations. We further believe that such a system will not discourage significantly private sector businesses that develop filing software because these businesses can provide features the new on-line system does not.<h>VII. FINAL REGULATORY FLEXIBILITY ACT ANALYSIS </h>
+
+This Final Regulatory Flexibility Analysis or FRFA, has been prepared in accordance with the Regulatory Flexibility Act.<SUP> 125 </SUP> This FRFA relates to amendments regarding mandated electronic filing and website posting of Forms 3, 4 and 5.<SUP> 126 </SUP><h>A. Need for the Amendments </h>
+
+An issuer's insiders use Forms 3, 4 and 5 to report beneficial ownership of and trading in equity securities of the issuer. Consistent with the will of Congress, the adopted mandated electronic filing and website posting amendments generally conform the amended rules and forms to the mandated electronic filing and website posting requirements provided by the amendments to Section 16(a) enacted in Section 403 of the Sarbanes-Oxley Act. In addition, we believe the proposed amendments will benefit investors, filers and the Commission.<h>B. Significant Issues Raised by Public Comment </h>
+
+The Initial Regulatory Flexibility Act Analysis ("IRFA") appeared in the Proposing Release. We requested comment on any aspect of the IRFA, including the number of small entities that would be affected by the proposals, the nature of the impact, and how to quantify the impact of the proposals. We received no comment letters responding to the request.<h>C. Small Entities Subject to the Amendments </h>
+
+The mandated electronic filing and website posting amendments will affect small entities that either are insiders that are not natural persons or are issuers with a corporate website that have a class of equity securities registered under Exchange Act Section 12.
+
+Exchange Act Rule 0-10(a)<SUP> 127 </SUP> defines an entity, other than an investment company, to be a "small business" or "small organization" if it had total assets of $5 million or less on the last day of its most recent fiscal year. As of March 30, 2003, we estimated that there were approximately 8840 insiders<SUP> 128 </SUP> and fewer than 2500 issuers that have a class of equity securities registered under Exchange Act Section 12, other than investment companies, that may be considered small entities. The mandated electronic filing amendments will apply to all of these insiders. The mandated website posting amendments will apply to all of these issuers with corporate websites.
+
+For purposes of the Regulatory Flexibility Act, an investment company is a small entity if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less as of the end of its most recent fiscal year. As of June, 2002, we estimate that there were 36 closed-end investment companies, and 29 business development companies, that are "small entities" for purposes of the Regulatory Flexibility Act that possibly could be affected by the amendments.<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+Before the effective date of the rule and form amendments adopted in this release, insiders may file Forms 3, 4 and 5 in paper or electronically and issuers with corporate websites need not post Forms 3, 4 and 5 as to their equity securities on their websites. The amendments require insiders to file these forms electronically and issuers with corporate websites to post these forms. Because insiders already file these forms in paper, the only additional professional skills insiders will need will be those required to file electronically. Because the website posting requirements apply only to issuers that already have corporate websites, we believe these issuers will need no additional professional skills to post these forms on their websites. We expect that filing electronically and website posting will increase costs incurred by some small entities. However, we expect that many small entity insiders and small entity issuers will not bear the full range of costs resulting from the adoption of these amendments for the reasons described below.
+
+The expected costs of mandated electronic filing consist of both initial and ongoing costs. Initial costs are those associated with obtaining, completing and sending to the Commission a Form ID to obtain filing credentials, and the purchase of compatible computer equipment and software. Initial costs further include those associated with learning about the electronic filing system, placing the filing data in electronic format for the initial electronic filing and subscribing to an Internet service provider. Ongoing costs are those associated with maintaining the framework developed through the initial costs (for example, updating information required by Form ID) and any additional costs arising from each subsequent filing (for example, placing the new filing data in electronic format).<SUP> 129 </SUP>
+
+We expect that many small entity insiders will need to incur few, if any, additional costs from electronic filing. Some issuers may help their small entity insiders or submit the small entity insiders' filings on their behalf. To the extent small entity insiders do not receive this assistance, we believe many already will have the necessary computer equipment and Internet access to enable them to file using the templates that will appear on the Commission's website. Finally, some small entity insiders already may have filed Forms ID and gained experience in arranging electronic filing.<SUP> 130 </SUP>
+
+Even those small entity issuers that assist their insiders to file electronically, whether to a greater or lesser extent, are not likely to incur additional costs. Small entity issuers already are required to file on EDGAR and generally have the necessary computer equipment and Internet service provider access to enable them to facilitate filing using the templates that will appear on the Commission's website.
+
+Small entity issuers should incur relatively few direct costs from the website posting requirement. Because the requirement applies only to those small entity issuers that already have a corporate website, small entity issuers will not need to incur the costs associated with creating or maintaining a website. In addition, small entity issuers could limit their additional costs associated with posting by hyperlinking to a third-party website such as EDGAR.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+As required by the Regulatory Flexibility Act, we have considered alternatives that would accomplish our stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered the following alternatives: 
+
+ the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;
+
+ the clarification, consolidation, or simplification of filing or posting requirements;
+
+ the use of performance rather than design standards; and
+
+ an exemption from the electronic filing and website posting requirements, or any part of them, for small entities. 
+
+We believe that differing compliance or reporting requirements or timetables for small entities (or a partial or complete exemption) would be inconsistent with the will of Congress as reflected in amended Section 16(a) and the more efficient transmission, dissemination, analysis, storage and retrieval of insider ownership and transaction information in a manner that will benefit investors, filers and the Commission. We did not receive any response to our solicitation of comment on whether differing compliance or reporting requirements or timetables for small entities would be consistent with the statutory mandate and described goals. We believe that the adopted electronic filing and website posting requirements are clear and straightforward. We have attempted to design an electronic filing system for these forms that will be simple for all filers to use. Therefore, it does not seem necessary to develop separate requirements for small entities. We have used design rather than performance standards in connection with the electronic filing and website posting requirements because we want investors to know where to find the information, and want both investors and the Commission to be readily able to analyze, store and retrieve the information involved. We also want the information disseminated to be in a comparable form for both large and small issuers. We do not believe that performance standards for small entities would be consistent with the purpose of the statutory amendments.<h>VIII. STATUTORY BASIS </h>
+
+<END MAIN TEXT>
+
+1 The amendments were proposed in Release No. 33-8170 (Dec. 27, 2002) [67 FR 79466] ("Proposing Release").
+
+2 17 CFR 232.13.
+
+3 17 CFR 232.101.
+
+4 17 CFR 232.104.
+
+5 17 CFR 232.201.
+
+6 17 CFR 232.10 et seq .
+
+7 17 CFR 240.16a-3(h).
+
+8 17 CFR 249.103, 249.104 and 249.105. Forms 3 and 4 also are authorized under the Investment Company Act of 1940 ("Investment Company Act") [15 U.S.C. 80a-1 et seq .] under 17 CFR 274.202 and 274.203.
+
+9 15 U.S.C. 78 et seq .
+
+10 17 CFR 239.62, 249.445, 259.601, 269.6 and 274.401.
+
+11 17 CFR 232.12.
+
+12 17 CFR 230.110.
+
+13 15 U.S.C. 77a et seq .
+
+14 17 CFR 239.144.
+
+15 17 CFR 240.0-2.
+
+16 17 CFR 250.21.
+
+17 15 U.S.C. 79a et seq .
+
+18 17 CFR 260.0-5.
+
+19 15 U.S.C. 77aaa et seq .
+
+20 15 U.S.C. 78p.
+
+21 15 U.S.C. 78 l .
+
+22 15 U.S.C. 78p(a).
+
+23 Insiders file initial reports on Form 3.
+
+24 Rule 3a12-3 [17 CFR 240.3a12-3] provides that securities registered by a foreign private issuer, as defined in Rule 3b-4 [17 CFR 240.3b-4], are exempt from Section 16. The legislative and regulatory actions addressed in this release do not change this exemption.
+
+25 Section 16(a) also requires reporting persons to file their initial and transactional reports with each national securities exchange on which the issuer lists its equity securities. For classes of securities listed on the New York Stock Exchange, the American Stock Exchange and the Chicago Stock Exchange, filing Section 16(a) reports on EDGAR satisfies the requirements of Section 16(a)(1) (as amended) and Rule 16a-3(c) to file the reports with the exchange on which the securities are listed. See staff no-action letters to New York Stock Exchange (Jul. 22, 1998), American Stock Exchange (Jul. 22, 1998) and Chicago Stock Exchange (Jan. 18, 1998).
+
+26 As defined in Section 206B of the Gramm-Leach-Bliley Financial Modernization Act of 1999, as amended by H.R. 4577, P.L. No. 106-554, 114 Stat. 2763.
+
+27 Insiders file transaction reports on Forms 4 and 5.
+
+28 Rule 101(b)(4) of Regulation S-T [17 CFR 232.101(b)(4)]. The percentage of Forms 3, 4 and 5 filed electronically on the current EDGAR system increased from approximately 8% in June 2002 (the last month before the Sarbanes-Oxley Act was enacted) to approximately 15% in August 2002 (the month the accelerated filing deadline took effect). The percentage held at approximately 15% in September 2002 but increased to approximately 25% in October 2002 and remained at that level in November 2002. The percentage subsequently increased to approximately 31% in December 2002, approximately 35-36% in January and February 2003, and approximately 38% in March 2003.
+
+29 P. L. No. 107-204, 116 Stat. 745.
+
+30 Section 16(a)(4), as amended by Section 403 of the Sarbanes-Oxley Act.
+
+31 Release No. 33-6977 (Feb. 23, 1993) [58 FR 14628].
+
+32 Release No. 33-7241 (Nov. 13, 1995) [60 FR 57682].
+
+33 Release No. 33-7369 (Dec. 5, 1996) [61 FR 65440].
+
+34 Release No. 33-7803 (Feb. 25, 2000) [65 FR 11507].
+
+35 Release No. 33-7855 (Apr. 27, 2000) [65 FR 24788]. We generally have addressed the electronic filing of Form 144 [17 CFR 239.144] in the same releases as we have addressed the electronic filing of Forms 3, 4 and 5. Although the adopted amendments do not address the electronic filing of Form 144, we may in the future propose to require that form also to be filed electronically.
+
+36 The comment letters and a summary of comments are available for public inspection and copying in our Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549, in File No. S7-52-02. Public comments submitted electronically and the summary of comments are available on our website at http://www.sec.gov.
+
+37 Before enactment of the Sarbanes-Oxley Act, Section 16(a) generally required insiders to file a transaction report within 10 days of the close of the month in which the transaction occurred. The Sarbanes-Oxley Act amended Section 16(a), effective for transactions on or after August 29, 2002, to require insiders to file a transaction report "before the end of the second business day following the day on which the subject transaction has been executed, or at such other time as the Commission shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible" [Section 16(a)(2)(C) (15 U.S.C. 78p(a)(2)(C)), as amended by Section 403 of the Sarbanes-Oxley Act]. On August 27, 2002, we adopted rule and form amendments to implement the accelerated filing deadline [Release No. 34-46421 (Sept. 3, 2002) [56 FR 56462]].
+
+38 The commenters on the Proposing Release that primarily represent investor interests and the one individual commenter all supported required electronic access.
+
+39 Cf . In the Matter of Bettina Bancroft, Release No. 34-32033 (Mar. 23, 1993).
+
+40 Section 16(a)(2)(C), as amended by Section 403 of the Sarbanes-Oxley Act.
+
+41 Rule 16a-1(c) [17 CFR 240.16a-1(c)].
+
+42 See Section II.G of Release No. 34-34514 (Aug. 10, 1994) [59 FR 42449] and Section IV.H of Release No. 34-37260 (May 31, 1996) [61 FR 30376], addressing Section 16(a) reporting of equity swaps and instruments with similar characteristics.
+
+43 Release No. 33-8107 (Jun. 21, 2002) [67 FR 43234].
+
+44 Regulation S-T is the general regulation governing EDGAR filing. In addition to complying with Regulation S-T, filers must submit electronic documents in accordance with the instructions in the EDGAR Filer Manual.
+
+45 We also are adopting an amendment to Rule 104(a) of Regulation S-T to make it clear that unofficial PDF copy submissions are unavailable to Forms 3, 4 and 5.
+
+46 Regulation S-T Rule 101(a)(1) [17 CFR 232.101(a)(1)]].
+
+47 17 CFR 240.16a-3.
+
+48 In Release No. 33-7856 (Apr. 28, 2000) [65 FR 25843] (the "2000 Release"), we provided interpretive guidance on the possible effects of hyperlinking to a third-party website. See the 2000 Release, at n. 48 and the accompanying text.
+
+49 Hyperlinking to these Forms in the EDGAR database on the Commission's website will satisfy the posting requirement if the conditions in this section otherwise are met. EDGAR currently displays Forms 3, 4 and 5 filed electronically and will do so under the contemplated on-line system, in both cases shortly after filing and within the period required by Section 16(a)(4)(B) (by the end of the business day after filing).
+
+50 In this regard, we note that some third-party service providers publish only Table I information, which would not satisfy this condition. The third-party display format would need to publish all form information in order for a hyperlink to satisfy the issuer's website posting requirement.
+
+51 See, for example, Release No. 33-7233 (Oct. 6, 1995) [60 FR 53458], at n. 24 and the accompanying text.
+
+52 If the issuer has a corporate website but does not normally disseminate information to investors through the website, it must provide access to the forms through a location on its website that it reasonably believes will facilitate user access to the forms.
+
+53 An issuer could present the viewer with an intermediate screen stating that the visitor is leaving the issuer's website. Also, a disclaimer of responsibility for the accuracy of the third-party service would not make the website posting ineffective for purposes of the posting requirement. See generally regarding issuer website posting Release No. 33-8128 (Sept. 16, 2002) [67 FR 58480], at n. 132 and accompanying text.
+
+54 For example, an issuer could use a link such as the following where the issuer's Central Index Key (CIK) code is 0000906648: http://www.sec.gov/cgi-bin/browse-edgar?company=&CIK=0000906648&owner=only&action=getcompany </sup> .
+
+55 17 CFR 240.16a-3(e).
+
+56 Insiders of exchange-traded investment companies are subject to Section 16. See Section 16(a) of the Exchange Act (requiring filing of Section 16 reports with respect to equity securities registered under Section 12 of the Exchange Act); Section 12(b) of the Exchange Act (registration of securities traded on a national securities exchange); Section 12(g) of the Exchange Act and Exchange Act Rule 12g-1 [17 CFR 240.12g-1] (requirement for registration of securities of issuers held by at least 500 persons and having total assets exceeding $10 million, with exclusion for any securities issued by a registered investment company). Further, Section 30(h) of the Investment Company Act [15 U.S.C. 80a-29(h)] specifies insiders of registered closed-end funds who are subject to the same duties and liabilities as those imposed by Section 16.
+
+57 The rule's equating date of filing with date of receipt was subject to the deemed timely filed provision before its deletion.
+
+58 17 CFR 232.201 and 232.202.
+
+59 17 CFR 232.13(b).
+
+60 See 17 CFR 232.201(a).
+
+61 17 CFR 239.65, 249.447, 259.604 and 269.10.
+
+62 See 17 CFR 232.201(b).
+
+63 See 17 CFR 232.202(a).
+
+64 17 CFR 232.13(b).
+
+65 See Section II.H below.
+
+66 See the note to Rule 10 of Regulation S-T [17 CFR 232.10] ("The Commission strongly urges any person or entity about to become subject to the disclosure and filing requirements of the federal securities laws to submit a Form ID [(through which an identification number and access codes are obtained)] well in advance of the first required [(electronic)] filing, . . ., in order to facilitate electronic filing on a timely basis").
+
+67 Rule 14 of Regulation S-T [17 CFR 232.14]. Paper filings under hardship exemptions must include the appropriate legend on the cover page so the file desk does not return the filing.
+
+68 It is unlikely that a continuing hardship exemption would be granted with respect to Forms 3, 4 or 5 given the nature of the information that appears in these forms and the expected ease of electronic filing.
+
+69 The staff generally does not grant filing date adjustments over extended periods of time. If technical difficulties prevent the filing from being made on the due date, it is important to address these difficulties as quickly as possible and request the filing date adjustment promptly after the filing is made.
+
+70 17 CFR 229.405 and 17 CFR 228.405.
+
+71 17 CFR 240.14a-101, Item 7.
+
+72 17 CFR 249.310.
+
+73 17 CFR 249.310b.
+
+74 17 CFR 274.101.
+
+75 We have renumbered the items that follow the deleted item. In this release, however, references to pre-Table I form items are to their numbers before renumbering.
+
+76 See former General Instruction 2(a) to Form 3, and former General Instruction 1(a) to Forms 4 and 5. These minor changes, not previously proposed, are needed to conform to the previously proposed and now adopted deletion of the deemed timely filed provision from Rule 16a-3(h).
+
+77 See former General Instruction 3(a) to Form 3, and former General Instruction 2(a) to Forms 4 and 5.
+
+78 See revised General Instruction 3(a) to Form 3 and revised General Instruction 2(a) to Forms 4 and 5. The adopted note omits the proposed language relating to temporary hardship exemptions.
+
+79 See revised General Instruction 5(b)(v) to Form 3 and revised General Instruction 4(b)(v) to Forms 4 and 5.
+
+80 See revised notes to General Instruction 3 of Form 3 and General Instruction 2 of Forms 4 and 5. The adopted note contains the proposed language with two exceptions. The adopted note omits the proposed language relating to temporary hardship exemptions. The adopted note includes a statement that at least one copy must be signed.
+
+81 Ownership and transaction information must be disclosed to the greatest extent possible in the forms' Tables I and II rather than in footnotes and attachments in order to maximize the value of EDGAR's tagging the data in the tables, and thus facilitate analysis.
+
+82 One commenter claimed that this amendment to General Instruction 6 would reduce disclosure and clarity by dispersing information to as many as three different places. We believe the amendment will not reduce disclosure and that filers can maintain clarity through cross-references. Further, we believe that the electronic forms provide adequate space on the forms and in the footnotes for almost all situations. It should be unusual for filers to need to provide additional explanatory material in a separate attachment.
+
+83 See revised General Instruction 6(c) to Forms 3, 4 and 5. The specified amendments to General Instruction 6 relating to exhibits are minor, clarifying amendments not previously proposed. We note that no exhibit, including, for example, a power of attorney, may be filed in paper, absent a hardship exemption, or on a stand-alone basis.
+
+84 This amendment as well as the amendments described in items 5, 6, 7, 9, 10, 12 and 13 of this Section II.D, are minor, clarifying amendments not previously proposed.
+
+85 We did not adopt the proposed amendment, appearing in the proposed regulatory text only, to modify the heading of Table II of Form 5 because the current heading of the form already reads as proposed.
+
+86 See 17 CFR 239.144, as amended.
+
+87 Release No. 33-7424 (July 1, 1997) [62 FR 35,338].
+
+88 See current Rules 12(b) and 12(c) of Regulation S-T [17 CFR 232.12(b) and 232.12(c)].
+
+89 See related amendments we are adopting, as proposed, to Securities Act Rule 110 [17 CFR 230.110], Rule 12 of Regulation S-T [17 CFR 232.12 and 232.103], Exchange Act Rule 0-2 [17b CFR 240.0-2], Public Utility Act Rule 21 [17 CFR 250.21], and Trust Indenture Act Rule 0-5 [17 CFR 260.0-5]. We also are adopting amendments we did not propose to revise a subauthority cite for Part 239 of Chapter 17 of the Code of Federal Regulations to reflect the deletion of Form ET and to add a previously omitted cite to the United States Code.
+
+90 17 CFR 239.62, 249.445, 259.601, 269.6 and 274.401.
+
+91 The one commenter to address magnetic cartridge transmission and Form ET favored their elimination.
+
+92 Rule 13(a)(2) of Regulation S-T [17 CFR 232.13(a)(2)].
+
+93 17 CFR 230.462(b).
+
+94 Rule 13(a)(3) of Regulation S-T [17 CFR 232.13(a)(3)].
+
+95 17 CFR 232.13(a)(4).
+
+96 Each new EDGAR release represents an updated version of the EDGAR system. See the draft Filer Manual for Release 8.5 on our website at http://www.sec.gov/info/edgar/filermanual85.htm .
+
+97 As previously discussed, unofficial PDF copy submissions are unavailable to Forms 3, 4 and 5.
+
+98 The principal needed improvement relates to modifying mandatory field requirements for certain holdings and types of transactions. On May 1, 2003, we released interim guidance on how to report the affected items before this improvement is made. The interim guidance is available on our website at http://www.sec.gov/divisions/corpfin/sec16faq.htm .
+
+99 The mandatory fields and technical filing requirements are available on our website at http://www.sec.gov/info/edgar/edgar85xmlspec.htm .
+
+100 17 CFR 239.63, 249.446, 259.602, 269.7 and 274.402.
+
+101 Companies and other third party filing agents will need, in addition to their own access codes, the CIK and CCC codes of the insiders on whose behalf they file.
+
+102 In contrast, on EDGARLink, only one of the insiders needed a CIK and CCC.
+
+103 Filers should reference attachments in the form as exhibits and number them for clarity. As described above, a new General Instruction to each form specifies how exhibits should be numbered. In the rare event that a filer files an exhibit separately in paper under a continuing hardship exemption, the filer should place a Form SE [17 CFR 239.64, 249.444, 259.603, 269.8 and 274.403] cover on the exhibit. Use of Form SE for this purpose will help assure the exhibit is linked to the form.
+
+104 An "accession number" is a unique number generated by EDGAR for each electronic submission. Assignment of an accession number does not mean that EDGAR has accepted a submission.
+
+105 We assign to every person that requests access codes a CIK code unique identifier that is available publicly, for persons that have used their CIK code in making a filing, on our website under the "Companies and Other Filers" search at http://www.sec.gov/edgar/searchedgar/companysearch.html .
+
+106 Providing separate access codes as to each issuer would make it more difficult to find all the filings of a given insider and, thereby, undermine our goals of facilitating rapid and easy access to information.
+
+107 As previously discussed, temporary hardship exemptions will be unavailable to Forms 3, 4 and 5. One commenter claimed that sometimes delays in obtaining codes prevent timely filing. We are making strong efforts to provide codes timely, especially as more and more persons seek codes in connection with the implementation of mandated electronic filing.
+
+108 As previously noted, this can be done for persons that have used their CIK code in making a filing by using the "Companies and Other Filers" search on our website at http://www.sec.gov/edgar/searchedgar/companysearch.html .
+
+109 Attachments must be in HTML or ASCII format.
+
+110 See the latest version of the "EDGAR Company Search," which allows site visitors to choose to include Forms 3, 4 and 5 with other company filings in their search results, exclude them entirely or display only Forms 3, 4 and 5. This search may be found on our website at http://www.sec.gov/edgar/searchedgar/companysearch.html .
+
+111 44 U.S.C. 3501 et seq .
+
+112 Publication and submission were in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+113 5 U.S.C. 552. The Commission's regulations that implement the act are at 17 CFR 200.80 et seq .
+
+114 See Proposing Release, Part V for a description of, and the burden estimates for, Forms ID, ET, SE and TH. The change to the proposed amendments that makes temporary hardship exemptions unavailable to Section 16 reports would reduce the burden estimate for Form TH because no additional respondents would file Form TH as a result of the adopted amendments. Consequently, the estimated annual number of respondents to Form TH and estimated total annual hour burden for Form TH would remain at 70 and 23.1, respectively.
+
+115 The addition to Forms 3, 4 and 5 of requirements to reference exhibits and amend the forms in a specified manner creates an additional burden that is so small it is not quantifiable. The other changes to Forms 3, 4 and 5 are minor and do not add any collection of information burden.
+
+116 The expected benefits and costs to those outside the Commission from the adopted amendments relating to eliminating Form ET and magnetic cartridge transmission are expected to be de minimis . Magnetic cartridge transmission rarely is used.
+
+117 Other minor costs could include, for example, preparing a filing date adjustment request.
+
+118 As previously noted, the expected costs to those outside the Commission from the adopted amendments relating to eliminating Form ET and magnetic cartridge transmission are expected to be de minimis . Magnetic cartridge transmission rarely is used.
+
+119 Twelve commenters supported an extension of the filing deadline beyond 5:30 p.m.
+
+120 As noted earlier, five commenters suggested that insiders remain able to file through the EDGARLink system during at least the initial few months of the new system.
+
+121 15 U.S.C. 78w(a)(2).
+
+122 15 U.S.C. 77b(b).
+
+123 15 U.S.C. 78c(f).
+
+124 We believe there will be a de minimis impact from adoption of the proposed amendments regarding the elimination of magnetic cartridge transmission and Form ET.
+
+125 5 U.S.C. 603.
+
+126 As previously noted, we believe there will be a de minimis impact from adoption of the proposed amendments regarding the elimination of magnetic cartridge transmission and Form ET.
+
+127 17 CFR 240.0-10(a).
+
+128 We estimated the number of small entity non-investment company insiders based on our estimates of the total number of insiders; the percentage of these insiders that are greater than ten percent holders; the percentage of these greater than ten percent holders that are non-natural persons; and the percentage of these non-natural persons that are small entities.
+
+129 Other minor costs could include, for example, preparing a filing date adjustment request.
+
+130 Approximately 38% of the Forms 3, 4 and 5 filed in March 2003 were filed electronically.  http://www.sec.gov/rules/final/33-8230.htm

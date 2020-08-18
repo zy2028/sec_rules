@@ -1,0 +1,405 @@
+https://www.sec.gov/rules/final/34-44730.htm
+
+	I.0.0.0: I. INTRODUCTION
+
+	II.0.0.0: II. BACKGROUND
+
+		II.A.0.0: A. Security Futures Products
+
+		II.B.0.0: B. Privacy
+
+	III.0.0.0: III. OVERVIEW OF COMMENTS RECEIVED
+
+	IV.0.0.0: IV. DISCUSSION AND BASIS FOR ADOPTION
+
+		IV.A.0.0: A. Notice Registration of Broker-Dealers to Conduct Business in Security Futures Products
+
+			IV.A.1.0: 1. Rule 15b11-1 under the Exchange Act and Form BD-N: Procedure for Notice Registration
+
+			IV.A.2.0: 2. Proposed Rule 15b11-2 under the Exchange Act: Procedure for Application to Convert Registration
+
+			IV.A.3.0: 3. Rule 15a-10 under the Exchange Act: Exemption from Full Broker-Dealer Registration for Security Futures Product Broker-Dealers
+
+			IV.A.4.0: 4. Amendments to Rule 15b2-2 under the Exchange Act: Inspection of Newly Registered Brokers and Dealers
+
+			IV.A.5.0: 5. Form BD
+
+			IV.A.6.0: 6. Temporary Exemption from Broker-Dealer Registration
+
+		IV.B.0.0: B. Amendments to Regulation S-P
+
+	V.0.0.0: V. ADMINISTRATIVE PROCEDURE ACT
+
+	VI.0.0.0: VI. PAPERWORK REDUCTION ACT ANALYSIS
+
+		VI.A.0.0: A. Summary of Collection of Information
+
+		VI.B.0.0: B. Use of Information
+
+		VI.C.0.0: C. Respondents
+
+		VI.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+		VI.E.0.0: E. Record Retention Period
+
+		VI.F.0.0: F. Collection of Information is Mandatory
+
+		VI.G.0.0: G. Responses to Collection of Information Would Not Be Kept Confidential
+
+		VI.H.0.0: H. Request for Comment
+
+	VII.0.0.0: VII. COSTS AND BENEFITS OF FINAL RULES
+
+		VII.A.0.0: A. Security Futures Products
+
+		VII.B.0.0: B. Amendments to Regulation S-P
+
+		VII.C.0.0: C. Costs and Benefits of the Rulemaking
+
+			VII.C.1.0: 1. Costs and Benefits of Rules 15a-10 and 15b11-1, Form BD-N, and Amendments to Rule 15b2-2
+
+			VII.C.1.a: a. Benefits
+
+			VII.C.1.b: b. Costs
+
+			VII.C.2.0: 2. Costs and Benefits of the Amendments to Regulation S-P
+
+			VII.C.2.a: a. Benefits
+
+			VII.C.2.b: b. Costs
+
+	VIII.0.0.0: VIII. ANALYSIS OF THE BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY, AND CAPITAL FORMATION
+
+	IX.0.0.0: IX. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+	X.0.0.0: X. STATUTORY BASIS
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Registration of Broker-Dealers Pursuant to Section 15(b)(11) of the Securities Exchange Act of 1934 SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 240, 248, and 249
+
+[Release No. 34-44730; File No. S7-13-01]
+
+RIN 3235-AI21
+
+Registration of Broker-Dealers Pursuant to Section 15(b)(11) of the Securities Exchange Act of 1934 
+
+ AGENCY: Securities and Exchange Commission
+
+ ACTION: Final rule
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is adopting rules to implement certain provisions of the Commodity Futures Modernization Act of 2000 ("CFMA"). First, the Commission is amending its broker-dealer registration requirements and adopting a new form to implement Section 203 of the CFMA. Under this section, futures commission merchants and introducing brokers that are registered with the Commodity Futures Trading Commission ("CFTC") may register as broker-dealers by filing a notice with the Commission for the limited purpose of effecting transactions in security futures products. 
+
+Second, the Commission is adopting an exemption from registration under Section 15(a) of the Securities Exchange Act of 1934 ("Exchange Act"). Subject to certain conditions, this exemption permits a broker-dealer registered by notice to trade security futures products regardless of the market on which the product is listed or traded. 
+
+Third, the Commission is adopting amendments to Regulation S-P, which was implemented under the Gramm-Leach-Bliley Act ("GLBA"). These amendments will revise certain provisions of Regulation S-P in light of Section 124 of the CFMA, which makes the privacy provisions of the GLBA applicable to activity regulated by the CFTC. These amendments will also permit futures commission merchants and introducing brokers that are registered by notice as broker-dealers to comply with Regulation S-P by complying with the CFTC's financial privacy rules.
+
+ EFFECTIVE DATE: August 27, 2001.
+
+ FOR FURTHER INFORMATION CONTACT: Catherine McGuire, Chief Counsel, Theodore R. Lazo, Special Counsel, Christina K. McGlosson, Attorney, or Brice D. Prince, Attorney, at 202-942-0073, Office of the Chief Counsel, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-1001.
+
+ SUPPLEMENTARY INFORMATION: The Commission today is adopting Rules 15a-10 and 15b11-1 under the Exchange Act,<SUP> 1 </SUP> Form BD-N,<SUP> 2 </SUP> and amendments to Rule 15b2-2<SUP> 3 </SUP> under the Exchange Act regarding procedures for registration by notice of certain broker-dealers for the limited purpose of trading security futures products. In addition, the Commission is adopting amendments to Regulation S-P<SUP> 4 </SUP> in light of the CFMA's application of the privacy provisions of the GLBA to the CFTC and its regulated entities.
+
+<END HEADER>
+
+<h>I. INTRODUCTION </h>
+
+On June 20, 2001, the Commission published for comment proposed rules and amendments to its broker-dealer registration requirements to implement certain provisions of the CFMA.<SUP> 5 </SUP> We proposed Rules 15a-10, 15b11-1, and 15b11-2 under the Exchange Act, as well as amendments to Rule 15b2-2 under the Exchange Act and to Form BD. These proposals were designed to establish the procedure for futures commission merchants and introducing brokers that are registered with the CFTC ("CFTC Registrants")<SUP> 6 </SUP> to register with the Commission as broker-dealers by filing a notice pursuant to Exchange Act Section 15(b)(11)(A)<SUP> 7 </SUP>in order to trade security futures products ("Security Futures Product Broker-Dealers"). We also proposed for comment amendments to Regulation S-P. These amendments were designed to update Regulation S-P to make it consistent with amendments to the Commodity Exchange Act ("CEA") that apply the privacy provisions of Title V of the GLBA to the CFTC and certain of its regulated entities. After careful consideration of the comments submitted in response to the Proposing Release, we are adopting the proposals with certain changes as discussed below.<h>II. BACKGROUNDA. Security Futures Products </h><h>A. Security Futures Products </h>
+
+The CFMA permits the trading of security futures, i.e. , futures on individual securities and on narrow-based security indexes.<SUP> 8 </SUP> The CFMA regulates security futures both as securities under the federal securities laws,<SUP> 9 </SUP> and as futures for purposes of the CEA.<SUP> 10 </SUP> Accordingly, under the CFMA, both the Commission and the CFTC have joint jurisdiction over the intermediaries and markets that trade security futures products.<SUP> 11 </SUP>
+
+Because they are subject to regulation both as securities and as futures, security futures products must be traded on trading facilities and through intermediaries that are registered with both the Commission and the CFTC. To avoid duplicative regulation, however, the CFMA establishes a system of notice registration under which trading facilities and intermediaries that are already registered with either the Commission or the CFTC may register with the other agency on an expedited basis for the limited purpose of trading security futures products.<SUP> 12 </SUP>
+
+The CFMA amended the broker-dealer registration requirements with respect to certain security futures products by adding Section 15(b)(11) to the Exchange Act.<SUP> 13 </SUP> Section 15(b)(11)(A) provides that a broker or dealer required to register with the Commission only because it effects transactions in security futures products on an exchange registered pursuant to Exchange Act Section 6(g) ("Security Futures Product Exchange")<SUP> 14 </SUP> may register by filing a written notice with the Commission.<SUP> 15 </SUP> We are adopting Rules 15a-10 and 15b11-1 under the Exchange Act, new Form BD-N, and amendments to Rule 15b2-2 under the Exchange Act to implement Exchange Act Section 15(b)(11).<h>B. Privacy </h>
+
+In June 2000, we adopted Regulation S-P to implement Title V of the GLBA.<SUP> 16 </SUP> Subsequently, Section 124 of the CFMA amended the CEA to provide that Title V of the GLBA applies to the CFTC and certain of the entities that it regulates. In light of these amendments to the CEA, we are adopting amendments to update Regulation S-P.<h>III. OVERVIEW OF COMMENTS RECEIVED </h>
+
+We received seven comment letters in response to the Proposing Release.<SUP> 17 </SUP> Most of the commenters focused on two issues: (1) the proposed requirement in Proposed Rule 15b11-1 that CFTC Registrants complete Form BD in order to become Security Futures Product Broker-Dealers, and (2) the provision in Proposed Rule 15a-10 that limits the exemption from broker-dealer registration to Security Futures Product Broker-Dealers that are not members of a national securities exchange registered pursuant Section 6(a) of the Exchange Act ("National Securities Exchange") or a national securities association registered pursuant to Section 15A(a) of the Exchange Act ("National Securities Association"). 
+
+One commenter supported the requirement to complete Form BD to register by notice with the Commission as broker-dealers.<SUP> 18 </SUP> The other six commenters asked us to consider developing another method for CFTC Registrants to provide the Commission with notice of registration. Specifically, those commenters noted that the CFTC and the National Futures Association ("NFA") proposed using a one-page form for notice registration of "full broker-dealers"<SUP> 19 </SUP> that requires only the disclosure of basic identification information.<SUP> 20 </SUP>
+
+All of the commenters also addressed Proposed Rule 15a-10, which provides a conditional exemption from the registration requirements of Exchange Act Section 15(a)(1) for Security Futures Product Broker-Dealers. The commenters generally supported the ability of Security Futures Product Broker-Dealers to trade security futures products regardless of the market on which the products are listed or traded. Six commenters opposed limiting the exemption to Security Futures Product Broker-Dealers that are not members of a National Securities Exchange or a National Securities Association.<SUP> 21 </SUP> The commenters also asserted that the proposed rule would give a competitive advantage to full broker-dealers (who would be able to trade on Security Futures Product Exchanges directly) over Security Futures Product Broker-Dealers (who would only be able to trade on National Securities Exchanges and National Securities Associations indirectly through full broker-dealers).
+
+Two commenters supported providing an exception for Security Futures Product Broker-Dealers from the inspection requirement of the rule,<SUP> 22 </SUP> and one opposed it.<SUP> 23 </SUP> Finally, two commenters supported the proposal to amend Regulation S-P.<SUP> 24 </SUP><h>IV. DISCUSSION AND BASIS FOR ADOPTIONA. Notice Registration of Broker-Dealers to Conduct Business in Security Futures Products1. Rule 15b11-1 under the Exchange Act and Form BD-N: Procedure for Notice Registration </h><h>A. Notice Registration of Broker-Dealers to Conduct Business in Security Futures Products1. Rule 15b11-1 under the Exchange Act and Form BD-N: Procedure for Notice Registration </h><h>1. Rule 15b11-1 under the Exchange Act and Form BD-N: Procedure for Notice Registration </h>
+
+As adopted today, Rule 15b11-1 provides that a CFTC Registrant may register by notice with the Commission as a broker-dealer by filing Form BD-N. Form BD-N is a new form that the Commission is adopting to permit CFTC Registrants to identify themselves and to indicate that they meet the statutory requirements for notice registration. As we explained in the Proposing Release, Exchange Act Section 15(b)(11) provides several conditions for notice registration.<SUP> 25 </SUP> Rule 15b11-1(b) will require a broker-dealer registering by notice to indicate where appropriate on Form BD-N that it meets all of the eligibility conditions for notice registration.<SUP> 26 </SUP> A completed notice of registration will be effective upon filing. In addition, a Security Futures Product Broker-Dealer will be exempt from certain provisions of the Exchange Act with respect to transactions in security futures products.<SUP> 27 </SUP>
+
+As proposed, Rule 15b11-1 would have required a CFTC Registrant to file a completed Form BD in order to become a Security Futures Product Broker-Dealer. We also specifically asked for commenters' views on whether CFTC Registrants should be permitted to register by notice as Security Futures Product Broker-Dealers on a form other than Form BD. As noted above, six commenters responded to this request and suggested that the Commission consider using another form of notice. After careful consideration of the comments, we decided to revise Rule 15b11-1 and to adopt new Form BD-N. Form BD-N requires CFTC Registrants only to provide basic identification information and to indicate that they meet the statutory requirements for notice registration. As discussed below, Form BD-N will elicit the same information that the questions we had proposed adding to Form BD would have elicited. 
+
+We are also revising Rule 15b11-1 to provide that a Security Futures Product Broker-Dealer must amend its Form BD-N if any of the information contained in it is or becomes inaccurate for any reason. This revision parallels the requirement in Rule 15b3-1 that provides that a broker-dealer must promptly amend its Form BD if any of the information contained in it is or becomes inaccurate.<SUP> 28 </SUP> Because Security Futures Product Broker-Dealers will not file Form BD, they will not be subject to Rule 15b3-1.
+
+The NFA has indicated to Commission staff that it believes that it can process Form BD-N on behalf of the Commission. The instructions to Form BD-N state that the form should be filed with the NFA. The Commission intends to designate the NFA its agent and custodian of Form BD-N records.<SUP> 29 </SUP><h>2. Proposed Rule 15b11-2 under the Exchange Act: Procedure for Application to Convert Registration </h>
+
+Proposed Rule 15b11-2 would have permitted a Security Futures Product Broker-Dealer to apply to become registered under Exchange Act Section 15(b)(1) as a full broker-dealer by filing an amendment to its Form BD. As adopted, Form BD-N will require a CFTC Registrant only to provide basic identification information, and not the detailed disclosure that Form BD requires. Accordingly, a Security Futures Product Broker-Dealer that wants to become a full broker-dealer will have to apply on Form BD in accordance with Exchange Act Rule 15b1-1.<SUP> 30 </SUP> As a result, we are not adopting Rule 15b11-2.<h>3. Rule 15a-10 under the Exchange Act: Exemption from Full Broker-Dealer Registration for Security Futures Product Broker-Dealers </h>
+
+As proposed, Rule 15a-10 provided an exemption from the registration requirements of Exchange Act Section 15(a)(1) and permitted Security Futures Product Broker-Dealers to effect transactions in security futures products regardless of the market on which the products are listed or traded. The proposed exemption relieved Security Futures Product Broker-Dealers from Exchange Act Section 15(b)(11), which limits the securities activity that Security Futures Product Broker-Dealers may engage in under its notice registration to effecting transactions in security futures products on Security Futures Product Exchanges. However, the proposed exemption in Rule 15a-10 did not extend to Security Futures Product Broker-Dealers that are members of a National Securities Exchange or a National Securities Association. Those firms would have had to register as a full broker-dealer or effect the transactions through a full broker-dealer. 
+
+As we noted above, six of the seven commenters requested that the exemption in Rule 15a-10 be expanded to permit Security Futures Product Broker-Dealers to become members of a National Securities Exchange or a National Securities Association. For the reasons discussed below, we are adopting Rule 15a-10 with revisions that will allow Security Futures Product Broker-Dealers, subject to certain conditions, to become members of National Securities Exchanges and National Securities Associations.
+
+As we noted in the Proposing Release, Exchange Act Section 15(b)(11)(A) provides that notice registration is available for "a broker or dealer required to register only because it effects transactions in security futures products on an exchange registered pursuant to section 6(g) [of the Exchange Act] (emphasis added)." This provision of the Exchange Act, which was enacted by Congress in the CFMA, limits Security Futures Product Broker-Dealers to effecting transactions in security futures products only on Security Futures Product Exchanges. Accordingly, the Exchange Act requires a Security Futures Product Broker-Dealer to be registered pursuant to Exchange Act Section 15(b)(1) as a full broker-dealer in order to effect transactions in security futures products that are listed or traded on a National Securities Exchange or on a National Securities Association. 
+
+We believe that it is consistent with the purposes of the CFMA for the Commission to permit Security Futures Product Broker-Dealers to trade security futures products that are listed or traded on National Securities Exchanges or National Securities Associations, and, subject to certain conditions, to permit them to trade those security futures products as members of such exchanges and associations. The CFMA's regulatory scheme provides that Security Futures Product Broker-Dealers are subject to primary regulation by the CFTC and regulation on core securities law issues by the Commission. At the same time, the CFMA preserves the Commission's primary regulatory authority over full broker-dealers. In light of this regulatory scheme, we believe that a Security Futures Product Broker-Dealer should be permitted to effect transactions in any type of security futures product. In addition, we believe that permitting Security Futures Product Broker-Dealers to effect transactions in security futures products traded on all markets should promote competition. 
+
+As we noted above, Security Futures Product Broker-Dealers are exempted by statute from significant portions of the Exchange Act and the rules thereunder. In particular, Exchange Act Section 15(b)(11)(B)(ii) exempts Security Futures Product Broker-Dealers from Exchange Act Section 11(a)-(c), which restrict trading by members of National Securities Exchanges for their own and certain related accounts. Allowing one group of exchange members to effect transactions outside the parameters of Section 11(a) would undermine the essential protections provided by that section, and could impair market integrity. As a result, Rule 15a-10 as adopted provides that a Security Futures Product Broker-Dealer that trades security futures products as a member of a National Securities Exchange must comply with Section 11(a)-(c) with respect to its transactions in security futures products on that exchange.
+
+In addition, National Securities Exchanges and National Securities Associations that allow Security Futures Product Broker-Dealers to become members will bear the responsibility and expense of developing an appropriate regulatory structure and monitoring a compliance system that accounts for the differences in regulation between Security Futures Product Broker-Dealers and full broker-dealers. We believe that National Securities Exchanges and National Securities Associations should be able to decide for themselves whether to accept that responsibility and expense. As a result, Rule 15a-10 as adopted provides that a Security Futures Product Broker-Dealer may become a member of a National Securities Exchange or National Securities Association that has rules that provide specifically for the membership of Security Futures Product Broker-Dealers.
+
+In adopting Rule 15a-10, we recognize that we may need to clarify the activities in which a Security Futures Product Broker-Dealer may engage in reliance on the rule. One commenter asked us to confirm that a Security Futures Product Broker-Dealer may accept and deliver securities in connection with security futures products that are "physically settled" ( i.e. , security futures products that provide for the future delivery of the actual underlying securities rather than a cash equivalent). The commenter also asked us to consider amending Exchange Act Rules 3a43-1 and 3a44-1 so that they apply to security futures products,<SUP> 31 </SUP> or to consider adopting separate rules to clarify the issue. We expect to resolve questions relating to the specific operation of particular security futures products when we review the filings made by National Securities Exchanges, National Securities Associations, and Security Futures Product Exchanges to list and trade security futures products. However, Rules 3a43-1 and 3a44-1 would not be appropriate models for resolving such questions. Those rules provide relief from broker-dealer registration for a broad range of activities relating to government securities. That relief was appropriate for the markets in futures on government securities, which were already in operation at the time the rules were adopted. That type of broad relief is not appropriate for a market that does not yet exist. 
+
+We note, however, that Exchange Act Section 6(g)(5)(B) permits limited trading on a principal-to-principal basis in security futures products to begin on August 21, 2001 or such later date by which a limited purpose national securities association has satisfied the requirements of Exchange Act Section 15A(k)(2).<SUP> 32 </SUP> We will not take enforcement action under Exchange Act Section 15(a)<SUP> 33 </SUP> against a Security Futures Product Broker-Dealer that is not registered as a full broker-dealer and accepts and occasionally delivers the underlying securities upon the expiration of a security futures product that it has obtained in a transaction permitted by Section 6(g)(5)(B) and is effected between today and December 21, 2001.<SUP> 34 </SUP><h>4. Amendments to Rule 15b2-2 under the Exchange Act: Inspection of Newly Registered Brokers and Dealers </h>
+
+Rule 15b2-2 under the Exchange Act generally requires the Commission or a self-regulatory organization to inspect a newly registered broker-dealer within six months of its registration. We proposed to amend Rule 15b2-2 to provide an exception for Security Futures Product Broker-Dealers from this requirement.
+
+As we noted above, one commenter maintained that the proposed exception was not necessary, and that the inspection requirement would not be burdensome for Security Futures Product Broker-Dealers. The commenter also suggested that conducting an examination pursuant to Rule 15b2-2 in addition to the examinations conducted by the CFTC would ensure greater compliance with the federal securities laws and therefore would create a safer market for the public.
+
+We have carefully considered these comments. As we noted in the Proposing Release, however, the CFMA provides a specific scheme for the examination of Security Futures Product Broker-Dealers by the Commission under which the Commission consults with the CFTC with respect to its examinations of Security Futures Product Broker-Dealers.<SUP> 35 </SUP> We believe that this examination scheme was created in recognition of the fact that it could be burdensome for a Security Futures Product Broker-Dealer to be regularly examined by the Commission when its only securities business consists of security futures products. Moreover, under the terms of the CFMA, the Commission generally defers to the CFTC with respect to financial and operational matters involving Security Futures Product Broker-Dealers.<SUP> 36 </SUP> We continue to believe that in light of the statutory scheme of joint regulation it is not necessary to apply Rule 15b2-2 to Security Futures Product Broker-Dealers. Accordingly, we are amending Rule 15b2-2 as proposed, to provide that the rule does not apply to Security Futures Product Broker-Dealers.<h>5. Form BD </h>
+
+As we noted above, we are adopting Form BD-N, which will elicit most of the information regarding notice registration that would have been elicited through the proposed amendments to Form BD. However, two of the proposed amendments to Form BD would have elicited information that will not be elicited on Form BD-N.
+
+First, Proposed Item 5B would have required a Security Futures Product Broker-Dealer to indicate that it was applying to convert its registration status to become a full broker-dealer. We are not adopting this amendment in light of the fact that we are not adopting Rule 15b11-2.
+
+Second, proposed new Item 12Z of Form BD would have provided a specific question for broker-dealers to use to notify the Commission of their security futures product business if that business accounted (or was expected to account) for 1% or more of the broker-dealer's annual revenue from the securities or investment advisory business. As we noted in the Proposing Release, Form BD is filed with the Central Registration Depository ("CRD") system, which is operated and maintained by the NASD. The amendment to Item 12 would have been an amendment to Form BD, and any amendment to Form BD requires programming and systems changes to the CRD. We do not believe that it is appropriate at this time to impose these types of changes on the CRD simply to add one question to the Form. As a result, we are not amending Question 12 of Form BD at this time. Nevertheless, full broker-dealers will still need to indicate that they are engaged in (or expect to be engaged in) security futures products activity if that business accounts (or is expected to account) for 1% or more of the full broker-dealer's annual revenue from the securities or investment advisory business.<SUP> 37 </SUP> Accordingly, broker-dealers should use the "Other" category in Question 12Z of Form BD to indicate that they are doing business in security futures products that accounts for, or is expected to account for, 1% or more of its annual revenue from the securities or investment advisory business.<h>6. Temporary Exemption from Broker-Dealer Registration </h>
+
+Exchange Act Section 6(g)(5)(B) provides that trading in security futures products may begin on a limited basis on August 21, 2001, or such later date by which a limited purpose national securities association has satisfied the requirements of Exchange Act Section 15A(k)(2). We recognize that CFTC Registrants that want to trade security futures products as permitted by Section 6(g)(5)(B) may not have enough time to complete the notice registration process before trading in the products is permitted to begin.
+
+We believe that it is consistent with the public interest and the protection of investors to temporarily exempt from the registration requirements of Section 15(a)(1) CFTC Registrants that meet the requirements of Section 15(b)(11) for the limited trading permitted by Section 6(g)(5)(B) of the Exchange Act. Accordingly, we are separately issuing an order pursuant to Exchange Act Section 15(a)(2), which provides that CFTC Registrants are exempted from the registration requirements of Exchange Act Section 15(a)(1)<SUP> 38 </SUP> until October 21, 2001, with respect to transactions in security futures products permitted by Section 6(g)(5)(B) of the Exchange Act.<SUP> 39 </SUP><h>B. Amendments to Regulation S-P </h>
+
+Title V of the GLBA directed the Commission and certain other federal agencies to adopt rules regarding the disclosure of customers' personal financial information by the financial institutions subject to the agencies' respective jurisdictions. Under this authority, we adopted Regulation S-P, which generally requires broker-dealers, investment companies, and registered investment advisers to: (1) notify customers of their privacy policies and practices; (2) describe the conditions under which they may disclose customer information to nonaffiliated third parties; and (3) provide a method for their customers to prevent such disclosure of that information.<SUP> 40 </SUP> As originally enacted, Title V does not apply to the CFTC or any of its regulated entities.<SUP> 41 </SUP>
+
+The CFMA amended the CEA to provide that certain entities that the CFTC regulates are now subject to Title V of the GLBA.<SUP> 42 </SUP> Accordingly, the CFTC has adopted its own set of financial privacy rules.<SUP> 43 </SUP> Because we adopted Regulation S-P before the CFMA was enacted, we are adopting amendments to update Regulation S-P.
+
+Specifically, we are amending the definition of the term "Federal functional regulator" in Section 248.3(m) of Regulation S-P<SUP> 44 </SUP> to add the CFTC to the list of regulators contained in the current definition. We are also amending the definition of the term "financial institution" in Section 248.3(n) of Regulation S-P<SUP> 45 </SUP> to eliminate the exclusion for persons or entities with respect to financial activities subject to the jurisdiction of the CFTC under the CEA.
+
+In addition, we are amending 248.2 of Regulation S-P<SUP> 46 </SUP> to provide that Security Futures Product Broker-Dealers subject to and in compliance with the CFTC's financial privacy rules will also be in compliance with Regulation S-P. This amendment to Regulation S-P mirrors a similar provision in the financial privacy rules that the CFTC has adopted.<SUP> 47 </SUP><h>V. ADMINISTRATIVE PROCEDURE ACT </h>
+
+Section 553(d) of the Administrative Procedure Act<SUP> 48 </SUP> ("APA") generally provides that, unless an exception applies, a substantive rule may not be made effective less than 30 days after notice of the rule has been published in the Federal Register. One exception to the 30-day requirement is an agency's finding of good cause for providing a shorter effective date. 
+
+Exchange Act Section 6(g)(5)(B)<SUP> 49 </SUP> evidences Congress' desire for principal-to-principal transactions between certain market participants in security futures products to begin on August 21, 2001. For CFTC Registrants to engage in the trading permitted by Section 6(g)(5)(B), they must first register by notice with the Commission to become Security Futures Product Broker-Dealers. Prior to passage of the CFMA, there was no need for the Commission to have the rules providing for notice registration of CFTC Registrants as broker-dealers that the Commission is adopting today. 
+
+Since the passage of the CFMA, the Commission has moved quickly to propose and adopt rules that would allow CFTC Registrants to register by notice with the Commission to become Security Futures Product Broker-Dealers. The CFMA became law on December 21, 2000. The Commission proposed these rules and amendments to existing rules on June 20, 2001. The comment period for the rules and amendments ended on July 26, 2001. 
+
+After reviewing and considering the comments received, the Commission is now adopting the rules, form, and rule amendments that would allow CFTC Registrants to register by notice with the Commission to become Security Futures Product Broker-Dealers. By allowing certain principal-to-principal transactions to begin on August 21, 2001, Congress, in essence, established a statutory deadline for the adoption of the notice registration rules. If the effective date of these rules and rule amendments is delayed for 30 days, the Commission will not have a notice registration procedure in place and CFTC Registrants consequently will not be able to register with the Commission before principal-to-principal trading begins on August 21, 2001. 
+
+The primary purpose of the 30-day delayed effectiveness requirement is to give affected parties a reasonable period of time to adjust to new rules. Here, the parties that must comply with the rules, form, and rule amendments to implement the notice registration process - CFTC Registrants - would not be harmed by immediate effectiveness of the rules, form and rule amendments. CFTC registrants are familiar with the rules and rule amendments, which are similar to the proposals that were published for comment. While Form BD-N is a new form, most of the information it requires would have been required by the questions that the Commission proposed adding to Form BD. New Form BD-N responds to comments that the Commission received on this proposal, and should be significantly less burdensome for CFTC Registrants to complete than Form BD, which the Commission originally proposed as the form for registration by notice. We believe that a 30-day delay in the effectiveness of the new rule, new form, and rule amendments could interfere with the goals of the CFMA. Moreover, affected parties that need additional time to adjust to the new notice registration procedure will have a 60-day period in which they may engage in the trading of security futures products permitted by Section 6(g)(5)(B) without having to file Form BD-N.<SUP> 50 </SUP> For these reasons, the Commission finds that good cause exists for the rules, form and rule amendments to be immediately effective upon publication.<h>VI. PAPERWORK REDUCTION ACT ANALYSIS </h>
+
+Certain provisions of the new rules and form, and the rule amendments contain "collection of information requirements" within the meaning of the Paperwork Reduction Act of 1995.<SUP> 51 </SUP> The Commission published a notice soliciting comments on the collection of information requirements in the Proposing Release and submitted these requirements to the Office of Management and Budget ("OMB") for review in accordance with the PRA requirements in effect at the time. As proposed, Rule 15b11-1 would have required CFTC Registrants to file Form BD to become Securities Futures Product Broker-Dealers. Therefore, the submission to OMB modified the collection of information titled "Application for Registration as a Broker-Dealer" that was already approved for Form BD under control number 3235-0012. OMB subsequently approved this new collection of information in accordance with the clearance requirements of 44 U.S.C. 3507.
+
+As adopted, Rule 15b11-1 requires CFTC Registrants that wish to become Securities Futures Product Broker-Dealers to file new Form BD-N. The Commission, therefore, is amending the collection of information approved under control number 3235-0012 to delete the information on Form BD related to Security Futures Product Broker-Dealers, and is filing a new collection of information with OMB to approve new Form BD-N. The title of this new collection of information will be "Form BD-N, Notice Registration for CFTC Registrants to register with the Commission as Securities Futures Product Broker-Dealers." As explained below, the burden on respondents completing Form BD-N will be significantly less than it would have been if they had been required to complete Form BD.
+
+The collection of information obligation imposed by Form BD-N is mandatory for CFTC Registrants choosing to register by notice with the Commission pursuant to Exchange Act Section 15(b)(11). An agency may not conduct or sponsor, and a person is not required to respond to, an information collection unless it displays a currently valid OMB control number.<SUP> 52 </SUP><h>A. Summary of Collection of Information </h>
+
+Exchange Act Section 15(b)(11) provides for the notice registration of Security Futures Product Broker-Dealers. We are adopting Rule 15b11-1 under the Exchange Act to establish the procedure for notice registration of CFTC Registrants to become Security Futures Product Broker-Dealers. Rule 15b11-1 provides that a CFTC Registrant eligible for notice registration must file the notice on Form BD-N.
+
+Form BD-N requires a CFTC Registrant to indicate that it meets the three statutory requirements for notice registration. First, the Security Futures Product Broker-Dealer must be registered with the CFTC as a futures commission merchant or as an introducing broker.<SUP> 53 </SUP> Second, the Security Futures Product Broker-Dealer must be a member of the National Futures Association or another national securities association registered pursuant to Exchange Act Section 15A(k). Third, the Security Futures Product Broker-Dealer must limit its business in securities to security futures products that are listed or traded on Security Futures Product Exchanges, except to the extent that it is permitted to conduct business in other types of securities without registering as a broker-dealer. Accordingly, Rule 15b11-1(b) will require a broker-dealer registering by notice to indicate where appropriate on Form BD-N that it meets these three conditions for notice registration. In addition, Form BD-N will require basic identification information about the CFTC Registrant.<h>B. Use of Information </h>
+
+The Commission will use the information collected pursuant to Rule 15b11-1 to elicit basic identification information as well as information that will allow the Commission to ensure that the CFTC Registrant meets the statutory conditions to register by notice pursuant to Exchange Act Section 15(b)(11). This information will assist the Commission in fulfilling its regulatory obligations.<h>C. Respondents </h>
+
+There are approximately 200 futures commission merchants registered with the CFTC; Commission staff estimates that 89 of those are also full broker-dealers. In addition, there are approximately 1,610 introducing brokers registered with the CFTC; Commission staff estimates that 322 of those are also full broker-dealers. Therefore, the Commission staff estimates that approximately 1,399 futures commission merchants and introducing brokers ((200-89 futures commission merchants) + (1610-322 introducing brokers)) may potentially file Form BD-N to become Security Futures Product Broker-Dealers. They will be required to respond to the proposed collection of information before being registered by notice with the Commission pursuant to Section 15(b)(11) of the Exchange Act.<h>D. Total Annual Reporting and Recordkeeping Burden </h>
+
+Completion of Form BD-N will not impose any significant burdens on CFTC Registrants other than those that result from compliance with the CFMA. We estimate that the average time necessary to complete Form BD-N by a CFTC Registrant will be 30 minutes. Therefore, we estimate that the total one-time burden hours for all CFTC Registrants filing Form BD-N will be approximately 699.5 hours (0.5 hours x 1,399 potential registrants). We estimate that the average time necessary to complete an amendment to Form BD-N will be approximately 15 minutes. The total annual burden hours for CFTC Registrants amending Form BD-N will depend on the frequency with which amendments are filed. Historically, the Commission has received an average of 3.25 amendments to Form BD annually per broker-dealer.<SUP> 54 </SUP> Accordingly, we estimate that the total annual burden hours for all CFTC Registrants filing amendments to Form BD-N will be 1,136 (3.25 amendments per year per CFTC Registrant X 0.25 hours per amendment X 1,399 CFTC Registrants). Form BD-N is substantially shorter than Form BD.<h>E. Record Retention Period </h>
+
+As set forth in 17 CFR 200.80f, a Security Futures Product Broker-Dealer is required to retain records of the collection of information for as long as it is registered with the Commission plus 50 years.<h>F. Collection of Information is Mandatory </h>
+
+This collection of information is mandatory.<h>G. Responses to Collection of Information Would Not Be Kept Confidential </h>
+
+The collection of information will not be kept confidential.<h>H. Request for Comment </h>
+
+Pursuant to 44 U.S.C. 3506(c)(2)(B), the Commission solicits comments to - (i) evaluate whether the proposed collections of information are necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; (ii) evaluate the accuracy of the agency's estimate of the burden of the proposed collections of information; (iii) enhance the quality, utility, and clarity of the information to be collected; and (iv) minimize the burden of the collections of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology.
+
+Persons desiring to submit comments on the collection of information requirements described above should direct them to the following persons: (1) Desk Officer for the Securities and Exchange Commission, Office of Information and Regulatory Affairs, Office of Management and Budget, Room 10102, New Executive Office Building, Washington, DC 20503; and (2) Jonathan G. Katz, Secretary, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609 with reference to File No. S7-13-01. OMB is required to make a decision concerning the collections of information between 30 and 60 days after publication, so a comment to OMB is best assured of having its full effect if OMB receives it within 30 days of publication. The Commission has submitted the proposed collections of information to OMB for approval. Requests for the materials submitted to OMB by the Commission with regard to these collections of information should be in writing, refer to File No. S7-13-01, and be submitted to the Securities and Exchange Commission, Records Management, Office of Filings and Information Services, 450 Fifth Street, NW, Washington, DC 20549.<h>VII. COSTS AND BENEFITS OF FINAL RULES </h>
+
+In the Proposing Release, the Commission requested comment on all aspects of the costs and benefits of the rules and amendments considered in this proceeding. The Commission encouraged commenters to identify, discuss, analyze, and supply relevant data regarding any additional costs or benefits. The Commission has considered the costs and benefits of Rules 15a-10 and 15b11-1, Form BD-N, and the amendments to Rule 15b2-2 and to Regulation S-P. We are sensitive to the costs and benefits that might arise from compliance with our rules and amendments. In response to commenters' concerns about the costs and benefits of utilizing Form BD for notice registration, we are instead adopting Form BD-N, which will be significantly less burdensome for CFTC Registrants. We understand, however, that some of the rules we are adopting today will impose costs on some persons or entities. The majority of our adopted rules and amendments, however, are necessary to implement provisions of the CFMA.<SUP> 55 </SUP> We believe that these adopted rules and amendments will not impose any significant costs other than those that result from compliance with the CFMA.<h>A. Security Futures Products </h>
+
+We are adopting Exchange Act Rule 15b11-1 and Form BD-N to prescribe the requirements for CFTC Registrants to register by notice with the Commission as broker-dealers pursuant to Exchange Act Section 15(b)(11)(A)<SUP> 56 </SUP> to effect transactions in security futures products. We are also adopting Exchange Act Rule 15a-10 to provide Security Futures Product Broker-Dealers with an exemption from registration as full broker-dealers pursuant to Exchange Act Section 15(a)(1). In addition, we are adopting conforming amendments to Exchange Act Rule 15b2-2.<SUP> 57 </SUP>
+
+The rules, form, and amendments that we are adopting today respond to the mandate of the CFMA that, among other things, requires the Commission to prescribe, by rule, the process for notice registration to be used by Security Futures Product Broker-Dealers. Our rules and amendments relating to security futures products are being made primarily pursuant to Exchange Act Section 15(b)(11), which was added to the Exchange Act by the CFMA.<h>B. Amendments to Regulation S-P </h>
+
+We are adopting amendments to update Regulation S-P to make it consistent with CEA Section 5g.<SUP> 58 </SUP> Specifically, we are amending the definitions of the terms "Federal functional regulator" and "financial institution." In addition, we are amending Regulation S-P to provide that Security Futures Product Broker-Dealers may comply with Regulation S-P by complying with the CFTC's financial privacy rules.<h>C. Costs and Benefits of the Rulemaking1. Costs and Benefits of Rules 15a-10 and 15b11-1, Form BD-N, and Amendments to Rule 15b2-2 </h><h>1. Costs and Benefits of Rules 15a-10 and 15b11-1, Form BD-N, and Amendments to Rule 15b2-2 </h>
+
+We are adopting Rule 15b11-1 to set forth the information that CFTC Registrants must submit to register with the Commission as a Security Futures Product Broker-Dealer. Rule 15b11-1 will require a CFTC Registrant registering as a Security Futures Product Broker-Dealer pursuant to Exchange Act Section 15(b)(11)(A)<SUP> 59 </SUP> to file Form BD-N with the Commission. Form BD-N will elicit basic identifying information to allow the Commission to determine whether the CFTC Registrant meets the statutory requirements for notice registration.
+
+Rule 15a-10 will permit Security Futures Product Broker-Dealers to effect transactions in security futures products regardless of where they are listed or traded without being subject to the registration requirements of Exchange Act Section 15(a)(1).<SUP> 60 </SUP> In addition, the amendments to Rule 15b2-2 will provide an exception for Security Futures Product Broker-Dealers from the requirements of that rule.<h>a. Benefits </h>
+
+Rule 15b11-1 provides CFTC Registrants with an expedited filing process to become registered with the Commission as a Security Futures Product Broker-Dealer. A Form BD-N submitted by a CFTC Registrant as a notice of registration as a Security Futures Product Broker-Dealer will not require approval from the Commission. In addition, Form BD-N will require CFTC Registrants to submit basic identification information and to indicate that they meet the statutory requirements for notice registration. Therefore, it will take very little time for a CFTC Registrant to complete Form BD-N.
+
+Rule 15a-10 will exempt Security Futures Product Broker-Dealers from the statutory requirement that they register as full broker-dealers in order to effect transactions in security futures products that are listed or traded on a National Securities Exchange or a National Securities Association. This exemption will relieve Security Futures Product Broker-Dealers from a statutory limit on their ability to effect transactions in security futures products under their notice registrations. In addition, we are adopting an exception for Security Futures Product Broker-Dealers from the requirement in Rule 15b2-2 that they will be inspected by a self-regulatory organization within 6 months of becoming registered. These rules and amendments should increase the types of business that Security Futures Product Broker-Dealers may engage in under their notice registrations and reduce their regulatory burdens.<h>b. Costs </h>
+
+Rule 15b11-1 under the Exchange Act and Form BD-N will require CFTC Registrants to gather a limited amount of easily available information to file with the Commission to become Security Futures Product Broker-Dealers. In addition, Security Futures Product Broker-Dealers will be required to file an amendment to Form BD-N when information originally provided on Form BD-N is or becomes inaccurate. However, Form BD-N requires only that a CFTC Registrant provide basic identification information and answer a series of "yes or no" questions to indicate that it meets the statutory requirements for notice registration. We estimate that the total number of burden hours, at most, associated with this rulemaking is 1835.5 (699.5 one-time burden hours plus 1136 hours related to maximum number of amendments). Estimating CFTC Registrant wages plus overhead to be approximately $65 per hour,<SUP> 61 </SUP> we estimate the total cost associated with the paperwork to be at most $119,308.
+
+We believe that Rules 15a-10 and 15b11-1, Form BD-N, and amendments to Rule 15b2-2 that we are adopting today have been designed to minimize costs and should not result in significant costs to any person or entity. We revised Rule 15b11-1 and created Form BD-N to make the cost of notice registration as minimal as possible. In addition, CFTC Registrants and full broker-dealers will be subject to the rules, amendments and form only if they choose to engage in business in security futures products.<h>a. Benefits </h><h>a. Benefits </h>
+
+Rule 15b11-1 provides CFTC Registrants with an expedited filing process to become registered with the Commission as a Security Futures Product Broker-Dealer. A Form BD-N submitted by a CFTC Registrant as a notice of registration as a Security Futures Product Broker-Dealer will not require approval from the Commission. In addition, Form BD-N will require CFTC Registrants to submit basic identification information and to indicate that they meet the statutory requirements for notice registration. Therefore, it will take very little time for a CFTC Registrant to complete Form BD-N.
+
+Rule 15a-10 will exempt Security Futures Product Broker-Dealers from the statutory requirement that they register as full broker-dealers in order to effect transactions in security futures products that are listed or traded on a National Securities Exchange or a National Securities Association. This exemption will relieve Security Futures Product Broker-Dealers from a statutory limit on their ability to effect transactions in security futures products under their notice registrations. In addition, we are adopting an exception for Security Futures Product Broker-Dealers from the requirement in Rule 15b2-2 that they will be inspected by a self-regulatory organization within 6 months of becoming registered. These rules and amendments should increase the types of business that Security Futures Product Broker-Dealers may engage in under their notice registrations and reduce their regulatory burdens.<h>b. Costs </h>
+
+Rule 15b11-1 under the Exchange Act and Form BD-N will require CFTC Registrants to gather a limited amount of easily available information to file with the Commission to become Security Futures Product Broker-Dealers. In addition, Security Futures Product Broker-Dealers will be required to file an amendment to Form BD-N when information originally provided on Form BD-N is or becomes inaccurate. However, Form BD-N requires only that a CFTC Registrant provide basic identification information and answer a series of "yes or no" questions to indicate that it meets the statutory requirements for notice registration. We estimate that the total number of burden hours, at most, associated with this rulemaking is 1835.5 (699.5 one-time burden hours plus 1136 hours related to maximum number of amendments). Estimating CFTC Registrant wages plus overhead to be approximately $65 per hour,<SUP> 61 </SUP> we estimate the total cost associated with the paperwork to be at most $119,308.
+
+We believe that Rules 15a-10 and 15b11-1, Form BD-N, and amendments to Rule 15b2-2 that we are adopting today have been designed to minimize costs and should not result in significant costs to any person or entity. We revised Rule 15b11-1 and created Form BD-N to make the cost of notice registration as minimal as possible. In addition, CFTC Registrants and full broker-dealers will be subject to the rules, amendments and form only if they choose to engage in business in security futures products. 
+
+ 2. Costs and Benefits of the Amendments to Regulation S-P 
+
+We are adopting amendments to Regulation S-P to update it in light of amendments that the CFMA made to the CEA. Specifically, the CFMA added Section 5g to the CEA to make the privacy provisions of Title V of the GLBA applicable to certain activity regulated by the CFTC. We adopted Regulation S-P pursuant to Title V of the GLBA before the CFMA was enacted. We are amending the definition of the term "Federal functional regulator" in Section 248.3(m) of Regulation S-P to add the CFTC to the list of regulators contained in the current definition. We are amending the definition of the term "financial institution" in Section 248.3(n) of Regulation S-P to eliminate the exclusion relating to the CFTC and its regulated entities. In addition, we are amending Section 248.2 of Regulation S-P to provide that Security Futures Product Broker-Dealers may comply with Regulation S-P by complying with the CFTC's financial privacy rules.<SUP> 62 </SUP> 
+
+ a. Benefits 
+
+Our amendments to Regulation S-P will clarify its application and reduce uncertainty that might result if the definitions of the terms "federal financial regulator" and "financial institution" in Regulation S-P were not amended in light of Section 5g of the CEA. Moreover, the amendments should benefit Security Futures Product Broker-Dealers by making it clear that they will be in compliance with Regulation S-P if they comply with the CFTC's financial privacy rules. 
+
+ b. Costs 
+
+Our amendments will not affect the operation of Regulation S-P or impose any new requirements on any person or entity. As a result, we believe that our amendments to Regulation S-P will not result in any additional costs to any person or entity.<h>VIII. ANALYSIS OF THE BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY, AND CAPITAL FORMATION </h>
+
+Section 3(f) of the Exchange Act<SUP> 63 </SUP> requires the Commission, when engaging in a rulemaking requiring the Commission to consider or determine whether an action is necessary or appropriate in the public interest, to consider also whether the action will promote efficiency, competition, and capital formation. As adopted, Rule 15b11-1, Form BD-N, and amendments to Rule 15b2-2 will provide CFTC Registrants with an expedited process to register with the Commission, which we believe will serve as an efficient and cost-effective means for those entities to meet their statutory registration obligations with respect to security futures products. Form BD-N will provide CFTC Registrants with a short and concise form of notice on which to register as Security Future Product Broker-Dealers. In addition, Rule 15a-10 should improve the efficiency of the marketplace and aid capital formation by providing CFTC Registrants with the ability to effect transactions in security futures products on all markets on which the products are listed and traded. We believe that these rules will help bolster investor confidence and lower investor costs by increasing competition in the markets for security futures products and helping to ensure that all qualified market participants have the opportunity to participate in those markets. This should promote market efficiency, competition and capital formation.
+
+Our amendments to Regulation S-P should promote efficiency and competition by providing that Security Futures Product Broker-Dealers will have to comply with the financial privacy rules of only their primary regulator. Because the only purpose of the amendments is to update Regulation S-P in light of the CFMA, we believe that our amendments will not adversely affect capital formation.
+
+Section 23(a)(2) of the Exchange Act<SUP> 64 </SUP> requires the Commission, in making rules under the Exchange Act, to consider the impact that any such rule will have on competition. In addition, Section 23(a)(2) prohibits the Commission from adopting any rule that will impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Six commenters addressed the proposal's effect on competition. The Commission has considered these comments and reviewed the proposed rules in light of the standards set forth in Sections 3(f) and 23(a)(2) of the Exchange Act. The commenters specifically addressed the fact that the exemption from broker-dealer registration in Rule 15a-10 is limited to Security Futures Product Broker-Dealers that are not members of a National Securities Exchange or National Securities Association. As noted above, the commenters generally asserted that Rule 15a-10 would give a competitive advantage to full broker-dealers (who would be able to trade on Security Futures Product Exchanges directly) over Security Futures Product Broker-Dealers (who would only be able to trade on National Securities Exchanges and National Securities Associations indirectly through full broker-dealers). The revisions to Rule 15a-10 address those commenters' concerns. 
+
+The adopted rules and amendments, which implement provisions of the CFMA, will apply equally to all affected entities. The rules and amendments also will provide the mechanism for Security Futures Product Broker-Dealers to enter the new market for security futures products. All CFTC Registrants that intend to effect transactions in security futures products will use the same procedures to register by notice with the Commission, and the conditions for notice registration will apply equally to all CFTC Registrants. In addition, the adopted rules and amendments relieve Security Futures Product Broker-Dealers from a statutory limitation on their activity and will permit them to trade security futures products regardless of the market on which the products are listed or traded, thereby allowing them to compete evenly with full broker-dealers. As a result, we believe that our adopted rules and amendments will not create any burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Moreover, the amendments to Regulation S-P will not have an impact on competition because their only purpose is to update Regulation S-P in light of the CFMA.<h>IX. SUMMARY OF REGULATORY FLEXIBILITY ACT CERTIFICATION </h>
+
+Pursuant to Section 605(b) of the Regulatory Flexibility Act,<SUP> 65 </SUP> the Acting Chairman of the Commission certified that the proposed rules, form and conforming amendments would not have a significant economic impact on a substantial number of small entities. This certification, including the reasons therefore, was attached to the Proposing Release No. 34 - 44455 (June 20, 2001) as Appendix A. The Commission solicited comments concerning the impact on small entities and the Regulatory Flexibility Act certification, but received no comments.<h>X. STATUTORY BASIS </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.15a-10 and 240.15b11-1.
+
+2 17 CFR 249.501b.
+
+3 17 CFR 240.15b2-2.
+
+4 17 CFR Part 248.
+
+5 Securities Exchange Act Release No. 44455 (June 20, 2001), 66 FR 34042. ("Proposing Release").
+
+6 In this release, the terms "futures commission merchant" and "introducing broker" have the meanings given in CEA Sections 1a(20) and 1a(23) (7 U.S.C. 1a(20) and 1a(23)), respectively.
+
+7 15 U.S.C. 78o(b)(11)(A).
+
+8 Pub. L. No. 106-554, 114 Stat. 2763. Under Exchange Act Section 3(a)(55)(A), the term "security future" is defined as a contract of sale for future delivery of a single security or of a narrow-based security index. 15 U.S.C. 78c(a)(55)(A).
+
+9 See, e.g. , Exchange Act Section 3(a)(10), 15 U.S.C. 78c(a)(10).
+
+10 The term "security future" is defined in CEA Section 1a(31) (7 U.S.C. 1a(31)) as a contract of sale for future delivery of a single security or of a narrow-based security index.
+
+11 Under Exchange Act Section 3(a)(56), (15 U.S.C. 78c(a)(56)) and CEA Section 1a(33), (7 U.S.C. 1a(33)), the term "security futures product" is defined as a security future or an option on a security future.
+
+12 Specifically, markets and intermediaries that are registered with one agency may register with the other by submitting a written notice that is effective upon filing. See Exchange Act Sections 6(g) and 15(b)(11) (15 U.S.C. 78f(g) and 78o(b)(11)) and CEA Section 5f and 4f(a)(2) (7 U.S.C. 7b-1 and 6f(a)(2)). A "notice registrant" is then subject to primary oversight by one agency, and is exempted under the CFMA from all but the core provisions of the laws administered by the other agency.
+
+13 15 U.S.C. 78o(b)(11). For purposes of the Exchange Act, any person who is engaged in the business of effecting transactions in security futures products for the account of another is a broker. See Exchange Act Section 3(a)(4), 15 U.S.C. 78c(a)(4). Similarly, any person who is engaged in the business of buying and selling security futures products for the person's own account is a dealer. See Exchange Act Section 3(a)(5), 15 U.S.C. 78c(a)(5). With limited exceptions, brokers and dealers are required by Exchange Act Section 15(a) to register with the Commission. 15 U.S.C. 78o(a).
+
+14 Exchange Act Section 6(g) (15 U.S.C. 78f(g)) provides that designated contract markets and derivatives transaction execution facilities that are registered with the CFTC under CEA Sections 5 and 5a (7 U.S.C. 7 and 7a), respectively, may register by notice with the Commission to trade security futures products as a Security Futures Product Exchange. We have adopted rules to establish the procedures for such notice registration. See Securities Exchange Act Release No. 44692 (August 13, 2001), 66 FR 43721.
+
+15 Section 15(b)(11)(A) further states that the written notice filed with the Commission must be in such form and contain such information concerning such broker or dealer and any persons associated with such broker or dealer as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+
+16 17 CFR Part 248. See Securities Exchange Act Release No. 42905 (June 22, 2000), 65 FR 40334.
+
+17 See letters to Jonathan G. Katz, Secretary, Commission from Darlene Marquez, dated July 6, 2001 ("Marquez Letter"); James J. McNulty, President and Chief Executive Officer, Chicago Mercantile Exchange, dated July 24, 2001 ("CME Letter"); David J. Vitale, President and Chief Executive Officer, Chicago Board of Trade, dated July 26, 2001 ("CBOT Letter"); John M. Damgard, President, Futures Industry Association, dated July 26, 2001 ("FIA Letter"); Daniel J. Roth, Senior Executive Vice President and General Counsel, National Futures Association, dated July 26, 2001 ("NFA Letter"); Wendy L. Gramm, Director, Regulatory Studies Program, Mercatus Center, George Mason University, dated July 26, 2001; and Jean A. Webb, Secretary, CFTC, dated August 10, 2001 ("CFTC Letter").
+
+18 See Marquez Letter.
+
+19 The term "full broker-dealer" refers to a broker-dealer registered pursuant to Exchange Act Section 15(b)(1) (15 U.S.C. 78o(b)(1)).
+
+20 In addition, the NFA Letter stated that the NFA already maintains substantially the same information in its membership database that Form BD elicits and indicated that it would grant the Commission (and, if necessary, the NASD and NASD Regulation, Inc.) direct electronic access to NFA's Membership, Registration, and Receivables System on request.
+
+21 All commenters other than the Marquez Letter.
+
+22 See CBOT Letter; CFTC Letter.
+
+23 See Marquez Letter.
+
+24 See FIA Letter; CFTC Letter.
+
+25 First, the Security Futures Product Broker-Dealer must be registered with the CFTC as a futures commission merchant or as an introducing broker. Second, the Security Futures Product Broker-Dealer must be a member of the NFA or another national securities association registered pursuant to Exchange Act Section 15A(k). Third, the Security Futures Product Broker-Dealer must limit its business in securities to security futures products that are listed or traded on Security Futures Product Exchanges, except to the extent that it is permitted to conduct business in other types of securities without registering as a broker-dealer.
+
+26 In addition, we note that under Exchange Act Section 15(b)(11)(A)(iv), the registration of a Security Futures Product Broker-Dealer will terminate by operation of law if it is no longer registered with the CFTC or is no longer a member of the NFA. Moreover, Exchange Act Section 15(b)(11)(A)(iii) provides that the registration of a Security Futures Product Broker-Dealer will be suspended immediately if its membership with the NFA is suspended.
+
+27 Exchange Act Section 15(b)(11)(B), 15 U.S.C. 78o(b)(11)(B). Specifically, a Security Futures Product Broker-Dealer will be exempt from Sections 8, 11, 15(c)(3), 15(c)(5), 15B, 15C, and 17(d) - (i) of the Exchange Act (15 U.S.C. 78h, 78k, 78o(c)(3), 78o(c)(5), 78o-4, 78o-5, and 78q(d) - (i)).
+
+28 In the Proposing Release, we noted that Security Futures Product Broker-Dealers would have been subject to Exchange Act Rule 15b3-1.
+
+29 Even though Form BD-N is not sent directly to the Commission, it is considered a "report" filed with the Commission for purposes of Exchange Act Sections 15(b), 17(a), 18(a), 32(a), (15 U.S.C. 78o(b), 78q(a), 78r(a)), and other applicable provisions of the Exchange Act.
+
+30 17 CFR 240.15b1-1.
+
+31 17 CFR 240.3a43-1 and 240.3a44-1. Exchange Act Rules 3a43-1 and 3a44-1 allow futures commission merchants that are registered with the CFTC to effect transactions in government securities that are incidental to their futures-related business without being considered government securities brokers or government securities dealers. See Securities Exchange Act Release No. 24726 (July 22, 1987), 52 FR 27962.
+
+32 Specifically, Section 6(g)(5)(B) provides that trading in security futures products may begin at that time in transactions entered into: (I) on a principal-to-principal basis between parties trading for their own accounts or as described in section 1a(12)(B)(ii) of the Commodity Exchange Act; and (II) only between eligible contract participants (as defined in subparagraphs (A), (B)(ii), and (C) of such section 1a(12)) at the time at which the persons enter into the agreement, contract, or transaction ....
+
+33 15 U.S.C. 78o(a).
+
+34 Futures transactions are generally closed out by offsetting transactions rather than by delivery. This position does not extend to a dealer that routinely closes out its transactions in security futures products by physical delivery.
+
+35 Section 204 of the CFMA amended Exchange Act Section 17(b) to provide that the Commission must notify the CFTC before it examines a Security Futures Product Broker-Dealer. Section 17(b) also requires the Commission, upon request, to provide the CFTC with any reports that the Commission prepares in connection with an examination of a Security Futures Product Broker-Dealer. In addition, Section 17(b) specifically provides that Security Futures Product Broker-Dealers are not subject to routine periodic examinations by the Commission.
+
+36 In particular, Exchange Act Section 15(b)(11)(B)(iii) exempts Security Futures Product Broker-Dealers from Exchange Act Section 15(c)(3) and the rules thereunder, which provide the financial responsibility standards for broker-dealers. 15 U.S.C. 78o(c)(3); see e.g. , Exchange Act Rule 15c3-1 (17 CFR 240.15c3-1) (net capital requirements for brokers or dealers).
+
+37 See Exchange Act Rule 15b3-1 (requiring broker-dealers to amend Form BD promptly if any information on the form is or becomes inaccurate for any reason).
+
+38 15 U.S.C. 78o(a)(1).
+
+39 Securities Exchange Act Release No. 44731 (August 21, 2001). The text of the order will be available on the Commission's website at http://www.sec.gov.
+
+40 17 CFR Part 248. See Securities Exchange Act Release No. 42905 (June 22, 2000), 65 FR 40334.
+
+41 Specifically, Section 504 of the GLBA does not include the CFTC in the list of agencies required to adopt financial privacy rules. In addition, Section 509(2) of the GLBA does not include the CFTC in the definition of the term "Federal functional regulator." Moreover, Section 509(3)(B) of the GLBA specifically excludes from the definition of the term "financial institution" any person or entity with respect to any financial activity that is subject to the jurisdiction of the CFTC under the CEA.
+
+42 Specifically, Section 124 of the CFMA added Section 5g to the CEA (7 U.S.C. 7b-2), which made Title V of the GLBA applicable to activity regulated by the CFTC. CEA Section 5g(a) provides that notwithstanding Section 509(3)(B) of the GLBA, futures commission merchants, commodity trading advisors, commodity pool operators and introducing brokers subject to the jurisdiction of the CFTC are to be treated as "financial institutions" for purposes of Title V of the GLBA. CEA Section 5g(b) provides that the CFTC is to be treated as a "Federal functional regulator" under Section 509(2) of the GLBA, and directs the CFTC to issue its own financial privacy regulations under Title V of the GLBA.
+
+43 Privacy of Customer Information , 66 FR 21236 (April 27, 2001) ("CFTC Privacy Release").
+
+44 17 CFR 248.3(m).
+
+45 17 CFR 248.3(n).
+
+46 17 CFR 248.2.
+
+47 See CFTC Privacy Release, 66 FR at 21252.
+
+48 5 U.S.C. 553(d).
+
+49 15 U.S.C. 78f(g)(3)(B).
+
+50 The Commission is issuing an order pursuant to Exchange Act Section 15(a)(2), which provides an exemption from broker-dealer registration until October 21, 2001, for CFTC Registrants that meet the statutory requirements for notice registration.
+
+51 44 U.S.C. 3501 et seq. ("PRA").
+
+52 44 U.S.C. 3506(c)(1)(B)(v).
+
+53 As noted above, Section 15(b)(11) provides that notice registration is available only to broker-dealers that fall within the registration requirements of Section 15 by effecting transactions in security futures products on a Security Futures Product Exchange. CEA Section 4d(a)(1) (7 U.S.C. 6d(a)(1)) provides that futures commission merchants and introducing brokers must be registered with the CFTC before "soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility."
+
+54 Given that Form BD-N is substantially shorter than Form BD, we expect that this estimate will represent the outside limit of the amount of amendments to Form BD-N that Security Futures Product Broker-Dealers will submit.
+
+55 Pub. L. No. 106-554, Appendix E, 114 Stat. 2763.
+
+56 15 U.S.C. 78o(b)(11)(A).
+
+57 17 CFR 240.15b2-2.
+
+58 7 U.S.C. 7b-2. Section 5g was added to the CEA by the CFMA.
+
+59 15 U.S.C. 78o(b)(11)(A).
+
+60 15 U.S.C. 78o(a)(1).
+
+61 Based on the Securities Industry Association's Report on Management and Professional Earnings in the Securities Industry 2000 , National Statistics Table, Broker (AMEX) plus 35% overhead. This estimate assumes that the CFTC Registrant's compensation is roughly equal to that of brokers on the American Stock Exchange.
+
+62 Our amendments to Regulation S-P will parallel a similar provision in the financial privacy rules that the CFTC has adopted. See 17 CFR 160(b)(1); see also Privacy of Consumer Financial Information , 66 FR 21236 (Apr. 27, 2001).
+
+63 15 U.S.C. 78c(f).
+
+64 15 U.S.C. 78w(a).
+
+65 5 U.S.C. 605(b).
+
+66 15 U.S.C. 78o(a), 78o(b), 78q, 78o-4(a)(2), 78o-5(a)(2), and 78w(a).
+
+67 15 U.S.C. 6804.
+
+68 15 U.S.C. 78q and 78w(a).
+
+69 Chairman Pitt did not participate in this matter.  http://www.sec.gov/rules/final/34-44730.htm

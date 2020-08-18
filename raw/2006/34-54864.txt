@@ -1,0 +1,535 @@
+https://www.sec.gov/rules/final/2006/34-54864.pdf
+
+I.0.0.0 INTRODUCTION
+
+II.0.0.0 BACKGROUND
+
+	II.A.0.0 Transfer Agent Forms
+
+	II.B.0.0 Electronic Filing of Transfer Agent Forms
+
+III.0.0.0 AMENDMENTS
+
+	III.B.0.0 Amendments to Regulation S-T
+
+		III.B.1.0 Rule 101(a), Mandated Electronic Submissions
+
+		III.B.2.0 Rule 104, Unofficial PDF Copies Included in an Electronic Submission
+
+		III.B.3.0 Rule 201, Temporary Hardship Exemption
+
+	III.C.0.0 Miscellaneous Amendments
+
+		III.C.1.0 Revision to Rule 17Ac2-1
+
+		III.C.2.0 Deletion of Paragraph (c) in Rule 17Ac2-2
+
+		III.C.3.0 Reference to 17A(c)(3)(C) in Rule 17Ac3-1
+
+	III.D.0.0 Amendments to Form TA-1, Form TA-2, and Form TA-W
+
+		III.D.1.0 Amendments to All Forms and Instructions
+
+		III.D.2.0 Amendments to Form TA-1 and Instructions
+
+		III.D.3.0 Amendments to Form TA-2 and Instructions
+
+		III.D.4.0 Amendments to Form TA-W and Instructions
+
+		III.D.5.0 Amendment to Form ID
+
+IV.0.0.0 PAPERWORK REDUCTION ACT
+
+V.0.0.0 COSTS AND BENEFITS OF THE PROPOSED RULEMAKING
+
+	V.A.0.0 Benefits
+
+	V.B.0.0 Costs
+
+VI.0.0.0 CONSIDERATION OF THE BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY, AND CAPITAL FORMATION
+
+VII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+	VII.A.0.0 Need for the Amendments
+
+	VII.B.0.0 Significant Issues Raised by Public Comment
+
+	VII.C.0.0 Small Entities Subject to the Amendments
+
+	VII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+	VII.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+VIII.0.0.0 STATUTORY BASIS AND TEXT OF THE AMENDMENTS
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 232, 239, 240, 249, 249b, 269, and 274
+
+[Release No. 34-54864; File No. S7-14-06] RIN 3235-AJ68
+
+ELECTRONIC FILING OF TRANSFER AGENT FORMS
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission ("Commission") is adopting amendments to the rules and forms under Section 17A of the Securities Exchange Act of 1934 (“Act”) to require that the forms filed with respect to transfer agent registration, annual reporting, and withdrawal from registration be filed with the Commission electronically. The forms will be filed on the Commission’s EDGAR database in XML format and will be accessible to Commission staff and the public for search and retrieval. The amendments will improve the Commission’s ability to utilize the information reported on the forms in performing its oversight function of transfer agent operations and to publicly disseminate the information on the forms.
+
+EFFECTIVE DATE: January 11, 2007.
+
+FOR FURTHER INFORMATION CONTACT: Jerry Carpenter, Assistant Director, or Catherine Moore, Special Counsel, Office of Clearance and Settlement, Division of Market Regulation, Securities and Exchange Commission, 100 F Street, NE, Washington, DC, 20549-6628 or at (202) 551-5710. For assistance with technical questions about EDGAR, call the EDGAR Filer Support Office at (202) 551-8900.
+
+SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. INTRODUCTION</h>
+
+On September 11, 2006, the Commission published a proposed rulemaking in the Federal Register to require transfer agents to file Form TA-1, Form TA-2, and Form TA-W ("transfer agent forms") <sup>1</sup> electronically through the Commission’s Electronic Data Gathering, Analysis, and Retrieval ("EDGAR") <sup>2</sup> system. <sup>3</sup> The Commission has developed a new application in EDGAR (“EDGARLite”) that enables filers to prepare an electronic version of transfer agent forms using a commercial software package, Microsoft InfoPath 2003 ("MS InfoPath")™, and to submit the forms to EDGAR over an Internet connection. <sup>4</sup> Transfer agents will not be required to use the EDGARLite application to prepare the forms, although it is likely that most will choose to do so.
+
+An electronic filing system for transfer agent forms will streamline the filing process, improve the Commission’s ability to register and monitor transfer agents, and facilitate the retrieval and public dissemination of the data collected on the forms. The purpose of the amendments is to change the manner in which the forms are submitted to the Commission; the substance of the information reported will not change. We are adopting the amendments to the rules and forms to implement the new filing system and to require that Forms TA-1, TA-2, and TA-W be filed electronically. To comply with an electronic filing requirement, transfer agents will need to have a computer that meets the system requirements in the EDGAR Filer Manual and Internet access and aweb browser to download the forms from an EDGAR Web site and transmit the completed forms. Transfer agents will also have to apply for and obtain access to EDGAR prior to filing the forms electronically in EDGAR.
+
+We received six comments from five commenters. <sup>5</sup> One commenter strongly supported the proposal. Three of the commenters objected to the proposal on the grounds that an electronic filing requirement would be more burdensome than the current requirement that the forms be filed in paper format. Two commenters suggested we make minor changes or clarifications to Form TA-2. For the reasons discussed below, we are adopting the amendments substantially as proposed.
+
+<h>II. BACKGROUND</h>
+
+<h>A. Transfer Agent Forms</h>
+
+Section 17A(c)(1) of the Act requires an entity that performs the function of a transfer agent with respect to a security registered under Section 12 of the Act to register with that entity's appropriate regulatory agency ("ARA"). <sup>6</sup> Depending on the type of entity that is registered as a transfer agent, the ARA is either the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the Commission. <sup>7</sup> There arecurrently 785 registered transfer agents, of which 519 are registered with the Commission and 266 are registered with the other ARAs.
+
+There are three transfer agent forms filed with the Commission: (1) Form TA-1, Uniform Form for Registration as a Transfer Agent and for Amendment to Registration Pursuant to Section 17A of the Securities Exchange Act of 1934; (2) Form TA-2, Form for Reporting Activities of Transfer Agents Registered Pursuant to Section 17A of the Securities Exchange Act of 1934; and (3) Form TA-W, Notice of Withdrawal from Registration as a Transfer Agent. Only transfer agents that are registered with the Commission file Form TA-1 and Form TA-W with the Commission. All transfer agents, however, whether they are registered with the Commission or another ARA, file Form TA-2 with the Commission. The Commission uses the information on the transfer agent forms to review and approve an entity's application for registration as a transfer agent, maintain current information about transfer agents, and monitor the operations performed by and the services provided by transfer agents. The information filed on the Form TA-1, Form TA-2, and Form TA-W is publicly available.
+
+Over 1,000 transfer agent forms are filed with the Commission each year. The Commission receives new or amended transfer agent registrations on Form TA-1 and withdrawals from registration on Form TA-W; however, most of the transfer agent forms received by the Commission are the annual reports filed by transfer agents on Form TA-2, which are required to be filed with thewhich is a bank other than a bank specified in clause (i) or (ii) of this subparagraph; (iii) the Federal Deposit Insurance Corporation, in the case of a bank insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System), or a subsidiary thereof; and (iv) the Commission in the case of all other clearing agencies and transfer agents.
+
+Commission during the three month period between January 1 and March 31. <sup>8</sup> Although all registered transfer agents are required to file a Form TA-2, the Commission receives fewer Forms TA-2 than there are registered transfer agents. This may be because some registered transfer agents have dissolved without filing a Form TA-W, the paper Form TA-2 was lost or misdirected, or some transfer agents are not meeting the Form TA-2 filing requirement.
+
+To facilitate public dissemination of the information, the Commission staff enters basic information from the forms into EDGAR, including the name and address of the transfer agent, the transfer agent's registration number, and the date the form was filed with the Commission. This data is then disseminated on the EDGAR section of Commission’s Web site. <sup>9</sup> In order to view all of the information on a form, however, members of the public must request a hard copy of the form from the Commission's public reference room or obtain the information from a third party information service company for a fee.
+
+<h>B. Electronic Filing of Transfer Agent Forms</h>
+
+The electronic filing system for transfer agent forms will be beneficial for transfer agents, investors, and the Commission. Under the new electronic filing requirement, each answer provided by the transfer agent will be formatted as an XML data tag. XML is a widely used text format that allows for the flexible use and exchange of data. The Commission designed the filing system to use XML data tags so that all of the information filed by transfer agents could be used by Commission staff and the public for searches, retrievals, and data analysis. To facilitate the filing of the information as XML data tags, the
+
+Commission developed EDGARLite to provide filers with an easy to use, form-driven tool that can gather information and convert it to XML. EDGARLite uses form templates created by the Commission with a commercial "off the shelf" software package, MS InfoPath.™ Transfer agents would need to have MS InfoPath™ installed on their computers in order to use EDGARLite.
+
+As an alternative to purchasing the software, transfer agents could prepare the forms outside of EDGARLite by creating an XML tagged version of the filing as an ASCII document using technical specifications that would be available on the Commission’s Web site. <sup>10</sup> This is a permissible means of filing because the amendments require only that the information reported on the forms be submitted in the electronic format set forth in the EDGAR Filer Manual and do not require that transfer agents use EDGARLite. Preparing XML data tags in ASCII text language would require some technical expertise on the part of the filer, however, and the Commission expects that most transfer agents would choose to purchase the software and prepare the forms using EDGARLite. <sup>11</sup> As another alternative, transfer agents could hire a third party to prepare and submit the electronic forms for them; however, this filing method would likely cost the transfer agent more than purchasing the MS InfoPath™ software.
+
+Regulation S-T sets forth the rules governing electronic filing in EDGAR. The EDGAR Filer Manual, which is promulgated by the Commission under Rule 301 of Regulation S-T, <sup>12</sup> provides the instructions and technical requirements for submitting filings to EDGAR. Inpreparation for electronic filing, transfer agents should review Regulation S-T and the relevant portions of the EDGAR Filer Manual, Volume I (General Information). <sup>13</sup> In particular, transfer agents should review Section 2.5 of Volume I, which provides the EDGAR hardware and software requirements, Section 3 of Volume I, which provides instructions on becoming an EDGAR filer, and Section 6 of Volume I, which provides instructions for filing on EDGAR.
+
+The Commission has drafted a new section of Volume II (EDGAR Filing) of the EDGAR Filer Manual which provides detailed instructions for preparing forms using EDGARLite. The updates to Volume II have not yet been adopted; however, the Commission, has posted a draft on its Web site <sup>14</sup> so that filers and other third parties may review and comment on the draft section. Any EDGAR Filer Manual draft is subject to Commission approval and may be revised prior to approval or not approved at all. <sup>15</sup> The new section will be adopted and effective prior to the January 1, 2007 effective date of these amendments.
+
+The Commission is amending Regulation S-T, Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1, and Form TA-1, Form TA-2, and Form TA-W to mandate that all transfer agent forms filed with the Commission be filed in electronic format. <sup>16</sup> However, transfer agents that believe filing inelectronic format is unduly burdensome will be able to apply for a continuing hardship exemption from the electronic filing requirement pursuant to Rule 202 of Regulation S-T. <sup>17</sup> Rule 202 provides that an electronic filer may apply in writing for a continuing hardship exemption if the filing cannot be submitted to the Commission in electronic format without undue burden or expense. The Commission determines whether to grant or to deny the application based on whether the exemption is appropriate and is consistent with the public interest and the protection of investors.
+
+For the first year of electronic filing only, transfer agents that are registered with the Commission will be required to file an amended Form TA-1 before they file a Form TA-2. <sup>18</sup> By so requiring, the Commission will be able to establish a complete and current record of registration information for transfer agents registered with the Commission in a single, centralized, and searchable database. Form TA-1 collects important information regarding transfer agents, such as name, address, organizational structure, and control persons. The requirement to file an amended Form TA-1 when the electronic filing system first becomes effective will make the data previously reported on the paper form readily available electronically for Commission use and public dissemination. Additionally, the requirement is designed to ensure that transfer agents have a complete electronic version of the form to use as a template for future amendments. It will provide an opportunity for transfer agents to make sure that their Form TA-1 is current and that all amendments to correct inaccurate, misleading, or incomplete information are made. Because transfer agents are required to maintain a copy of Form TA-1 and any amendments to Form TA-1by transfer agents that were granted a hardship exemption from electronic filing under Rule 202 of Regulation S-T.with their records, <sup>19</sup> they should have all the information necessary to complete and electronically file an amended Form TA-1.
+
+The amendments will be effective [Insert date 30 days from publication in the Federal
+
+Register ]. Accordingly, registered transfer agents should be prepared to file their Forms TA-2 for the 2006 reporting period, which are due be filed by March 31, 2007, and an amended Form TA-1 for those transfer agents registered with the Commission, electronically on EDGAR.
+
+<h>III. AMENDMENTS</h>
+
+The amendments make the following changes to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1, Regulation S-T, and to Form TA-1, Form TA-2, and Form TA-W and the instructions to the forms as well as to Form ID.
+
+A. Changes to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 to Require Electronic Filing
+
+The amendments add a paragraph to each of Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 to require electronic filing of Form TA-1, Form TA-2, and Form TA-W, respectively, on the Commission’s EDGAR system. The amendments require transfer agents to file their forms according to the instructions on the forms and in the EDGAR Filer Manual. Although the amendments to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 mandate electronic filing, transfer agents will still be able to apply for a hardship exemption under Rule 202 of Regulation S-T which would allow them to continue to file the forms in paper format. The Commission will review each application on a case by case basis and in its discretion may grant an exemption if the transfer agent is able to show that electronic filing is unduly burdensome and that granting the exemption would benefit the public interest and protection of investors. Because transfer agents cannot rely on receiving a hardshipexemption, we recommend that all transfer agents review the system requirements and EDGAR Filer Manual and be prepared to submit the forms on EDGAR.
+
+The Commission received six comment letters on the proposal from five commenters. <sup>20</sup> One commenter strongly supports the proposal <sup>21</sup> and three of the commenters oppose the proposal on the grounds that it requires computer software and systems as well as experience with EDGAR that the transfer agent or its staff may not have. <sup>22</sup> The fifth commenter requested changes that relate only to Form TA-2 which is discussed in Section III.D. of this release. <sup>23</sup> The commenters who object to the proposal stated that the expense of meeting the new requirement competitively disadvantages small transfer agents and that these transfer agents should not have to bear the expense of a proposal which they believe serves primarily to benefit the Commission. One commenter stated that the public does not have any need to access the information reported on the transfer agent forms because transfer agents are not public companies and do not solicit investments and that a person interested in
+
+G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.obtaining such information may acquire it directly from the transfer agent. <sup>24</sup> This filer also suggested that electronic filing be optional and not mandatory. Two of the commenters also stated that although they find electronic filing on EDGAR to be burdensome, a PDF attachment or an internet based form that does not require special software would be feasible. <sup>25</sup> One commenter also expressed concerns about necessary software upgrades and any associated costs. <sup>26</sup>
+
+The Commission is very sensitive to the cost concerns of small transfer agents. The EDGARLite program was designed to keep the costs to filers low and, while electronic filing may require EDGAR skills and computer systems that all transfer agents do not currently have, we believe any costs transfer agents may be required to incur are reasonable. The amendments to mandate electronic filing are necessary to ensure that the information reported by transfer agents is complete, accurate, and stored in a single, centralized database and that the information is publicly available in an easily searchable format. To achieve this goal, electronic submissions must be formatted as XML data tags and submitted on EDGAR. Forms submitted as PDF attachments are not usable for analytical tools such as data aggregation, statistical analysis, and report generation.
+
+The Commission designed EDGARLite to utilize commercial software because it was the most cost-efficient way to allow information reported on a relatively small number of forms to be filed on EDGAR as tagged data in XML format. It would not be economically feasible for the Commission to develop an EDGAR application for transfer agent forms without using commercial software or for the Commission to develop more than one electronic filingsystem for transfer agent forms. The Commission considered the costs of the commercial software very carefully and chose software that we believed would best meet our needs for the EDGARLite functionality, including ease of use and data validation, and that we believed would be affordable for all filers. There may occasionally be upgrades to the software; however, transfer agents would only have to purchase upgraded software if the Commission makes changes to the EDGARLite application that use the features of the upgraded version of the software. Transfer agents who have not filed on EDGAR before will have to train staff to file the transfer agent forms on EDGAR; however, the EDGAR Filer Manual provides detailed instructions for each step of the filing process. Transfer agents will also have the option of applying for a continuing hardship exemption under Rule 202 of Regulation S-T to file in paper format if they believe the electronic filing requirement would cause them undue burden or expense.
+
+For these reasons, we believe that any additional costs the electronic filing requirement may impose on transfer agents are necessary and reasonable in order to improve and modernize the Commission’s filing program for transfer agent forms. Furthermore, we believe that the proposal benefits the investing public and transfer agents and not just to the Commission. Transfer agents act as the agents of issuers of securities and oversee such functions as stock transfers and dividend payments. With respect to the comment that the public does not need access to the information on the forms, we note that the Commission frequently receives requests for transfer agent data from issuers, who may be interested in hiring a transfer agent, and from investors, who may be seeking to contact the transfer agent or who want assurance that the transfer agent is registered and is current in all its filings with the Commission. Additionally, electronic filing will substantially improve the Commission’s ability to monitor and regulate transfer agent activities. This benefit to the Commission will benefit the investing public as a whole because it will help to ensure that transferagents are registered and are operating in conformance with the requirements under Section 17A of the Act.
+
+For these reasons, we are adopting the amendments to Rules 17Ac2-1, 17Ac2-2, and 17Ac3- 1 to require electronic filing substantially as proposed.
+
+<h>B. Amendments to Regulation S-T</h>
+
+The Commission proposed to amend Regulation S-T to mandate the submission of the transfer agent forms in electronic format and to exclude the transfer agent forms from the applicability of Rule 104, and Rule 201. The Commission did not receive any comments on the proposed amendments to Regulation S-T and we are adopting them as proposed.
+
+<h>1. Rule 101(a), Mandated Electronic Submissions</h>
+
+Rule 101(a) of Regulation S-T lists the filings that must be submitted to the Commission in electronic format. <sup>27</sup> The Commission is amending Rule 101(a) to mandate that Form TA-1, Form TA-2, and Form TA-W be submitted to the Commission in electronic format.
+
+<h>2. Rule 104, Unofficial PDF Copies Included in an Electronic Submission</h>
+
+Rule 104 of Regulation S-T provides that an electronic submission may include one unofficial portable document format ("PDF") copy of each electronic document contained within a submission, tagged in the format required by the EDGAR Filer Manual. <sup>28</sup> The purpose of this rule is to allow filers to provide a copy of their submission in a format that creates a structured, easy to read document for public dissemination.
+
+The electronic transfer agent forms are easy to read in the format in which they are submitted, and it will be unnecessary to have a PDF version of the forms submitted. Additionally,we do not believe transfer agents will find any need to submit an unofficial copy of their filings in PDF format. Therefore, the Commission is amending Rule 104(a) to prohibit filers from including an unofficial PDF copy of Form TA-1, Form TA-2, or Form TA-3 in an electronic submission.
+
+<h>3. Rule 201, Temporary Hardship Exemption</h>
+
+Rule 201 of Regulation S-T provides procedures for a temporary exemption from mandated electronic filing when, due to unanticipated technical difficulties, an electronic filer cannot submit its filing in electronic format by the filing date. <sup>29</sup> The filer may submit the filing in paper format no later than one business day after the filing was to be made with the Commission, and the filer must submit an electronic format copy of the form within six business days of filing the paper format document. Form TA-1 and Form TA-W do not have specified filing dates, and Form TA-2 may be filed any time between January 1 and March 31. <sup>30</sup> As a result, the Commission does not believe that there would be many cases where transfer agents would need the temporary hardship exemption.
+
+If it is necessary that a transfer agent form be filed with the Commission on a date certain, there are two means by which the Commission typically would adjust the effective or filing date of a transfer agent form. First, the Commission has the authority under Section 17A(c) of the Act to accelerate, delay, or postpone the effective date of Form TA-1 and Form TA-W. <sup>31</sup> Second, Rule 13(b) of Regulation S-T provides that the Commission may adjust the filing date of an electronic filing, which would include Form TA-1, Form TA-2, or Form TA-W, if the filer in good faith attempts to file with the Commission in a timely manner but the filing is delayed due to technical1(b).difficulties beyond the filer’s control. <sup>32</sup> Accordingly, the Commission is amending Rule 201(a) to exclude the transfer agent forms from the applicability of Rule 201.
+
+<h>C. Miscellaneous Amendments</h>
+
+The Commission proposed miscellaneous amendments to Rules 17Ac2-1, 17A2-2, and 17Ac3-1 to remove outdated information. We did not receive any comments on the proposed amendments and are adopting them as proposed.
+
+<h>1. Revision to Rule 17Ac2-1</h>
+
+The amendments will integrate the SEC Supplement to Form TA-1 into the body of the form as Questions 8 through 10. As a result, there will no longer be a separate SEC Supplement.
+
+Consequently, the Commission is deleting the reference in Rule 17Ac2-1 to the SEC Supplement.
+
+<h>2. Deletion of Paragraph (c) in Rule 17Ac2-2</h>
+
+Paragraph (c) was added to Rule 17Ac2-2 as an amendment in June 2000. <sup>33</sup> The amendment changed the end of the annual reporting period for transfer agents from June 30 to December 31 of the calendar year. Paragraph (c) was added to Rule 17Ac2-2 to provide that transfer agents would not be required to file the annual report for the period ending June 30, 2000. Because this provision is no longer necessary, the Commission is removing it from the rule.
+
+<h>3. Reference to 17A(c)(3)(C) in Rule 17Ac3-1</h>
+
+Rule 17Ac3-1 implements the section of the Act that permits a transfer agent to withdraw from registration. The rule currently cites that section as 17A(c)(3)(C) of the Act; however, whenthe Act was amended in 1987, section 17A(c)(3)(C) was redesignated as 17A(c)(4). <sup>34</sup> The Commission is amending Rule 17Ac3-1 to reflect the change.
+
+<h>D. Amendments to Form TA-1, Form TA-2, and Form TA-W</h>
+
+The Commission proposed a number of amendments to the forms and instructions to reflect the requirement that they be submitted to EDGAR in electronic format and to amend outdated requests for information. We received two comment letters requesting that we make a minor changes or clarifications to Form TA-2. <sup>35</sup> Both commenters requested a change to Questions 8(c) and 9(a) in Form TA-2 to allow a “Not Applicable” response. Questions 8(c) and 9(a) currently allow only a “Yes” or “No” response and the commenter stated that there are some cases where a “Not Applicable” response is appropriate. After reviewing Questions 8(c) and 9(a), we have determined that the change is appropriate and will have it made to the form. <sup>36</sup> One commenter also asked two interpretative questions with respect to Questions 4(a) and 10(a) of Form TA-2. <sup>37</sup> That commenter asked if Question 4(a), which requests the number of items received for transfer during the reported period, should include transfers of ownership ( e.g. , a transfer from an individual to a trust) involving open-end fund shares. After reviewing the comment we have determined that such transfers of ownership should be disclosed in Question 4(a). The commenter also asked if Question 10(a), which requests the number of open-end investment company transactions processed, shouldinclude ownership changes ( e.g. , individual to trust). After reviewing the comment we have determined that such ownership changes should be disclosed in Question 10(a) as transactions processed.
+
+We are adopting the amendments to the forms and instructions substantially as proposed.
+
+Listed below is a summary of the amendments.
+
+<h>1. Amendments to All Forms and Instructions</h>
+
+The Commission is making the following amendments to Forms TA-1, TA-2, and
+
+TA-W:
+
+Amend the instructions to require the forms to be filed electronically in EDGAR.
+
+Replace current instructions regarding how and where to file the forms with instructions for filing through EDGAR.
+
+Amend Question 1 to require information about the filer that is required for EDGAR filing. <sup>38</sup>
+
+Amend the forms to allow the transfer agent to include a cover letter or other correspondence as an attachment to the form.
+
+Amend the forms and instructions to provide that the forms must be executed with an electronic signature pursuant to Rule 302, Signatures, of Regulation S-T. <sup>39</sup>
+
+The amendments to the forms and instructions will also include nonsubstantive format changes that are related to electronic filing using the EDGARLite templates. Suchformat changes include drop down data blocks that allow the filer to insert additional information to a question (instead of using attached sheets, schedules, or supplements), data fields that are designated as required fields, radio buttons that limit the filer to specific answers to a question, and hidden data fields for questions that are not applicable to the filer. <sup>40</sup> Filers that submit the information reported on the forms without using EDGARLite will not be affected by these amendments.
+
+<h>2. Amendments to Form TA-1 and Instructions</h>
+
+The instructions are amended to require a registered transfer agent to file an amended Form TA-1 in electronic format before it can file a Form TA-2 or Form TA-W in electronic format.
+
+A feature is added to allow the transfer agent to designate a filing as an amended filing. The instructions are amended to reflect this feature.
+
+Question 2, “Filing Status,” is deleted because the question is moved to the top section of the form.
+
+Question 6, “Service Companies Engaged by the Filer,” is amended to request the file number of the service company. The purpose of this amendment is to enable the Commission or other interested parties to confirm the identity of the service company engaged by the filer.
+
+Question 7, “Filer Engaged as a Service Company by a Named Transfer Agent,” is amended to request the file number of the named transfer agent. The purposeof this amendment is to enable the Commission or other interested parties to confirm the identity of the named transfer agent.
+
+Form TA-1 Supplement, “Control Person Information” for Corporations (Schedule A), Partnerships (Schedule B), and Other Entities (Schedule C), is integrated into the form as Questions 8 through 10.
+
+Form TA-1 Supplement, “Control Person Information,” is amended to delete Schedule D because Schedule D is a blank sheet that provides additional space for responses and is not necessary in the electronic form.
+
+Form TA-1 Supplement, “Control Person Information” for Corporations (Schedule A), Partnerships (Schedule B), and Other Entities (Schedule C) currently requests the social security number of control persons. We are amending this question to delete the request for the social security number because of privacy concerns in light of the fact that the forms will be available for public dissemination through EDGAR.
+
+Form TA-1 Supplement, “Control Person Information” for Corporations (Schedule A), Partnerships (Schedule B), and Other Entities (Schedule C), is amended to delete the ADD, AMEND, and DELETE Columns. Transfer agents will instead provide the beginning date of the relationship with the control person and the ending date of the relationship.
+
+Instruction II, Special Instructions for Filing and Amending Form TA-1, currently provides that the Financial Industry Number Standard (“FINS”) number assigned by The Depository Trust Company (“DTC”) may be obtained free of charge by submitting a request to DTC’s New York city mailing address. We are amendingthis instruction to reflect that the FINS number is now provided through DTC’s Web site www.dtc.org for a nominal fee.
+
+Instruction II.A.4, the instruction regarding marking items as deleted is removed because the DELETE Column in the TA-1 Supplement has been removed.
+
+Instruction II.B, Amending Registration, is revised to provide instructions on filing an amended Form TA-1 in EDGAR. All required items on the electronic form, not just those fields being amended, must be completed.
+
+Instruction III, SEC Supplement, Amending the Supplement, is deleted because the supplement has been integrated with the rest of the form.
+
+<h>3. Amendments to Form TA-2 and Instructions</h>
+
+Question 4, “Number of Items Received for Transfer During the Reporting Period,” is amended to add a paragraph (b) to request the number of individual securityholder accounts for which the transfer agent maintained master securityholder accounts. The purpose of this amendment is to provide information as to whether Questions 6-10 are required to be answered under Instruction II.B of Form TA-2. A corresponding change is being made to Instruction II.B.
+
+The response “Not Applicable” will be added to Questions 8(c) and 9(a) because, in response to requests from commenters, the Commission has determined that for some transfer agents a “Yes” or “No” response is not appropriate.
+
+A feature is added to allow the transfer agent to designate a filing as an amended filing. The instructions are amended to reflect this feature. All required items on the electronic form, not just those answers that are being amended, must be completed.
+
+<h>4. Amendments to Form TA-W and Instructions</h>
+
+Question 7. The reference to "out of proof conditions" is deleted because the Commission no longer uses the term.
+
+Questions 9 and 10. The reference to Schedule B on Form TA-1 is deleted because Form TA-1 was previously amended and Schedule B no longer requires the referenced information. <sup>41</sup> Accordingly, the phrase "each issue shown on Schedule B of registrants Form TA-1, as amended," is deleted and replaced with the phrase "each issue for which registrant acted as transfer agent."
+
+Instruction 1. The reference to "Section 17A(c)(3)(C)" is revised to "Section 17A(c)(4)(B)."
+
+<h>5. Amendment to Form ID</h>
+
+The Commission proposed to amend Form ID, Uniform Application for Access Codes to File on EDGAR, to add “transfer agent” to the check-the-box list of applicant types (the form currently has boxes for “filer,” “filing agent,” “trainer,” or “individual”). <sup>42</sup> The purpose of this change is to allow the Commission to identify a new filer as a transfer agent for purposes of utilizing the special instructions in EDGARLite for the TA forms (for example, a TA-2 will be blocked if the transfer agent hasn’t previously filed an electronic Form TA-1 or amended Form TA-1). <sup>43</sup>
+
+The Commission did not receive any comments to the proposed amendments to Form ID and is adopting them as proposed.
+
+<h>IV. PAPERWORK REDUCTION ACT</h>
+
+Certain provisions of the amendments to the rules and forms contain "collection of information requirements" within the meaning of the Paperwork Reduction Act of 1995. <sup>44</sup> We published a notice requesting comment on the collection of information requirements in the proposing release and submitted these requirements to the Office of Management and Budget (“OMB”) for review. <sup>45</sup> These requests are pending before the OMB. When we receive OMB clearance, we will publish notice in the Federal Register. We did not receive any comments on the Paperwork Reduction Act analysis contained in the proposing release.
+
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The amendments would require Form TA-1, Form TA-2, and Form TA-W, which are currently filed with the Commission in paper form, to be filed electronically on EDGAR. The Commission collects this information pursuant to its authority under Section 17A of the Act and uses the information collected on the forms in determining whether to allow a transfer agent to register or to withdraw from registration and also uses the information in monitoring the annual activities of transfer agents. The information filed on the Form TA-1, Form TA-2, and Form TA-W is publicly available and is used by the public to locate, research, and confirm the registration of transfer agents.
+
+The respondents to the collection of information are the registered transfer agents that file Form TA-1, Form TA-2, and Form TA-W with the Commission. Only transfer agents for whom the
+
+Commission is the ARA file Form TA-1 and Form TA-W with the Commission; however, all registered transfer agents, whether they are registered with the Commission or another ARA, must file the annual Form TA-2 with the Commission. Compliance with the proposed amendments would be mandatory. The information required by the proposed amendments would not be kept confidential by the Commission. The Commission's regulations that implement Section 17A of the Act are at 17 CFR 200.80 et seq .
+
+The amendments modify an existing collection of information by changing the format of a required filing from paper to electronic format and modify the text of the forms and the instructions to the forms to conform to the electronic filing requirement.
+
+The Commission does not estimate that the hour burdens for Form TA-1, Form TA-2, and Form TA-W will change as a result of the proposed amendments because completing an electronic form template and submitting it electronically on EDGAR should not take longer than completing a paper form and mailing the original and two copies to the Commission. The Commission believes, however, that the estimated hour burdens of Form TA-1 and for Form TA-2 should be increased for the first year to reflect the initial burden associated with filing electronically on EDGAR and the initial burden associated with the proposed requirement for each transfer agent registered with the Commission to refile the information on its Form TA-1 electronically as an amended Form TA-1.
+
+We estimate that the one time burden associated with electronic filing of transfer agent forms is two hours. This increased burden would be incurred with respect to the first transfer agent form the transfer agent files with the Commission electronically. For transfer agents registered with the Commission, this would be Form TA-1, because the proposal would require transfer agents registered with the Commission to file an electronic amended Form TA-1 before they could file any other transfer agent forms electronically. For all other transfer agents, this would be Form TA-2 because that is the only form those transfer agents file with the Commission.
+
+There are 519 transfer agents registered with the Commission. Accordingly, the increase in collection of information burden associated with filing electronically for Form TA-1 would be 1038 hours. There are 266 transfer agents registered with an ARA other than the Commission.
+
+Accordingly, the collection of information burden associated with filing electronically for Form TA- 2 is 532 hours.
+
+Additionally, we believe that the estimated hour burden for Form TA-1 will increase for the first year of electronic filing because the amendments require that transfer agents registered with the Commission refile the information on Form TA-1 electronically in EDGAR as an amended Form TA-1. The requirement to file an amended Form TA-1 would apply to the 519 transfer agents for which the Commission is the ARA and would create a one time collection of information burden.
+
+We estimate that each transfer agent that is required to refile the information on Form TA-1 wouls need approximately two hours to do so, for an increase to the total burden for the first year of 1,038 hours.
+
+In sum, we estimate that the amendments will increase the collection of information hour burden for Form TA-1 by a total of 2,076 hours and for Form TA-2 of a total of 532 hours for the first electronic filing only. <sup>46</sup> After the first electronic filing, the estimated burden will return to its current level.
+
+<h>V. COSTS AND BENEFITS OF THE PROPOSED RULEMAKING</h>
+
+The Commission is sensitive to the costs and benefits of our rule implementing an electronic filing system for transfer agent forms. We believe that the amendments will benefit transfer agentsand investors by improving the efficiency and quality of the information filed with the Commission, which is available to the public. We also believe that the amendments will result in certain costs to most transfer agents because they may need to purchase computer software and possibly hardware and will need to train personnel to create forms in the EDGARLite™ application and to file the forms on EDGAR. The Commission received three comment letters which discuss the costs and benefits of the proposal. <sup>47</sup> These commenters believed the benefits of the proposal are mainly to the Commission and that the costs of the proposal to small transfer agents are too high. One commenter also stated that the information on the forms does not need to be disseminated on EDGAR because the public does not have use for the information reported on the forms. <sup>48</sup>
+
+<h>A. Benefits</h>
+
+An electronic filing system will improve the efficiency of the filing process for transfer agents and would also improve the public dissemination of the information on the forms. The electronic filing system will eliminate the burdens associated with the paper forms and the possibility of the forms being lost or misdirected. By performing data validation checks, the EDGARLite application will help to ensure that transfer agents fill the forms out completely and in the appropriate format. It will also provide transfer agents with email notification that a form has been accepted or suspended by the Commission.
+
+The rule will benefit the public because it will make the information on transfer agent forms, which is publicly available information, more easily accessible and available in a more timely manner in EDGAR than it currently is through the Commission's public reference room. The new system would also improve the Commission’s ability to maintain, review, and analyze transfer agentforms by collecting and storing all of the information on the forms in a single, centralized database. The database will be updated immediately upon the receipt of new filings and will help the Commission identify delinquent filers. It will also allow for analytic tools such as data aggregation, statistical analysis, and report generation. Additionally, the information will be disseminated as submitted by filers so there will be no risk of transcription error as there is with information that is submitted in hardcopy and manually entered into the database.
+
+The Commission received one comment letter that discusses the benefits of the proposal.
+
+The commenter stated that it believes the proposal will not be beneficial to any entity other than the Commission. <sup>49</sup> First, the commenter stated that much of the investing public does not have an interest in transfer agent data and that the few people who would like the data can request it directly from the transfer agents themselves. Second, the commenter stated that electronic filing will cause a lot of expense and labor for the transfer agents but will only benefit the Commission. The commenter recommended that electronic filing should therefore be optional and not mandatory.
+
+While we appreciate the commenter’s concerns, we believe that the proposal does benefit the investing public and transfer agents. Transfer agents act as the agents of issuers of securities and oversee such functions as stock transfers and dividend payments. We frequently receive requests for transfer agent data from issuers, who may be interested in hiring a transfer agent, and from investors, who may be seeking to contact the transfer agent or who want assurance that the transfer agent is registered and is current in all its filings with the Commission. Additionally, although electronic filing will substantially improve the Commission’s ability to monitor and regulate transfer agent activities, this benefit to the Commission will benefit the investing public as a whole because it will help to ensure that they are registered and are operating in conformance with the requirements under Section 17A of the Act.
+
+<h>B. Costs</h>
+
+Transfer agents will incur initial and ongoing costs with respect to the electronic filing system. The Commission believes that most of the cost burden will be in terms of initial costs and will be in terms of using the electronic filing system. The Commission does not believe that transfer agents will incur additional costs in the first year as a result of completing the forms in electronic format versus in paper format because, other than amendments to Question 4 of Form TA-2 to request the number of individual securityholder accounts and to Questions 6 and 7 of Form TA-1 to request the file number of service companies and named transfer agents, the substance of the transfer agent forms is not changing. However, transfer agents that are registered with the Commission will incur additional costs with respect to completing the forms because they will be required to prepare and file an electronic amendment to their original registration on Form TA-1 and submit it to EDGAR for the first year of electronic filing before they can submit their annual report on Form TA- 2.
+
+In order to file electronic transfer agent forms in EDGAR, transfer agents will need the computer system requirements necessary to access EDGAR and will have to train personnel to prepare forms using EDGARLite. We believe that most transfer agents currently have the necessary computer system requirements as well as access to the Internet as part of their current businesses.
+
+However, the Commission believes that many transfer agents will choose to purchase MS Infopath™ which is needed to view and enter data in EDGARLite forms.
+
+To estimate the impact of the proposal on transfer agents, the Commission staff reviewed the filings submitted by transfer agents to the Commission and communicated with several small and mid-size transfer agents regarding their computer systems, personnel, and familiarity with EDGAR. Many transfer agents are entities or are affiliated with entities, such as publicly traded companies or investment companies, which submit filings to the
+
+Commission electronically in EDGAR. These transfer agents have the necessary computer system requirements and personnel to file the transfer agent forms in EDGAR, but many do not have the MS InfoPath™ software necessary to construct forms in EDGARLite. Transfer agents that have purchased Microsoft Office 2000 Professional Enterprise Edition™ have MS InfoPath™ included as part of their operating system; however, most of these transfer agents are not familiar with MS InfoPath™ and would have to train their personnel to use the software. Of the transfer agents that do not currently file forms electronically in EDGAR, most have the computer system requirements to file in EDGAR, but would need to purchase MS InfoPath™, train personnel to construct forms using EDGARLite, and submit forms electronically to EDGAR. In addition, some transfer agents may not have the necessary system requirements to file in EDGAR and will need to purchase upgrades to their computer systems as well as incur the costs related to purchasing the MS InfoPath™ software and training personnel to file forms in EDGAR using EDGARLite.
+
+From the above information, the Commission believes that the cost to transfer agents of the electronic filing could range from only the cost of training personnel to create forms in EDGARLite to the cost of upgrading systems, purchasing MS InfoPath™ and training personnel to use the EDGAR system and EDGARLite. The EDGARLite application is designed to be easy to use and the MS InfoPath™ software is a relatively low-cost software package that is readily available. The EDGAR Filer Manual will provide instructions for installing MS InfoPath™ and for using EDGARLite. Based on this, the Commission believes that any training for personnel with respect to electronic filing will be two hours for each registered transfer agent. Additionally, the Commission believes that transfer agents registered with the Commission will require an additional two hours to refile the information on Form TA-1 as an amended Form TA-1. The Commission believes a cost of$31.50 per hour and that the total labor cost to the transfer agent industry for complying with the proposed amendments will be $98,910. <sup>50</sup>
+
+Alternatively, transfer agents or a third party could prepare the forms without MS InfoPath™ by creating an XML tagged version of the filing as an ASCII document using technical specifications that will be available on the Commission’s public Web site. <sup>51</sup> The Commission will integrate the XML tags with the form template to create a structured form that is identical to the form created in EDGARLite for the purpose of viewing the form in EDGAR. This filing method would require some technical expertise on the part of the filer, however. Transfer agents could also hire a third party filer to prepare and submit the forms on their behalf using MS InfoPath.™ Third parties generally charge separate fees for preparation and submission of EDGAR filings, and they either charge a fee per page of a filing or, for some forms, offer a flat rate per form. Based on the published cost structures of some of the larger third party filers, we estimate that the cost of hiring a third party filer to fill out a single transfer agent form would be in the range of $150 to $200.
+
+The Commission believes that transfer agents will incur a small amount of ongoing costs with respect to the amendments, such as purchasing upgrades to MS InfoPath™ software and maintaining access to the Internet. Additionally, transfer agents will have to have personnel that are familiar with the EDGAR system to file Form TA-2 each year and amendments to Form TA-1 whenever the information on the form becomes inaccurate, misleading, or incomplete.
+
+The Commission received four comment letters from three commenters that discussed the costs of the proposal. <sup>52</sup> The commenters stated that the proposal requires skills and computer software that they do not have and could require additional software upgrades. One commenter stated that small in-house transfer agents cannot pass their expenses on to investors and that any additional expenses, such as the one in the current proposal, could lead them to outsource their functions to large, commercial transfer agents. <sup>53</sup>
+
+The Commission is aware that the proposal will impose some level of cost on many transfer agents and that those transfer agents that are small entities may be more affected than other transfer agents. Therefore, we are allowing transfer agents to apply for a hardship exemption under Rule 202 of Regulation S-T. This would allow them to continue to file the forms in paper format. The Commission will review each application on a case by case basis and in its discretion may grant an exemption if it determines that electronic filing is unduly burdensome and that granting the exemption is appropriate and consistent with the public interest and protection of investors.
+
+<h>VI. CONSIDERATION OF THE BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY, AND CAPITAL FORMATION</h>
+
+Section 3(f) of the Act <sup>54</sup> requires the Commission, whenever it engages in rulemaking and is required to consider or to determine whether an action is necessary or appropriate in the pubic interest, to consider whether the action will promote efficiency, competition, and capital formation.
+
+G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+In addition, Section 23(a)(2) of the Act <sup>55</sup> requires the Commission, when promulgating rules under the Act, to consider the impact any such rules would have on competition. Section 23(a)(2) further provides that the Commission may not adopt a rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Act.
+
+A transfer agent is any entity that engages on behalf of an issuer of securities or on behalf of itself as an issuer of securities in: (1) countersigning such securities upon issuance; (2) monitoring the issuance of such securities with a view to preventing unauthorized issuance, a function commonly performed by a person called a registrar; (3) registering the transfer of such securities; (4) exchanging or converting such securities; and (5) transferring record ownership of securities by bookkeeping entry without physical issuance of securities certificates. <sup>56</sup> Transfer agents are regulated by the Commission pursuant to Section 17A of the Act. All transfer agents file an annual report with the Commission on Form TA-2. Non-bank transfer agents file registrations on Form TA- 1 and withdrawals from registration on Form TA-W with the Commission. These forms are currently filed with the Commission in paper format.
+
+The amendments to Regulation S-T, Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 and to Forms TA-1, TA-2, and TA-W and the instructions to the forms will require that transfer agent forms be filed electronically using the Commission's EDGAR system. The Commission has designed a new application in EDGAR, EDGARLite, that uses form templates with a commercial off-the-shelf software package, MS InfoPath,™ to allow filers to easily complete electronic forms for submissionto the Commission. However, filers will not be required to use EDGARLite and could submit the information reported on the forms to the Commission in ASCII text characters. <sup>57</sup>
+
+An electronic filing system will eliminate the burdens associated with the paper forms and the possibility of the forms being lost or misdirected. The EDGARLite application will perform data validation checks, which will help to ensure that transfer agents fill the forms out completely and in the appropriate format. It will also provide transfer agents with email notification that a form has been accepted or suspended by the Commission. Accordingly, the implementation of the electronic filing system should promote efficiency. The electronic filing system should also promote accuracy because the information reported on the forms will be submitted in electronic format by transfer agents so there will be no risk of transcription error as there is with information that is submitted in hardcopy and is manually entered into EDGAR or another Commission database. The amendments will apply to all transfer agents and the EDGARLite application is intended to be a program that is easy to use at a reasonable cost. Most transfer agents will be able to comply with an electronic filing requirement without difficulty; however, the amendments will allow transfer agents to apply for a continuing hardship exemption under Rule 202 of Regulation S-T if the electronic filing requirement would cause undue burden or cost and the Commission determines that such exemption is appropriate and consistent with the public interest and the protection of investors. As a result, the amendments are not expected to adversely impact a transfer agent’s ability to file transfer agent forms and, accordingly, likely will not have an adverse impact on competition. The amendments are not expected to affect the operations of transfer agents and will not materially change the information that is required to be reported to the Commission on the forms. The amendments willchange the filing method of the forms from paper format to electronic format. Accordingly, the amendments are not expected to have an impact on capital formation.
+
+We received one comment letter that stated the proposal could have an adverse impact on competition because the expense of meeting the electronic filing requirement could lead in-house transfer agents, which cannot pass regulatory expenses on to issuer clients, to outsource their functions to large, commercial transfer agents. <sup>58</sup> While we appreciate the commenter’s concerns, we do not believe the costs to transfer agents as a result of the proposal will rise to that level.
+
+Additionally, as noted above, transfer agents may apply for a hardship exemption under Rule 202 of Regulation S-T which would allow them to continue filing in paper format.
+
+<h>VII. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
+
+The Commission has prepared a Final Regulatory Flexibility Analysis ("FRFA") pursuant to the Regulatory Flexibility Act <sup>59</sup> regarding the amendments to Regulation S-T, Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 and to Form TA-1, Form TA-2, and Form TA-W and the instructions to the forms.
+
+<h>A. Need for the Amendments</h>
+
+The Commission receives over a thousand transfer agent forms year. An electronic filing system will eliminate the burdens associated with paper forms and streamline the filing process. It will help to ensure that transfer agents fill the forms out completely and in the appropriate format. It will also provide transfer agents with email notification that a form has been accepted or suspended by the Commission.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+The Initial Regulatory Flexibility Act Analysis (“IRFA”) appeared in the proposing release.
+
+We requested comment on any aspect of the IRFA and we received two comment letters from persons who object to the amendments because the expense of meeting an electronic filing requirement competitively disadvantages small transfer agents. <sup>60</sup> These commenters also stated that although they find electronic filing on EDGAR to be burdensome, a PDF attachment or an internet based form that does not require special software would be feasible. One commenter also expressed concerns about necessary software upgrades and any associated costs. <sup>61</sup>
+
+The Commission is very sensitive to the cost concerns of small transfer agents. The EDGARLite program was designed to keep the costs to filers low and, while electronic filing may require EDGAR skills and computer systems that all transfer agents do not currently have, we believe any costs transfer agents may be required to incur are reasonable. The amendments to mandate electronic filing are necessary to ensure that the information reported by transfer agents is complete, accurate, and stored in a single, centralized database and that the information is publicly available in an easily searchable format. To achieve this goal, electronic submissions must be formatted as XML data tags and submitted on EDGAR. Forms submitted as PDF attachments are not usable for analytical tools such as data aggregation, statistical analysis, and report generation.
+
+The Commission designed EDGARLite to utilize commercial software because it was the most cost-efficient way to allow information reported on a relatively small number of forms to be filed on EDGAR as tagged data in XML format. It would not be economically feasible for the Commission to develop an EDGAR application for transfer agent forms without usingcommercial software or for the Commission to develop more than one electronic filing system for transfer agent forms. The Commission considered the costs of the commercial software very carefully and chose software that we believed would best meet our needs for the EDGARLite functionality, including ease of use and data validation, and that we believed would be affordable for all filers. There may occasionally be upgrades to the software; however, transfer agents would only have to purchase upgraded software if the Commission makes changes to the EDGARLite application that use the features of the upgraded version of the software. Transfer agents who have not filed on EDGAR before will have to train staff to file the transfer agent forms on EDGAR, however, the EDGAR Filer Manual provides detailed instructions for each step of the filing process. Transfer agents will also have the option of applying for a continuing hardship exemption under Rule 202 of Regulation S-T to file in paper format if they believe the electronic filing requirement would cause them undue burden or expense.
+
+For these reasons, we believe that any additional costs the electronic filing requirement may impose on transfer agents are necessary and reasonable in order to improve and modernize the Commission’s filing program for transfer agent forms.
+
+<h>C. Small Entities Subject to the Amendments</h>
+
+The FRFA also discusses the effect of the proposal on transfer agents that are small entities under Rule 0-10(h) under the Act. <sup>62</sup> Rule 0-10(h) defines the term “small business” or “small organization” to include any transfer agent that: (1) received less than 500 items for transfer and less than 500 items for processing during the preceding six months (or in the time that it has been in business, if shorter); (2) transferred items only of issuers that would be deemed "small businesses" or"small organizations" as defined in this section; (3) maintained master shareholder files that in the aggregate contained less than 1,000 shareholder accounts or was the named transfer agent for less than 1,000 shareholder accounts at all times during the preceding fiscal year (or the time that it has been in business, if shorter); and (4) is not affiliated with any person, other than a natural person, that is not a small business or small organization under Rule 0-10.
+
+The Commission estimates that there are 310 registered transfer agents that are "small entities" under Rule 0-10. Of these, 170 are registered with the Commission and 140 are registered with the other ARAs.
+
+<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements</h>
+
+The amendments require that all transfer agents apply for access to the EDGAR system and file all transfer agent forms that they file with the Commission electronically on EDGAR. The amendments also amend Form ID, Uniform Application for Access Codes to File on EDGAR, to add “transfer agent” to the check-the-box list of applicant types (the form currently has boxes for “filer,” “filing agent,” “trainer,” or “individual”). Transfer agents are expected, but not required, to complete the electronic forms by using the EDGARLite application. All transfer agents filing electronically will need a computer system that meets the EDGAR software and hardware requirements. Additionally, all transfer agents that have previously filed a Form TA-1 with the Commission will have to file an amended Form TA-1 electronically, of which approximately 170 are small entities within the definition in Rule 0-10. The FRFA states that the incremental burden on all "small entities" is approximately 960 hours and $30,240 for all entities. The FRFA also states that the proposed amendments will not impose any other reporting, recordkeeping, or compliance requirements, and that the Commission believes that there are no rules that duplicate, overlap, or conflict with the proposed amendments.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The FRFA discusses the alternatives considered by the Commission in connection with the proposed amendments to Regulation S-T, Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 and to Forms TA- 1, TA-2, and TA-W and the instructions to the forms. The purpose of electronic filing is to have all filings required to be filed with the Commission received in a timely and efficient manner and for the data filed on the forms to be stored in a single, centralized database. Any forms filed on paper could be subject to loss, inaccuracies, and delayed reporting, which would affect the integrity of the database and affect the Commission's ability to perform its oversight role with respect to transfer agents. Accordingly, we have determined that it would not be appropriate to allow any transfer agents to continue to file the forms in paper form unless the Commission were to grant the transfer agent a continuing hardship exemption under Rule 202 of Regulation S-T.
+
+As an alternative to creating the electronic forms in EDGARLite, which requires the filer to purchase MS InfoPath™ software, transfer agents or a third party can prepare the forms outside of EDGARLite by creating an XML tagged version of the filing as an ASCII document using technical specifications that will be available on the Commission’s public Web site. <sup>63</sup> It should be noted that this filing method requires some technical expertise on the part of the filer and the Commission does not anticipate that transfer agents or third parties will find it worth the cost savings to develop the transfer agent forms outside of EDGARLite.
+
+The Commission also considered whether entities can file the forms with the Commission by using public computer services, such as an internet cafe or a public library, and therefore avoid the expense of any required hardware, software, or internet access. Commission staff contacted public computer service providers in 2004 and determined that it was unlikely that these facilities would have the necessary MS Infopath™ software requirement for using the EDGARLite templates.
+
+However, transfer agents will be free to use a public facility if the facility has the necessary computer system requirements. Additionally, filers can prepare their filings by creating an ASCII document as described above, which should be possible on many public computer service facilities.
+
+Finally, the Commission can grant a transfer agent a continuing hardship exemption from the electronic filing requirement under Rule 202 of Regulation S-T if the transfer agent demonstrates that the electronic filing requirement would cause it undue burden or expense and the Commission determines that a grant of the exemption is appropriate and consistent with the public interest and the protection of investors. A transfer agent that was granted such an exemption would continue to file the forms in paper and thus would not be economically impacted by the electronic filing requirement.
+
+<h>VIII. STATUTORY BASIS AND TEXT OF THE AMENDMENTS</h>
+
+<END MAIN TEXT>
+
+1 17 CFR 249b.100, 249b.101, and 249b.102, respectively.
+
+2 EDGAR is the Commission’s computer system for the receipt, acceptance, review, and dissemination of documents submitted in electronic format. The term electronic format means the computerized format of a document prepared in accordance with the EDGAR Filer Manual. 17 CFR 232.11.
+
+3 Securities Exchange Act Release No. 54356 (August 24, 2006), 71 FR 53494 [File No. S7- 14-06].
+
+4 The application will produce an Extensible Markup Language ("XML") version of the filing with all data elements identified through XML tags. A “tag” is an identifier that highlights specific information to EDGAR that is in the format required by the EDGAR Filer Manual. 17 CFR 232.11.
+
+5 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006; Loren K. Hanson, Director, Investor Relations, Otter Tail Corporation, dated August 31, 2006; Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006; Angie Orr, Senior Legal Assistant, American Century Services, LLC, dated October 19, 2006; Diane M. Butler, Director of Transfer Agency & International Operations, Investment Company Institute, dated October 26, 2006; and Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+6 15 U.S.C. 78q-1(c)(1).
+
+7 15 U.S.C. 78c(a)(34)(B). When used with respect to a clearing agency or transfer agent, the term "appropriate regulatory agency" means: (i) the Comptroller of the Currency, in the case of a national bank or a bank operating under the Code of Law for the District of Columbia, or a subsidiary of any such bank; (ii) the Board of Governors of the Federal Reserve System, in the case of a State member bank of the Federal Reserve System, a subsidiary thereof, a bank holding company, or a subsidiary of a bank holding company
+
+8 17 CFR 240.17Ac2-2. For the years 2003 through 2005, the Commission received an average of 1,069 transfer agent forms each year, including 41 Forms TA-1, 247 amended Forms TA-1, 709 Forms TA-2, 31 amended Forms TA-2, and 39 Forms TA-W.
+
+9
+
+10 An ASCII document is an electronic text document that has contents limited to American Standard Code for Information Interchange (“ASCII”) characters. 17 CFR 232.11.
+
+11 Third party software developers may also use the technical specifications to create a software product to compete with or enhance the EDGARLite application.
+
+12 17 CFR 232.301.
+
+13 Transfer agents may download the latest version of the Filer Manual from the Commission’s Web site under the section “Information for EDGAR Filers.”
+
+14
+
+15 Any draft of the EDGAR Filer Manual that is posted before Commission approval of potential regulatory changes is provided as a service to the filing community to assist filers, agents, and software developers prepare for potential changes Commission staff anticipates. The Commission retains the right to change any part of the manual before the new system release is made final and the posting of the draft manual does not indicate Commission approval of any pending proposed changes relating to the potential changes reflected in the draft manual.
+
+16 A paper copy version of the forms and instructions will be available from the Commission Publications Office and on the Commission's Web site for information purposes and for use
+
+17 17 CFR 232.202.
+
+18 Transfer agents registered with an ARA other than the Commission do not file Form TA-1 or Form TA-W with the Commission and accordingly would not be subject to this requirement.
+
+19 Instruction I.D. to Form TA-1.
+
+20 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006; Loren K. Hanson, Director, Investor Relations, Otter Tail Corporation, dated August 31, 2006; Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006; Angie Orr, Senior Legal Assistant, American Century Services, LLC, dated October 19, 2006; Diane M. Butler, Director of Transfer Agency & International Operations, Investment Company Institute, dated October 26, 2006; and Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+21 Diane M. Butler, Director of Transfer Agency & International Operations, Investment Company Institute, dated October 26, 2006.
+
+22 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006; Loren K. Hanson, Director, Investor Relations, Otter Tail Corporation, dated August 31, 2006; Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006; and Christeena
+
+23 Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+24 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006.
+
+25 Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006 and Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+26 Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+27 17 CFR 232.101(a).
+
+28 17 CFR 232.104(a).
+
+29 17 CFR 232.201.
+
+30 17 CFR 240.17Ac2-2(a).
+
+31 15 U.S.C. 78q-1(c)(2), (c)(4)(A) and (B), and 17 CFR 240.17Ac2-1(a) and 240.17Ac3-
+
+32 17 CFR 232.13(b). The filer must request an adjustment of the filing date, and the Commission or its staff, pursuant to delegated authority, may grant the request if it appears that such adjustment is appropriate and consistent with the public interest and the protection of investors.
+
+33 Securities Exchange Act Release No. 42892 (June 2, 2000), 65 FR 36602 (June 9, 2000).
+
+34 Pub.L. 100-181 (S 1452), § 322(3), 101 Stat 1249, December 4, 1987.
+
+35 Diane M. Butler, Director of Transfer Agency & International Operations, Investment Company Institute, dated October 26, 2006; and Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+36 The changes to Questions 8(c) and 9(a) of Form TA-2 will be made in the EDGAR Release scheduled for February 2007.
+
+37 Diane M. Butler, Director of Transfer Agency & International Operations, Investment Company Institute, dated October 26, 2006
+
+38 See EDGAR Filer Manual, Volume I (General Information).
+
+39 17 CFR 232.302. Rule 302 provides that a signature to any electronic submission must be provided in typed rather than manual format. Each signatory is required to manually sign a signature page or other document authenticating, acknowledging, or otherwise adopting his or her signature that appears in typed form within the electronic filing before or at the time the electronic filing is made. Such document must be retained by the filer for a period of five years and must be furnished to the Commission or its staff upon request.
+
+40 Filers can view the blank form in its entirety by checking the box at the top of the form that expands the form to show all fields. Filers can also print the blank form using this mechanism.
+
+41 Securities Exchange Act Release No. 23084 (March 27, 1986), 51 FR 12124 (April 9, 1986).
+
+42 17 CFR 239.63, 249.446, 269.7, and 274.402.
+
+43 Transfer agents that have previously filed a transfer agent form with the Commission are currently in the system. Only those transfer agents that are filing a transfer agent form with the Commission for the first time would be required to complete and file a Form ID.
+
+44 44 U.S.C. 3501 et seq.
+
+45 Publication and submission were in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.1.
+
+46 Based on an estimated average administrative labor cost of $31.50 per hour, the Commission’s staff estimates that the total labor cost to the transfer agent industry for complying with the proposed amendments would be $98,910.
+
+47 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006; Loren K. Hanson, Director, Investor Relations, Otter Tail Corporation, dated August 31, 2006; and Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006.
+
+48 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006
+
+49 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006.
+
+50 The cost per hour is based on the estimated per hour salary of a senior computer operator using the Securities Industry Association’s Office Salary Data for 2003, adjusted for inflation.
+
+51 See note 10.
+
+52 Kevin Kopaunik, Fidelity Transfer Company, dated August 31, 2006; Loren K. Hanson, Director, Investor Relations, Otter Tail Corporation, dated August 31, 2006; Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006; and Christeena
+
+53 Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006.
+
+54 15 U.S.C. 78c(f).
+
+55 15 U.S.C. 78w(a)(2).
+
+56 15 U.S.C. 78c(a)(25).
+
+57 See note 10.
+
+58 Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006.
+
+59 5 U.S.C. 603(a).
+
+60 Loren K. Hanson, Assistant Secretary, Otter Tail Corporation, dated October 4, 2006 and Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+61 Christeena G. Naser, Senior Counsel for Regulatory and Trust Affairs, American Banker Association, dated November 2, 2006.
+
+62 17 CFR 240.0-10(h).
+
+63 See note 10.
+
+64 15 U.S.C. 77s(a).
+
+65 15 U.S.C. 78m(a).
+
+66 15 U.S.C. 78w(a).
+
+67 15 U.S.C. 78ll.
+
+68 15 U.S.C. 77sss.
+
+69 15 U.S.C. 80a-29.
+
+70 15 U.S.C. 80a-37.
+
+71 15 U.S.C. 78q(a).
+
+72 15 U.S.C. 78q-1(c).

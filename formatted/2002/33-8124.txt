@@ -1,0 +1,575 @@
+https://www.sec.gov/rules/final/33-8124.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Certification of Quarterly and Annual Reports
+
+		II.A.0.0: A. Rule Requirements
+
+		II.B.0.0: B. Discussion of Certification Requirement
+
+			II.B.1.0: 1. Issuers Subject to Certification Requirement
+
+			II.B.2.0: 2. Reports Subject to Certification Requirement
+
+			II.B.3.0: 3. Content of Certification
+
+			II.B.4.0: 4. Form of Certification
+
+			II.B.5.0: 5. Location of Certification
+
+			II.B.6.0: 6. Liability for False Certification
+
+	III.0.0.0: III. Disclosure Controls and Procedures
+
+		III.A.0.0: A. Rule Requirements
+
+		III.B.0.0: B. Discussion of Disclosure Controls and Procedures
+
+	IV.0.0.0: IV. Certification of Registered Investment Company Annual and Semi-Annual Reports
+
+	V.0.0.0: V. Transition Provisions
+
+	VI.0.0.0: VI. Paperwork Reduction Act
+
+	VII.0.0.0: VII. Cost-Benefit Analysis
+
+	VIII.0.0.0: VIII. Final Regulatory Flexibility Analysis
+
+		VIII.A.0.0: A. Reasons for, and Objectives of, New Rules
+
+		VIII.B.0.0: B. Legal Basis
+
+		VIII.C.0.0: C. Small Entities Subject to the Final Rules
+
+		VIII.D.0.0: D. Significant Issues Raised by Public Comment
+
+		VIII.E.0.0: E. Reporting, Recordkeeping and Other Compliance Requirements
+
+		VIII.F.0.0: F. Duplicative, Overlapping or Conflicting Federal Rules
+
+		VIII.G.0.0: G. Agency Action to Minimize Effect on Small Entities
+
+	IX.0.0.0: IX. Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
+
+	X.0.0.0: X. Administrative Procedure Act
+
+	XI.0.0.0: XI. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Securities and Exchange Commission 17 CFR PARTS 228, 229, 232, 240, 249, 270 and 274 [RELEASE NOS. 33-8124, 34-46427, IC-25722; File No. S7-21-02]
+
+RIN 3235-AI54 Certification of Disclosure in Companies' Quarterly and Annual Reports 
+
+ Agency: Securities and Exchange Commission.
+
+ Action: Final rule; request for comments.
+
+ Summary: As directed by Section 302(a) of the Sarbanes-Oxley Act of 2002, we are adopting rules to require an issuer's principal executive and financial officers each to certify the financial and other information contained in the issuer's quarterly and annual reports. The rules also require these officers to certify that: they are responsible for establishing, maintaining and regularly evaluating the effectiveness of the issuer's internal controls; they have made certain disclosures to the issuer's auditors and the audit committee of the board of directors about the issuer's internal controls; and they have included information in the issuer's quarterly and annual reports about their evaluation and whether there have been significant changes in the issuer's internal controls or in other factors that could significantly affect internal controls subsequent to the evaluation. In addition, we are adopting previously proposed rules to require issuers to maintain, and regularly evaluate the effectiveness of, disclosure controls and procedures designed to ensure that the information required in reports filed under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported on a timely basis. 
+
+ Dates: Effective Date: August 29, 2002.
+
+ Comment Date: Comments on the extension of the certification requirement to definitive proxy and information statements should be received on or before 30 days after publication in the Federal Register . 
+
+ Addresses: Comments should be submitted in triplicate to Jonathan G. Katz, Secretary, Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549-0609. Comments also may be submitted electronically at the following electronic mail address: rule-comments@sec.gov . To help us process and review your comments more efficiently, comments should be submitted by one method only. All comment letters should refer to File No. S7-21-02; this file number should be included in the subject line if electronic mail is used. Comment letters will be available for public inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549. Electronically submitted comment letters will be posted on the Commission's Internet website ( http://www.sec.gov ).<sup> 1 </sup>
+
+ For Further Information Contact: Mark A. Borges, Special Counsel, or Elizabeth M. Murphy, Chief, Office of Rulemaking, Division of Corporation Finance, at (202) 942-2910, or, with respect to issuers of asset-backed securities, Paula Dubberly, Chief Counsel, Division of Corporation Finance, at (202) 942-2900, or, with respect to investment companies, Tara L. Royal, Attorney, Office of Disclosure Regulation, Division of Investment Management, at (202) 942-0721, at the Securities and Exchange Commission, 450 Fifth Street, NW, Washington, DC 20549.
+
+ Supplementary Information: We are adopting new Item 307<sup> 2 </sup> of Regulation S-B,<sup> 3 </sup> new Item 307<sup> 4 </sup> of Regulation S-K,<sup> 5 </sup> new Rules 13a-14,<sup> 6 </sup> 13a-15,<sup> 7 </sup> 15d-14<sup> 8 </sup> and 15d-15<sup> 9 </sup> under the Securities Exchange Act of 1934 ("Exchange Act")<sup> 10 </sup> and new Rule 30a-2<sup> 11 </sup> under the Investment Company Act of 1940 ("Investment Company Act").<sup> 12 </sup> We also are adopting amendments to Rules 12b-15,<sup> 13 </sup> 13a-10<sup> 14 </sup> and 15d-10<sup> 15 </sup> and Forms 10-Q,<sup> 16 </sup> 10-QSB,<sup> 17 </sup> 10-K,<sup> 18 </sup> 10-KSB,<sup> 19 </sup> 20-F<sup> 20 </sup> and 40-F<sup> 21 </sup> under the Exchange Act, Rule 30b1-3 under the Investment Company Act,<sup> 22 </sup> Rule 302 of Regulation S-T<sup> 23 </sup> and Form N-SAR<sup> 24 </sup> under the Exchange Act and the Investment Company Act.
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+On July 30, 2002, the Sarbanes-Oxley Act of 2002 (the "Act") was enacted.<sup> 25 </sup> Section 302 of the Act, entitled "Corporate Responsibility for Financial Reports," requires the Commission to adopt final rules that must be effective by August 29, 2002, 30 days after the date of enactment, under which the principal executive officer or officers and the principal financial officer or officers, or persons providing similar functions, of an issuer each must certify the information contained in the issuer's quarterly and annual reports. Section 302 also requires these officers to certify that: they are responsible for establishing, maintaining and regularly evaluating the effectiveness of, the issuer's internal controls; they have made certain disclosures to the issuer's auditors and the audit committee of the board of directors about the issuer's internal controls; and they have included information in the issuer's quarterly and annual reports about their evaluation and whether there have been significant changes in the issuer's internal controls or in other factors that could significantly affect internal controls subsequent to the evaluation.
+
+On June 14, 2002, we proposed rules that would have required a company's principal executive officer and principal financial officer to certify the contents of the company's quarterly and annual reports.<sup> 26 </sup> The June Proposals also would have required companies to maintain procedures to provide reasonable assurance that they are able to collect, process and disclose the information required in their Exchange Act reports. Finally, the June Proposals would have required companies to undertake an annual evaluation of these procedures under the supervision of management. Shortly after enactment of the Act, we provided supplemental information on the Act and the June Proposals.<sup> 27 </sup> 
+
+In light of Congress' directive in Section 302 of the Act, we are adopting rules that implement the certification mandated by the Act instead of the certification contained in the June Proposals. We received 102 comment letters in response to the June Proposals.<sup> 28 </sup> Although responding to the form of certification set forth in the June Proposals, a majority of the commenters supported a certification requirement for senior corporate officers.<sup> 29 </sup> In addition, the comment letters we have received since the enactment of the Act also express support for a certification requirement.<sup> 30 </sup> Because Section 302 of the Act prescribes the form of certification that we are to adopt, the new rules do not reflect many of the comments and suggestions that we received on the June Proposals. 
+
+While Section 302 of the Act requires an issuer's principal executive and financial officers to make specific certifications regarding their responsibilities to establish and maintain internal controls, it does not directly address the issuer's responsibility for controls and procedures related to the issuer's Exchange Act reporting obligations.<sup> 31 </sup> The June Proposals included requirements that companies maintain sufficient procedures to provide reasonable assurances that they are able to collect, process and disclose, within the time periods specified in the Commission's rules and forms, the information required to be disclosed in their Exchange Act reports.<sup> 32 </sup> We have adopted this requirement largely as proposed. Because of the broad scope of Section 302 of the Act, the new rules are applicable to all types of issuers that file reports under Section 13(a) or 15(d) of the Exchange Act, including foreign private issuers, banks and savings associations, issuers of asset-backed securities, small business issuers and registered investment companies.<sup> 33 </sup><h>II. Certification of Quarterly and Annual ReportsA. Rule Requirements </h><h>A. Rule Requirements </h>
+
+As adopted, new Exchange Act Rules 13a-14 and 15d-14 require an issuer's principal executive officer or officers and the principal financial officer or officers, or persons performing similar functions, each to certify in each quarterly and annual report, including transition reports, filed or submitted by the issuer under Section 13(a) or 15(d) of the Exchange Act<sup> 34 </sup> that:
+
+ 
+
+he or she has reviewed the report;
+
+based on his or her knowledge, the report does not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by the report;<sup> 35 </sup>
+
+based on his or her knowledge, the financial statements, and other financial information included in the report, fairly present in all material respects the financial condition, results of operations and cash flows of the issuer as of, and for, the periods presented in the report; 
+
+he or she and the other certifying officers:
+
+ 
+
+are responsible for establishing and maintaining "disclosure controls and procedures" (a newly-defined term reflecting the concept of controls and procedures related to disclosure embodied in Section 302(a)(4) of the Act) for the issuer;
+
+have designed such disclosure controls and procedures to ensure that material information is made known to them, particularly during the period in which the periodic report is being prepared;
+
+have evaluated the effectiveness of the issuer's disclosure controls and procedures as of a date within 90 days prior to the filing date of the report; and
+
+have presented in the report their conclusions about the effectiveness of the disclosure controls and procedures based on the required evaluation as of that date;
+
+ 
+
+he or she and the other certifying officers have disclosed to the issuer's auditors and to the audit committee of the board of directors (or persons fulfilling the equivalent function): 
+
+ 
+
+all significant deficiencies in the design or operation of internal controls (a pre-existing term relating to internal controls regarding financial reporting)<sup> 36 </sup> which could adversely affect the issuer's ability to record, process, summarize and report financial data and have identified for the issuer's auditors any material weaknesses in internal controls; and
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the issuer's internal controls; and
+
+ 
+
+he or she and the other certifying officers have indicated in the report whether or not there were significant changes in internal controls or in other factors that could significantly affect internal controls subsequent to the date of their evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses.
+
+ 
+
+For purposes of the new rules, "disclosure controls and procedures" are defined as controls and other procedures of an issuer that are designed to ensure that information required to be disclosed by the issuer in the reports filed or submitted by it under the Exchange Act<sup> 37 </sup> is recorded, processed, summarized and reported, within the time periods specified in the Commission's rules and forms.<sup> 38 </sup> "Disclosure controls and procedures" include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in its Exchange Act reports is accumulated and communicated to the issuer's management, including its principal executive and financial officers, as appropriate to allow timely decisions regarding required disclosure.<h>B. Discussion of Certification Requirement1. Issuers Subject to Certification Requirement </h><h>1. Issuers Subject to Certification Requirement </h>
+
+Section 302 of the Act states that the certification requirement is to apply to each company filing periodic reports under Section 13(a) or 15(d) of the Exchange Act.<sup> 39 </sup> Accordingly, new Exchange Act Rules 13a-14 and 15d-14 apply to the principal executive officers and principal financial officers, or persons performing similar functions, of any issuer that files quarterly and annual reports with the Commission under either Section 13(a) or 15(d) of the Exchange Act, including foreign private issuers, banks and savings associations, issuers of asset-backed securities and small business issuers.<sup> 40 </sup> 
+
+ a) Foreign Private Issuers 
+
+While the June Proposals would not have applied to foreign private issuers,<sup> 41 </sup> Section 302 of the Act makes no distinction between domestic and foreign issuers and, by its terms, clearly applies to foreign private issuers. New Exchange Act Rules 13a-14 and 15d-14, therefore, apply the certification requirement to the principal executive officers and principal financial officers of foreign private issuers that file reports under Section 13(a) or 15(d) of the Exchange Act.<sup> 42 </sup> 
+
+ b) Banks and Saving Associations 
+
+The certification requirement of Section 302 of the Act also applies to principal executive officers and principal financial officers of banks and savings associations that file periodic reports under Section 13(a) or 15(d) of the Exchange Act. The Act amended Section 12(i) of the Exchange Act to make it clear that the federal banking agencies have the authority to administer and enforce various provisions of the Act, including the certification required by Section 302.<sup> 43 </sup> 
+
+ c) Asset-Backed Securities Issuers 
+
+Issuers of asset-backed securities in public offerings have a reporting obligation under either Section 13(a) or 15(d) of the Exchange Act, at least for a period of time.<sup> 44 </sup> Because of the nature of asset-backed issuers, the staff of the Division of Corporation Finance has granted requests allowing asset-backed issuers to file modified reports under the Exchange Act.<sup> 45 </sup>
+
+The modified reporting structure for asset-backed issuers allows issuers or depositors to file modified annual reports on Form 10-K and to file reports tied to payments on the underlying assets in the trust. These reports include a copy of the servicing or distribution report required by the issuer's governing documents and information on the performance of the assets, payments on the asset-backed securities and any other material developments that affect the issuer. Because the reported information for asset-backed issuers differs significantly from that for other issuers, the certification requirement of Section 302 of the Act must be specifically tailored for asset-backed issuers. The new rules require asset-backed issuers to certify their reports. The staff of the Division of Corporation Finance today is providing guidance for asset-backed issuers regarding compliance with the certification requirement.
+
+ d) Small Business Issuers 
+
+The June Proposals generally did not distinguish between large and small issuers. Similarly, Section 302 of the Act directs that the certification requirement apply to any company filing periodic reports under Section 13(a) or 15(d) of the Exchange Act. Accordingly, new Rules 13a-14 and 15d-14 apply to all issuers that file Exchange Act periodic reports regardless of their size. We note, however, that because many small business issuers do not file Exchange Act reports, not all small business issuers will be subject to the certification requirement.<h>2. Reports Subject to Certification Requirement </h>
+
+Section 302 of the Act states that the required certification is to be included in each annual or quarterly report filed or submitted under either Section 13(a) or 15(d) of the Exchange Act.<sup> 46 </sup> Accordingly, the certification requirement applies to annual reports on Forms 10-K, 10-KSB, 20-F and 40-F.<sup> 47 </sup> The certification requirement also applies to quarterly reports on Forms 10-Q and 10-QSB. Finally, the certification requirement applies to amendments to, and transition reports on, any of the foregoing reports.<sup> 48 </sup> 
+
+Reports that are current reports, such as reports on Forms 6-K<sup> 49 </sup> and 8-K, rather than periodic (quarterly and annual) reports are not covered by the certification requirement.<sup> 50 </sup> Disclosure controls and procedures, however, are required to be designed, maintained and evaluated to ensure full and timely disclosure in current reports, as well as definitive proxy materials and definitive information statements, even though there is no specific certification requirement relating to reports on those forms.<sup> 51 </sup> 
+
+The new rules apply the certification requirement to foreign private issuers filing annual reports on Form 20-F and Canadian issuers filing annual reports on Form 40-F under our Multi-jurisdictional Disclosure System. Although Form 20-F is not required to be signed by any specific executive officer of a foreign registrant,<sup> 52 </sup> we believe that it is the clear intent of Congress to require that the appropriate officers execute and submit the required certification in an annual report filed under the Exchange Act on Form 20-F or 40-F. 
+
+As we first indicated in the June Proposals, we continue to consider whether we should extend a certification requirement to other documents filed under the Exchange Act, such as registration statements on Forms 10 and 10-SB<sup> 53 </sup> and definitive proxy and information statements. We solicit comment on whether any or all of these documents, or any other documents, should be certified by an issuer's senior officers.<h>3. Content of Certification </h>
+
+Section 302 of the Act states that the required certification is to made by an issuer's principal executive officer or officers and principal financial officer or officers, or persons performing similar functions. The required certification contains several statements. The certification statement concerning the material accuracy and completeness of the periodic reports that are covered by the statement mirrors the existing statutory disclosure standards for "material" accuracy and completeness of information contained in reports.<sup> 54 </sup> 
+
+The certification statement regarding fair presentation of financial statements and other financial information included in the report was not part of the June Proposals. This statement separately addresses the presentation of an issuer's financial disclosure. This financial disclosure includes financial statements (including footnote disclosure), selected financial data, management's discussion and analysis of financial condition and results of operations and other financial information in a report. The certification, as adopted, states that the overall financial disclosure fairly presents, in all material respects, the company's financial condition, results of operations and cash flows. We have added a specific reference to cash flows even though Section 302 of the Act does not include such an explicit reference. We believe that it is consistent with Congressional intent to include both income or loss and cash flows within the concept of "fair presentation" of an issuer's results of operations.
+
+The certification statement regarding fair presentation of financial statements and other financial information is not limited to a representation that the financial statements and other financial information have been presented in accordance with "generally accepted accounting principles" and is not otherwise limited by reference to generally accepted accounting principles. We believe that Congress intended this statement to provide assurances that the financial information disclosed in a report, viewed in its entirety, meets a standard of overall material accuracy and completeness that is broader than financial reporting requirements under generally accepted accounting principles.<sup> 55 </sup> In our view, a "fair presentation" of an issuer's financial condition, results of operations and cash flows encompasses the selection of appropriate accounting policies, proper application of appropriate accounting policies, disclosure of financial information that is informative and reasonably reflects the underlying transactions and events and the inclusion of any additional disclosure necessary to provide investors with a materially accurate and complete picture of an issuer's financial condition, results of operations and cash flows.<sup> 56 </sup> 
+
+Both of the foregoing certification statements are to be made based on the knowledge of the certifying officer. This is not meant to change the current obligations of corporate officers in connection with the discharge of their duties. Both of the foregoing statements are also made in the context of the requirements of the reports in which they are included. In particular, quarterly reports on Forms 10-Q and 10-QSB have less extensive disclosure and financial statement and footnote requirements than annual reports. The certification requirement is not intended to require expansion of quarterly reports to satisfy the requirements of annual reports. Rather, completeness of disclosure will be determined through application of standards derived from our existing rules, forms and interpretations.<sup> 57 </sup> 
+
+While the certification described in the June Proposals contained a statement regarding the completion of a review of an issuer's internal procedures and controls aimed at assuring adequate disclosure, the certification required by Section 302 of the Act includes several, more detailed, statements concerning an issuer's "internal controls" and the ongoing oversight of these controls. For purposes of the certification required by Section 302(a)(4) of the Act, we have defined the term "disclosure controls and procedures" to incorporate a broader concept of controls and procedures designed to ensure compliance with disclosure requirements generally. This definition is included in new Exchange Act Rules 13a-14 and 15d-14 and applies to the portion of the certification required by Section 302(a)(4) of the Act.<sup> 58 </sup> 
+
+We have defined the term "disclosure controls and procedures" to make it explicit that the controls contemplated by Section 302(a)(4) of the Act are intended to embody controls and procedures addressing the quality and timeliness of disclosure. We also have included this definition to differentiate this concept of disclosure controls and procedures from the pre-existing concept of "internal controls" that pertains to an issuer's financial reporting and control of its assets, as currently embodied in Section 13(b) of the Exchange Act<sup> 59 </sup> and as addressed in Sections 302(a)(5) and (a)(6) and Section 404 of the Act. We make this distinction based on our review of Section 302 of the Act as well as to effectuate what we believe to be Congress' intent - to have senior officers certify that required material non-financial information, as well as financial information, is included in an issuer's quarterly and annual reports. Under this interpretation, we maintain the pre-existing concept of internal controls without expanding it by relating it to non-financial information.
+
+As discussed in the June Proposals, we are not requiring any particular procedures for conducting the required review and evaluation. Instead, we expect each issuer to develop a process that is consistent with its business and internal management and supervisory practices. We do recommend, however, that, if it has not already done so, an issuer create a committee with responsibility for considering the materiality of information and determining disclosure obligations on a timely basis.<sup> 60 </sup> As is implicit in Section 302(a)(4) of the Act, such a committee would report to senior management, including the principal executive and financial officers, who bear express responsibility for designing, establishing, maintaining, reviewing and evaluating the issuer's disclosure controls and procedures. 
+
+We believe that the concept of "internal controls" contemplated by Sections 302(a)(5) and (6) of the Act concern an issuer's controls and procedures for financial reporting purposes as required by Section 13(b) of the Exchange Act. They also relate to the "internal controls" addressed in Section 404 of the Act.<sup> 61 </sup> The certification required by new Exchange Act Rules 13a-14 and 15d-14 makes reference to certain disclosures regarding both disclosure controls and procedures and internal controls that must be made in the reports in which the certification is contained. These disclosure requirements appear in new Item 307 of Regulation S-K, Item 307 of Regulation S-B, Item 15 of Form 20-F and General Instruction B(6) of Form 40-F. 
+
+Because the statements involving disclosure controls and procedures and internal controls require the certifying officers to take certain specified actions, such as evaluating the effectiveness of the disclosure controls and procedures prior to the date of the report to which the certification relates, these statements will be required as part of the certification only with respect to any reports that cover periods ending on or after August 29, 2002, the effective date of the rules required by Section 302 of the Act.<sup> 62 </sup><h>4. Form of Certification </h>
+
+The certification required by new Exchange Act Rules 13a-14 and 15d-14 must be in the exact form set forth in the amendments to the affected reports. The wording of the required certification may not be changed in any respect (even if the change would appear to be inconsequential in nature).<sup> 63 </sup><h>5. Location of Certification </h>
+
+Section 302 of the Act states that the required certification is to be included "in" each quarterly or annual report filed or submitted under either Section 13(a) or 15(d) of the Exchange Act. To implement this directive, we have amended Forms 10-Q, 10-QSB, 10-K, 10-KSB, 20-F and 40-F under the Exchange Act to require that the certifications follow immediately after the signature sections of these reports. 
+
+The required certification is in addition to, and, thus, does not alter, the current signature requirements for quarterly and annual reports filed under the Exchange Act. The signatures required by the certifications will be part of these reports, and, therefore, also will be subject to the signature requirement of our rules.<sup> 64 </sup> We have amended Rule 302 of Regulation S-T<sup> 65 </sup> to make it clear that its requirements apply to the signatures appearing in these certifications.<h>6. Liability for False Certification </h>
+
+An issuer's principal executive and financial officers already are responsible as signatories for the issuer's disclosures under the Exchange Act liability provisions<sup> 66 </sup> and can be liable for material misstatements or omissions under general antifraud standards<sup> 67 </sup> and under our authority to seek redress against those who cause or aid or abet securities law violations.<sup> 68 </sup> An officer providing a false certification potentially could be subject to Commission action for violating Section 13(a) or 15(d) of the Exchange Act and to both Commission and private actions for violating Section 10(b) of the Exchange Act<sup> 69 </sup> and Exchange Act Rule 10b-5.<sup> 70 </sup><h>III. Disclosure Controls and ProceduresA. Rule Requirements </h><h>A. Rule Requirements </h>
+
+As adopted, new Exchange Act Rules 13a-15 and 15d-15 require each issuer filing reports under Section 13(a) or Section 15(d) of the Exchange Act to maintain disclosure controls and procedures (as defined in new Exchange Act Rules 13a-14(c) and 15d-14(c)). We believe that, to assist principal executive and financial officers in the discharge of their responsibilities in making the required certifications, as well as to discharge their responsibilities in providing accurate and complete information to security holders, it is necessary for companies to ensure that their internal communications and other procedures operate so that important information flows to the appropriate collection and disclosure points in a timely manner.<h>B. Discussion of Disclosure Controls and Procedures </h>
+
+New Exchange Act Rules 13a-15 and 15d-15 complement existing requirements for reporting companies to establish and maintain systems of internal controls with respect to their financial information.<sup> 71 </sup> They are intended to ensure that an issuer maintains commensurate procedures for gathering, analyzing and disclosing all information that is required to be disclosed in its Exchange Act reports. 
+
+As discussed in the June Proposals, these procedures are intended to cover a broader range of information than is covered by an issuer's internal controls related to financial reporting. For example, the procedures should ensure timely collection and evaluation of information potentially subject to disclosure under the requirements of Regulation S-X,<sup> 72 </sup> Regulation S-K or S-B and Forms 20-F and 40-F. The procedures should capture information that is relevant to an assessment of the need to disclose developments and risks that pertain to the issuer's businesses.<sup> 73 </sup> They also should cover information that must be evaluated in the context of the disclosure requirement of Exchange Act Rule 12b-20. We believe that the new rules will help to ensure that an issuer's systems grow and evolve with its business and are capable of producing Exchange Act reports that are timely, accurate and reliable.<sup> 74 </sup> 
+
+New Exchange Act Rules 13a-15 and 15d-15 also are entirely complementary to the objectives of Section 302 of the Act. While Section 302 requires an issuer's principal executive and financial officers to make specific statements in their certifications and to take the actions satisfying the representations made in the statements as to the issuer's disclosure controls and procedures, it does not directly address the issuer's obligations with respect to these controls and procedures. The new rules will ensure that an issuer also has a responsibility to maintain adequate disclosure controls and procedures, so that its principal executive and financial officers can supervise and review these periodic evaluations and report the results to security holders through the issuer's Exchange Act reports.<sup> 75 </sup> 
+
+New Exchange Act Rules 13a-15 and 15d-15 also require the issuer, under the supervision of the principal executive and financial officers, to conduct an evaluation of the effectiveness of the design and operation of the issuer's disclosure controls and procedures within 90 days of the filing date of any quarterly or annual report filed under the Exchange Act. While the new rules do not provide detailed procedures for such an evaluation, the evaluation must, at a minimum, address the matters specified by the rules. We expect that this evaluation would be carried out in a manner that would form the basis for the certification statements required by Section 302 of the Act regarding disclosure controls and procedures required by new Exchange Act Rules 13a-14(b)(4)(ii)-(iii) and 15d-14(b)(4)(ii)-(iii) in an issuer's quarterly and annual reports. 
+
+We noted in the June Proposals that mandatory requirements regarding disclosure controls and procedures may raise several issues for foreign private issuers. Section 302 of the Act, however, does not provide any exception to the certification requirement for foreign private issuers. Because we believe that the maintenance of disclosure controls and procedures is an important part of satisfying the certification requirement, it is appropriate to require foreign private issuers to comply with new Exchange Act Rules 13a-15 and 15d-15 with respect to the implementation of the controls and procedures outlined in Section 302(a)(4) of the Act.<h>IV. Certification of Registered Investment Company Annual and Semi-Annual Reports </h>
+
+We are implementing Section 302 of the Act with respect to registered investment companies by adopting new Investment Company Act Rule 30a-2. This rule requires a registered investment company that files periodic reports under Section 13(a) or 15(d) of the Exchange Act (that is, Form N-SAR) to include the certification specified by Section 302 in those periodic reports. We are also amending the instructions to Form N-SAR, the annual and semi-annual reporting form for registered investment companies, to require the specified certification to be filed as an exhibit to Form N-SAR.<sup> 76 </sup> 
+
+Section 302 requires the specified certification to be included in "each annual or quarterly report filed or submitted" under either Section 13(a) or 15(d) of the Exchange Act.<sup> 77 </sup> Form N-SAR is the form designated for registered investment companies to comply with their reporting requirements under Sections 13(a) and 15(d) of the Exchange Act, as well as periodic reporting requirements under Sections 30(a) and 30(b)(1)<sup> 78 </sup> of the Investment Company Act.<sup> 79 </sup> Registered management investment companies are required to file annual and semi-annual reports on Form N-SAR not more than 60 calendar days after the close of each fiscal year and fiscal second quarter.<sup> 80 </sup> Registered unit investment trusts are required to file annual reports on Form N-SAR with respect to each calendar year, not more than 60 calendar days after the close of each year.<sup> 81 </sup>
+
+Unlike Forms 10-K and 10-Q, Form N-SAR does not require the filing of financial statements. However, Form N-SAR requires management investment companies to provide certain financial information based on the financial statements as of the same date contained in the investment company's annual and semi-annual reports to shareholders.<sup> 82 </sup> Therefore, we are requiring the signing officers of a registered management investment company to certify under new Investment Company Act Rule 30a-2(b)(3) that the financial information included in the report and the financial statements on which the financial information is based fairly present, in all material respects, the financial condition, results of operations, changes in net assets and cash flows (if the financial statements are required to include a statement of cash flows) of the investment company.<sup> 83 </sup> We have added a specific reference to changes in net assets and cash flows even though Section 302 of the Act does not include such an explicit reference. We believe that it is consistent with Congressional intent to include both income or loss, and changes in net assets and, in the case where the financial statements are required to include a statement of cash flows, within the concept of "fair presentation" of an investment company's results of operations.
+
+The certification required by new Investment Company Act Rule 30a-2 must be in the exact form set forth in the amendments to Form N-SAR.<sup> 84 </sup> The wording of the required certification may not be changed in any respect (even if the change would appear to be inconsequential in nature). 
+
+Investment companies filing reports on Form N-SAR under Sections 13(a) and 15(d) of the Exchange Act will also be required to maintain disclosure controls and procedures under new Exchange Act Rules 13a-15 and 15d-15.<sup> 85 </sup> New Rules 13a-15 and 15d-15 also require an investment company, under the supervision and with the participation of the principal executive and financial officers, to conduct an evaluation of the effectiveness of the design and operation of the investment company's disclosure controls and procedures within 90 days of the filing date of each report requiring certification under new Investment Company Act Rule 30a-2. We expect that this evaluation would be carried out in a manner that would form the basis for the certification statements required by Section 302 of the Act regarding disclosure controls and procedures required by new Investment Company Act Rule 30a-2(b)(4)(i)-(iii) in an investment company's Form N-SAR.<sup> 86 </sup> 
+
+The certification required by new Investment Company Act Rule 30a-2 makes reference to certain disclosures regarding both disclosure controls and procedures and internal controls that must be made in the reports in which the certification is contained. These disclosure requirements appear in the new instructions to Form N-SAR.<sup> 87 </sup> 
+
+Unit investment trusts will be required to provide the specified certification with respect to the items of Form N-SAR specific to them, which include very limited financial information.<sup> 88 </sup> We recognize that unit investment trusts, which are unmanaged, fixed portfolios of securities, have no corporate management structure and hence will not have a principal executive officer or principal financial officer. Therefore, in the case of a unit investment trust, the required certification should be signed by personnel of the sponsor, trustee, depositor or custodian who perform functions similar to those of a principal executive officer and principal financial officer on behalf of the trust.<sup> 89 </sup> 
+
+Unit investment trusts and small business investment companies are not required to transmit reports to their shareholders containing their financial statements, and Form N-SAR does not require unit investment trusts and small business investment companies to report financial information based on their financial statements.<sup> 90 </sup> Therefore, the certification requirement applicable to these investment companies does not include the requirement of new Investment Company Act Rule 30a-2(b)(3) that the signing officers certify that the financial information included in the periodic report and the financial statements on which it is based fairly present, in all material respects, the financial condition, results of operations, changes in net assets and cash flows (if the financial statements are required to include a statement of cash flows) of the investment company.<sup> 91 </sup>
+
+Business development companies and face-amount certificate companies file periodic reports on Forms 10-K and 10-Q under the Exchange Act, and they are required to comply with the certification requirements applicable to these forms.<sup> 92 </sup> 
+
+We note that, in a companion release, we are proposing to require registered management investment companies to file certified shareholder reports with the Commission on new Form N-CSR and would designate these certified shareholder reports as reports that are required under Sections 13(a) and 15(d) of the Exchange Act. For registered management investment companies, the required reports to shareholders, rather than Form N-SAR, are the primary vehicle for providing financial statements to investors. We believe that the information in these reports to shareholders should be certified. In addition, we are proposing an amendment to Form N-SAR that would uniformly apply to all registered investment companies, and not just those subject to Section 13(a) or 15(d) of the Exchange Act, the requirement to include in Form N-SAR the certification required by Section 302 of the Act. We are also proposing a new rule to apply disclosure controls and procedures requirements, similar to those contained in Exchange Act Rules 13a-15 and 15d-15, uniformly to all registered investment companies.<h>V. Transition Provisions </h>
+
+Paragraphs (b)(1), (2) and (3) of new Exchange Act Rules 13a-14 and 15d-14 apply to quarterly and annual reports, including transition reports, filed after the Effective Date. Paragraphs (b)(4), (5) and (6) of Rules 13a-14 and 15d-14 apply to quarterly and annual reports, including transition reports, filed for periods ending after the Effective Date. Paragraph (a) of Item 307 of Regulations S-B and S-K and paragraph (b) of new Exchange Act Rules 13a-15 and 15d-15 apply to quarterly and annual reports, including transition reports, filed for periods ending after the Effective Date.
+
+Paragraphs (b)(1), (2) and (3) of new Investment Company Act Rule 30a-2 apply to annual and semi-annual reports, including transition reports, on Form N-SAR filed after the Effective Date. Paragraphs (b)(4), (5) and (6) of Rule 30a-2 apply to annual and semi-annual reports, including transition reports, filed for periods ending after the Effective Date. Paragraph (a)(i) of the Instruction to sub-item 77Q3 of Form N-SAR and paragraph (b) of new Exchange Act Rules 13a-15 and 15d-15 apply to annual and semi-annual reports, including transition reports, on Form N-SAR filed for periods ending after the Effective Date.<h>VI. Paperwork Reduction Act </h>
+
+The new rules and amendments to existing rules and forms contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA").<sup> 93 </sup> We published a notice requesting comment on the collection of information requirements in the June Proposals, and submitted these requirements to the Office of Management and Budget ("OMB") for review in accordance with the PRA.<sup> 94 </sup> The titles for those collections of information are "Form 10-K," "Form 10-KSB," "Form 10-Q" and "Form 10-QSB."<sup> 95 </sup> 
+
+While we received only one comment letter specifically remarking on our PRA estimates included in the June Proposals,<sup> 96 </sup> we revised the proposed amendments in response to the directives in Section 302 of the Act. The revisions made to the rules and amendments do not alter the burden estimates for Forms 10-K (OMB Control No. 3235-0063), 10-KSB (OMB Control No. 3235-0420), 10-Q (OMB Control No. 3235-0070) and 10-QSB (OMB Control No. 3235-0416) previously submitted to and approved by OMB. 
+
+The new rules and form amendments that we are adopting cover the more expansive reach of Section 302 of the Act and contain additional "collection of information requirements" within the meaning of the PRA. Accordingly, we submitted additional materials to OMB for emergency review in accordance with the PRA.<sup> 97 </sup> The titles for these collections of information are "Form 20-F" (OMB Control No. 3235-0288), "Form 40-F" (OMB Control No. 3235-0381) and "Form N-SAR" (OMB Control No. 3235-0330). An agency may not conduct or sponsor, and a person is not required to respond to, an information collection unless it displays a currently valid OMB control number. 
+
+Form 10-K prescribes information that registrants must disclose annually to the market about its business. Form 10-KSB prescribes information that registrants that are "small business issuers" as defined under our rules must disclose annually to the market about its business. 
+
+Form 10-Q prescribes information that registrants must disclose quarterly to the market about its business. Form 10-QSB prescribes information that registrants that are "small business issuers" as defined under our rules must disclose quarterly to the market about its business. 
+
+Form 20-F is used by foreign private issuers to either register a class of securities under the Exchange Act or provide an annual report required under the Exchange Act. Form 40-F is used by foreign private issuers to file reports under the Exchange Act after having registered securities under the Securities Act and by certain Canadian registrants. Form N-SAR is used by registered investment companies to file annual and semi-annual reports under the Exchange Act and the Investment Company Act. 
+
+New Exchange Act Rules 13a-14 and 15d-14<sup> 98 </sup> require an issuer's principal executive and financial officers to certify the information contained in the issuer's quarterly and annual reports and that they have taken certain actions with respect to the issuer's internal controls for the collection and reporting of financial and other information that is subject to disclosure in the issuer's quarterly and annual Exchange Act reports. This certification requirement would become part of the "collection of information" required in each quarterly and annual report. 
+
+New Exchange Act Rules 13a-15 and 15d-15<sup> 99 </sup> require an issuer to maintain disclosure controls and procedures to provide reasonable assurance that the issuer is able to record, process, summarize and report the information required in the issuer's Exchange Act reports. These procedures would become part of the "collection of information" required in these reports.
+
+New Investment Company Act Rule 30a-2 requires an investment company's principal executive and financial officers to certify the information contained in the investment company's annual and semi-annual reports on Form N-SAR and that they have taken certain actions with respect to the investment company's internal controls for the collection and reporting of financial and other information that is subject to disclosure in the investment company's reports on Form N-SAR. This certification requirement would become part of the "collection of information" required in each report on Form N-SAR.
+
+The purpose of the certification and disclosure controls and procedures requirements is to ensure that the information that is collected and disclosed in Exchange Act reports is complete and accurate. Consequently, the senior officer certification, as well as the periodic evaluations of internal reporting systems, required by the rules and amendments will become part of the process in which issuers engage to comply with the reporting requirements of the affected forms.
+
+The compliance burden estimates for the collections of information are based on several assumptions.<sup> 100 </sup> The number of foreign private issuers that file annual reports on Form 20-F or 40-F is approximately 1,300 entities.<sup> 101 </sup> The number of registered investment companies that file Form N-SAR is approximately 4,450 entities.<sup> 102 </sup>
+
+New Exchange Act Rule 13a-14 and new Investment Company Act Rule 30a-2 require an issuer's principal executive and financial officers to certify the information contained in the issuer's periodic reports. The compliance burden associated with new Exchange Act Rule 13a-14 and new Investment Company Act Rule 30a-2 is the burden associated with reading and thinking critically about each quarterly and annual report to be filed by the issuer so that the certifying officers can make the required certification. For purposes of the PRA, we estimate that the new certification requirement will result in an increase of five burden hours<sup> 103 </sup> per issuer in connection with preparing each annual report on Form 20-F or 40-F and an increase of five burden hours per issuer in connection with preparing each report on Form N-SAR.
+
+New Exchange Act Rule 13a-15 requires an issuer to maintain sufficient procedures to collect, process and disclose the information required in its Exchange Act reports. We expect that issuers already maintain procedures, whether formal or informal, to comply with their Exchange Act disclosure obligations and for their own internal purposes. We do not believe that this requirement will result in any change in either the reporting or cost burden associated with preparing annual reports on Forms 20-F and 40-F or reports on Form N-SAR.
+
+Based on a burden hour estimate of five hours per respondent per year, we estimate that the total burden hours of complying with Form 20-F and Form 40-F, revised to include the burden hours expected from the new rules, is estimated to be 586,248 hours for Form 20-F, an increase of 4,500 hours<sup> 104 </sup> from the current annual burden of 581,748 hours, and 525 hours for Form 40-F, an increase of 475 hours<sup> 105 </sup> from the current annual burden of 50 hours. The total burden hours of complying with Form N-SAR, revised to include the burden hours expected from the new rules, is estimated to be 154,450 hours,<sup> 106 </sup> an increase of 52,702 hours<sup> 107 </sup> from the current annual burden of 101,748 hours. 
+
+The total burden hours of complying with Forms 10-Q and 10-QSB, revised to include the burden hours expected from the new rules, is estimated to be 3,129,283 hours for Form 10-Q, an increase of 100,298 hours<sup> 108 </sup> from the current annual burden of 3,028,985 hours, and 1,288,488 hours for Form 10-QSB, an increase of 43,530 hours<sup> 109 </sup> from the current annual burden of 1,244,958 hours. The total burden hours of complying with Forms 10-K and 10-KSB, revised to include the burden hours expected from the new rules, is estimated to be 12,344,652 hours for Form 10-K, an increase of 35,190 hours<sup> 110 </sup> from the current annual burden of 12,309,462 hours, and 3,438,518 hours for Form 10-KSB, an increase of 14,209 hours<sup> 111 </sup> from the current annual burden of 3,424,309 hours. 
+
+In addition to the internal hours they will expend to comply with Forms 20-F and 40-F, we expect that respondents will retain outside professionals to assist in compliance with the information collection requirements. The total dollar cost of complying with Forms 20-F and 40-F, revised to include outside professional costs expected from the new rules, is estimated to be $523,596,000 for Form 20-F, an increase of $450,000<sup> 112 </sup> from the current annual burden of $523,146,000, and $52,500 for Form 40-F, an increase of $26,500<sup> 113 </sup> from the current annual burden of $26,000. 
+
+The total dollar cost of complying with Forms 10-Q and 10-QSB, revised to include outside professional costs expected from the new rules, is estimated to be $312,929,000 for Form 10-Q, an increase of $10,030,000<sup> 114 </sup> from the current annual burden of $302,899,000, and $128,849,000 for Form 10-QSB, an increase of $4,353,000<sup> 115 </sup> from the current annual burden of $124,496,000. The total dollar cost of complying with Forms 10-K and 10-KSB, revised to include outside professional costs expected from the new rules, is estimated to be $1,234,465,000 for Form 10-K, an increase of $3,519,000<sup> 116 </sup> from the current annual burden of $1,230,946,000, and $343,852,000 for Form 10-KSB, an increase of $1,421,000<sup> 117 </sup> from the current annual burden of $342,431,000. 
+
+Comments concerning the accuracy of these burden estimates, and any suggestions for reducing the burden, should be directed to the Commission. Compliance with the new rules is mandatory. Under our rules for the retention of manual signatures, issuers will be required to maintain the certifications for five years.<sup> 118 </sup> The information required by the new rules will not be kept confidential.<h>VII. Cost-Benefit Analysis </h>
+
+The certification requirement that we are adopting today implements a Congressional mandate. We recognize that any implementation of the Sarbanes-Oxley Act will likely result in costs as well as benefits and have an effect on the economy. We are sensitive to the costs and benefits of our adoption of a rule that requires issuers to maintain disclosure controls and procedures. We discuss these costs and benefits below. 
+
+The new certification requirement may lead to some additional costs for issuers. The new rules require an issuer's principal executive and financial officers to review the issuer's periodic reports and to make the required certification. To the extent that corporate officers would need to spend additional time thinking critically about the overall context of their company's disclosure, issuers would incur costs (although investors would benefit from improved disclosure). The certification requirement creates a new legal obligation for an issuer's principal executive and financial officers, but does not change the standard of legal liability. 
+
+Issuers are already required to maintain reporting controls and procedures for identifying and processing the information needed to satisfy their disclosure obligations under the Exchange Act. The new rules do not dictate that issuers follow any particular procedure. By allowing issuers to determine what procedures are necessary to meet the obligation of the rules, we are mitigating the costs associated with compliance. Some issuers may need to institute appropriate controls and procedures. Other issuers may need to enhance existing informal or ad hoc controls and procedures. These incremental costs are difficult to quantify. While we requested comment and supporting data in connection with the June Proposals on the cost of implementing, or upgrading and strengthening existing, reporting controls and procedures, we received no specific comment letters in response to that request. 
+
+The required periodic evaluation of reporting controls and procedures likely will result in costs for issuers. The new certification requirement likely will require issuers to create or strengthen internal controls to enable their senior executive officers to meet their certification obligations under the new rules. Many issuers already regularly monitor and evaluate their controls and procedures. Because the size and scope of these internal reporting systems is likely to vary among issuers, it is difficult to provide an accurate cost estimate. 
+
+Conversely, the new rules are likely to provide significant benefits by ensuring that information about an issuer's business and financial condition is adequately reviewed by the issuer's principal executive and financial officers and the issuer's internal systems keep pace with the growth of the business. 
+
+We believe that investor confidence in corporate disclosure has suffered, in part, because of a belief that corporate officers may not devote sufficient attention to the preparation of their companies' periodic reports and to the disclosure controls and procedures that generate the data from which they are prepared. 
+
+The new rules should help to ensure that issuers maintain sufficient internal reporting controls and procedures to provide reasonable assurance that they can record, process, summarize and report the information that is required in all Exchange Act reports. To the extent that issuers do not maintain adequate controls and procedures, the new rules should lead to the development, or enhancement and modernization, of these controls and procedures. The required periodic evaluation of these controls and procedures should ensure that issuers devote adequate resources and attention to the maintenance of their internal reporting systems. Additionally, the required evaluation should help to identify potential weaknesses and deficiencies in advance of a system breakdown, thereby ensuring the continuous, orderly and timely flow of information within the company and, ultimately, to investors and the marketplace.<h>VIII. Final Regulatory Flexibility Analysis </h>
+
+This Final Regulatory Flexibility Analysis, or FRFA, has been prepared in accordance with the Regulatory Flexibility Act.<sup> 119 </sup> The FRFA pertains to new Exchange Act Rules 13a-15 and 15d-15 adopted for operating companies, for which we gave notice and sought comment. The Sarbanes-Oxley Act of 2002 directs us to adopt rules for registered investment companies. Because we find good cause to adopt those rules without notice and comment, we do not analyze them in the FRFA. New Exchange Act Rules 13a-15 and 15d-15 require an issuer to maintain disclosure controls and procedures to provide reasonable assurance that the issuer is able to record, process, summarize and report the information required in their Exchange Act reports.<sup> 120 </sup><h>A. Reasons for, and Objectives of, New Rules </h>
+
+ New Exchange Act Rules 13a-15 and 15d-15 complement existing requirements for reporting companies to establish and maintain systems of internal controls with respect to their financial information. They are intended to ensure that an issuer maintains commensurate procedures for gathering, analyzing and disclosing all information that is required to be disclosed in its Exchange Act reports.<h>B. Legal Basis </h>
+
+We are adopting the new rules under the authority set forth in Sections 10(b), 13, 15(d) and 23(a) of the Exchange Act and Sections 3(a) and 302 of the Act.<h>C. Small Entities Subject to the Final Rules </h>
+
+The new rules will affect small entities that are subject to the reporting requirements of Section 13(a) or 15(d) of the Exchange Act. For purposes of the Regulatory Flexibility Act, the Exchange Act<sup> 121 </sup> defines the term "small business," other than an investment company, to be an issuer that, on the last day of its most recent fiscal year, has total assets of $5 million or less.<sup> 122 </sup> We estimate that there are approximately 2,500 companies subject to the reporting requirements of Section 13(a) or 15(d) of the Exchange Act that are not investment companies and that have assets of $5 million or less.<sup> 123 </sup><h>D. Significant Issues Raised by Public Comment </h>
+
+The IRFA appeared in the June Proposals.<sup> 124 </sup> We requested comment on any aspect of the IRFA, including the number of small businesses that would be affected by the proposals, the nature of the impact, how to quantify the number of small entities that would be affected and how to quantify the impact of the proposals. We received one comment letter responding to that request.<sup> 125 </sup> This commenter recommended that we provide a transition period for small businesses and that we clarify the need for small businesses to audit their internal controls quarterly. This release contains a transition provision that delays compliance with the certification requirement as it relates to disclosure controls and procedures and internal controls.<sup> 126 </sup> The requirements for periodic audit of an issuer's internal controls will be considered at a future date.<h>E. Reporting, Recordkeeping and Other Compliance Requirements </h>
+
+The new rules require issuers, including "small businesses," to maintain sufficient procedures to provide reasonable assurance that the issuer is able to record, process, summarize and report the information required in their Exchange Act reports filed with the Commission, and to periodically review and evaluate these procedures. We do not dictate the specifics of these procedures. The new rules may increase the costs associated with compliance with issuers' Exchange Act reporting obligations.<h>F. Duplicative, Overlapping or Conflicting Federal Rules </h>
+
+Section 13(b)(2)(B) of the Exchange Act<sup> 127 </sup> requires issuers that are subject to the reporting requirements of Section 13(a) or 15(d) to devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that the transactions and information are recorded as necessary to permit the preparation of the issuer's financial statements. New Exchange Act Rules 13a-15 and 15d-15 are intended to address the issuer's controls and procedures for recording, processing summarizing and reporting the information that is required to be disclosed in Exchange Act reports.<h>G. Agency Action to Minimize Effect on Small Entities </h>
+
+The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In that regard, we considered the following alternatives: (a) establishing different compliance or reporting requirements that take into account the resources of small entities, (b) clarifying, consolidating or simplifying compliance and reporting requirements under the rules for small entities and (c) exempting small entities from all or part of the proposed rules. We solicited comment as to whether small business issuers should be excluded from the new rules. We received no comment letters responding to that request.
+
+The periodic review and evaluation of information collection and reporting procedures required by the new rules involves a performance standard. The new rules do not mandate how issuers should conduct this review and evaluation. This flexibility will enable small and large entities to develop approaches for the review and evaluation that are appropriate to their individual circumstances. Because Congress has directed the senior officers of all issuers, regardless of size, to certify issuers' quarterly and annual reports, we do not believe it is consistent with that mandate to exempt small issuers from the new rules. We are not aware of any way to further clarify or simplify compliance for small entities.<h>IX. Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation </h>
+
+Section 23(a)(2) of the Exchange Act <sup> 128 </sup> requires us, when adopting rules under the Exchange Act, to consider the impact that any new rule would have on competition. In addition, Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Section 3(f) of the Exchange Act <sup> 129 </sup> and Section 2(c) of the Investment Company Act<sup> 130 </sup> requires us, when engaging in rulemaking where we are required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition and capital formation. 
+
+The new rules are intended to enhance investor confidence in the quality of the information available to them in quarterly and annual reports filed under the Exchange Act. We believe that by requiring an issuer's principal executive and financial officers to provide the required certification, investor confidence in the securities markets will be enhanced, thereby leading to a more efficient market. 
+
+We do not believe that the new rules will impose any burden on competition. Issuers will incur some costs in complying with the new rules. These costs will include conducting periodic evaluations of the issuer's internal controls and procedures to record, process, summarize and report, on a timely basis, the information required in periodic and current reports filed by the issuer under the Exchange Act. We requested comment in connection on the June Proposals on whether the proposed rules, if adopted, would impose a burden on competition. We received no comment letters in response to that request.<h>X. Administrative Procedure Act </h>
+
+The Administrative Procedure Act, or APA, generally requires an agency to publish notice of a proposed rulemaking in the Federal Register.<sup> 131 </sup> The APA's notice and comment requirement does not apply, however, if the agency "for good cause finds . . . that notice and public procedure are impracticable, unnecessary, or contrary to the public interest."<sup> 132 </sup> The Commission believes that it is appropriate to waive notice and comment for the portions of the new rules that were not included in the June Proposals and for the application of the new rules to investment companies. Congress has directed the Commission to implement Section 302 of the Act by rule within 30 days after the date of enactment.<sup> 133 </sup> It is impractical to provide notice and comment within the statutory deadline. It would be unnecessary and against the public interest to provide notice and opportunity for comment on a directive from Congress to implement specific rules. Accordingly, the Commission for good cause finds that delaying adoption of these rules until after a notice and comment period would be impractical, unnecessary and contrary to the public interest. 
+
+The APA also generally requires that an agency publish an adopted rule in the Federal Register 30 days before it becomes effective.<sup> 134 </sup> This requirement, however, does not apply if the agency finds good cause for making the rule effective sooner.<sup> 135 </sup> For the same reasons as it is waiving notice and comment, the Commission finds good cause to make the new Exchange Act Rules 13a-14 and 15d-14 and new Investment Company Act Rule 30a-2, and the amendments to related rules and forms, effective immediately. In addition, because new Exchange Act Rules 13a-15 and 15d-15 effectuate the purpose of the Section 302 certification requirement and might create a hardship if they did not become effective simultaneously with new Exchange Act Rules 13a-14 and 15d-14, the Commission finds good cause to make the rules effective immediately as to all issuers filing reports under Section 13(a) or 15(d) of the Exchange Act.<sup> 136 </sup><h>XI. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 We do not edit personal identifying information, such as names or electronic mail addresses, from electronic submissions. You should submit only information that you wish to make available publicly.
+
+2 17 CFR 228.307.
+
+3 17 CFR 228.10 et seq .
+
+4 17 CFR 229.307.
+
+5 17 CFR 229.10 et seq .
+
+6 17 CFR 240.13a-14.
+
+7 17 CFR 240.13a-15.
+
+8 17 CFR 240.15d-14.
+
+9 17 CFR 240.15d-15.
+
+10 15 U.S.C. §78a et seq .
+
+11 17 CFR 270.30a-2.
+
+12 15 U.S.C. §80a-1 et seq .
+
+13 17 CFR 240.12b-15.
+
+14 17 CFR 240.13a-10.
+
+15 17 CFR 240.15d-10.
+
+16 17 CFR 249.308a.
+
+17 17 CFR 249.308b.
+
+18 17 CFR 249.310.
+
+19 17 CFR 249.310b.
+
+20 17 CFR 249.220f.
+
+21 17 CFR 249.240f.
+
+22 17 CFR 270.30b1-3.
+
+23 17 CFR 232.302.
+
+24 17 CFR 249.330; 17 CFR 274.101.
+
+25 Pub. L. 107-204, 116 Stat. 745 (2002).
+
+26 See Release No. 34-46079 (June 14, 2002) [67 FR 41877] (the "June Proposals").
+
+27 See Release No. 34-46300 (Aug. 2, 2002) [67 FR 51508] notifying interested parties of the rules that we are required to adopt pursuant to Section 302 of the Act and highlighting some of the major differences between those rules and the June Proposals.
+
+28 The commenters included 56 individual and institutional investors, 21 companies and company associations, one domestic governmental agency, one foreign governmental agency and 23 members of the accounting and legal communities. These comment letters and a summary of comments are available for public inspection and copying in our Public Reference Room, 450 Fifth Street, NW, Washington, DC 20549, in File No. S7-21-02. Public comments submitted electronically and the summary of comments are available on our website http://www.sec.gov >.
+
+29 See, for example, the Letter dated June 13, 2002 of Robert E. Jones, the Letter dated June 24, 2002 of Dan Jamieson and the Letter dated July 5, 2002 of T. Jeffrey Mangin.
+
+30 See, for example, the Letter dated August 9, 2002 of the American Society of Corporate Securities and the Letter dated August 14, 2002 of the National Association of Real Estate Investment Trusts.
+
+31 Separately, Section 404 of the Act directs the Commission to prescribe rules for issuers to state in their annual reports required by Section 13(a) or 15(d) of the Exchange Act the responsibility of management for establishing and maintaining an adequate internal control structure and procedures for financial reporting.
+
+32 See proposed Exchange Act Rules 13a-15 and 15d-15.
+
+33 See Section IV below for a discussion of registered investment companies. Registered investment companies generally are required to file periodic reports under Section 13(a) or 15(d) of the Exchange Act on Form N-SAR and, therefore, would provide the certification required by Section 302 of the Act. However, because Section 302 of the Act only applies to issuers that file periodic reports under Section 13(a) or 15(d) of the Exchange Act, the rules we are adopting today will not apply to registered investment companies that do not file periodic reports under either Section 13(a) or 15(d).
+
+34 15 U.S.C.§§78m(a) or 78o(d). Section 13(a) of the Exchange Act requires every issuer of a security registered pursuant to Section 12 of the Exchange Act [15 U.S.C. §78l] to file with the Commission such annual reports and such quarterly reports as the Commission may prescribe. Section 15(d) of the Exchange Act requires each issuer that has filed a registration statement that has become effective pursuant to the Securities Act of 1933 [15 U.S.C.§77a et seq .] to file such supplementary and periodic information, documents and reports as may be required pursuant to Section 13 in respect of a security registered pursuant to Section 12. The duty of an issuer to file under Section 15(d) is automatically suspended for any fiscal year, other than a fiscal year in which its registration statement becomes effective or is required to be updated pursuant to Section 10(a)(3) of the Securities Act [15 U.S.C. §77j(a)(3)], if an issuer's securities are held of record by less than 300 persons. See Exchange Act Rule 12h-3(c) [17 CFR 240.12h-3(c)].
+
+35 As permitted under our rules, a registrant may satisfy its disclosure obligations under Part III of Forms 10-K and 10-KSB by incorporating the required information by reference from its definitive proxy or information statement, if that statement involves the election of directors and is filed not later than 120 days after the end of the fiscal year covered by the annual report. See General Instruction G(3) to Form 10-K and General Instruction E(3) to Form 10-KSB. For purposes of this provision, the certification in the annual report on Form 10-K or 10-KSB would be considered to cover the Part III information in a registrant's proxy or information statement as and when filed.
+
+36 See American Institute of Certified Public Accountants ("AICPA") Codification of Statements on Auditing Standards, AU §319.
+
+37 These reports include quarterly reports on Form 10-Q or 10-QSB, annual reports on Form 10-K, 10-KSB, 20-F or 40-F, current reports, definitive proxy materials filed under Section 14(a) of the Exchange Act [15 U.S.C. §78n(a)], definitive information statements filed under Section 14(c) of the Exchange Act [15 U.S.C. §78n(c)] and amendments to any of these reports or documents.
+
+38 See new Exchange Act Rules 13a-14(c) and 15d-14(c).
+
+39 See Section 302(a) of the Act.
+
+40 The new rules achieve the objective of Section 302(b) of the Act, which states that nothing in the provision is to be interpreted or applied in any way to allow any issuer to lessen the legal force of the certification requirement by an issuer that has reincorporated or engaged in any other transaction resulting in the transfer of the corporate domicile or offices of the issuer from inside of the United States to outside of the United States, because they are applicable to all issuers without regard to their jurisdiction of incorporation or domicile.
+
+41 For purposes of the Exchange Act, a "foreign private issuer" is any foreign issuer (other than a foreign government) except an issuer meeting the following conditions: (1) more than 50% of the issuer's outstanding voting securities are directly or indirectly held of record by residents of the U.S.; and (2) the majority of the executive officers or directors are U.S. citizens or residents; or more than 50% of the assets of the issuer are located in the U.S.; or the business of the issuer is administered principally in the U.S. See Exchange Act Rule 3b-4(c) [17 CFR 240.3b-4(c)]. We sought comment on whether to apply a certification requirement to foreign private issuers in the June Proposals.
+
+42 The new rules do not apply to foreign private issuers that furnish materials to the Commission pursuant to Exchange Act Rule 12g3-2(b) [17 CFR 240.12g3-2(b)].
+
+43 See Section 3(b)(4) of the Act.
+
+44 Asset-backed issuers also sometimes voluntarily file Exchange Act reports in order to comply with provisions in the indenture or pooling and servicing agreements.
+
+45 See, for example, Release No. 34-16520 (Jan. 23, 1980) (order granting application pursuant to Section 12(h) of the Exchange Act [15 U.S.C. §78 l (h)] of Home Savings and Loan Association); Release No. 34-14446 (Feb. 6, 1978) (order granting application pursuant to Section 12(h) of the Exchange Act of Bank of America National Trust and Savings Association); Division of Corporation Finance no-action letters to Key Bank USA, N.A. (May 9, 1997) and Bay View Securitization Corp. (Jan. 15, 1998).
+
+46 See Section 302(a) of the Act.
+
+47 The certification requirement does not apply to annual reports on Form 11-K [17 CFR 239.311].
+
+48 See amended Exchange Act Rules 12b-15, 13a-10 and 15d-10. In the case of the amendment on or after the compliance date of the new rules of a quarterly or annual report filed prior to August 29, 2002, the certification requirement will apply.
+
+49 17 CFR 249.306.
+
+50 A foreign private issuer must furnish under cover of Form 6-K material information that it makes public or is required to make public under its home country laws or the rules of its home country stock exchange or that it distributes to security holders. While foreign private issuers may submit interim financial information under cover of Form 6-K, they do so pursuant to their home country requirements and not because of a Commission requirement to submit updated financial information for specified periods and according to specified standards. Therefore, we do not believe that a Form 6-K constitutes a "periodic" report analogous to a quarterly report on Form 10-Q or 10-QSB for which certification is required.
+
+51 See new Exchange Act Rules 13a-15 and 15d-15.
+
+52 See General Instruction D to Form 20-F.
+
+53 17 CFR 249.210 and 249.210b.
+
+54 See Exchange Act Rules 10b-5(b) [17 CFR 230.10b-5(b)] and 12b-20 [17 CFR 240.12b-20.]. See also Basic, Inc. v. Levinson , 485 U.S. 224 (1988); TSC Industries, Inc. v. Northway, Inc. , 426 U.S. (1976).
+
+55 Presenting financial information in conformity with generally accepted accounting principles may not necessarily satisfy obligations under the antifraud provisions of the federal securities laws. See United States v. Simon , 425 F.2d 796 (2d Cir. 1969). See also In re Caterpillar, Inc. , Release No. 34-30532 (Mar. 31, 1992); Edison Schools, Inc. , Release No. 34-45925 (May 14, 2002).
+
+56 See Exchange Act Rule 12b-20 and the case and proceedings referenced in n. 55 above. In addition, both International Accounting Standard IAS 1, ¶14 and 15 and AICPA, Codification of Statements on Auditing Standards, AU §411.04 speak to the essential elements that must be considered, within the framework of generally accepted accounting principles, in evaluating whether an issuer's financial statements fairly present its financial condition and results of operations. These statements, without being limited by reference to generally accepted accounting principles, provide guidance as to what elements should be considered in determining whether an issuer's financial information, taken as a whole, provides a fair presentation of its financial condition and results of operations. These elements include, without limitation, whether the accounting principles selected are appropriate in the circumstances and whether the disclosure is informative and reasonably reflects the underlying transactions and events.
+
+57 See, for example, In re Caterpillar, Inc. , Release No. 34-30532 (Mar. 31, 1992); Exchange Act Rule 12b-20.
+
+58 See new Exchange Act Rules 13a-14(c) and 15d-14(c).
+
+59 15 U.S.C. §78m(b). See also AICPA Professional Standards AU Section 319.06 ("Internal controls is a process - effected by an entity's board of directors, management and other personnel - designed to provide reasonable assurance regarding the achievement of objectives in the following categories: (a) reliability of financial reporting, (b) effectiveness and efficiency of operations and (c) compliance with applicable laws and regulations.").
+
+60 Officers and employees of an issuer who have an interest in, and the expertise to serve on, the committee could include the principal accounting officer (or the controller), the general counsel or other senior legal official with responsibility for disclosure matters who reports to the general counsel, the principal risk management officer, the chief investor relations officer (or an officer with equivalent responsibilities) and such other officers or employees, including individuals associated with the issuer's business units, as the issuer deems appropriate.
+
+61 The rules called for under Section 404 of the Act will be the subject of separate Commission rulemaking. See n. 75 below.
+
+62 See Section V below.
+
+63 To further emphasize the importance of the required certification, a principal executive officer or principal financial officer is not permitted to have the certification signed on his or her behalf pursuant to a power of attorney or other form of confirming authority. See new Exchange Act Rules 13a-14(d) and 15d-14(d).
+
+64 See Exchange Act Rule 12b-11(d) [17 CFR 240.12b-11(d)].
+
+65 17 CFR 232.302.
+
+66 See Sections 13(a) and 18 of the Exchange Act [15 U.S.C. §§78m(a) and 78r].
+
+67 See, for example, Howard v. Everex Systems, Inc. 228 F.3d 1057 (9th Cir. 2000) (a corporate officer who signs a Commission filing containing representations "makes" the statement in the filing and can be liable as a primary violator of Section 10(b) of the Exchange Act).
+
+68 See Sections 20, 21, 21C and 21D of the Exchange Act [15 U.S.C. §78t, 78u, 78u-3 and 78u-4].
+
+69 15 U.S.C. §78j(b).
+
+70 A false certification also may have liability consequences under Sections 11 and 12(a)(2) of the Securities Act [15 U.S.C. §§77k and 77 l (a)(2)] where a quarterly or annual report is incorporated by reference into a registration statement on Form S-3 [17 CFR 239.13] or F-3 [17 CFR 239.33] or into a prospectus filed pursuant to Securities Act Rule 424(b) [17 CFR 230.424(b)].
+
+71 See Section 13(b)(2) of the Exchange Act [15 U.S.C. §78m(b)(2)] and Rules 13b2-1 and 13b2-2 [17 CFR 240.13b2-1 and 240.13b2-2].
+
+72 17 CFR 210.1-01 et seq .
+
+73 For example, for some businesses, an assessment and evaluation of operational and regulatory risks may be necessary.
+
+74 Accordingly, a company that failed to maintain adequate procedures, review them and otherwise comply with the rule could be subject to Commission action for violating Section 13(a) of the Exchange Act even where the failure did not lead to flawed disclosure.
+
+75 We note that Section 404 of the Act directs us to prescribe rules requiring each annual report filed under Section 13(a) or 15(d) of the Exchange Act to contain an internal control report, which shall: (1) state the responsibility of management for establishing and maintaining an adequate internal control structure and procedures for financial reporting: and (2) contain an assessment, as of the end of the most recent fiscal year of the issuer, of the effectiveness of the internal control structure and procedures of the issuer for financial reporting. These rules will be the subject of a separate rulemaking project.
+
+76 17 CFR 249.330; 17 CFR 274.101; Item 133 and Instructions to Items 77Q3, 102P3 and 133 of Form N-SAR.
+
+77 See n. 34 above. Because Section 302 of the Sarbanes-Oxley Act only applies to companies that file periodic reports under Section 13(a) or 15(d) of the Exchange Act, the rules we are adopting today will not apply to registered investment companies that do not file periodic reports under Section 13(a) or 15(d).
+
+78 15 U.S.C. §80a-30(a) and (b)(1).
+
+79 General Instruction A to Form N-SAR. See Release No. IC-14299 (Jan. 4, 1985) [50 FR 1442] (release adopting Form N-SAR).
+
+80 Investment Company Act Rule 30b1-1 [17 CFR 270.30b1-1]; General Instruction C to Form N-SAR.
+
+81 Investment Company Act Rule 30a-1 [17 CFR 270.30a-1]; General Instruction C to Form N-SAR. A unit investment trust is "an investment company which (A) is organized under a trust indenture, contract of custodianship or agency, or similar instrument, (B) does not have a board of directors, and (C) issues only redeemable securities, each of which represents an undivided interest in a unit of specified securities; but does not include a voting trust." Section 4(2) of the Investment Company Act [15 U.S.C. §80a-4(2)].
+
+82 See Items 72 and 74 of Form N-SAR and the Instructions to those items.
+
+83 In the case of a master-feeder fund, the report of the master fund on Form N-SAR would be expected to include a certification based upon the financial statements of the master fund included in the report to shareholders of the feeder fund.
+
+84 The certification must be filed as an exhibit to the report on Form N-SAR. The EDGAR document type must be EX-99.77Q3 CERT for an Exhibit filed in response to the instructions to sub-item 77Q3, EX-99.102P3 CERT for an Exhibit filed in response to the instructions to sub-item 102P3 and EX-99.133 CERT for an Exhibit filed in response to the instructions to item 133 of this form.
+
+85 New Exchange Act Rule 13a-15 applies to every issuer that has a class of securities registered pursuant to Section 12 of the Exchange Act. New Exchange Act Rule 15d-15 applies to every issuer that is required to file reports pursuant to Section 15(d) of the Exchange Act.
+
+86 New Investment Company Act Rule 30a-2(c) incorporates the definition of "disclosure controls and procedures" contained in new Exchange Act Rules 13a-14(c) and 15d-14(c). We recognize that, in the case of a series fund or family of investment companies, the disclosure controls and procedures for each fund in the series or family may be the same. Therefore, for purposes of new Investment Company Act Rule 30a-2(b)(4)(ii) and (iii), a single evaluation of the effectiveness of the disclosure controls and procedures for the series or family could be used in multiple certifications for the funds in the series or family, as long as the evaluation has been performed within 90 days of the date of the report on Form N-SAR.
+
+87 Instructions (a)(i) and (ii) to sub-item 77Q3 of Form N-SAR.
+
+88 See Items 111 to 132 of Form N-SAR.
+
+89 Signing officers could include, for example, the officers of the depositor required to sign a registration statement on Form N-4 [17 CFR 239.17b; 17 CFR 274.11c] or N-6 [17 CFR 239.17c; 17 CFR 274.11d], or the officers of the depositor, trustee or custodian required to sign a registration statement on Form N-8B-2 [17 CFR 274.12].
+
+90 Cf . Investment Company Act Rule 30e-2 [17 CFR 270.30e-2] (requiring registered unit investment trusts substantially all of the assets of which consist of securities issued by a management investment company to transmit to their shareholders semi-annually a report containing all of the applicable information and financial statements or their equivalent required to be included in reports of the management investment company for the same fiscal period).
+
+91 Instruction to item 133 of Form N-SAR.
+
+92 Business development companies are a category of closed-end investment company that are not required to register under the Investment Company Act. See 15 U.S.C. 80a-2(a)(48) (defining business development companies). A face-amount certificate company is an investment company that engages or proposes to engage in the business of issuing certain face amount certificates. See 15 U.S.C. 80a-4(1). See Release No. IC-14080 (Aug. 6, 1984) [49 FR 32370, 32372] (business development companies and face-amount certificate companies are required to file reports on other forms prescribed under the Exchange Act rather than Form N-SAR).
+
+93 44 U.S.C. §3501 et seq .
+
+94 44 U.S.C. §3507(d) and 5 CFR 1320.11.
+
+95 The burden hour and cost estimates for these collections of information are as follows: with respect to Form 10-K (OMB Control No. 3235-0063) an increase in annual reporting and recordkeeping burden hours and cost of 35,190 hours and $3,519,000, respectively; with respect to Form 10-KSB (OMB Control No. 3235-0420) an increase in annual reporting and recordkeeping burden hours and cost of 14,209 hours and $1,421,000, respectively; with respect to Form 10-Q (OMB Control No. 3235-0070) an increase in annual reporting and recordkeeping burden hours and cost of 100,298 hours and $10,030,000, respectively; and respectively; with respect to Form 10-QSB (OMB Control No. 3235-0416) an increase in annual reporting and recordkeeping burden hours and cost of 43,530 hours and $4,353,000, respectively.
+
+96 See the Letter dated August 2, 2000 of Bernard E. Klein.
+
+97 44 U.S.C. §3507(j) and 5 CFR 1320.13.
+
+98 References to new Exchange Act Rule 13a-14 in this section also refer to new Exchange Act Rule 15d-14.
+
+99 References to new Exchange Act Rule 13a-15 in this section also refer to new Exchange Act Rule 15d-15.
+
+100 We have based our estimates of the effects that the new rules and amendments to existing rules and forms will have on these information collections primarily on our review of actual filings of these forms and the forms' requirements.
+
+101 This estimate is based on 1,200 foreign private issuers that file annual reports on Form 20-F and 100 Canadian issuers that file annual reports on Form 40-F.
+
+102 This estimate is based on 3,650 registered management investment companies and 800 registered unit investment trusts that file reports under Section 13(a) or 15(d) of the Exchange Act.
+
+103 This estimate is based on consultations with several law firms and other persons who regularly assist registrants in preparing and filing quarterly and annual reports with the Commission.
+
+104 This estimate is based on the current annual burden per filing for each foreign private issuer. The estimate of 4,500 hours is calculated by 1,200 foreign private issuers x one filing per year x five burden hours x .75).
+
+105 This estimate is based on the current annual burden per filing for each Canadian issuer. The estimate of 475 hours is calculated by 100 Canadian issuers x one filing per year x five burden hours x .75 + 100 hours to reflect an adjustment in the distribution of burden hours and associated costs). The estimate has then been increased by 100 hours due to an adjustment to reflect a revised burden hour/cost allocation (75%/25%) for the report.
+
+106 This estimate is based on the current annual burden per filing for each investment company. With regard to Form N-SAR, the current estimated average burden hours per response for registered management investment companies and registered small business investment companies is 14.75 hours and the current estimated average burden hours per response for registered unit investment trusts is six hours. The estimated average burden hours per response, if new Investment Company Act Rule 30a-2 is adopted, for Form N-SAR would increase the average burden hours per response by five hours per filing that is required to be certified. We estimate that 50 registered management investment companies are not subject to Section 13(a) or 15(d) of the Exchange Act and hence would not be required to include the certification. Therefore, the estimate of 154,450 hours is calculated by: (3,650 registered management investment companies x two filings per year x 19.75 burden hours) + (50 registered management investment companies not subject to Section 13(a) or 15(d) of the Exchange Act x two filings per year x 14.75 burden hours) + (800 registered unit investment trusts x one filing per year x 11 burden hours).
+
+107 The increase in burden hours is attributed to an increase of 400 registered management investment companies and 67 registered unit investment trusts that are required to file reports pursuant to the Exchange Act from the previous number of these issuers calculated for the current annual burden, and the certification requirement required by the new rule.
+
+108 The estimate of 100,298 hours is calculated by 26,746 quarterly reports x five burden hours x .75.
+
+109 The estimate of 43,350 hours is calculated by 11,608 quarterly reports x five burden hours x .75.
+
+110 The estimate of 35,190 hours is calculated by 9,384 annual reports x five burden hours x .75.
+
+111 The estimate of 14,209 hours is calculated by 3,789 annual reports x five burden hours x .75.
+
+112 This estimate is based on the current annual burden per filing for each foreign private issuer. The estimate of $450,000 is calculated by 1,200 foreign private issuers x one filing per year x five burden hours x .25 x $300.00).
+
+113 This estimate is based on the current annual burden per filing for each foreign private issuer. The estimate of $26,500 is calculated by 100 foreign private issuers x one filing per year x five burden hours x .25 x $300.00). The estimate has then been reduced by $11,000 due to an adjustment to reflect a revised burden hour/cost allocation (75%/25%) for the report.
+
+114 The estimate of $10,030,000 is calculated by 26,746 quarterly reports x five burden hours x .25 x $300.00.
+
+115 The estimate of $4,353,000 is calculated by 11,608 quarterly reports x five burden hours x .25 x $300.00.
+
+116 The estimate of $3,519,000 is calculated by 9,384 annual reports x five burden hours x .25 x $300.00.
+
+117 The estimate of $1,421,000 is calculated by 3,789 annual reports x five burden hours x .25 x $300.00.
+
+118 See the amendment to Rule 302(b) of Regulation S-T [17 CFR 232.302(b)].
+
+119 5 U.S.C. §603.
+
+120 The Initial Regulatory Flexibility Analysis ("IRFA") prepared in connection with the June Proposals also involved proposed rules under the Exchange Act that would have required an issuer's principal executive officer and principal financial officer to certify the information contained in their quarterly and annual reports That proposal has been superseded by the statutory mandate of Section 302 of the Act. The Act's directive to adopt rules for all issuers makes no distinction based on the size of the issuer. We, therefore, do not analyze the new rules adopted under the Exchange Act requiring certifications by an issuer's principal executive and financial officers.
+
+121 17 CFR 240.0-10(a).
+
+122 A similar definition is provided under Securities Act Rule 157 [17 CFR 230.157].
+
+123 This estimate is based on filings with the Commission.
+
+124 See the June Proposals at Section V.
+
+125 See the Letter dated August19, 2002 of the Office of the Chief Counsel for Advocacy of the U.S. Small Business Administration.
+
+126 See Section V above.
+
+127 15 U.S.C. §78m(b)(2)(B).
+
+128 15 U.S.C. §78w(a)(2).
+
+129 15 U.S.C. §78c(f).
+
+130 15 U.S.C. §80a-2(c).
+
+131 See 5 U.S.C. §553(b).
+
+132 Id . The Commission previously published notice and sought comment on a certification proposal that was somewhat similar to, but different in several material respects, from the new rules we are adopting today to implement Section 302 of the Sarbanes-Oxley Act. We did not propose rules that would apply to investment companies or foreign private issuers (although we sought comment on the latter).
+
+133 See Section 302 (a) and (c) of the Act.
+
+134 See 5 U.S.C. §553(d).
+
+135 Id .
+
+136 This finding also satisfies the requirements of 5 U.S.C. §808(2), allowing the rules to become immediately, effective notwithstanding the requirements of 5 U.S.C. §801 (if agency finds that notice and public comment procedure are "impractical, unnecessary, or contrary to the public interest," a rule "shall take effect at such time as the Federal agency promulgating the rule determines").

@@ -1,0 +1,173 @@
+https://www.sec.gov/rules/final/34-40587.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Description of the Proposed Rule Amendments
+
+	III.0.0.0: III. Discussion of Final Rule Amendments
+
+		III.A.0.0: A.
+
+		III.B.0.0: B.
+
+		III.C.0.0: C.
+
+		III.D.0.0: D.
+
+	IV.0.0.0: IV. Costs and Benefits
+
+	V.0.0.0: V. Efficiency, Competition, and Capital Formation
+
+	VI.0.0.0: VI. Summary of Final Regulatory Flexibility Analysis
+
+	VII.0.0.0: VII. Paperwork Reduction Act
+
+	VIII.0.0.0: VIII. Statutory Basis
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Year 2000 Readiness Reports to be Made by Certain Non-Bank Transfer Agents 
+
+ SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
+
+(Release No. 34-40587; FR-52; File No. S7-8-98)
+
+RIN 3235-AH42
+
+ Year 2000 Readiness Reports to be Made by Certain Non-Bank Transfer Agents 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule. 
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is amending Rule 17Ad-18 under the Securities Exchange Act of 1934 ("Exchange Act") to require certain non-bank transfer agents to file with the Commission a report prepared by an independent public accountant regarding the non-bank transfer agent’s process for preparing for the Year 2000. The report will provide valuable information on the existence and sufficiency of a non-bank transfer agent’s process for addressing Year 2000 Problems, will provide an independent verification of the accuracy of the information contained in the non-bank transfer agent’s second Form TA-Y2K, will aid the Commission in obtaining a more complete understanding of the industry’s overall Year 2000 preparations, and will identify institution-specific and industry wide problems. The independent public accountant’s report will be available to the public.
+
+ EFFECTIVE DATE: December 2, 1998.
+
+ FOR FURTHER INFORMATION CONTACT: Jerry W. Carpenter, Assistant Director, 202/942-4187; Thomas C. Etter, Jr., Special Counsel, 202/942-4187; Jeffrey Mooney, Special Counsel, 202/942-4187; or Gregory J. Dumark, Attorney, 202/942-4187, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-1, Washington, D.C. 20549.
+
+ SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+ The Commission views the Year 2000 Problem <sup> 1 </sup> as a serious issue that if not addressed could disrupt the proper functioning of many of the world’s computer systems. At midnight on December 31, 1999, unless the proper modifications have been made, computer systems may start to produce erroneous results because, among other things, the systems may incorrectly read the date "01/01/00" as being the year 1900 or another incorrect date. In addition, systems may fail to detect that the Year 2000 is a leap year. Problems can also arise earlier than January 1, 2000, as dates in the next millennium are entered into non-Year 2000 compliant programs. Due to the serious nature of this issue, both non-bank transfer agents and the Commission are working hard to address the industry’s Year 2000 problems.
+
+ As part of the Commission’s ongoing efforts relating to the Year 2000, on July 2, 1998, we adopted Rule 17Ad-18 <sup> 2 </sup> to require non-bank transfer agents <sup> 3 </sup> to file reports with us describing their efforts to address Year 2000 problems on new Form TA-Y2K. <sup> 4 </sup> Part I of Form TA-Y2K is a check-the-box Year 2000 questionnaire. Each non-bank transfer agent that is not eligible for an exemption under existing Rule 17Ad-13(d) <sup> 5 </sup> is also required to file Part II of Form TA-Y2K, which requires a narrative discussion of its efforts to address Year 2000 Problems. <sup> 6 </sup> Form TA-Y2K is required to be filed no later than August 31, 1998, reflecting the non-bank transfer agent’s Year 2000 efforts as of July 15, 1998, and no later than April 30, 1999, reflecting the non-bank transfer agent’s Year 2000 efforts as of March 15, 1999.
+
+ In the Adopting Release, we deferred consideration of our original proposal to require certain assertions by a non-bank transfer agent regarding its process for addressing Year 2000 Problems be attested to or verified in some manner by an independent public accountant. In a Companion Release, also issued on July 2, 1998, we solicited additional comments on the appropriate independent public accountant review, including comments on the feasibility and desirability of an agreed-upon procedures engagement in which an independent public accountant would follow certain established procedures as an independent check on a non-bank transfer-agent’s assertions on the Form TA-Y2K. <sup> 7 </sup> 
+
+ The Commission received 18 comment letters regarding either the appropriate independent public accountant review or the feasibility and desirability of an agreed-upon procedures engagement. <sup> 8 </sup> Fifteen of the letters responded to the proposed attestation requirement with the majority of the commenters expressing concern about the scope and workability of an attestation review. Three letters were received in response to our second solicitation of comments on the appropriate scope of the independent public accountant’s review, and they were generally opposed to any additional reporting or regulatory requirements. However, three commenters indicated that an agreed-upon procedures approach mitigated some of their concerns regarding the proposed attestation review requirement. After considering the comments received, we are adopting the proposed amendments with the changes discussed below.<h>II. Description of the Proposed Rule Amendments </h>
+
+ Under the original proposal, a non-bank transfer agent that did not qualify for an exemption under existing Rule 17Ad-13(d) would have been required to make certain specific assertions as part of its second Year 2000 report regarding its efforts to address Year 2000 Problems. <sup> 9 </sup> In addition to making the assertions, the non-bank transfer agent would have been required to engage an independent public accountant to attest to whether there was a reasonable basis for these assertions.<h>III. Discussion of Final Rule AmendmentsA. Independent Public Accountant Review </h><h>A. Independent Public Accountant Review </h>
+
+ The American Institute of Certified Public Accountants ("AICPA"), among other commenters, stated that the proposed attestation report would be difficult for independent public accountants to provide. The AICPA said that some of the required non-bank transfer agent assertions are not appropriate for accountant attestation because the assertions are not capable of reasonably consistent measurement against reasonable criteria. Currently, there are no uniform, well established criteria related to Year 2000 remediation efforts. The lack of established criteria would likely result in significant variation in the examination procedures performed by independent public accountants and thus would reduce the usefulness of the attestation reports. In addition, the AICPA expressed concern that the purpose and conclusions of the attestation report could be misunderstood. The AICPA was primarily concerned that uninformed users of the attestation reports would place undue reliance on them. Several other commenters also expressed concern that independent public accountants probably do not have the expertise required to properly evaluate the non-bank transfer agent’s Year 2000 efforts and that requiring an attestation engagement would be burdensome.
+
+ We believe that requiring a non-bank transfer agent to file a report prepared by an independent public accountant will benefit the securities industry’s and our efforts to prepare for the Year 2000 by improving the accuracy of the non-bank transfer agent’s second Year 2000 report and by encouraging the non-bank transfer agent to proceed expeditiously with its efforts to address Year 2000 Problems. We will use the reported information to obtain a more complete understanding of the industry’s overall Year 2000 preparations and to identify institution-specific and industry-wide problems. Information in the reports will also help us focus Year 2000-related efforts for 1999 on particular industry segments or non-bank transfer agents that appear to pose the greatest risk of not being ready for Year 2000. In sum, the rule amendments will enable the Commission to take a more active role in reducing the Year 2000 risk to the securities industry.
+
+ However, we have modified the scope of the independent public accountant review. The rule adopted today requires each non-bank transfer agent that is required to file Part II of Form TA-Y2K, by April 30, 1999, to include with that filing a report prepared by an independent public accountant regarding the non-bank transfer agent’s process for addressing Year 2000 Problems. The independent public accountant’s report must be prepared in accordance with standards that have been reviewed by the Commission and that have been issued by a national organization that is responsible for promulgating authoritative accounting and auditing standards. In conjunction with adopting this reporting requirement, we have reviewed the procedures included in the Statement of Position 98-8, issued by the Auditing Standards Board. <sup> 10 </sup> An independent public accountant’s report prepared in accordance with SOP 98-8 would satisfy the independent public accountant reporting requirements adopted by the Commission today.<SUP> </SUP> <sup> 11 </sup> Statement of Position 98-8 is discussed in more detail below.<h>B. Statement of Position 98-8 </h>
+
+ The AICPA, along with other commenters, suggested that an "agreed-upon procedures" engagement, instead of an attestation engagement, would more effectively meet our objectives. Pursuant to such an engagement, a non-bank transfer agent would engage an independent public accountant to perform and report on specific procedures designed to meet the review objectives. This would eliminate the variability of examination procedures performed by independent public accountants and increase the consistency of the reports. In addition, other commenters indicated that an agreed-upon procedures engagement would be less time-consuming, less costly, and less disruptive operationally than the attestation approach. 
+
+ SOP 98-8 addresses commenters’ concerns regarding an attestation engagement by providing independent public accountants a list of procedures to follow when preparing its report on the non-bank transfer agent’s process for addressing Year 2000 Problems. More specifically, these procedures require an independent public accountant to consider the non-bank transfer agent’s plan for addressing Year 2000 problems, its efforts to repair its affected computer systems, its tests of completed repairs, and its efforts to monitor the progress of the Year 2000 project. In addition, through SOP 98-8 the independent public accountant is provided a reporting format to use when reporting the results of executing the specified procedures. Finally, SOP 98-8 provides the independent public accountant with guidance on how to execute the procedures and how to report any exceptions identified.
+
+ We believe that the procedures and reporting format contained in SOP 98-8 meet our regulatory objectives. The execution of the procedures by an independent public accountant (i) will provide valuable information on the existence and sufficiency of a non-bank transfer agent’s process for addressing Year 2000 Problems; (ii) will provide an independent verification of the accuracy of the information contained in the non-bank transfer agent’s second Form TA-Y2K; (iii) will aid us in obtaining a more complete understanding of the industry’s overall Year 2000 preparations; and (iv) will identify institution-specific and industry-wide problems.<h>C. Public Availability </h>
+
+ The proposed rules would have made the independent public accountant’s attestation report available to the public. The AICPA, in addition to other commenters, expressed concerns that some users of these reports could place undue reliance on the reports and that the technical nature of the reports could confuse investors. However, we believe that the public’s interest is best served by requiring full and open disclosure. Allowing the public to have access to the independent public accountant’s report will assist interested persons in determining whether a non-bank transfer agent has a process for addressing Year 2000 Problems. For example, after reviewing a non-bank transfer agent’s accountant’s report, an issuer using the non-bank transfer agent might request additional information or assurances if the non-bank transfer agent does not appear to be taking the steps necessary to be Year 2000 compliant. In the absence of such assurances, an issuer could determine whether it wishes to continue its dealings with that non-bank transfer agent. 
+
+ The rule amendments adopted by the Commission today provide that the public will have access to the independent pubic account’s report. <sup> 12 </sup> In addition, the Commission or its staff, after reviewing Forms TA-Y2K, accompanying accountant’s reports, and other pertinent information, may make findings or conclusions or compile information from filings by individual non-bank transfer agents and make non-bank transfer agent specific, aggregate, or derivative information available to the public, Congress, or other members of the securities industry. 
+
+ We note, however, that the accountant’s report has a specific regulatory purpose and is not intended to express an opinion or finding regarding whether a non-bank transfer agent is Y2K compliant. The following excerpts from the sample "Independent Accountant’s Report on Agreed-Upon Procedures" attached to the AICPA’s SOP makes clear the limitations of the accountant’s role and report: 
+
+ We have performed the procedures enumerated below as specified in the American Institute of Certified Public Accountant’s (AICPA’s) Statement of Position 98-8 which were agreed to by ABC Transfer Agent (hereinafter referred to as the "entity") to assist the users in evaluating the entity’s assertions in Parts I and II of Form TA-Y2K ("Form TA-Y2K") as of March 15, 1999, prepared and filed pursuant to requirements of SEC rule 17Ad-18. Pursuant to Securities and Exchange Commission (SEC) Release No. 40587, these agreed-upon procedures will satisfy the SEC’s regulatory requirements. This report is issued solely for these regulatory purposes.
+
+ This agreed-upon procedures engagement was performed in accordance with standards established by the AICPA. The sufficiency of these procedures is solely the responsibility of the specified users of the report. Consequently, we make no representation regarding the sufficiency of the procedures described below either for the purpose for which this report has been requested or for any other purpose.
+
+ We were not engaged to, and did not, perform an examination, the objective of which would be the expression of an opinion on the entity’s assertions included in Form TA-Y2K referred to in the introductory paragraph of this report. Accordingly, we do not express such an opinion. Had we performed additional procedures, other matters might have come to our attention that would have been reported to you. Our procedures also do not provide assurances that the entity is or will be year 2000 ready, that its year 2000 project plans will be successful in whole or in part, or that parties with which the entity does business will be year 2000 ready.
+
+ This report is intended solely for the information and use of the Board of Directors and Management of ABC Transfer Agent, and the Securities and Exchange Commission, and is not intended to be and should not be used by anyone other than these specified parties.<h>D. Timing </h>
+
+ Rule 17Ad-18 adopted by the Commission in July requires all non-bank transfer agents to file at least Part I of Form TA-Y2K on August 31, 1998 and April 30, 1999. Those non-bank transfer agents that do not qualify for an exemption under Rule 17Ad-13(d) also must complete Part II of Form TA-Y2K. The rule adopted today also requires non-bank transfer agents that do not qualify for an exemption under Rule 17Ad-13(d) to file the report prepared by the independent public accountant by April 30, 1999 reflecting the non-bank transfer agent’s Year 2000 efforts as of March 15, 1999.<h>IV. Costs and Benefits </h>
+
+ In the Proposing Release, we requested that commenters provide analysis and data supporting the costs and benefits of the proposed rule. In a second release soliciting additional comments on the appropriate scope of the independent public accountant’s review, we solicited comments on the desirability and feasibility of an agreed-upon procedures approach. Several commenters indicated that our cost estimates with regard to the attestation report were too low. However, no commenters provided detailed information or data as to the costs of the proposed amendment. 
+
+ As discussed more fully in part III. A. above, the Commission is adopting a requirement that certain non-bank transfer agents file with their second Form TA-Y2K a report prepared by an independent public accountant regarding the non-bank transfer agent’s process for addressing Year 2000 Problems. In addition, we have determined that an independent public accountant’s report prepared in accordance with SOP 98-8 will meet our regulatory objectives. It is important to note that the independent public accountant review adopted by us today is significantly less in scope than the proposed attestation review. As a result, the aggregate cost of complying with the rule should be less.
+
+ In the Proposing Release, the Commission estimated that on average a non-bank transfer agent would spend 30 hours working with its independent public accountant and that the cost of the attestation report could range from $5,000 to $200,000 with the average cost likely to be $25,000. <sup> 13 </sup> Without providing cost figures or analysis, commenters indicated that these estimated costs were too low. Consequently, Commission staff contacted a number of accounting firms and the AICPA to obtain detailed data on the costs to non-bank transfer agents of the independent public accountant’s report. However, the parties contacted would not formally submit cost data. 
+
+ Therefore, despite the reduced scope of the independent public accountant review adopted by us today and based on the comments received and the efforts of its staff, we are retaining our original cost estimates. We estimate that the total cost to the industry of non-bank transfer agents obtaining and filing the independent public accountant’s reports is $5,400,000. This is based on the approximately 200 non-bank transfer agents who did not qualify for any exemption spending on average 20 hours at $100 per hour working with their accountants and spending on average $25,000 in additional accounting fees. It is important to note that this is a total cost estimate and not an annual cost. Non-exempt non-bank transfer agents will only be required to file one independent public accountant’s report. We further note that by limiting the requirement to those non-bank transfer agents who pose the greatest risk to customers and the market if they are not Year 2000 compliant, we have not imposed this burden on small non-bank transfer agents. For more information on the amendments effect on small non-bank transfer agents see part VI below. 
+
+ No commenters specifically addressed the potential benefits of the amendments, and the Commission has not been able to quantify those benefits. <sup> 14 </sup> We are aware of the significant effort the securities industry has put forth and the progress its has made but believe that significant progress still needs to be made by the securities industry to be ready for the Year 2000. 
+
+ As previously discussed in paragraph III. A. above, we believe that a regulatory requirement to file an independent public accountant’s report will improve the accuracy of the non-bank transfer agent’s second Year 2000 report and should encourage the non-bank transfer agent to proceed expeditiously with its efforts to prepare for the Year 2000. We will use the reported information to obtain a more complete understanding of the industry’s overall Year 2000 preparations and to identify institution-specific and industry-wide problems. Information in the reports will help us focus our Year 2000-related efforts for 1999 on particular industry segments or firms that appear to pose the greatest risk of non-compliance and will enable us to take a more active role in reducing the Year 2000 risk to the securities industry. In light of the seriousness and pervasiveness of the Y2K problem and in light of the systematic risk it presents to the securities industry and investors, we believe the significant benefits that will result from the independent public accountant’s report justify the cost.<h>V. Efficiency, Competition, and Capital Formation </h>
+
+ Section 23(a) of the Exchange Act <sup> 15 </sup> requires the Commission, in adopting rules under the Exchange Act, to consider the impact any such rule would have on competition and to not adopt a rule that would impose a burden on competition not necessary or appropriate in furthering the purposes of the Exchange Act. Furthermore, Section 3(f) of the Exchange Act <sup> 16 </sup> provides that whenever the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, we also shall consider in addition to the protection of investors whether the action will promote efficiency, competition, and capital formation.
+
+ We have considered the amendments to Rule 17Ad-18 in light of the standards cited in Section 3 and 23 (a)(2) of the Exchange Act. In addition, we sought comments on the proposed amendments’ effect on competition, efficiency, and capital formation. No commenters specifically addressed the issue of whether the proposed accountant’s review would affect competition, and no comments were received regarding the proposed amendment’s effect on efficiency and capital formation.
+
+ In the Proposing Release, we stated that the proposed amendments should not unduly burden competition. We have drafted the rule amendments so as to minimize their impact on competition. We have, in adopting the independent public accountant’s reporting requirement, differentiated between non-bank transfer agents based upon their size, type of business, and relative risk they pose to customers and the market if they are not Year 2000 compliant. Non-bank transfer agents that qualify for an exemption under existing Rule 17Ad-13(d) are not required to file the accountant’s report. <sup> 17 </sup> We believe that the proposed rule does not impose any burden on competition not necessary or appropriate in furtherance of the Exchange Act. 
+
+ We believe that the rule should increase the efficiency and effectiveness of the our efforts to prepare for the Year 2000 by enabling the us to obtain a more complete understanding of the industry’s overall Year 2000 preparations and to identify institution-specific and industry-wide problems. Information in the reports will also help us focus our Year 2000-related efforts for 1999 on particular industry segments or firms that appear to pose the greatest risk of non-compliance. In addition, we believe that the rule does not adversely affect capital formation. However, failure on the part of the Commission and the securities industry to adequately prepare for the Year 2000 could adversely affect capital formation at the beginning of the next millennium.<h>VI. Summary of Final Regulatory Flexibility Analysis </h>
+
+ Pursuant to Section 605(b) of the Regulatory Flexibility Act, 5 U.S.C. § 605(b), the Chairman of the Commission has certified that the amendment to Rule 17Ad-18 would not, if adopted, have an economic impact on small entities. The amendment requires certain non-bank transfer agents not eligible for an exemption under existing Rule 17Ad-13(d) to file with the Commission a report prepared by an independent public accountant regarding the non-bank transfer agent’s process for preparing for the Year 2000. All small non-bank transfer agents qualify for an exemption pursuant to Rule 17Ad-13(d). Accordingly, the amendment would have no economic impact on small entities.<h>VII. Paperwork Reduction Act </h>
+
+ The amendments to Rule 17Ad-18 adopted by the Commission today also amend the following collection of information within the meaning of the Paperwork Reduction Act of 1995 ("PRA"): <sup> 18 </sup> Reports to be Made by Certain Transfer Agents; Rule 17Ad-18 - Year 2000 Problem. <sup> 19 </sup> Accordingly, the collection of information requirements regarding the accountant’s report was submitted to OMB for review (and was approved).
+
+ The Proposing Release solicited comments on the proposed collections of information. No comments were received that specifically addressed the PRA submission. However, as discussed in sections III. and IV. above, we received suggestions that would improve the accountant’s report requirement. Based upon these suggestions, the collection of information has been adjusted as described in section III. above and is in accordance with Section 3507 of the PRA. <sup> 20 </sup> These adjustments include reducing the scope of accountant’s review to increase the consistency, accuracy and comparability of the information collected. In addition, the adjustments will reduce the time required to summarize, track, analyze, and report the information received.
+
+ An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the agency displays a valid OMB control number. Non-bank transfer agents are required to comply with the collection of information pursuant to Rule 17Ad-18, and the information is necessary to provide us with a better understanding of the security industry’s readiness for the Year 2000. The information collected pursuant to Rule 17Ad-18 will be public.
+
+ As previously discussed, we have reduced the scope of the independent public accountant’s review. However, after carefully considering the comments received, we are retaining its original estimate of the burden hours associated with obtaining the independent public accountant’s report. Thus, the we estimate that under the final rule, a non-bank transfer agent will on average spend 20 hours obtaining the independent public accountant’s report. This is in addition to the two hours a non-bank transfer agent will spend preparing Part I of Form TA-Y2K and 35 hours they will spend preparing Part II of Form TA-Y2K.
+
+ The total annualized burden to the securities industry is estimated to be 12,480 hours. This is based on approximately 740 respondents spending on average two hours completing Part I of Form TA-Y2K; approximately 200 respondents spending on average 35 hours preparing Part II of Form TA-Y2K and an additional 20 hours working with their independent public accountant on the independent public accountant’s report.<h>VIII. Statutory Basis </h>
+
+<END MAIN TEXT>
+
+1 The Commission has defined the term "Year 2000 Problem" to include any erroneous result caused by any computer software: (i) incorrectly reading the date "01/01/00" or any year thereafter; (ii) incorrectly identifying a date in the year 1999 or any year thereafter; (iii) failing to detect that the Year 2000 is a leap year, and (iv) any other computer error that is directly or indirectly related to (i), (ii), or (iii) above.
+
+2 17 CFR 240.17Ad-18.
+
+3 Non-bank transfer agents are those transfer agents whose appropriate regulatory agency is the Commission. For purposes of this release and Rule 17Ad-18, transfer agents that are saving associations regulated by the Office of Thrift Supervision are considered bank transfer agents.
+
+4 Release No. 34-40163 (July 2, 1998), 63 FR 37688 (July 13, 1998) ("Adopting Release"). See also Release No. 34-39726 (March 5, 1998), 63 FR 12062 (March 12, 1998) ("Proposing Release") and Release No. 34-39859 (extending the comment period from April 13, 1998 to April 27, 1998).
+
+5 17 CFR 240.17 Ad-13(d).
+
+6 Rule 17Ad-13(d) contains an exemption from the requirement to file an annual study and evaluation of internal accounting control for transfer agents that: (1) perform transfer agent functions solely for their own securities, securities issued by a subsidiary in which they own 51% or more of the subsidiary's capital stock and securities issued by another corporation that owns 51% or more of the capital stock of the registered transfer agent; (2) received less than 500 items for transfer and less than 500 items for processing during the preceding six months (or in the time that it has been in business, if shorter); and (3) maintained master shareholder files that in the aggregate contained less than 1,000 shareholder accounts or was the named transfer agent for less than 1,000 shareholder accounts at all times during the preceding fiscal year (or in the time that it has been in business, if shorter).
+
+7 Release No. 34-40165 (July 2, 1998), 63 FR 37710 (July 13, 1998) ("Companion Release") (reopening the comment period on the appropriate scope of independent public accountant review until August 12, 1998).
+
+8 All comment letters are available in File No. S7-8-98 at the our Public Reference Room, 450 Fifth Street, N.W., Washington, DC 20549.
+
+9 Each non-bank transfer agent would have been required to assert: (1) whether it has developed written plans for preparing and testing its computer systems for potential Year 2000 Problems; (2) whether the board of directors, or similar body, has approved these plans, and whether a member of the non-bank transfer agent's board of directors, or similar body, is responsible for executing the plans; (3) whether its Year 2000 remediation plans address all domestic and international operations, including the activities of its subsidiaries, affiliates, and divisions; (4) whether it has assigned existing employees, hired new employees, or engaged third parties to execute its Year 2000 remediation plans; and (5) whether it has conducted internal and external testing of its Year 2000 solutions and whether the results of those tests indicate that the non-bank transfer agent has modified its software to correct Year 2000 problems. Many of the issues covered by the assertions were adopted as questions in Part II of Form TA-Y2K.
+
+10 The AICPA's Auditing Standards Board is responsible for the promulgation of auditing and attestation standards and procedures to be observed by members of the AICPA in accordance with the Institute's Bylaws and Code of Professional Conduct.
+
+11 In reviewing SOP 98-8, the Commission considered whether it required the independent public accountant to perform procedures regarding the non-bank transfer agent's plan for addressing Year 2000 problems, efforts to repair affected computer systems, tests of completed repairs, and efforts to monitor the progress of the non-bank transfer agent's Year 2000 project.
+
+12 An agreed-upon procedures engagement conducted in accordance with SOP 98-8 must also comply with SSAE No. 4, Agreed-Upon Procedures Engagements . See AICPA, Professional Standards, Vol. 1, AT Sec. 600. SSAE No. 4 states, among other things, that a report on the performance of agreed-upon procedures should restrict the use of the report to parties specifically identified as users within the report. However, SSAE No. 4 does not limit who may have access to the report. While the intended users of an independent public accountant's report prepared in accordance with SOP 98-8 are limited to those parties specifically identified in the report, SSAE No. 4 does not limit who may have access to the report.
+
+13 This estimate has been revised to 20 hours. The Commission believes that 20 hours more accurately reflects the amount of time a non-bank transfer agent must work with its independent public accountant to prepare a report regarding the non-bank transfer agent's process for preparing for the Year 2000.
+
+14 One commenter expressed concern that the cost of obtaining the independent public accountant's report would outweigh its benefits. However, the commenter did not provide any specific information or analysis.
+
+15 15 U.S.C. 78w (a)(2).
+
+16 15 U.S.C. 78c.
+
+17 Generally, the type of business conducted by a non-bank transfer agent that does not qualify for an exemption poses a greater risk to customers and the markets if the non-bank transfer agent is not Year 2000 compliant.
+
+18 44 U.S.C. 3501 et seq .
+
+19 Office of Management and Budget ("OMB") control number 3235-0512.
+
+20 44 U.S.C. 3507
+
+21 <SUP> </SUP><SUP> </SUP><SUP> </SUP> 15 U.S.C. 78a et seq .
+
+22 17 CFR 240.17Ad-13(d). http://www.sec.gov/rules/final/34-40587.htm

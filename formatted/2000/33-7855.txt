@@ -1,0 +1,483 @@
+https://www.sec.gov/rules/final/33-7855.htm
+
+	I.0.0.0: I. Modernization of EDGAR
+
+		I.A.0.0: A. Background
+
+		I.B.0.0: B. HTML/PDF Environment
+
+		I.C.0.0: C. Use of HTML
+
+		I.D.0.0: D. Use of PDF
+
+		I.E.0.0: E. Graphic and Image Material
+
+		I.F.0.0: F. Expanded Use of Hypertext Links
+
+		I.G.0.0: G. Method of Electronic Transmission
+
+		I.I.0.0: I. Modernized EDGARLink
+
+	II.0.0.0: II. Rule Amendments in Connection with EDGAR Release 7.0
+
+	III.0.0.0: III. Paperwork Reduction Act
+
+	IV.0.0.0: IV. Cost-Benefit Analysis
+
+	V.0.0.0: V. Analysis of Burdens on Competition, Capital Formation and Efficiency
+
+	VI.0.0.0: VI. Summary of Regulatory Flexibility Act Certification
+
+	VII.0.0.0: VII. Statutory Basis
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Rulemaking for EDGAR System 
+
+ SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 228, 229, 230, 232, 239, 240, 249, 250, 259, 260, 269, 270, and 274 [Release Nos. 33-7855; 34-42712; 35-27172; 39-2384; IC-24400 File No. S7-05-00] RIN 3235-AH79 
+
+ Rulemaking for EDGAR System 
+
+ AGENCY: Securities and Exchange Commission
+
+ ACTION: Final rule
+
+ SUMMARY: We are modernizing our Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system. We are implementing the next stage of modernization (EDGAR Release 7.0) for filers to begin using on May 30 of this year. In this release, we are adopting amendments to our rules to reflect changes to filing requirements that result from our implementation of EDGAR Release 7.0 as well as certain other changes to clarify or update the rules. We address in today's release the following new features and changes we are implementing with EDGAR Release 7.0, along with a modernized version of EDGARLink: inclusion of graphic and image files in HTML filings; expanded use of hyperlinks in HTML filings; and the addition of the Internet, and removal of diskettes, as a means of transmitting filings to the EDGAR system. We also are eliminating the requirement for filers to submit Financial Data Schedules, with a deferred effective date of January 1, 2001. We will continue to support the old EDGARLink filing method until at least November 1, 2000. Until that date, filers may continue to use the old EDGARLink. Filers using the old EDGARLink will not be able to take advantage of the system's new features.
+
+ DATES: These rules are effective on May 30, 2000 and apply to filings submitted on or after that date, except for the following:
+
+ 1. The amendments to 230.110(b), 232.12(b), 240.0-2(b), 250.21(b)(1), 260.0-5(b), and Form ET (referenced in 239.62, 249.445, 259.601, 269.6 and 274.401) which are not effective until July 10, 2000.
+
+These provisions relate to the removal of diskettes as an available means of transmitting filings to the EDGAR system. Transmissions submitted on diskette on or after July 10, 2000 will not be accepted.
+
+2. The amendments to 228.601, 229.601, 230.483(e), 232.105(a), 232.303(a)(4), the undesignated center heading preceding 232.401 and 232.402, 232.401, 232.402, Forms S-2, S-3, and S-8 (referenced in 239.12, 239.13, and 239.16b respectively), and Forms U5S, U-1, U-13-60, and U-3A-2 (referenced in 259.5s, 259.101, 259.313, and 259.402 respectively), 270.8b-2, 270.8b-23, 270.8b-32, and Form N-SAR (referenced in 274.101) which are not effective until January 1, 2001.
+
+These provisions relate to the requirement to submit Financial Data Schedules. Filings due before January 1, 2001, regardless of when they are submitted, are subject to these provisions. Filings due and submitted after January 1, 2001 are not subject to these provisions.
+
+ FOR FURTHER INFORMATION CONTACT: If you have questions about the rules, please contact one of the following members of our staff: in the Division of Investment Management, Ruth Armfield Sanders, Senior Special Counsel, or Shaswat K. Das, Attorney, (202) 942-0978; and in the Division of Corporation Finance, Carol P. Newman Weiss, Accountant, (202) 942-2940. If you have questions about the development of the modernizedEDGAR system, please contact Richard D. Heroux, EDGAR Program Manager, (202) 942-8885, in the Office of Information Technology.
+
+ SUPPLEMENTARY INFORMATION: 
+
+Today we are amending the following rules relating to electronic filing on the EDGAR system: Item 601 of Regulation S-B<SUP> 1 </SUP> under the Securities Act of 1933 (Securities Act);<SUP> 2 </SUP> Item 601 of Regulation S-K<SUP> 3 </SUP> under the Securities Act; Rules 110 and 483<SUP> 4 </SUP> under the Securities Act; Forms S-2, S-3, and S-8<SUP> 5 </SUP> under the Securities Act; Rules 11, 12, 103, 104, 105, 302, 303, 304, 311 and 501 of Regulation S-T;<SUP> 6 </SUP> Rule 0-2<SUP> 7 </SUP> under the Exchange Act of 1934 (Exchange Act);<SUP> 8 </SUP> Rule 21<SUP> 9 </SUP> and Forms U5S, U-1, U-13-60 and U-3A-2<SUP> 10 </SUP> under the Public Utility Holding Company Act of 1935 (Public Utility Act);<SUP> 11 </SUP> Rule 0-5<SUP> 12 </SUP> under theTrust Indenture Act of 1939 (Trust Indenture Act);<SUP> 13 </SUP> Rules 8b-2, 8b-23, and 8b-32<SUP> 14 </SUP> and Form N-SAR<SUP> 15 </SUP> under the Investment Company Act of 1940 (Investment Company Act);<SUP> 16 </SUP> and Form ET<SUP> 17 </SUP> under the Securities Act, the Exchange Act, the Public Utility Act, the Trust Indenture Act, and the Investment Company Act. We are also removing the following rules from Regulation S-T: Rules 401 and 402.<SUP> 18 </SUP> 
+
+EDGAR Release 7.0 includes the following new features and changes that we address in the amendments today: 
+
+ the ability to include graphic and image files in HTML filings; 
+
+ the expanded ability to use hyperlinks in HTML filings, including links between documents within a submission and to previously filed documents on our public web site EDGAR database at www.sec.gov; 
+
+ the addition of the Internet, and removal of diskettes, as an available means of transmitting filings to the EDGAR system; and 
+
+the removal of the requirement to submit Financial Data Schedules.
+
+<END HEADER>
+
+<h>I. Modernization of EDGARA. Background </h><h>A. Background </h>
+
+In 1984, we initiated the EDGAR system to automate the receipt, processing, and dissemination of documents required to be filed with us under the Securities Act, the Exchange Act, the Public Utility Act, the Trust Indenture Act, and the Investment Company Act. Since 1996, we have required all domestic public companies to make their filings electronically through the EDGAR system, absent an exemption. EDGAR filings are disseminated electronically and displayed on our web site at http://www.sec.gov. The EDGAR system's broad and rapid dissemination benefits the public by allowing investors and others to obtain information rapidly in electronic format. Electronic format is easy to search and lends itself readily to financial analysis, using spreadsheets and other methods. 
+
+Recent technological advances, most notably the rapidly expanding use of the Internet, have led to unprecedented changes in the means available to corporations, government agencies, and the investing public to obtain and disseminate information. Today many companies, regardless of size, make information available to the public through Internet web sites. On those sites and through links from one web site to others, individuals may obtain a vast amount of information in a matter of seconds. Advanced data presentation methods using audio, video, and graphic and image material are now available through even the most inexpensive personal computers or laptops. 
+
+Last year, we adopted rules to begin the modernization of the EDGAR system to accommodate some of the changes in technology occurring since the system was developed.<SUP> 19 </SUP> On June 28, 1999, we began allowing filers to submit documents to EDGAR in HyperText Markup Language (HTML) format<SUP> 20 </SUP> and to accompany their required filings with unofficial copies in Portable Document Format (PDF). On March 3 of this year, we issued a release proposing rule changes to implement the next stage of EDGAR modernization.<SUP> 21 </SUP> Today we are adopting those rule changes substantially as proposed. The only changes from the proposal are: 
+
+ deferred effective dates for the elimination of diskettes and Financial Data Schedules; and
+
+increased flexibility in the form of unofficial PDF copies of correspondence that filers may submit by removing the proposed limitation that these correspondence documents be restricted to redlined copies of filings, as discussed below. 
+
+In response to our request for comments in both proposing releases, we received a number of comment letters with suggestions concerning the evolving EDGAR system. We appreciate the need to balance the competing interests of these parties in order to have a system that adequately addresses the fundamental needs of each. We appreciate these comments and will continue to consider them in connection with future planning for the system and rulemaking related to all stages of EDGAR modernization, taking into consideration the varying interests of filers, filing agents, disseminators, and public users of the EDGAR database.<SUP> 22 </SUP> We discuss commenters' views on some of the proposals below. 
+
+We also solicited commenters' views on future proposals to broaden types of filings we accept on the EDGAR system<SUP> 23 </SUP> and whether we should require other filings to be mandated EDGAR filings.<SUP> 24 </SUP> We received a number of divergent comments in response, andwe will consider these commenters' views in connection with our future rulemaking in these areas.<h>B. HTML/PDF Environment </h>
+
+The purpose of our current EDGAR contract is to modernize EDGAR over the next two years to make the system easier for filers to use and the documents more attractive and readable for the users of public information. Since June 28, 1999, filers have been able to submit most filings to us in either HTML or ASCII format. We expect that HTML will eventually replace ASCII for most filings. Also, since June 28, 1999, filers have been able to submit unofficial copies of filings in PDF. In this release, we refer to the required filings that filers must submit only in either ASCII or HTML formats as "official filings." We refer to the PDF documents as "unofficial PDF copies" because filers may not use them instead of HTML or ASCII documents to meet filing requirements. 
+
+Our plan for the evolution of the EDGAR system is to continue the HTML/PDF environment. Unlike ASCII documents, HTML and PDF documents have the potential to include graphics, varied fonts, and other visual displays that filers use when they create Internet presentations or material for distribution to shareholders. 
+
+In this release, we adopt rule changes to correspond to the changes to the EDGAR system with EDGAR Release 7.0.<SUP> 25 </SUP> With Release 7.0, the EDGAR system will accept anddisplay filings that use graphic and other visual presentations and provide links to previously filed documents appearing on our public web site EDGAR database.<h>C. Use of HTML </h>
+
+We have not yet proposed to require the use of HTML for filings. But, as we noted in the 1999 proposing and adopting releases, and in the 2000 proposing release, we expect to require HTML for most filings in the future.<SUP> 26 </SUP> 
+
+A number of commenters addressed the use of HTML. Some supported mandating its use, citing benefits of this format and stating that the goal of migrating filers to HTML is unlikely to be accomplished without mandating it. Others opposed mandating HTML, addressing some disadvantages to filers and users, as well as the need of filers and agents to gain experience with this format. Several commenters suggested phase-in periods ranging from one to two years. Other commenters suggested that there are evolving alternative formats that we should consider, including XML. 
+
+We have not yet set the timing for mandating the use of HTML, but we understand the need to provide filers adequate notice and will take this into account in any proposal to mandate the use of HTML. In the meantime, we urge filers to use HTML for their EDGAR filings and gain experience with it if they do not have it already. We are providing technical support for filers to assist them in submitting and correcting HTML documents through our filer technical support function. 
+
+If HTML is used, each EDGAR document must still consist of no more than one HTML file (with associated graphics files). We are adopting a new set of permissible HTML 3.2 tags for EDGAR Release 7.0, adding tags to allow graphics and more hypertext links. We will include the tag list in the EDGAR Filer Manual. Filers will be able to take advantage of the expanded tagging for graphics and hypertext links only through the use of a modernized version of EDGARLink.<SUP> 27 </SUP> These permissible tags allow for most formatting capability while eliminating active content<SUP> 28 </SUP> and certain classes of hypertext links.<SUP> 29 </SUP> The EDGAR system will continue to suspend filings if they contain tags that are not permitted.<SUP> 30 </SUP> Several commenters criticized the use of HTML 3.2 as outdated. One commenter supported the use of HTML 3.2. We anticipate that the permitted tag set will continue to evolve over time to accommodate the industry standard and needs of filers. We plan to move to a set of permissible HTML 4.0 tags in a future EDGAR system release.<h>D. Use of PDF </h>
+
+In addition to allowing the use of HTML for filings, we permit filers to submit a single unofficial PDF copy of each document.<SUP> 31 </SUP> These copies are disseminated publicly. Unofficial PDF documents retain all the fonts, formatting, colors, images, and graphics contained in an original document. The unofficial PDF copy is optional, but the rules currently require that, if an unofficial PDF copy of a document is submitted, it be substantively equivalent<SUP> 32 </SUP> to the document contained in the official filing of which it is a copy.<SUP> 33 </SUP> 
+
+Some filers have offered to submit redlined unofficial PDF copies of their filings along with their correspondence submissions for the convenience of the staff in its review.<SUP> 34 </SUP> Currently, Rule 104<SUP> 35 </SUP> of Regulation S-T would prevent such submissions. We agree that allowing such submissions may facilitate staff review. We are amending Rule 104 to providethat unofficial PDF copies in correspondence documents may differ from the contents of the associated ASCII or HTML correspondence document.<SUP> 36 </SUP> This will allow filers to submit redlined copies of official filings in unofficial PDF copies of EDGAR correspondence documents without having to submit the entire official filing in the associated ASCII or HTML document.<SUP> 37 </SUP> If a filer submits an unofficial PDF copy of a correspondence document that differs from the text of the ASCII or HTML document, the text of the ASCII or HTML correspondence document should identify and briefly describe the contents of the unofficial PDF copy. For example, the ASCII or HTML correspondence document may consist of a cover letter stating that an unofficial PDF copy of the described filing is included in the submission.<h>E. Graphic and Image Material </h>
+
+Up until now, the EDGAR system has not accepted graphic or image material in HTML documents.<SUP> 38 </SUP> Currently, the EDGAR system is programmed to suspend HTML submissions if they contain tags for graphic or image files. However, filers may include graphic and/or image material in an optional, unofficial PDF copy of their EDGAR document. 
+
+EDGAR Release 7.0 permits graphic and image material in HTML documents that filers submit using a modernized version of EDGARLink that we are making available with EDGAR Release 7.0.<SUP> 39 </SUP> However, the rule prohibits filers from using graphic or image material to submit information such as text or tables, so that users will be able to search and/or download this information into spreadsheet form.<SUP> 40 </SUP> Instead, filers must submit such information as text in an ASCII document, or as text or an HTML table<SUP> 41 </SUP> in an HTML document.<SUP> 42 </SUP> In addition, filers should be aware that EDGAR Release 7.0 does not support the inclusion of graphics in modules and segmented filings. 
+
+We currently prohibit any EDGAR submission containing animated graphics ( e.g. , files with moving corporate logos or other animation), either in any official submission or any unofficial PDF copy. We imposed this requirement due to concerns with how to capture and represent the animated graphics, which we cannot print or search, in the official filing. Commenters did not express strong concerns about the exclusion of animated graphics. We are continuing to prohibit them in EDGAR documents. 
+
+We have some concerns about the potential size of data files that filers may submit in connection with graphic and image material, not only because of our own database storageneeds, but also because some Internet users may encounter difficulties in downloading or viewing documents that are very large. Several commenters opposed a size limit. We are not now imposing a size limit on graphic and image files. As noted above, the EDGAR Filer Manual will give guidance on voluntary methods to reduce the size of graphics. 
+
+We considered three approaches to graphics: making their use strictly optional, requiring graphics in HTML documents whenever our rules or forms require information to be in graphic form,<SUP> 43 </SUP> or requiring graphics in HTML documents wherever the documents distributed to security holders or potential investors contain graphics. While we asked for comment on all three approaches, we proposed the second approach. 
+
+In both the 1999 and 2000 proposing releases, we requested comment on whether we should require graphic and image material to be included in HTML documents.<SUP> 44 </SUP> In response to the 2000 proposing release, most of those commenting supported the middle ground -- requiring graphics in HTML documents only in the limited instances where our rules require graphics. Therefore, we are adopting this requirement as proposed.<SUP> 45 </SUP> 
+
+As noted in the 2000 proposing release, filers should not include non-public information in graphics files, even if the associated HTML or unofficial PDF document is non-public and will not be disseminated. This is because, due to cost and technical constraints, the EDGAR system is not programmed to differentiate whether a graphic file is related to a non-public document so that it may block the dissemination those graphic files associated with non-public documents.<SUP> 46 </SUP> Of course, EDGAR will not disseminate the non-public document itself. Therefore, filers should not include graphics intended to remain non-public in their EDGAR submissions.<h>F. Expanded Use of Hypertext Links </h>
+
+Currently, the EDGAR system does not permit hypertext links from HTML documents to external web sites. Similarly, the system does not permit hypertext links from one HTML document to any other documents (including exhibits), regardless of whether the document is part of the same filing. Hypertext links to different sections within a single HTML document are allowed.<SUP> 47 </SUP> 
+
+With Release 7.0, we are allowing hypertext links to other documents within the same filing ( i.e. , exhibits). We also are permitting hypertext links to documents contained in otherofficial filings<SUP> 48 </SUP> in the EDGAR database on our public web site at www.sec.gov.<SUP> 49 </SUP> Filers will be able to include the expanded hyperlinking in documents submitted to EDGAR using a modernized version of EDGARLink that we are making available with EDGAR Release 7.0.<SUP> 50 </SUP> Filers may, for example, link from within a document to previously filed documents that are incorporated by reference.<SUP> 51 </SUP> The system will permit links to specific filings only, not to specific information within these documents. We are continuing to prohibit all links outside the EDGAR database, including links to web sites. 
+
+Commenters generally supported this approach. Two commenters representing filer groups suggested that we give additional consideration to permitting broader use of external hyperlinks, noting that links can assist investors by providing educational material. We may revisit this issue in the future after we have gained some experience with more limited hyperlinks. 
+
+Currently, the rules provide that, if a filer includes impermissible hyperlinks in a filing, the linked material will not become part of the official filing for purposes of determining whether the disclosure requirements are satisfied.<SUP> 52 </SUP> The linked material will, however, be subject to the civil liability and antifraud provisions of the federal securities laws. We are amending Rule 105 of Regulation S-T as proposed so that this position applies whether or not the hyperlink is permitted by our rules.<SUP> 53 </SUP> 
+
+We believe that filers should not be able to use hyperlinks to satisfy the disclosure requirements of the applicable rule or schedule because then the readers of the filing might be unable to understand the content of the filing without accessing numerous hyperlinks. In addition, they will not be able to print the filing as an integrated whole. Many of our forms and schedules permit incorporation by reference, but we do not believe it would be appropriate for a filer to use hyperlinks to effectively use incorporation by reference when that is not permitted. For example, in a Form S-1 registration statement, a filer might wish to use hyperlinks from the prospectus to the company's previous Exchange Act reports. This will be optional information for the convenience of the reader. The filer could not, however, delete the business and financial information from the body of the prospectus because it was also provided in a hyperlinked Exchange Act report. 
+
+In addition, we believe it is appropriate for filers to assume liability for hyperlinked material as if it is part of the filing. In the context of an official filing made to the EDGAR system, we believe members of the public coming to the SEC's web site will reasonably understand the inclusion of a hyperlink to mean that the filer has adopted the linked material as its own. Rule 105 as amended reflects this position. 
+
+Most commenters did not address liability issues. One commenter, however, stated that filers should not have to assume additional liability for linked material if the material is not permitted to satisfy substantive disclosure requirements. Another commenter suggested that we treat linked material as a separate document if the user is clearly alerted that the material is not part of the prospectus and is on a different web site. Notwithstanding these comments, we do not believe this liability treatment should present any problems for filers. The use of hyperlinks in filed documents would remain voluntary, and a filer need not hyperlink to other documents if it does not wish to be understood as adopting the linked material as its own. In addition, the only hyperlinks that the rule permits are to exhibits to the same filing, or to previous filings in the EDGAR database on our web site. We caution filers, however, not to include these hyperlinks unless they are prepared to accept this responsibility. 
+
+Although the liability treatment of hyperlinks we adopt is similar to the legal effect of incorporation by reference, we emphasize that hyperlinks are not a substitute for incorporation by reference. As noted above, filers may not use hyperlinks to furnish information required in the filed document when incorporation by reference is not available. Conversely, when the form or rule makes incorporation by reference available, the filer mustfollow the form or rule requirements. A hyperlink alone will not satisfy those requirements.<SUP> 54 </SUP> One commenter suggested that we revisit our incorporation by reference rules in light of the capability provided by hyperlinks. If we did this, it would be a separate rulemaking project after we have gained experience with how filers use hyperlinks. 
+
+The rule does not prevent a filer from including a hyperlink to a document filed by another issuer, which might include an affiliate or guarantor. The hyperlink will be subject to the same liability treatment. We requested comment on whether filers would wish to include hyperlinks to filings of other companies, and under what circumstances and whether the rule should permit hyperlinks to filings by the same company only, or by the same company and affiliated companies only. Several commenters suggested limiting hyperlinks to the same company and affiliated companies. We have not limited the rule in this manner, however, since hyperlinks are within the filer's control. If a filer believes a link to a filing of another company will be useful, and is willing to incur liability for that document, we believe the rule should permit this. 
+
+We also asked for comment on two other aspects of the proposed treatment of hyperlinks. First, we asked how we should treat hyperlinks within hyperlinks. For example, Company A's registration statement has a hyperlink to its Form 10-K, which in turn has a hyperlink to its proxy statement. We stated that we believed that Company A should be viewed as making all the hyperlinked material its own, including the proxy statement. Onecommenter supported links within links, provided that the filer is subjected to liability, as proposed. We continue to believe that the approach in the proposing release is appropriate. 
+
+We also asked for comment on the treatment of amended or superseded material in hyperlinks.<SUP> 55 </SUP> If a hyperlinked document is corrected or updated by means of a new filing, the document containing the hyperlink also may have to be amended. For example, suppose a registration statement contains a hyperlink to a Form 10-K that is later amended to reflect a material change. The registration statement would have to be amended to include a hyperlink to the amended Form 10-K.<SUP> 56 </SUP> This would be necessary whether the hyperlinked document is filed by the same issuer or another issuer. No commenter addressed this issue in detail, but one expressed concerns about having to track amended or superseded material. We believe, however, that this would be necessary in some instances in order for the hyperlink to be to the correct document. If the original hyperlink was in a prospectus, the revised prospectus containing the updated hyperlink could be filed under Securities Act Rule 424<SUP> 57 </SUP> or 497.<SUP> 58 </SUP> 
+
+Finally, we believe we should provide some guidance on liability issues arising from the fact that hyperlinks may be created without the effort of the person making the filing. Some word processing programs automatically transform inactive textual references toelectronic addresses (URLs) to hyperlinks. In addition, some browsers transform URLs to hyperlinks. We do not wish to discourage filers from including URLs to their own web sites or to our web site at www.sec.gov in their filings.<SUP> 59 </SUP> Filers who include these URLs in HTML filings, accordingly, should take reasonable steps when they create the document in order to prevent URLs from being converted into hyperlinks. If this is done, Rule 105 should not be read as imposing liability on any such hyperlinks that may be created after the filing is made. This position does not apply to URLs to any other web sites. Filers may wish to avoid including URLs to other web sites unless they would be prepared to take responsibility for material that is accessible through any resulting hyperlinks.<SUP> 60 </SUP><h>G. Method of Electronic Transmission </h>
+
+Currently, electronic filers may make electronic submissions either as direct transmissions or on magnetic tape or diskette.<SUP> 61 </SUP> As discussed below, for submission made using the modernized EDGARLink, we are adding transmission via the Internet as a mode of electronic submission and changing the mode of acceptable transmission from "magnetic tape" to "magnetic cartridge." We also are removing diskettes as an allowed means of transmission under the modernized EDGARLink. 
+
+ Direct Transmission via Dial-Up Modem and Internet 
+
+Most filers currently make EDGAR submissions by using a dial-up modem process, with or without the use of EDGARLink,<SUP> 62 </SUP> directly to EDGAR or through the EDGAR electronic mail service to EDGAR. Modem technology continues to advance. The current transmission speeds that are predominantly in use for EDGAR are 14.4 kbps and 56 kbps. In 1998, the EDGAR system discontinued support for 1200 bps modems. We anticipate discontinuing support for the 9600 bps modems after November 1 of this year and would do so in connection with future changes to the EDGAR Filer Manual. 
+
+With EDGAR Release 7.0, filers using the modernized EDGARLink also may make EDGAR filings through Internet-based technology via an Internet Service Provider (ISP) of their choice. We are providing security by Secure Socket Layer (SSL, i.e. , encrypted transmissions) and certificates.<SUP> 63 </SUP> We are not requiring but are permitting optional client side certificates. Filers may wish to use client side certificates for the additional security benefits they bring to filers and their transmissions (such as security of transmission to us and from us to disseminators and authentication of the document source). 
+
+ Magnetic Tape 
+
+Currently, filers may submit their EDGAR filings by magnetic tape.<SUP> 64 </SUP> In keeping with changing technological standards, we are changing this method of transmission for usewith the new EDGARLink software from the current 9 track magnetic tape format to the following formats: 4mm, 8mm, and .5 inch IBM-compatible 3480 magnetic tape cartridges.<SUP> 65 </SUP> However, we will continue to accept the 9 track magnetic tape format for use with the old EDGARLink software until at least November 1, 2000. 
+
+ Diskettes 
+
+Diskette filings often present formatting difficulties,<SUP> 66 </SUP> and the percentage of filers using diskettes is minimal, approximately one percent. In the 1999 and 2000 proposing releases, we requested comment on whether diskettes remain useful for certain types of filings and whether we should continue to permit them. We received one comment in response in 1999 and three comments this year; all commenters believed there was no reason to continue accepting diskettes. We believe there is no category of filers who would be unduly burdened if we eliminate filers' ability to file on diskette, and we are eliminating diskettes as a transmission medium with the modernized EDGARLink. However, to ease the transition for filers currently using diskettes as a transmission medium, we will continue to accept diskettes through July 7, 2000.<h>I. Modernized EDGARLink </h>
+
+We are providing filers a new, easier to use EDGARLink product for gathering and transmitting documents to the EDGAR system. We will continue to have the existingDOS-based EDGARLink available concurrently until at least November 1, 2000. We believe that the new EDGARLink works more easily under Windows operating system environments. Filers must use the new EDGARLink if they wish to include graphics and hyperlinks in their HTML documents (except for hyperlinks within the same document). 
+
+We requested comment on the burden to filers, if any, of our discontinuing support for the existing DOS-based EDGARLink six months after we make available the new EDGARLink. Commenters supported the limited concurrent availability of the modernized and "legacy" systems. 
+
+The new EDGARLink allows filers to use predefined templates to fill in required submission "header" data. We have integrated the electronic templates with the two most popular Internet browsers in the market today, Internet Explorer and Netscape Navigator (versions 3 and higher). Filers may use these integrated browsers to transmit their filings to EDGAR using the Internet. The interface to the user is the browser, so many of the functions in the browser interface that filers use currently to traverse the Internet are familiar under the new EDGARLink. 
+
+We are not distributing the new EDGARLink by diskette. We are making it downloadable from the EDGAR web site. We are also making available for download from the site the predefined templates for filling in the required submission "header" information. 
+
+As with the current EDGARLink, the new EDGARLink assists filers with building the header, attaching documents to the header, checking for errors, and transmitting the documents to us. The new EDGARLink does not use the current tagging structure for submission headers. Instead, it has clear, plain English labels on fields. The filer can bringup the correct submission header template and begin filling in the fields similar to the way data input is performed on many web sites on the Internet. The new submission header templates can validate some fields as soon as the information is entered, so filers need not wait until they validate their filing to see errors in the submission header. The submission header template also allows filers to attach their documents directly to the template. Once the submission header template is complete and the documents are attached, filers may use the browser-like buttons at the top of the screen to validate the submission header template and the attached documents. Filers may then use another button at the top of the screen to transmit the submission header template and attached documents to us. 
+
+The filer may correct any errors detected in the submission header template during the validation phase through the new EDGARLink software. During the validation phase, filers must correct any errors they detect in the documents using their own word processing software package, which they may invoke easily from the submission header template. Filers should review their submissions carefully before transmission, since, once the submissions are accepted, EDGAR disseminates filings almost instantaneously. 
+
+J. Financial Data Schedules 
+
+Filers currently submit Financial Data Schedules (FDSs) as exhibits to many of our required forms. However, these exhibits are not an official part of the filings to which they relate<SUP> 67 </SUP> and are not subject to auditing standards. Filers prepare the FDS by extracting theFDS information from the financial statements and other sources already contained in their filings in accordance with a detailed tagging scheme outlined in the EDGAR Filer Manual. The FDS contains a unique tag list and is often prepared by the filer's staff and not the accounting professionals who prepare the financial statements. The primary purpose of this requirement was to provide tagged financial information that the staff can use for screening filings, ratio computation and other analysis. As part of the EDGAR modernization effort, we have explored alternative means of acquiring this financial information, such as through outside data sources. We proposed to relieve filers of the requirement to prepare and submit FDSs and to remove the requirement for Financial Data Schedules from all rules and forms. 
+
+In the 2000 proposing release, we requested comment on whether FDS data is useful to the public and whether we should continue to require filers to submit FDSs with any filing. Industry associations representing corporate filers and investment companies strongly supported the elimination of FDSs. So did several filing agents. They applauded the cost and time savings to the filers from the elimination of FDSs. They emphasized that the need to create this unique document is a burden on filers. They noted that creating the FDS also can jeopardize the timely filing of documents, because improper use of FDS tags and syntax can result in last-minute corrections. 
+
+However, we also received many comments objecting to the elimination of FDSs from persons who provide or use after-market products based on selected FDS information, and investors and individuals who use the information for research purposes. These commenters generally expressed the view that FDSs, as exhibits to Form 10-Ks and 10-Qs,are useful because they provide a consistent and uniform source of financial information about public companies.<SUP> 68 </SUP> 
+
+Two commenters, however, stressed that the information found in FDSs is frequently inaccurate. One such commenter, a disseminator of EDGAR information, stated that individuals and institutional investors who may rely on FDSs are unknowingly making decisions based on incorrect information. The commenter noted that the financial data found in FDSs often do not comport with the financial data found in official financial statements. 
+
+We believe that the difficulties in constructing the FDSs and the likelihood of inaccuracies in the FDSs may stem from the fact that filers must pull information from financial and other documents and place specific financial information in the FDS as a value for an appropriate EDGAR tag. Often filers are uncertain as to which information is associated with which tag and use the wrong tags or put the information in the wrong places. Filers may construct the FDSs at the last minute, after all filing documents have been completed. Since FDSs are neither deemed part of the filing nor subject to auditing standards, filers may often rely on financial printers or their own EDGAR support staff to construct the schedules, leading to the further possibility of information being entered inaccurately into the FDS. 
+
+We have considered carefully the comments we received from both sides on this issue. We recognize that the submission of FDSs is a burden on the filer community. We also recognize that investors and individuals rely to some extent on the FDS information. However, based on commenters' feedback and our experience with FDSs as filed, we are aware that the FDSs are often missing, inaccurate and incomplete. While some commenters describe FDSs as a uniform data source of financial information, we believe this may not be the case. We are concerned that, in reality, data users are relying on what may be inaccurate information, possibly as a yardstick by which to measure the accuracy of other financial information. We believe that the benefit to filers from the elimination of FDSs and to investors and other individuals who unwittingly base their investment decisions on inaccurate information outweigh the concerns of those persons who have used FDSs for after-market products. While they may experience some costs, such producers will be able to obtain similar information from the electronic filings themselves, the source of the FDS information. 
+
+We are removing the requirement for Financial Data Schedules from all rules and forms. The FDS requirement was instituted primarily for our staff's use. Our staff is increasingly relying on outside data sources for this information. In recognition of the burden that the elimination of FDSs may cause some users and developers of after-market products, we are adopting a deferred effective date of January 1, 2001. We believe that this deferred effective date will allow ample time for all affected persons to adjust to these changes, including time to reprogram, possibly using analytical tools to extract more accurate financial data from the filings themselves. 
+
+Filers should be aware that, beginning in 2001, when they make filings that previously required an FDS, EDGAR still may generate an error message. Filers should ignore this message, since the filing will be accepted without the FDS. We will eliminate the error messages in later programming of the EDGAR system.<h>II. Rule Amendments in Connection with EDGAR Release 7.0 </h>
+
+We are amending certain rules and regulations, which we discuss below, in connection with EDGAR Release 7.0. We are amending all of the rules as proposed except for a minor change to Rule 104, as discussed below. Most of our amendments are to the provisions of Regulation S-T, which governs the preparation and submission of electronic filings to us, as described below in connection with the expanded features for HTML documents. 
+
+Rule 11 -- Definition of Terms used in Part 232 . Rule 11 contains definitions used in Regulation S-T. We are amending the definition of "official filing." Currently, the definition of the term "official filing" is any filing that is received and accepted by the Commission, regardless of filing medium.<SUP> 69 </SUP> The current definition resulted from amendments we made to reflect revised records retention practices.<SUP> 70 </SUP> Before those amendments, Rule 11 made it clear that an "official filing" was a document filed with usexclusive of header information, tags and any other technical information required in an electronic filing.<SUP> 71 </SUP> We are revising the definition to restore this language. 
+
+We also are removing from Rule 11 the definition of "phase-in date," since we have completed phase-in to mandated electronic filing and the term is no longer used in the rules. 
+
+Rules 12 and 103 -- Business hours of the Commission; Liability for transmission errors or omissions in documents filed via EDGAR . Paragraph (b) of Rule 12 and Rule 103 refer to the submission of electronic filings on magnetic tape or diskette. We are revising paragraph (b) of Rule 12 to refer to transmission by magnetic cartridge rather than magnetic tape and to remove the references to diskettes, since we will no longer accept filings on them<SUP> 72 </SUP> and revising the language of paragraph (c) of Rule 12 to allow for direct transmissions via Internet. We also are removing the reference to method of transmission from Rule 103, since the rule covers transmission by any acceptable method. 
+
+Rule 104 -- Unofficial PDF Copies Included in an Electronic Submission .
+
+Rule 104 provides that an electronic submission may include one unofficial PDF copy of each electronic document contained within an electronic submission.<SUP> 73 </SUP> Under the current rule, each unofficial PDF copy must be substantively equivalent to its associated ASCII orHTML document contained in the submission. As discussed above in Part I.D, we are amending the rule to relax the substantively equivalent requirement in connection with non-public correspondence submissions. In a change from the proposal, we are removing this requirement for all unofficial PDF correspondence documents instead of only those consisting of a redlined copy of a filing. 
+
+Rule 104 currently makes it clear that an unofficial PDF copy may contain graphic and image material even though its ASCII or HTML counterpart may not contain such material.<SUP> 74 </SUP> We are revising the rule to reflect the fact that, with EDGAR Release 7.0, the HTML counterpart also may contain graphic material. 
+
+Rule 105 -- Limitation on Use of HTML Documents and Unofficial PDF Copies; Use of Hypertext Links . Rule 105 currently provides that filers may not submit Financial Data Schedules as HTML documents. We are removing this language, since we will no longer require filers to submit FDSs. As discussed above, this provision and other rule amendments relating to the removal of the FDS requirement will not be effective until January 1, 2001. 
+
+Rule 105 currently prohibits electronic filers from including in HTML documents hypertext links to sites or documents outside the HTML document.<SUP> 75 </SUP> However, the rule allows electronic filers to include hypertext links to different sections within a single HTML document. We are amending the rule so that, with EDGAR Release 7.0, filers may link to other documents within the same submission as well as to other documents previously filedelectronically that are on our public web site EDGAR database at www.sec.gov. The EDGAR system is programmed to suspend filings if they contain external links other than as discussed above. 
+
+Currently, Rule 105 provides that, if an accepted filing includes external links in contravention of our rules, we will not consider information contained in the linked material to be part of the official filing for determining compliance with reporting obligations, but such information will be subject to the civil liability and anti-fraud provisions of the federal securities laws.<SUP> 76 </SUP> As discussed above in Part I.F, we are revising the rule so that it applies to all linked material, whether included in accordance with (or in contravention of) our rules. 
+
+Rule 302 -- Signatures . Rule 302 currently provides that required signatures to or within electronic documents must be in typed form. We are amending the rule to allow signatures that are not "required" signatures to appear as script in HTML documents, since we are permitting, and in some case requiring, graphic and image material.<SUP> 77 </SUP> In response to the 1999 proposing release, some commenters believed that we also should accept required signatures as script in HTML documents. However, we are retaining the rule that required signatures be typed to ensure legibility of these signatures.<SUP> 78 </SUP> 
+
+Rule 303 -- Incorporation by reference . Paragraph (a)(4) of Rule 303 currently prohibits the incorporation by reference of Financial Data Schedules submitted under Rule 483. We are removing this provision, since we are no longer requiring FDSs. 
+
+Rule 304 -- Graphic, Image, Audio and Video Material . Currently, Rule 304 prohibits the inclusion of graphic, image, audio or video material in an EDGAR document. We are revising Rule 304 to lift the prohibition on graphic and image material (but not on audio or video material) in HTML documents with EDGAR Release 7.0.<SUP> 79 </SUP> As discussed above in Part I.E, we are requiring the presentation of graphic material in an HTML graphic file in HTML documents if graphic information is required by Commission rule or form and to allow its inclusion where the graphics in the document are not required by our rules or forms. We also are amending the rule to prohibit animated graphics in any EDGAR document. 
+
+Rule 311 -- Documents submitted in paper under cover of Form SE . Rule 311 currently contains provisions concerning documents submitted in paper under Form SE. We are amending the rule to remove the reference to exhibits to Form N-SAR, since filers must now submit N-SAR exhibits electronically.<SUP> 80 </SUP> 
+
+Rules 401 and 402 -- Financial Data Schedule; Liability for Financial Data Schedule . Rules 401 and 402 are the provisions governing the electronic submission of Financial DataSchedules. As discussed above in Part I.K, we are removing the requirement for FDSs, and accordingly we are removing and reserving Rules 401 and 402 of Regulation S-T.<SUP> 81 </SUP> 
+
+Rule 501 -- Modular Submissions and Segmented Filings . Rule 501 currently states that an electronic filer that subscribes to the optional EDGAR electronic mail service may use the module and segment features. We are revising the rule to remove the reference to the optional electronic mail service, since filers who do not subscribe also may use these features.<h>III. Paperwork Reduction Act </h>
+
+As explained in the 2000 proposing release, our amendments eliminating Financial Data Schedules (FDSs) affect several regulations and forms that contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995<SUP> 82 </SUP> (the Act). Accordingly, the collection of information requirements in this release were submitted to the Office of Management and Budget (OMB) for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. OMB approved revisions of the following collection of information requirements: Form S-1 (Control Number 3235-0065); Form S-4 (Control Number 3235-0324); Form S-11 (Control Number 3235-0067); Form SB-1 (Control Number 3235-0423); Form SB-2, (Control Number 3235-0418); Form 10-SB (Control Number 3235-0419); Form 10-QSB (Control Number 3235-0416); Form 10-KSB (Control Number 3235-0420); and Form 10-Q (Control Number 3235-0070); Investment Company Act Form N-SAR (Control Number 3235-0330); and Public Utility Holding Company Act Forms U-1 (Control Number 3235-0125); U5S (Control Number 3235-0164); U-13-60 (Control Number 3235-0153); and U-3A-2 (Control Number 3235-0161). OMB has not yet approved revisions of the collection of information requirements for Forms 10 (Control Number 3235-0064) and 10-K (Control Number 3235-0063).<SUP> 83 </SUP> The collections of information are in accordance with 44 U.S.C. 3507. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB Control Number. 
+
+Form S-1 under the Securities Act (OMB Control Number 3235-0065) is used by issuers that are not eligible to use other forms to register offerings of securities. The form sets forth the transactional and company information required by the Commission in securities offerings. Form S-4 under the Securities Act (OMB Control Number 3235-0324) is used by issuers to register securities offerings in connection with business combinations and exchange offers. This form sets forth the transactional and company information required by the Commission in securities offerings. Form S-11 under the Securities Act (OMB Control Number 3235-0067) is used to register real estate investment trusts and securities issued by issuers whose business is primarily that of acquiring and holding investment interests in real estate. Form SB-1 under the Securities Act (OMB ControlNumber 3235-0423) is used by small business issuers, as defined in Rule 405 of the Securities Act, to register offerings of up to $10 million of securities in a 12-month period. The form sets forth the transactional and company information required by the Commission in securities offerings. It requires less detailed information about the issuer's business than Form S-1. Form SB-2 under the Securities Act (OMB Control Number 3235-0418) is used by small business issuers, as defined in Rule 405 of the Securities Act, to register securities offerings. The form sets forth the transactional and company information required by the Commission in securities offerings. It requires less detailed information about the issuer's business than Form S-1. 
+
+Form 10 under the Exchange Act (OMB Control Number 3235-0064) is used by registrants to register classes of securities for trading on a national exchange. It requires certain business and financial information about the issuer. Form 10-SB under the Exchange Act (OMB Control Number 3235-0419) is used by small business issuers, as defined in Rule 12b-2 of the Exchange Act, to register classes of securities. This form requires slightly less detailed information about the issuer's business than Form 10 requires. Form 10-K under the Exchange Act (OMB Control Number 3235-0063) is used by registrants to file annual reports. It provides a comprehensive overview of the registrant's business. Form 10-KSB under the Exchange Act (OMB Control Number 3235-0420) is used by small business registrants, as defined in Rule 12b-2 of the Exchange Act, to file annual reports. It provides a comprehensive overview of the registrant's business, although its requirements call for slightly less detailed information than required by Form 10-K. Form 10-Q under the Exchange Act (OMB Control Number 3235-0070) is used by registrants to file quarterlyreports. It includes unaudited financial statements and provides a continuing view of the registrant's financial position during the year. The report must be filed for each of the first three fiscal year quarters of the registrant's fiscal year. Form 10-QSB under the Exchange Act (OMB Control Number 3235-0416) is used by small business registrants, as defined in Rule 12b-2 of the Exchange Act, to file quarterly reports. It includes unaudited financial statements and provides a periodic view of the registrant's financial position during the year. The report must be filed for each of the first three fiscal quarters of the registrant's fiscal year. It provides a comprehensive overview of the registrant's business, although its requirements call for slightly less detailed information than required by Form 10-Q. 
+
+Form N-SAR (OMB Control No. 3235-0330) is used by registered investment companies for annual and semi-annual reports required to be filed with the Commission. 
+
+Form U-1 (OMB Control No. 3235-0125) must be used by any person filing or amending an application or declaration under sections 6(b), 7, 9(c)(3), 10, 12(b), (c), (d) or (f) of the Public Utility Act. This form must also be used for filings under other sections of the Public Utility Act for which a form is not prescribed. Form U5S (OMB Control No. 3235-0164) requires registered holding companies to file annual and other periodic and special reports as the Commission may prescribe to keep current information relevant to compliance with substantive provisions of the Public Utility Act. Form U-13-60 (OMB Control No. 3235-0153) implements section 13 of the Public Utility Act by requiring standardized accounting and recordkeeping for mutual and subsidiary service companies of registered holding companies and the filing of annual reports on Form U-13-60. FormU-3A-2 (OMB Control Number 3235-0161) permits a public utility holding company to claim exemption from the Public Utility Act by filing an annual statement. 
+
+The Commission notes that it is making no material changes from the Proposing Release. Thus, the collection of information burdens are not changing from those proposed. We anticipate that the elimination of the requirement that filers submit FDSs as exhibits for certain forms referenced under Item 601(b) of Regulations S-K and S-B will reduce the existing information collection requirements that are currently imposed on registrants (respondents).<SUP> 84 </SUP> We estimate that approximately 3,617 Form S-1s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 432 hours per filing. We anticipate that the total estimated aggregate annual burden for 3,617 respondents will be 1,562,544 hours (432 x 3,617). 
+
+We estimate that approximately 8,709 Form S-4s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 990 hours per filing. We anticipate that the total estimated aggregate annual burden for 8,709 respondents will be 8,621,910 hours (990 x 8,709). 
+
+We estimate that approximately 107 Form S-11s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 473 hours per filing. We estimate that the total estimated aggregate annual burden for 107 respondents will be 50,611 hours (473 x 107). 
+
+We estimate that approximately 8 Form SB-1s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 177 hours per filing. We anticipate that the total estimated aggregate annual burden for 8 respondents will be 1,416 hours (177 x 8). 
+
+We estimate that approximately 559 Form SB-2s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 137 hours per filing. We anticipate that the total estimated aggregate annual burden for 559 respondents will be 76,583 hours (137 x 559). 
+
+We estimate that approximately 162 Form 10-SBs are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 22 hours per filing. We anticipate that the total estimated aggregate annual burden for 162 respondents will be 3,564 hours (22 x 162). 
+
+We estimate that approximately 10,671 Form 10-QSBs are filed each year. This number reflects the fact that a Form 10-QSB is required to be filed three times a year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 32 hours per filing. We anticipate that the total estimated aggregate annual burden for 3,557 respondents will be 341,472 hours (3 x 32 x 3,557). 
+
+We estimate that approximately 3,641 Form 10-KSBs are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 294 hours per filing. We anticipate that the total estimated aggregate annual burden for 3,641 respondents will be 1,070,454 hours (294 x 3,641). 
+
+We estimate that approximately 124 Form 10s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 23 hours per filing. We anticipate that the total estimated aggregate annual burden for 124 respondents will be 2,852 hours (23 x 124). 
+
+We estimate that approximately 29,551 Form 10-Qs are filed each year. This number reflects the fact that Form 10-Q is required to be filed three times a year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 34 hours per filing. We anticipate that the total estimated aggregate annual burden for 9,850 respondents will be 1,004,700 hours (3 x 34 x 9,850). 
+
+We estimate that approximately 10,381 Form 10-Ks are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 430 hours per filing. We anticipate that the total estimated aggregate annual burden for 10,381 respondents will be 4,463,830 hours (10,381 x 430). 
+
+The elimination of FDSs within Investment Company Act Form N-SAR will reduce the total information collection burden imposed upon affected respondents. We estimate that approximately 7,333 Form N-SARs are filed each year. This number reflects the fact that each of approximately 3,300 management investment companies file the form twice a year. This number also includes the 733 unit investment trusts who file the form once a year, with a burden of 6 hours per filing, but who do not file FDSs with the form. We estimate that the elimination of FDSs will decrease the filing burden for each management investment company respondent by 1 hour for an average burden of 14.75 hours per filing. Weanticipate that the total estimated aggregate annual burden for 4,033 respondents will be 101,748 hours ((2 x 3,300 x 14.75) + (733 x 6)). 
+
+The elimination of FDSs within Public Utility Act forms will reduce the total information burden imposed upon affected respondents. We estimate that approximately 121 Form U-1s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 224 hours per filing. We anticipate that the total estimated aggregate annual burden for 15 respondents making a total of 121 submissions per year will be 27,104 hours (121 x 224). 
+
+We estimate that approximately 19 Form U5Ss are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 13.5 hours per filing. We anticipate that the total estimated aggregate annual burden for 19 respondents will be 256.5 hours (19 x 13.5). 
+
+We estimate that approximately 91 Form U-3A-2s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 2.5 hours per filing. We anticipate that the total estimated aggregate annual burden for 91 respondents will be 227.5 hours (91 x 2.5). 
+
+We estimate that approximately 40 Form U-13-60s are filed each year. We estimate that the elimination of FDSs will decrease the filing burden for each respondent by 1 hour for an average burden of 13.5 hours per filing. We anticipate that the total estimated aggregate annual burden for 40 respondents will be 540 hours (40 x 13.5). 
+
+The above forms do not impose a retention period for any recordkeeping requirements. Compliance with the above forms is mandatory. Responses to the disclosurerequirements of the above forms are not kept confidential unless granted confidential treatment. 
+
+In the 2000 proposing release, we solicited public comment to (i) evaluate whether the proposed change in the collections of information was necessary for the proper performance of the functions of the Commission, including whether the information had practical utility; (ii) evaluate the accuracy of our estimate of the burden of the proposed changes to the collections of information; (iii) enhance the quality, utility and clarity of the information to be collected; and (iv) minimize the burden of the collections of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology. 
+
+We received one comment specifically addressing the Paperwork Reduction Act section of the 2000 proposing release. This commenter referenced without disputing the one-hour burden that we assigned to the filing of the FDS.<h>IV. Cost-Benefit Analysis </h>
+
+The rules we are adopting today reflect the next stage in our modernization of EDGAR. We expect that this continuing EDGAR modernization ultimately will result in considerable benefits to the securities markets, investors, and other members of the public, by expanding the types and accessibility of information that can be filed and made available for public review through the EDGAR system. We also expect that the changes will result in economic benefits to filers by easing their burden in filing required materials through the EDGAR system. 
+
+One of the goals of EDGAR modernization has been to benefit all EDGAR users by achieving consistency as much as possible with familiar and widely accepted industry standards. The rules we adopt today are an important step in moving the EDGAR system toward these industry standards. 
+
+The transition to a broader HTML tag set and the use of more current technologies should provide significant benefits. Investors will benefit from EDGAR modernization because they will receive documents that communicate more effectively. Graphics can make documents easier to read and so will likely increase investors' understanding of disclosure documents. Hyperlinks should make documents easier to navigate and information easier to locate. 
+
+The ability to transmit filings over the Internet also should provide increased flexibility to filers. Moreover, since filers would be able to use their own Internet Service Providers and send filings to the EDGAR system at no charge, filers located outside of the immediate Washington, D.C. area may reduce their costs for long-distance telephone service. EDGARLink filers also should benefit from being able to prepare and transmit their filings to the EDGAR system using more convenient and familiar browser-based software. The modernized EDGARLink, a significant update from the older technology of the current EDGARLink product, should benefit filers by eliminating their dependence upon maintaining old equipment that is no longer supported in the computer industry. 
+
+Companies that make public filings also should benefit from having expanded features available for their HTML documents because their documents will communicate more effectively with shareholders and be more attractive for marketing and other purposes. Asinvestors find that they can more effectively obtain the information they seek from the EDGAR system, filers may get fewer requests for paper copies of filings. Some filers that prepare documents in HTML for purposes of offerings or of company web site postings may find it less burdensome to convert documents into the version of HTML provided for in Release 7.0 and the rules as amended than to convert them into ASCII. 
+
+At the same time, we recognize that the full transition to the modernized EDGAR system will impose some hardware, software, and staffing costs associated with the evolution of computer systems to industry standards. At this stage, issuers and other filers need not incur any immediate costs related to the HTML enhancements, because filing in HTML remains voluntary. Filing agents who do not use our free EDGARLink software may incur some programming costs to make the transition to Release 7.0. 
+
+The changes in permissible methods of transmission of EDGAR submissions will likely lead to some immediate costs for filers. We believe that the elimination of diskettes and the move from magnetic tape to magnetic cartridge would affect approximately one percent of filers. On the other hand, all filers using EDGARLink may need to make some adjustments to effect the transition to the modernized EDGARLink, which is browser-based. These costs should be minimal for most filers because the new software is not dependent upon any one operating system environment and most companies have already adopted an environment that will support it. The new EDGARLink also may be able to operate on some older DOS-based operating environments. The current DOS-based EDGARLink will remain available to filers until at least November 1, 2000 to facilitate filers' transition to the modernized EDGARLink. 
+
+Disseminators of EDGAR data may incur some transitional costs as they revise their software to accommodate the HTML enhancements.<SUP> 85 </SUP> Disseminators that are not HTML-based may face some difficulties in integrating the new graphics data. In addition, graphics data may increase the size of documents received by the EDGAR system and transmitted to disseminators. As a result, disseminators may need to adjust their storage techniques or may incur additional costs for storage and processing. 
+
+The rules we adopt today impose no costs related to substantive disclosure. The one substantive change is the elimination of financial data schedules, which will reduce filers' preparation time. Investors and other individuals who use this information may experience some costs in obtaining similar information from the electronic filings themselves, the source of the financial data schedule information. In recognition of the burden that the elimination of this information may impose on some users and developers of after-market products, we are adopting a deferred effective date of January 1, 2001 to allow ample time for all affected persons to adjust to these changes, including time to reprogram, possibly using analytical tools to extract the financial data from the filings themselves. 
+
+The remaining amendments do not substantively change the information and disclosure we currently require. Rather, the amendments merely modify and supplementcurrent rules to reflect the expanded HTML options that filers may use to submit information to us electronically. 
+
+In the 1999 and 2000 proposing releases, we encouraged commenters to identify any costs or benefits associated with the rule proposals and with EDGAR modernization in general. In particular, we requested that commenters identify any costs or benefits associated with the rule proposals relating to the increased use of graphics, the contents of an "official filing," impermissible types of code and content, hypertext links to documents or web sites, variations in the appearance of an "official filing" that is accessed through different browsers, and any impact that the rule proposals may have on the ease of locating and using EDGAR data. Commenters did not address these issues directly, but several did support the movement toward HTML, one stating that the transition to HTML was worth the additional time it may take to construct an HTML filing. Some filing agents and disseminators requested additional time to prepare and program the necessary changes to their systems. We requested but received no data to support the commenters' positions.<h>V. Analysis of Burdens on Competition, Capital Formation and Efficiency </h>
+
+Section 23(a)(2) of the Exchange Act requires us, in adopting rules under the Exchange Act, to consider the anti-competitive effects of any rules that we adopt thereunder. Furthermore, Section 2(b) of the Securities Act,<SUP> 86 </SUP> Section 3(f) of the Exchange Act,<SUP> 87 </SUP> and Section 2(c)<SUP> 88 </SUP> of the Investment Company Act require us, when engaging in rulemaking,and considering or determining whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation. We requested comment on whether the proposals, if adopted, would promote efficiency, competition, and capital formation, but commenters did not address these issues. 
+
+We considered whether the amendments would promote efficiency, competition and capital formation. Some commenters suggested that the FDSs enhanced investors' ability to compare public companies, and therefore efficiently allocate capital. Because of our concerns about the accuracy of the data and the fact that more accurate data is available from alternative sources, elimination of FDSs will not impair the efficient allocation of capital. Filing agents and disseminators requested additional time to prepare and program the necessary changes to their systems. Although filing agents and information disseminators may be disparately affected depending on their technical readiness and programming formats, we believe that the new rules and amendments would not impose any burden on competition not necessary or appropriate in the furtherance of the purposes of the securities laws. 
+
+We believe that the new rules and amendments will not have any adverse effect on capital formation. We believe the amendments will promote efficiency by giving investors information in a more readable format and by more closely aligning our technical standards to the industry's. The new rules and amendments apply equally to all entities currently required to file on EDGAR. Because the rules and amendments are designed in part to permit filers to provide information in a format that will be more useful to investors, the amendments are appropriate in the public interest and for the protection of investors.<h>VI. Summary of Regulatory Flexibility Act Certification </h>
+
+At the proposing state, our Chairman certified, under Section 605(b) of the Regulatory Flexibility Act, 5 U.S.C. 605(b), that the new rules and rule amendments in this release would not have a significant economic impact on a substantial number of small entities. The certification was attached to the 2000 proposing release as Appendix B. We received no comments on the certification.<h>VII. Statutory Basis </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 228.601.
+
+2 </SUP> 15 U.S.C. 77a et seq .
+
+3 17 CFR 229.601.
+
+4 17 CFR 230.110 and 230.483.
+
+5 17 CFR 239.12, 239.13, and 239.16b.
+
+6 17 CFR 232.11, 232.12, 232.103, 232.104, 232.105, 232.302, 232.303, 232.304, 232.311 and 232.501.
+
+7 17 CFR 240.0-2.
+
+8 15 U.S.C. 78a, et seq .
+
+9 17 CFR 250.21.
+
+10 17 CFR 259.5s, 259.101, 259.313 and 259.402.
+
+11 15 U.S.C. 79a, et seq .
+
+12 17 CFR 260.0-5.
+
+13 15 U.S.C. 77sss, et seq .
+
+14 17 CFR 270.8b-2, 270.8b-23 and 270.8b-32.
+
+15 17 CFR 274.101.
+
+16 15 U.S.C. 80a-1 et seq .
+
+17 17 CFR 239.62, 249.445, 259.601, 269.6 and 274.401.
+
+18 17 CFR 232.401 and 232.402.
+
+19 On March 10, 1999, we issued a release proposing amendments to our rules to reflect initial changes to filing requirements resulting from EDGAR modernization, as well as certain other changes to clarify or update the rules. See Rulemaking for EDGAR System, Release Nos. 33-7653; 34-41150; IC-23735 (Mar. 10, 1999) [64 FR 12908] (the 1999 proposing release). On May 17, 1999, we adopted these amendments substantially as proposed. See Rulemaking for EDGAR System, Release Nos. 33-7684; 34-41410; IC-23843 (May 17, 1999) [64 FR 27888] (the 1999 adopting release).
+
+20 We continue to allow filers to submit documents in the text-based American Standard Code for Information Interchange (ASCII) format.
+
+21 Rulemaking for EDGAR System, Release Nos. 33-7803; 34-42462; 35-27142; 39-2382; IC-24319 (Mar. 3, 2000) [65 FR 11507] (the 2000 proposing release).
+
+22 You may read and copy comment letters submitted in response to our 2000 and 1999 proposing releases in our Public Reference Room, 450 Fifth Street, N.W., Washington, D.C. 20549 in File Nos. S7-05-00 and S7-9-99, respectively. You also may read the comment letters that were submitted electronically on our web site (http://www.sec.gov).
+
+23 We requested comment on whether we should mandate, or at least permit, the EDGAR submission of offerings exempt from registration under the Securities Act (including filings made pursuant to Regulation A [17 CFR 230.251- 230.263], Regulation D [17 CFR 230.501-230.506], and Regulation E [17 CFR 230.601-230.610a]); applications for exemptive relief made by investment companies; and submissions by securities exchanges of their certifications for listing and trading on the exchanges and Form 25 under the Exchange Act [17 CFR 249.25].
+
+24 We anticipate that we will propose to make Forms 3, 4 and 5 [17 CFR 249.103, 249.104, and 249.105] under Section 16 [15 U.S.C. 78p] of the Exchange Act and Form 144 [17 CFR 239.144] (notices of securities sales filed pursuant to Rule 144 [17 CFR 230.144]) mandated EDGAR filings. Also, we are considering proposing to require that foreign private issuers make their filings with us on the EDGAR system. Currently, filers may submit Forms 3, 4, 5 and 144 and most of the foreign private issuer forms on EDGAR on a voluntary basis.
+
+25 We also will revise the EDGAR Filer Manual before the implementation of EDGAR Release 7.0. The EDGAR Filer Manual sets forth the technical formatting requirements governing the preparation and submission of electronic filings through the EDGAR system. Filers must comply with the provisions of the EDGAR Filer Manual to assure timely acceptance and processing of electronic filings. See Rule 301 of Regulation S-T [17 CFR 232.301].
+
+26 We plan to keep Form N-SAR and Form 13F as ASCII format submissions. Rule 105(a) [17 CFR 232.105(a)]. These documents have standard formats and tagging designed for presentation in ASCII, and their current format facilitates their downloading and use in other computer applications. However, filers have the option of submitting exhibits to Form N-SAR as HTML documents.
+
+27 We discuss the modernized EDGARLink in Section I.I below.
+
+28 Tags that would allow executable code are not permitted. Rule 106 [17 CFR 232.106] of Regulation S-T prohibits any EDGAR submission containing executable code (as defined in Rule 11 of Regulation S-T [17 CFR 232.11]), either in any HTML or ASCII document or any unofficial PDF copy, at any time. For a detailed discussion of the prohibition against electronic submissions containing executable code, see Section I.G of the 2000 proposing release.
+
+29 The modified 3.2 tag set does not include proprietary extensions that are not supported by all browsers.
+
+30 For example, we will continue to suspend submissions containing executable code.
+
+31 For example, if a filing consists of a registration statement plus five exhibits, there are six documents for EDGAR purposes. Generally, the filer may submit all of these as HTML documents, all as ASCII documents, or some as HTML and some as ASCII documents. The filer also has the option to accompany any or all of the six documents with an unofficial PDF copy. But the rules do not permit a filer to submit a single unofficial PDF copy including the registration statement and exhibits; each PDF document must reflect only one ASCII or HTML document.
+
+32 "Substantively equivalent" documents are the same in all respects except for the formatting and inclusion of graphics. This is because PDF documents may include more graphics than in the corresponding HTML document. For documents to be substantively equivalent, the text of the two documents must be identical aside from any text describing the graphics that have been omitted.
+
+33 Filers may not make a submission consisting solely of PDF documents; filers must include unofficial PDF copies only in submissions that contain official filings in HTML or ASCII format.
+
+34 Several commenters suggested this approach in response to the 1999 proposing release.
+
+35 17 CFR 232.104.
+
+36 As proposed, the amendment excepting correspondence documents from the "substantively equivalent" requirement would have been limited to redlined copies of filings. However, we are adopting the amendment without this limitation. Commenters supported this approach.
+
+37 Filers would not include a redlined unofficial PDF copy of the officially filed document, since EDGAR would disseminate the PDF document with the redline codes. However, unofficial PDF copies of EDGAR correspondence (CORRESP documents) are not disseminated.
+
+38 Filers must continue to provide a fair and accurate description of the differences between a version including graphic or image material and the filed version, as required by Rule 304 of Regulation S-T [17 CFR 232.304].
+
+39 We discuss the modernized EDGARLink in Section I.I below.
+
+40 For example, filers may not present financial statements as graphics, since this would impair the usefulness of the statements.
+
+41 The EDGAR Filer Manual continues to prohibit filers from including "nested tables" in their HTML documents.
+
+42 The EDGAR Filer Manual prohibits the use of graphics as background because their use may interfere with the legibility of documents.
+
+43 See , e.g. , the performance line graph required by Item 402( l ) of Regulation S-K [17 CFR 229.402( l )] and the performance graph required for investment companies by Item 5 of Form N-1A [17 CFR 239.15A and 274.11A].
+
+44 In response to the 1999 proposing release, one commenter believed that it would not be burdensome to require graphic information when required by our forms. Another commenter believed that if graphics are created for the printed copy, they should be consistent in the HTML document.
+
+45 Rule 304 of Regulation S-T [17 CFR 232.304] continues to require the description of the differences between the filed version and other versions of the material. The filer would need to include the description only if the filer did not reproduce the graphics in the HTML document.
+
+46 For example, EDGAR "CORRESP" and "COVER" documents are non-public and are not disseminated. However, EDGAR will disseminate graphics files associated with these document types.
+
+47 For example, companies may include a prospectus table of contents containing links to the various sections of the prospectus.
+
+48 The amended rule does not permit filers to link to an unofficial PDF copy of a filing, since the PDF copy is not an official filing.
+
+49 As we noted in the 2000 proposing release, we currently maintain filing information on the EDGAR database on our public web site dating from 1994. While we have no current plans to remove data from this database, we anticipate that, in the future, we will periodically need to archive portions of the data. Therefore, filers should be aware that we cannot assure the maintenance of the linked material, since we do not know how long we will be able to maintain all of the EDGAR data on our web site. We expect to provide notice to the public before archiving EDGAR data.
+
+50 We discuss the modernized EDGARLink in Section I.I below.
+
+51 See Rule 105 of Regulation S-T [17 CFR 232.105]. Of course, filers should use hyperlinks consistently with the requirements for plain English. They should not use linked material as a substitute for information that needs to be in the document to make it readable. In addition, filers should keep in mind that a person who prints out or downloads the filed document will not also receive the linked material. Similarly, a database search on the filed document will not necessarily yield any results covering the linked material.
+
+52 The rule provides that information contained in the linked material is not part of the official filing for reporting purposes in order to prevent a filing from being considered complete when the entire content of the filing is not available without reference to another document. This provision should not, however, be viewed as a statement that linked material is not considered to be part of the filed document for other purposes.
+
+53 This rule applies only to EDGAR filings, not to hyperlinks on filers' own web sites or elsewhere. We are considering giving separate interpretive guidance that may address these matters.
+
+54 For example, the filing must contain a statement that the document is incorporated by reference, whether or not there is a hyperlink. As another example, Form 10-K may incorporate financial and other information from a company's annual report to security holders, so long as the information is filed as an exhibit to the Form 10-K. This exhibit is needed even if the information also is provided by hyperlink.
+
+55 Cf . Rule 412 [17 CFR 230.412], which addresses amended or superseded material incorporated by reference into a Securities Act registration statement or prospectus.
+
+56 Of course, this would be necessary only during the pendency of the offering.
+
+57 17 CFR 230.424.
+
+58 17 CFR 230.497.
+
+59 In many instances, filers are required or encouraged to include our or their web site URL in their filings. See , e.g. , Item 502(a)(2) of Regulation S-K [17 CFR 229.502(a)(2)], Item 1003 of Regulation M-A [17 CFR 229.1003], and Item 12(c)(2)(ii) of Form S-3 [17 CFR 239.13]. In addition, it is the staff's position that an inactive textual URL to the filer's own web site will not be deemed to include or incorporate the material by reference into the filing. See ITT Corp. (Dec. 6, 1996) and Baltimore Gas & Electric Co. (Jan. 6, 1997).
+
+60 The positions we state today are meant to clarify and update our previous positions with reference to inactive textual URLs. See the 1999 adopting release, footnote 23 and accompanying text, and the 2000 proposing release, footnote 45.
+
+61 See Rules 12(b) and 12(c) of Regulation S-T [17 CFR 232.12(b) and 232.12(c)].
+
+62 EDGARLink is the filer assistance software we provide to filers filing on the EDGAR system. See Section I.I below for a discussion of modernized EDGARLink.
+
+63 The EDGAR Filer Manual sets forth the detailed specifications for and guidance on obtaining certificates.
+
+64 See Rule 12(b) of Regulation S-T [17 CFR 232.12(b)].
+
+65 See related amendments to Securities Act Rule 110 [17 CFR 230.110], Rules 12 and 103 of Regulation S-T [17 CFR 232.12 and 232.103], Exchange Act Rule 0-2 [17b CFR 240.0-2], Public Utility Act Rule 21 [17 CFR 250.21], and Trust Indenture Act Rule 0-5 [17 CFR 260.0-5].
+
+66 The EDGAR system will not accept diskette filings with formatting errors. The process of notifying the filer of the errors and having the filer correct and resubmit the diskette may result in long delays before EDGAR accepts the filing.
+
+67 An FDS is not deemed filed for purposes of Section 11 of the Securities Act, Section 18 of the Exchange Act, Section 16 of the Public Utility Act, Section 323 of the Trust Indenture Act, or Section 34(b) of the Investment Company Act or otherwise subject to the liabilities of such sections; it is not deemed a part of a registration statement to which it relates. See Rule 402 of Regulation S-T [17 CFR 232.402].
+
+68 With respect to investment companies, in response to the 1999 proposing release, one commenter suggested that we incorporate certain information currently contained in the financial data schedule submitted with Form N-SAR into the Form N-SAR itself. However, in response to the 2000 proposing release, the commenter stated that, if the information were available from outside sources, the FDS items should not be incorporated into Form N-SAR. We will consider these comments in connection with future rulemaking in deciding whether any FDS information should be incorporated into the Form N-SAR itself.
+
+69 Rule 11 of Regulation S-T [17 CFR 232.11].
+
+70 See Release No. 33-7427; 34-38798; 39-2355; IC-22730 (July 1, 1997) [62 FR 36450] (removing the reference to microfiche to reflect new practice of allowing for storage of documents in a variety of media).
+
+71 See Release No. 33-6977 (Feb. 23, 1993) [58 FR 14628].
+
+72 We also are revising the following rules to change the reference from magnetic tape to magnetic cartridge and to remove the reference to diskettes: Securities Act Rule 110, Exchange Act Rule 0-2, Public Utility Act Rule 21, and Trust Indenture Act Rule 0-5. As a courtesy to filers, we will continue to accept 9 track magnetic tape during the overlapping period in which we continue to support the old version of EDGARLink.
+
+73 Rule 104(a) [17 CFR 232.104(a)]. This rule also permits the filer to submit an unofficial PDF copy of correspondence or a cover letter document.
+
+74 Rule 104(b) [17 CFR 323.104(b)].
+
+75 Rule 105(b) [17 CFR 232.105(b)].
+
+76 Rule 105(c) [17 CFR 105(c)].
+
+77 Rule 302. We do not require signatures in unofficial PDF copies.
+
+78 We would not object, however, if filers include script signatures in addition to the required typed signatures in HTML documents.
+
+79 We also are adding a Note to paragraph (a) of Rule 304 to make it clear that when omitted material contains data, filers must include that data in the filing. For example, if the omitted material consists of a pie chart showing the use of proceeds, the EDGAR filing should set forth the percentage of proceeds allocated to each use rather than merely stating "chart showing use of proceeds omitted."
+
+80 See the 1999 adopting release, at footnote 58.
+
+81 We also are amending the following rule and form provisions in connection with the discontinuance of FDSs: Items 601 of Regulation S-B and S-K; Securities Act Rule 483; Securities Act Forms S-2, S-3, and S-8; Public Utility Act Forms U5S, U-1, U-13-60 and U-3A-2; Investment Company Act Rules 8b-2, 8b-23 and Rule 8b-32; and Investment Company Act Form N-SAR.
+
+82 44 U.S.C. 3501 et seq .
+
+83 OMB has assured us that they will respond to our request to approve the revised requirements for Forms 10 and 10-K by April 28, 2000. We anticipate that they will approve these routine decreases in burden estimates.
+
+84 Regulations S-K and S-B do not impose reporting burdens directly on public companies.
+
+85 We continually attempt to reduce the costs of the EDGAR system and to pass those cost savings along when possible. For example, in November 1998, under the new EDGAR contract, we were able to effect a cost savings with the implementation of a new privatized dissemination system. This resulted in our passing along a cost savings of nearly $200,000 per year to disseminators when their yearly subscription cost was reduced from $278,000 to $79,686. And in December 1999, the subscription price dropped again from $79,686 to $44,571.
+
+86 15 U.S.C. 77b(b).
+
+87 15 U.S.C. 78c(f).
+
+88 15 U.S.C. 80a-2(c). http://www.sec.gov/rules/final/33-7855.htm

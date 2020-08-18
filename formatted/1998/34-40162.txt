@@ -1,0 +1,227 @@
+https://www.sec.gov/rules/final/34-40162.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Description of the Proposed Rule Amendments
+
+	III.0.0.0: III. Discussion of Final Rule Amendments
+
+		III.A.0.0: A. Reporting Threshold
+
+		III.B.0.0: B. Attestation Requirement
+
+		III.C.0.0: C. Public Availability
+
+		III.D.0.0: D. Timing
+
+		III.E.0.0: E. Reporting Requirements
+
+		III.F.0.0: F. Report Format
+
+	IV.0.0.0: IV. Costs and Benefits of the Rules and Their Effectson Competition, Efficiency, and Capital Formation
+
+		IV.A.0.0: A. Cost Benefit Analysis
+
+		IV.B.0.0: B. Efficiency, Competition, and Capital Formation
+
+	V.0.0.0: V. Summary of Final Regulatory Flexibility Analysis
+
+	VI.0.0.0: VI. Paperwork Reduction Act
+
+	VII.0.0.0: VII. Statutory Analysis
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Reports To Be Made by Certain Brokers and Dealers 
+
+ SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240 (Release No. 34-40162; File No. S7-7-98) RIN 3235-AH36 
+
+ Reports To Be Made by Certain Brokers and Dealers 
+
+ AGENCY: Securities and Exchange Commission.
+
+ ACTION: Final rule. 
+
+ SUMMARY: The Securities and Exchange Commission ("Commission") is amending Rule 17a-5 under the Securities Exchange Act of 1934 ("Exchange Act") to require broker-dealers to file with the Commission and their designated examining authority ("DEA") at designated times two separate reports regarding their Year 2000 compliance. The reports will increase broker-dealer awareness that they should be taking specific steps now to prepare for the Year 2000; facilitate coordination with self regulatory organizations of industry-wide testing, implementation, and contingency planning; supplement the Commission's examination module for Year 2000 issues and identify potential Year 2000 problems; and provide information regarding the securities industry's preparedness for the Year 2000. The reports are designed to be available to the public which will enable broker-dealer counterparties and others to assess the risks of doing business with a broker-dealer that may not be Year 2000 compliant.
+
+ EFFECTIVE DATE: August 12, 1998
+
+ FOR FURTHER INFORMATION CONTACT: Michael A. Macchiaroli, Associate Director, 202/942-0131; Thomas K. McGowan, Assistant Director, 202/942-4886; Lester Shapiro, Senior Accountant, 202/942-0757; or Christopher M. Salter, Staff Attorney, 202/942-0148, Division of Market Regulation, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-1, Washington, D.C. 20549. Supplementary Information
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+ At midnight on December 31, 1999, unless the proper modifications have been made, the program logic in many of the world's computer systems will start to produce erroneous results because, among other things, the systems will incorrectly read the date "01/01/00" as being the year 1900 or another incorrect date. In addition, systems may fail to detect that the Year 2000 is a leap year. Problems can also arise earlier than January 1, 2000, as dates in the next millennium are entered into non-Year 2000 compliant programs.
+
+ The Commission views the Year 2000 problem as an extremely serious issue. A failure to assess properly the extent of the problem, remediate systems that are not Year 2000 compliant, and then test those systems could endanger the nation’s capital markets and place at risk the assets of millions of investors. In light of this, both the broker-dealer industry and the Commission are working hard to address the industry’s Year 2000 problems.
+
+ As part of its ongoing efforts relating to the Year 2000, on March 5, 1998, the Commission requested comment on proposed amendments to Rule 17a-5 <sup> 1 </sup> that would require certain broker-dealers to file reports with the Commission and their DEA regarding Year 2000 compliance. <sup> 2 </sup> In particular, the Commission sought comment on: (i) the definition of the term "Year 2000 Problem;"<SUP> </SUP> <sup> 3 </sup> (ii) the minimum net capital reporting threshold; (iii) the proposed reporting content; (iv) the requirement that portions of the report be attested to by independent public accountants; and (v) the public availability of the information to be reported.
+
+ The Commission received 35 comment letters in response to the Proposing Release. <sup> 4 </sup> The majority of the commenters generally supported the Commission’s proposals and made suggestions for improving one or more aspects of the proposed amendments. <sup> 5 </sup> However, the majority of the commenters objected to the attestation requirement and the $100,000 minimum net capital threshold for determining which broker-dealers would be required to file Year 2000 reports under the proposed amendments. The majority of the commenters that addressed the issue of whether the information reported should be publicly available, objected to the Year 2000 reports and related accountant’s attestation report being made public. Based on the comments received, the Commission is adopting the proposed amendments with the changes discussed below.<h>II. Description of the Proposed Rule Amendments </h>
+
+ Under the proposed amendments, a broker-dealer that is required to maintain minimum net capital of $100,000 or greater as of either December 31, 1997, or December 31, 1998, would have been required to file two reports at specified times with the Commission and its DEA regarding its efforts to address Year 2000 Problems. The first of these reports would have evaluated the efforts of the broker-dealer as of December 31, 1997, and would have been required to be filed no later than 45 days after the Commission adopted the proposed rule amendments. The second report would have evaluated the broker-dealer’s efforts as of the date of its financial statements for fiscal year-end 1998. This report would have been required to be filed within 90 days after the date of its fiscal year-end financial statements.
+
+ As part of the second report, each reporting broker-dealer would have been required to make assertions about its efforts to prepare for the Year 2000. For example, a broker-dealer would have been required to assert whether or not it has a plan to address Year 2000 Problems. In addition to making the assertions, each reporting broker-dealer would have been required to engage an independent public accountant to attest to whether there was a reasonable basis for the broker-dealer’s assertions. <sup> 6 </sup> 
+
+ As noted in the Proposing Release, the Commission has advised broker-dealers that if a broker-dealer’s computer systems have Year 2000 Problems, the broker-dealer may be deemed not to have accurate and current records and be in violation of Rule 17a-3 under the Exchange Act. <sup> 7 </sup> The Commission also reminded broker-dealers that Rule 17a-11 under the Exchange Act requires every broker-dealer to promptly notify the Commission of its failure to make and keep current books and records. <sup> 8 </sup><h>III. Discussion of Final Rule AmendmentsA. Reporting Threshold </h><h>A. Reporting Threshold </h>
+
+ In the Proposing Release, the Commission proposed the $100,000 minimum net capital reporting threshold because broker-dealers subject to this minimum net capital level are likely to have substantial financial exposure to the market and to customers. This threshold would have required all dealers, market makers, and clearing firms to file the Year 2000 reports.
+
+ Several commenters, including the National Association of Securities Dealers ("NASD"), expressed concern about the proposed net capital threshold because that threshold excludes nearly 72% of all registered broker-dealers from reporting on their efforts to address Year 2000 Problems. <sup> 9 </sup> These commenters stated that the Commission’s proposal does not gather adequate information regarding the risks posed by the Year 2000 because the proposed threshold would exclude many firms that execute thousands of transactions each trading day effecting thousands of customers, market makers, and dealers. These commenters argued that the failure on the part of a large number of excluded broker-dealers to adequately prepare for the Year 2000 could have negative systemic effects on the world’s financial markets. 
+
+ While mindful of the burden on small broker-dealers, the Commission is addressing this comment by requiring each broker-dealer with a minimum net capital requirement of $5,000 or greater to file reports with the Commission and with its DEA that discuss its efforts to address Year 2000 Problems. Broker-dealers that have a minimum net capital requirement of less than $100,000 will only be required to file a less burdensome check-the-box style Year 2000 report. Broker-dealers that meet a $100,000 minimum net capital reporting threshold will be required to file, in addition to the check-the-box report, a more detailed narrative discussion of their Year 2000 efforts. The format for broker-dealers to report on their efforts to address Year 2000 Problems is discussed in more detail in paragraph III.F. below.<h>B. Attestation Requirement </h>
+
+ The Proposing Release would have required each broker-dealer to have an independent public accountant attest to several specific assertions included in the second Year 2000 report. The Commission believed it was important to have an independent third party affirm that there was a reasonable basis supporting the broker-dealer’s assertions.
+
+ As proposed, each broker-dealer would have been required to assert:
+
+ (1) whether it has developed written plans for preparing and testing its computer systems for potential Year 2000 Problems;
+
+ 
+
+ (2) whether the board of directors, or similar body, has approved these plans, and whether a member of the broker-dealer’s board of directors, or similar body, is responsible for executing the plans;
+
+ 
+
+ (3) whether its Year 2000 remediation plans address all domestic and international operations, including the activities of its subsidiaries, affiliates, and divisions;
+
+ (4) whether it has assigned existing employees, hired new employees, or engaged third parties to execute its Year 2000 remediation plans; and
+
+ (5) whether it has conducted internal and external testing of its Year 2000 solutions and whether the results of those tests indicate that the broker-dealer has modified its software to correct Year 2000 problems.
+
+ The American Institute of Certified Public Accountants ("AICPA") commented that the required attestation report would be difficult for independent public accountants to provide. The AICPA said that some of the required broker-dealer assertions are not appropriate for accountant attestation because the assertions are not capable of reasonably consistent measurement against reasonable criteria. Currently, there are no established criteria related to Year 2000 remediation efforts. The lack of established criteria would likely result in significant variation in the examination procedures performed by independent public accountants and thus reduce the usefulness of the attestation reports. In addition, the AICPA expressed concern that the purpose and conclusions of the attestation report could be misunderstood. The AICPA was primarily concerned that uninformed users of the attestation reports would place undue reliance on them.
+
+ The AICPA suggested that an "agreed-upon procedures" engagement, instead of an attestation engagement, would more effectively meet the Commission’s goals. Pursuant to such an engagement, a broker-dealer would engage an independent public accountant to perform and report on specific procedures designed to meet the Commission’s objectives. This would eliminate the variability of examination procedures performed by independent public accountants and thus increase the consistency of the reports received by the Commission. The AICPA’s letter outlined elements of an agreed-upon procedures report and offered to follow-up with the Commission staff regarding the development of specific procedures for a Year 2000 engagement.
+
+ The Commission is deferring consideration of whether to adopt a requirement that the second report be evaluated by an independent public accountant. The Commission, however, will consider such a requirement if the accounting industry recommends a standard which can be used by public accountants in connection with the second report. <sup> 10 </sup><h>C. Public Availability </h>
+
+ The proposed rules would have made a broker-dealer’s Year 2000 reports, including the attestation by the independent public accountant, available to the public. The Commission recognizes commenters’ concerns that some users of these reports could place undue reliance on the reports, the technical nature of the reports could confuse investors, detailed testing reports could be misleading and unnecessarily alarming, and the reports could contain confidential proprietary information.
+
+ However, the Commission believes that the public’s interest is best served by requiring full and open disclosure. Allowing the public, particularly other broker-dealers and counterparties, to have access to the information reported by broker-dealers will enable interested persons to assess the Year 2000 readiness of a broker-dealer with which they are doing business. For example, after receiving a counterparty’s report, another broker-dealer might request additional information or assurances if the counterparty does not appear to be taking the steps necessary to be Year 2000 compliant. In the absence of such assurances, the other broker-dealer could determine whether it wishes to continue its dealings with that broker-dealer.
+
+ Accordingly, the final rule provides that these reports will be available to the public.<h>D. Timing </h>
+
+ The Proposing Release established as-of dates and due dates for the reports broker-dealers were required to file. <sup> 11 </sup> Some commenters explained that, in the absence of an existing requirement to make and retain records detailing Year 2000 remediation efforts as of December 31, 1997, the information to prepare the reports may not be available. In addition, several commenters stated that reporting Year 2000 status as of December 31, 1997 would provide data that is outdated and misleading. Finally, some broker-dealers commented that they have fiscal years that end in mid to late 1998, and that the proposed due dates and as-of-dates for the first and second reports would have required some broker-dealers to file their reports virtually back-to-back. 
+
+ The rule adopted by the Commission today requires a broker-dealer to file its first report with the Commission and its DEA by August 31, 1998. This report should reflect the status of the broker-dealer’s Year 2000 efforts as of July 15, 1998. The second report must be filed with the Commission and the broker-dealer’s DEA by April 30, 1999, and should reflect the status of the broker-dealer’s Year 2000 efforts as of March 15, 1999.
+
+ The rule adopted today also requires new broker-dealers who register as a broker-dealer between July 16, 1998 and December 31, 1998, to file with the Commission and its DEA no later than 30 days after its registration becomes effective the first report on its Year 2000 compliance as of the date of its registration. In addition, the rule also requires new broker-dealers who register as a broker-dealer between March 16, 1999 and October 1, 1999, to file with the Commission and its DEA no later than 30 days after its registration becomes effective a report on its Year 2000 compliance as of the date of its registration. <sup> 12 </sup><h>E. Reporting Requirements </h>
+
+ As previously discussed, the Proposing Release would have required each reporting broker-dealer to discuss the steps it has taken to address Year 2000 Problems. More specifically, each broker-dealer would have been required to (i) indicate whether its board of directors, or similar body, has approved and funded written Year 2000 remediation plans that address all major computer systems; (ii) describe its Year 2000 staffing efforts, and the work performed by Year 2000 dedicated staff; <sup> 13 </sup> (iii) discuss its progress on each stage of preparation for the Year 2000; <sup> 14 </sup> (iv) indicate if it has written contingency plans to deal with Year 2000 problems that may occur; <sup> 15 </sup> and (v) identify what levels of management are responsible for Year 2000 remediation efforts.
+
+ The Securities Industry Association ("SIA") suggested some changes to the specific reporting requirements to better clarify the information sought by the Commission. For example, the Proposing Release would have required broker-dealers to discuss the work performed by Year 2000 dedicated staff on an individual basis. In addition, broker-dealers would have been required to identify the levels of management involved in the Year 2000 efforts, discuss the specific responsibilities of these managers, and provide an estimate of the time they have spent on Year 2000 efforts. The SIA explained that these proposed requirements may be very burdensome. Fixing Year 2000 problems may require the dedicated efforts of a significant number of employees and consultants. In addition, the tasks and responsibilities involved may be detailed, extensive, and constantly changing.
+
+ The proposed rule also would have required broker-dealers to report the number and nature of the exceptions resulting from both internal and integrated testing of software designed to avoid Year 2000 Problems. The SIA commented that this requirement would likely provide meaningless information. The SIA explained that testing software is a dynamic process that in many instances requires exceptions to be identified hourly, daily, and weekly. In addition, identified exceptions may be immediately addressed, causing new exceptions to emerge. This process may repeat itself many times before testing is finished. Consequently, by the time the Commission received the Year 2000 reports, the exceptions discussed in them may have been addressed and new exceptions identified.
+
+ The Commission agrees that some modification of the reporting requirements is warranted. The rule adopted today requires each broker-dealer completing the narrative portion of Form BD-Y2K to provide a summary of the efforts of Year 2000 dedicated individuals or groups of individuals. The broker-dealer will not have to provide an estimate of the time that its management has spent on Year 2000 efforts. Finally, the broker-dealer must report the number and description of material exceptions identified during the internal and external testing of its software that are unresolved as of the report date. The Commission is leaving the determination of what constitutes a material exception to the broker-dealer’s judgment.<h>F. Report Format </h>
+
+ The Proposing Release would have required each broker-dealer meeting the $100,000 minimum net capital threshold to discuss, in narrative format, its efforts to address Year 2000 Problems. The National Association of Securities Dealers Regulation, Inc. ("NASDR") commented that the Commission should prescribe a format for a broker-dealer to use when reporting on its Year 2000 efforts. More specifically, the NASDR suggested that the Commission prescribe an objective reporting format, such as a check-the-box questionnaire. The NASDR explained that an open narrative format may lead to great disparity in the nature and detail of the reports that broker-dealers would submit. Providing a reporting format would produce consistent results, improve the accuracy and comparability of reports received, and reduce the time required to summarize, track, analyze, and report the information received.
+
+ The Commission recognizes the value of receiving the requested information in an objective format and that prescribing such a format would decrease the burden that the Year 2000 reporting requirements impose on broker-dealers. However, the Commission also is concerned that limiting the reporting requirements to a check-the-box format for broker-dealers that pose the greatest risk to customers and the market will not provide the Commission or the DEAs sufficient information to effectively review for Year 2000 compliance.
+
+ The rule the Commission adopts today requires each broker-dealer with a minimum net capital requirement of $5,000 or greater to file with the Commission and its DEA Part I of a new Form BD-Y2K. <sup> 16 </sup> Part I of Form BD-Y2K is a check-the-box Year 2000 report that generally addresses the same issues the proposed narrative discussion addresses. Each broker-dealer that is required to maintain net capital of $100,000 or greater will be required to file Part II of Form BD-Y2K, which requires a narrative discussion of its efforts to address Year 2000 Problems. The narrative discussion is designed to provide the Commission and the DEA’s with additional information on the Year 2000 efforts of those broker-dealers who pose the greatest risk to customers and the market if they are not Year 2000 compliant.
+
+ Copies of Form BD-Y2K are available in Commission’s Public Reference Room located at 450 Fifth Street, N.W., Washington, DC 20549 or copies can be obtained ( PDF format) from the Commission’s internet web site at the following address: www.sec.gov .<h>IV. Costs and Benefits of the Rules and Their Effects</h>
+
+on Competition, Efficiency, and Capital Formation 
+
+ Section 23(a) of the Exchange Act <sup> 17 </sup> requires the Commission, in adopting rules under the Exchange Act, to consider the competitive effects of such rules and to not adopt a rule that would impose a burden on competition not necessary or appropriate in furthering the purposes of the Exchange Act. Furthermore, Section 3(f) of the Exchange Act <sup> 18 </sup> provides that whenever the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission also shall consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. 
+
+ The Commission has considered the amendments to Rule 17a-5 in light of the standards cited in Sections 3 and 23 (a)(2) of the Exchange Act. In the Proposing Release, the Commission requested that commenters provide analysis and data supporting the costs and benefits of the proposed amendments. In addition, the Commission sought comments on the proposed amendments’ effect on competition, efficiency, and capital formation. 
+
+ Several commenters indicated that the Commission’s cost estimates were too low. However, no commenters provided detailed information or data as to the costs of the proposed amendments. One commenter addressed the issue of whether the proposed amendments would affect competition. Finally, no comments were received regarding the proposed amendments effect on efficiency and capital formation.<h>A. Cost Benefit Analysis </h>
+
+ Based on comments received, the Commission has revised the proposed amendments the result of which is to lower the aggregate cost of compliance with the rule. As discussed above, the Commission is adopting new Form BD-Y2K and is expanding the requirement that a broker-dealer report on its Year 2000 efforts to each broker-dealer with a minimum net capital requirement of $5,000 or greater. Each of these broker-dealers is required to file Part I of Form BD-Y2K, a check-the-box Year 2000 report. Each broker-dealer that meets the $100,000 minimum net capital reporting threshold is required to also complete Part II of Form BD-Y2K.
+
+ The Commission is also deferring consideration of whether to require broker-dealers to engage independent public accountants to examine their efforts to address Year 2000 Problems. The Commission is allowing broker-dealers to summarize by group the efforts of Year 2000 dedicated individuals as opposed to requiring individual descriptions of these people’s efforts. Broker-dealers will not have to provide an estimate of the time management has spent on Year 2000 efforts. Finally, broker-dealers are only required to report the number and description of unresolved material exceptions identified during the internal and external testing of their software.
+
+ Based on field testing of Part I of Form BD-Y2K conducted by the Office of Compliance Inspections and Examinations, the Commission estimates that on average a broker-dealer will spend approximately two hours completing Part I of Form BD-Y2K resulting in a total cost to the industry of $2,400,000. <sup> 19 </sup> This is based on 6,000 respondents spending four hours at $100 per hour preparing two reports consisting of Part I of Form BD-Y2K. The Commission estimates that on average a broker-dealer will spend 35 hours completing Part II of Form BD-Y2K resulting in a total cost to the industry of $15,400,000. This is based on 2,200 broker-dealers spending 70 hours at $100 per hour preparing two reports consisting of Part II of Form BD-Y2K. Therefore, based upon the adjustments to the proposed rule, the Commission has revised its cost to the industry to a total of $17,800,000 ($2,400,000 + $15,400,000). It is important to note that this is a total cost estimate and not an annual cost. Broker-dealers will only be required to prepare and file two Form BD-Y2Ks. 
+
+ No commenters addressed the potential benefits of the amendments, and the Commission has not been able to quantify those benefits. However, the Commission believes that the benefits will outweigh the costs. The Commission is aware of the significant effort the securities industry has put forth and the progress its has made but believes that significant progress still needs to be made by the securities industry to be ready for the Year 2000. 
+
+ The Commission does not yet have comprehensive information regarding the readiness of the broker-dealer industry for the Year 2000. Although the NASD and the NYSE have conducted surveys of their members, not all members responded to the survey and some of those who did submitted incomplete responses. It is important for the Commission to obtain complete information from individual broker-dealers to permit the Commission and Self Regulatory Organizations ("SROs") to assess the risks associated with firms that fail to show adequate Year 2000 progress. Moreover, the Commission believes that a regulatory requirement to file Year 2000 reports should encourage broker-dealers to proceed expeditiously with their efforts to prepare for the Year 2000. The Commission will use the reported information to obtain a more complete understanding of the industry’s overall Year 2000 preparations and to identify firm-specific and industry-wide problems. Information in the reports will help the Commission focus its Year 2000-related efforts for the rest of 1998 and 1999 on particular industry segments or firms that appear to pose the greatest risk of non-compliance.
+
+ In sum, the rule amendments will enable the Commission to take a more active role in reducing the Year 2000 risk to the securities industry. The reports broker-dealers will be required to file will enable the Commission and the SROs to (i) better monitor the industry’s Year 2000 readiness; (ii) increase broker-dealer awareness that they should be aggressively preparing for the Year 2000; (iii) coordinate industry-wide testing, implementation, and contingency planning; and (iv) enable the Commission to identify potential compliance problems.<h>B. Efficiency, Competition, and Capital Formation </h>
+
+ In the Proposing Release, the Commission stated that the proposed amendments should not unduly burden competition. One commenter addressed the proposed amendment’s effect on competition. This commenter stated that the proposed amendments could have an anticompetitive effect because the amendments exclude nearly 72% of registered broker-dealers from having to report on their efforts to address Year 2000 Problems. 
+
+ The Commission has drafted the rule amendments so as to minimize their impact on competition. As discussed above, the Commission adjusted the proposed amendments to require each broker-dealer with a minimum net capital requirement of $5,000 or greater to report on its Year 2000 efforts in order to gather adequate information regarding the industry-wide risks posed by the Year 2000 Problem. However, the Commission has structured the form of the report to differentiate between broker-dealers based upon their size, type of business, and relative risk they pose to customers and the market if they are not Year 2000 compliant. Broker-dealers that do not meet the $100,000 minimum net capital reporting threshold are only required to file the Year 2000 report. Broker-dealers that meet the $100,000 minimum net capital reporting threshold are required to provide additional information. The Commission believes that the proposed amendments do not impose any burden on competition not necessary or appropriate in furtherance of the Exchange Act. 
+
+ The Commission believes that the amendments should increase the efficiency and effectiveness of the industry’s efforts to prepare for the Year 2000 by increasing awareness, focusing industry efforts, and providing critical information for identifying and remedying problems. In addition, the Commission believes that the amendments do not adversely affect capital formation. However, failure on the part of the securities industry to adequately prepare for the Year 2000 could adversely affect capital formation at the beginning of the next millennium.<h>V. Summary of Final Regulatory Flexibility Analysis </h>
+
+ A final Regulatory Flexibility Analysis ("FRFA") concerning the amendments to Rule 17a-5 has been prepared in accordance with the provisions of the Regulatory Flexibility Act ("RFA"), as amended by Public Law No. 104-121, 110 Stat. 847, 864 (1996), 5 U.S.C. § 604. The FRFA notes that the amendments to Rule 17a-5 will enable the Commission to (i) monitor the steps broker-dealers are taking to address Year 2000 Problems; (ii) increase broker-dealer awareness that they should be taking specific steps now to prepare for the Year 2000; (iii) facilitate coordination with SROs on industry-wide testing, implementation, and contingency planning; and (iv) supplement the Commission's examination module for Year 2000 issues. 
+
+ The Commission received no comments on the Initial Regulatory Flexibility Analysis ("IRFA") prepared in connection with the proposing release, and no comment letters specifically addressed the IRFA. However, as discussed in paragraphs III.A and IV.A above, certain commenters expressed concern about the threshold for determining which broker-dealers are required to report on their efforts to prepare for the Year 2000, and the estimated costs associated with obtaining the independent public accountant’s attestation.
+
+ As discussed more fully in the FRFA, the rule will affect small entities. When used with reference to a broker or dealer, the Commission has defined the term "small entity" to mean a broker or dealer ("small broker-dealer") that: (1) had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to section 240.17a-5(d) or, if not required to file such statements, a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the last business day of the preceding fiscal year (or in the time that it has been in business, if shorter); and (2) is not affiliated with any person (other than a natural person) that is not a small business or small organization as defined in this release. <sup> 20 </sup> 
+
+ Based on FOCUS data for the fourth quarter of 1996, the latest information available, the Commission estimates that there are approximately 5,300 small broker-dealers. Of these 5,300 small broker-dealers, approximately 3,800 are affected by the amendments to Rule 17a-5. <sup> 21 </sup> 
+
+ The Commission has drafted the rule amendments so as to minimize their impact on small broker-dealers while enhancing investor protection and minimizing any impact on competition, in part, by adopting different reporting requirements to take into account the resources available to small broker-dealers. The rule amendments require broker-dealers with a minimum net capital requirement of $5,000 or greater to report on their efforts to address Year 2000 problems. However, approximately 1,500 small broker-dealers who do not have a minimum net capital requirement are exempt from reporting on their Year 2000 efforts. In addition, the Commission has adopted two reporting formats for broker-dealers to use when reporting on their efforts to prepare for the Year 2000. 
+
+ Of the 3,800 small broker-dealers required to report on their Year 2000 efforts, approximately 3,200 (84%) are only required to file a check-the-box style Year 2000 report. As noted in the cost-benefit section above, the Commission estimates that it would take each of these broker-dealers approximately 2 hours to complete the check-the-box Year 2000 report. The remaining 600 (16%) small broker-dealers are required to provide, in addition to the check-the-box style report, a more extensive narrative discussion of their Year 2000 efforts because the type of business that these broker-dealers conduct poses a greater risk to customers and the market if they are not Year 2000 compliant. Thus, by adopting different reporting requirements and by exempting those broker-dealers who do not have a minimum net capital requirement, the Commission has imposed no burden, or only a very limited burden, on approximately 4,700 (89%) small broker-dealers.
+
+ The FRFA notes that it would be difficult to further simplify, consolidate, or adjust compliance standards for small broker-dealers and be able to effectively monitor the securities industry’s efforts to prepare for the Year 2000. The Commission believes that the alternative reporting requirement adopted for small broker-dealers strikes the appropriate balance between the need to protect investors and the need to minimize the impact on small broker-dealers. The Commission also considered the use of performance rather than design standards. However, the Commission concluded that it would be inconsistent with the purpose of the rule to use performance standards to specify different requirements for small entities.
+
+ A copy of the FRFA may be obtained by contacting Christopher M. Salter, Staff Attorney, U.S. Securities and Exchange Commission, Mail stop 10-1, 450 Fifth street, N.W., Washington, D.C. 20549.<h>VI. Paperwork Reduction Act </h>
+
+ As set forth in the Proposing Release, the amendments to Rule 17a-5 contain collections of information within the meaning of the Paperwork Reduction Act of 1995 ("PRA"). <sup> 22 </sup> Accordingly, the collection of information requirements were submitted to the Office of Management and Budget ("OMB") for review and were approved by OMB which assigned the following control number 3235-0511. 
+
+ The Proposing Release solicited comments on the proposed collections of information. No comments were received that specifically addressed the PRA submission. However, as discussed in sections III. and IV. above, the Commission received suggestions that would improve the collections of information. Based upon these suggestions, the collections of information have been adjusted as described in sections III. above and are in accordance with Section 3507 of the PRA. <sup> 23 </sup> These adjustments include the adopting of two reporting formats to increase the consistency, accuracy and comparability of the information collected. In addition, the adjustments will reduce the time required to summarize, track, analyze, and report the information received.
+
+ An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the agency displays a valid OMB control number. Broker-dealers are required to comply with the collection of information pursuant to the amendments to Rule 17a-5 and the information is necessary to provide the Commission with a better understanding of the security industry’s readiness for the Year 2000. The information collected pursuant to the amendments to Rule 17a-5 will be public.
+
+ Based upon the adjustments to the amendments, the Commission is adjusting its burden estimate. The Commission estimated in the Proposing Release that, on average, a broker-dealer would spend 70 hours preparing the Year 2000 report and obtaining the independent public accountant’s Attestation. The Commission estimates that under the final amendments, a broker-dealer will, on average, spend two hours preparing Part I of Form BD-Y2K and 35 hours preparing Part II of Form BD-Y2K. The total annualized burden to the securities industry is estimated to be 89,000 hours. This is based on 6,000 respondents spending two hours preparing Part I and 2,200 respondents spending 35 hours preparing Part II of Form BD-Y2K.<h>VII. Statutory Analysis </h>
+
+<END MAIN TEXT>
+
+1 17 CFR 240.17a-5. Rule 17a-5 was adopted by the Commission pursuant to authority under Section 17 of the Exchange Act (15 U.S.C. 78q), and particularly Section 17(e) (15 U.S.C. 78q(e)), which requires every broker-dealer to file annually with the Commission a certified balance sheet and income statement, and such other information concerning its financial condition as the Commission may prescribe.
+
+2 Release Nos. 34-39724; IC-23059; IA-1704, (March 5, 1998), 63 FR 12056 (March 12, 1998) (" Proposing Release ").
+
+3 The Proposing Release defined the term "Year 2000 Problem" to include any erroneous result caused by any computer software (i) incorrectly reading the date "01/01/00" or any year thereafter; (ii) incorrectly identifying a date in the year 1999 or any year thereafter; (iii) failing to detect that the Year 2000 is a leap year, and (iv) any other computer error that is directly or indirectly related to (i), (ii), or (iii) above.
+
+4 All comment letters are available in File No. S7-7-98 at the Commissions Public Reference Room, 450 Fifth Street, N.W., Washington, DC 20549. The comment period closed on April 27, 1998. See also Release Nos. 34-39858; IC-23112; IA-1716 (extending the comment period from April 13, 1998 to April 27, 1998).
+
+5 Of the 35 comment letters received, five were opposed to any additional regulatory requirements.
+
+6 The broker-dealers assertions and the related accountants attestation report would have been required to be filed only with the second report.
+
+7 17 CFR 240.17a-3.
+
+8 17 CFR 240.17a-11(d).
+
+9 As explained in the Proposing Release, under the proposed $100,000 net capital threshold, approximately 5,600 out of 7,800 registered broker-dealers would be exempt from the Year 2000 reporting requirements.
+
+10 In light of the AICPAs comment letter and ongoing efforts, in a companion release also issued today the Commission is re-opening the comment period with respect to the proposal to have an independent public accountant review a broker-dealers second Year 2000 report. The public file (No. S7-7-98) will include both the AICPAs original comment letter and any follow-up letter submitted by the AICPA for the Commissions consideration.
+
+11 The first of these reports would have evaluated the efforts of broker-dealers as of December 31, 1997, and would have been required to be filed no later than 45 days after the Commission adopted the proposed rule amendments. The second report would have evaluated broker-dealer efforts as of the date of their financial statements for fiscal year-end 1998. This report would have been required to be filed within 90 days after the date of their financial statements.
+
+12 New broker-dealers who register between January 1, 1999 and March 15, 1999, are required to file a report on their Year 2000 efforts no later than April 30, 1999. This report should reflect their Year 2000 efforts as of March 15, 1999.
+
+13 This includes whether the broker-dealer has assigned existing employees, hired new employees, or engaged third parties to provide assistance in avoiding Year 2000 Problems.
+
+14 These stages are: (i) awareness of potential Year 2000 Problems; (ii) assessment of what steps must be taken to avoid Year 2000 Problems; (iii) implementation of the steps needed to avoid Year 2000 Problems; (iv) internal testing of software designed to avoid Year 2000 Problems; (v) integrated or industry-wide testing of software designed to avoid Year 2000 Problems (including testing with other broker-dealers, other financial institutions, customers, and vendors); and (vi) implementation of tested software that will avoid Year 2000 Problems.
+
+15 Contingency planning should provide for adequate protections to ensure the success of critical systems if interfaces fail or unexpected problems are experienced with operating systems and infrastructure software. In addition, contingency plans should provide for the failure of external systems that interact with the broker-dealers computer systems. For example, contingency plans should anticipate the failure of a vendor that services mission critical applications and should provide for the potential that a significant customer experiences difficulty due to Year 2000 problems.
+
+16 For a copy of Form BD-Y2K see Attachment A ( PDF format).
+
+17 15 U.S.C. 78w (a)(2).
+
+18 15 U.S.C. 78c.
+
+19 Field tests of Part I of Form BD-Y2K indicated that it could be completed in as little as 30 minutes. However, the Commission believes that it may take longer for some broker-dealers to complete Part I of Form BD-Y2K.
+
+20 17 CFR 240.0-10(c).
+
+21 The proposed rule amendments would have affected approximately 600 small broker-dealers. The reasons for expanding the Year 2000 reporting requirements are discussed in paragraph III.A . above.
+
+22 44 U.S.C. 3501 et seq .
+
+23 44 U.S.C. 3507 http://www.sec.gov/rules/final/34-40162.htm

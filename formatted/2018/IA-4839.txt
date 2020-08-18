@@ -1,0 +1,261 @@
+https://www.sec.gov/rules/final/2018/ia-4839.pdf
+
+I.0.0.0 BACKGROUND
+
+II.0.0.0 DISCUSSION
+
+	II.A.0.0 Amendment to Rule 203(l)-1
+
+	II.B.0.0 Amendment to Rule 203(m)-1
+
+III.0.0.0 EFFECTIVE DATE
+
+IV.0.0.0 ECONOMIC ANALYSIS
+
+	IV.A.0.0 Introduction and Economic Justification
+
+	IV.B.0.0 Costs and Benefits
+
+	IV.C.0.0 Efficiency, Competition, and Capital Formation
+
+V.0.0.0 PAPERWORK REDUCTION ACT ANALYSIS
+
+VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+VII.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+Conformed to Federal Register version
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>275</sup>
+
+[Release No. IA-4839; File No. S7-05-17] RIN 3235-AM02
+
+Exemptions from Investment Adviser Registration for Advisers to Small Business Investment Companies
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: We are adopting amendments to the rule that defines a venture capital fund (rule 203( l )-1) and the rule that implements the private fund adviser exemption (rule 203(m)-1) under the Investment Advisers Act of 1940 (the “Advisers Act”) in order to reflect changes made by title LXXIV, sections 74001 and 74002 of the Fixing America’s Surface Transportation Act of 2015 (the “FAST Act”), which amended sections 203( l ) and 203(m) of the Advisers Act. Title LXXIV, section 74001 of the FAST Act amended the exemption from investment adviser registration for any adviser solely to one or more “venture capital funds” in Advisers Act section 203( l ) by deeming “small business investment companies” to be “venture capital funds” for purposes of the exemption. Accordingly, we are amending the definition of a venture capital fund to include “small business investment companies.” Title LXXIV, section 74002 of the FAST Act amended the exemption from investment adviser registration for any adviser solely to “private funds” with less than $150 million in assets under management in Advisers Act section 203(m) by excluding the assets of “small business investment companies” when calculating
+
+“private fund assets” towards the registration threshold of $150 million. Accordingly, we are amending the definition of “assets under management” in the rule that implements the private fund adviser exemption to exclude the assets of “small business investment companies.” DATES: Effective March 12, 2018.
+
+FOR FURTHER INFORMATION CONTACT: Jennifer Songer, Senior Counsel, or Sara Cortes, Assistant Director, at (202) 551-6787 or IArules@sec.gov, Investment Adviser Regulation Office, Division of Investment Management, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-8549.
+
+SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to rules 203( l )-1 [17 CFR 275.203( l )-1] and 203(m)-1 [17 CFR 275.203(m)-1] under the Investment Advisers Act of 1940 [15 U.S.C. 80b]. <sup>1</sup>
+
+Table of Contents
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
+
+Prior to the enactment of the Fixing America’s Surface Transportation Act of 2015 (the “FAST Act”) , <sup>2</sup> we believe that investment advisers to small business investment companies (“SBICs”) <sup>3</sup> primarily relied upon an exemption from investment adviser registration under the Investment Advisers Act of 1940 (the “Advisers Act”) <sup>4</sup> for advisers solely to SBICs (the “SBIC adviser exemption”) . <sup>5</sup> The FAST Act expanded the applicability of two additional exemptions from investment adviser registration for investment advisers to SBICs: (1) the exemption for any adviser solely to one or more “venture capital funds” in Advisers Act section 203( l ) (the “venture capital fund adviser exemption”), and (2) the exemption for any adviser solely to “private funds” with less than $150 million in assets under management in Advisers Act section 203(m) (the “private fund adviser exemption”). This had the effect of permitting investment advisers to
+
+SBICs to advise both SBICs and other types of private funds without being required to register as investment advisers with the Commission.
+
+The FAST Act amended sections 203( l ) and 203(m) of the Advisers Act regarding the registration of investment advisers to SBICs. Title LXXIV, section 74001 of the FAST Act amended the venture capital fund adviser exemption by deeming SBICs to be “venture capital funds” for purposes of the exemption. Title LXXIV, section 74002 of the FAST Act amended the private fund adviser exemption by excluding the assets of SBICs for purposes of calculating private fund assets towards the registration threshold of $150 million. <sup>6</sup> Accordingly, on May 3, 2017, <sup>7</sup> we proposed to amend (1) the definition of “venture capital funds” in Advisers Act rule 203( l )-1 to include SBICs and (2) the definition of “assets under management” in Advisers Act rule 203(m)-1 to exclude the assets of SBICs.
+
+Advisers who rely on the SBIC adviser exemption are not subject to reporting or recordkeeping provisions under the Advisers Act or examination by our staff . <sup>8</sup> Advisers who rely on the venture capital fund adviser exemption and the private fund adviser exemption are exempt from registration under the Advisers Act; however, they are considered “exemptreporting advisers” and must maintain such records and submit such reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors . <sup>9</sup> Exempt reporting advisers are required to file a subset of the information requested by Form ADV with the Commission but are not subject to many of the other substantive requirements to which registered investment advisers are subject. <sup>10</sup>
+
+Since the enactment of the FAST Act, advisers to SBICs have been able to rely on the following exemptions from investment adviser registration with the Commission: (1) the SBIC adviser exemption by advising only SBICs; (2) the venture capital fund adviser exemption by advising both SBICs and venture capital funds (as defined in rule 203( l )-1); or (3) the private fund adviser exemption by advising both SBICs and non-SBIC private funds, provided those non-SBIC private funds account for less than $150 million in assets under management in the United States . <sup>11</sup>
+
+As discussed above, we proposed to amend the definition of a “venture capital fund” in Advisers Act rule 203( l )-1 to include SBICs and to amend the definition of “assets under management” in Advisers Act rule 203(m)-1 to exclude the assets of SBICs. <sup>12</sup> We received three comment letters , <sup>13</sup> none of which specifically addressed the proposed amendment s . <sup>14</sup> We are adopting the amendments as proposed.
+
+<h>II. DISCUSSION</h>
+
+<h>A. Amendment to Rule 203(l)-1</h>
+
+The venture capital fund adviser exemption in section 203( l ) of the Advisers Act provides an exemption from registration under the Advisers Act for investment advisers that solely advise venture capital funds . <sup>15</sup> Advisers who rely on the venture capital fund adviser exemption are exempt from registration under the Advisers Act; however, they are considered “exempt reporting advisers” and must maintain such records and submit such reports as the Commissiondetermines necessary or appropriate in the public interest or for the protection of investors . <sup>16</sup> The FAST Act amended the venture capital fund adviser exemption by deeming SBICs to be venture capital funds for purposes of the exemption. <sup>17</sup>
+
+Advisers Act rule 203( l )-1 defines a “venture capital fund” for purposes of the venture capital fund adviser exemption. <sup>18</sup> While most, if not all, SBICs meet the definition of a “private fund” under the Advisers Act, <sup>19</sup> they may not meet the rule 203( l )-1 definition of a “venture capital fund.” We proposed to amend Advisers Act rule 203( l )-1 to include SBICs in the definition of venture capital funds for purposes of the venture capital fund adviser exemption. <sup>20</sup> We did not receive any comments on the proposed amendment, and we are adopting the amendment as proposed. <sup>21</sup> Amending the definition of venture capital fund in Advisers Act rule 203( l )-1 makes it consistent with Advisers Act section 203( l )(2), thereby reflecting in the rule the application of the venture capital fund adviser exemption to advisers to SBICs. An adviser to
+
+SBICs who relies on the venture capital fund adviser exemption will be required to submit Form ADV reports to the Commission as an exempt reporting adviser, consistent with the current requirement for advisers relying on the venture capital fund adviser exemption. <sup>22</sup>
+
+<h>B. Amendment to Rule 203(m)-1</h>
+
+The private fund adviser exemption in Advisers Act section 203(m) directs the Commission to provide an exemption from registration to any investment adviser that solely advises private funds if the adviser has assets under management in the United States of less than$150 million. <sup>23</sup> Advisers Act rule 203(m)-1 implements the private fund adviser exemption. Advisers who rely on the private fund adviser exemption are exempt from registration under the Advisers Act; however, they are considered “exempt reporting advisers” and must maintain such records and submit such reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors. <sup>24</sup> The FAST Act amended the private fund adviser exemption to require that private fund advisers exclude the assets of their SBICs for purposes of calculating private fund assets towards the registration threshold of $150 million. <sup>25</sup>
+
+Advisers Act rule 203(m)-1(d)(1) defines “assets under management” for purposes of the private fund adviser exemption. <sup>26</sup> The rule 203(m)-1(d)(1) definition of assets under management includes an adviser’s regulatory assets under management attributable to SBICs.
+
+We proposed to amend Advisers Act rule 203(m)-1(d)(1) to exclude an adviser’s regulatory assets under management attributable to SBICs from the definition of assets under management for purposes of the private fund adviser exemption. <sup>27</sup> We did not receive any comments on our proposed amendment, and we are adopting the amendment as proposed. <sup>28</sup> Amending the definition of assets under management in Advisers Act rule 203(m)-1 to make it consistent with Advisers Act section 203(m)(3) will reflect that advisers to both private funds and SBICs can rely on the private fund adviser exemption without regard to the SBIC assets that they advise.
+
+An adviser to SBICs who relies on the private fund adviser exemption will be required to submit reports to the Commission as an exempt reporting adviser and to include the SBICs that it advises on its Form ADV, consistent with the current requirement for advisers relying on the private fund adviser exemption. <sup>29</sup>5.b. to Part 1A of Form ADV explains how to calculate regulatory assets under management for purposes of Item 5.F of Part 1A of Form ADV. In general, it states that an adviser should include the securities portfolios for which it provides continuous and regular supervisory or management services. In the case of a private fund, advisers are instructed to determine the current market value (or fair value) of the private fund’s assets and the contractual amount of any uncalled commitment pursuant to which a person is obligated to acquire an interest in, or make a capital contribution to, the private fund. See Form ADV: Instructions for Part 1A available at: https:// www.sec.gov/about/forms/formadv-instructions.pdf at Instruction 5.b.4 .
+
+<h>III. EFFECTIVE DATE</h>
+
+The effective date of the amendments to rules 203( l )-1 and 203(m)-1 is March 12, 2018.
+
+<h>IV. ECONOMIC ANALYSIS</h>
+
+<h>A. Introduction and Economic Justification</h>
+
+The Commission is sensitive to the potential economic effects of the amendments to Advisers Act rules 203( l )-1 and 203(m)-1 we are adopting today. These effects include the benefits and costs to investment advisers, their funds, and the investors in their funds as well as the amendments’ implications for efficiency, competition, and capital formation. We discussed these effects in our economic analysis of the proposed amendments to Advisers Act rules 203( l )-1 and 203(m)-1 and we did not receive any comments on this analysis. <sup>30</sup> The economic baseline estimates have been revised to reflect updates to industry figures that were utilized in the Proposing Release. However, these changes are only marginally different from the proposal and, accordingly, the analysis of the amendments’ economic effects remains unchanged.
+
+The amendments to Advisers Act rules 203( l )-1 and 203(m)-1 reflect changes made by title LXXIV, sections 74001 and 74002 of the FAST Act to the Advisers Act. While the FAST Act does not expressly require the Commission to amend the Advisers Act rules, the amendments eliminate any confusion that might otherwise exist if Advisers Act rules 203( l )-1 and 203(m)-1 were not amended. As adopted, Advisers Act rule 203( l )-1 reflects that advisers to venture capital funds and SBICs qualify for the venture capital fund adviser exemption fromregistration. As adopted, Advisers Act rule 203(m)-1 reflects that advisers to SBIC and non- SBIC private funds with less than $150 million in non-SBIC private fund assets under management in the United States qualify for the private fund adviser exemption from registration.
+
+Economic Baseline
+
+To establish a baseline useful for evaluating the economic effects of the amendments, we briefly describe the nature of SBICs and then define the different classes of advisers that could be affected by the amendments.
+
+According to the Small Business Administration (the “SBA”), SBICs are investment funds that make equity and debt investments in qualifying small businesses and are licensed and regulated by the SBA. <sup>31</sup> SBICs have access to low-cost capital because of a guarantee by the SBA. According to the SBA, this funding subsidy is intended to promote the SBIC program’s purpose of bridging the gap between the small business community’s need for capital and traditional sources of financing that might otherwise be more expensive. <sup>32</sup>
+
+Advisers to SBICs may also advise non-SBIC private funds, including venture capital funds. Depending on the amount and type of assets they advise, SBIC advisers belong to one of three categories: (1) registered investment advisers; (2) exempt reporting advisers; or (3) advisers exempt from registration and reporting requirements. Registered investment advisers are required to file Form ADV and are also subject to other substantive requirements including theestablishment of a compliance program and a Code of Ethics. <sup>33</sup> Exempt reporting advisers are required to file a subset of the information requested by Form ADV with the Commission but are not subject to many of the other substantive requirements to which registered investment advisers are subject. Finally, any adviser that solely advises SBICs is exempt from registering with the Commission under section 203(b)(7) of the Advisers Act and does not have an obligation to report information to the Commission. <sup>34</sup>
+
+Prior to the enactment of the FAST Act, an adviser to both SBICs and other non-SBIC private funds qualified for the private fund adviser exemption under Advisers Act rule 203(m)-1 if the adviser had assets under management in the United States, including assets of the SBICs it advised, of less than $150 million. Advisers to SBICs and other non-SBIC private funds that did not qualify for the private fund adviser exemption were required to register with the Commission. In addition, advisers to both venture capital funds and SBICs were required to register with the Commission unless they qualified for the private fund adviser exemption.
+
+In establishing a baseline for the amendments, two additional classes of investment advisers that did not advise SBICs prior to the FAST Act are relevant: (1) advisers solely to venture capital funds that rely on the venture capital fund adviser exemption from registration and are considered exempt reporting advisers; and (2) advisers solely to private funds with less than $150 million in assets under management in the United States that rely on the private fund adviser exemption from registration and are considered exempt reporting advisers. Prior to the FAST Act, advisers relying on the venture capital fund adviser exemption were required toregister with the Commission if they added SBIC clients unless their total assets under management remained under $150 million, in which case they could instead rely on the private fund adviser exemption. In addition, prior to the FAST Act, advisers relying on the private fund adviser exemption were required to register with the Commission if they added SBIC clients that caused their total assets under management in the United States to equal or exceed $150 million.
+
+The FAST Act provided the classes of advisers discussed above with several options. First, registered investment advisers to SBICs and non-SBIC private funds can withdraw from registration and report to the Commission as exempt reporting advisers if their non-SBIC private fund assets under management in the United States are less than $150 million. Second, registered investment advisers to SBICs and venture capital funds can withdraw from registration and report to the Commission as exempt reporting advisers. Finally, advisers that relied on either the venture capital fund adviser or private fund adviser exemption prior to the FAST Act can begin advising SBICs without changing their registration status independent of the amount of assets attributable to SBICs.
+
+For those advisers that benefit from any of the above options, it would have been in their best economic interest to exercise such options following the passage of the FAST Act, particularly after the Commission’s Division of Investment Management issued a guidance update regarding the application of the FAST Act. <sup>35</sup> That guidance update indicated that the Commission’s Division of Investment Management would not object to advisers who exclude the assets of the SBICs they advise when determining whether they qualify for the private fund adviser exemption or advisers who consider SBICs to be venture capital funds for the purposesof the venture capital fund adviser exemption. <sup>36</sup> We believe, therefore, that it is likely that advisers have already exercised these options if doing so was in their economic interest.
+
+However, inconsistencies in the definitions of venture capital funds and assets under management that exist between the Advisers Act rules and the FAST Act may be discouraging some advisers from exercising these options. Similarly, these inconsistencies may result in assets under management being calculated differently by advisers for purposes of the private fund adviser exemption, which could lead to similarly-situated advisers reaching different conclusions as to their reporting status.
+
+As of June 30, 2017, there were approximately 12,474 registered investment advisers reporting a total of approximately $70.1 trillion in regulatory assets under management. <sup>37</sup> In addition, there were 3,332 exempt reporting advisers, of whom 623 relied on the venture capital fund adviser exemption, <sup>38</sup> 2,401 relied on the private fund adviser exemption, <sup>39</sup> and 308 qualified for both exemptions. For exempt reporting advisers that relied on the private fund adviser exemption, total private fund assets under management were approximately $235 billion. <sup>40</sup> Registered investment advisers advise approximately 34,343 private funds, whileexempt reporting advisers advise approximately 12,562 private funds. As of June 30, 2017, there were 315 SBICs licensed by the SBA managing approximately $30 billion in assets. <sup>41</sup> We are unable to identify which of those 315 SBICs are managed by advisers solely to SBICs compared to advisers that also advise other funds because section 203(b)(7) of the Advisers Act exempts advisers solely to SBICs from registration and reporting, and filers of Form ADV are not required to explicitly indicate whether they advise SBICs. Because filers of Form ADV are not required to explicitly indicate whether they advise SBICs, we are not able to estimate the number of advisers that have already taken advantage of the exemptions afforded to them by the FAST Act compared to the number of advisers who have not done so due to any inconsistencies between the Advisers Act rules and the FAST Act.
+
+The amendments may affect the classes of investment advisers mentioned above, the funds they advise, and the investors in those funds. We discuss the potential economic effects of the amendments on these parties in the next two sections.
+
+<h>B. Costs and Benefits</h>
+
+In this section, we discuss the costs and benefits that may result from the amendments for each affected party. The economic effects discussed in this section only apply to the extent that advisers have not already exercised the exemption options provided to them under the baseline due to any inconsistencies between the FAST Act and the Advisers Act rules. As discussed above, we believe that it is likely that advisers have already exercised any exemption options provided to them by the FAST Act under the baseline if it were in their interest to do so; thus, wedo not expect the magnitude of these effects to be significant. We discuss the amendments’ likely impact on efficiency, competition, and capital formation in the next section.
+
+As discussed in the Economic Baseline Section, advisers solely to SBICs are exempt from registering as investment advisers with the Commission. To the extent that any inconsistencies between the FAST Act and Advisers Act rules 203( l )-1 and 203(m)-1 have discouraged advisers solely to SBICs from taking advantage of the venture capital fund adviser or private fund adviser exemptions, the amendments could lead these advisers to take on additional venture capital or private fund clients. Such advisers can weigh the additional fee revenue associated with advising non-SBIC private funds against the costs of reporting to the Commission as exempt reporting advisers when determining whether to rely on either of the exemptions. We estimate that the annual cost of filing Form ADV for an exempt reporting adviser is $916 . <sup>42</sup> In addition, advisers that switch from exempt to exempt reporting status may incur indirect costs if the information they disclose on Form ADV, such as any disciplinary history, reduces investor demand for their advisory services. We are unable to estimate how many advisers solely to SBICs would choose to take on non-SBIC private funds as a result of the amendments because we do not have information on the demand for their advisory services from non-SBIC private funds or whether any additional business generated would offset these reporting costs. Furthermore, we cannot estimate the extent to which advisers solely to SBICs have been deterred from exercising their option to rely on the venture capital fund adviser and$89,427,727 assuming there are 12,024 such advisers, resulting in an estimated cost of approximately$7,437 per registered investment adviser.private fund adviser exemptions due to any inconsistencies between the FAST Act and the Advisers Act rules under the baseline.
+
+The amendments provide registered advisers to SBICs and non-SBIC private funds that have not taken advantage of the venture capital fund adviser and private fund adviser exemptions due to inconsistencies between the FAST Act and the Advisers Act rules with clarification on the option to switch from registered investment adviser to exempt reporting adviser status. This option is difficult to value, but its value is broadly determined by the cost reductions associated with the change in registration status compared to the explicit and implicit costs of withdrawing from registration. Advisers that elect to change from registered to exempt reporting adviser status should expect to face reduced ongoing costs associated with filing Form ADV because, as exempt reporting advisers, they would only be required to complete certain portions of Form ADV. <sup>43</sup> We estimate the annual cost savings associated with filing Form ADV as an exempt reporting adviser instead of as a registered investment adviser to be $6,521. <sup>44</sup> Furthermore, such advisers would no longer bear the costs associated with the substantive requirements of being an adviser registered with the Commission. <sup>45</sup> Such advisers would incur the one-time cost of filing a Form ADV-W withdrawal, which we estimate to be $119 per full withdrawal and $13 perpartial withdrawal. <sup>46</sup> They may also incur one-time operational costs associated with switching from registered to exempt reporting status, such as those associated with adapting information technology systems to a new reporting regime. Finally, to the extent that advisers benefit from marketing themselves as registered investment advisers to client funds and investors, they will forgo this benefit by withdrawing from registration. Because advisers are not required to rely on either of the exemptions in Advisers Act rules 203( l )-1 or 203(m)-1 even though they may qualify for them, we expect only those registered investment advisers that would experience a net benefit by relying on these exemptions and have not already done so following the FAST Act and subsequent Staff Guidance to withdraw from registration. <sup>47</sup>
+
+Investors in private funds, including venture capital funds and SBICs, may experience costs and benefits as a result of the amendments. If investors face fixed costs in transacting with a given adviser, for example in performing any necessary due diligence, they may benefit if the amendments encourage more advisers to advise both SBIC and non-SBIC private funds, allowing investors to consolidate different types of investments with a single adviser. We cannot quantify the extent to which investors prefer to use a single adviser or the number of advisers who will expand into either SBICs or non-SBIC private funds because we do not have the information needed to assess investors’ latent demand for consolidated advice services or thenumber of advisers that have been deterred from expanding their client bases under the baseline. We therefore cannot estimate the magnitude of this potential cost reduction for investors.
+
+In addition, to the extent that the amendments result in advisers changing their status from registered to exempt reporting, it may impose costs on investors. If investors value the transparency provided by complete Form ADV reporting and the safeguards associated with the other substantive requirements of being a registered investment adviser, then the amendments could impose costs on investors if they result in advisers changing their status from registered to exempt reporting. However, such investors have the option of moving their investments to advisers that are registered and, as noted above, we expect that advisers will weigh the benefits and costs associated with remaining registered in connection with any change in reporting status. The amendments could also impose costs on investors if any reduction in transparency or the other substantive requirements associated with registration reduce the ability of the Commission to protect investors from potentially fraudulent investment advisory schemes.
+
+<h>C. Efficiency, Competition, and Capital Formation</h>
+
+As discussed above, because the amendments potentially reduce the reporting requirements for advisers to both SBICs and non-SBIC private funds, they could result in an increased number of advisers in both markets. Advisers solely to SBICs may enter the market for venture capital or other private fund advisory services, and current advisers to non-SBIC private funds may enter the market for SBIC advisory services. In this section, we discuss the potential effects of these changes on efficiency, competition, and capital formation. As was the case above, the economic effects discussed in this section only apply to the extent that advisers have not already exercised the exemption options provided to them under the baseline due to anyinconsistencies between the FAST Act and the Advisers Act rules, and we do not expect the magnitude of these effects to be significant.
+
+Changes in the costs of advising both SBIC and non-SBIC private funds, as described above, could have several competitive effects. First, to the extent that non-SBIC private fund advisers find it profitable to enter the market for SBICs under the amendments, the amendments might increase competition in that market, resulting in reduced profits for SBIC advisers and lower advisory fees for their SBICs and their investors. Similarly, to the extent that SBIC advisers find it profitable to enter the non-SBIC private fund advisory market, the amendments might increase competition in that market, resulting in reduced profits for non-SBIC private fund advisers and lower advisory fees for their non-SBIC private funds and their investors. Whether the amendments result in such a reallocation of advisory services depends on whether advisers find it profitable to expand operations into new markets and whether they can do so without changing the quality or quantity of services in current markets. While we cannot precisely estimate the relative likelihood of the above competitive effects, the fact that the market for SBIC advisers is an order of magnitude smaller than the market for non-SBIC private fund advisers suggests that non-SBIC private fund advisers are more likely to have benefitted from expanding into the SBIC market following the FAST Act’s enactment, thereby increasing the amount of competition in that market. As discussed above, it is likely that most advisers would have already exercised this option under the baseline if it was in their economic interest to do so. Therefore, the competitive effects of the amendments are not likely to be significant.
+
+Any relative shift of advisory talent from one segment of the market to another could also have effects on efficiency and capital formation. To the extent that advisers who expand intonew markets as a result of the amendments possess skill in identifying investment opportunities, an increase in the supply of advisers in the SBIC or non-SBIC private fund markets, or both, could result in more efficient investment decisions and market prices that more accurately reflect the fundamental value of assets where applicable. Also, any increase in the number of advisers in the SBIC market could make more capital available to small businesses if the increased supply of SBIC advisers attracts more capital to that market. In addition, to the extent that there are economies of scale in the provision of advisory services, advisory services may be provided at lower aggregate cost if the amendments result in an expansion of advisers in either the SBIC or non-SBIC private fund market. To the extent that the amendments result in reduced transparency into advisers because they opt to switch from registered to exempt reporting status, and to the extent that investors rely on that transparency when making investment decisions, the amendments might cause a reduction in the efficiency of investor allocations to these advisers.
+
+Any reduction in transparency could also reduce the aggregate amount of capital managed by investment advisers if investors cannot find suitable registered investment advisers as replacements and these investors value transparency more than any benefits, such as potentially lower advisory fees, of the amendments. Finally, if the amendments increase the supply of investment advisers to SBICs and non-SBIC private funds, and these advisers attract assets that were not already invested in other markets, they may increase the aggregate amount of capital investment.
+
+<h>V. PAPERWORK REDUCTION ACT ANALYSIS</h>
+
+As discussed in the Proposing Release, we do not believe that the amendments to reflect changes made by the FAST Act make any substantive modifications to any existing collection ofinformation requirements or impose any new substantive recordkeeping or information collection requirements within the meaning of the Paperwork Reduction Act of 1995. <sup>48</sup>
+
+The amendments to reflect the changes made by the FAST Act as described in Section II above may shift the number of advisers between each class of advisers as well as include advisers solely to SBICs that take on additional non-SBIC venture capital fund or private fund clients and therefore would become exempt reporting advisers.
+
+We believe that the current burden and cost estimates for the existing collection of information requirements remain appropriate. <sup>49</sup> Thus, we believe that the amendments should not impose substantive new burdens on the overall population of respondents or affect the current overall burden estimates for the affected forms. <sup>50</sup> Accordingly, we are not revising any burden and cost estimates in connection with these amendments.
+
+<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+The Commission certified, pursuant to section 605(b) of the Regulatory Flexibility Act of 1980 <sup>51</sup> that the proposed amendments to Advisers Act rules 203( l )-1 and 203(m)-1, if adopted,would not have a significant economic impact on a substantial number of small entities. <sup>52</sup> We included this certification in Section V of the Proposing Release. Although we encouraged written comments regarding this certification, no commenters responded to this request.
+
+<h>VII. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+2 Pub. L. No. 114-94, 129 Stat. 1312 (Dec. 4, 2015).
+
+3 An SBIC is (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940): (A) a small business investment company that is licensed under the Small Business Investment Act of 1958 (“SBIA”), (B) an entity that has received from the Small Business Administration notice to proceed to qualify for a license as a small business investment company under the SBIA, which notice or license has not been revoked, or (C) an applicant that is affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that has applied for another license under the SBIA, which application remains pending. Advisers Act section 203(b)(7).
+
+4 15 U.S.C. 80b.
+
+5 Advisers Act section 203(b)(7). Although we believe that most, if not all, SBICs are private funds, we believe that very few advisers to SBICs have private fund assets under management in the United States of less than $150 million. Therefore, very few advisers to SBICs are likely to qualify for the private fund adviser exemption. See SBIC Program Overview, Small Business Administration, Office of Investment and Innovation, Data Management Branch, September 30, 2016, available at: https://(“SBIC Program Overview”).
+
+6 The term “private fund” means an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940, but for section 3(c)(1) or 3(c)(7) of that Act. Advisers Act section 202(a)(29). While we believe that most SBICs are private funds, it is possible for an SBIC to be an investment company registered with the Commission. See 13 CFR 107.115 (stating that a registered investment company is eligible to apply for an SBIC license).
+
+7 See Amendments to Investment Advisers Act Rules to Reflect Changes Made by the FAST Act, Investment Advisers Act Release No. 4697 (May 3, 2017) [82 FR 21487 (May 9, 2017)] (“Proposing Release”).
+
+8 Under section 204(a) of the Advisers Act, the Commission has the authority to require an investment adviser to maintain records and provide reports, as well as the authority to examine such adviser’s records, unless the adviser is specifically exempted from the requirement to register pursuant to Advisers Act section 203(b). Advisers Act section 203(b)(7) provides an exemption from registration for advisers solely to SBICs. Advisers Act sections 204(a) and 203(b)(7); Exemptions for Advisers to Venture Capital Funds, Private Fund Advisers With Less Than $150 Million in Assets Under Management, and Foreign Private Advisers, Investment Advisers Act Release No. 3222 (June 22, 2011) [76 FR 39646 (July 6, 2011)] (“Exemptions Release”) at footnote 5 and accompanying text.
+
+9 Under Advisers Act section 204(a), the Commission has the authority to require an investment adviser to maintain records and provide reports, as well as the authority to examine such adviser’s records, unless the adviser is specifically exempted from the requirement to register pursuant to Advisers Act section 203(b). Investment advisers that are exempt from registration in reliance on other sections of the Advisers Act, such as sections 203(l) or 203(m), are not specifically exempted from the requirement to register pursuant to section 203(b), and thus the Commission has authority under Advisers Act section 204(a) to require those advisers to maintain records and provide reports and has authority to examine such advisers’ records. Advisers Act sections 203(l)(1) and 203(m)(2). See also Exemptions Release supra footnote at footnote 5 and accompanying text. Advisers Act rule 204-4 requires an exempt reporting adviser to complete and file reports on Form ADV by following the instructions in the Form, which specify the information that an exempt reporting adviser must provide. See “Frequently Asked Questions on Form ADV and IARD” available at: https://(“Form ADV FAQs”) at section entitled: Reporting to the SEC as an Exempt Reporting Adviser; Form ADV: General Instructions available at: https://(“General Instructions to Form ADV”) at Instruction 3. Further, an adviser electing to be an exempt reporting adviser with the Commission must separately evaluate the need to register in any state in which it operates. General Instructions to Form ADV at Instruction 14.
+
+10 In addition to reporting requirements, registered investment advisers are required to comply with Advisers Act rules 204-2, 204-3, 204(b)-1, 204A-1, 206(4)-1, 206(4)-2, 206(4)-3, 206(4)-6 and 206(4)-7.
+
+11 See FAST Act supra footnote See generally, FAST Act Changes Affecting Investment Advisers to Small Business Investment Companies (March 2016), available at: https:// 2016-03.pdf (“Staff Guidance”).
+
+12 Proposing Release supra footnote
+
+13 Comment letters submitted in File No. S7-05-17 are available on the Commission’s website at: https://
+
+14 See Comment Letter of Daphne K. Ross (June 7, 2017) (generally addressing the need for consumer protections), Comment Letter of Donald H. Homan (June 5, 2017) (commenting on the impact of regulations on the investment advisory industry) and Comment Letter of Thomas Garrett (June 3, 2017) (making a request that did not address the rule proposal).
+
+15 We note, however, that depending on the facts and circumstances, we may view two or more separately formed advisory entities, each of which purports to rely on a separate exemption from registration, as a single adviser for purposes of assessing the availability of exemptions from registration. For example, an adviser may not advise venture capital funds with more than $150 million in assets under management in reliance on the venture capital fund adviser exemption and also advise other types of private funds with less than $150 million in assets under management in reliance on the private fund adviser exemption. See Exemptions Release supra footnote at footnote 314, footnote 506 and accompanying text. See also In the Matter of TL Ventures Inc., Investment Advisers Act Release No. 3859 (June 20, 2014) (settled action); Advisers Act section 208(d) (prohibiting a person from doing indirectly or through or by another person, any act or thing which it would be unlawful for such person to do directly).
+
+16 Advisers Act section 203(l)(1). See Rules Implementing Amendments to the Investment Advisers Act of 1940, Investment Advisers Act Release No. 3221 (June 22, 2011) [76 FR 42950 (July 11, 2011)] (“Implementing Release”) at section II.B. Advisers Act rule 204-4 requires an exempt reporting adviser to complete and file reports on Form ADV by following the instructions in the Form, which specify the information that an exempt reporting adviser must provide. See Form ADV FAQs supra footnote at section entitled: Reporting to the SEC as an Exempt Reporting Adviser; General Instructions to Form ADV supra footnote at Instruction 4.
+
+17 Advisers Act section 203(l)(2).
+
+18 Advisers Act rule 203(l)-1(a) generally defines a “venture capital fund” as a private fund that: (i) represents to investors and potential investors that it pursues a venture capital strategy; (ii) holds no more than 20 percent of the fund’s capital commitments in assets that are not qualifying investments (other than short- term holdings); (iii) does not borrow or otherwise incur leverage in excess of 15 percent of the fund’s capital commitments, and such borrowing is for a non-renewable term of no longer than 120 days (excluding certain guarantees of qualifying portfolio company obligations by the fund from the 120 day limit); (iv) does not offer its investors redemption or certain other liquidity rights except in extraordinary circumstances; and (v) is not registered under the Investment Company Act and has not elected to be treated as a business development company. See also Advisers Act rule 203(l)-1(b) and (c).
+
+19 Advisers Act section 202(a)(29).
+
+20 Proposed amended Advisers Act rule 203(l)-1(a).
+
+21 Amended Advisers Act rule 203(l)-1(a).
+
+22 Advisers Act section 203(l)(1). See Implementing Release supra footnote at section II.B.
+
+23 Supra footnote
+
+24 Advisers Act section 203(m)(2). See Implementing Release supra footnote at section II.B. Advisers Act rule 204-4 requires an exempt reporting adviser to complete and file reports on Form ADV by following the instructions in the Form, which specify the information that an exempt reporting adviser must provide. See Form ADV FAQs supra footnote at section entitled: Reporting to the SEC as an Exempt Reporting Adviser; General Instructions to Form ADV supra footnote at Instruction 3.
+
+25 Advisers Act section 203(m)(3).
+
+26 For purpose of Advisers Act section 203(m), assets under management means the regulatory assets under management as determined under Item 5.F of Form ADV. Advisers Act rule 203(m)-1(d)(1). Instruction
+
+27 Proposed amended Advisers Act rule 203(m)-1(d)(1).
+
+28 Amended Advisers Act rule 203(m)-1(d)(1).
+
+29 Advisers Act section 203(m)(2). See Implementing Release supra footnote at section II.B.
+
+30 See supra footnotes and
+
+31 SBIC Program Overview supra footnote
+
+32 Id.
+
+33 Supra footnote 10.
+
+34 See supra footnote
+
+35 See Staff Guidance supra footnote
+
+36 Id.
+
+37 We calculate these estimates using the last Form ADV filing for each adviser in the 15 months prior to July 1, 2017. This allows us to exclude advisers that are technically still registered with the Commission but have not filed a Form ADV for their most recent fiscal year. We use the same approach in calculating statistics for exempt reporting advisers. Our estimate of assets under management excludes filings that did not report this value so it should be considered a lower bound.
+
+38 Form ADV, Part 1A, Item 2.B.(1).
+
+39 Form ADV, Part 1A, Item 2.B.(2).
+
+40 Form ADV, Schedule D, Section 2.B. We exclude filings that did not report this value from our calculation so it should be considered a lower bound. Advisers relying on the venture capital fund adviser exemption are not required to answer this question.
+
+41 See the SBIC Quarterly Report as of March, 31 2017, available at: https://
+
+42 Form ADV under the Investment Advisers Act of 1940 (Office of Management and Budget “OMB” Control No. 3235-0049) Supporting Statement at footnotes 37-42 and accompanying text. The total aggregate annual monetized burden for exempt reporting advisers is estimated to be $2,976,632 assuming there are 3,248 such advisers, resulting in an estimated cost of approximately $916 per exempt reporting adviser. Similarly, the total aggregate annual monetized burden for registered investment advisers is estimated to be
+
+43 Exempt reporting advisers that are not also registering with any state securities authority must complete only the following Items of Form ADV, Part 1A: 1, 2, 3, 6, 7, 10, and 11, as well as corresponding schedules. Exempt reporting advisers that are registering with any state securities authority must complete all of Form ADV. See Form ADV FAQs supra footnote at section entitled: Reporting to the SEC as an Exempt Reporting Adviser; General Instructions to Form ADV supra footnote at Instruction 3.
+
+44 See supra footnote The estimated annual cost of filing Form ADV as a registered investment adviser is approximately $7,437 and the estimated cost for an exempt reporting adviser is approximately $916.
+
+45 See supra footnote 10 for a more detailed list of these requirements.
+
+46 Rule 203-2 and Form ADV-W under the Investment Advisers Act of 1940 (OMB Control No. 3235-0313) Supporting Statement at footnotes 7 and 9 and accompanying text. An adviser would file full withdrawal if it was only registered with the Commission. An adviser would file a partial withdrawal if it was required to remain registered with one or more States. See Form ADV FAQs supra footnote at section entitled: Form ADV-W.
+
+47 An adviser that qualifies for one of these exemptions can still choose to register with the Commission if it has sufficient assets under management. See Exemptions Release supra footnote at footnote 24 and accompanying text.
+
+48 44 U.S.C. 3501 et seq.
+
+49 The most recent Paperwork Reduction Act analysis for Form ADV is based upon the number of registered advisers and exempt reporting advisers as of May 1, 2016. Because approximately five months had passed between the signing of the FAST Act and May 1, 2016, we believe that most of the advisers who wanted to change their registration status as a result of the FAST Act, did so in that five month period and are therefore included in the most recent Paperwork Reduction Act analysis for Form ADV. Form ADV under the Investment Advisers Act of 1940 (OMB Control No. 3235-0049).
+
+50 See Section IV above. In the Proposing Release, we requested comment on whether our belief that the amendments would not impose substantive new burdens on the overall population of respondents or affect the current over all burden estimates for the affected forms was correct. We did not receive any responses to our request for comment.
+
+51 5 U.S.C. 603(b).
+
+52 Under Commission rules, for the purposes of the Advisers Act and the Regulatory Flexibility Act, an investment adviser generally is a small entity if it: (i) has assets under management having a total value of less than $25 million; (ii) did not have total assets of $5 million or more on the last day of its most recent fiscal year; and (iii) does not control, is not controlled by, and is not under common control with another investment adviser that has assets under management of $25 million or more, or any person (other than a natural person) that had total assets of $5 million or more on the last day of its most recent fiscal year. Rule 0-7(a) (17 CFR 275.0-7(a)).

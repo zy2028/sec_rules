@@ -1,0 +1,723 @@
+https://www.sec.gov/rules/final/33-7941.htm
+
+	I.0.0.0: I. Introduction
+
+	II.0.0.0: II. Discussion
+
+		II.A.0.0: A. Required Disclosure of After-Tax Returns
+
+		II.B.0.0: B. Types of Return to Be Disclosed
+
+		II.C.0.0: C. Location of Required Disclosure
+
+		II.D.0.0: D. Format of Disclosure
+
+		II.E.0.0: E. Exemptions from the Disclosure Requirement
+
+		II.F.0.0: F. Advertisements and Other Sales Literature
+
+		II.G.0.0: G. Formulas for Computing After-Tax Return
+
+			II.G.1.0: 1. Tax Bracket
+
+			II.G.2.0: 2. Capital Gains and Losses Upon a Sale of Fund Shares
+
+			II.G.3.0: 3. Other Assumptions
+
+		II.H.0.0: H. Narrative Disclosure
+
+		II.I.0.0: I. Technical and Conforming Amendments
+
+			II.I.1.0: 1. Effective Date
+
+			II.I.2.0: 2. Compliance Date for Prospectuses
+
+			II.I.3.0: 3. Compliance Date for Advertisements and Other Sales Materials
+
+	III.0.0.0: III. Cost/Benefit Analysis
+
+		III.A.0.0: A. Benefits
+
+		III.B.0.0: B. Costs
+
+	IV.0.0.0: IV. Effects on Efficiency, Competition, and Capital Formation
+
+	V.0.0.0: V. Summary of Final Regulatory Flexibility Analysis
+
+		V.A.0.0: A. Need for the Rule and Form Amendments
+
+		V.B.0.0: B. Significant Issues Raised by Public Comment
+
+		V.C.0.0: C. Small Entities Subject to the Rule
+
+		V.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
+
+		V.E.0.0: E. Agency Action to Minimize Effects on Small Entities
+
+	VI.0.0.0: VI. Paperwork Reduction Act
+
+	VII.0.0.0: VII. Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Final Rule:
+
+Disclosure of Mutual Fund
+
+After-Tax Returns 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+17 CFR Parts 230, 239, 270, and 274 
+
+[Release Nos. 33-7941; 34-43857; IC-24832; File No. S7-09-00] 
+
+RIN 3235-AH77
+
+Disclosure of Mutual Fund After-Tax Returns 
+
+AGENCY: Securities and Exchange Commission
+
+ACTION: Final rule
+
+ SUMMARY: The Securities and Exchange Commission is adopting rule and form amendments under the Securities Act of 1933 and the Investment Company Act of 1940 to improve disclosure to investors of the effect of taxes on the performance of open-end management investment companies ("mutual funds" or "funds"). These amendments require mutual funds to disclose in their prospectuses after-tax returns based on standardized formulas comparable to the formula currently used to calculate before-tax average annual total returns. The amendments also require certain funds to include standardized after-tax returns in advertisements and other sales materials. Disclosure of standardized mutual fund after-tax returns will help investors to understand the magnitude of tax costs and compare the impact of taxes on the performance of different funds. 
+
+ EFFECTIVE DATE: April 16, 2001. Section II. J. of this release contains information on compliance dates.
+
+ FOR FURTHER INFORMATION CONTACT: Vincent J. Di Stefano, Senior Counsel, Peter M. Hong, Special Counsel, Martha B. Peterson, Special Counsel, or Kimberly Dopkin Rasevic, Assistant Director, (202) 942-0721, Office of Disclosure Regulation, Division of Investment Management, Securities and Exchange Commission, 450 5th Street, N.W., Washington, D.C. 20549-0506.
+
+ SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") is adopting amendments to Form N-1A [17 CFR 239.15A and 274.11A], the registration form used by mutual funds to register under the Investment Company Act of 1940 [15 U.S.C. 80a-1 et seq .] ("Investment Company Act" or "Act") and to offer their shares under the Securities Act of 1933 [15 U.S.C. 77a et seq .] ("Securities Act"). The Commission also is adopting amendments to rule 482 under the Securities Act [17 CFR 230.482] and rule 34b-1 under the Investment Company Act [17 CFR 270.34b-1].
+
+<END HEADER>
+
+<h>I. Introduction </h>
+
+We are adopting rule and form amendments that require a mutual fund to disclose after-tax returns.<SUP> 1 </SUP> Taxes are one of the most significant costs of investing in mutual funds through taxable accounts. In 1999, mutual funds distributed approximately $238 billion in capital gains and $159 billion in taxable dividends.<SUP> 2 </SUP> Shareholders investing in stock and bond funds paid an estimated $39 billion in taxes in 1998 on distributions by their funds.<SUP> 3 </SUP> Recent estimates suggest that more than two and one-half percentage points of the average stock fund's total return is lost each year to taxes.<SUP> 4 </SUP> Moreover, it is estimated that, between 1994 and 1999, investors in diversified U.S. stock funds surrendered an average of 15 percent of their annual gains to taxes.<SUP> 5 </SUP>
+
+Despite the tax dollars at stake, many investors lack a clear understanding of the impact of taxes on their mutual fund investments.<SUP> 6 </SUP> Generally, a mutual fund shareholder is taxed when he or she receives income or capital gains distributions from the fund and when the shareholder redeems fund shares at a gain.<SUP> 7 </SUP> The tax consequences of distributions are a particular source of surprise to many investors when they discover that they can owe substantial taxes on their mutual fund investments that appear to be unrelated to the performance of the fund. Even if the value of a fund has declined during the year, a shareholder can owe taxes on capital gains distributions if the portfolio manager sold some of the fund's underlying portfolio securities at a gain.<SUP> 8 </SUP> 
+
+The tax impact of mutual funds on investors can vary significantly from fund to fund. For example, the amount and character of a fund's taxable distributions are affected by its investment strategies, including the extent of a fund's investments in securities that generate dividend and other current income, the rate of portfolio turnover and the extent to which portfolio trading results in realized gains, and the degree to which portfolio losses are used to offset realized gains. One recent study reported that the annual impact of taxes on the performance of stock funds varied from zero, for the most tax-efficient funds, to 5.6 percentage points, for the least tax-efficient.<SUP> 9 </SUP> While the tax-efficiency of a mutual fund is of little consequence to investors in 401(k) plans or other tax-deferred vehicles, it can be very important to an investor in a taxable account, particularly a long-term investor whose tax position may be significantly enhanced by minimizing current distributions of income and capital gains.
+
+Recently, there have been increasing calls for improvement in the disclosure of the tax consequences of mutual fund investments. Mutual funds, as well as third party providers that furnish information to mutual fund shareholders, are responding to this growing investor demand by providing after-tax returns, calculators that investors can use to compute after-tax returns, and other tax information.<SUP> 10 </SUP> In addition, several fund groups have created new funds promoting the use of more tax-efficient portfolio management strategies.<SUP> 11 </SUP> Moreover, in April 2000, a bill that would require the Commission to revise its regulations to require improved disclosure of mutual fund after-tax returns was passed by the U.S. House of Representatives and referred to the Senate.<SUP> 12 </SUP> Many press commenters also have highlighted the need for improvements in mutual fund tax disclosure.<SUP> 13 </SUP> 
+
+ 
+
+Currently, the Commission requires mutual funds to disclose significant information about taxes to investors.<SUP> 14 </SUP> While we believe that this disclosure is useful, we are persuaded that funds can more effectively communicate to investors the tax consequences of investing. As a result, last March we proposed for public comment amendments to our rules and to Form N-1A, the registration form for mutual funds, that would require disclosure of standardized mutual fund after-tax returns.<SUP> 15 </SUP>
+
+Today we adopt rule and form amendments that require a fund to disclose its standardized after-tax returns for 1-, 5-, and 10-year periods. After-tax returns, which will accompany before-tax returns in fund prospectuses, will be presented in two ways: (i) after taxes on fund distributions only; and (ii) after taxes on fund distributions and a redemption of fund shares. Although after-tax returns will not generally be required in fund advertisements and sales literature, any fund that either includes after-tax returns in these materials or includes other performance information together with representations that the fund is managed to limit taxes will be required to include after-tax returns computed according to our standardized formulas.
+
+While the Commission recognizes that a significant amount of mutual fund assets are held through tax-deferred arrangements, such as 401(k) plans or individual retirement accounts ("IRAs"), almost forty percent of non-money market fund assets held by individuals are held in taxable accounts.<SUP> 16 </SUP> We are concerned that the millions of mutual fund investors who are subject to current taxation may not fully appreciate the impact of taxes on their fund investments because mutual funds are required to report their performance on a before-tax basis only.<SUP> 17 </SUP> Although performance is only one of many factors that an investor should consider in deciding whether to invest in a particular fund, many investors consider performance one of the most significant factors when selecting or evaluating a fund.<SUP> 18 </SUP> As a result, we believe it would be beneficial for funds to provide their after-tax performance in order to allow investors to make better-informed decisions.
+
+This is the latest Commission action in our continuing effort to improve fund disclosure of costs. Since 1988, we have required mutual funds to include a uniform fee table in the prospectus.<SUP> 19 </SUP> More recently, we have increased our efforts to educate investors about mutual fund costs and how those costs affect performance.<SUP> 20 </SUP> In 1999, we introduced a "Mutual Fund Cost Calculator" to assist investors in determining how fund fees and charges affect their mutual fund returns.<SUP> 21 </SUP> Moreover, we are currently considering recommendations made in separate reports by the United States General Accounting Office and the Commission's Division of Investment Management on ways to improve fund disclosure of fees and costs.<SUP> 22 </SUP> 
+
+ 
+
+The amendments we adopt today represent another significant step in these efforts. Taxes are one of the largest costs associated with a mutual fund investment, having a dramatic impact on the return an investor realizes from a fund. Disclosure of standardized mutual fund after-tax returns will help investors to understand the magnitude of tax costs and compare the impact of taxes on the performance of different funds.<h>II. Discussion </h>
+
+The Commission received 235 letters commenting on the Proposing Release.<SUP> 23 </SUP> One hundred ninety-five of the letters were from individual investors or investor advocacy groups. The individual investors and investor advocacy groups overwhelmingly supported the Commission's proposal to require disclosure of after-tax returns. The remaining 40 letters were from industry participants, who were divided in their views. Many generally supported the proposal, while expressing concerns regarding specific disclosure requirements. Others opposed the proposal. Many commenters offered recommendations for improving portions of the proposal. The Commission is adopting the proposed rule and form amendments with the modifications described below that address commenters' concerns.<h>A. Required Disclosure of After-Tax Returns </h>
+
+The Commission is adopting, with modifications, the requirement that mutual funds disclose after-tax return, a measure of a fund's performance adjusted to reflect taxes that would be paid by an investor in the fund. As discussed more fully below, funds will be required to include after-tax return information in the risk/return summary of the prospectus.<SUP> 24 </SUP> Funds will not generally be required to include after-tax returns in advertisements or other sales materials. Funds will, however, be required to include after-tax returns computed according to a standardized formula in sales materials that either include after-tax returns or include any other performance information together with representations that the fund is managed to limit taxes.<SUP> 25 </SUP> 
+
+ 
+
+Individual commenters overwhelmingly supported the required disclosure of after-tax returns. Many of these individuals stated that after-tax returns would help them compare funds and make better-informed investment decisions. Industry comments, however, were mixed regarding whether funds should be required to disclose this information. Industry commenters supporting after-tax return disclosure noted that the disclosure would give investors a clearer understanding of fund performance and assist them in evaluating the impact of taxes on the performance of various funds. Industry commenters opposing after-tax return disclosure argued, among other things, that the disclosure would overwhelm investors, be irrelevant to investors in tax-deferred accounts such as 401(k) plans, be inaccurate because the returns are not tailored to individual investors' specific tax situation, place funds at a competitive disadvantage, and be unduly burdensome to compute. A few of these commenters suggested that, instead of requiring the disclosure of after-tax returns, the Commission should encourage the development of web-based personalized after-tax return calculators. 
+
+After careful consideration of these comments, we continue to believe that requiring funds to provide standardized after-tax returns will be beneficial to investors, allowing them to make better-informed investment decisions. We believe that after-tax return disclosure is useful to, and understandable by, investors, as evidenced by the overwhelming support of individual commenters. Moreover, in recognition of the fact that after-tax returns would not be relevant for investors who hold fund shares through tax-deferred arrangements, we are requiring that after-tax returns be accompanied by narrative disclosure to that effect, and we are exempting prospectuses used exclusively to offer fund shares as investment options for tax-deferred arrangements from the after-tax return disclosure requirement.<SUP> 26 </SUP> 
+
+We recognize that the computation of after-tax return depends on assumed tax rates, which vary from investor to investor. Standardized after-tax returns will, however, serve as useful guides to understanding the effect of taxes on a fund's performance and allow investors to compare funds' after-tax returns. The presentation of standardized after-tax returns, coupled with the presentation of before-tax returns, will provide investors with a more complete and accurate picture of a fund's performance than before-tax returns standing alone.
+
+We strongly encourage funds to develop web-based calculators and other tools that investors may use to compute their individualized after-tax return for a fund. This information will be very useful to investors in assessing how a particular fund has performed for them. We believe, however, that after-tax returns should be made available to all investors, not only to those who have the ability to access and use these web-based programs. In addition, personalized after-tax calculators often do not facilitate ready comparisons of different funds' after-tax performance.
+
+We do not believe that requiring funds to disclose after-tax returns will place them at a competitive disadvantage vis-à-vis other investments. Investors choose funds over other investment products because they offer advantages unavailable with most other investment products, e.g., access to professional portfolio management and diversification with a relatively small investment. In addition, we are exempting money market funds from the after-tax return disclosure requirement, in part because of our concern that they would be disadvantaged vis-à-vis very similar, competing products.
+
+Finally, we believe that the burden to funds of computing and disclosing after-tax returns is justified by the benefits to investors from receiving this information. While we acknowledge that funds will incur a one-time cost to modify their systems to compute after-tax returns, the computation thereafter should be straightforward to perform using readily available data.<h>B. Types of Return to Be Disclosed </h>
+
+As proposed, funds will be required to calculate after-tax returns using a standardized formula similar to the formula presently used to calculate before-tax average annual total return.<SUP> 27 </SUP> We proposed to require funds to disclose after-tax return for 1-, 5-, and 10-year periods on both a "pre-liquidation" and "post-liquidation" basis, and we are adopting that requirement. Pre-liquidation after-tax return assumes that the investor continued to hold fund shares at the end of the measurement period, and, as a result, reflects the effect of taxable distributions by a fund to its shareholders but not any taxable gain or loss that would have been realized by a shareholder upon the sale of fund shares.<SUP> 28 </SUP> Post-liquidation after-tax return assumes that the investor sold his or her fund shares at the end of the measurement period, and, as a result, reflects the effect of both taxable distributions by a fund to its shareholders and any taxable gain or loss realized by the shareholder upon the sale of fund shares.<SUP> 29 </SUP> Pre-liquidation after-tax return reflects the tax effects on shareholders of the portfolio manager's purchases and sales of portfolio securities, while post-liquidation after-tax return also reflects the tax effects of a shareholder's individual decision to sell fund shares. 
+
+Most commenters addressing the issue of whether we should require pre- and post-liquidation after-tax returns supported disclosure of both types of after-tax returns. A few commenters argued that pre-liquidation after-tax return should be eliminated because the addition of another performance figure could overwhelm and confuse investors and, if provided without post-liquidation after-tax return, would tend to suggest to shareholders that taxation could be deferred indefinitely. A few commenters recommended that only pre-liquidation after-tax returns be required because post-liquidation returns reflect the action of a specific shareholder ( i.e., the decision to sell fund shares), rather than the tax-efficiency of the fund's portfolio management. 
+
+The Commission is adopting, as proposed, the requirement that funds present both pre- and post-liquidation after-tax returns in order to provide investors with a more complete understanding of the impact of taxes on a fund's performance.<SUP> 30 </SUP> We believe that pre-liquidation after-tax return is important because it provides information about the tax-efficiency of portfolio management decisions. We also believe, however, that it is important for shareholders, many of whom hold shares for a relatively brief period, to understand the full impact that taxes have on a mutual fund investment that has been sold.<SUP> 31 </SUP>
+
+In response to commenters' concerns about investor confusion, we are streamlining the returns required to be disclosed. Most commenters recommended that we revise the proposed pre-liquidation after-tax return figure to deduct fees and charges payable upon a redemption of fund shares, such as sales charges or redemption fees. This would make the pre-liquidation after-tax return figure comparable to currently required standardized before-tax returns, which also deduct fees and charges payable upon sale, and would result in comparable disclosure by funds that impose sales charges upon purchase and those that impose sales charges upon redemption.<SUP> 32 </SUP> Commenters also argued that this modification would eliminate the need for the proposed pre-liquidation before-tax return figure with no deduction of fees and charges payable upon sale, thereby simplifying the presentation of before- and after-tax returns. 
+
+We agree and have eliminated pre-liquidation before-tax returns. This will result in three, rather than four, types of return, all of which are net of all fees and charges: before-tax return; return after taxes on distributions (pre-liquidation); and return after taxes on distributions and redemption (post-liquidation).<SUP> 33 </SUP> To address concerns that investors could be confused by a pre-liquidation after-tax return measure that assumes no sale of fund shares for purposes of computing tax consequences but nonetheless reflects fees and charges payable upon a sale of fund shares, we have modified the captions in the performance table to focus investor attention on the taxes that are deducted, rather than whether or not the shareholder held or sold his shares.<SUP> 34 </SUP><h>C. Location of Required Disclosure </h>
+
+We are requiring, as proposed, that funds disclose after-tax returns in the performance table contained in the risk/return summary of the prospectus.<SUP> 35 </SUP> The amendments also will have the effect of requiring that after-tax returns be included in any fund profile because a profile must include the prospectus risk/return summary.<SUP> 36 </SUP> We proposed, but are not adopting, a requirement that after-tax returns be included in Management's Discussion of Fund Performance ("MDFP"), which is typically contained in the annual report.<SUP> 37 </SUP> Funds will, however, be required to state in the MDFP that the performance table and graph do not reflect the deduction of taxes that a shareholder would pay on fund distributions or the redemption of fund shares.<SUP> 38 </SUP>
+
+We are requiring that after-tax returns be included in the prospectus and profile because, for the overwhelming majority of prospective investors who base their investment decision, in part, on past performance, after-tax returns can be useful in understanding past performance.<SUP> 39 </SUP> Most commenters that addressed the issue of the appropriate location for after-tax return disclosure supported requiring disclosure of after-tax returns in fund prospectuses. 
+
+Several commenters recommended that after-tax returns not be included in fund profiles. Commenters were concerned that the length and complexity of the disclosure could overwhelm the remaining information in the profile, defeating the purpose of the summary disclosure document. We continue to believe, however, that after-tax returns should be included in the fund profile because of the importance of past performance in many investors' investment decisions. We have, however, addressed the concerns expressed by commenters by simplifying the presentation of required after-tax returns.<SUP> 40 </SUP> 
+
+Some commenters supported inclusion of after-tax returns in the risk/return summary, but others recommended that after-tax returns be disclosed in the section of the prospectus describing the tax consequences to investors of buying, holding, exchanging, and selling fund shares.<SUP> 41 </SUP> These commenters argued that the required disclosure is too lengthy and technical for inclusion in the risk/return summary. We believe that it is critical that after-tax returns be disclosed in the same location as before-tax returns, so that after-tax returns will be easy for investors to find and compare with before-tax returns. Therefore, we are adopting, as proposed, the requirement that after-tax returns be presented in the risk/return summary. In addition, in response to commenters' concerns that the proposed disclosure would be too lengthy or complex for inclusion in the risk/return summary, we have simplified the presentation of returns in the table, as well as the accompanying narrative.<SUP> 42 </SUP> 
+
+We have decided not to require funds to include after-tax returns in the MDFP, which is typically contained in the annual report. Many commenters who addressed the issue of the appropriate location for disclosing after-tax returns recommended that after-tax returns not be included in the MDFP. As commenters observed, existing shareholders already receive detailed information that allows them to determine the tax impact of their investment in the fund.<SUP> 43 </SUP> They also typically receive on an annual basis an updated prospectus that will contain after-tax performance information.<SUP> 44 </SUP> Moreover, commenters pointed out that, because after-tax returns in the MDFP would have been calculated on a fiscal year basis, they would not be comparable from fund to fund, and use of fiscal year results could enable funds to time distributions in order to artificially enhance after-tax returns. We have therefore decided not to require disclosure of after-tax returns in the MDFP. 
+
+We are concerned, however, that investors may be confused about whether the returns included in the performance table and graph in the MDFP have been calculated on a before- or after-tax basis. Therefore, funds will be required to include a statement in the MDFP that accompanies the performance table and graph to the effect that the returns shown do not reflect the deduction of taxes that a shareholder would pay on fund distributions or the redemption of fund shares.<SUP> 45 </SUP><h>D. Format of Disclosure </h>
+
+We are requiring, as proposed, that before and after-tax returns be presented in a standardized tabular format. Consistent with the modifications to the types of returns required, funds must present before- and after-tax returns as follows:<SUP> 46 </SUP> 
+
+ 
+
+ AVERAGE ANNUAL TOTAL RETURNS 
+
+ (For the periods 
+
+ ended December 31, _____) 1 year 
+
+ 5 years 
+
+ [or Life of Fund] 
+
+ 10 years 
+
+ [or Life of Fund] 
+
+ Return Before Taxes ___% 
+
+ ___% 
+
+ ___% 
+
+ Return After Taxes on 
+
+Distributions 
+
+ ___% ___% ___% Return After Taxes on 
+
+Distributions and Sale 
+
+of Fund Shares ___% ___% ___% Index 
+
+ (reflects no deduction for [fees,
+
+expenses, or taxes]) ___% ___% ___% 
+
+Before- and after-tax returns must be presented in the order specified, using the captions provided by Form N-1A. When more than one fund or series is offered in a prospectus, the before- and after-tax returns of each fund or series must be adjacent to one another. A prospectus may not, for example, present the before-tax returns for all funds, followed by the after-tax returns for all funds.<SUP> 47 </SUP> We believe that this presentation will help investors to compare funds and to understand the differences among the different measures of return for any particular fund. 
+
+We have modified the captions in the performance table to focus investor attention on the taxes that are deducted, rather than whether or not the shareholder held or sold his shares. We have also modified the captions to clarify that returns are shown for the life of the fund, if shorter than the 5- or 10-year measurement periods, and that the language following the caption for the index may be modified, as appropriate, to be consistent with the index selected by the fund. 
+
+We have also simplified the presentation for funds that offer multiple classes of a fund in a single prospectus. We were persuaded by several commenters who argued that requiring after-tax returns for all classes of a fund, as proposed, could result in overwhelming or confusing disclosure to investors, and that, with the exception of expense ratio differences, which affect the level of dividend distributions, the tax burden of the various share classes will be similar. We have modified the amendments to require that a fund offering multiple classes in a single prospectus present the after-tax returns of only one class.<SUP> 48 </SUP> The class selected must be offered to investors who hold their shares through taxable accounts and have returns for at least 10 years, or, if no such class has 10 years of return, be the class with the returns for the longest period. 
+
+A fund that offers multiple classes in a single prospectus must explain in the narrative that accompanies the performance table that the after-tax returns are for only one class offered by the prospectus and that the after-tax returns for other classes will vary.<SUP> 49 </SUP> In addition, in order to facilitate comparisons among the returns shown, after-tax returns for the one class presented must be adjacent to the before-tax returns for that class and not interspersed with the before-tax returns of the other classes, returns of other funds, or with the return of the broad-based securities market index.<SUP> 50 </SUP> The return of the broad-based securities index may either precede or follow the returns for the fund.<SUP> 51 </SUP><h>E. Exemptions from the Disclosure Requirement </h>
+
+We are exempting money market funds from the requirement to disclose after-tax returns, as proposed.<SUP> 52 </SUP> We are also adopting, with modifications, our proposal to permit a fund to omit the after-tax return information in a prospectus used exclusively to offer fund shares as investment options for defined contribution plans and similar arrangements.<SUP> 53 </SUP> 
+
+Specifically, we are permitting a fund to omit the after-tax return information in a prospectus used exclusively to offer fund shares as investment options to one or more of the following:
+
+ 
+
+ a defined contribution plan that meets the requirements for qualification under section 401(k) of the Internal Revenue Code ("Code"); 
+
+ a tax-deferred arrangement under section 403(b) or 457 of the Code; 
+
+ a variable contract as defined in section 817(d) of the Code; 
+
+ a similar plan or arrangement pursuant to which an investor is not taxed on his or her investment in the fund until the investment is sold;<SUP> 54 </SUP> or 
+
+ entities that are not subject to the individual federal income tax. 
+
+The proposed after-tax return information would largely be irrelevant in these circumstances because the affected investors either are not subject to current taxation on fund distributions or are not subject to current taxation at the individual federal income tax rates, and their tax consequences on a sale of fund shares are different from those experienced by individual investors in taxable accounts.<SUP> 55 </SUP> 
+
+In response to the recommendations of several commenters, we have expanded the exemption to include prospectuses used to offer fund shares to entities that are not subject to individual taxation ( e.g., tax-exempt foundations, colleges, and corporations). We agree that the after-tax return information is not relevant to these investors. A fund may not, however, rely on this exemption if the prospectus is used indirectly to offer shares to persons that are subject to individual taxation, such as an offer to a partnership whose individual partners are taxed on a pass-through basis.<SUP> 56 </SUP> 
+
+ 
+
+The Commission carefully considered whether to exclude bond funds, generally, or tax-exempt funds, specifically, from the requirement to disclose after-tax returns. A number of commenters argued that bond funds should be exempt from disclosing after-tax returns because investors in bond funds are generally aware of the tax consequences of investing in these funds, the funds do not usually make unexpected distributions of capital gains, and the funds are bought for their yield and not their growth potential. Other commenters argued that bond funds should not be exempt because such funds may have significant capital gains or losses in volatile markets, certain types of bond funds commonly realize significant capital gains, and some managers of bond funds seek to avoid making capital gains distributions by using various tax management strategies. 
+
+Having considered the views expressed by commenters, we have decided not to exempt bond funds from disclosing after-tax returns. While investors may more readily understand the tax impact of owning a bond fund that makes few, if any, capital gains distributions, than the tax impact of owning other funds, bond funds may have significant capital gains or losses, and we believe that it is important for after-tax return information to be available to their shareholders. 
+
+Similarly, while most, if not all, income distributed by a tax-exempt mutual fund generally will be tax-exempt, a tax-exempt mutual fund may also make capital gains distributions that are taxable and an investor is taxed on gains from the sale of fund shares.<SUP> 57 </SUP> As a result, the performance of a tax-exempt fund may be affected by taxes, and taxes may have a greater or lesser impact on different tax-exempt funds. Therefore, we have decided not to exempt tax-exempt funds from the required disclosure.<SUP> 58 </SUP><h>F. Advertisements and Other Sales Literature </h>
+
+We are adopting, with modifications, amendments that require certain fund advertisements and sales literature to include after-tax performance that is calculated according to the standardized formulas prescribed in Form N-1A for computation of after-tax returns in the risk/return summary. As proposed, all fund advertisements and sales literature that include after-tax performance information will be required to include after-tax returns computed according to the standardized formulas.<SUP> 59 </SUP> Any quotation of non-standardized after-tax return also will be subject to the same conditions currently applicable to quotations of non-standardized performance that are included in fund advertisements and sales literature.<SUP> 60 </SUP> Requiring advertisements and sales literature that include after-tax performance information to include standardized after-tax returns will help to prevent misleading advertisements and sales literature and permit shareholders to compare claims about after-tax performance. 
+
+Commenters generally supported the proposal to require fund advertisements and sales literature that include after-tax performance information to include standardized after-tax returns, but several commenters recommended that we extend the requirement to advertisements and sales literature that claim that a fund is "tax-managed" or "tax-efficient" and that include any performance information. As noted by one commenter, a fund advertising 20 percent before-tax return and claiming 100 percent tax-efficiency could have significant unrealized gains that would result in tax liabilities when a shareholder redeems his or her shares. We are persuaded that, to help prevent such tax-efficiency claims from being misleading, such advertisements should include standardized after-tax returns, which will help an investor to assess the tax-efficiency of the fund more accurately. Therefore, we have modified the proposal to require the inclusion of standardized after-tax returns in any advertisement or sales literature that includes a quotation of performance and that represents or implies that the fund is managed to limit or control the effect of taxes on performance.<SUP> 61 </SUP> 
+
+This requirement does not apply to advertisements or sales literature for a fund that is eligible to use a name suggesting that the fund's distributions are exempt from federal income tax or from both federal and state income tax under our recently-adopted fund names rule.<SUP> 62 </SUP> Because these funds meet the strict standards of the names rule, we have concluded that the additional requirement for including standardized after-tax returns in advertisements or sales literature should not apply to them unless they voluntarily choose to include after-tax performance information. 
+
+One commenter recommended that we prohibit funds from publishing after-tax returns for periods of less than one year. The commenter argued that this would prevent funds from reporting year-to-date after-tax returns just before a large taxable distribution, wrongly suggesting to shareholders that the fund had been tax-efficient. While we have decided not to prohibit funds from publishing after-tax returns for periods of less than one year in all cases, we remind funds that sales materials are subject to the antifraud provisions of the federal securities laws and that compliance with the terms of rule 482 under the Securities Act or rule 34b-1 under the Investment Company Act is not a safe harbor from liability for fraud.<SUP> 63 </SUP> Therefore, any fund that publishes after-tax returns for periods shorter than one year should be extremely careful to ensure that the returns are not materially misleading, e.g., because the returns incorrectly suggest that a fund has been more tax-efficient than has, in fact, been the case.<h>G. Formulas for Computing After-Tax Return </h>
+
+We are adopting, with the modifications discussed below, the requirement that funds compute after-tax returns using standardized formulas that are based largely on the current standardized formula for computing before-tax average annual total return.<SUP> 64 </SUP> After-tax returns will be computed assuming a hypothetical $1,000 one-time initial investment and the deduction of the maximum sales load and other charges from the initial $1,000 payment.<SUP> 65 </SUP> Also, after-tax returns will be calculated for 1-, 5-, and 10-year periods.<SUP> 66 </SUP><h>1. Tax Bracket </h>
+
+ 
+
+We are requiring, as proposed, that standardized after-tax returns be calculated assuming that distributions by the fund and gains on a sale of fund shares are taxed at the highest applicable individual federal income tax rate.<SUP> 67 </SUP> Comment was divided on this issue. Some commenters supported the highest tax rate as providing investors with the full range of historical after-tax returns, as well as being the simplest rate to use to compute after-tax returns. Other commenters, however, recommended that we require funds to calculate after-tax returns using an intermediate tax rate in addition to, or in lieu of, the highest tax rate. These commenters observed that the typical mutual fund investor is not in the highest tax bracket, and argued that after-tax returns calculated using tax rates to which the typical mutual fund investor is subject would be more useful. 
+
+After careful consideration of these comments, we continue to believe that it is most appropriate to use the highest tax rate, rather than an intermediate rate. Computing after-tax returns with maximum tax rates will provide investors with the "worst-case" federal income tax scenario. Coupled with before-tax return, which reflects the imposition of taxes at a 0 percent rate, this "worst-case" scenario will effectively provide investors with the full range of historical after-tax returns. We believe that providing the full range of federal income tax outcomes provides investors the most complete information.
+
+In addition, we concluded that any benefits of using an intermediate tax rate would be outweighed by the complexity of determining the appropriate intermediate rate from one year to the next as tax rates and the income of a typical mutual fund investor change. Most of the commenters who recommended that after-tax returns be calculated using an intermediate rate suggested that we either use a specific rate ( e.g., 28 percent) or select a specific income level ( e.g., $55,000) that would be used to identify the appropriate tax rate. If we were to adopt either of these approaches, we would be required to make ongoing modifications to respond to changes in tax rates and income levels. One commenter suggested that we determine the intermediate rate by reference to the median United States household income reported by the U.S. Census Bureau. This approach would be predicated on assumptions about the "typical" mutual fund investor and the past, present, and future income of that investor. 
+
+In any case, a requirement that funds calculate after-tax returns using an intermediate rate would effectively require that we continually monitor the changing demographics of mutual fund investors, as well as changing tax laws, and update our rules accordingly. The use of an intermediate rate also would require that funds include complex narrative disclosure in the risk/return summary about how the intermediate rate had been selected or what intermediate rate had been used from year to year.<SUP> 68 </SUP> 
+
+While we are not adopting a requirement that funds calculate after-tax returns using an intermediate rate, we encourage funds to provide their investors with additional information that is tailored to a particular fund's typical investor, or to make available to investors after-tax returns calculated using multiple tax rate assumptions. Funds can supply this information in a variety of ways ( e.g., calculators on their websites or disclosure elsewhere in the prospectus of returns calculated based on different tax rate assumptions).<h>2. Capital Gains and Losses Upon a Sale of Fund Shares </h>
+
+We are adopting, substantially as proposed, amendments requiring that return, after taxes on distributions and redemption, be computed assuming a complete sale of fund shares at the end of the 1-, 5-, or 10-year measurement period, resulting in capital gains taxes or a tax benefit from any resulting capital losses.<SUP> 69 </SUP> As proposed, a fund will be required to track the actual holding periods of reinvested distributions and may not assume that they have the same holding period as the initial $1,000 investment.<SUP> 70 </SUP> We have made technical changes to clarify that applicable federal tax law should be used to determine whether and how gains and losses from the sale of shares with different holding periods should be netted, as well as the tax character ( e.g., short-term or long-term) of any resulting gains or losses.<SUP> 71 </SUP> 
+
+Several commenters suggested that we permit funds to calculate taxes on gains realized upon a sale of shares at the end of the one-year period ( i.e., short-term capital gains) as if the shares had been held for one year and one day ( i.e., long-term capital gains).<SUP> 72 </SUP> These commenters argued that a reasonable shareholder would hold the shares for the extra day in order to qualify for the more advantageous tax treatment, and that it is inappropriate to assume that shares would be sold at the end of the one-year period. We are not modifying the proposal to reflect this comment. A shareholder who redeems his or her shares at any time during the one-year period is subject to taxation of gains at short-term rates. We believe that it is important for the after-tax return calculation to accurately reflect the fact that redeeming shares within the one-year period may have significant adverse tax consequences. In addition, we are providing that the tax consequences of a sale of fund shares should be determined in accordance with applicable federal tax law on the redemption date. If we were, instead, to prescribe a special rule for one-year returns, we would have to reevaluate this special rule in light of subsequent changes in tax law, such as increases to the holding period required for long-term gain treatment. 
+
+A number of commenters suggested other modifications to the proposal regarding the tracking of holding periods, such as treating the holding period of all reinvested distributions as beginning on the date of the original investment, and treating all gains on redemption as qualifying for long-term capital gains treatment. We are not adopting these recommended modifications, each of which would have the effect of reclassifying short-term gains as long-term gains, as they would minimize the impact of short-term gains on fund returns, in a manner inconsistent with federal tax law. One of our purposes in requiring the disclosure of after-tax returns is to provide investors with information about the differential impact that taxes have on the before-tax returns of various funds, and we believe that ignoring the effect of short-term gains would tend to minimize these differences inappropriately.<h>3. Other Assumptions </h>
+
+Commenters generally supported the other assumptions that the Commission proposed to require in the computation of after-tax returns, and we are adopting those requirements as proposed. Specifically, after-tax returns:
+
+ 
+
+ Will be calculated using historical tax rates;<SUP> 73 </SUP> 
+
+ Will be based on calendar-year periods, consistent with the before-tax return disclosure that currently appears in the risk/return summary;<SUP> 74 </SUP> 
+
+ Will exclude state and local tax liability;<SUP> 75 </SUP> 
+
+ Will not take into account the effect of either the alternative minimum tax or phaseouts of certain tax credits, exemptions, and deductions for taxpayers whose adjusted gross income is above a specified amount;<SUP> 76 </SUP> 
+
+ Will assume that any taxes due on a distribution are paid out of that distribution at the time the distribution is reinvested and reduce the amount reinvested;<SUP> 77 </SUP> and 
+
+ Will be calculated assuming that the taxable amount and tax character ( e.g., ordinary income, short-term capital gain, long-term capital gain) of each distribution are as specified by the fund on the dividend declaration date, adjusted to reflect subsequent recharacterizations.<SUP> 78 </SUP> 
+
+ Tax Treatment of Distributions 
+
+ 
+
+As proposed, we are not specifying in detail the tax consequences of fund distributions. Funds generally should determine the tax consequences of distributions by applying the tax law in effect on the date the distribution is reinvested. However, because a number of commenters expressed concern about whether a fund that has elected to pass through foreign tax credits to its shareholders may reflect the foreign tax credit in after-tax returns, we are providing that the effect of applicable tax credits, such as the foreign tax credit, should be taken into account in accordance with federal tax law.<SUP> 79 </SUP><h>H. Narrative Disclosure </h>
+
+We are adopting, with modifications, the requirement that funds include a short, explanatory narrative adjacent to the performance table in the risk/return summary.<SUP> 80 </SUP> This is intended to facilitate investor understanding of the table. We are not mandating specific language for the narrative, but it must be in plain English.<SUP> 81 </SUP> 
+
+Commenters generally agreed that the proposed narrative disclosure would help investors understand information in the performance table. Several commenters, however, recommended streamlining the narrative by combining some of the proposed items with the narrative currently required for before-tax returns and by eliminating technical items unnecessary for investor understanding of performance information. We agree and have modified the narrative disclosure to require the following information:<SUP> 82 </SUP> 
+
+ 
+
+ After-tax returns are calculated using the historical highest individual federal marginal income tax rates, and do not reflect the impact of state and local taxes; and 
+
+ 
+
+ Actual after-tax returns depend on the investor's tax situation and may differ from those shown, and the after-tax returns shown are not relevant to investors who hold their fund shares through tax-deferred arrangements such as 401(k) plans or individual retirement accounts.<SUP> 83 </SUP> 
+
+In addition, a fund will be required to provide a statement to the effect that the fund's past performance, before and after taxes, is not necessarily an indication of how the fund will perform in the future.<SUP> 84 </SUP><h>I. Technical and Conforming Amendments </h>
+
+We proposed to amend rule 482(e)(3) under the Securities Act in order to clarify that the average annual total returns that are required to be shown in any performance advertisement are before-tax returns net of fees and charges payable upon a sale of fund shares. This technical change is no longer necessary due to modifications we have made to the types of returns required. We are adopting, as proposed, amendments to rule 34b-1(b)(3) under the Investment Company Act to exclude after-tax performance information contained in periodic reports to shareholders from the updating requirements of the rule. 
+
+We proposed to delete an instruction contained in Form N-1A that provides that total return information in a mutual fund prospectus need only be current to the end of the fund's most recent fiscal year because the items of Form N-1A that require funds to include total returns in the prospectus have explicit instructions about how current the total return information must be. We have decided not to delete this instruction because it applies to returns that are not required by specific items of Form N-1A.<SUP> 85 </SUP> 
+
+ J. Effective Date; Compliance Dates<h>1. Effective Date </h>
+
+ 
+
+The rule and form amendments that the Commission is adopting today will be effective April 16, 2001.<h>2. Compliance Date for Prospectuses </h>
+
+ February 15, 2002 . All post-effective amendments that are annual updates to effective registration statements and profiles filed on or after February 15, 2002, must comply with the amendments to Form N-1A. Based on the comments, we believe that this will provide funds with sufficient time to make the necessary changes to existing software and internal systems in order to compile after-tax returns and incorporate the new disclosure in their prospectuses. We would not object if existing funds file their first annual update complying with the amendments pursuant to rule 485(b), provided that the post-effective amendment otherwise meets the conditions for immediate effectiveness under the rule.<SUP> 86 </SUP><h>3. Compliance Date for Advertisements and Other Sales Materials </h>
+
+ October 1, 2001 . All fund advertisements and sales materials must comply with the amendments to rules 482 and 34b-1 no later than October 1, 2001. These amendments apply only to those funds voluntarily choosing to include after-tax returns in advertisements or sales literature, or claiming to be managed to limit or control the effect of taxes on performance and including performance information in these materials. As these funds have made the decision to market themselves in this manner, we believe that they should be required to do so in a standardized fashion as soon as practicable.<h>III. Cost/Benefit Analysis </h>
+
+In the Proposing Release, we analyzed the costs and benefits of our proposals and requested comments and data regarding the costs and benefits of the rule and form amendments. In response to our request for comments, a few commenters generally argued that the proposed amendments would increase costs for the funds and that such costs will be passed on to investors. None of the commenters, however, provided specific data quantifying additional costs.
+
+The rule and form changes will require a fund to disclose its standardized after-tax returns for 1-, 5-, and 10-year periods. After-tax returns, which will accompany before-tax returns in fund prospectuses, will be presented in two ways: (i) after taxes on fund distributions only; and (ii) after taxes on fund distributions and a redemption of fund shares.<SUP> 87 </SUP> The before- and after-tax returns would be required to be presented in a standardized tabular format. Although after-tax returns will not generally be required in fund advertisements and sales literature, any fund that either includes after-tax returns in these materials or includes other performance information together with representations that the fund is managed to limit taxes will be required to include after-tax returns computed according to our standardized formulas.<h>A. Benefits </h>
+
+As discussed above, taxes are one of the most significant costs of investing in mutual funds through taxable accounts. In 1999, mutual funds distributed approximately $238 billion in capital gains and $159 billion in taxable dividends.<SUP> 88 </SUP> Shareholders investing in stock and bond funds paid an estimated $39 billion in taxes in 1998 on distributions by their funds.<SUP> 89 </SUP> Recent estimates suggest that more than two and one-half percentage points of the average stock fund's total return is lost each year to taxes.<SUP> 90 </SUP> Moreover, it is estimated that, between 1994 and 1999, investors in diversified U.S. stock funds surrendered an average of 15 percent of their annual gains to taxes.<SUP> 91 </SUP>
+
+Despite the tax dollars at stake, many investors lack a clear understanding of the impact of taxes on their mutual fund investments.<SUP> 92 </SUP> The tax consequences of distributions are a particular source of surprise to many investors when they discover that they can owe substantial taxes on their mutual fund investments that appear to be unrelated to the performance of the fund. Even if the value of a fund has declined during the year, a shareholder can owe taxes on capital gains distributions if the portfolio manager sold some of the fund's underlying portfolio securities at a gain.
+
+ 
+
+There have been increasing calls for improvement in the disclosure of the tax consequences of mutual fund investments. Mutual funds, as well as third party providers that furnish information to mutual fund shareholders, are responding to this growing investor demand by providing after-tax returns, calculators that investors can use to compute after-tax returns, and other tax information.<SUP> 93 </SUP> Indeed, all but a few of the comment letters we received from individual investors supported the Commission's proposal to require standardized after-tax returns.
+
+Currently, the Commission requires mutual funds to disclose significant information about taxes to investors.<SUP> 94 </SUP> While this disclosure is useful, we believe funds can more effectively communicate to investors the tax consequences of investing. Therefore, the Commission is adopting amendments to Form N-1A and rules 482 and 34b-1 that will require disclosure of standardized mutual fund after-tax returns. 
+
+By requiring all funds to report after-tax performance pursuant to a standardized formula, the amendments will allow investors to compare after-tax performance among funds, which is likely to affect investor decisions relating to the purchase or sale of fund shares. This could have indirect benefits, such as the creation of new funds designed to maximize after-tax performance or causing existing funds to alter their investment strategies to invest in a more tax-efficient manner. The changes in fund investment strategies and investor behavior resulting from this disclosure may also result in higher average after-tax returns for investors.<SUP> 95 </SUP>
+
+ 
+
+Requiring standardized after-tax performance in the prospectus, fund advertisements, and sales literature also should help prevent confusing and misleading after-tax performance claims by funds. Currently, fund advertisements and sales literature may contain tax-adjusted performance calculated according to non-standardized methods. In addition to making it difficult to compare after-tax performance measures among different funds, the lack of a standardized method for computing after-tax returns creates the possibility that after-tax performance information as currently reported could be misleading or confusing to investors. 
+
+The amendments will also increase the amount of after-tax performance information available to investors. With the exception of the few funds that publish after-tax performance information, investors currently must rely on third-party providers to obtain information regarding a fund's after-tax performance.
+
+Moreover, information regarding a fund's after-tax performance helps investors understand the magnitude of tax costs and how they affect fund performance. Increased understanding should have the beneficial effect of enhancing investor confidence in the fund industry.<h>B. Costs </h>
+
+The changes in fund investment strategies and investor behavior resulting from the after-tax requirements may have distributional effects among funds depending on their relative after-tax returns. Funds that have lower after-tax returns relative to other funds may experience loss of market share. We expect, however, that any reduction of market share for funds with lower after-tax returns will be offset by a commensurate increase in market share for funds with higher after-tax returns. 
+
+Funds affected by the after-tax requirements will incur costs in complying with the new disclosure. Funds will have to compute the after-tax returns using a standardized method prescribed by Form N-1A. The costs associated with computing the new after-tax performance will include the costs of purchasing or developing software, implementing a new system for computing the returns, analyzing data for inclusion in the standardized formula, and training fund employees. In addition, funds will incur costs in incorporating the new disclosure in their prospectuses, advertisements, and sales literature. Funds could also incur costs in responding to questions from investors regarding the after-tax returns. 
+
+We expect that the costs of implementing new systems to compute the standardized after-tax performance will largely consist of initial, one-time expenses. In addition, the software development and implementation costs may be reduced if software vendors begin to offer "off-the-shelf" programs for computing the standardized after-tax performance data.<SUP> 96 </SUP> Also, the costs of analyzing data for inclusion in the standardized formula will be substantially greater in connection with a fund's first-time compliance with the amendments than it will be in subsequent disclosures. Likewise, the costs of revising fund prospectuses, advertisements, and sales literature to incorporate the new disclosure should decrease after the first disclosures complying with the amendments have been made. We note that in response to concerns expressed by certain commenters regarding the burdens imposed on funds by the new requirements, we have simplified the presentation of after-tax returns.<SUP> 97 </SUP> Although the costs of updating the disclosure in fund prospectuses, advertisements, and sales literature will be ongoing, the costs incurred in subsequent disclosures should be less than the costs associated with the initial computations and disclosures because neither the formula for calculating performance nor the format for the disclosure will change from year to year.
+
+Because funds filing initial registration statements will not have any performance information to report, the new after-tax performance requirements will not impose any additional costs on the preparation and filing of an initial registration statement on Form N-1A. The disclosure required by the amendments will appear in the first post-effective amendment that is required to include the after-tax return disclosure. The costs associated with including the disclosure in this first post-effective amendment will consist of the costs required for developing a system for performing the standardized calculations and the costs of revising the prospectus to incorporate the new disclosure. The costs incurred by funds choosing to include after-tax returns in fund advertisements and sales literature will be limited to the cost of revising the advertisements and sales literature to incorporate the same standardized after-tax returns that will be required to appear in fund prospectuses.
+
+ Form N-1A 
+
+The primary cost of complying with the amendments to Form N-1A is the cost of preparing and filing post-effective amendments to registration statements. We estimate that 4,500 post-effective amendments to registration statements are filed annually on Form N-1A, for 7,875 portfolios. 
+
+ 
+
+These post-effective amendments will contain performance figures and thus be affected by the amendments. For purposes of the Paperwork Reduction Act ("PRA"), we have estimated that the amendments will increase the hour burden per portfolio per filing of a post-effective amendment by 18 hours.<SUP> 98 </SUP> Of the 7,875 funds referenced in post-effective amendments, 1,040 are money market funds, which will be exempted from the after-tax disclosure requirements. An additional 1,575 funds are used as investment vehicles for variable insurance contracts, which will be permitted to omit the after-tax information. Thus, approximately 5,260 of the 7,875 funds referenced in post-effective amendments will be affected by the amendments.<SUP> 99 </SUP> We estimate that the cost for all funds to comply with the amendments discussed above is $6,059,520.<SUP> 100 </SUP>
+
+The amendments to Form N-1A will impose other related costs on funds. Our current estimated cost of preparing a post-effective amendment to a previously effective registration statement is $7,500. We estimate that the additional cost imposed by the amendments to Form N-1A is $1,860 per portfolio/fund or a total cost of $9,783,600.<SUP> 101 </SUP> This estimate represents the cost of developing and implementing a computerized system for compiling tax data and computing after-tax returns and the costs of hiring outside counsel to assist in revising the prospectus to incorporate the new after-tax return disclosure.<SUP> 102 </SUP> Again, a portion of this cost burden will be comprised largely of initial, one-time costs. 
+
+ Rule 482 
+
+ 
+
+Rule 482 is a safe harbor that permits a fund to advertise information the "substance of which" is contained in its statutory prospectus, subject to the requirements of the rule. Rule 482 limits performance information to standardized quotations of yield and total return and other measures of performance that reflect all elements of return. 
+
+Because rule 482 does not require funds to perform any computations not required by the amendments for Form N-1A, the primary cost of complying with the amendments is the cost of the additional hour burden that is outlined in our PRA analysis. As described above, there are approximately 5,260 funds filing post-effective amendments that will be affected by the amendments. The Commission further estimates that three percent of these funds will elect to use advertisements or sales literature that either include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance and therefore be required to comply with the amendments to rule 482.<SUP> 103 </SUP> For purposes of the PRA, we have estimated that the additional hour burden required to comply with the amendments to rule 482 is .5 hours.<SUP> 104 </SUP> The amendments to rule 482 will thus impose additional estimated costs of $5,506.<SUP> 105 </SUP> 
+
+ Rule 34b-1 
+
+ 
+
+Rule 34b-1 governs sales material that is accompanied or preceded by the delivery of a statutory prospectus and requires the inclusion of standardized performance data and certain legend disclosure in sales material that includes performance data. As with the amendments to rule 482, these amendments will not require funds to perform any computations not required by the amendments to Form N-1A. Hence, the cost of complying with these amendments is primarily the cost associated with the burden estimate in our PRA analysis. 
+
+We estimate that approximately 8,495 respondents file approximately 4.35 responses annually pursuant to rule 34b-1.<SUP> 106 </SUP> Of these respondents, we estimate that 1,040 are money market funds that will be exempt from the amendments and that an additional 620 funds and unit investment trusts ("UITs") registered on Forms N-3 and N-4 will not be affected by the amendments. We estimate that an additional 1,575 funds registered on Form N-1A and subject to rule 34b-1 are used as underlying portfolios for variable insurance contracts and will not use advertisements or sales literature that include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance. Thus, 5,260 respondents subject to rule 34b-1 will also be subject to the after-tax disclosure.<SUP> 107 </SUP> We further estimate that three percent of respondents subject to rule 34b-1 or 157.8 respondents will elect to use advertisements or sales literature that either include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance and therefore be subject to the amendments.<SUP> 108 </SUP> For purposes of the PRA, we have estimated that the additional hour burden attributable to the amendments to rule 34b-1 is .5 hours, for a total of 78.9 annual burden hours or $5,049.60.<SUP> 109 </SUP><h>IV. Effects on Efficiency, Competition, and Capital Formation </h>
+
+Section 2(c) of the Investment Company Act, section 2(b) of the Securities Act, and section 3(f) of the Exchange Act require the Commission, when engaging in rulemaking that requires it to consider or determine whether an action is consistent with the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.<SUP> 110 </SUP> The Commission has considered these factors. 
+
+The Commission believes that the after-tax return requirements will help to increase investor understanding of a fund's after-tax performance. Increased understanding should enable investors to better evaluate various funds in determining which funds are most suitable for their investment needs. More educated investors should promote competition among funds as they seek to attract those investors interested in the impact of taxes on fund investments. On balance, the Commission believes that the after-tax return requirements will benefit investors, foster efficiency, and promote competition among mutual funds. While investors will be better equipped to make investment decisions, it is unclear whether these amendments will result in an increase in capital formation.<h>V. Summary of Final Regulatory Flexibility Analysis </h>
+
+A Final Regulatory Flexibility Analysis ("FRFA") has been prepared in accordance with 5 U.S.C. 604. The Commission proposed amendments to Form N-1A [17 CFR 239.15A and 274.11A], the registration form used by mutual funds to register under the Act and to offer their shares under the Securities Act, and amendments to rule 482 under the Securities Act and rule 34b-1 under the Act in the Proposing Release. The Commission prepared an Initial Regulatory Flexibility Analysis ("IRFA") in accordance with 5 U.S.C. 603 in conjunction with the Proposing Release, which was made available to the public. The Proposing Release summarized the IRFA and solicited comments on it. No comments specifically addressed the IRFA.<h>A. Need for the Rule and Form Amendments </h>
+
+As discussed above, taxes are one of the most significant costs of investing in mutual funds through taxable accounts. Despite the tax dollars at stake, many investors lack a clear understanding of the impact of taxes on their mutual fund investments.<SUP> 111 </SUP> 
+
+There have been increasing calls for improvement in the disclosure of the tax consequences of mutual fund investments. Mutual funds, as well as third party providers that furnish information to mutual fund shareholders, are responding to this growing investor demand by providing after-tax returns, calculators that investors can use to compute after-tax returns, and other tax information.<SUP> 112 </SUP> In addition, several fund groups have created new funds promoting the use of more tax-efficient portfolio management strategies.<SUP> 113 </SUP> Moreover, in April 2000, a bill that would require the Commission to revise its regulations to require improved disclosure of mutual fund after-tax returns was passed by the U.S. House of Representatives and was referred to the Senate.<SUP> 114 </SUP><h>B. Significant Issues Raised by Public Comment </h>
+
+ 
+
+The Commission requested comment on the IRFA, but we received no comments specifically addressing the analysis. One commenter, however, argued that the proposed amendments would have a greater impact on smaller entities while another commenter suggested a longer phase-in period for smaller funds to comply with the new requirements. Neither of the commenters provided any specific or quantifiable data.<h>C. Small Entities Subject to the Rule </h>
+
+For purposes of the Regulatory Flexibility Act, a fund is a small entity if the fund, together with other funds in the same group of related funds, has net assets of $50 million or less as of the end of its most recent fiscal year.<SUP> 115 </SUP> As of December 1999, there were approximately 2,900 investment companies registered on Form N-1A that may be affected by the proposed amendments.<SUP> 116 </SUP> Of these 2,900, approximately 150 are investment companies that meet the Commission's definition of small entity for purposes of the Investment Company Act.<SUP> 117 </SUP> The amendments that require funds to provide after-tax returns in registration statements, advertisements, and sales literature will affect those small entities.<h>D. Projected Reporting, Recordkeeping, and Other Compliance Requirements </h>
+
+The amendments will require all funds subject to the amendments to provide after-tax return information in their prospectuses. Although after-tax returns will not generally be required in fund advertisements and sales literature, any fund that either includes after-tax returns in these materials or includes other performance information together with representations that the fund is managed to limit taxes will be required to include after-tax returns computed according to our standardized formulas. 
+
+After assessing the amendments in light of the current reporting requirements and consulting with representatives in the industry, the Commission has considered the potential effect that the amendments will have on the preparation of registration statements, advertisements, and sales literature. The Commission estimates that, as a result of the amendments, it will take approximately 18 additional hours per portfolio to prepare the first post-effective amendment to the registration statement on Form N-1A that is required to include the proposed after-tax return disclosure.<SUP> 118 </SUP> The Commission believes that this estimate represents an initial, one-time burden and that the hour burden will be reduced for subsequent post-effective amendments. For purposes of calculating the rule 482 hour burden relating to advertisements, the Commission estimates that the proposed amendments will impose approximately .5 additional hours per portfolio.<SUP> 119 </SUP> The Commission also estimates that the proposed amendments will impose approximately .5 additional hours per response for sales literature subject to rule 34b-1.<SUP> 120 </SUP><h>E. Agency Action to Minimize Effects on Small Entities </h>
+
+The Commission believes that special compliance or reporting requirements for small entities would not be appropriate or consistent with investor protection. The disclosure amendments we are adopting will give prospective and existing shareholders greater access to information about the after-tax returns of mutual funds. Different disclosure requirements for small entities, such as reducing the level of disclosure that small entities would have to provide, would create the risk that investors would not receive adequate information about a fund's after-tax returns or would receive confusing, false, or misleading information. In addition, investors would not be able to easily compare each fund when making an investment decision if there were no uniform disclosure standards for after-tax performance information applicable to all funds. The Commission believes it is important for prospective and existing shareholders to receive this information about after-tax returns for all funds, not just for funds that are not considered small entities. 
+
+Investors in small funds should have information about the funds' after-tax returns and would benefit from this information as much as investors in larger funds. If we do not require certain information for small entities, this could create the risk that investors in small funds might not receive important information about a fund's after-tax returns. The Commission also notes that current disclosure requirements in registration statements do not distinguish between small entities and other funds. In addition, the Commission believes it would be inappropriate to impose a different timetable on small entities for complying with the requirements because investors would not have the ability to compare the after-tax returns of all funds when making an investment decision. 
+
+ 
+
+Further clarification, consolidation, or simplification of the proposals for funds that are small entities would be inconsistent with concerns for investor protection. Simplifying or otherwise reducing the regulatory requirements of the proposals for small entities could undercut the purpose of these proposals: to emphasize to investors the impact of taxes on a fund's return and to enable investors to make effective comparisons among various fund performance claims. For the same reasons, using performance standards to specify the requirements for small entities also would not be appropriate.
+
+We note, however, that in response to concerns expressed by certain commenters regarding the burdens imposed on funds by the new requirements, we have simplified the presentation of after-tax returns.<SUP> 121 </SUP> We have also extended the date by which all post-effective amendments that are annual updates to effective registration statements and profiles must comply with the amendments to Form N-1A from the proposed six-month period to February 15, 2002, which will provide funds an additional four months to comply with the amendments. Overall, these amendments will not adversely affect small entities. We believe that the burden on funds of computing and disclosing after-tax returns is justified by the benefits to investors from receiving this information. While we acknowledge that funds will incur a one-time cost to modify their systems to compute after-tax returns, the computation thereafter should be straightforward to perform using readily available data.
+
+ 
+
+The FRFA is available for public inspection in File No. S7-23-99, and a copy may be obtained by contacting Peter M. Hong, Special Counsel, at (202) 942-0721, Office of Disclosure Regulation, Division of Investment Management, Securities and Exchange Commission, 450 5th Street, N.W., Washington, D.C. 20549-0506.<h>VI. Paperwork Reduction Act </h>
+
+As explained in the Proposing Release, certain provisions of the amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 [44 U.S.C. 3501, et seq. ], and the Commission has submitted the proposed collections of information to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. The titles for the collections of information are: (i) "Form N-1A under the Investment Company Act of 1940 and Securities Act of 1933, Registration Statement of Open-End Management Investment Companies"; (ii) "Registration Statements - Regulation C" ;<SUP> 122 </SUP> and (iii) "Rule 34b-1 of the Investment Company Act of 1940, Sales Literature Deemed to Be Misleading." An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.<SUP> 123 </SUP>
+
+Form N-1A (OMB Control No. 3235-0307) was adopted pursuant to section 8(a) of the Investment Company Act [15 U.S.C. 80a-8] and section 5 of the Securities Act [15 U.S.C. 77e]. Rule 30d-1 (OMB Control No. 3235-0025) was adopted pursuant to Section 30(e) of the Investment Company Act [15 U.S.C. 80a-2]. Rule 482 of Regulation C (OMB Control No. 3235-0074) was adopted pursuant to section 10(b) of the Securities Act [15 U.S.C. 77j(b)]. Rule 34b-1 (OMB Control No. 3235-0346) was adopted pursuant to section 34(b) of the Investment Company Act [15 U.S.C. 80a-33(b)].
+
+As discussed above, the amendments will require a fund to disclose its standardized after-tax returns for 1-, 5-, and 10-year periods. After-tax return information is to be included in the risk/return summary of the prospectus. Funds are required to include a short, explanatory narrative adjacent to the performance table in the risk/return summary. After-tax returns, which will accompany before-tax returns in fund prospectuses, will be presented in two ways: (i) after taxes on fund distributions only; and (ii) after taxes on fund distributions and a redemption of fund shares. The before- and after-tax returns will be required to be presented in a standardized tabular format. Although after-tax returns will not generally be required in fund advertisements and sales literature, any fund that either includes after-tax returns in these materials or includes other performance information together with representations that the fund is managed to limit taxes will be required to include after-tax returns computed according to our standardized formulas.
+
+ 
+
+The information required by the amendments is primarily for the use and benefit of investors. The Commission is concerned that mutual fund investors who are subject to current taxation may not fully appreciate the impact of taxes on their fund investments because mutual funds are currently required to report their performance on a before-tax basis only. Many investors consider performance one of the most significant factors when selecting or evaluating a fund, and we believe that requiring funds to disclose their after-tax performance would allow investors to make better-informed decisions. The information required to be filed with the Commission pursuant to the information collections also permits the verification of compliance with securities law requirements and assures the public availability and dissemination of the information. 
+
+In the Proposing Release, the Commission estimated the burden hours that would be necessary for the collection of information requirements under the proposed amendments. Although no commenters specifically addressed the burden estimates for the collection of information requirements, a few commenters raised concerns regarding the costs involved in complying with the disclosure requirements of the amendments. These commenters, however, did not provide an estimate of the burden hours associated with the proposed rule changes. We continue to believe that the estimates of the burden hours contained in the Proposing Release are appropriate.<SUP> 124 </SUP>
+
+ Form N-1A 
+
+ 
+
+Form N-1A, including the amendments, contains collection of information requirements. The purpose of Form N-1A is to meet the registration and disclosure requirements of the Securities Act and the Investment Company Act and to enable funds to provide investors with information necessary to evaluate an investment in the fund. The likely respondents to this information collection are open-end funds registering with the Commission on Form N-1A. 
+
+We estimate that 170 initial registration statements are filed annually on Form N-1A, registering 298 portfolios, and that the current hour burden per portfolio per filing is 824 hours, for a total annual hour burden of 245,552 hours.<SUP> 125 </SUP> We estimate that 4,500 post-effective amendments to registration statements are filed annually on Form N-1A, for 7,875 portfolios, and that the current hour burden per portfolio per post-effective amendment filing is 104 hours, for an annual burden of 819,000 hours.<SUP> 126 </SUP> Thus, we estimate a current total annual hour burden of 1,064,552 hours for the preparation and filing of Form N-1A and post-effective amendments on Form N-1A.
+
+ 
+
+The proposed amendments will not affect the hour burden of an initial filing of a registration statement on Form N-1A since an investment company filing such an initial form will have no performance history to disclose. Post-effective amendments to such registration statements, however, will contain performance figures and thus be affected by the amendments. We estimate that the amendments will increase the hour burden per portfolio per filing of a post-effective amendment by 18 hours.<SUP> 127 </SUP> Of the 7,875 funds referenced in post-effective amendments, 1,040 are money market funds, which will be exempted from the after-tax return disclosure requirements. An additional 1,575 funds are used as investment vehicles for variable insurance contracts, which will be permitted to omit the after-tax information. Thus, approximately 5,260 of the 7,875 funds referenced in post-effective amendments will be affected by the proposed amendments.<SUP> 128 </SUP> The Commission estimates the total annual hour burden for all funds for preparation and filing of initial registration statements and post-effective amendments on Form N-1A will be 1,159,311 hours.<SUP> 129 </SUP> 
+
+Compliance with the disclosure requirements of Form N-1A is mandatory. Responses to the disclosure requirements will not be kept confidential.
+
+ Rule 482 
+
+ 
+
+Rule 482, including the amendments, contains collection of information requirements. The rule permits a fund to advertise information the "substance of which" is contained in its statutory prospectus, subject to the requirements of the rule. Rule 482 limits performance information to standardized quotations of yield and total return and other measures of performance that reflect all elements of return. 
+
+The increased burden associated with the amendments to rule 482 is included in Form N-1A.<SUP> 130 </SUP> Thus, the amendments to rule 482 will affect the burden hours for Form N-1A, the registration form for open-end investment companies that currently may advertise pursuant to rule 482. As described above, there are approximately 5,260 funds filing post-effective amendments that will be affected by the proposed amendments. The Commission further estimates that three percent of these funds will elect to use advertisements or sales literature that either include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance and therefore be required to comply with the proposed amendments to rule 482.<SUP> 131 </SUP> We estimate that the additional hour burden required to comply with the proposed amendments to rule 482 is .5 hours.<SUP> 132 </SUP> 
+
+Compliance with rule 482 is mandatory for every registered fund that issues advertisements. Responses to the disclosure requirements will not be kept confidential.
+
+ Rule 34b-1 
+
+ 
+
+Rule 34b-1, including the amendments, contains collection of information requirements. The rule governs sales material that is accompanied or preceded by the delivery of a statutory prospectus and requires the inclusion of standardized performance data and certain legend disclosure in sales material that includes performance data. 
+
+We estimate that approximately 8,495 respondents file approximately 4.35 responses annually pursuant to rule 34b-1.<SUP> 133 </SUP> Of these respondents, we estimate that 1,040 are money market funds that will be exempt from the amendments and that an additional 620 funds and unit investment trusts ("UITs") registered on Forms N-3 and N-4 will not be affected by the amendments. We estimate that an additional 1,575 funds registered on Form N-1A and subject to rule 34b-1 are used as underlying portfolios for variable insurance contracts and will not advertise after-tax returns or use advertisements that either include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance due to their unique tax-deferred nature. Thus, 5,260 respondents subject to rule 34b-1 will also be subject to the after-tax return disclosure.<SUP> 134 </SUP> We further estimate that three percent of respondents subject to rule 34b-1 will elect to use advertisements or sales literature that either include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance and therefore be subject to the proposed amendments.<SUP> 135 </SUP> The burden for rule 34b-1 requires approximately 2.4 hours per response resulting from creating the information required by rule 34b-1. We estimate that rule 34b-1 imposes a current total annual reporting burden of 88,800 hours on the industry.<SUP> 136 </SUP> We estimate that the additional hour burden required to comply with the proposed amendments to rule 34b-1 is .5 hours, for a total burden per response of 2.9 hours and a total annual burden on the industry of 89,143 hours.<SUP> 137 </SUP> 
+
+Compliance with rule 34b-1 is mandatory for every registered investment company that issues sales literature. Responses to the disclosure requirements will not be kept confidential.<h>VII. Statutory Authority </h>
+
+<END MAIN TEXT>
+
+1 See Disclosure of Mutual Fund After-Tax Returns, Investment Company Act Release No. 24339 (Mar. 15, 2000) [65 FR 15500 (Mar. 22, 2000)] ("Proposing Release").
+
+2 Investment Company Institute ("ICI"), Mutual Fund Fact Book 56 (2000) ("2000 Mutual Fund Fact Book") (distributions of taxable dividends included $95.6 billion on equity, hybrid, and bond funds and $63.1 billion on money market funds).
+
+3 Liberty Funds Distributor News Release, Liberty Announces Annual Mutual Fund Tax Pain Index (Apr. 12, 2000) http://www.libertyfunds.com (estimate of the tax burden based on net capital gains realized on mutual funds other than money market funds, and net investment income on equity, bond, and income funds).
+
+4 KPMG Peat Marwick LLP, An Educational Analysis of Tax-Managed Mutual Funds and the Taxable Investor ("KPMG Study"), at 14.
+
+5 Jonathan Clements, Fund Distributions are a Taxing Problem; How the Tax Man Dines on Your Funds, The Wall Street Journal, Aug. 31, 1999, at C1.
+
+6 In a recent telephone survey, 1,000 mutual fund investors were asked about their tax knowledge. Eighty-five percent of respondents claimed taxes play an important role in investment decisions, but only thirty-three percent felt that they were very knowledgeable about the tax implications of investing. Eighty-two percent were unable to identify the maximum rate for long-term capital gains. The Dreyfus Corporation, Dreyfus' 1999 Tax Informed Investing Study (visited Jan. 2, 2001) .
+
+7 I.R.C. 61(a)(3) and (7) (providing that an individual's gross income includes dividends and gains derived from dealings in property); I.R.C. 852(b)(3)(8) (capital gain dividend from a mutual fund treated as gain from sale or exchange of capital asset held for more than one year); I.R.C. 1001 (gain from sale or other disposition of property is excess of amount realized over adjusted basis, and loss is excess of the adjusted basis over amount realized). See IRS Publication 564, Mutual Fund Distributions (2000), at 2-4 (explaining tax treatment of distributions of income and capital gains by mutual funds to their shareholders).
+
+8 This is attributable, in part, to the fact that a mutual fund generally must distribute substantially all of its net investment income and realized capital gains to its shareholders in order to qualify for favorable tax treatment as a "regulated investment company" ("RIC"). I.R.C. 852 and 4982(b). As a RIC, a mutual fund is generally entitled to deduct dividends paid to shareholders, resulting in its shareholders being subject to only one level of taxation on the income and gains distributed to them. I.R.C. 851 (circumstances under which an investment company may be treated as a RIC) and 852(b)(2) (calculation of taxable income of a RIC). S ee, e.g., Year-End Tax Tips, Bob Edwards (National Public Radio, Morning Edition radio broadcast, Dec. 28, 1999) (describing tax consequences of mutual fund distributions as a "shock" to investors).
+
+9 KPMG study, supra note 3, at 14 (reporting the impact of taxes on performance of 496 stock funds for the ten-year period ending December 31, 1997).
+
+10 For example, Eaton Vance Management reports after-tax returns and tax-efficiency ratios for certain of its tax-managed funds on its website. Eaton Vance, Eaton Vance Mutual Funds (visited December 19, 2000) http://www.eatonvance.com/mutual_ funds/ mutualfunds_A.asp. Online tax calculators are also available. The Vanguard Group, After-Tax Returns Calculator (visited December 19, 2000) http:// majestic5. vanguard.com/FP/DA/0.1.vgi_FundAfterTaxSim/ 079190348019134650? AFTER_TAX_CALC= SIMPLE (calculator that can be used to calculate after-tax returns for Vanguard funds); Andrew Tobias' Mutual Fund Cost Calculator (visited Dec. 22, 2000) http://www.personalfund.com/cgi-bin/cost.cgi?ticker=TWLBX (cost calculator includes a feature that calculates after-tax returns). Fidelity Investments and Charles Schwab & Co. offer Internet tools that feature after-tax returns of funds offered in their fund supermarkets. E.g., Fidelity Investments, Fidelity Funds (visited December 19, 2000) http://personal100. fidelity.com/gen/mflfid/0/316145200.html; About Schwab, Schwab Introduces New On-line Mutual Fund Selection and Screener Tools, Dec. 22, 1999 (visited Dec. 19, 2000) http://www.prnewswire.com/ cgi-bin/micro_stories.pl? ACCT= 154881&TICK=SCH&STORY=/www/story/12-22- 1999/0001102424&E DATE=Dec+22,+1999. Further, Morningstar, Inc., and Forbes report mutual fund after-tax returns. Morningstar, Mutual Fund 500 (2000 ed.); Fund Survey, Forbes, Feb. 7, 2000, at 166.
+
+11 The fund groups offering funds labeled as "tax-managed," "tax-efficient," "tax-sensitive," or "tax-aware" include 59 Wall Street, American Century, Bernstein, Delaware Investments, DFA Investment Dimensions, Dresdner RCM Global Investors, Dreyfus, Eaton Vance, Evergreen, Fidelity, GMO, Golden Oak, ING, J.P. Morgan, Liberty Financial Funds, PaineWebber, PIMCO, Prudential, Putnam, Russell, Standish Ayer & Wood, STI Classic, SunAmerica, T. Rowe Price, USAA, and Vanguard. Morningstar, Inc., currently tracks 59 tax-managed funds, as compared to 12 such funds only four years ago. Morningstar, Principia Pro Plus (Dec. 2000) (reporting as of Nov. 30, 2000).
+
+12 The Mutual Fund Tax Awareness Act of 2000, H. R. 1089, 106th Cong., 2nd Sess. (2000) (introduced by Congressman Paul Gillmor, passed by the House, as amended, on Apr. 3, 2000, by a vote of 358 to 2, and referred to the Senate on Apr. 4, 2000.). See also H.R. 1089: The Mutual Fund Tax-awareness Act of 1999: Hearings Before the Subcomm. on Finance and Hazardous Materials of the House Comm. on Commerce, 106<SUP>th</SUP> Cong., 1<SUP>st</SUP> Sess. (Oct. 29, 1999) (Statement of the U.S. Securities and Exchange Commission Concerning Disclosure of the Tax Consequences of Mutual Fund Investments and Charitable Contributions).
+
+13 See, e.g., Fred Barbash, Facts Might Confuse Us? Excuse Me?, The Washington Post, Nov. 19, 2000, at H1; Karen Damato, Funds' Tally of IRS Bite Can Be Tricky, The Wall Street Journal, Nov. 3, 1999, at C1; Paul J. Lim, Your Money; Funds and 401(k)s; As Stock Market Returns Shrink, After-Tax Results Gain Importance, Los Angeles Times, Oct. 17, 1999, at C3; Charles A. Jaffe, Mutual Fund Gains Create Interesting Tax Issues Later , The Kansas City Star, Mar. 23, 1999, at D19.
+
+14 In its prospectus, a mutual fund is required to disclose (i) the tax consequences of buying, holding, exchanging, and selling fund shares, including the tax consequences of fund distributions; and (ii) whether the fund may engage in active and frequent portfolio trading to achieve its principal investment strategies, and, if so, the tax consequences of increased portfolio turnover and how this may affect fund performance. Item 7(e) of Form N-1A; Instruction 7 to Item 4 of Form N-1A. A fund also must disclose in its prospectus and annual report the portfolio turnover rate and dividends and capital gains distributions per share for each of the last five fiscal years. Items 9(a) and 22(b)(2) of Form N-1A. These items also require funds to show net realized and unrealized gain or loss on investments on a per share basis for each of the fund's last five fiscal years.
+
+15 Proposing Release, supra note 1.
+
+16 As of year end 1999, eighty-one percent of mutual fund assets ($5.5 trillion) were held by individuals. 2000 Mutual Fund Fact Book, supra note 2, at 41. At the end of 1999, mutual fund assets held in retirement accounts stood at $2.5 trillion. 2000 Mutual Fund Fact Book, at 49. Mutual fund assets held by individuals in money market funds stood at $885 billion. 2000 Mutual Fund Fact Book, at 103. Thus, almost 40 percent of non-money market fund assets held by individuals ($2.1 trillion) were held in taxable accounts. An investor is not taxed on his or her investments in IRAs, 401(k) plans, and other qualified retirement plans until the investor receives a distribution from the plan. I.R.C. 401 et seq. See IRS Publication 564, Mutual Fund Distributions (1999), at 2 (explaining tax treatment of mutual funds held in retirement vehicles).
+
+17 See Items 2, 5, 9, and 22(b)(2) of Form N-1A.
+
+18 Last year, we posted a bulletin for mutual fund investors on our website, in which we cautioned investors to look beyond performance when evaluating mutual funds and to consider the costs relating to a mutual fund investment, including fees, expenses, and the impact of taxes on their investment. Securities and Exchange Commission, Mutual Fund Investing: Look at More Than a Fund's Past Performance (last modified Jan. 24, 2000) http://www.sec.gov/consumer/mperf.htm . See ICI, Understanding Shareholders' Use of Information and Advisers (Spring 1997), at 21 and 24 (Total return information was frequently considered by investors before a purchase, second only to the level of risk of the fund. Eighty-eight percent of fund investors surveyed said that they considered total return before their most recent purchase of a mutual fund. Eighty percent of fund owners surveyed reported that they followed a fund's rate of return at least four times per year.).
+
+19 Item 3 of Form N-1A; Consolidated Disclosure of Mutual Fund Expenses, Investment Company Act Release No. 16244 (Feb. 1, 1988) [53 FR 3192 (Feb. 4, 1988)].
+
+20 See, e.g., Securities and Exchange Commission, Mutual Fund Investing: Look at More Than a Fund's Past Performance (last updated Jan. 24, 2000) http://www.sec.gov/ consumer/mperf.htm ; Securities and Exchange Commission, Invest Wisely: An Introduction To Mutual Funds (last modified Oct. 21, 1996) http://www.sec.gov /consumer/inwsmf.htm ; "Common Sense Investing in the 21<SUP>st</SUP> Century Marketplace," Remarks by Arthur Levitt , Chairman, SEC, Investors Town Meeting, Albuquerque, NM (Nov. 20, 1999); "Financial Self-Defense: Tips From an SEC Insider," Remarks by Arthur Levitt , Boston Globe "Moneymatters" Personal Finance Conference, Boston, MA (Oct. 16, 1999); Transparency in the United States Debt Market and Mutual Fund Fees and Expenses: Hearings Before the Subcomm. on Finance and Hazardous Materials of the House Comm. on Commerce, 105th Cong., 2nd Sess. (Sept. 29, 1998) ( Statement of Arthur Levitt , Chairman, U.S. Securities and Exchange Commission).
+
+21 Securities and Exchange Commission, The SEC Mutual Fund Cost Calculator (last modified Jul. 24, 2000) http://www.sec.gov/mfcc/get-started.html.
+
+22 United States General Accounting Office, Mutual Fund Fees: Additional Disclosure Could Encourage Price Competition (June 2000) (recommending that the Commission require fund quarterly account statements to include the dollar amount of each investor's share of fund operating expenses); Division of Investment Management, Securities and Exchange Commission, Report on Mutual Fund Fees and Expenses (Dec. 2000) (recommending that the Commission consider requiring fund shareholder reports to include a table showing the cost in dollars incurred by a shareholder who invested a standardized amount in the fund, paid the fund's actual expenses, and earned the fund's actual return for the period).
+
+23 The comment letters and a summary of the comments prepared by the Commission staff are available for public inspection and copying in the Commission's Public Reference Room, 450 Fifth Street, N.W., Washington, D.C. (File No. S7-09-00).
+
+24 Items 2(c)(2)(i) and (iii) of Form N-1A.
+
+25 Rule 482(e)(4) and (5)(iii); rule 482(f); rule 34b-1(b)(1)(iii)(B) and (C).
+
+26 General Instruction C.3(d)(iii) and Item 2(c)(2)(iv)(B) of Form N-1A.
+
+27 See Item 21(b)(1) of Form N-1A.
+
+28 Proposed Item 21(b)(3) of Form N-1A.
+
+29 Proposed Item 21(b)(4) of Form N-1A.
+
+30 Items 21(b)(2) and (3) of Form N-1A.
+
+31 A recent report estimates that over the past decade the average holding period of mutual funds has decreased from over 10 years to about 3 years. Steve Galbraith, Mary Medley, Sean Yu, The Apotheosis of Stuart--Lighting the Candle in U.S. Equities, Bernstein Research Call, Sanford C. Bernstein & Co., Jan. 10, 2000.
+
+32 Instruction 4 to Item 21(b)(1) of Form N-1A.
+
+33 Items 2(c)(2)(i) and (iii) and 21(b)(1)-(3) of Form N-1A.
+
+34 See Section D, infra , regarding modifications to the format of disclosure.
+
+35 Item 2(c)(2)(iii) of Form N-1A.
+
+36 Rule 498(c)(2)(iii) under the Securities Act [17 CFR 230.498(c)(2)(iii)]. In addition, after-tax returns would be required in registration statements filed on Form N-14 [17 CFR 239.23], the registration form used by mutual funds to register securities to be issued in mergers and other business combinations under the Securities Act. See Item 5(a) of Form N-14 (cross-referencing Item 2 of Form N-1A).
+
+37 See Proposing Release, supra note 1, at nn. 36-41, and accompanying text.
+
+38 Item 5(b)(2) of Form N-1A.
+
+39 An estimated 88 percent of mutual fund shareholders considered the total return of the fund before their most recent fund purchase. Seventy-five percent of mutual fund shareholders considered the fund's performance relative to similar funds. ICI, Understanding Shareholders' Use of Information and Advisers, supra note 18, at 21.
+
+40 See Section II.A., supra, regarding modifications to the types of returns required; Section II.D., infra, regarding modifications to the format of disclosure, including simplification of presentation for funds offering more than one class of shares in the prospectus; Section II.H., infra, regarding the narrative accompanying the performance table.
+
+41 Item 7(e) of Form N-1A.
+
+42 See discussion in note 40, supra.
+
+43 Annually, funds are required to send Form 1099-DIV or a similar statement to any shareholder receiving $10 or more in taxable income. I.R.C. 6042. Form 1099-DIV reports the amount and character of fund distributions ( e.g., ordinary dividends, capital gain distributions, and non-taxable distributions) received by shareholders during the year. Funds also are required to send Form 1099-B or a similar statement to any shareholder who sells, exchanges, or redeems fund shares during the year. I.R.C. 6045. Form 1099-B reports the proceeds from the sale of fund shares.
+
+44 The Securities Act requires mutual funds to send updated prospectuses only to those existing shareholders who make additional purchases. In practice, many mutual funds send an updated prospectus annually to all of their shareholders.
+
+45 Item 5(b)(2) of Form N-1A.
+
+46 Item 2(c)(2)(iii) of Form N-1A.
+
+47 Item 2(c)(2)(iii) of Form N-1A; Instruction 2(e) to Item 2 of Form N-1A.
+
+48 Instruction 3(c)(ii) to Item 2 of Form N-1A.
+
+49 Item 2(c)(2)(iv)(C) of Form N-1A.
+
+50 Instructions 2(e) and 3(c)(iii) to Item 2 of Form N-1A.
+
+51 Instruction 2(e) to Item 2 of Form N-1A.
+
+52 Item 2(c)(2)(iii) of Form N-1A.
+
+53 General Instruction C.3(d)(iii) of Form N-1A.
+
+54 These similar plans or arrangements may include those existing under current tax law or new types of plans or arrangements permitted by future changes in the tax law.
+
+55 See IRS Publication 575, Pension and Annuity Income (2000), at 4 (explaining tax treatment of earnings under a variable annuity contract) and 7-19 (explaining tax treatment of distributions from retirement plans); IRS Publication 525, Taxable and Non-Taxable Income (2000), at 6 (explaining tax treatment of contributions to a retirement plan) and 15 (explaining tax treatment of proceeds of a life insurance contract); IRS Publication 575, Pension and Annuity Income (2000), at 5 (tax treatment of Section 457 Deferred Compensation Plan); IRS Publication 571, Tax Sheltered Annuity Programs for Employees of Public Schools and Certain Tax-Exempt Organizations (1999), at 2 (explaining tax treatment of Section 403(b) tax sheltered annuities).
+
+56 I.R.C. 702 (regarding taxation of partners).
+
+57 Interest on any state or local bond is excluded from gross income. However, there is no exclusion for capital gains resulting from the sale of such bonds. See I.R.C. 103(a); IRS Publication 564, Mutual Fund Distributions (2000), at 2 (describing tax treatment of tax-exempt mutual funds).
+
+58 A tax-exempt fund, like any other fund, may assume, when calculating after-tax returns, that no taxes are due on the portions of any distribution that would not result in federal income tax on an individual. Instruction 3(a) to Item 21(b)(2) and Instruction 3(a) to Item 21(b)(3) of Form N-1A.
+
+59 Rule 482(e)(4) permits the standardized after-tax returns for 1-, 5-, and 10-year periods to be contained in an advertisement, provided that the standardized after-tax returns (i) are current to the most recent calendar quarter ended prior to the submission of the advertisement for publication; (ii) are accompanied by quotations of standardized before-tax return; (iii) include both measures of standardized after-tax return; (iv) are set out with equal prominence to one another and in no greater prominence than the required quotations of standardized before-tax return; and (v) identify the length of and the last day of the 1-, 5-, and 10-year periods. Any other measure of after-tax return could be included in advertisements if accompanied by the standardized measures of after-tax return. Rule 482(e)(5)(iii). Similarly, measures of after-tax return may be included in other sales materials if accompanied by the standardized measures of after-tax return. Rule 34b-1(b)(1)(iii)(B). A quotation of standardized tax equivalent yield in an advertisement or other sales literature need not be accompanied by standardized after-tax returns. Rules 482(e)(2) and 34b-1(b)(iii)(B).
+
+60 Specifically, any measure of after-tax return in a rule 482 advertisement will be required to reflect all elements of return and be set out in no greater prominence than the required quotations of standardized before-tax and after-tax returns. The advertisement will be required to identify the length of and the last day of the period for which performance is measured. Rule 482(e)(5)(i), (iv), and (v).Likewise, any sales literature that contains a quotation of performance that has been adjusted to reflect the effect of taxes remains subject to the other requirements of rule 34b-1.
+
+61 We believe that any fund that uses terms such as tax-managed, tax-efficient, tax-sensitive, or tax-aware in its name is representing or implying that the fund is managed to limit or control the effect of taxes on performance. Therefore, a fund using these terms in its name will be required to include standardized after-tax returns in any advertisement or sales literature that includes a quotation of performance.
+
+62 Rules 482(e)(6) and 34b-1(b)(1)(iii)(C). The fund names rule, rule 35d-1(a)(4), requires a fund that uses a name suggesting that a fund's distributions are exempt from federal income tax or from both federal and state income tax to adopt a fundamental policy under section 8(b)(3) of the Investment Company Act: (i) to invest at least 80 percent of its assets in investments the income from which is exempt, as applicable, from federal income tax or from both federal and state income tax; or (ii) to invest its assets so at least 80 percent of the income that it distributes will be exempt, as applicable, from federal income tax or from both federal and state income tax. See Investment Company Names, Investment Company Act Release No. 24828 (Jan. 17, 2001).
+
+63 See, e.g., Advertising by Investment Companies, Investment Company Act Release No. 16245 (Feb. 2, 1988) [53 FR 3868 (Feb. 10, 1988)], at n.51. See also section 17(a) of the Securities Act [15 U.S.C. 77q]; section 10(b) of the Exchange Act [15 U.S.C. 78j(b); section 34(b) of the Investment Company Act [15 U.S.C. 80a-33]; section 206 of the Investment Advisers Act of 1940 [15 U.S.C. 80b-6].
+
+64 Items 21(b)(2) and (3) of Form N-1A.
+
+65 Items 21(b)(2) and (3) of Form N-1A; Instruction 1 to Item 21(b)(2) and Instruction 1 to Item 21(b)(3) of Form N-1A.
+
+66 Items 21(b)(2) and (3) of Form N-1A.
+
+67 Instruction 4 to Item 21(b)(2) of Form N-1A; Instruction 4 to Item 21(b)(3) of Form N-1A.Currently, the highest individual marginal income tax rate imposed on ordinary income is 39.6%, and the highest rate imposed on long-term capital gains is 20%. I.R.C. 1(a)-(d), (h).
+
+68 The concerns expressed by the commenters are, in any event, mitigated by the fact that after-tax returns will not reflect state and local taxes, which are often quite significant. State income tax rates can be as high as 12%; and a rate of 6%-7%, or higher, is common on taxable income of $55,000, the income level suggested by commenters as representative of a typical mutual fund investor. See The World Almanac and Book of Facts 161 (2000) (state income tax rates).
+
+69 Instructions 6 and 7 to Item 21(b)(3) of Form N-1A. In order to simplify the computation of returns after taxes on distributions and sale of fund shares, funds may assume that a taxpayer has sufficient capital gains of the same character to offset any capital losses on a sale of fund shares and therefore that the taxpayer may deduct the entire capital loss. Instruction 7(d) to Item 21(b)(3) of Form N-1A.
+
+70 Instruction 7(c) to Item 21(b)(3) of Form N-1A. A fund would also be required to separately track the basis of shares acquired though the $1,000 initial investment and each subsequent purchase through reinvested distributions. We wish to clarify that a distribution representing a return of capital will reduce the basis of an existing lot of shares and be included in the basis of the shares acquired upon reinvestment, which may have the effect of shifting the amount of basis allocated to shares with various holding periods.
+
+71 Instruction 7(d) to Item 21(b)(3) of Form N-1A.
+
+72 I.R.C. 1222(1) provides that the term "short-term capital gain" means "gain from the sale or exchange of a capital asset held for not more than 1 year, if and to the extent such gain is taken into account in computing gross income."
+
+73 Instruction 4 to Item 21(b)(2) of Form N-1A; Instruction 4 to Item 21(b)(3) of Form N-1A. The Proposing Release sets forth the maximum federal income tax rates for the years 1990-2000. Proposing Release, supra note 1, at n.66, and accompanying text.
+
+74 Item 2(c)(iii) of Form N-1A.
+
+75 Instruction 4 to Item 21(b)(2) of Form N-1A; Instruction 4 to Item 21(b)(3) of Form N-1A.
+
+76 Id.
+
+77 Instruction 3 to Item 21(b)(2) of Form N-1A; Instruction 3 to Item 21(b)(3) of Form N-1A.
+
+78 Id.
+
+79 Instruction 3 to Item 21(b)(2) of Form N-1A; Instruction 3 to Item 21(b)(3) of Form N-1A. A fund may elect to pass through to shareholders foreign tax credits if more than 50 percent of the value of the fund's total assets at the close of the taxable year consists of stock or securities in foreign corporations and the fund otherwise qualifies for favorable tax treatment as a regulated investment company for the taxable year. I.R.C. 853. In computing after-tax returns, a fund that elects to pass foreign tax credits through to shareholders may assume that the shareholders use those credits. We would not object if a fund adjusts after-tax returns to reflect the impact of distributions of up to $600 of foreign tax credits, the amount of credit that may be taken by a married couple filing jointly without regard to limits on the foreign tax credit. I.R.C. 904(a) and (j)(2). If a fund makes distributions of foreign tax credits in excess of $600, the fund must take into account the limits in the federal tax law on the ability of shareholders to use foreign tax credits.
+
+80 Item 2(c)(2)(iv) of Form N-1A.
+
+81 See rule 421(b) and (d) under the Securities Act [17 CFR 230.421(b) and (d)] (requiring that all information in the prospectus be presented in clear, concise, and understandable fashion and that registrants use plain English principles in the organization, language, and design of the summary and risk factors sections of their prospectuses); General Instruction C.1 to Form N-1A (fund prospectus should be easy to understand and promote effective communication); Item 2 of Form N-1A (requiring that the response to Item 2 be stated in plain English).
+
+82 We eliminated the proposed requirement that funds explain the differences between the types of returns presented, which is unnecessary in light of our reduction of the returns from four to three and our revision of the table captions. We also eliminated the proposed requirement that funds disclose that before-tax returns assume all distributions are reinvested. As commenters noted, funds are not currently required to include this technical information with before-tax returns. We also eliminated the similar proposed requirement that funds disclose that after-tax returns assume that taxes are paid out of fund distributions and that distributions, less taxes, are reinvested. Finally, we eliminated the proposed requirement that funds, whose after-tax returns exceed before-tax returns, explain the reason for this result. Funds, however, will have the option of including this explanatory material. Item 2(c)(2)(iv)(D) of Form N-1A.
+
+83 As discussed above, we have simplified the proposal to require a fund offering more than one class of shares in its prospectus to show after-tax returns for one class only. See Section II.C., supra notes 48-50 and accompanying text. Consistent with this modification, such funds will be required to include disclosure that after-tax returns are shown for only one class and that after-tax returns for other classes will vary. Item 2(c)(2)(iv)(C) of Form N-1A.
+
+84 Item 2(c)(2)(i) of Form N-1A.
+
+85 Instruction 6 to Item 21(b)(1) of Form N-1A.
+
+86 17 CFR 230.485(b).
+
+87 As discussed above, we have modified the proposal by eliminating the proposed requirement to include after-tax returns in the MDFP, which is typically contained in the annual report. Accordingly, the hour burden for preparing and filing annual reports in compliance with rule 30d-1 will be reduced by 7.5 hours. See Proposing Release, supra note 1, at nn. 107-110, and accompanying text (discussing the estimated hour burden for proposal requiring after-tax return disclosure in annual reports). Funds will be required to include a statement in the MDFP that accompanies the performance table and graph to the effect that the returns shown do not reflect the deduction of taxes that a shareholder would pay on fund distributions or the redemption of fund shares. Item 5(b)(2) of Form N-1A. We believe that the hour burden for the required statement in the MDFP will be negligible and will not result in a change to the current hour burden for preparing and filing annual reports.
+
+88 2000 Mutual Fund Fact Book, supra note 2, at 56.
+
+89 Liberty Funds Release, supra note 3.
+
+90 KPMG study, supra note 4, at 14.
+
+91 Clements, supra note 5, at C1.
+
+92 Dreyfus Corporation, supra note 6.
+
+93 See supra note 10 and accompanying text.
+
+94 In its prospectus, a mutual fund is required to disclose (i) the tax consequences of buying, holding, exchanging, and selling fund shares, including the tax consequences of fund distributions; and (ii) whether the fund may engage in active and frequent portfolio trading to achieve its principal investment strategies, and, if so, the tax consequences of increased portfolio turnover and how this may affect fund performance. See Item 7(e) of Form N-1A; Instruction 7 to Item 4 of Form N-1A. A fund also must disclose in its prospectus turnover rate and dividends and capital gains distributions per share for each of the last five fiscal years. See Items 9(a) and 22(b)(2) of Form N-1A. These items also require funds to show net realized and unrealized gain or loss on investments on a per share basis for each of the fund's last five fiscal years.
+
+95 Given the $2.1 trillion of assets held in individual non-money market fund taxable accounts, even a small change in relative after-tax returns affecting only a small portion of those assets can lead to significant benefits to investors.
+
+96 A service provider that compiles and disseminates fund pricing and performance information recently announced that it will offer to calculate and publish after-tax returns for its fund clients. See Daly, Program Lets Fund Companies Offer After-Tax Returns (Dec. 29, 1999) (visited Feb. 9, 2000) http://www.ignites.com/.
+
+97 As discussed above, we have modified the proposal by: eliminating the proposed requirement to disclose pre-liquidation before-tax returns; eliminating after-tax returns in annual reports; streamlining the required narrative disclosure; and simplifying the presentation for funds that offer multiple classes in a single prospectus.
+
+98 This estimate is based on the staff's consultations with industry representatives.
+
+99 The number of funds referenced in post-effective amendments that will be affected by the amendments is computed by subtracting those funds that are exempt from or permitted to omit the after-tax disclosure from the number of funds referenced in post-effective amendments (7,875 - 1,040 - 1,575, or 5,260). For purposes of our analysis, we have not excluded certain funds that also would be permitted to omit the after-tax return disclosure, such as funds that distribute prospectuses for use by investors in 401(k) plans or other similar tax-deferred arrangements. While these funds will be permitted to omit the after-tax return disclosure in prospectuses distributed to investors in these tax-deferred arrangements, they will still incur a burden from including the disclosure in prospectuses distributed to other investors.
+
+100 This cost estimate is calculated by multiplying the estimated number of hours to comply with the requirements (94,680 hours) by the weighted average hourly wage ($64). The Commission's estimate concerning the burden hours is based on the staff's consultation with industry representatives. The Commission's estimate concerning the wage rate is based on salary information for the securities industry compiled by the Securities Industry Association. See Securities Industry Association, Report on Management & Professional Earnings in the Securities Industry 1999 (Sept. 1999).
+
+101 The estimate is based on the staff's consultation with industry representatives.
+
+102 Software-related costs may decrease as vendors offering services for computing the new standardized after-tax returns enter the market. See Daly, Program Lets Fund Companies Offer After-Tax Returns (Dec. 29, 1999) (visited Feb. 9, 2000) http://www.ignites.com/.
+
+103 This estimate is based on the assumption that tax-managed funds and index funds would be most likely to use advertisements that either include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance.
+
+104 This estimate is based on the staff's consultations with industry representatives.
+
+105 The total cost of the annual hour burden is calculated by multiplying the annual hour burden (79) by the weighted average hourly wage ($64). See supra note 100.
+
+106 These estimates are based on filings received in calendar year 1999.
+
+107 This number is computed by subtracting from the number of respondents filing rule 34b-1 sales material the number of money market funds, the number of funds and UITs registered on Forms N-3 and N-4, and the number of funds used as underlying portfolios for variable insurance contracts (8,495 - 1,040 - 620 - 1,575, or 5,260).
+
+108 This estimate is based on the assumption that tax-managed funds and index funds would be most likely to advertise after-tax performance.
+
+109 The total annual burden for the amendments is computed by multiplying the estimated number of respondents (157.8) subject to rule 34b-1 by the additional burden imposed by the amendments (.5). The total cost of the annul burden attributable to the amendments is calculated by multiplying the total burden hours (78.9) by the weighted average hourly rate of $64.
+
+110 15 U.S.C. 77(b), 78c(f), and 80a-2(c).
+
+111 See supra notes 1-5 and accompanying text.
+
+112 See supra note 10 and accompanying text.
+
+113 See supra note 11 and accompanying text.
+
+114 See supra note 12 and accompanying text.
+
+115 17 C.F.R. 270.0-10.
+
+116 This estimate is based on statistics compiled by the Commission's Division of Investment Management staff from January 1, 1999, through December 31, 1999.
+
+117 This estimate is based on statistics compiled by the Commission's Division of Investment Management staff from January 1, 1999, through December 31, 1999.
+
+118 This estimate is based on the staff's consultation with industry representatives. Since an investment company filing an initial registration statement on Form N-1A has no performance history to disclose, the proposed amendments would not affect such initial filings.
+
+119 This estimate is based on the staff's consultation with industry representatives.
+
+120 This estimate is based on the staff's consultation with industry representatives.
+
+121 As discussed above, we have modified the proposal by: eliminating the proposed requirement to disclose pre-liquidation before-tax returns; eliminating after-tax returns in annual reports; streamlining the required narrative disclosure; and simplifying the presentation for funds that offer multiple classes in a single prospectus.
+
+122 The amendments modify rule 482, which is part of Regulation C under the Securities Act of 1933. Regulation C describes the disclosure that must appear in registration statements under the Securities Act and Investment Company Act. The PRA burden associated with rule 482, however, is included in the investment company registration statement form, not in Regulation C. In this case, the amendments to rule 482 will affect the burden hours for Form N-1A, the registration form for open-end investment companies that currently advertise pursuant to rule 482. We estimate that the burden associated with Regulation C will not change with the amendments to rule 482.
+
+123 As discussed above, we have modified the proposal by eliminating the proposed requirement to include after-tax returns in the MDFP, which is typically contained in the annual report. Accordingly, the hour burden for preparing and filing annual reports in compliance with rule 30d-1 will be reduced by 7.5 hours. See Proposing Release, supra note 1, at nn. 107-110, and accompanying text (discussing the estimated hour burden for proposal requiring after-tax return disclosure in shareholder reports). Funds will be required to include a statement in the MDFP that accompanies the performance table and graph to the effect that the returns shown do not reflect the deduction of taxes that a shareholder would pay on fund distributions or the redemption of fund shares. Item 5(b)(2) of Form N-1A. We believe that the hour burden for the required statement in the MDFP will be negligible and will not result in a change to the current hour burden for preparing and filing annual reports.
+
+124 As discussed above, we have modified the proposal by: eliminating the proposed requirement to disclose pre-liquidation before-tax returns; eliminating after-tax returns in annual reports; streamlining the required narrative disclosure; and simplifying the presentation for funds that offer multiple classes in a single prospectus. The elimination of after-tax returns in annual reports will reduce the hour burden for preparing and filing annual reports in compliance with rule 30d-1 by 7.5 hours. See Proposing Release, supra note 1, at nn. 107-110, and accompanying text (discussing the estimated hour burden for proposal requiring after-tax return disclosure in annual reports). We do not believe, however, that the other three modifications will affect the estimated burden hours overall.
+
+125 These estimates are based on filings received in calendar year 1999. The current approved hour burden per portfolio for an initial Form N-1A is 824 hours.
+
+126 These estimates are based on filings received in calendar year 1999. The current approved hour burden per portfolio for post-effective amendments to Form N-1A is 104 hours.
+
+127 This estimate is based on the staff's consultations with industry representatives.
+
+128 The number of funds referenced in post-effective amendments that will be affected by the amendments is computed by subtracting those funds that are exempt from or permitted to omit the after-tax return disclosure from the number of funds referenced in post-effective amendments (7,875 - 1,040 - 1,575, or 5,260). For purposes of our analysis, we have not excluded certain funds that also would be permitted to omit the after-tax return disclosure, such as funds that distribute prospectuses for use by investors in 401(k) plans or other similar tax-deferred arrangements. While these funds will be permitted to omit the after-tax return disclosure in prospectuses distributed to investors in these tax-deferred arrangements, they would still incur a burden from including the disclosure in prospectuses distributed to all other investors.
+
+129 This total annual hour burden is calculated by adding the total annual hour burden for initial registration statements and the total annual hour burden for post-effective amendments, including the additional burden imposed by the amendments. As explained, the hour burden per portfolio for an initial filing would remain at 824 hours, for a total burden of 245,552 hours. The hour burden per portfolio for a post-effective amendment will be 122 hours (104 + 18), with a burden of 104 hours imposed on all 7,875 portfolios (104 × 7,875, or 819,000) and the additional 18 hours affecting 5,260 portfolios (18 × 5,260, or 94,680). Moreover, since the burden associated with rule 482 is included in Form N-1A (as discussed in note 122, supra ), the Form N-1A burden will include the estimated rule 482 burden of .5 hours (the rule 482 burden is discussed below) that will be imposed on the three percent of funds that we estimate would use advertisements or sales literature that either include after-tax returns or include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance [.5 × (5,260 × 3%), or 79]. Thus, the total annual hour burden for all funds for the preparation and filing of initial registration statements and post-effective amendments on Form N-1A will be 1,159,311 hours (245,552 + 819,000 + 94,680 + 79).
+
+130 See supra note 122.
+
+131 This estimate is based on the assumption that tax-managed funds and index funds would be most likely to advertise after-tax performance or use advertisements that include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance.
+
+132 This estimate is based on the staff's consultations with industry representatives.
+
+133 These estimates are based on filings received in calendar year 1999. The current approved hour burden per response for rule 34b-1 is 2.4 hours.
+
+134 This number is computed by subtracting from the number of respondents filing rule 34b-1 sales material the number of money market funds, the number of funds and UITs registered on Forms N-3 and N-4, and the number of funds used as underlying portfolios for variable insurance contracts (8,495 - 1,040 - 620 - 1,575, or 5,260).
+
+135 This estimate is based on the assumption that tax-managed funds and index funds would be most likely to advertise after-tax performance or use advertisements that include other performance information together with representations that the fund is managed to limit or control the effect of taxes on performance.
+
+136 The current total annual hour burden is computed by multiplying the number of responses filed annually under rule 34b-1 by the current hour burden (37,000 × 2.4). The total annual hour burden for the industry has increased significantly from previous estimates because we have reevaluated the number of respondents subject to rule 34b-1.
+
+137 The total annual burden is computed by adding the current burden (2.4 × 37,000, or 88,800) to the additional burden imposed by the proposed amendments [.5 × (8,495 - 1,040 - 620 - 1,575) × 4.35 × 3%, or 343].  http://www.sec.gov/rules/final/33-7941.htm

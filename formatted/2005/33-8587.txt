@@ -1,0 +1,671 @@
+https://www.sec.gov/rules/final/33-8587.pdf
+
+I.0.0.0 INTRODUCTION
+
+II.0.0.0 ADOPTED RULES AND RULE AMENDMENTS
+
+		II..10.0 KSB, and Form 20-F to allow market participants and regulators to identify shell companies more easily.
+
+	II.A.0.0 Definition of “Shell Company”
+
+		II.A.1.0 Discussion of the Proposal
+
+		II.A.2.0 Comments on the Proposal
+
+		II.A.3.0 Final Rules
+
+		II.A.4.0 Definition of “Business Combination Related Shell Company”
+
+	II.B.0.0 Definition of “Succession”
+
+	II.C.0.0 Amendments to Securities Act Form S-8
+
+		II.C.1.0 Discussion of the Proposal
+
+		II.C.10.0 SB, or Form 20-F under Section 12(g) of the Exchange Act.39
+
+		II.C.2.0 Comments on the Proposal
+
+		II.C.3.0 Final Rule
+
+	II.D.0.0 Exchange Act Form 8-K
+
+		II.D.1.0 Discussion of the Proposal
+
+		II.D.2.0 Comments on the Proposal
+
+		II.D.3.0 Final Rule
+
+	II.E.0.0 Shell Companies that Are Foreign Private Issuers
+
+		II.E.1.0 Form S-8
+
+		II.E.2.0 Exchange Act Reporting of Transactions that Cause a Foreign Private Issuer to Cease Being a Shell Company
+
+	II.F.0.0 Shell Company Check Box on Exchange Act Reports
+
+III.0.0.0 PAPERWORK REDUCTION ACT
+
+	III.A.0.0 Summary of Amendments
+
+	III.B.0.0 Summary of Comment Letters and Revisions to Proposals
+
+	III.C.0.0 Form S-8
+
+	III.D.0.0 Form 8-K
+
+	III.E.0.0 Form 20-F
+
+IV.0.0.0 COSTS AND BENEFITS
+
+	IV.A.0.0 Form S-8
+
+		IV.A.1.0 Costs of Form S-8 Amendments
+
+		IV.A.2.0 Benefits of Form S-8 Amendments
+
+	IV.B.0.0 Form 8-K
+
+		IV.B.1.0 Costs of Form 8-K Amendments
+
+			IV.B.1.a New Item 5.06 of Form 8-K
+
+			IV.B.1.b Revised Items 2.01 and 5.01 of Form 8-K
+
+		IV.B.2.0 Benefits of Form 8-K Amendments
+
+	IV.C.0.0 Form 20-F
+
+		IV.C.1.0 Costs of Form 20-F Amendment
+
+		IV.C.2.0 Benefits of Form 20-F Amendments
+
+V.0.0.0 CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
+
+VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
+
+	VI.A.0.0 Reasons for and Objectives of the Amendments
+
+	VI.B.0.0 Significant Issues Raised by Public Comment
+
+	VI.C.0.0 Small Entities Subject to the Amendments
+
+	VI.D.0.0 Reporting, Record Keeping, and Other Compliance Requirements
+
+	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+		VI.E.1.0 establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;
+
+		VI.E.2.0 clarification, consolidation, or simplification of compliance and reporting requirements for such small entities;
+
+		VI.E.3.0 use of performance rather than design standards; and
+
+		VI.E.4.0 an exemption from coverage of the amendments, or any part thereof, for small entities.
+
+VII.0.0.0 STATUTORY BASIS AND TEXT
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 230, 239, 240 and 249
+
+[Release Nos. 33-8587; 34-52038; International Series Release No. 1293; File No. S7-19-04]
+
+RIN 3235-AH88
+
+USE OF FORM S-8, FORM 8-K, AND FORM 20-F BY SHELL COMPANIES
+
+AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission is adopting rules and rule amendments relating to filings by reporting shell companies. We are defining a “shell company” as a registrant with no or nominal operations and either no or nominal assets, assets consisting solely of cash and cash equivalents, or assets consisting of any amount of cash and cash equivalents and nominal other assets. The rules and rule amendments prohibit the use of Form S-8 under the Securities Act of 1933 by shell companies. In addition, they require a shell company that is reporting an event that causes it to cease being a shell company to disclose the same type of information that it would be required to provide in registering a class of securities under the Securities Exchange Act of 1934. These provisions are intended to protect investors by deterring fraud and abuse in our securities markets through the use of reporting shell companies.
+
+EFFECTIVE DATE: August 22, 2005, except Item 5.06 of Exchange Act Form 8-K (referenced in § 249.308) will take effect on November 7, 2005.
+
+FOR FURTHER INFORMATION CONTACT: Kevin M. O’Neill, Special Counsel, Office of Small Business Policy, Division of Corporation Finance, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549, at (202) 551-3260.
+
+SUPPLEMENTARY INFORMATION: We are adopting rules and rule amendments designed to protect investors by deterring fraud and abuse in our securities markets through the
+
+use of reporting shell companies. <sup>1</sup> We are amending Form S-8 <sup>2</sup> under the Securities Act of 1933 <sup>3</sup> to prohibit use of the form by shell companies. We also are amending the requirements of Form 8-K <sup>4</sup> under the Securities Exchange Act of 1934 as they apply to shell companies. In addition, we are amending Rule 405 <sup>5</sup> under the Securities Act and Rule 12b-2 <sup>6</sup> under the Exchange Act to define the terms “business combination related shell company” and “shell company,” and amending Rule 12b-2 under the Exchange Act to revise the definition of the term “succession.” Further, we are amending Rule 13a-14 <sup>7</sup> and Rule 15d-14 <sup>8</sup> under the Exchange Act, adding new Rule 13a-19 <sup>9</sup> and new Rule 15d-19 <sup>10</sup> under the Exchange Act, and amending Form 20-F <sup>11</sup> under the Exchange Act to address the reporting obligations of foreign private
+
+issuers that are shell companies. Finally, we are amending Form 10-Q, <sup>12</sup> Form 10-QSB, <sup>13</sup> Form 10-K, <sup>14</sup> Form 10-KSB, <sup>15</sup> and Form 20-F under the Exchange Act to require companies to indicate on the cover page of those forms whether they fall within the definition of “shell company.”
+
+The rules and rule amendments we are adopting today do not address the relative merits of shell companies. We recognize that companies and their professional advisors often use shell companies for many legitimate corporate structuring purposes. Similarly, our definition and use of the term “shell company” is not intended to imply that shell companies are inherently fraudulent. Rather, these rules target regulatory problems that we have identified where shell companies have been used as vehicles to commit fraud and abuse our regulatory processes.
+
+<END HEADER>
+
+<h>I. INTRODUCTION</h>
+
+On April 15, 2004, we proposed rules and rule amendments related to filings by reporting shell companies. <sup>16</sup> We proposed to define the term “shell company.” We also proposed to prohibit the use of Form S-8 under the Securities Act by shell companies. Additionally, we proposed to amend Form 8-K under the Exchange Act to require a shell company, when reporting an event that causes it to cease being a shell company, to file with the Commission the same type of information that it would be required to file in registering a class of securities under the Exchange Act.
+
+In response to these proposals, we received approximately 30 comment letters fromvarious interested parties, including investors, issuers, accountants, lawyers, and organizations. We have considered all of the comment letters and have incorporated certain of the suggestions in those letters in the final rules.
+
+The provisions we adopt today address the inappropriate use of Form S-8 registration statements by reporting shell companies to circumvent the registration and prospectus delivery requirements of the Securities Act. Because shell companies do not operate businesses and, hence, rarely have employees, we see little legitimate basis for shell companies to use Form S-8. For this reason, and because of the history of abuse of Form S-8 by reporting shell companies, we are prohibiting shell companies from using Form S-8 until 60 days after they cease being shell companies and file required information. We have, however, included limited exceptions to this prohibition for shell companies that are used in certain change of domicile or business combination transactions.
+
+The provisions we adopt today also address the use of Form 8-K to report “reverse merger” and other transactions in which a reporting shell company ceases being a shell company, generally by combining with a formerly private operating business. Through such a transaction, the private operating business, in effect, becomes a reporting company. These transactions generally take one of two forms:
+
+In the most common type of transaction, a “reverse merger,” the private business merges into the shell company, with the shell company surviving and the former shareholders of the private business controlling the surviving entity.
+
+In another common type of transaction, a “back door registration,” the shell company merges into the formerly private company, with the formerly private company surviving and the shareholders of the shell company becoming shareholders of thesurviving entity. <sup>17</sup>
+
+In these transactions, the reporting company has an obligation to file current reports on Form 8-K to report both the entry into a material non-ordinary course agreement providing for the transaction and the completion of the transaction. Specifically, in both types of transactions, the entry into the agreement would require a report under Item 1.01 of Form 8-K (Entry Into a Material Definitive Agreement) by the shell company. The completion of the transaction would be reportable under either or both of Item 2.01 of Form 8-K (Completion of Acquisition or Disposition of Assets) and Item 5.01 of Form 8-K (Changes in Control of Registrant) by the surviving entity. <sup>18</sup> Audited financial statements and pro forma financial information would be required to be filed under Item 9.01 of Form 8-K (Financial Statements and Exhibits) for transactions reportable under Item 2.01. <sup>19</sup>
+
+<h>II. ADOPTED RULES AND RULE AMENDMENTS</h>
+
+We are adopting the rules and rule amendments substantially as proposed. The substantive changes to the proposals, as discussed below, are:we have revised the definition of “shell company” to specify the manner in whichassets are to be determined and to exclude asset-backed issuers; <sup>20</sup>we have added a definition of the term “business combination related shell company” to specify those shell companies that are used to effect certain change in domicile and business combination transactions;we have provided limited exceptions to the amendments to Form S-8, Form 8-K, and Form 20-F for business combination related shell companies;we have added new Item 5.06 to Form 8-K to require shell companies (other than business combination related shell companies) to report transactions that cause them to cease being shell companies;we have added a check box to Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, and Form 20-F to identify shell companies filing those forms; andwe have adopted rules and rule amendments requiring a foreign private issuer shell company to file a “shell company report” on Form 20-F to report a transaction that causes it to cease being a shell company. <sup>21</sup>
+
+We are adopting the definition of the term “shell company” substantially as proposed.
+
+The adopted definition includes minor modifications, including:an exclusion for asset-backed issuers that might inadvertently fall within the definition;a clarification that a company would still be a shell company if its assets consist of any amount of cash and cash equivalents, as well as nominal other assets; anda clarification that the determination of the company’s assets (including cash and cash equivalents) for purposes of the definition must be limited to the amount of assets that would be reflected on the company’s balance sheet prepared in accordance with U.S. generally accepted accounting principles on the date of that determination.
+
+We have defined the term “business combination related shell company.” We have adopted this definition to identify the subset of shell companies for which certain of the amendments to Form S-8, Form 8-K, and Form 20-F will not apply. We also have revised the definition of “succession” under the Exchange Act, as proposed, to capture certain transactions involving shell companies.
+
+We are adopting amendments to Form S-8 that prohibit shell companies from using that form to register offerings of securities. A former shell company will become eligible to use Form S-8 to register offerings of securities 60 calendar days after it ceases being a shell company and files information equivalent to what it would be required to file if it were registering a class of securities on Form 10, <sup>22</sup> Form 10-SB, <sup>23</sup> or Form 20-F under the Exchange Act. We are adopting a limited exception to the Form S-8 prohibition that permits a former business combination related shell company to use Form S-8 immediately after it ceases being a shell company and files the required information.
+
+The amendments to Form 8-K that we are adopting today apply to reporting shell companies, other than those that are foreign private issuers. The amendments require such a company, when reporting on Form 8-K an event that causes it to cease being a shell company, to include in that report the information that it would be required to file to register a class ofsecurities under Section 12 of the Exchange Act <sup>24</sup> using Form 10 or Form 10-SB. The report is required to be filed within the same filing period as generally is required for other Form 8-K reports, which is within four business days after completion of the transaction. Further, the extension of time that otherwise may be permitted to file financial statements and pro formafinancial information reflecting the new financial profile of the company following completion of a significant acquisition would be eliminated for shell companies. We are adopting similar reporting requirements for foreign private issuers on Form 20-F.
+
+Finally, we are adding a check box to Form 10-Q, Form 10-QSB, Form 10-K, Form
+
+<h>10. KSB, and Form 20-F to allow market participants and regulators to identify shell companies more easily.</h>
+
+<h>A. Definition of “Shell Company”</h>
+
+<h>1. Discussion of the Proposal</h>
+
+We proposed to define the term “shell company” as a company with no or nominal operations, and with no or nominal assets or assets consisting solely of cash and cash equivalents. <sup>25</sup> We proposed that this definition be added to Rule 405 under the Securities Act and Rule 12b-2 under the Exchange Act. We indicated in the proposing release that we intentionally were not proposing to use the term “blank check company” used in Rule 419 <sup>26</sup> under the Securities Act because we believe the term “shell company” and our proposed definition of the term better describe the type of company involved in the schemes that we are attempting to address, use criteria that are more specific, and would be easier to apply.
+
+<h>2. Comments on the Proposal</h>
+
+Approximately ten commenters expressed their views regarding the proposed definition of “shell company.” Three commenters asked that the terms “nominal operations” and “nominal assets” be defined. <sup>27</sup> These commenters sought more guidance as to the meaning of these terms and quantitative thresholds for the term “nominal.” One of these commenters requested an objective test, such as specific quantitative thresholds tied to specific dollar amounts. <sup>28</sup>
+
+Another commenter suggested that the proposed definition be modified to clarify that nominal assets appearing on a balance sheet prepared other than in accordance with generally accepted accounting principles do not qualify as assets for purposes of avoiding classification as a shell company. <sup>29</sup> Two commenters expressed support for a definition based on the term “blank check company” in Securities Act Rule 419 to describe the types of entities that should be subject to the Form S-8 and Form 8-K proposals. <sup>30</sup>
+
+<h>3. Final Rules</h>
+
+As adopted, Securities Act Rule 405 and Exchange Act Rule 12b-2 define a “shell company” as a company, other than an asset-backed issuer, with:no or nominal operations; andeither:no or nominal assets;assets consisting solely of cash and cash equivalents; orassets consisting of any amount of cash and cash equivalents and nominal other assets.
+
+For purposes of this definition, the determination of a company’s assets (including cash and cash equivalents) must be based on the amounts that would be reflected on the company’s balance sheet prepared in accordance with U.S. generally accepted accounting principles on the date of that determination. We have added the language “or assets consisting of any amount of cash and cash equivalents and nominal other assets” to further clarify the definition. This clarification is consistent with the intended meaning of the proposed definition.
+
+After considering the comments on our proposed definition of shell company, we continue to believe that the proposed definition best describes the types of companies involved in the schemes we are attempting to address and can be applied with certainty. <sup>31</sup> We do not believe that the suggestions in the comment letters would result in a significantly improved definition of shell company. Further, we believe that the definition reflects the traditional understanding of the term “shell company” in the area of corporate finance.
+
+We are not defining the term “nominal,” as we believe that this term embodies the principle that we seek to apply and is not inappropriately vague or ambiguous. <sup>32</sup> We haveconsidered the comment that a quantitative threshold would improve the definition of shell company; however, we believe that quantitative thresholds would, in this context, present a serious potential problem, as they would be more easily circumvented. We believe further specification of the meaning of “nominal” in the definition of “shell company” is unnecessary and would make circumventing the intent of our regulations and the fraudulent misuse of shell companies easier.
+
+<h>4. Definition of “Business Combination Related Shell Company”</h>
+
+The definition of “shell company” includes a shell company that is used to change an entity’s domicile and a shell company that is formed to effect a business combination transaction. As proposed, a shell company formed solely for the purpose of changing the domicile of a non-shell entity would have been permitted to use Form S-8 immediately after it ceased being a shell company and filed required information. In this regard, we received comment expressing the view that public companies formed to effect mergers, acquisitions, and public spin-off transactions also should be permitted to use Form S-8 within that timeframe. <sup>33</sup>
+
+We believe that there is a subset of shell companies for which the delay in the use of Form S-8, as well as certain of the reporting requirements under Form 8-K and Form 20-F, as discussed below, are not necessary. Accordingly, we have defined the term “business combination related shell company” to identify those entities that we believe fall within this subset of shell companies. As adopted today, a “business combination related shell company” is:a shell company formed by an entity that is not a shell company solely for the purposeaffiliates) before, upon completion of, or shortly after a business combination transaction by that company, those assets or operations would be considered “nominal” for purposes of the definition of shell company.of changing that entity’s domicile solely within the United States; <sup>34</sup> ora shell company formed by an entity that is not a shell company solely for the purpose of completing a business combination transaction among one or more entities other than the shell company, none of which is a shell company. <sup>35</sup>
+
+<h>B. Definition of “Succession”</h>
+
+We are adopting as proposed the amendment to the definition of the term “succession” in Exchange Act Rule 12b-2 to include a change in control of a shell company that is required to be reported on Form 8-K pursuant to Item 5.01 of that Form or on Form 20-F pursuant to new Exchange Act Rule 13a-19 or 15d-19. This amendment will, in most cases, require a non-public acquiring company to succeed to the reporting obligations of a shell company and become a reporting company. <sup>36</sup> For a shell company with securities registered under Section 12 of the Exchange Act, this will occur because Exchange Act Rule 12g-3 will, with limited exceptions, impose Section 12 registration on the securities of the acquiror without the necessity of filing an Exchange Act registration statement. Similarly, for a shell company with a reporting obligationunder Section 15(d) of the Exchange Act, the acquiror may be deemed to have assumed the reporting obligation of the shell company by operation of Exchange Act Rule 15d-5. Because of the interaction of the revised definition of “succession” and Exchange Act Rules 12g-3 and15d-5, a private entity that acquires a reporting shell company generally will report the transaction on Form 8-K, which in this case calls for Exchange Act registration-level disclosure, in accordance with the requirements of Form 8-K rather than filing an Exchange Act registration statement. <sup>37</sup> We believe this Form 8-K reporting requirement provides the appropriate timing, method, and level of disclosure to investors.
+
+<h>C. Amendments to Securities Act Form S-8</h>
+
+<h>1. Discussion of the Proposal</h>
+
+We proposed amendments to prohibit the use of Form S-8 by any shell company. As proposed, a company that ceased being a shell company would become eligible to use Form S-8 to register offerings of securities 60 calendar days after it filed information equivalent to what it would be required to file if it were registering a class of securities under Section 12 of the Exchange Act through the use of Form 10, Form 10-SB, or Form 20-F, as applicable to that company. <sup>38</sup> On most occasions, this would occur upon the completion of a reverse merger or back door registration transaction, and the information would be filed in a current report on Form 8-K reporting the transaction that causes the company to cease being a shell company. In some circumstances the information could be filed in a Form 10, Form 10-SB, or Form 20-F, or in a
+
+Securities Act registration statement covering the transaction.
+
+A registration statement on Form 10, Form 10-SB, or Form 20-F provides investors with important information about the company in which they are considering investing. The 60-day delay between the filing of that information and the use of Form S-8 was intended to give employees and the markets sufficient time to absorb the information provided by the company in its Form 8-K or other filing. The 60-day period is consistent with the 60-day period between the filing and effectiveness of a company’s registration of a class of securities on Form 10, Form
+
+<h>10. SB, or Form 20-F under Section 12(g) of the Exchange Act.39</h>
+
+<h>2. Comments on the Proposal</h>
+
+Most commenters expressed support for our initiative, through the Form S-8 proposal, to deter fraud and abuse in our securities markets by the use of shell companies. Eight commenters expressed the view that shell companies should, at least under certain circumstances, continue to be eligible to use Form S-8 for offering securities to officers, directors, and employees. <sup>40</sup> Three commenters proposed permitting a shell company to use Form S-8 to register offerings up to a percentage of its outstanding public float. <sup>41</sup> Three commenters agreed that the proposed 60-day waiting period should not be shortened. <sup>42</sup> Another commenter expressed the view that we should exclude public companies formed to effect mergers, acquisitions, and public spin-off transactions, as it is critical that such companies be able to use Form S-8 to register offerings ofsecurities under employee benefit plans immediately after the closing of such transactions. <sup>43</sup> This same commenter stated that the 60-day waiting period in the Form S-8 proposal would be an unnecessary restriction on such a successor company’s ability to sell shares in registered offerings pursuant to employee benefit plans. <sup>44</sup> The commenter proposed that shell companies be permitted to use Form S-8 immediately after their conversion to an operating company, particularly where another filing has been made that meets the disclosure requirements.
+
+<h>3. Final Rule</h>
+
+A registration statement on Form S-8 becomes effective upon filing with the Commission and does not require a prospectus to be filed as part of the registration statement. <sup>45</sup> Some shell companies seeking to distribute their securities and raise capital inappropriately use Form S-8.
+
+As we discussed in the proposing release, we continue to see the misuse of Form S-8 to register the sale of shares to purported employees or other nominees, who often are designated as “consultants” but who often do not provide services for which the company may offer securities in a transaction registered on Form S-8. <sup>46</sup> These schemes lead to unregistered resales of securities into the public market by these purported “employees” or “consultants,” denying the protections of the Securities Act to the real public purchasers of the company’s securities. <sup>47</sup>
+
+We are adopting the amendments to Form S-8 essentially as proposed, as we continue to believe that prohibiting the use of Form S-8 by shell companies justifies the burdens or costs thatmight be incurred. Accordingly, an entity may use Form S-8 to register offerings of securities pursuant to employee benefit plans only if:immediately before the time of filing the registration statement, the entity is subject to the requirement to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act;the entity has filed all reports and other materials required to be filed by Section 13 or Section 15(d) of the Exchange Act during the preceding 12 months (or for such shorter period that the registrant was required to file such reports and materials);the entity is not a shell company and has not been a shell company for at least 60 days before filing the registration statement; andif the entity has been a shell company at any time, it has filed current “Form 10 information” with the Commission at least 60 days previously reflecting its status as an entity that is not a shell company. <sup>48</sup>
+
+We have included exceptions to the Form S-8 prohibition to permit its use by certain shell companies that appear to present less potential for abuse. We proposed to permit certain shell companies that were used to change corporate domicile to use Form S-8 immediately after they cease being shell companies and file “Form 10 information.” We are maintaining this provision. In response to comments, we also are permitting certain shell companies that were formed solely to effect business combination transactions to use Form S-8 immediately after they cease being shell companies and file “Form 10 information.” We have taken two steps to accomplish these exceptions. First, we have defined “business combination related shell company,” as discussed previously, to identify the subset of shell companies that qualify for theexception. Second, we are providing in Form S-8 that a business combination related shell company may use Form S-8 immediately upon ceasing to be a shell company and filing “Form 10 information.” <sup>49</sup>
+
+We believe the amendments we are adopting today are appropriate, as we continue to see misuse of Form S-8 by shell companies and believe that prohibiting the use of Form S-8 by shell companies will help to deter fraud and abuse. Further, the commenters that indicated that shell companies should be eligible to use Form S-8 for offering securities to officers, directors, and employees provided only limited explanation as to why this practice should continue for all shell companies.
+
+The prohibitions on the use of Form S-8 that we are adopting today will not prevent a shell company from registering offers and sales of securities pursuant to employee benefit plans under the Securities Act; rather, they will require the shell company to register those transactions on a registration statement form other than Form S-8. In addition, the shell company may be able to offer and sell those securities without registration pursuant to an available exemption under the Securities Act. We are aware that a different registration statement form may not provide the same ease of registration as Form S-8 and that the resale of securities originally sold in a transaction that is exempt from Securities Act registration likely would be treated differently under Securities Act Rule 144 <sup>50</sup> than securities sold to employees in a registered transaction. We believe that the benefits of this amendment in preventing misuse of Form S-8, deterring fraud, and protecting investors substantially justify the potential disadvantages for shell companies.
+
+<h>D. Exchange Act Form 8-K</h>
+
+<h>1. Discussion of the Proposal</h>
+
+We proposed amendments to Form 8-K to require a shell company (other than a foreign private issuer) to make a more prompt and detailed filing upon completion of a transaction otherwise required to be reported on that form that causes it to cease being a shell company.
+
+Specifically, the shell company would have been required to file a current report on Form 8-K containing the information that would be required in a registration statement on Form 10 or Form 10-SB to register a class of securities under Section 12 of the Exchange Act. We proposed that a company be required to file this report on Form 8-K within four business days after completion of the transaction, consistent with the timeframe for most Form 8-K filings.
+
+We proposed elimination of the additional 71-day “window” for filing required financial information in a Form 8-K report filed pursuant to Item 2.01 of that form. <sup>51</sup> This window is the period of time between the date the registrant files its initial Form 8-K reporting the event and the date when the registrant is required to file financial information about the transaction. We believed that the elimination of the 71-day window would provide investors in operating businesses newly merged with shell companies with a level of information that is equivalent to the information provided to investors in reporting companies that did not originate as shell companies. The purpose for requiring this financial information at the time of the initial filing of the Form 8-K report was to decrease opportunities to engage in fraudulent and manipulative activity during the 71-day window period.
+
+<h>2. Comments on the Proposal</h>
+
+The comments responding to the Form 8-K proposal were varied. Four commentersexpressed concern with the difficulty of preparing the required information and completing the filing of the required disclosure on Form 8-K within four days. <sup>52</sup> Three commenters also expressed concern over the amount of disclosure that was proposed to be included in the Form 8-K. <sup>53</sup> Each of those commenters believed that less information than the information equivalent to that required in a Form 10 or Form 10-SB would be adequate. Two of the commenterssuggested that a level of information similar to that required under Exchange Act Schedule 14A <sup>54</sup> would be adequate, <sup>55</sup> with the other commenter expressing the view that it would be appropriate to require only certain of the Form 10 or Form 10-SB information. <sup>56</sup> Two commenters suggested that the shell company be permitted to delay filing its required disclosure if there was no trading in its securities. <sup>57</sup> One of these commenters suggested retaining the 71-day window, but limiting the trading in the shell company’s securities by specified persons during that window. <sup>58</sup>
+
+Eight commenters supported the adoption of the Form 8-K proposal to provide information to investors and deter fraud and abuse by shell companies. <sup>59</sup> The commenters supported the proposed rulemaking as an opportunity for the Commission to provide a disincentive for shell company abuse. Four commenters supported closing the 71-day window,on the grounds that this would deter fraud and abuse. <sup>60</sup> Two of these commenters suggested that the Commission consider a compromise of between 15 and 45 days. <sup>61</sup> One of these commenters stated that the financial statements are “vital to an understanding” of the transaction and that the closing of the merger transaction should be delayed until such time as the financial statements are properly prepared. <sup>62</sup>
+
+<h>3. Final Rule</h>
+
+We are adopting the Form 8-K amendments substantially as proposed. The amendments to Form 8-K will require the surviving entity <sup>63</sup> in a transaction where a shell company ceases being a shell company to make a more specific and detailed filing upon completion of such a transaction that is required to be reported on that form. <sup>64</sup> These transactions will fall within the8-K. For ease of discussion in this section, we refer to the entity that is obligated to file the required information in a report on Form 8-K as the “surviving entity.” In the back door registration context, the surviving entity’s securities must meet all of the conditions of Exchange Act Rule 12g-3 for those securities to be deemed registered under the same paragraph of Exchange Act Section 12 under which the shell company’s securities were registered. For example, if the number of record holders of the surviving entity’s securities is less than 300, the securities of the surviving entity will not succeed automatically by operation of Exchange Act Rule 12g-3 to the reporting status of the shell company’s securities. Instead, the surviving entity would be required to file a Form 10 or 10-SB if it wishes to register the securities under Exchange Act Section 12. Similarly, under Exchange Act Rule 15d-5, the surviving entity will be considered the successor issuer by operation of Exchange Act Rule 15d-5 unless the surviving entity is exempt from filing reports or the duty to file reports is suspended under Section 15(d) of the Exchange Act.requirements of either or both of Item 2.01 and Item 5.01 of Form 8-K. <sup>65</sup> Upon completion of this type of transaction, the surviving entity will be required to file a current report on Form 8-K containing the information, including financial information, that would be required in a registration statement on Form 10 or Form 10-SB to register a class of securities under Section 12 of the Exchange Act, with that information reflecting the surviving entity and its securities upon consummation of the transaction. <sup>66</sup>
+
+We are requiring that the surviving entity file its report on Form 8-K within four business days after completion of the transaction that it is required to report. While we understand the concerns of commenters regarding this timeframe, we believe the timeframe is appropriate because shell companies and their counsel control the pace and timing of these transactions.
+
+Given the concerns unique to shell company transactions, we believe shell companies should complete a transaction that is required to be reported only when they can timely provide investors with adequate information to make informed investment decisions. <sup>67</sup> Moreover,companies with a level of information that is equivalent to the information provided to investors in reporting companies that did not originate as shell companies.
+
+This same principle will apply to information that previously was included in a filing under the Exchange Act. We have amended Form 8-K to make this clear.obtaining audited financial statements for the operating business in such a transaction should not present the difficulties that caused us to provide the extended filing window for business combinations involving reporting companies with operations. <sup>68</sup>
+
+We believe that prompt and proper disclosure of Exchange Act registration-level information at the time of shell company transactions will deter abuse and provide investors with information necessary for their investment decisions. Accordingly, we believe it is appropriate to require Form 10 or Form 10-SB information, as applicable, in the Form 8-K. This level of disclosure will provide investors in operating businesses newly merged with shell companies with prompt and detailed disclosure that is equivalent to the information provided to investors in reporting companies that register under the Exchange Act rather than reaching the same result through a transaction with a reporting shell company.
+
+We are adding new Item 5.06 to Form 8-K. <sup>69</sup> New Item 5.06 will require a shell company that completes a transaction in which it ceases being a shell company to file a report under that Item reporting the material terms of the transaction. If the shell company is not the surviving entity in the transaction in which it ceases to be a shell company, the surviving entity would succeed to the shell company’s obligation to comply with Item 5.06. <sup>70</sup> New Item 5.06 will allow market participants and regulators to more easily identify Form 8-K filings regarding shell company transactions and to more completely understand the terms of those transactions.
+
+Business combination related shell companies will not be subject to the requirements of Item 5.06. We believe this will enhance the use of Item 5.06 as a means by which market participants and regulators may identify filings on Form 8-K relating to shell company transactions that are not change in domicile transactions or business combination transactions among non-shell companies.
+
+We solicited comment as to whether we should take steps to make shell company transactions more easily identifiable. One commenter responded to this request. <sup>71</sup> That commenter supported improved identification of shell company transactions and expressed the view that it would be beneficial to “establish a mechanism that identifies those reporting companies that fall into the definition of shell company ….” <sup>72</sup> Because companies other than shell companies may file reports on Form 8-K under Item 2.01 or Item 5.01, we believe that it is appropriate to add an Item requirement to Form 8-K that is specific to shell companies other than business combination related shell companies.
+
+<h>E. Shell Companies that Are Foreign Private Issuers</h>
+
+<h>1. Form S-8</h>
+
+Some foreign private issuers that are registered with the Commission may fall within the definition of shell company that we are adopting today. A shell company that is a foreign private issuer is subject to the new rules regarding the use of Form S-8. We proposed that, as with a domestic shell company, a foreign private issuer shell company would be ineligible to file a registration statement on Form S-8 until 60 days after ceasing to be a shell company and filing the “Form 10 information” that the issuer would file if that issuer were registering a class ofsecurities under the Exchange Act. For a foreign private issuer, the proposal defined “Form 10 information” to mean the information required by Form 20-F to register the class of securities under the Exchange Act.
+
+We did not receive comments on the proposed amendments to Form S-8 as they relate to foreign private issuers. For purposes of Form S-8, we are adopting the definition of “Form 10 information,” when applicable to foreign private issuers, to mean information required by Form 20-F. <sup>73</sup>
+
+<h>2. Exchange Act Reporting of Transactions that Cause a Foreign Private Issuer to Cease Being a Shell Company</h>
+
+Unlike domestic issuers, foreign private issuers that are subject to the periodic reporting requirements under the Exchange Act generally are not required to file current reports on Form 8-K. <sup>74</sup> Instead, these issuers submit material current information on Form 6-K. <sup>75</sup> In the proposing release, we requested comment on alternative approaches with respect to disclosure requirements for foreign private issuer shell companies, including the appropriate form on which they should disclose a transaction with an operating business. We did not receive comments in response to this request.
+
+While we believe that foreign private issuer shell companies should be subject to the disclosure and timing requirements of the rules relating to shell companies, we believe those issuers should report on Form 20-F rather than Form 8-K. Accordingly, we are adopting new
+
+Exchange Act Rules 13a-19 and 15d-19. Under these new rules, a foreign private issuer that was a shell company immediately before entering into a transaction that causes it to cease being a shell company must report that transaction on a current basis on Form 20-F. <sup>76</sup> That report must contain the same information that would be required in a registration statement on Form 20-F used to register the classes of the foreign private issuer’s securities that are subject to the reporting requirements of Section 13 or Section 15(d) of the Exchange Act, and must be filed within four business days of the completion of the transaction being reported. <sup>77</sup> Because we believe that better identification of shell company transactions is a key element in deterring fraud, we are adding a check box to the cover page of Form 20-F that a foreign private issuer must mark when filing a Form 20-F under Exchange Act Rule 13a-19 or Rule 15d-19. <sup>78</sup> For the same reasons discussed above regarding the application of Item 5.06 of Form 8-K, we are not extending the requirements of Exchange Act Rule 13a-19 or Rule 15d-19 to foreign private issuers that are business combination related shell companies.
+
+Exchange Act Rule 12b-25 permits a foreign private issuer, subject to certain conditions, to extend the due date of its filing of an annual or transition report on Form 20-F. <sup>79</sup> Exchange Act Rule 12b-25 does not provide an extension of the due date for filing a current report on Form 8-K. As the reports on Form 20-F that are to be filed under Exchange Act Rule 13a-19 or Rule 15d-19 are neither annual reports nor transition reports, Exchange Act Rule 12b-25 does notprovide an extension of the due date for their filing. Because the reports on Form 20-F that are to be filed under Exchange Act Rule 13a-19 or Rule 15d-19 are more in the nature of a current report, we believe that the extension permitted under Exchange Act Rule 12b-25 should not be available to those Form 20-F reports and we have not added language to Exchange Act Rule 12b-25 to provide such an extension. <sup>80</sup>
+
+Exchange Act Rules 13a-14(a) and 15d-14(a) currently require, among other things, that “each report” on Form 20-F must include, as an exhibit, specified certifications of the foreign private issuer’s principal executive and principal financial officers. Form 20-F is amulti-function form that may be used as a registration statement or a report. We believe that a Form 20-F required to be filed under new Exchange Act Rule 13a-19 or new Exchange Act Rule 15d-19 is more similar to a registration statement on that Form than a report on that Form, and that the information is being provided on a current basis in a manner similar to that required by Form 8-K. As such, we have added language to Exchange Act Rules 13a-14(a) and 15d-14(a) excluding from the requirements of those paragraphs reports that are filed on Form 20-F under either new Exchange Act Rule 13a-19 or new Exchange Act Rule 15d-19.
+
+<h>F. Shell Company Check Box on Exchange Act Reports</h>
+
+In the proposing release, we asked specifically for comment on whether we should make reports on Form 8-K reporting shell company transactions easier for market participants and regulators to identify. In response to this request, one commenter indicated that rulemaking to accomplish this purpose would be appropriate. <sup>81</sup> That commenter also expressed the view thatthe cover page of periodic report forms should include a means, such as a check box, by which filers would be required to identify themselves as shell companies. <sup>82</sup> We believe better identification of shell companies and shell company transactions is a key element to deterring fraud. Accordingly, we are adopting amendments to Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, and Form 20-F to add a box on the cover page of those forms that the registrant must mark to indicate whether or not it is a “shell company.” <sup>83</sup> The identification of shell company or non-shell company status on the cover page of these forms will constitute required disclosure that is subject to all applicable federal securities laws.
+
+<h>III. PAPERWORK REDUCTION ACT</h>
+
+The amendments affect Securities Act Form S-8, Form SB-2, Form S-1, and Form F-1 and Exchange Act Form 8-K, Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, and Form 20-F, which contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995. <sup>84</sup> In the proposing release, we requested comments on the proposed changes to these collection of information requirements, <sup>85</sup> and the Office of Management and Budget (“OMB”) has approved the changes. The titles of the affected collections of information requirements are: Form S-8 (OMB Control No. 3235-0066), Form SB-2 (OMB Control No. 3235-0418), Form S-1 (OMB Control No. 3235-0065), Form F-1 (OMB Control No. 3235-0258), Form 8-K (OMB Control No. 3235-0060), Form 10-Q (OMB Control No. 3235-0070), Form 10-QSB (OMB Control No. 3235-0416), Form 10-K (OMB
+
+Control No. 3235-0063), Form 10-KSB (OMB Control No. 3235-0420), and Form 20-F (OMB Control No. 3235-0288). An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information requirement unless it displays a currently valid control number.
+
+<h>A. Summary of Amendments</h>
+
+We are adopting rules and rule amendments relating to filings by reporting shell companies. Under the new rules, we define a “shell company” as a registrant (other than an asset-backed issuer) with no or nominal operations and either no or nominal assets, assets consisting solely of cash and cash equivalents, or assets consisting of any amount of cash and cash equivalents and nominal other assets. We also prohibit the use of Form S-8 by shell companies. We are amending Form 8-K to require a shell company, when reporting an event that causes it to cease being a shell company, to file with the Commission the same type of information that it would be required to file to register a class of securities under the Exchange Act. In addition, we are amending Form 8-K to add new Item 5.06. Item 5.06 will require a registrant that is a shell company (other than a business combination related shell company) to report under that Item when it ceases being a shell company. We are adding new Exchange Act Rules 13a-19 and 15d-19 to require disclosure on Form 20-F when a foreign private issuer that is a shell company (other than a business combination related shell company) completes a transaction that causes it to cease to be a shell company. <sup>86</sup> Finally, we are adding check boxes to the cover pages of Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, and Form 20-F for the registrant to identify itself as a shell company.
+
+These amendments are intended to protect investors by deterring fraud and abuse in our public securities markets through the use of shell companies. Compliance with the amended disclosure requirements is mandatory. There is no mandatory retention period for the information disclosed and responses to the disclosure requirements will not be kept confidential.
+
+<h>B. Summary of Comment Letters and Revisions to Proposals</h>
+
+We requested comment on the PRA analysis contained in the proposing release. Two commenters stated their belief that the proposed amendments would increase costs to shell companies, <sup>87</sup> but a third commenter stated that the proposed amendments to Form 8-K would not increase costs. <sup>88</sup>
+
+One of these commenters indicated that the acceleration of work by legal and accounting professionals would substantially increase costs, but did not clearly explain why acceleration of the work would have this effect. <sup>89</sup> Another commenter expressed the view that the Form 8-K cost burden estimate was too low. <sup>90</sup> This commenter stated that, in its experience, outside counsel performs 75% of the work to complete a Form 8-K report, not the 25% estimate in the proposing release. <sup>91</sup> This commenter estimated that the Form 8-K cost burden would triple but did not believe that the higher cost burden would create an unnecessary obstacle to legitimate transactions. <sup>92</sup> This commenter did not provide evidence to suggest that its estimates would apply to all shell companies. Our estimates of the average number of hours each entity spendscompleting the affected forms, allocation of burden between outside counsel and internal personnel, and the average hourly rate for outside securities counsel were obtained by contacting a number of law firms and other persons regularly involved in completing the forms. Therefore, we are not modifying the proposed cost burden estimate for Form 8-K.
+
+<h>C. Form S-8</h>
+
+The amendment prohibiting shell companies from using Securities Act Form S-8 will require these companies to use a less streamlined form, such as Form SB-2, Form S-1, or Form F-1 to register offerings that they otherwise might have registered on Form S-8. A company that ceases to be a shell company will be eligible to file a Form S-8 registration statement 60 days after it ceases to be a shell company and files information equivalent to the information that it would be required to file if the company were registering a class of securities under the Exchange Act. In the proposing release, we estimated that this change would reduce the number of Form S-8 registration statements by approximately 5%, and would increase the number of Form SB-2 and Form S-1 registration statements filed by a corresponding amount. We received no comments on these estimates. With respect to Form S-8, we estimate that 50% of the burden of preparing the form is borne by the company’s internal staff and that the other 50% representswork performed by outside securities counsel retained by the company at an average rate of $300 per hour. With respect to Form SB-2, Form S-1, and Form F-1, we estimate that 25% of the burden of preparing the form is borne by the company’s internal staff and that 75% of the burden represents work performed by outside securities counsel at the rate of $300 per hour.
+
+We do not expect that shell companies that are prohibited from using Form S-8 are likely to register securities that they otherwise would have registered on Form S-8 on a registration form that does not become effective automatically and requires the filing of substantially morecomplete information. However, shell companies that wish to register offerings of their securities under the Securities Act could instead file on Form SB-2, Form S-1, or Form F-1. We estimate that a maximum of 5% of the number of Form S-8 registration statements filed in our fiscal year 2004 (4,000 x .05 = 200 filings) will be filed on Form SB-2, Form S-1, or Form F-1 instead. We also expect 95% of these 200 filings by shell companies that choose to file another registration statement in lieu of Form S-8 will use Form SB-2, thereby increasing the number of Form SB-2 filings by 190 (200 filings x .95). We further estimate that the number of Form S-1 registration statements will increase by 8 (200 filings x .04). We estimate that the number of Form F-1 registration statements will increase by 2 (200 filings x .01). As a result, we estimate that the Form S-8 reporting burden will decrease by 2,400 hours (200 filings x 24 hours per filing x .50) and the annual cost will decrease by $720,000 (200 filings x 24 hours per filing x $300 per hour x .50). The Form SB-2 reporting burden will increase by 28,168 hours (190 filings x 593 hours per filing x .25), with an annual cost increase of $25,350,750 (190 filings x 593 hours per filing x $300 per hour x .75). We estimate that the Form S-1 reporting burden will increase by 2,204 hours (8 filings x 1,102 hours per filing x .25) with an annual cost increase of $1,983,600 (8 filings x 1,102 hours per filing x $300 per hour x .75). Finally, we estimate that the Form F-1 reporting burden will increase by 905 hours (2 filings x 1,809 hours per filing x .25) with an annual cost increase of $814,050 (2 filings x 1,809 hours per filing x $300 per hour x .75).
+
+<h>D. Form 8-K</h>
+
+Form 8-K prescribes information about important corporate events that a company must disclose on a current basis. Form 8-K also may be used, at a company’s option, to report any event that the company deems to be of importance to its shareholders.
+
+We currently estimate that Form 8-K results in a total annual compliance burden of 311,565 hours and an annual cost of $31,156,500. We estimate the number of Form 8-K filers to be approximately 12,000, based on the actual number of Form 10-K and Form 10-KSB filers during the Commission’s 2004 fiscal year. For purposes of this analysis, we estimate that the number of reports on Form 8-K filed annually is 83,084. We estimate that each entity currently spends, on average, approximately five hours to complete Form 8-K. We estimate that 75% of the burden is borne by the company and that 25% of the burden is borne by outside securities counsel retained by the company at an average cost of $300 per hour.
+
+We are amending Form 8-K to add Item 5.06, which will require a registrant that is a shell company (other than a business combination related shell company) that engages in a transaction that changes its status as a shell company to file a report on Form 8-K. As noted below, we estimate that 94 of these transactions occurred in fiscal year 2004. All of these 94 transactions would be required to be reported pursuant to Item 5.06 of Form 8-K. Because each of these transactions already would have been required to be reported on Form 8-K pursuant to Item 2.01 or Item 5.01 of that Form, we do not believe that Item 5.06 will add additional burdens or costs.
+
+Under the revisions to Item 2.01 and Item 5.01 of Form 8-K that we are adopting today, a shell company will be required to make a more specific and detailed filing on Form 8-K when it reports a transaction that causes it to cease being a shell company. Specifically, the shell company will need to file a Form 8-K that contains the information that would be required in an initial registration statement on Form 10 or Form 10-SB to register a class of securities under Section 12 of the Exchange Act. The company will be required to file the Form 8-K within four business days after the closing of the transaction. This amendment will eliminate the 71-daywindow during which financial information required to be included in the report can be filed by a shell company currently.
+
+The amendments to Item 2.01 and Item 5.01 will increase the amount of information that a former shell company must include in the form, but not the number of filings. In our fiscal year 2004, companies that categorized themselves as “blank check companies” using the relevant SEC Standard Industrial Classification (SIC) Code disclosed 31 transactions under Item 2.01 of Form 8-K. We also have identified 63 back door registration filings during fiscal year 2004 that would be required to be filed on an expanded Form 8-K under the new requirements. We believe the combined total of 94 of these filings is a proper estimate of the total number of Item 2.01 and Item 5.01 filings and have used that number of filings for purposes of this analysis.
+
+We believe that the additional information we are requiring shell companies to include in a Form 8-K filed under Item 2.01 or Item 5.01 of Form 8-K is analogous to information required by Form 10-SB because the substantial majority of shell companies will be small business issuers. Currently, we estimate that it takes 133 hours to complete a Form 10-SB. Therefore, we estimate that it will take a shell company 133 hours to prepare the information that we are requiring the company to provide in a Form 8-K report when it reports a transaction that causes it to cease being a shell company. We estimate that the company will bear 75% of the burden and that 25% of the burden will be borne by outside securities counsel retained by the company at an average rate of $300 per hour. We estimate that the burden in this type of Form 8-K filing will increase by 12,502 hours (133 hours per filing x 94 required filings). Therefore, the annual Form 8-K reporting burden will increase by 9,377 hours (12,502 total hours x .75) and the annual cost burden will increase by approximately $937,650 (12,502 total hours x $300 per hour x .25).
+
+We are adopting several modifications to our proposals, but none of these affects our burden estimates associated with the amendments. One modification is that a registrant will be required to check a box on its Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, or Form20-F indicating whether or not it is a shell company as defined in Rule 12b-2 under the Exchange Act. We believe that this and other changes that we have made to the proposals do not affect the total amount of burden hours or costs imposed by the forms.
+
+<h>E. Form 20-F</h>
+
+The amendments to Form 20-F require a foreign private issuer that is a shell company to file a report on Form 20-F after completion of a transaction that causes it to cease being a shell company. The Form 20-F is a multi-function form used by foreign private issuers.
+
+We estimate that there were 1,240 foreign private issuers that were registered and reporting with the Commission as of December 31, 2004. <sup>93</sup> We estimate that each entity currently spends, on average, approximately 2,615 hours to complete Form 20-F (3,242,600 total hours / 1,240 filings = 2,615 hours per filing). We estimate that 25% of the burden is borne by the company and that 75% of the burden is borne by outside securities counsel retained by the company at an average cost of $300 per hour.
+
+We estimate that Form 20-F results in a total annual compliance burden of 810,650 hours (2,615 hours per filing x 1,240 filings x .25) and an annual cost of $729,585,000 (2,615 hours x 1,240 filings x $300 x .75%). As we discuss above, we have estimated that there will be 94 shell company transactions reported annually on Form 8-K. As approximately 10% of reporting companies are foreign private issuers, we estimate that foreign private issuer shell companies will file 10 reports on Form 20-F (94 filings x .10). As a result, we estimate that the Form 20-Freporting burden will increase by 6,538 hours (10 filings x 2,615 hours per filing x .25), with an annual cost increase of $5,883,750 (10 filings x 2,615 hours per filing x $300 per hour x .75). <sup>94</sup>
+
+<h>IV. COSTS AND BENEFITS</h>
+
+Today’s amendments are intended to protect investors by deterring fraud and abuse in our securities markets through the use of reporting shell companies. However, we are sensitive to the costs and benefits that result from our rules. In this section, we examine the costs and benefits of the amendments.
+
+<h>A. Form S-8</h>
+
+<h>1. Costs of Form S-8 Amendments</h>
+
+A shell company no longer will be eligible to use Form S-8 to register offerings of securities in connection with employee benefit plans. We believe it generally is inconsistent with shell company status to have a legitimate use for employee benefit plans. However, where such a plan exists, a shell company will continue to be eligible to use Form SB-2, Form S-1, or Form F-1 to offer securities in connection with an employee benefit plan. A shell company also may be entitled to rely on certain exemptions from the registration requirements of the Securities Act. Thus, shell companies will continue to be able to offer securities under employee benefit plans. They cannot, however, take advantage of Form S-8, which is a streamlined registration statement form with automatic effectiveness. Moreover, the securities that are offered and sold in reliance on an exemption from Securities Act registration may be subject to restrictions on resale. This may impose costs on shell companies that are difficult to quantify.
+
+We estimate that the cost of shell companies no longer being eligible to use Form S-8 in connection with employee benefit plans is the difference between the cost of 200 Form S-8 filings and the cost of filing those 200 registration statements on Form SB-2, Form S-1, or Form F-1. Based on the estimates presented above, these amounts are:
+
+Cost of increasing the number of Form SB-2 filings by 190 =	$30,280,063; <sup>95</sup> plus
+
+Cost of increasing the number of Form S-1 filings by <sup>8</sup> =	$2,369,300 <sup>96</sup> plus
+
+Cost of increasing the number of Form F-1 filings by <sup>2</sup> =	$972,338 <sup>97</sup> minus
+
+Decreased cost from decreasing the numberof Form S-8 filings by 200 =	$1,140,000 <sup>98</sup>equals
+
+Total cost of amendments to Form S-8 =	$32,481,701
+
+<h>2. Benefits of Form S-8 Amendments</h>
+
+Shell companies often have used offerings registered on Form S-8 for fraudulent and manipulative purposes. These amendments disqualify shell companies from using Form S-8. The amendments also require a shell company (other than a business combination related shell company) that ceases to be a shell company to wait 60 days after it ceases to be a shell company and files information that is equivalent to the information contained in an Exchange Act registration statement before it becomes eligible to use Form S-8. This amendment will make it more difficult for shell companies to use Form S-8 for fraudulent purposes, and is consistent with the full disclosure purpose of the federal securities laws.
+
+<h>B. Form 8-K</h>
+
+<h>1. Costs of Form 8-K Amendments</h>
+
+<h>a. New Item 5.06 of Form 8-K</h>
+
+We are amending Form 8-K to add Item 5.06, which will require a registrant that is a shell company (other than a business combination related shell company) that engages in a transaction that changes its status as a shell company to file a report on Form 8-K. As noted above, we estimate that 94 of these transactions occurred in fiscal year 2004. All of these 94 transactions would be required to be reported pursuant to Item 5.06 of Form 8-K. Because each of these transactions already would have been required to be reported on Form 8-K pursuant to Item 2.01 or Item 5.01 of that Form, we do not believe that Item 5.06 will add measurable additional costs.
+
+<h>b. Revised Items 2.01 and 5.01 of Form 8-K</h>
+
+We are revising Item 2.01 and Item 5.01 of Form 8-K. Under these revisions, a shell company will be required to make a more specific and detailed filing on Form 8-K when itreports a transaction that causes it to cease being a shell company. Specifically, the shell company will need to file a Form 8-K that contains the information that would be required in an initial registration statement on Form 10 or Form 10-SB to register a class of securities under Section 12 of the Exchange Act. The company will be required to file the Form 8-K within four business days after the closing of the transaction. This amendment also will eliminate the current 71-day window during which the financial information can be filed by a shell company that is filing a report on Form 8-K pursuant to Item 2.01. <sup>99</sup>
+
+The amendments to Item 2.01 and Item 5.01 will increase the amount of information that a former shell company must include in the form but not the number of filings. As discussed above, we have estimated that there will be 94 filings subject to these new requirements.
+
+We believe that the additional information we are requiring shell companies to include in a Form 8-K filed under Item 2.01 or Item 5.01 of Form 8-K is analogous to information required by Form 10-SB. Currently, we estimate that it takes 133 hours to complete a Form 10-SB. Therefore, we estimate that it will take a shell company 133 hours to prepare the information that we are requiring the company to provide in a Form 8-K report when it reports a transaction that causes it to cease being a shell company. We estimate that the company will bear 75% of the burden at an average rate of $175 per hour and that 25% of the burden will be borne by outside securities counsel retained by the company at an average rate of $300 per hour. Therefore, the annual Form 8-K reporting burden being borne by the company will result in an increased annual cost for Form 8-K of $1,640,975. <sup>100</sup> As estimated previously, the revisions to Item 2.01 and Item5.01 will result in an annual increased cost for Form 8-K of $937,650 (12,502 total hours x $300 per hour x .25). We have combined these amounts to determine that the annual increased cost of the requirements in revised Item 2.01 and Item 5.01 will be $2,578,625 ($1,640,975 + $937,650).
+
+<h>2. Benefits of Form 8-K Amendments</h>
+
+The benefit of the Form 8-K amendments is more timely and enhanced disclosure for the protection of investors and increased integrity of the securities markets, especially the markets for securities of smaller companies. The Form 8-K amendments are based on the premise that federal securities regulation should promote full disclosure. The more timely and enhanced disclosure in Form 8-K filings is designed to provide investors in operating businesses that are newly merged with shell companies with a level of information that is equivalent to the information provided to investors in reporting companies that register rather than reaching a similar result through a transaction with a shell company. The filing of this Form 8-K report is intended to decrease the opportunity to engage in fraudulent and manipulative activity.
+
+<h>C. Form 20-F</h>
+
+<h>1. Costs of Form 20-F Amendment</h>
+
+We estimate that 1,240 foreign private issuers were registered and filing reports with the Commission as of December 31, 2004. <sup>101</sup> The amendments to Form 20-F require a foreign private issuer that is a shell company (other than a business combination related shell company) to file a report on Form 20-F after completion of a business combination with a formerly private operating business. While we do not believe it is likely that any foreign private issuers that are shell companies would file a Form 20-F to register securities, it is possible. As discussed above,increased burden equals 9,377 hours (12,502 total hours x .75). We multiplied this amount by $175 per hour to arrive at the annual increased cost of $1,640,975 (9,377 hours x $175 per hour).we have estimated that there will be 94 shell company transactions reported on Form 8-K. As approximately 10% of reporting companies are foreign private issuers, we estimate that foreign private issuer shell companies will file 10 reports on Form 20-F as a result of the new requirements (94 filings x .10).
+
+As discussed above, we estimate that each entity currently spends, on average, approximately 2,615 hours to complete a Form 20-F. <sup>102</sup> We estimate that the company will bear 75% of the burden at an average rate of $175 per hour and that 25% of the burden will be borne by outside securities counsel retained by the company at an average rate of $300 per hour.
+
+Therefore, the annual Form 20-F reporting burden being borne by the company will result in an increased annual cost for Form 20-F of $1,144,150. <sup>103</sup> As estimated previously, the revisions to Form 20-F will result in an annual increased cost of $5,883,750 (2,615 hours per filing x 10 filings x $300 per hour x .75). We have combined these amounts to determine that the annual increased cost of the revisions to Form 20-F will be $7,027,900 ($1,144,150 + $5,883,750).
+
+<h>2. Benefits of Form 20-F Amendments</h>
+
+Some foreign private issuers that are registered with the Commission may fall within the definition of “shell company.” We have decided to subject foreign private issuer shell companies to essentially the same requirements as are applied to domestic shell companies forthe same reasons discussed above. The benefit of this amendment is more timely and enhanced disclosure for the protection of investors.
+
+<h>V. CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION</h>
+
+Section 23(a)(2) of the Exchange Act <sup>104</sup> requires us to consider the anti-competitive effects of any rules that we adopt under the Exchange Act. Exchange Act Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. Furthermore, Section 2(b) of the Securities Act <sup>105</sup> and Section 3(f) of the Exchange Act <sup>106</sup> require us, when we are engaging in rulemaking that requires us to consider or determine whether an action is necessary or appropriate in the public interest, to consider whether the action will promote efficiency, competition, and capital formation.
+
+The purpose of these amendments is to deter fraud and reduce abuse of Form S-8 in shell company transactions and to enhance our reporting requirements on Form 8-K (and Form 20-F with respect to foreign private issuers) with respect to transactions involving shell companies.
+
+We anticipate that these amendments will improve the proper functioning of the capital markets. We believe the amendments will enhance investor confidence in the securities markets and promote efficiency and capital formation. We do not expect the amendments to have anyanti-competitive effects.
+
+We solicited comment on these matters in the proposing release. We received no comments on whether the adoption of the proposals would have an adverse effect on competition that is neither necessary nor appropriate in furtherance of the purposes of the Securities Act or the Exchange Act. We also did not receive any comments on whether the proposed amendments, if adopted, would promote efficiency, competition, and capital formation.
+
+<h>VI. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
+
+This Final Regulatory Flexibility Analysis has been prepared in accordance with the Regulatory Flexibility Act. <sup>107</sup> This FRFA involves amendments to Form S-8 under the Securities Act, Form 8-K, Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, and Form 20-F under the Exchange Act, Rule 405 under the Securities Act and Rule 12b-2, Rule 13a-14, and Rule 15d-14 under the Exchange Act, as well as new Rule 13a-19 and Rule 15d-19 under the Exchange Act. The amendments will prohibit the use of Form S-8 by shell companies and require a shell company that is reporting an event that causes it to cease being a shell company to disclose the same type of information that it would be required to provide in registering a class of securities under the Exchange Act. The amendments also will define “shell company.” An Initial Regulatory Flexibility Analysis was prepared in accordance with the Regulatory Flexibility Act <sup>108</sup> in conjunction with the proposing release. The proposing release included the IRFA and solicited comments on it.
+
+<h>A. Reasons for and Objectives of the Amendments</h>
+
+The purpose of the amendments is to protect investors in shell companies and to deter fraud and abuse in our public securities markets through the use of shell companies.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+The IRFA appeared in the proposing release. We requested comment on any aspect of the IRFA, including the number of small entities that would be affected by the proposed amendments to Form S-8 and Form 8-K, and whether these amendments would increase the reporting, record keeping and other compliance requirements for small businesses. We did not receive any comments responding to this request.
+
+<h>C. Small Entities Subject to the Amendments</h>
+
+The amendments will affect companies that are small entities. Exchange Act Rule 0-10(a) <sup>109</sup> defines an issuer, other than an investment company, to be a “small business” or“small organization” if it had total assets of $5 million or less on the last day of its most recent fiscal year. We estimate that there are approximately 2,500 issuers, other than investment companies, that would be considered small entities as of the end of fiscal year 2004. The amendments will prohibit the use of Securities Act Form S-8 by shell companies and require shell companies to have specific and detailed information on file before being permitted to use Form S-8 when they become an operating business and cease being a shell company. We believe that only a small percentage of the 2,500 issuers that are small entities are shell companies. The amendments will affect only shell companies. Because a shell company may have significant assets consisting of cash and cash equivalents, it is not certain that all shell companies will be “small entities.”
+
+<h>D. Reporting, Record Keeping, and Other Compliance Requirements</h>
+
+The amendments impose additional disclosure requirements on shell companies by requiring them to provide additional business disclosure on Form 8-K in addition to currently required financial information. The amendments also require a company to report on Form 8-Kwhen it becomes a shell company or when it ceases being a shell company (other than a business combination related shell company). Other than the additional disclosure requirements, the primary impact of the Form 8-K amendments relates to the timing of the filing. The amendments require foreign private issuers that are shell companies (other than business combination related shell companies) to file reports on Form 20-F that are substantially similar to the reports on Form 8-K required by shell companies that are not foreign private issuers. The amendments also require shell companies to mark check boxes on the cover sheet on Form 10-Q, Form 10-QSB, Form 10-K, Form 10-KSB, and Form 20-F. No other new reporting, record keeping or compliance requirements are imposed. The amendments prohibit shell companies from using Form S-8.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small businesses. In connection with the proposal, we considered the following alternatives:
+
+<h>1. establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;</h>
+
+<h>2. clarification, consolidation, or simplification of compliance and reporting requirements for such small entities;</h>
+
+<h>3. use of performance rather than design standards; and</h>
+
+<h>4. an exemption from coverage of the amendments, or any part thereof, for small entities.</h>
+
+With respect to Alternative (1), the amendment to Form S-8 will prohibit shell companies from using the form. The amendments to Form 8-K will shorten the time within which shellcompanies must file their required financial disclosures from 71 calendar days after the initial Form 8-K filing to four business days after completion of the transaction that causes them to cease being shell companies. It would be inappropriate to establish a more liberal compliance standard for small businesses given that the current standard applies to all public companies; it is the current delay in the filing of the required financial statements that permits and facilitates abuse by shell companies. The amendments will increase costs only to shell companies, not to all small entities, by requiring former shell companies, upon making a significant acquisition, to file a Form 8-K containing the information that would be required in an initial registration statement on Form 10 or Form 10-SB to register a class of its securities under Section 12 of the Exchange Act.
+
+Most shell companies also will have to wait at least 60 days after ceasing to be a shell company and filing required information before using Form S-8 to register securities. Form S-8 is a registration statement used for employee benefit plans, and shell companies typically have few, if any, employees. Accordingly, the amendment does not impose any inappropriate burdens on small entities.
+
+With regard to Alternative (2), the amendments are clear and concise. Prohibiting the use of Form S-8 by shell companies does not increase the disclosure required unless a shell company wants to offer employees securities pursuant to an employee benefit plan. If the shell company has employees and wants to offer them securities under an employee benefit plan, it will have to comply with the substantially increased disclosure requirements of Form SB-2, Form S-1, or Form F-1. We believe that most shell companies, given the limitations in the definition of shell company on operations and assets, will not need to offer securities to employees pursuant to employee benefit plans. The amendment to Form S-8 requires most former shell companies towait 60 days after ceasing to be a shell company and filing the required disclosure before becoming eligible to use Form S-8. During this 60-day period, the markets can absorb disclosure that has been provided by the newly merged operating company. This disclosure is comparable to that required of other reporting companies, including “small entities.” The amendment to Form 8-K requiring the filing of additional information within four business days increases the amount of disclosure required and accelerates the deadline for filing certain of this disclosure. We require certain information, which was not specifically required previously by Form 8-K, to be included for shell companies.
+
+Alternatives (3) and (4) are not appropriate because the purpose of the amendments is to deter fraud. It would be difficult under Alternative (3) to design performance standards that would fulfill the Commission’s statutory mandate to ensure adequate disclosure about shell companies and subsequent business combinations in a prompt manner. Alternative (4) is inappropriate because it is likely that a substantial percentage of shell companies will be small entities. We note again that these amendments apply only to shell companies, which constitute only a small percentage of the total number of small entities. An exemption for small entities would not achieve the desired result.
+
+<h>VII. STATUTORY BASIS AND TEXT</h>
+
+<END MAIN TEXT>
+
+1 In this release, we use the term “reporting shell companies” to refer to shell companies that have an obligation to file reports under Section 13 (15 U.S.C. 78m) or Section 15(d) (15 U.S.C. 78o(d)) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.).
+
+2 17 CFR 239.16b.
+
+3 15 U.S.C. 77a et seq.
+
+4 17 CFR 249.308.
+
+5 17 CFR 230.405.
+
+6 17 CFR 240.12b-2.
+
+7 17 CFR 240.13a-14.
+
+8 17 CFR 240.15d-14.
+
+9 17 CFR 240.13a-19.
+
+10 17 CR 240.15d-19.
+
+11 17 CFR 249.220f.
+
+12 17 CFR 249.308a.
+
+13 17 CFR 249.308b.
+
+14 17 CFR 249.310.
+
+15 17 CFR 249.310b.
+
+16 Release No. 33-8407, Use of Form S-8 and Form 8-K by Shell Companies (Apr. 15, 2004) [69 FR 21650].
+
+17 This was the type of transaction involved in the Lisa Roberts, Director of NASDAQ Listing Qualifications interpretive letter, which is discussed in footnote 36, below.
+
+18 In a back door registration transaction where time elapses between the entry into the agreement and the completion of the transaction, the shell company would incur the obligation to file the Item 1.01 Form 8-K at the time of entry into the agreement and either the shell company or the issuer that succeeds to the reporting obligation of the shell company by operation of either Rule 12g-3 (17 CFR 240.12g-3) or Rule 15d-5 (17 CFR 240.15d-5) under the Exchange Act would be obligated to file the Item 2.01 or Item 5.01 (or both) Form 8-K at the time of completion of the transaction. In a back door registration transaction that is simultaneously entered into and completed, or where the shell company has not yet satisfied its Item 1.01 obligation at the time of completion of the transaction, either the shell company or the issuer that succeeds to the reporting obligation of the shell company by operation of either Rule 12g-3 or Rule 15d-5 under the Exchange Act would be required to satisfy the shell company’s obligation to file a Form 8-K under Item 1.01, as well as any other reporting obligations of the shell company (including obligations to file reports on Form 8-K pursuant to other Items of that Form).
+
+19 Other than new Item 5.06 of Form 8-K, the rule and form amendments adopted today are not intended to impose any new event filing requirements under Form 8-K.
+
+20 “Asset-backed issuer” is defined in Item 1101(b) of Regulation AB [17 CFR 229.1101(b)].
+
+21 The term “foreign private issuer” is defined in Exchange Act Rule 3b-4(c) [17 CFR 240.3b-4(c)]. A foreign private issuer is a non-government foreign issuer, except for a company that (1) has more than 50% of its outstanding voting securities directly or indirectly held of record by U.S. residents and (2) has either a majority of its executive officers or directors residing in or being citizens of the United States, more than 50% of its assets located in the United States, or its business principally administered in the United States.
+
+22 17 CFR 249.210.
+
+23 17 CFR 249.210b.
+
+24 15 U.S.C. 78l.
+
+25 As discussed in the proposing release, we intended that a shell company formed solely for the purpose of changing a company’s domicile or completing a business combination transaction with another company would fall within the definition of shell company.
+
+26 17 CFR 230.419.
+
+27 See letters from L. Stephen Albright, North American Securities Administrators Association, Inc., and Stoecklein Law Group.
+
+28 See letter from North American Securities Administrators Association, Inc.
+
+29 See letter from Simon M. Lorne.
+
+30 See letters from David N. Feldman and Conrad C. Lysiak.
+
+31 One commenter discussed the application of the proposals to “living dead” companies. See letter from Mike Liles, Jr. As described in this comment letter, a “living dead” company is a former operating company with minimal or limited operations. We believe that a former operating company that meets the assets and operations standards in the definition of shell company would be subject to the rules and rule amendments that we are adopting today.
+
+32 We have become aware of a practice in which a promoter of a company and/or affiliates of the promoter appear to place assets or operations within an entity with the intent of causing that entity to fall outside of the definition of “blank check company” in Securities Act Rule 419. The promoter will then seek a business combination transaction for the company, with the assets or operations being returned to the promoter or affiliate upon the completion of that business combination transaction. It is likely that similar schemes will be undertaken with the intention of evading the definition of shell company that we are adopting today. In our view, where promoters (or their affiliates) of a company that would otherwise be a shell company place assets or operations in that company and those assets or operations are returned to the promoter or its affiliates (or an agreement is made to return those assets or operations to the promoter or its
+
+33 See letter from Association of the Bar of the City of New York.
+
+34 The language in this definition referring to a shell company formed “solely for the purpose of changing that entity’s domicile solely within the United States” is intended to have the same meaning as the language “the sole purpose of the transaction is to change an issuer’s domicile solely within the United States” in Securities Act Rule 145(a)(2) [17 CFR 230.145(a)(2)].
+
+35 For purposes of this definition, the term “business combination transaction” will have the same meaning as in Securities Act Rule 165(f)(1) [17 CFR 230.165(f)(1)], which defines a “business combination transaction” as any transaction specified in Securities Act Rule 145(a) [17 CFR 230.145(a)] or exchange offer.
+
+36 This definition, along with today’s amendments to Form 8-K, supersedes the Lisa Roberts, Director of NASDAQ Listing Qualifications interpretive letter (Apr. 7, 2000). As explained in this interpretive letter, the procedure sometimes called “back door registration” under the Exchange Act did not, in the Commission staff’s view at the time, constitute a “succession” of the surviving entity to the rights and obligations of the reporting shell company because the definition of “succession” in Exchange Act Rule 12b-2 requires that the acquiring company acquire a “going business” and a shell company was not considered a “going business.” Nevertheless, the staff permitted non-reporting acquiring companies to file Form 8-K reports and enter our reporting system, so long as specified information was included, rather than requiring these companies to file registration statements under Section 12 of the Act on Form 10 or Form 10-SB to become reporting companies.
+
+37 Foreign private issuers that do not report on domestic issuer forms, such as Form 10-K and Form 10-Q, are not subject to this requirement to report the transaction on Form 8-K. Rather, foreign private issuers will report the transaction on Form 20-F. See the discussion in Section II.E., below, with regard to the Exchange Act reporting requirements for a foreign private issuer that is a shell company and completes a transaction that causes it to cease being a shell company.
+
+38 The amendments to Form S-8 that we are adopting today will apply to foreign private issuers. For a further discussion of the application of the Form S-8 amendments to foreign private issuers, see the discussion in Section II.E., below.
+
+39 15 U.S.C. 78l(g).
+
+40 See letters from L. Stephen Albright, American Society of Corporate Secretaries, David N. Feldman, Conrad C. Lysiak, James B. Parsons, John L. Petersen, Jay Sanet, and Michael T. Williams.
+
+41 See letters from James B. Parson, John L. Petersen, and Michael T. Williams.
+
+42 See letters from L. Stephen Albright, Jay Sanet, and Stoecklein Law Group.
+
+43 See letter from Association of the Bar of the City of New York.
+
+44 See id.
+
+45 See Securities Act Rules 462(a) and 428 [17 CFR 230.462(a) and 230.428].
+
+46 General Instruction A.1.(a)(1) to Form S-8 states that the form may be used to register securities to be offered and sold to consultants only if they are natural persons who provide bona fide services to the registrant that “are not in connection with the offer or sale of securities in a capital raising transaction, and do not directly or indirectly promote or maintain a market for the registrant’s securities.”
+
+47 See Release No. 33-7646, Registration of Securities on Form S-8 (Feb. 26, 1999) [64 FR 11103].
+
+48 For purposes of Form S-8, we define the term “Form 10 information” to mean the information that is required by Form 10, Form 10-SB, or Form 20-F, as applicable to the registrant, to register under the Exchange Act each class of securities being registered on the Form S-8.
+
+49 See new General Instruction A.1.(a)(7) to Form S-8.
+
+50 17 CFR 230.144.
+
+51 See Item 9.01 of Form 8-K.
+
+52 See letters from L. Stephen Albright, David N. Feldman, Mike Liles, Jr., and James B. Parsons.
+
+53 See letters from L. Stephen Albright, David N. Feldman, and James M. Schneider.
+
+54 17 CFR 240.14a-101.
+
+55 See letters from L. Stephen Albright and James M. Schneider.
+
+56 See letter from David N. Feldman.
+
+57 See letters from David N. Feldman and Mike Liles, Jr.
+
+58 See letter from Mike Liles, Jr.
+
+59 See letters from L. Stephen Albright, Nathan Garnett, Simon M. Lorne, North American Securities Administrators Association, Inc., James B. Parsons, John Peterson, Stoecklein Law Group, and Michael T. Williams.
+
+60 See letters from L. Stephen Albright, James B. Parsons, North American Securities Administrators Association, Inc., and Stoecklein Law Group.
+
+61 See letters from L. Stephen Albright and James B. Parsons.
+
+62 See letter from Stoecklein Law Group.
+
+63 If a class of securities of an issuer succeeds, by operation of Exchange Act Rule 12g-3, to the registration under Exchange Act Section 12 of a class of the shell company’s securities, thus causing that successor issuer to succeed to the registrant’s reporting obligation under Exchange Act Section 13, or if an issuer succeeds, by operation of Exchange Act Rule 15d-5, to the shell company’s reporting obligation under Exchange Act Section 15(d), the successor issuer will then succeed to the shell company’s obligation to file the required information in a report on Form 8-K. If neither of the events described in the previous sentence occur, the shell company will be obligated to file the required information in a report on Form
+
+64 In most cases, this will occur when the shell company acquires or is acquired by an operating business. Under the definition of “shell company” we are adopting today, it also could occur when the shell company acquires more than nominal assets (other than cash or cash equivalents). Requiring prompt and detailed disclosure in a Form 8-K filing will provide investors in operating businesses newly merged with shell
+
+65 Where an operating company acquires a shell company and the operating company survives the transaction, the operating company will have acquired control of the shell for purposes of the definition of “succession” under amended Exchange Act Rule 12b-2. The operating company, as the surviving entity, will be required to file a Form 8-K under Item 5.01. The transaction will constitute a change in control of the shell company whether or not shareholders of the operating company before the transaction control the surviving entity following the transaction.
+
+66 That Form 8-K need not, however, contain registration-level information if that information previously has been included in an effective registration statement under the Securities Act. In that instance, the Form 8-K could merely reference the Securities Act registration statement that contains the required information.
+
+67 As suggested by commenters, we considered imposing a trading ban on the securities of shell companies that have ceased being shell companies and have not filed the required financial statements, with the trading ban imposed until the converted shell company files its audited financial statements. We have not included such a provision in the final rule, as we believe that the information required in the Form 8-K will have the same effect of informing the market before trading and will not present the practical implementation issues that would be presented by a trading ban.
+
+68 See Release No. 33-6578, Business Combination Transactions; Adoption of Registration Form (Apr. 23, 1985) [50 FR 18990].
+
+69 Foreign private issuers generally are not required to file reports on Form 8-K. See Exchange Act Rule 13a-11(b) [17 CFR 240.13a-11(b)] and Exchange Act Rule 15d-11(b) [17 CFR 240.15d-11(b)]. Accordingly, we have not extended the requirements of Item 5.06 to foreign private issuers. For a discussion of the reporting requirements of foreign private issuers, see Section II.E., below.
+
+70 The surviving entity in a transaction where a shell company ceases being a shell company most likely will have to comply with other Items of Form 8-K, as discussed above, in addition to Item 5.06. The registrant could file a single Form 8-K responding to all applicable Items.
+
+71 See letter from North American Securities Administrators Association, Inc.
+
+72 See id.
+
+73 As with domestic issuers, the amendment to Form S-8 makes clear that this “Form 10 information” of the foreign private issuer may be included in any filing with the Commission.
+
+74 See Exchange Act Rules 13a-11(b) and 15d-11(b). A foreign private issuer shell company that engages in a transaction that causes it to lose its status as a foreign private issuer at the same time it ceases to be a shell company would have to comply with the requirements of Form 8-K that are applicable to domestic companies.
+
+75 17 CFR 249.306. See Exchange Act Rule 13a-16 [17 CFR 240.13a-16] and Exchange Act Rule 15d-16 [17 CFR 240.15d-16].
+
+76 Foreign private issuers that have elected to report on domestic issuer forms, such as Form 10-K and Form 10-Q, should file the required information on Form 8-K and not Form 20-F.
+
+77 See the discussion in footnotes 18, 63, and 70 regarding the reporting obligation of successor issuers.
+
+78 As with the periodic report forms for shell companies that are not foreign private issuers, we also have included a check box on the cover of Form 20-F that requires a foreign private issuer to indicate, in any annual report on that form, that it is a shell company. The new check box indicates that it is required where the report on Form 20-F is an “annual report.” This requirement would include any transition reports on that Form. In this regard, see the discussion in Section II.F., below.
+
+79 17 CFR 240.12b-25.
+
+80 We have included language in Form 20-F to make clear that Exchange Act Rule 12b-25 does not apply to reports required to be filed on that form under new Exchange Act Rule 13a-19 or new Exchange Act Rule 15d-19.
+
+81 See letter from North American Securities Administrators Association, Inc.
+
+82 See id.
+
+83 Further, as discussed above, we have added new Item 5.06 to Form 8-K to allow market participants and regulators to identify transactions by shell companies, other than business combination related shell companies.
+
+84 44 U.S.C. 3501 et seq.
+
+85 Release No. 33-8407, Use of Form S-8 and Form 8-K by Shell Companies (Apr. 15, 2004) [69 FR 21650].
+
+86 We believe that a foreign private issuer shell company merging with a domestic operating business rarely will be able to keep its foreign private issuer status. We do not expect the number of these transactions to have any quantifiable effect on the estimates included in this section.
+
+87 See letters from L. Stephen Albright and Stoecklein Law Group.
+
+88 See letter from Nathan Garnett.
+
+89 See letter from L. Stephen Albright.
+
+90 See letter from Stoecklein Law Group.
+
+91 See id.
+
+92 See id.
+
+93 See SEC web site at
+
+94 The estimate of 2,615 hours per filing for Form 20-F reflects the fact that the form is used by foreign private issuers, regardless of the size of the issuer. In estimating the increased annual burden and cost, we have continued to use this estimate of 2,615 hours per filing, even though it is likely an overstatement of the time necessary for a shell company to complete the form, because we do not have a better estimate of the amount of time a smaller, less complex foreign private issuer would require to complete the form.
+
+95 We have estimated the company’s internal costs at $175 per hour. Accordingly, we have calculated the cost of the increased burden that is borne by the registrant by multiplying the total number of hours for the 190 filings (190 filings x 593 hours per filing x $175 per hour x .25 = $4,929,313). We have then added this amount to the $25,350,750 cost to the company (190 filings x 593 hours per filing x $300 x .75).
+
+96 We have estimated the company’s internal costs at $175 per hour. Accordingly, we have calculated the cost of the increased burden that is borne by the registrant by multiplying the total number of hours for the 8 filings (8 filings x 1,102 hours per filing x $175 per hour x .25 = $385,700). We have then added this amount to the $1,983,600 cost to the company (8 filings x 1,102 hours per filing x $300 x .75).
+
+97 We have estimated the company’s internal costs at $175 per hour. Accordingly, we have calculated the cost of the increased burden that is borne by the registrant by multiplying the total number of hours for the 2 filings (2 filings x 1,809 hours per filing x $175 per hour x .25 = $158,288). We have then added this amount to the $814,050 cost to the company (2 filings x 1,809 hours per filing x $300 x .75).
+
+98 We have estimated the company’s internal costs at $175 per hour. Accordingly, we have calculated the cost of the decreased burden that is borne by the registrant by multiplying the total number of hours for the 200 filings (200 filings x 24 hours per filing x $175 per hour x .50 = $420,000). We have then added this amount to the $720,000 decreased cost to the company (200 filings x 24 hours per filing x $300 x .50).
+
+99 Because this revision will affect only the timing of filing and not the amount of financial information required to be filed, we do not estimate any additional costs as a result of the elimination of the 71-day window.
+
+100 We calculated this amount in the following manner. First, we estimated that there would be a total annual increase in the Form 8-K burden of 12,502 hours (133 hours per filing x 94 filings). We estimated that 75% of this annual increase in the Form 8-K burden would be borne by the company. This portion of the
+
+101 See SEC web site at
+
+102 The estimate of 2,615 hours per filing for Form 20-F reflects the fact that the form is used by foreign private issuers, regardless of the size of the issuer. In estimating the increased annual burden and cost, we have continued to use this estimate of 2,615 hours per filing, even though it is likely an overstatement of the time necessary for a shell company to complete the form, because we do not have a better estimate of the amount of time a smaller, less complex foreign private issuer would require to complete the form.
+
+103 We calculated this amount in the following manner. First, we estimated that there would be a total annual increase in the Form 20-F burden of 26,150 hours (2,615 filings x 10 filings). We estimated that 25% of this annual increase in the Form 20-F burden would be borne by the company. This portion of the increased burden equals 6,538 hours (26,150 total hours x .25). We multiplied this amount by $175 per hour to arrive at the annual increased cost of $1,144,150 (6,538 hours x $175 per hour).
+
+104 15 U.S.C. 78w(a)(2).
+
+105 15 U.S.C 77b(b).
+
+106 15 U.S.C. 78c(f).
+
+107 5 U.S.C. 604.
+
+108 5 U.S.C. 603.
+
+109 17 CFR 240.0-10(a).

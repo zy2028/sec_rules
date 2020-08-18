@@ -1,0 +1,793 @@
+https://www.sec.gov/rules/final/34-47752.htm
+
+	I.0.0.0: I. BACKGROUND
+
+		I.A.0.0: A. Section 326 of the USA PATRIOT Act
+
+		I.B.0.0: B. Overview of Comments Received
+
+		I.C.0.0: C. Codification of the Joint Final Rule
+
+		I.D.0.0: D. Compliance Date
+
+	II.0.0.0: II. THE JOINT FINAL RULE
+
+		II.A.0.0: A. Section-by-Section Analysis
+
+		II.B.0.0: B. Requirement for CIP Approval Removed
+
+	III.0.0.0: III. CONFORMING AMENDMENTS TO 31 CFR 103.35
+
+	IV.0.0.0: IV. PAPERWORK REDUCTION ACT
+
+		IV.A.0.0: A. Collection of Information Under the Proposed Rule
+
+		IV.B.0.0: B. Proposed Use of the Information
+
+		IV.C.0.0: C. Respondents
+
+		IV.D.0.0: D. Total Annual Reporting and Recordkeeping Burden
+
+			IV.D.1.0: 1. Providing Notice to Customers
+
+			IV.D.2.0: 2. Recordkeeping
+
+			IV.D.3.0: 3. Request for Comment
+
+		IV.E.0.0: E. Collection of Information is Mandatory
+
+		IV.F.0.0: F. Confidentiality
+
+		IV.G.0.0: G. Record Retention Period
+
+	V.0.0.0: V. SEC'S ANALYSIS OF THE COSTS AND BENEFITS ASSOCIATED WITH THE FINAL RULE
+
+		V.A.0.0: A. Benefits Associated with the Final Rule
+
+		V.B.0.0: B. Costs Associated with the Final Rule
+
+			V.B.1.0: 1. Implementing a CIP
+
+			V.B.2.0: 2. Obtaining Identifying Information
+
+			V.B.3.0: 3. Verifying Identifying Information
+
+			V.B.4.0: 4. Determining Whether Customers Appear on a Federal Government List
+
+			V.B.5.0: 5. Providing Notice to Customers
+
+			V.B.6.0: 6. Recordkeeping
+
+	VI.0.0.0: VI. REGULATORY FLEXIBILITY ACT
+
+		VI.A.0.0: A. Need for and Objectives of the Rule
+
+		VI.B.0.0: B. Significant Issues Raised by Public Comment
+
+		VI.C.0.0: C. Small Entities Subject to the Rule
+
+		VI.D.0.0: D. Reporting, Recordkeeping and other Compliance Requirements
+
+		VI.E.0.0: E. Agency Action to Minimize Effect on Small Entities
+
+	VII.0.0.0: VII. EXECUTIVE ORDER 12866
+
+	VIII.0.0.0: VIII. STATUTORY AUTHORITY AND TEXT OF RULES
+
+
+
+<END TABLE OF CONTENTS>
+
+Joint Final Rule:
+
+Customer Identification Programs For Broker-Dealers SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-47752, File No. S7-25-02]
+
+DEPARTMENT OF THE TREASURY
+
+31 CFR Part 103
+
+RIN 1506-AA32
+
+Customer Identification Programs For Broker-Dealers 
+
+ AGENCIES : Financial Crimes Enforcement Network, Treasury; Securities and Exchange Commission.
+
+ ACTION : Joint final rule.
+
+ SUMMARY : The Department of the Treasury, through the Financial Crimes Enforcement Network (FinCEN), and the Securities and Exchange Commission are jointly adopting a final rule to implement section 326 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001. Section 326 requires the Secretary of the Treasury to jointly prescribe with the Securities and Exchange Commission a regulation that, at a minimum, requires brokers or dealers to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable; to maintain records of the information used to verify the person's identity; and to determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to brokers or dealers by any government agency. This final regulation applies to brokers or dealers in securities except for brokers or dealers that register with the Securities and Exchange Commission solely because they effect transactions in securities futures products.
+
+ DATES : 
+
+ Effective Date : June 9, 2003. 
+
+ Compliance Date : Brokers or dealers subject to this final regulation must comply with it by October 1, 2003.
+
+ FOR FURTHER INFORMATION CONTACT: 
+
+ Securities and Exchange Commission : Division of Market Regulation, (202) 942-0177 or marketreg@sec.gov .
+
+ Treasury : Office of the Chief Counsel (FinCEN), (703) 905-3590; Office of the General Counsel (Treasury), (202) 622-1927; or the Office of the Assistant General Counsel for Banking & Finance (Treasury), (202) 622-0480.
+
+ SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. BACKGROUNDA. Section 326 of the USA PATRIOT Act </h><h>A. Section 326 of the USA PATRIOT Act </h>
+
+On October 26, 2001, President Bush signed into law the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act or Act).<SUP> 1 </SUP> Title III of the Act, captioned "International Money Laundering Abatement and Anti-terrorist Financing Act of 2001," adds several new provisions to the Bank Secrecy Act (BSA).<SUP> 2 </SUP> These provisions are intended to facilitate the prevention, detection, and prosecution of international money laundering and the financing of terrorism. Section 326 of the Act adds a new subsection (l) to 31 U.S.C. 5318 of the BSA that requires the Secretary of the Treasury (Secretary or Treasury) to prescribe regulations "setting forth the minimum standards for financial institutions and their customers regarding the identity of the customer that shall apply in connection with the opening of an account at a financial institution."
+
+Section 326 applies to all "financial institutions." This term is defined broadly in the BSA to encompass a variety of entities, including commercial banks, agencies and branches of foreign banks in the United States, thrifts, credit unions, private banks, trust companies, brokers and dealers in securities, investment companies, futures commission merchants, insurance companies, travel agents, pawnbrokers, dealers in precious metals, check-cashers, casinos, and telegraph companies, among many others.<SUP> 3 </SUP>
+
+The regulations implementing section 326 must require, at a minimum, financial institutions to implement reasonable customer identification procedures for (1)verifying the identity of any person seeking to open an account, to the extent reasonable and practicable; (2) maintaining records of the information used to verify the person's identity, including name, address, and other identifying information; and (3) determining whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency. In prescribing these regulations, the Secretary is directed to take into consideration the types of accounts maintained by different types of financial institutions, the various methods of opening accounts, and the types of identifying information that are available.<h>B. Overview of Comments Received </h>
+
+On July 23, 2002, Treasury and the SEC jointly proposed a rule to implement section 326 with respect to brokers or dealers in securities (broker-dealers).<SUP> 4 </SUP> We received 20 comments in response to the proposal.<SUP> 5 </SUP> Commenters included broker-dealers, financial services holding companies and trade associations. Commenters generally supported the proposal but suggested revisions. 
+
+Fifteen commenters addressed the proposed rule's definition of "customer." The inclusion in the definition of persons with authority over an account caused the greatest number of comments. The commenters provided several reasons why verifying this class of persons would be difficult. Many suggested using a risk-based approach. Commenters also suggested that the definition not include public companies, government agencies, investment advisors, investment advisor sub-account holders, beneficiaries of retirement accounts, or persons whose account relationship with the broker-dealer was limited to delivery-versus-payment transactions. 
+
+Twelve commenters addressed the proposed rule's recordkeeping requirements. The primary concern noted was the requirement to retain copies of documents used to verify the identities of customers. This was stated to be a substantial recordkeeping burden. Commenters suggested, as an alternative, requiring a record of the type of document used. Some commenters also were concerned about the requirement that these records be maintained until five years after the account is closed. They suggested shorter retention periods.
+
+Twelve commenters addressed the effective date of the proposed rule. They suggested varying implementation periods ranging from 90 days to two years.
+
+Nine commenters addressed the verification requirement in the proposed rule. Several commenters suggested that existing customers or long-time acquaintances need not be verified. Others suggested additional verification methods such as using legal opinions and annual reports. Two commenters requested clarification that broker-dealers would not be responsible for verifying the validity of verification documents. One commenter requested clarification that customers could be verified using both documentary and non-documentary methods.
+
+Seven commenters addressed the proposed rule's definition of "account." Some requested that the definition only apply to accounts established to provide ongoing services. Others suggested that the definition should not include the sale of mutual funds or variable life products on a subscription way basis or dealer-to-dealer delivery-versus-payment transactions.
+
+Seven commenters addressed the proposed rule's customer notice requirement. Three commenters suggested that the rule set forth model notice language. Two commenters suggested that the rule permit notice to be given within a reasonable time after the account is opened.
+
+Six commenters addressed the provision in the proposed rule permitting reliance between clearing and introducing broker-dealers. Generally, most of the commenters suggested the provision be expanded to allow for reliance between an executing dealer and prime broker and between a broker-dealer and its affiliates and other types of financial institutions such as banks, investment advisers and commodities firms.
+
+Three commenters addressed the requirement to collect minimum types of identifying information. One suggested that the rule not require a residential address since some persons may not have such an address. One suggested that the rule allow accounts to be opened even if all the required identifying information is not obtained, provided the broker-dealer has a reasonable belief that it knows the true identity of the customer. One suggested that the requirement be risk-based.
+
+Three commenters addressed the requirement to check customers against terrorist lists. One suggested that FinCEN act as a clearinghouse for such lists. One suggested that the rule identify the lists that must be checked and specify which agencies can provide them. One suggested permitting the lists to be checked within a reasonable time after an account is opened and that the lists be provided in a single electronic format.
+
+One commenter addressed the proposed rule's definitions of "U.S. person" and "Non-U.S. person." The commenter suggested that the rule use the definitions on certain Internal Revenue Service forms.
+
+One commenter expressed concern as to whether the Fair Credit Reporting Act (FCRA) would apply to verification database searches. It requested an exemption from the FCRA for such searches.
+
+We have modified the proposed rule in light of many of these comments and comments made with respect to the customer identification and verification rules being adopted for other financial institutions. The section-by-section analysis that follows discusses the comments and the modifications that we have made to the rule.<h>C. Codification of the Joint Final Rule </h>
+
+The final rule is being issued jointly by Treasury, through FinCEN, and the SEC. It applies to any person that is registered or required to be registered with the Commission as a broker or dealer under the Securities Exchange Act of 1934 (Exchange Act),<SUP> 6 </SUP> except persons who register solely for the purpose of effecting transactions in securities futures products.<SUP> 7 </SUP> The substantive requirements of this joint final rule will be codified as part of Treasury's BSA regulations located in 31 CFR Part 103.<SUP> 8 </SUP> SEC Rule 17a-8<SUP> 9 </SUP> requires broker-dealers to comply with all reporting, recordkeeping and record retention requirements under the BSA. The final rule being adopted today falls directly within the scope of Rule 17a-8, and will be examined for, and enforced, by the Commission and appropriate self-regulatory organizations.
+
+Final rules governing the applicability of section 326 to certain other financial institutions, including banks, thrifts, credit unions, mutual funds and futures commission merchants, are being issued separately. Treasury, the SEC, the CFTC and the banking agencies consulted extensively in the development of all joint rules implementing section 326 of the Act. These participating agencies intend the effect of the final rules to be uniform throughout the financial services industry. Treasury intends to issue separate rules under section 326 for certain non-bank financial institutions that are not regulated by one of the Federal Functional regulators.<h>D. Compliance Date </h>
+
+Many commenters requested that broker-dealers be given adequate time to develop and implement the requirements of any final rule implementing section 326. The transition periods suggested by commenters ranged from 90 days to two years after the publication of a final rule.
+
+The final rule modifies various aspects of the proposed rule and eliminates some of the requirements that commenters identified as being most burdensome. Nonetheless, we recognize that some broker-dealers will need time to develop and implement the customer identification program (CIP) required under the rule, as doing so may include various measures, such as training staff, reprinting forms, and programming automated systems. Accordingly, although this rule will be effective 30 days after publication, broker-dealers will have a transition period to implement the rule. Broker-dealers must fully implement their CIPs under the final rule by October 1, 2003.<SUP> 10 </SUP><h>II. THE JOINT FINAL RULEA. Section-by-Section Analysis </h><h>A. Section-by-Section Analysis </h>
+
+ §103.122(a) Definitions . 
+
+ §103.122(a)(1) Account . We proposed to define "account" as any formal business relationship with a broker-dealer established to effect financial transactions in securities, including, but not limited to, the purchase or sale of securities, securities loan and borrowed activity or the holding of securities or other assets for safekeeping or as collateral.<SUP> 11 </SUP> 
+
+Four commenters suggested that the definition of "account" incorporate the concept of ongoing relationships to make it consistent with the rules proposed by the banking agencies. The bank rules limited the definition of "account" to "ongoing transactions" to specifically address situations where a person obtains certain services or products from a bank such as cashing or buying a check or purchasing a wire transfer or money order. In the final rules being issued by Treasury and the banking agencies, the definition of account no longer contains the term "ongoing." Instead, the definition of "account" now specifically excludes these types of products or services or any others where a "formal banking relationship" is not established with the person.<SUP> 12 </SUP> They are being excluded because, standing alone, they do not establish a formal banking relationship. Moreover, they generally are covered by other provisions of the BSA.<SUP> 13 </SUP> Except in conjunction with an established securities account, broker-dealers do not offer products or services similar to those excluded in the bank rules. Thus, we did not include the term "ongoing" in the definition of account or adopt the specific exclusions included in the bank rule.<SUP> 14 </SUP> 
+
+Two commenters requested clarification as to whether the sale of mutual fund shares or variable life annuities on a subscription way basis constituted an account relationship, given that the broker-dealer's role in the transactions could be considered limited. We believe these transactions can give rise to an account relationship and, therefore, have not excluded them specifically from the definition of account. However, changes we made to the reliance and recordkeeping sections of the rule address many of the concerns raised by these commenters.<SUP> 15 </SUP> 
+
+We also have removed the word "business" from the definition of account. This change is made to clarify further that the rule applies to relationships established for the purpose of effecting securities transactions as opposed to general business dealings, such as those established in connection with a broker-dealer's own operations or premises. 
+
+The definition of "account" in the proposed rule contained a second sentence setting forth examples of the types of accounts that would constitute an "account" for the purposes of the rule.<SUP> 16 </SUP> The examples - cash accounts, margin accounts, prime brokerage accounts and accounts established to engage in securities repurchase transactions - were not intended to be an exhaustive list. These types of accounts remain "accounts" for the purposes of the final rule. However, the final rule text no longer specifically cites them as examples in order to make clear that the list was not exhaustive.<SUP> 17 </SUP>
+
+The final rule now contains two exclusions from the definition of "account." The first is for certain transferred accounts.<SUP> 18 </SUP> The Notice of Proposed Rulemaking stated that transfers of accounts from one broker-dealer to another were outside the definition of "account" for purposes of the proposed rule.<SUP> 19 </SUP> The final rule codifies and expands this exception, by excluding from the definition of "account" any account that a broker-dealer acquires through an acquisition, merger, purchase of assets, or assumption of liabilities. Customers do not initiate these transfers and, therefore, the accounts do not fall within the scope of section 326.<SUP> 20 </SUP> Transfers may, however, fall within the broader scope of the anti-money laundering program rules required under section 352 of the USA PATRIOT Act.<SUP> 21 </SUP> Accordingly, in developing and implementing programs under section 352, broker-dealers should consider situations where it would be appropriate to verify the identity of customers associated with transferred accounts.<SUP> 22 </SUP>
+
+The rule also now excludes from the definition of "account" accounts opened for the purpose of participating in an employee benefit plan established pursuant to the Employee Retirement Income Security Act of 1974.<SUP> 23 </SUP> Seven commenters recommended that the rule not cover these types of accounts. These accounts are less susceptible to be used for the financing of terrorism and money laundering because, among other reasons, they are funded through payroll deductions in connection with employment plans that must comply with federal regulations. These regulations impose, among other requirements, low contribution limits and strict distribution requirements.
+
+ §103.122(a)(2) Broker-dealer . We proposed to define "broker-dealer" as any person registered or required to be registered with the Commission, except persons who register solely to effect transactions in securities futures products.<SUP> 24 </SUP> There were no comments on this definition and we are adopting it as proposed.<SUP> 25 </SUP>
+
+ §103.122(a)(3) Commission . We proposed to define "Commission" as the United States Securities and Exchange Commission.<SUP> 26 </SUP> There were no comments on this definition and we are adopting it as proposed.<SUP> 27 </SUP>
+
+ §103.122(a)(4) Customer . We proposed "customer" to mean any person who opens a new account with a broker-dealer, and any person granted authority to effect transactions in an account.<SUP> 28 </SUP> Fifteen commenters expressed concern about the proposed definition. Nine commenters suggested that the definition not include persons with authority over accounts. Some suggested that these persons be excluded from the definition entirely while others proposed using a risk-based approach. Seven commenters suggested that the sponsors of employee benefit plans be considered customers, rather than the beneficiaries. Three commenters suggested that the definition of "customer" exclude beneficiaries of trust and escrow accounts. Three commenters suggested that the definition exclude beneficiaries of omnibus accounts. Two commenters suggested that the definition exclude persons who are allocated portions of delivery-versus-payment securities transactions at the direction of an investment advisor. One commenter suggested that the definition may not capture registered owners of an account if someone else undertook the necessary steps to open the account for the owners. One commenter suggested that the definition exclude banks, government agencies and public companies. We have addressed most of these comments and other issues through revisions to the definition of customer and through changes made to other sections of the rule.
+
+ For consistency with the Act, the final rule defines "customer" as "a person that opens a new account."<SUP> 29 </SUP> This means the person identified as the accountholder, except in the case of minors and non-legal entities. It does not refer to persons who fill out the account opening paperwork or provide information necessary to set up an account, if such persons are not the accountholder as well. Thus, under this rule, a broker-dealer is not required to look through a trust, or similar account to its beneficiaries, and is required only to verify the identity of the named accountholder.<SUP> 30 </SUP> Similarly, with respect to an omnibus account established by an intermediary, a broker-dealer is not required to look through the intermediary to the underlying beneficial owners, if the intermediary is identified as the accountholder.<SUP> 31 </SUP>
+
+As mentioned, we received the greatest number of comments for defining persons with authority over an account as "customers." This component of the companion CIP rules proposed for banks, mutual funds and commodities firms also garnered a great deal of comment. Commenters asserted that the proposal in this respect was overbroad and unduly burdensome, and would not further the goals of the statute.<SUP> 32 </SUP> Some commenters did acknowledge that a risk-based approach would be appropriate. 
+
+After revisiting this component of the "customer" definition, we have determined that requiring limited resources to be expended on verifying the identities of persons with authority over accounts could interfere with a broker-dealer's ability to focus on identifying customers and accounts that present a higher risk of not being properly identified. Accordingly, the final rule does not include persons with authority over accounts in the definition of "customer."<SUP> 33 </SUP> Instead, paragraph (b)(2)(ii)(C) of the final rule requires a broker-dealer's CIP to address situations where the broker-dealer will take additional steps to verify the identity of a customer that is not an individual by seeking information about individuals with authority or control over the account in order to verify the customer's identity.
+
+The definition of "customer" has been revised to clarify the treatment of minors and informal groups (non-legal entities) with a common interest ( e.g. , civic clubs).<SUP> 34 </SUP> In the case of a minor or informal group, the "customer" for purposes of the rule is the individual who undertakes to open the account in the name of the minor or the group. Generally, this will be the person who fills out the account opening paperwork and provides the information necessary to set up the account in the name of the minor or group. 
+
+In order to make the rule less burdensome, the final rule excludes from the definition of "customer" certain readily identifiable entities, including: (1)financial institutions regulated by a federal functional regulator; (2) banks regulated by a state bank regulator; and (3)persons described in section 103.22(d)(2)(ii)-(iv) of the BSA regulations. These excluded persons include entities such as governmental agencies and instrumentalities and companies that are publicly traded.<SUP> 35 </SUP> The definition of "customer" also excludes a person who has an existing account with the broker-dealer, provided that the broker-dealer has a reasonable belief that it knows the true identity of the person.
+
+ §103.122(a)(5) Federal functional regulator . We have added a definition of "Federal functional regulator" to the final rule.<SUP> 36 </SUP> The term is used in connection with the new provision in the rule allowing broker-dealers to rely on certain other financial institutions.<SUP> 37 </SUP> One of the requirements for such reliance is that the other financial institution be regulated by a Federal functional regulator. The final rule uses the definition of "Federal functional regulator" in section 103.120(a)(2) of the BSA regulations, meaning each of the banking agencies, the SEC and the CFTC.
+
+ §103.122(a)(6) Financial institution. We have added a definition of "financial institution" to the final rule.<SUP> 38 </SUP> The term is used in connection with the new provision in the rule allowing broker-dealers to rely on certain other "financial institutions." The definition of "financial institution" cross-references the BSA, 31 U.S.C.5312(a)(2) and (c)(1). This is a more expansive definition of "financial institution" than that in section 103.11 of the BSA regulations, and includes entities such as commodities firms.
+
+ § 103.122(a)(7) Taxpayer identification number . The proposed rule contained a definition of "taxpayer identification number" because that term is used later in the rule with respect to the types of information broker-dealers must collect from customers.<SUP> 39 </SUP> The term was defined by referencing the provisions of section 6109 of the Internal Revenue Code of 1986 and the regulations of the Internal Revenue Service (IRS) promulgated under that act. There were no comments on this approach and, therefore, we have adopted it as proposed.<SUP> 40 </SUP>
+
+ §103.122(a)(8) U.S. Person and §103.131(a)(9) Non-U.S. person. 
+
+The proposed rule defined "U.S. person" as an individual who is a U.S. citizen, or an entity established or organized under the laws of a State or the United States.<SUP> 41 </SUP> A "non-U.S. person" was defined as a person who did not satisfy either of these criteria.<SUP> 42 </SUP> One commenter suggested that the definitions of "U.S. person" and "non-U.S. person" should comport with the definitions in certain IRS forms.
+
+We believe that the proposed definitions of "U.S. person" and "Non-U.S. person" are better standards for purposes of this final rule than the IRS definitions. Adoption of the IRS definition of "U.S. person" would require broker-dealers to distinguish among various tax and immigration categories in connection with any type of account that is opened. Under the proposed definition, a broker-dealer will not necessarily need to establish whether a potential customer is a U.S. citizen. The broker-dealer will have to ask each customer for a U.S. taxpayer identification number (social security number, employer identification number, or individual taxpayer identification number). If a customer cannot provide one, the broker-dealer may then accept alternative forms of identification. Therefore, the definitions are adopted as proposed.<SUP> 43 </SUP>
+
+ §103.122(b) Customer identification program: minimum requirements . 
+
+ §103.122(b)(1) In General. 
+
+We proposed to require that each broker-dealer establish, document, and maintain a written CIP as part of its required anti-money laundering (AML) program,<SUP> 44 </SUP> and that the procedures of the CIP enable the broker-dealer to form a reasonable belief that it knows the true identity of a customer.<SUP> 45 </SUP> The CIP procedures were to be based on the type of identifying information available and on an assessment of relevant risk factors, including the broker-dealer's size; location and methods of opening accounts, the types of accounts maintained for customers and types of transactions executed for customers, and the broker-dealer's reliance on another broker-dealer.<SUP> 46 </SUP> 
+
+The NPRM discussed these risk factors and explained that, although the rule requires certain minimum identifying information and suitable verification methods, broker-dealers should consider on an ongoing basis whether other information or methods are appropriate, particularly as they become available in the future.<SUP> 47 </SUP> Commenters generally supported the approach of the proposed general CIP requirements.
+
+In the final rule, paragraph (b)(1) continues to set forth the general requirement that a broker-dealer must establish, document, and maintain a written CIP as part of its required AML program. It now provides that the CIP should be appropriate for the broker-dealer's size and business and that, at a minimum, it must contain the requirements set forth in paragraphs (b)(1) through (b)(5) (which are discussed below). The final rule was re-organized in order to be structurally consistent with the rules being issued by the banking agencies. Thus, requirements that had been set forth in paragraphs (c), (d), (e), (f), (g) and (h) in the proposed rule are now contained in paragraphs (b)(2) through (b)(5) of the final rule to the extent they have been adopted.<SUP> 48 </SUP> The rule's structure was changed in order to avoid causing confusion by having different looking rules and to affirm the intent of Treasury and the Federal functional regulators that all the CIP rules impose the same requirements.
+
+Finally, the reference to risk factors has been moved to paragraph (b)(2) of the final rule, which requires broker-dealers to establish identity verification procedures. This change was made to highlight that the risk factors should be considered specifically when developing identification verification procedures.<SUP> 49 </SUP>
+
+ §103.122(b)(2) Identity verification procedures. 
+
+We proposed to require that a broker-dealer's CIP include procedures for verifying the identity of customers, to the extent reasonable and practicable, using information specified in the rule, and that such verification occur within a reasonable time before or after the customer's account is opened or the customer is granted authority to effect transactions with respect to an account.<SUP> 50 </SUP> Commenters supported these general requirements, although several commenters recommended greater use of a risk-based approach. 
+
+The final rule continues to strike a balance between flexibility and detailed guidance, and we are adopting the provisions on identity verification procedures substantially as proposed.<SUP> 51 </SUP> Under the final rule, a broker-dealer's CIP must include risk-based procedures for verifying the identity of each customer to the extent reasonable and practicable.<SUP> 52 </SUP> Such procedures must enable the broker-dealer to form a reasonable belief that it knows the true identity of each customer.<SUP> 53 </SUP> The procedures must be based on the broker-dealer's assessment of the relevant risks, including those presented by the various types of accounts maintained by the broker-dealer, the various methods of opening accounts provided by the broker-dealer, the various types of identifying information available and the broker-dealer's size, location and customer base.<SUP> 54 </SUP>
+
+ §103.122(b)(2)(i) Customer information required . 
+
+The proposed rule would have required a broker-dealer's CIP to require the firm to obtain certain identifying information about each customer, including, at a minimum: (1) name; (2)date of birth, for a natural person; (3) certain addresses;<SUP> 55 </SUP> and (4) identification number.<SUP> 56 </SUP> The NPRM further stated that in certain circumstances a broker-dealer should obtain additional identifying information, and that the CIP should set forth guidelines regarding those circumstances and the additional information that should be obtained.<SUP> 57 </SUP>
+
+Three commenters submitted comments on the required information component of the proposed rule. One commenter pointed out that certain persons may not have permanent residential addresses because they are military personnel living overseas or are living on boats. This commenter suggested the rule only require that a mailing address be obtained. Another commenter suggested that the rule permit broker-dealers to open an account even if all the minimum identifying information is not obtained, provided the broker-dealer has a reasonable belief that it knows the customer's true identity. The final commenter suggested the rule be risk-based with respect to the required minimum information. This commenter also stated that the rule should require a mailing address only. 
+
+We are adopting the customer information provisions substantially as proposed with changes to accommodate individuals who may not have physical addresses.<SUP> 58 </SUP> We believe the minimum required information is collected by most broker-dealers already, is necessary for the verification process and serves an important law enforcement function. Accordingly, prior to opening an account, a broker-dealer must obtain, at a minimum, a customer's (1) name; (2) date of birth, for an individual; (3) address; and (4) identification number.<SUP> 59 </SUP> The address must be (1)for an individual, a residential or business street address, or for an individual who does not have a residential or business street address, an Army Post Office or Fleet Post Office box number, or the residential or business street address of next of kin or another contact individual; or (2) for a person other than an individual, a principal place of business, local office or other physical location.<SUP> 60 </SUP> 
+
+We are adopting the identification number requirement substantially as proposed.<SUP> 61 </SUP> For a customer that is a U.S. person, the identification number is a taxpayer identification number (social security number or employer identification number).<SUP> 62 </SUP> For a customer that is not a U.S. person, the identification number is one or more of the following: a taxpayer identification number, passport number and country of issuance, alien identification card number, or number and country of issuance of any other government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard.<SUP> 63 </SUP> This provision provides a broker-dealer with some flexibility to choose among a variety of information numbers that it may accept from a non-U.S. person.<SUP> 64 </SUP> However, the identifying information the broker-dealer accepts must permit the firm to form a reasonable belief that it knows the true identity of the customer.<SUP> 65 </SUP>
+
+The proposed rule included an exception from the requirement to obtain a taxpayer identification number from a customer opening a new account.<SUP> 66 </SUP> The exception would have allowed a broker-dealer to open an account for a person that has applied for, but has not yet received, an employer identification number (EIN).<SUP> 67 </SUP> We are adopting an expanded version of this exception in the final rule.<SUP> 68 </SUP> As proposed, the exception was limited to persons that are not natural persons.<SUP> 69 </SUP> On further consideration, we have determined that it is appropriate to expand the exception to include natural persons who have applied for, but have not received, a taxpayer identification number.<SUP> 70 </SUP> We also have modified the exception to reduce the recordkeeping burden. The proposed rule would have required the broker-dealer to retain a copy of the customer's application for a taxpayer identification number.<SUP> 71 </SUP> The final rule permits the broker-dealer to exercise discretion to determine how to confirm that a person has filed an application.<SUP> 72 </SUP>
+
+ §103.122(b)(2)(ii) Customer verification . 
+
+We proposed to require that a broker-dealer's CIP include procedures for verifying the identity of customers, to the extent reasonable and practicable, using the information obtained under the rule.<SUP> 73 </SUP> We also proposed to require such verification to occur within a reasonable time before or after the customer's account is opened or the customer is granted authority to effect transactions with respect to an account.<SUP> 74 </SUP> The NPRM stated that a broker-dealer need not verify each piece of identifying information if it is able to form a reasonable belief that it knows the customer's identity after verifying only certain of the information.<SUP> 75 </SUP> The NPRM also stated that the flexibility to undertake verification within a reasonable time must be exercised in a reasonable manner.<SUP> 76 </SUP> It noted that verifications too far in advance may become stale and verifications too long after the fact may provide opportunities to launder money while verification is pending, and that the appropriate amount of time may depend on the type of account opened, whether the customer opens the account in person, and the type of identifying information available.<SUP> 77 </SUP>
+
+Five commenters suggested that the rule should not require existing customers to be verified. Two of these commenters also pointed out that a second account is not created when a customer changes a cash account into a margin account. Accordingly, they argued that the changing of a cash account into a margin account should not be considered the opening of a new account. As discussed above, the definition of "customer" in the final rule has been changed to exclude persons who have an existing account at the broker-dealer, provided the broker-dealer has a reasonable belief that it knows the customer's true identity. Accordingly, broker-dealers will not be required to verify the identities of such persons. One commenter also suggested that the rule should not require broker-dealers to verify the identities of personal acquaintances. 
+
+The final rule adopts the customer verification requirements substantially as proposed, with modifications that conform this provision of the final rule to the revised definition of "customer," described above. The final rule requires that the CIP contain procedures for verifying the identity of the customer, using the customer information obtained in accordance with paragraph (b)(2)(i), within a reasonable time before or after the account is opened.<SUP> 78 </SUP> The final rule does not require the identity of a person granted authority to effect transactions in an account to be verified. 
+
+As stated in the NPRM, broker-dealers must reasonably exercise the flexibility to undertake verification before or after an account is opened. The amount of time may depend on various factors, such as the type of account opened, whether the customer opens the account in-person, and the type of identifying information that is available.<SUP> 79 </SUP> 
+
+The final rule also requires that a broker-dealer's CIP include procedures that describe when the firm will use documents, non-documentary methods, or a combination of both to verify customer identities.<SUP> 80 </SUP> Depending on the type of customer and the method of opening an account, it may be more appropriate to use either documentary or non-documentary methods, and in some cases it may be appropriate to use both methods. The CIP should set forth guidelines describing when documents, non-documentary methods, or a combination of both will be used. These guidelines should be based on the broker-dealer's assessment of the relevant risk factors.
+
+Finally, with respect to the comment on personal acquaintances, we believe it would be inappropriate to provide special treatment for such customers. The rule is sufficiently flexible to make their verification as unobtrusive as possible. 
+
+ §103.122(b)(2)(ii)(A) Customer verification - through documents . 
+
+We proposed to require that a broker-dealer's CIP describe documents that the firm will use to verify customers' identities.<SUP> 81 </SUP> Suitable documents for verification would include: (1)for natural persons, unexpired government-issued identification evidencing nationality or residence and bearing a photograph or similar safeguard; and (2) for persons other than natural persons, documents showing the existence of the entity, such as certified articles of incorporation, a government-issued business license, a partnership agreement, or a trust instrument.
+
+Three commenters submitted comments on this aspect of the rule. Two commenters sought clarification that broker-dealers will not be responsible for ensuring the validity of verifying documents. One commenter suggested that certificates of trust and legal opinions should be suitable documents for verification.
+
+The final rule attempts to strike an appropriate balance between the benefits of requiring additional documentary verification and the burdens that may arise from such a requirement. The final rule requires a broker-dealer's CIP to contain procedures that set forth the documents that the firm will use for verification.<SUP> 82 </SUP> Each broker-dealer will conduct its own risk-based analysis of the types of documents that it believes will enable it to verify the true identities of customers.
+
+In light of recent increases in identity theft and the availability of fraudulent documents, we believe that the value of documentary verification is enhanced by redundancy. The rule gives examples of types of documents that are considered reliable.<SUP> 83 </SUP> However, we encourage broker-dealers to obtain more than one type of documentary verification to ensure that it has a reasonable belief that it knows the customer's true identity. Moreover, we encourage broker-dealers to use a variety of methods to verify the identity of a customer, especially when the broker-dealer does not have the ability to examine original documents.
+
+The final rule continues to include, without significant change, an illustrative list of identification documents.<SUP> 84 </SUP> A broker-dealer may use other documents, provided they allow the firm to establish a reasonable belief that it knows the true identity of the customer. In addition to the risk factors described in paragraph (b)(2), the broker-dealer should take into account the problems of authenticating documents and the inherent limitations of documents as a means of identity verification. These limitations will affect the types of documents that will be necessary to establish a reasonable belief that the broker-dealer knows the true identity of the customer, and may require the use of non-documentary methods in addition to documents.
+
+Finally, with respect to the comments on ensuring the validity of documents, once a broker-dealer obtains and verifies the identity of a customer through a document, such as a driver's license or passport, the firm is not required to take steps to determine whether the document has been validly issued. A broker-dealer generally may rely on government issued identification as verification of a customer's identity; however, if a document shows obvious indications of fraud, the broker-dealer must consider that factor in determining whether it can form a reasonable belief that it knows the customer's true identity.
+
+ §103.122(b)(2)(ii)(B) Customer verification - through non-documentary methods . 
+
+We proposed to require a broker-dealer's CIP to describe the non-documentary methods the broker-dealer would use to verify customers' identities and when the firm would use these methods in addition to, or instead of, relying on documents.<SUP> 85 </SUP> We explained that the proposed rule allowed the exclusive use of non-documentary methods because some accounts are opened by telephone, mail, or over the Internet.<SUP> 86 </SUP> We also noted that, even if the customer presents identification documents, it might be appropriate to use non-documentary methods as well.<SUP> 87 </SUP>
+
+The proposed rule provided examples of non-documentary verification methods that a broker-dealer may use, including: contacting a customer; independently verifying information through credit bureaus, public databases, and other sources; and checking references with other financial institutions. In the NPRM, we observed that broker-dealers may wish to analyze whether there is logical consistency between the identifying information provided, such as the customer's name, street address, ZIP code, telephone number (if provided), date of birth, and social security number.<SUP> 88 </SUP>
+
+We proposed to require broker-dealers to use non-documentary methods when: (1)a customer who is a natural person cannot present an unexpired, government-issued identification document that bears a photograph or similar safeguard; (2) the broker-dealer is presented with unfamiliar documents to verify the identity of a customer; or (3) the broker-dealer does not obtain documents to verify the identity of a customer, does not meet face-to-face with a customer who is a natural person, or is otherwise presented with circumstances that increase the risk the broker-dealer will be unable to verify the true identity of a customer through documents.<SUP> 89 </SUP> In the NPRM, we explained that we recognize that identification documents may be obtained illegally and may be fraudulent. In light of the recent increase in identity theft, we encouraged broker-dealers to use non-documentary methods even when the customer has provided identification documents.<SUP> 90 </SUP> 
+
+One commenter requested that we clarify that account applicants who are not physically present at an account opening may be treated under the broker-dealer's non-documentary verification methods.<SUP> 91 </SUP> One commenter sought clarification that a broker-dealer is not prohibited from using both documentary methods in conjunction with non-documentary methods.<SUP> 92 </SUP> One commenter suggested that public databases, such as the SEC's EDGAR system, should be considered a suitable source of non-documentary verification. One commenter expressed concern about the applicability of the Fair Credit Reporting 
+
+Act (FCRA) when using non-documentary methods, such as credit reports.<SUP> 93 </SUP> 
+
+ We recognize that there are many scenarios and combinations of risk factors that broker-dealers may encounter, and we have decided to adopt general principles that are illustrated by examples, in lieu of a lengthy and possibly unwieldy regulation that attempts to address a wide variety of situations with particularity. Under the final rule, a broker-dealer relying on non-documentary verification methods must describe them in its CIP.<SUP> 94 </SUP> The final rule includes an illustrative list of methods, similar to the list that was included in the proposed rule. These methods may include: (1)contacting a customer; (2) independently verifying the customer's identity through the comparison of information provided by the customer with information obtained from a consumer reporting agency, public database,<SUP> 95 </SUP> or other source; (3) checking references with other financial institutions; and (4) obtaining a financial statement.<SUP> 96 </SUP> We continue to recommend that broker-dealers analyze whether there is logical consistency between the identifying information provided, such as the customer's name, street address, ZIP code, telephone number (if provided), date of birth, and social security number. 
+
+The final rule also includes a list, similar to that in the proposed rule, of circumstances that may require the use of non-documentary procedures.<SUP> 97 </SUP> Specifically, non-documentary procedures must address circumstances in which: (1) an individual is unable to present an unexpired government-issued identification document that bears a photograph or similar safeguard; (2) the broker-dealer is not familiar with the documents presented; (3) the account is opened without obtaining documents; (4) the customer opens the account without appearing in person; and (5) the circumstances increase the risk that the broker-dealer will be unable to verify the true identity of a customer through documents.<SUP> 98 </SUP> 
+
+As we stated in the NPRM, because identification documents may be obtained illegally and may be fraudulent, and in light of the recent increase in identity theft, we encourage broker-dealers to use non-documentary methods even when the customer has provided identification documents. 
+
+ §103.122(b)(2)(ii)(C) Customer verification - additional verification for certain customers . 
+
+As described earlier, we originally proposed to require verification of the identity of any person authorized to effect transactions in a customer's account. Most commenters objected to this requirement, and it does not appear in the final rule. For the reasons discussed below, however, the rule does require that a broker-dealer's CIP address the circumstances in which it will obtain information about such individuals in order to verify a customer's identity.<SUP> 99 </SUP> 
+
+Treasury and the SEC believe that, while broker-dealers may be able to verify the majority of customers adequately through the documentary or non-documentary verification methods described above, there may be circumstances when these methods are inadequate. The risk that the broker-dealer will not know the customer's true identity may be heightened for certain types of accounts, such as an account opened in the name of a corporation, partnership, or trust that is created or conducts substantial business in a jurisdiction that has been designated by the United States as a primary money laundering concern or has been designated as non-cooperative by an international body. We believe that a broker-dealer must identify customers that pose a heightened risk of not being properly identified and that a broker-dealer's CIP must prescribe additional measures that may be used to obtain information about the identity of the individuals associated with the customer when standard documentary or non-documentary methods prove to be insufficient. 
+
+The final rule, therefore, includes a new provision on verification procedures. This provision requires that the CIP address circumstances in which, based on the broker-dealer's risk assessment of a new account opened by a customer that is not an individual, the broker-dealer also will obtain information about individuals with authority or control over the account, including persons authorized to effect transactions in the account, in order to verify the customer's true identity.<SUP> 100 </SUP> This additional verification method applies only when the broker-dealer cannot adequately verify the customer's true identity using documentary and non-documentary verification methods.<SUP> 101 </SUP> 
+
+ §103.122(b)(2)(iii) Lack of verification . 
+
+We proposed to require that a broker-dealer's CIP include procedures for responding to circumstances in which the firm cannot form a reasonable belief that it knows the true identity of the customer.<SUP> 102 </SUP> We explained in the NPRM that the CIP should specify the actions to be taken, which could include closing the account or placing limitations on additional purchases.<SUP> 103 </SUP> We also explained that there should be guidelines for when an account will not be opened ( e.g. , when the required information is not provided), and that the CIP should address the terms under which a customer may conduct transactions while the customer's identity is being verified.<SUP> 104 </SUP>
+
+We did not receive any comments on this aspect of the proposed rule and the final rule adopts the provision substantially as proposed.<SUP> 105 </SUP> However, it adds a description of recommended features of these procedures, based on the features described in the NPRM. Thus, the final rule states that the procedures should describe: (1) when the broker-dealer should not open an account; (2) the terms under which a customer may use an account while the broker-dealer attempts to verify the customer's identity; (3) when the broker-dealer should file a Suspicious Activity Report (SAR) in accordance with applicable law; and (4)when the broker-dealer should close an account, after attempts to verify a customer's identity have failed.<SUP> 106 </SUP>
+
+ §103.122(b)(3) Recordkeeping . 
+
+ §103.122(b)(3)(i) Required Records . 
+
+We proposed to require broker-dealer CIPs to include certain recordkeeping procedures.<SUP> 107 </SUP> First, the proposed rule would have required that a broker-dealer maintain a record of the identifying information provided by customers. Second, if a broker-dealer relies on a document to verify a customer's identity, the proposed rule would have required the firm to maintain a copy of the document. Third, the proposed rule would have required broker-dealers to record the methods and results of any additional measures undertaken to verify the identity of customers. Finally, the proposed rule would have required broker-dealers to record the resolution of any discrepancy in the identifying information obtained.
+
+Twelve commenters submitted comments on this aspect of the rule. Generally they objected to the requirement to maintain copies of verification documents or reports of non-documentary methods. They argued that this requirement was overly burdensome. Two commenters requested that the language in the proposed rule requiring broker-dealers to make copies that "accurately depict" the documentary records be harmonized with the CIP rules issued by the other Federal functional regulators.
+
+We have reconsidered and modified the recordkeeping requirements of the rule. The final rule provides that a broker-dealer's CIP must include procedures for making and maintaining records related to verifying customers. However, the final rule is significantly more flexible than the proposed rule. Under the final rule, a broker-dealer must still make a record of the identifying information obtained about each customer.<SUP> 108 </SUP> However, rather than requiring copies of verification documents, the final rule requires that a broker-dealer's records include a description of any document that the broker-dealer relied on to verify the identity of the customer, noting the type of document, any identification number contained in the document, the place of issuance, and the issuance and expiration dates, if any.<SUP> 109 </SUP> With respect to non-documentary verification, the final rule now requires the records to include "a description" of the methods and results of any measures undertaken to verify the identity of the customer.<SUP> 110 </SUP> The final rule also requires a record of the resolution of any substantive discrepancy discovered when verifying the identifying information obtained.<SUP> 111 </SUP>
+
+As we stated in the NPRM, nothing in the rule modifies, limits, or supersedes Section 101 of the Electronic Signatures in Global and National Commerce Act.<SUP> 112 </SUP> A broker-dealer may use electronic records to satisfy the requirements of this final rule, in accordance with guidance that the Commission has issued.<SUP> 113 </SUP> 
+
+ §103.122(b)(3)(ii) Record Retention . 
+
+We proposed to require that a broker-dealer retain all required records for five years after the account is closed. Three commenters expressed concern about this aspect of the proposal, recommending that the recordkeeping period be shortened. 
+
+We believe that, by eliminating the requirement that a broker-dealer retain copies of documents used to verify customer identities, the final rule addresses many of the commenters' concerns. Nonetheless, while the identifying information provided by customers should be retained as proposed, there is little value in requiring broker-dealers to retain the remaining records for five years after an account is closed, because this information is likely to grow stale. Therefore, the final rule prescribes a bifurcated record retention schedule that is consistent with a general five-year retention requirement.<SUP> 114 </SUP> Under the final rule, the broker-dealer must retain the information obtained about a customer pursuant to paragraph (b)(3)(i)(A) for five years after the date the account is closed.<SUP> 115 </SUP> The remaining records required under paragraphs (b)(3)(i)(B), (C), and (D) ( i.e., information that verifies a customer's identity) need only be retained for five years after the record is made. The final rule provides that these records otherwise shall be maintained in accordance with the provisions of the broker-dealer recordkeeping rule (Rule 17a-4).<SUP> 116 </SUP>
+
+ §103.122(b)(4) Comparison with government lists . 
+
+We proposed to require that a broker-dealer's CIP have procedures for determining whether the customer appears on any list of known or suspected terrorists or terrorist organizations prepared by any federal government agency and made available to the broker-dealer.<SUP> 117 </SUP> In addition, the proposed rule stated that broker-dealers must follow all federal directives issued in connection with such lists. 
+
+Two commenters recommended that the final rule specify which government lists must be checked and provide a mechanism for communicating that information to broker-dealers. These commenters also suggested that all such lists be consolidated or provided through a clearinghouse, such as FinCEN. One commenter suggested that the rule should allow for the lists to be checked after an account is opened. Another commenter sought clarification that the requirement to check these lists only applied to the broker-dealer and not its affiliates.<SUP> 118 </SUP> 
+
+The final rule states that a broker-dealer's CIP must include procedures for determining whether the customer appears on any list of known or suspected terrorists or terrorist organizations issued by any federal government agency and designated as such by Treasury in consultation with the federal functional regulators.<SUP> 119 </SUP> Because Treasury and the federal functional regulators have not yet designated any such lists, the final rule cannot be more specific with respect to the lists that broker-dealers must check.<SUP> 120 </SUP> However, broker-dealers will not have an affirmative duty under this rule to seek out all lists of known or suspected terrorists or terrorist organizations compiled by the federal government. Instead, they will receive notification by way of separate guidance regarding the lists that they must consult for purposes of this provision. 
+
+We also have modified this provision to give guidance as to when a broker-dealer must consult a list of known or suspected terrorists or terrorist organizations. The final rule states that the CIP's procedures must require the broker-dealer to determine whether a customer appears on a list "within a reasonable period of time" after the account is opened, or earlier if required by another federal law or regulation or by a federal directive issued in connection with the applicable list.<SUP> 121 </SUP> 
+
+The final rule also requires a broker-dealer's CIP to include procedures that require the firm to follow all federal directives issued in connection with such lists.<SUP> 122 </SUP> Again, because no lists have yet been designated under this provision, the final rule cannot provide more guidance in this area.
+
+ §103.122(b)(5) Customer notice . 
+
+We proposed to require that a broker-dealer's CIP include procedures for providing customers with adequate notice that the firm is requesting information to verify their identities.<SUP> 123 </SUP> The NPRM stated that a broker-dealer could satisfy that notice requirement by generally notifying its customers about the firm's verification procedures.<SUP> 124 </SUP> It stated that if an account is opened electronically, such as through an Internet website, the broker-dealer could provide notice electronically.<SUP> 125 </SUP> 
+
+Four commenters requested model language for the notice. Two commenters suggested that the rule allow notice to be given within a reasonable time after the account is opened. 
+
+Section 326 of the Act provides that the regulations issued " shall at a minimum, require financial institutions to . . . [give] customers . . . adequate notice" of the procedures they adopt concerning customer identification. Based on this statutory requirement, the final rule requires a broker-dealer's CIP to include procedures for providing customers with adequate notice that the firm is requesting information to verify their identities. The final rule provides additional guidance regarding what constitutes adequate notice and the timing of the notice requirement. The final rule states that notice is adequate if the broker-dealer generally describes the identification requirements of the final rule and provides notice in a manner reasonably designed to ensure that a customer views the notice before opening an account.<SUP> 126 </SUP> The final rule states that, depending on how an account is opened, a broker-dealer may post a notice in the lobby or on its website, or use any other form of oral or written notice, such as a statement on an account application.<SUP> 127 </SUP> In addition, the final rule includes sample language that, if appropriate, will be deemed adequate notice to a broker-dealer's customers when provided in accordance with the requirements of the final rule.<SUP> 128 </SUP>
+
+ §103.122(b)(6) Reliance on other financial institutions . 
+
+In the proposed rule, we included as a risk factor a broker-dealer's reliance on another broker-dealer.<SUP> 129 </SUP> In the NPRM, we stated that this requires an assessment of whether the broker-dealer can rely on another broker-dealer, with which it shares an account relationship, to undertake any of the steps required by this proposed rule with respect to the shared account.<SUP> 130 </SUP> We stated that a shared account means an account subject to a carrying or clearing agreement governed by New York Stock Exchange (NYSE) Rule 382 or National Association of Securities Dealers, Inc. (NASD) Rule 3230 ( i.e. , a customer account introduced by a correspondent broker-dealer to a clearing and carrying broker-dealer).<SUP> 131 </SUP>
+
+Six commenters submitted a variety of comments on this aspect of the proposed rule and the NPRM. Generally, they all supported expanding the reliance provision beyond the confines of a clearing/introducing broker-dealer relationship. Some suggested allowing reliance in other broker-dealer relationships, such as that between a prime broker and an executing broker. Some also suggested permitting broker-dealers to rely on other types of entities, such as other financial institutions or affiliates. Two commenters also expressed concern with the degree of liability that remained with a broker-dealer relying on another broker-dealer.
+
+We recognize that there may be circumstances in which a broker-dealer should be able to rely on the performance by another financial institution of some or all of the elements of the firm's CIP.<SUP> 132 </SUP> Therefore, the final rule provides that a broker-dealer's CIP may include procedures that specify when the broker-dealer will rely on the performance by another financial institution (including an affiliate) of any procedures of the firm's CIP, and thereby satisfy the broker-dealer's obligations under the rule.<SUP> 133 </SUP> Reliance is permitted if a customer of the broker-dealer is opening, or has opened, an account or has established a similar relationship with the other financial institution to provide or engage in services, dealings, or other financial transactions. 
+
+In order for a broker-dealer to rely on the other financial institution, (1) such reliance must be reasonable under the circumstances, (2) the other financial institution must be subject to a rule implementing the anti-money laundering compliance program requirements of 31 U.S.C. 5318(h) and be regulated by a federal functional regulator, and (3) the other financial institution must enter into a contract with the broker-dealer requiring it to certify annually to the broker-dealer that it has implemented an anti-money laundering program and will perform (or its agent will perform) the specified requirements of the broker-dealer's CIP. The contract and certification will provide a standard means for a broker-dealer to demonstrate the extent to which it is relying on another financial institution to perform its CIP, and that the other institution has, in fact, agreed to perform those functions.<SUP> 134 </SUP> If it is not clear from these documents, a broker-dealer must be able to otherwise demonstrate when it is relying on another financial institution to perform its CIP with respect to a particular customer. The broker-dealer will not be held responsible for the failure of the other financial institution to fulfill adequately the broker-dealer's CIP responsibilities, provided that the broker-dealer can establish that its reliance was reasonable and that it has obtained the requisite contracts and certifications. Treasury and the SEC emphasize that the broker-dealer and the other financial institution upon which it relies must satisfy all of the conditions set forth in this final rule. If they do not, then the broker-dealer remains solely responsible for applying its own CIP to each customer in accordance with this rule. 
+
+All of the federal functional regulators are adopting comparable provisions in their CIP rules to permit such reliance. Furthermore, the federal functional regulators expect to share information and cooperate with each other to determine whether the institutions subject to their jurisdiction are in compliance with the reliance provision of this rule.
+
+ §103.122(c) Exemptions . 
+
+The proposed rule provided that the Commission, with the concurrence of the Secretary, may exempt any broker-dealer that registers with the Commission pursuant to 15 U.S.C. 78o and 78o-4.<SUP> 135 </SUP> However, it excluded from this exemptive authority broker-dealers that register pursuant to 15 U.S.C. 78o(b)(11). These are firms that register as broker-dealers solely because they deal in securities futures products. The exemptive authority with respect to these firms will be in the rule issued jointly by Treasury and the CFTC. The proposed rule provided that the Secretary, with the concurrence of the Commission, may exempt any broker-dealer that registers pursuant to 15 U.S.C 78o-5 ( i.e. , government securities dealers).
+
+ We received no comments on this provision in the proposed rule and are adopting it substantially as proposed.<SUP> 136 </SUP>
+
+ §103.122(d) Other requirements unaffected . 
+
+The final rule includes a provision, parallel to that in CIP rules adopted by the other Federal functional regulators, to the effect that nothing in the rule shall be construed to relieve a broker-dealer of its obligations to obtain, verify, or maintain information that is required by another regulation in Part 103.<SUP> 137 </SUP> In addition, broker-dealers continue to be subject to existing securities law requirements, which may have different or more rigorous requirements than those in the final rule.<SUP> 138 </SUP><h>B. Requirement for CIP Approval Removed </h>
+
+The proposed rule had a requirement in paragraph (i) that the CIP be approved by the broker-dealer's board of directors, managing partners, board of managers or other governing body performing similar functions or by a person or persons specifically authorized by such bodies to approve the CIP.<SUP> 139 </SUP> The final rule requires the CIP to be a part of the overall AML programs required of broker-dealers under NASD Rule 3011 and NYSE Rule 445.<SUP> 140 </SUP> NASD Rule 3011 and NYSE Rule 445 require the AML programs to be approved in writing by a member of the broker-dealer's senior management. We removed the approval requirement in the final rule because it was unnecessary given the approval requirements in NASD Rule 3011 and NYSE Rule 445. We note, however, that a broker-dealer with an AML program that has been approved as required, must nonetheless obtain approval of a new CIP because it would be a material change to the AML program.<h>III. CONFORMING AMENDMENTS TO 31 CFR 103.35 </h>
+
+As Treasury explained in the NPRM, current section 103.35(a) sets forth customer identification requirements when certain brokerage accounts are opened. Together with the proposed rule implementing section 326 of the Act, Treasury, on its own authority, proposed deleting 31 CFR 103.35(a) for the following reasons.
+
+Generally, sections 103.35(a)(1) and (2) require a broker-dealer, within 30 days after an account is opened, to secure and maintain a record of the taxpayer identification number of the customer involved. If the broker-dealer is unable to obtain the taxpayer identification number within 30 days (or a longer time if the person has applied for a taxpayer identification number), it need take no further action under section 103.35 concerning the account if it maintains a list of the names, addresses, and account numbers of the persons for which it was unable to secure taxpayer identification numbers, and provides that information to the Secretary upon request. In the case of a non-resident alien, the broker-dealer is required to record the person's passport number or a description of some other government document used to determine identification. These requirements conflicted with those in the proposed CIP rule, which required broker-dealers to obtain the name, address, date of birth and an identification number from any person opening a new account.
+
+Section 103.35(a)(3) currently provides that a broker-dealer need not obtain a taxpayer identification number with respect to specified categories of persons<SUP> 141 </SUP> opening accounts. The proposed rule did not exempt any persons from the CIP requirements. As stated in the NPRM, Treasury believes that the requirements of section 103.35(a) are inconsistent with the intent and purpose of section 326 of the Act and incompatible with the proposed rule.
+
+For these reasons, Treasury, under its own authority, proposed deleting the above referenced provisions in 103.35(a). Treasury and the Commission requested comments on whether any of the exemptions in Section 103.35(a)(3) should apply in the context of the proposed CIP requirements in light of the intent and purpose of section 326 of the Act. The comments we received requesting exemptions from the CIP requirements have been discussed above in the section-by-section analysis of the final rule.
+
+Treasury has determined that given the more comprehensive requirements of the final CIP rule, there is no longer a need for §103.35 (a). A number of the exemptions formerly in §103.35(a) have now been added to the final CIP rule. Other exemptions conflict with the language and intent of section 326 of the Act and thus are not adopted in the final rule. While 103.35(a) will no longer be needed once the final rule is fully effective, withdrawing the provision before October 1, 2003, would create a gap period during which broker-dealers would not be subject to a rule under the BSA requiring customers to be identified when opening brokerage accounts. Because Treasury and the Commission do not believe such a gap period would be appropriate, the final rule-rather than withdrawing 103.35(a)-amends the section to cut off its applicability on October 1, 2003, when 103.122 becomes fully effective.<h>IV. PAPERWORK REDUCTION ACT </h>
+
+The new rule has certain provisions that contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq. ). Treasury submitted the proposed rule to the Office of Management and Budget ("OMB") for review in accordance with 44 U.S.C 3507(d) and 5 CFR 1320.11. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The OMB has approved the collection of information requirements in today's rule under control number 1506-0034.<h>A. Collection of Information Under the Proposed Rule </h>
+
+The final rule contains recordkeeping and disclosure requirements that are subject to the Paperwork Reduction Act of 1995. In summary, the final rule, like the proposed rule, requires broker-dealers to implement reasonable procedures to (1) maintain records of the information used to verify the person's identity and (2) provide notice of the CIP procedures to customers. These recordkeeping and notice requirements are required under section 326 of the Act. However, the final rule reduces the paperwork burden attributable to these requirements, as described below.<h>B. Proposed Use of the Information </h>
+
+Section 326 of the Act requires Treasury and the Commission jointly to issue a regulation setting forth minimum standards for broker-dealers and their customers regarding the identity of the customer that shall apply in connection with opening of an account at the broker-dealer. Furthermore, section 326 provides that the regulations, at a minimum, must require broker-dealers to implement reasonable procedures for (1) verifying the identity of any person seeking to open an account, to the extent reasonable and practicable; (2) maintaining records of the information used to verify the person's identity, including name, address, and other identifying information; and (3) determining whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency. 
+
+The purpose of section 326, and the regulations promulgated thereunder, is to make it easier to prevent, detect and prosecute money laundering and the financing of terrorism. In issuing the final rule, Treasury and the Commission are seeking to fulfill their statutorily mandated responsibilities under section 326 and to achieve its important purpose.
+
+The final rule requires each broker-dealer to establish a written CIP that must include recordkeeping procedures and procedures for providing customers with notice that the broker-dealer is requesting information to verify their identity. The final rule requires a broker-dealer to maintain a record of (1) the identifying information provided by the customer, the type of identification document(s) reviewed, if any, and the identification number of the document(s); (2) the means and results of any additional measures undertaken to verify the identity of the customer; and (3) the resolution of any discrepancy in the identifying information obtained.
+
+The final rule also requires each broker-dealer to give customers "adequate notice" of the identity verification procedures. Depending on how an account is opened, a broker-dealer may satisfy this disclosure requirement by posting a sign in the lobby or providing customers with any other form of written or oral notice. If the account is opened electronically, the broker-dealer may provide the notice electronically. Accordingly, a broker-dealer may choose among a variety of methods of providing adequate notice and may select the least burdensome method, given the circumstances under which customers seek to open new accounts.<h>C. Respondents </h>
+
+The final rule will apply to approximately 5,448 broker-dealers, which is the approximate number of firms that conduct business with the general public.<SUP> 142 </SUP><h>D. Total Annual Reporting and Recordkeeping Burden1. Providing Notice to Customers </h><h>1. Providing Notice to Customers </h>
+
+The requirement to provide notice to customers generally will be a one-time burden in terms of drafting and posting or implementing the notices. The Commission estimates that broker-dealers will take two hours each to draft and post the required notices. There are approximately 5,448 broker-dealers that will have to undertake this task. Therefore, in complying with this requirement, the Commission estimates that the industry as a whole will spend approximately 10,896 hours.<h>2. Recordkeeping </h>
+
+The requirement to make and maintain records related to the CIP will be an annual time burden. The total burden to the industry will depend on the number of new accounts added each year. The Commission estimates that broker-dealers, on average, will spend two minutes per account making and maintaining the required records.<SUP> 143 </SUP> Therefore, in complying with this requirement, the Commission estimates that the industry as a whole will spend approximately 140,833 hours in 2003, 620,000 hours in 2004 and 683,833 hours in 2005.<SUP> 144 </SUP>
+
+We believe that there is a nominal burden associated with the new recordkeeping requirement. Under the final rule, a broker-dealer may rely on another financial institution to perform some or all its CIP under certain conditions, including that the financial institution must enter into a contract requiring the financial institution to certify annually to the broker-dealer that it has implemented its anti-money laundering program and that it will perform (or its agent will perform) the specified elements of the broker-dealer's CIP. Not all broker-dealers will choose to rely on a third party. The minimal burden of retaining the certification described above should allow a broker-dealer to reduce its net burden under the rule by relying on another financial institution to perform some or all of its CIP.<h>3. Request for Comment </h>
+
+Treasury and the Commission invite comments on the accuracy of the burden estimates and suggestions on how to further reduce these burdens. Comments should be sent (preferably by fax (202-395-6974)) to Desk Officer for the Department of the Treasury, Office of Information and Regulatory Affairs, Office of Management and Budget, Paperwork Reduction Project (1506), Washington, DC 20503 (or by the Internet to jlackeyj@omb.eop.gov) , with a copy to FinCEN by mail or the Internet at the addresses previously specified.<h>E. Collection of Information is Mandatory </h>
+
+These recordkeeping and disclosure (notice) requirements are mandatory.<h>F. Confidentiality </h>
+
+The collection of information pursuant to the proposed rule would be provided by customers and other sources to broker-dealers and maintained by broker-dealers. In addition, the information may be used by federal regulators, self-regulatory organizations, and authorities in the course of examinations, investigations, and judicial proceedings. No governmental agency regularly would receive any of the information described above.<h>G. Record Retention Period </h>
+
+The final rule requires that the documentation of the identifying information obtained from the customer be retained until five years after the date the account of the customer is closed and that the other records relating to the verification of the customer be retained until five years after the record is made.<h>V. SEC'S ANALYSIS OF THE COSTS AND BENEFITS ASSOCIATED WITH THE FINAL RULE </h>
+
+Section 326 of the Act requires Treasury and the Commission to prescribe regulations setting forth minimum standards for broker-dealers regarding the identities of customers that shall apply in connection with the opening of an account. The statute also provides that the regulations issued by Treasury and the Commission must, at a minimum, require financial institutions to implement reasonable procedures for: (1)verification of customers' identities; (2) determination of whether a customer appears on a government list; and (3) maintenance of records related to customer verification. The final rule implements this statutory mandate by requiring broker-dealers to (1) establish a CIP; (2) obtain certain identifying information from customers; (3) verify the identifying information; (4) check customers against lists provided by federal agencies, (5) provide notice to customers that information may be requested in the process of verifying their identities; and (6) make and maintain records. The Commission believes that these requirements are reasonable and practicable, as required by the section 326 and, therefore, that the costs associated with them are attributable to the statute. Moreover, while the final rule specifies certain minimum requirements, broker-dealers are able to design their CIPs in a manner most appropriate to their business models and customer bases. This flexibility should be beneficial to broker-dealers in helping them to tailor their CIPs appropriately, while still meeting the statutory requirements of section 326. 
+
+Even though the Commission believes the costs associated with the final rule are attributable to the statute, it considered preliminarily the costs and benefits associated with the proposed rule and requested comment on all aspects of its cost-benefit analysis.<SUP> 145 </SUP> The Commission sought comment on all aspects of the rule, including whether the establishment of minimum requirements creates a benefit or, conversely, imposes costs because broker-dealers will not be able to choose for themselves the minimum procedures they wish to use to meet the requirements of the statute. The Commission also sought comment on whether the costs are attributable to the statute. Most commenters did not address the Commission's cost-benefits analysis. The commenters that did discuss costs stated generally that they believed the Commission had underestimated them. 
+
+In light of the comments, the Commission re-examined its analysis, obtained further cost information and adjusted its cost estimate with respect to the one-time costs associated with implementing a CIP. The adjustment is reflected in the cost section below titled "Implementing the CIP." The Commission also adjusted certain of the burden totals to reflect updated figures ( e.g. , number broker-dealers doing a public business) obtained from more recent broker-dealer FOCUS reports. As discussed throughout this release, the burdens that would have been imposed by the proposed rule have been lessened as a result of changes to the final rule including (1) the narrowing of the definitions of "account" and "customer," (2) the elimination of need to make and retain certain records, and (3) the expansion of the reliance provision. The estimates below take these changes into account.<h>A. Benefits Associated with the Final Rule </h>
+
+The anti-money laundering provisions in the Act are intended to make it easier to prevent, detect and prosecute money laundering and the financing of terrorism. The final rule is an important part of this effort. It fulfills the statutory mandate of section 326 by specifying how a broker-dealer is to establish a program that will assist it in determining the identities of customers. Verifying identities, in turn, will reduce the risk of broker-dealers unwittingly aiding criminals, including terrorists, in accessing U.S. financial markets to launder money or move funds for illicit purposes. Additionally, the implementation of such programs should make it more difficult for persons to successfully engage in fraudulent activities involving identity theft or the placing of fictitious orders to buy or sell securities.<h>B. Costs Associated with the Final Rule1. Implementing a CIP </h><h>1. Implementing a CIP </h>
+
+Most broker-dealers, as a matter of prudent business practices, already should have procedures in place for verifying identities of customers. In addition, Exchange Act Rule 17a-3(a)(9) requires broker-dealers to obtain the name and address of each beneficial owner of a cash or margin account.<SUP> 146 </SUP> Similarly, the self-regulatory organizations have rules requiring broker-dealers to obtain identifying information from customers.<SUP> 147 </SUP> Accordingly, firms should have written procedures for complying with these existing regulations.
+
+Nonetheless, the Commission believes that some broker-dealers will have to update or establish a CIP. The proposed rule seeks to keep costs low by allowing for great flexibility in establishing a CIP. For example, the CIP should be based on factors specific to each broker-dealer, such as size, customer base and location. Thus, the analysis and detail necessary for a CIP will depend on the complexity of the broker-dealer and its operations. Given the considerable differences among broker-dealers, it is difficult to quantify a cost per broker-dealer. Highly complex firms will have more risk factors to consider, given, for example, their size, multiple offices, variety of services and products offered, and range of customers. However, most large firms already have some procedures in place for verifying customer identities. Smaller and less complex firms will not have as many risk factors. 
+
+The Commission estimates that establishing a written CIP could result in additional costs for some broker-dealers to the extent they do not have verification procedures that meet the minimum requirements in the rule. This includes broker-dealers that would need to augment their procedures to make them compliant. On average, the Commission estimates the additional cost per broker-dealer to draft CIP procedures to be approximately $2,244, resulting in a one time overall cost to the industry of approximately $12,225,312.<SUP> 148 </SUP> 
+
+Previously, the Commission included, as part of the costs of establishing a CIP, a cost estimate associated with updating account opening applications or account opening websites. This was estimated as a one-time cost to the industry of $563,760.<SUP> 149 </SUP> Several commenters stated that they believed the Commission had underestimated the burden of establishing a CIP. One commenter also identified steps that would need to be taken in addition to updating applications and websites. Accordingly, the Commission is now adjusting its estimate of the costs associated with revising or designing forms and other documentation (including applications and websites), and including costs associated with programming and testing automated systems. The Commission estimates the one-time costs associated with modifying account application materials to be $8,274,150.<SUP> 150 </SUP> Further, the Commission estimates the one-time costs associated with programming and testing automated systems to be $25,505,536.<SUP> 151 </SUP><h>2. Obtaining Identifying Information </h>
+
+The Commission believes that broker-dealers already obtain from customers most, if not all, of the information required under the final rule.<SUP> 152 </SUP> Rule 17a-3(a)(9) requires broker-dealers to obtain, with respect to each margin and cash account, the name and address of each beneficial owner, provided that the broker-dealer need only obtain such information from the persons authorized to transact business for the account if it is a joint or corporation account.<SUP> 153 </SUP> 
+
+Further, broker-dealers are already required, pursuant to NASD Rule 3110, to obtain certain identifying information with respect to each account.<SUP> 154 </SUP> For example, if the customer is a natural person, the rule requires the broker-dealer to obtain the customer's name and address.<SUP> 155 </SUP> In addition, the broker-dealer must determine whether the customer is of legal age, and, if the customer purchases more than just open-end investment company shares or is solicited to purchase such shares, the broker-dealer must obtain the customer's tax identification or social security number.<SUP> 156 </SUP> If the customer is a corporation, partnership, or other legal entity, the broker-dealer must obtain its name, residence, and the names of any persons authorized to transact business on behalf of the entity.<SUP> 157 </SUP> If the account is a discretionary account, the broker-dealer must obtain the signature of each person authorized to exercise discretion over the account.<SUP> 158 </SUP> Finally, the broker-dealer must maintain all of this information as a record of the firm.
+
+In addition, NYSE Rule 405 requires broker-dealers to "[u]se due diligence to learn the essential facts relative to every customer, every order, every cash or margin account accepted or carried by such organization and every person holding power of attorney over any account accepted or carried by such organization."<SUP> 159 </SUP> 
+
+While broker-dealers currently are required to obtain most of this information, the Commission estimates that there will be some new costs for broker-dealers because some may not be obtaining all the required information. The Commission estimates that the total cost to the industry to obtain the minimum identifying information will be $1,598,458 in 2003, $7,037,000 in 2004 and $7,761,508 in 2005.<SUP> 160 </SUP><h>3. Verifying Identifying Information </h>
+
+The final rule gives broker-dealers substantial flexibility in establishing how they will independently verify the information obtained from customers. For example, customers that open accounts on a broker-dealer's premises can provide a driver's license or passport, or if the customer is not a natural person, it can provide a copy of any documents showing its existence as a legal entity ( e.g. , articles of incorporation, business licenses, partnership agreements or trust instruments). There are also a number of options for customers opening accounts via the telephone or Internet. In these cases, broker-dealers may obtain a financial statement from the customer, check the customer's name against a credit bureau or database, or check the customer's references with other financial institutions. 
+
+The documentary and non-documentary verification methods set forth in the rule are not meant to be an exclusive list of the appropriate means of verification. Other reasonable methods may be available now or in the future. The purpose of making the rule flexible is to allow broker-dealers to select verification methods that are, as section 326 requires, reasonable and practicable. Methods that are appropriate for a smaller broker-dealer with a fairly localized customer base may not be sufficient for a larger firm with customers from many different countries. The proposed rule recognizes this fact and, therefore, allows broker-dealers to employ such verification methods as would be suitable for a given firm to form a reasonable belief that it knows the true identities of its customers. 
+
+The Commission estimates identity verification could result in costs for broker-dealers because some firms currently may not use verification methods. The Commission estimates that the total cost to the industry to verify the identifying information will be $13,343,958 in 2003, $58,745,000 in 2004 and $64,793,208 in 2005.<SUP> 161 </SUP><h>4. Determining Whether Customers Appear on a Federal Government List </h>
+
+The Commission believes that broker-dealers that receive federal government lists, chiefly clearing firms, already have procedures for checking customers against them. First, there are substantive legal requirements associated with the lists circulated by Treasury's Office of Foreign Asset Control of the U.S. Treasury (OFAC). The failure of a firm to comply with these requirements could result in criminal and civil penalties. The Commission believes that, given the events of September 11, 2001, most broker-dealers that receive lists from the federal government have implemented procedures for checking their customers against them. 
+
+The Commission estimates that this requirement could result in some additional costs for broker-dealers because some may not already check such lists. The Commission estimates that the total cost to the industry to check such lists will be $911,896 in 2003, $4,014,500 in 2004 and $4,427,820 in 2005.<SUP> 162 </SUP><h>5. Providing Notice to Customers </h>
+
+A broker-dealer may satisfy the notice requirement by generally notifying its customers about the procedures the broker-dealer must comply with to verify their identities. Depending on how accounts are opened, the broker-dealer may post a sign in its lobby or provide customers with any other form of written or oral notice. If an account is opened electronically, such as through an Internet website, the broker-dealer may provide notice electronically. The Commission estimates the total one-time cost to the industry to implement adequate notices will be $1,401,498.<SUP> 163 </SUP><h>6. Recordkeeping </h>
+
+The Commission estimates that many of the records required by the rule are already made and maintained by broker-dealers. As discussed above, Commission and self-regulatory organization rules already require broker-dealers to obtain much of the minimum identifying information specified in the proposed rule. These regulations also require that records be made and kept of this information. Moreover, the final rule has modified the recordkeeping requirements to make them less burdensome. The Commission estimates that the recordkeeping requirement could result in additional costs for some broker-dealers that currently do not maintain certain of the records for the prescribed time period. The Commission estimates that the total cost to the industry to make and maintain the required records in the upcoming years will be $3,647,583 in 2003, $16,058,000 in 2004 and $17,711,283 in 2005.<SUP> 164 </SUP><h>VI. REGULATORY FLEXIBILITY ACT </h>
+
+Treasury and the Commission are sensitive to the impact our rules may impose on small entities. Congress enacted the Regulatory Flexibility Act, 5 U.S.C. 601 et seq ., to address concerns related to the effects of agency rules on small entities. In the NPRM, Treasury and the Commission stated that the proposed rule likely would not have a "significant economic impact on a substantial number of small entities."<SUP> 165 </SUP> 5 U.S.C. 605(b). First, we noted that the economic impact on small entities should not be significant because most small entities are likely to have a relatively small number of accounts, and thus compliance should not impose a significant economic impact. Second, we pointed out that the economic impact on broker-dealers, including small entities, is imposed by the statute itself, and not by the final rule. 
+
+While Treasury and the Commission believed that the proposed rule likely would not have a significant economic impact on a substantial number of small entities, Treasury and the Commission prepared an Initial Regulatory Flexibility Analysis (IRFA) that was published in the NPRM. Therefore, a Final Regulatory Flexibility Analysis (FRFA) has been prepared in accordance with 5 U.S.C. 604.<h>A. Need for and Objectives of the Rule </h>
+
+Section 326 of the Act requires Treasury and the Commission jointly to issue a regulation setting forth minimum standards for broker-dealers and their customers regarding the identity of the customer that shall apply in connection with the opening of an account at the broker-dealer. Furthermore, section 326 requires, at a minimum, that broker-dealers implement reasonable procedures for (1) verifying the identity of any person seeking to open an account, to the extent reasonable and practicable; (2) maintaining records of the information used to verify the person's identity, including name, address, and other identifying information; and (3) determining whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency. 
+
+The purpose of section 326, and the regulations promulgated thereunder, is to make it easier to prevent, detect and prosecute money laundering and the financing of terrorism. In issuing the proposed rule, Treasury and the Commission are seeking to fulfill their statutorily mandated responsibilities under section 326 and to achieve its important purpose. 
+
+ The rule seeks to achieve the goals of section 326 by specifying the information broker-dealers must obtain from or about customers that can be used to verify the identity of the customers. This will make it more difficult for persons to use false identities to establish customer relationships with broker-dealers for the purposes of laundering money or moving funds to effectuate illegal activities, such as financing terrorism.<h>B. Significant Issues Raised by Public Comment </h>
+
+In the NPRM, Treasury and the Commission specifically requested public comments on any aspect of the IRFA, as well as the number of small entities that may be affected by the proposed rule. The agencies received no comments on the IRFA.<h>C. Small Entities Subject to the Rule </h>
+
+The final rule will affect broker-dealers that are small entities. Rule 0-10 under the Exchange Act<SUP> 166 </SUP> defines a broker-dealer to be small if it (1) had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to § 240.17a-5(d) or, if not required to file such statements, a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the last business day of the preceding fiscal year (or in the time that it has been in business, if shorter); and (2) is not affiliated with any person (other than a natural person) that is not a small business or small organization as defined in the rule.
+
+The Commission estimates there are approximately 878 broker-dealers that were "small" for purposes of Rule 0-10 that would be subject to this rule because they conduct business with the general public. The Commission bases its estimate on the information provided in broker-dealer FOCUS Reports.<h>D. Reporting, Recordkeeping and other Compliance Requirements </h>
+
+The proposed rule would require broker-dealers to (1) establish a CIP; (2) obtain certain identifying information from customers; (3) verify identifying information of customers; (4) check customers against lists provided by federal agencies; (5) provide notice to customers that information may be requested in the process of verifying their identities; and (6) make and maintain records related to the CIP.
+
+As noted above, the rule is not expected to have a significant economic impact on a substantial number of small entities. Commission staff estimates that broker-dealers needing to draft a CIP will spend, on average, approximately 20 hours, at a cost of approximately $2,244 per firm, and that broker-dealers needing to make systems modifications will spend, on average, approximately 640 hours at a cost of $39,864.44 per firm.
+
+Although small entities will also incur annual costs, the Commission expects that they will not have a significant economic impact. For each new account, a broker-dealer will require what we estimate to be one minute for collecting customer information, 5 minutes for verifying customer information, half a minute for comparison to government lists, and 2 minutes for record retention, each at a cost of approximately $22 to $26 per hour. Small entities are likely to have a relatively small number of accounts; therefore, they will incur the ongoing costs of individual customer identifications relatively infrequently.<h>E. Agency Action to Minimize Effect on Small Entities </h>
+
+Treasury and the Commission considered significant alternatives to the amendments that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. 
+
+In connection with the proposed amendments, we considered the following alternatives: (1) the establishment of differing compliance or reporting requirements or timetables that take into account the resources of small entities; (2) the clarification, consolidation, or simplification of compliance and reporting requirements under the rule for small entities; (3) the use of performance rather than design standards; and (4) an exemption for small broker-dealers from coverage of the proposed amendments or any part thereof.
+
+The final rule provides for substantial flexibility in how each broker-dealer may meet its requirements. This flexibility is designed to account for differences between broker-dealers, including size. Nonetheless, Treasury and the Commission did consider alternatives indicated above. Treasury and the Commission believe that the alternative approaches to minimize the adverse impact of the rule on small entities are not consistent with the statutory mandate of Section 326. In addition, Treasury and the Commission do not believe that an exemption is appropriate, given the flexibility built into the rule to account for, among other things, the differing sizes and resources of broker-dealers, as well as the importance of the statutory goals and mandate of section 326. Money laundering can occur in small firms as well as large firms.<h>VII. EXECUTIVE ORDER 12866 </h>
+
+The Department of the Treasury has determined that this rule is not a significant regulatory action for purposes of Executive Order 12866. As noted above, the final rule parallels the requirements of section 326 of the Act. Accordingly, a regulatory impact analysis is not required.<h>VIII. STATUTORY AUTHORITY AND TEXT OF RULES </h>
+
+<END MAIN TEXT>
+
+1 Pub. L. 107-56.
+
+2 31 U.S.C. 5311 et seq .
+
+3 See 31 U.S.C. 5312(a)(2), 5312(c)(1)(A). For any financial institution engaged in financial activities described in section 4(k) of the Bank Holding Company Act of 1956, the Secretary is required to prescribe the regulations issued under section 326 jointly with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, and the National Credit Union Administration (collectively, the "banking agencies"), the Securities and Exchange Commission (Commission or SEC), and the Commodity Futures Trading Commission (CFTC).
+
+4 Customer Identification Programs for Broker-Dealers, Securities Exchange Act of 1934 Release No. 46192 (July 12, 2002), 67 FR 48306 (July 23, 2002) (Notice of Proposed Rulemaking or NPRM). Treasury simultaneously published (1) jointly with the banking agencies, a proposed rule applicable to banks (as defined in 31 CFR 103.11(c)) and foreign branches of insured banks; (2) a proposed rule applicable to credit unions, private banks and trust companies that do not have a federal functional regulator; (3) jointly with the SEC, a proposed rule applicable to mutual funds; and (4) jointly with the CFTC, a proposed rule applicable to futures commission merchants and introducing brokers. Customer Identification Programs for Banks, Savings Associations, and Credit Unions, 67 FR 48290 (July 23, 2002); Customer Identification Programs for Certain Banks (Credit Unions, Private Banks and Trust Companies) That Do Not Have a Federal Functional Regulator, 67 FR 48299 (July 23, 2002); Customer Identification Programs for Mutual Funds, IC-25657 (July 12, 2002), 67 FR 48318 (July 23, 2002); Customer Identification Programs for Futures Commission Merchants and Introducing Brokers, 67 FR 48328 (July 23, 2002). Treasury, the Commission, the CFTC, and the banking agencies received approximately 500 comments in response to these proposed rules. Many of those commenters raised issues similar to those we received in connection with the proposal respecting broker-dealer customer identification programs.
+
+5 The comment letters are available for public inspection and copying in the SEC's Public Reference Room, 450 5<SUP>th</SUP> Street, NW, Washington, DC (File No. S7-25-02).
+
+6 15 U.S.C. 77a et seq .
+
+7 Brokers or dealers that limit their securities business to effecting transactions in securities futures products may register with the Commission pursuant to 15 U.S.C 78o(b)(11). These persons will be subject to the customer identification rule being issued by the CFTC.
+
+8 The regulation will be codified at 31 CFR 103.122.
+
+9 17 CFR 240.17a-8.
+
+10 The CIP rules issued by the other Federal functional regulators also have an implementation date of October 1, 2003.
+
+11 The proposed rule text is set forth in the NPRM, 67 FR at 48317.
+
+12 See 31 CFR 103.121(a)(1).
+
+13 For example, 31 CFR 103.29 requires banks to obtain and verify identifying information of any person who purchases a bank check or draft, cashier's check, money order or traveler's check of $3,000 or more.
+
+14 See final rule, paragraph (a)(1)(i).
+
+15 The changes - discussed later in the Release- permit broker-dealers to rely on mutual funds to perform the CIP requirements and eliminate the requirement to retain a copy of documents used to verify the identity of a customer.
+
+16 See NPRM, 67 FR at 48317.
+
+17 See final rule, paragraph (a)(1)(i).
+
+18 See final rule, paragraph (a)(1)(ii)(A).
+
+19 See NPRM, Section II.A, 67 FR at 48307.
+
+20 Transfers of accounts that result from an introducing broker-dealer changing its clearing firm would fall within this exclusion. However, the introducing firm and the new clearing firm would need to meet the requirements in paragraph (b)(6) (such as entering into a contract and providing certifications) to the extent they intend to rely on each other to undertake CIP requirements with respect to customers that open accounts after the transfer.
+
+21 Section 352 requires brokers and dealers to establish anti-money laundering programs that, at a minimum, include (1) the development of internal policies, procedures, and controls; (2) the designation of a compliance officer; (3) an ongoing employee training program; and (4) an independent audit function to test programs. On April 22, 2002, the Commission approved rule changes submitted by the NASD and the NYSE. Exchange Act Release No. 45798 (April 22, 2002), 67 FR 20854 (April 26, 2002). These rules (NASD Rule 3011 and NYSE Rule 445) set forth minimum requirements for these programs.
+
+22 For example, it may be appropriate to verify transferred accountholders if the accounts are coming from a broker-dealer that was found to have failed to establish or maintain an adequate CIP.
+
+23 Final rule, paragraph (a)(1)(ii)(B).
+
+24 See NPRM, 67 FR at 48317.
+
+25 See final rule, paragraph (a)(2).
+
+26 See NPRM, 67 FR at 48317.
+
+27 See final rule, paragraph (a)(3).
+
+28 See NPRM, 67 FR at 48317.
+
+29 Final rule, paragraph (a)(4)(i)(A).
+
+30 However, as discussed below, under paragraph (b)(2)(ii)(C) of the final rule, a broker-dealer, based on its risk-assessment of a new account, may need to take additional steps to verify the identity of a customer that is not an individual, such as obtaining information about persons with control over the account. In addition, the due diligence procedures required under other provisions of the BSA or the securities laws may require broker-dealers to look through to owners of certain types of accounts.
+
+31 The final rule does not affect any requirements under 17 CFR 240.17a-3(a)(9) to make records with respect to the beneficial owners of certain accounts.
+
+32 For example, commenters pointed out that corporations and other entities may have a substantial number of individuals authorized to act on their behalf, and that administrative personnel and other individuals acting on the entity's behalf may pose a minimal risk of money laundering, especially when the entity is a publicly traded company. Several commenters emphasized that requiring an individual employee to disclose personal information to all of the employer's financial institutions may be an unwarranted intrusion into the privacy of those individuals, increasing their risk of becoming victims of identity theft.
+
+33 See final rule, paragraph (a)(4).
+
+34 See final rule, paragraph (a)(4)(i)(B).
+
+35 See final rule, paragraph (a)(4)(ii). Section 103.22(d)(2)(iv) exempts publicly traded companies only to the extent of their domestic operations. Accordingly, a broker-dealer's CIP will apply to any foreign offices, affiliates, or subsidiaries of such entities that open new accounts.
+
+36 Final rule, paragraph (a)(5).
+
+37 See final rule, paragraph (b)(6).
+
+38 Final rule, paragraph (a)(6).
+
+39 See NPRM, 67 FR at 48317.
+
+40 See final rule, paragraph (a)(7).
+
+41 The proposed rule contained a definition of "person" that cross-referenced the definition in section 103.11(z) of the BSA regulations. Since the final rule is being codified in 31 CFR Part 103, it will incorporate the definition in section 103.11(z) without the need for a specific citation. Therefore, the citation has been removed from the final rule. The definition of "person" in section 103.11(z) applicable to the final rule is: "an individual, a corporation, a partnership, a trust or estate, a joint stock company, an association, a syndicate, joint venture, or other unincorporated organization or group, an Indian tribe (as that term is defined in the Indian Gaming Regulatory Act), and all entities cognizable as legal personalities."
+
+42 As described in greater detail below, a broker-dealer is generally required to obtain a U.S. taxpayer identification number from a customer who opens a new account. However, if the customer is a non-U.S. person and does not have such a number, the broker-dealer may obtain an identification number from some other form of government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard.
+
+43 See final rule, paragraphs (a)(8) and (a)(9).
+
+44 NASD Rule 3011 and NYSE Rule 445 set forth minimum requirements for these programs.
+
+45 See NPRM, 67 FR at 48317.
+
+46 Id .
+
+47 See NPRM, Section II.B, 67 FR at 48307 - 48308.
+
+48 Paragraph (b)(6) of the final rule is not specified as a minimum CIP requirement because it contains the provisions permitting broker-dealers to rely on another financial institution. Reliance under this paragraph is optional.
+
+49 The other requirements of the final rule - such as providing notice to customers, checking government lists, and recordkeeping - are standard requirements that may not vary depending on risk factors.
+
+50 See NPRM, 67 FR at 48317.
+
+51 See final rule, paragraph (b)(2).
+
+52 Id .
+
+53 Id .
+
+54 Id .
+
+55 We proposed to require broker-dealers to obtain residence and mailing addresses (if different) for a natural person, or principal place of business and mailing address (if different) for a person other than a natural person. See NPRM, 67 FR at 48317.
+
+56 We proposed to require broker-dealers to obtain: (1) for a customer that is a U.S. person, a taxpayer identification number, or (2) for a customer that is not a U.S. person, a taxpayer identification number, passport number and country of issuance, alien identification card number, or number and country of issuance of any other government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard. See NPRM, 67 FR at 48317.
+
+57 See NPRM, Section II.C, 67 FR at 48308 - 48309.
+
+58 Final rule, paragraph (b)(2)(i)(A).
+
+59 Based on an assessment of the relevant risk factors, the broker-dealer's CIP may require a customer to provide additional information to establish the customer's identity.
+
+60 Final rule, paragraph (b)(2)(i)(A)( 3 ).
+
+61 See NPRM, 67 FR at 48317.
+
+62 Final rule, paragraph (b)(2)(i)(A)( 4 ).
+
+63 Id .
+
+64 The final rule provides this flexibility because there is no uniform identification number that non-U.S. persons would be able to provide to a broker-dealer. See Treasury Department, "A Report to Congress in Accordance with Section 326(b) of the USA PATRIOT Act," October 21, 2002.
+
+65 We emphasize that the rule neither endorses nor prohibits a broker-dealer from accepting information from particular types of identification documents issued by foreign governments. The broker-dealer must determine, based upon appropriate risk factors, including those discussed above, whether the information presented by a customer is reliable. We recognize that a foreign business or enterprise may not have an identification number. Therefore the final rule notes that when opening an account for such a customer, the broker-dealer must request alternative government-issued documentation certifying the existence of the business or enterprise.
+
+66 See NPRM, 67 FR at 48317.
+
+67 This position is analogous to that in regulations issued by the Internal Revenue Service (IRS) concerning "awaiting - TIN [taxpayer identification number] certificates." The IRS permits a taxpayer to furnish an "awaiting-TIN certificate" in lieu of a taxpayer identification number to exempt the taxpayer from the withholding of taxes owed on reportable payments ( i.e. interest and dividends) on certain accounts. See 26 CFR 31.3406(g)-3.
+
+68 See final rule, paragraph (b)(2)(i)(B).
+
+69 In the NPRM, we explained that the exception was for new businesses that may need to open a brokerage account before they receive an EIN from the Internal Revenue Service. See NPRM, Section II.C, 67 FR at 48309.
+
+70 Final rule, paragraph (b)(2)(i)(B).
+
+71 See NPRM, 67 FR at 48317.
+
+72 The broker-dealer's CIP must include procedures to confirm that the application was filed before the person opens the account and to obtain the taxpayer identification number within a reasonable period of time after the account is opened.
+
+73 See NPRM, 67 FR at 48317.
+
+74 Id .
+
+75 NPRM, Section II.D, 67 FR at 48309.
+
+76 Id .
+
+77 Id .
+
+78 Final rule, paragraph (b)(2)(ii).
+
+79 It is possible, however, that a broker-dealer would violate other laws by permitting a customer to transact business prior to verifying the customer's identity. See , e.g. , 31 CFR Part 500 (regulations of Treasury's Office of Foreign Asset Control prohibiting transactions involving designated foreign countries or their nationals).
+
+80 Final rule, paragraph (b)(2)(ii).
+
+81 See NPRM, 67 FR at 48317.
+
+82 Final rule, paragraph (b)(ii)(A).
+
+83 Id . Other documents, such as the trust certificates and legal opinions suggested by one commenter, also may be appropriate for verification. The list in the rule is meant to be illustrative.
+
+84 For an individual, these documents may include unexpired government-issued identification evidencing nationality or residence and bearing a photograph or similar safeguard, such as a driver's license or passport. Final rule, paragraph (b)(2)(ii)(A)( 1 ). For a person other than an individual, these documents may include documents showing the existence of the entity, such as certified articles of incorporation, a government-issued business license, a partnership agreement, or a trust instrument. Final rule, paragraph (b)(2)(ii)(A)( 2 ).
+
+85 See NPRM, 67 FR at 48317.
+
+86 See NPRM, Section II.D.2, 67 FR at 48310.
+
+87 Id .
+
+88 Id .
+
+89 See NPRM, 67 FR at 48317.
+
+90 See NPRM, Section II.D.2, 67 FR at 48310.
+
+91 As discussed above, non-documentary methods may be used in any circumstance.
+
+92 Id .
+
+93 We have determined that there is no statutory basis to shield broker-dealers from FCRA requirements with respect to requirements under the final rule.
+
+94 Final rule, paragraph (b)(2)(ii)(B).
+
+95 We do not list the specific types of databases that would be suitable for verification. Thus, in response to the one comment, the SEC's EDGAR system may be an appropriate means of undertaking non-documentary verification. Ultimately, it will depend on the circumstances and the broker-dealer's assessment of the relevant risk factors.
+
+96 Final rule, paragraph (b)(2)(ii)(B)( 1 ).
+
+97 Final rule, paragraph (b)(2)(ii)(B)( 2 ).
+
+98 Id . The final clause acknowledges that there may be circumstances, beyond those specifically described in this provision, when a broker-dealer should use non-documentary verification procedures.
+
+99 See final rule, paragraph (b)(2)(ii)(C).
+
+100 Id .
+
+101 A broker-dealer need not undertake any additional verification if it chooses not to open an account when it cannot verify the customer's true identity after using standard documentary and non-documentary verification methods.
+
+102 See NPRM, 67 FR at 48317.
+
+103 See NPRM, Section II.G, 67 FR at 48310.
+
+104 Id .
+
+105 Final rule, paragraph (b)(2)(iii).
+
+106 Id .
+
+107 See NPRM, 67 FR at 48317.
+
+108 See final rule, paragraph (b)(3)(i)(A).
+
+109 Final rule, paragraph (b)(3)(i)(B).
+
+110 Final rule, paragraph (b)(3)(i)(C).
+
+111 Final rule, paragraph (b)(3)(i)(D). In response to one of the commenters, we limited this requirement to "substantive" discrepancies to make clear that records would not have to be made in the case of minor discrepancies, such as those that might be caused by typographical mistakes.
+
+112 Pub. L. 106-229, 114 Stat. 464 (15 U.S.C. 7001).
+
+113 See Commission Guidance to Broker-dealers on the Use of Electronic Storage Media Under the Electronic Signatures in Global and National Commerce Act of 2000 with Respect to Rule 17a-4(f), Exchange Act Release No. 44238 (May 1, 2001), 66 FR 22916 (May 7, 2001).
+
+114 See Final rule, paragraph (b)(3)(ii).
+
+115 The Secretary has determined that the records required to be retained under section 326 of the Act have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, to protect against international terrorism.
+
+116 17 CFR 240.17a-4.
+
+117 See NPRM, 67 FR at 48317.
+
+118 This rule only applies to "broker-dealers" as that term is defined in the rule. However, there may be cases where a broker-dealer's affiliate is subject to a CIP rule issued by Treasury and one of the other Federal functional regulators.
+
+119 Final rule, paragraph (b)(4).
+
+120 This is not to say, however, that broker-dealers do not have obligations under other laws to screen their customers against government lists. For example, broker-dealers already should have compliance programs in place to ensure they comply with Treasury's Office of Foreign Assets Control rules prohibiting transactions with certain foreign countries or their nationals. See OFAC's Foreign Assets Control Regulations for the Securities Industry, which can be viewed at the following website: http://www.ustreas.gov/offices/enforcement/-ofac/regulations/t11facsc.pdf.
+
+121 Final rule, paragraph (b)(4).
+
+122 Id .
+
+123 See NPRM, 67 FR at 48317.
+
+124 NPRM, Section II.F, 67 FR at 48310.
+
+125 Id .
+
+126 Final rule, paragraph (b)(5)(ii).
+
+127 Id .
+
+128 Final rule, paragraph (b)(5)(iii).
+
+129 See NPRM, 67 FR at 48317.
+
+130 NPRM, Section II.B, 67 FR at 48307 - 48308.
+
+131 Id .
+
+132 This provision of the rule does not affect the ability of a broker-dealer to contractually delegate the implementation and operation of its CIP to a service provider that would not qualify under the reliance provisions of paragraph (b)(6). However, in such a case, the broker-dealer remains solely responsible for assuring compliance with the rule, and therefore must actively monitor the operation of its CIP and assess its effectiveness.
+
+133 Final rule, paragraph (b)(6).
+
+134 A broker-dealer must be able to demonstrate that the other financial institution has agreed to perform the relevant requirements of the broker-dealer's CIP, regardless of whether the other financial institution is an affiliate or a non-affiliate. Accordingly, the contract and certification requirement in the final rule applies equally to affiliate and non-affiliate reliance.
+
+135 See NPRM, 67 FR at 48317.
+
+136 Final rule, paragraph (c). The reference to firms that register under 15 U.S.C. 78o(b)(11) has been removed since these firms are excluded from the rule's definition of broker-dealer.
+
+137 Final rule, paragraph (d).
+
+138 For example, Rule 17a-3(a)(9) requires broker-dealers to obtain the name and address of the beneficial owners of certain accounts and NASD Rule 3110, among other things, requires broker-dealers to obtain the names of persons authorized to transact business on behalf of customers that are legal entities.
+
+139 See NPRM, 67 FR at 48317.
+
+140 See final rule, paragraph (b)(1).
+
+141 The exemption applies to (i) agencies and instrumentalities of Federal, State, local, or foreign governments; (ii) aliens who are ambassadors; ministers; career diplomatic or consular officers; naval, military, or other attaches of foreign embassies and legations; and members of their immediate families; (iii) aliens who are accredited representatives of certain international organizations, and their immediate families; (iv) aliens temporarily residing in the United States for a period not to exceed 180 days; (v) aliens not engaged in a trade or business in the United States who are attending a recognized college or university, or any training program supervised or conducted by an agency of the Federal Government; and (vi) unincorporated subordinate units of a tax exempt central organization that are covered by a group exemption letter.
+
+142 This figure is derived from financial information filed by broker-dealers on Form X-17a-5 - Financial and Operational Combined Uniform Single (FOCUS) Reports - pursuant to section 17 of the Exchange Act and rule 17a-5 (17 CFR 240.17a-5).
+
+143 The Commission estimates that the number of new accounts per year will be: 16,900,000 in 2003, 18,600,000 in 2004, and 20,515,000 in 2005. The Commission arrived at this estimate by considering: (1) the total number of accounts at the 2001 year-end (102,700,000) as reported by broker-dealers on their FOCUS Reports; and (2) the annualized growth rate in total accounts for the years 1990 through 2001 (ten percent). The Commission also estimates that the number of accounts that are closed each year equals five percent of the total number of accounts. Accordingly, the Commission estimates that the total annualized growth rate for new accounts each year is fifteen percent. Therefore, starting with the 2001 total of 102,700,000 and using an annualized growth rate of fifteen percent, the Commission estimates that 16,900,000 new accounts will be added in 2003, 18,600,000 in 2004 and 20,515,000 in 2005.
+
+144 The Commission derived these estimates by taking the number of new accounts projected for each upcoming year and multiplying the number by two minutes and then dividing that number by 60 to convert minute totals into hour totals. The final rule will be effective only for the last quarter of 2003. Therefore, while the total burden for a twelve-month effective period would be 563,333 hours, the actual burden being allocated to the rule is 140,833 (or ¼ of 563,333).
+
+145 NPRM, Section VI, 67 FR at 48313.
+
+146 17 CFR 240.17a-3(a)(9).
+
+147 See, e.g. , NYSE Rule 405, NASD Rule 3110.
+
+148 The Commission estimates that it will take broker-dealers on average approximately 20 hours to draft a CIP. This estimate seeks to account for the fact that many firms already have customer identification and verification procedures and that discrepancies in size and complexity will result in differing time burdens. The Commission believes that broker-dealers will have senior compliance personnel draft their CIPs and that this will take an average of 16 hours. The Commission anticipates that in-house counsel will spend on average 4 hours reviewing the CIP. According to the Securities Industry Association ("SIA") Management and Professional Earnings 2000 report ("SIA Earnings Report"), Table 051, the hourly cost of a compliance manager plus 35% overhead is $101.25. The hourly cost for an in-house counsel plus 35% overhead is $156.00 (SIA Earnings Report, Table 107 (Attorney)). Therefore, the Commission estimates that the total cost per broker-dealer to establish a CIP would be $2,244 per broker-dealer [(16 x $101.25) + (4 x $156.00)]. As of September 30, 2002, there were approximately 5,448 broker-dealers that engaged in some form of a public business. Therefore, the Commission estimates that the total cost to the industry would be $2,244 multiplied by 5,448 or $12,225,312.
+
+149 The Commission estimated that it would take each broker-dealer, on average, one hour to update account opening applications or electronic account opening systems. The Commission believed broker-dealers would have a compliance manager implement the necessary changes. The hourly cost for a compliance manager is $101.25 (SIA Earnings Report, Table 051 (Compliance manager)). Accordingly, the total cost to the industry was estimated to be: ($101.25) x (the number of broker-dealers doing a public business or 5,568) or $563,760.
+
+150 The Commission estimates that it will take each broker-dealer, on average, fifteen hours to modify account opening documentation or electronic account opening systems. The Commission believes broker-dealers will have a compliance manager implement the necessary changes. The hourly cost for a compliance manager is $101.25 (SIA Earnings Report, Table 051 (Compliance manager)). Accordingly, the total cost to the industry was estimated to be: ($101.25) x (15 hours) x (the number of broker-dealers doing a public business - 5,448) or $8,274,150.
+
+151 The Commission estimates that it will take broker-dealers on average approximately 640 hours to program and test the automated systems that will need to be changed to comply with the rule. The Commission estimates computer programmers will do this work. The hourly cost of a computer programmer is $66.20 (SIA Earnings Report, Table 158 (Senior Programmer)). The Commission estimates that generally systems changes will need to be made only by broker-dealers that carry or clear customer accounts. FOCUS report data indicates that there are approximately 602 such broker-dealers. Accordingly, the total cost to the industry is estimated to be ($66.20) x (640 hours) x (602 broker-dealers) or $25,505,536.
+
+152 For example, the Anti-Money Laundering Committee of the SIA recommended in its Preliminary Guidance for Deterring Money Laundering Activity (February 2002) that broker-dealers obtain certain identifying information from customers at the commencement of the business relationship, including, for natural persons: name, address, date of birth, investment experience and objectives, social security number or taxpayer identification number, net worth, annual income, occupation, employer's address, and the names of any persons authorized to effect transactions in the account. For non-resident aliens, the SIA Committee recommended that the broker-dealer obtain, in addition to the information above, a passport number or other valid government identification number. The SIA Committee also made a number of recommendations with respect to customers that are not natural persons.
+
+153 17 CFR 240.17a-3(a)(9).
+
+154 Section 15(b)(8) of the Exchange Act (15 U.S.C. 78o(b)(8)) requires each broker-dealer to become a member of a securities association registered pursuant to section 15A of the Exchange Act (15 U.S.C. 78o-3) unless the broker-dealer effects transactions solely on a national securities exchange of which it is a member. The NASD is the only securities association registered pursuant to section 15A. Exchange Act Rule 15b9-1 (17 CFR 240.15b9-1) exempts broker-dealers from this requirement to register with the NASD if they (1) are an exchange member, (2) carry no customer accounts, and (3) derive gross annual income from purchases and sales of securities other than on a national securities exchange of not greater than $1,000. Generally then, most broker-dealers that carry customer accounts are members of the NASD and subject to Rule 3110.
+
+155 NASD Rule 3110(c)(1).
+
+156 NASD Rule 3110(c)(2).
+
+157 NASD Rule 3110(c)(1).
+
+158 NASD Rule 3110(c)(3).
+
+159 NYSE Rule 405(1).
+
+160 The Commission estimates that obtaining the required minimum identifying information will take broker-dealers approximately one minute per account. This takes into consideration the fact that approximately 97% of customer accounts are held at the 70 largest broker-dealers. These firms likely already obtain the required identifying information from their customers. Therefore, requiring that each piece of identifying information be obtained should not impose a significant additional burden. The average hourly cost of the person who would be obtaining this information is $22.70 per hour (per the SIA Earnings Report, Table 082 (Retail Sales Assistant, Registered) and including 35% in overhead charges). Therefore, the costs to the industry would be: (number of new accounts per year) x (1/60 of an hour) x ($22.70). As indicated previously, the Commission estimates that the number of new accounts in the upcoming years will be: 16,900,000 in 2003, 18,600,000 in 2004 and 20,515,000 in 2005. The final rule will be effective only for the last quarter of 2003. Therefore, while the total cost for a twelve-month effective period would be $6,393,833, the actual cost being allocated to the rule for 2003 is $1,598,458 (or ¼ of $6,393,833).
+
+161 The Commission estimates that the processing costs associated with verification methods will be approximately $1.00 per account. The Commission further estimates that the average time spent verifying an account will be five minutes. The hourly cost of the person who would undertake the verification is $25.90 per hour (per the SIA Earnings Report, Table 086 (Data Entry Clerk, Senior) and including 35% in overhead charges). Therefore, the costs to the industry reported above are: (number of new accounts per year) x ($1.00) + (number of new accounts per year) x (1/12 of an hour) x ($25.90). The Commission estimates that the number of new accounts in the upcoming years will be: 16,900,000 in 2003, 18,600,000 in 2004 and 20,515,000. The final rule will be effective only for the last quarter of 2003. Therefore, while the total cost for a twelve-month effective period would be $53,375,833, the actual cost being allocated to the rule for 2003 is $13,343,958 (or ¼ of $53,375,833).
+
+162 The Commission believes that most of the firms that receive these lists already check their customers against them. Moreover, as indicated previously, 97% of customer accounts are held at the 70 largest firms. The Commission understands that most of these firms have automated processes for complying with many regulatory requirements. Accordingly, the Commission estimates that it will take broker-dealers on average thirty seconds to check whether a person appears on a government list. The hourly cost of the person who would check the list is $25.90 per hour (per the SIA Earnings Report, Table 086 (Data Entry Clerk, Senior) and including 35% in overhead charges). Therefore, the costs to the industry reported above are: (number of new accounts per year) x (1/120 of an hour) x ($25.90). The Commission estimates that the number of new accounts in the upcoming years will be: 16,900,000 in 2003, 18,600,000 in 2004 and 20,515,000 in 2005. The final rule will be effective only for the last quarter of 2003. Therefore, while the total cost for a twelve-month effective period would be $3,647,583, the actual cost being allocated to the rule for 2003 is $911,896 (or ¼ of $3,647,583).
+
+163 The Commission estimates that it will take each broker-dealer, on average, two hours to create and implement the appropriate notice. This estimate takes into consideration the fact that many small firms will be able to provide adequate notice by hanging signs in their premises. Larger firms will be able to provide notice by updating account opening documentation or electronic account opening systems. The Commission believes that broker-dealers will have an attorney draft the appropriate notice, and that this will take approximately one hour. The hourly cost for an in-house counsel plus 35% overhead is $156.00 (SIA Earnings Report, Table 107, (Attorney)). The Commission believes that broker-dealers will have a compliance manager implement the notice, and that implementation will take approximately one hour. The hourly cost for a compliance manager is $101.25 (SIA Earnings Report, Table 051 (Compliance manager)). Accordingly, the total cost to the industry would be: ($156.00 + 101.25) x (the number of broker-dealers doing a public business or 5,448) or $1,401,498.
+
+164 The Commission estimates that it will take approximately two minutes per new account to make and maintain the required records. This estimate takes into account the fact that many broker-dealers already make and maintain many of the required records and that the requirements in the final rule have been modified. The hourly cost of the person who would undertake the verification is $25.90 per hour (per the SIA Earnings Report, Table 086 (Data Entry Clerk, Senior) and including 35% in overhead charges). Therefore, the costs to the industry reported above are: (number of new accounts per year) x (1/30 of an hour) x ($25.90). The Commission estimates that the number of new accounts in the upcoming years will be: 16,900,000 in 2003, 18,600,000 in 2004 and 20,515,000 in 2005. The final rule will be effective only for the last quarter of 2003. Therefore, while the total cost for a twelve-month effective period would be $14,590,333, the actual cost being allocated to the rule for 2003 is $3,647,583 (or ¼ of $14,590,333).
+
+165 NPRM, Section VII, 67 FR at 48315.
+
+166 17 CFR 240.0-10(c).  http://www.sec.gov/rules/final/34-47752.htm

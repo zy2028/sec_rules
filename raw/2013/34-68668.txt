@@ -1,0 +1,777 @@
+https://www.sec.gov/rules/final/2013/34-68668.pdf
+
+I.0.0.0 Introduction
+
+II.0.0.0 Final Rule
+
+	II.A.0.0 Background
+
+	II.B.0.0 Discussion
+
+		II.B.1.0 Application of Rule 17Ad-17 to Brokers and Dealers
+
+			II.B.1.a Definition of “Broker” and “Dealer”
+
+			II.B.1.b Items of Correspondence
+
+			II.B.1.c Other Issues Regarding Lost Securityholders
+
+		II.B.2.0 Requirements Applicable to Paying Agents
+
+			II.B.2.a Definition of “Paying Agent”
+
+			II.B.2.b Definition of “Missing Securityholder” and “Unresponsive
+
+			II.B.2.c Definition of “Regularly Scheduled Check”
+
+			II.B.2.d Notification
+
+			II.B.2.e Exemption for Checks Less than $25
+
+			II.B.2.f Minimization of Disruptions
+
+			II.B.2.g State Escheatment Laws
+
+		II.B.3.0 Compliance Date
+
+		II.B.4.0 Rule 15b1-6: Notice to Brokers and Dealers of Rule Amendments
+
+		II.B.5.0 Recordkeeping
+
+		II.B.6.0 Title
+
+III.0.0.0 Paperwork Reduction Act
+
+	III.A.0.0 Summary of Collection of Information
+
+	III.B.0.0 Use of Information
+
+	III.C.0.0 Respondents
+
+	III.D.0.0 Revisions to Reporting and Burden Estimates
+
+		III.D.1.0 Paragraph (a) of Rule 17Ad-17 (Application of Rule 17Ad-17 to Brokers and Dealers)
+
+		III.D.2.0 Paragraph (c) of Rule 17Ad-17 (Requirements Applicable to Paying Agents)
+
+		III.D.3.0 Paragraph (d) of Rule 17Ad-17 (Recordkeeping)
+
+		III.D.4.0 Total Revised Estimated Burden
+
+	III.E.0.0 Collection of Information is Mandatory
+
+	III.F.0.0 Confidentiality
+
+	III.G.0.0 Record Retention Period
+
+IV.0.0.0 Economic Analysis
+
+	IV.A.0.0 Introduction
+
+	IV.B.0.0 Economic Baseline
+
+	IV.C.0.0 Benefits and Impact on Efficiency, Competition, and Capital Formation
+
+	IV.D.0.0 Costs and Impact on Efficiency, Competition, and Capital Formation
+
+	IV.E.0.0 Alternatives Considered
+
+V.0.0.0 Final Regulatory Flexibility Act Analysis (“FRFA”)
+
+	V.A.0.0 Need for and Objectives of the Rule
+
+	V.B.0.0 Significant Issues Raised by Public Comment
+
+	V.C.0.0 Small Entities Subject to the Rule
+
+		V.C.1.0 Brokers and Dealers
+
+		V.C.2.0 Paying Agents
+
+	V.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
+
+	V.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+VII.0.0.0 Statutory Basis and Text of Amendments
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>240</sup>
+
+[Release No. 34-68668; File No. S7-11-11] RIN: 3235-AL11
+
+Lost Securityholders and Unresponsive Payees AGENCY: Securities and Exchange Commission. ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to Rule 17Ad-17 to implement the requirements of Section 929W of the Dodd- Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”). That Section added to Section 17A of the Securities Exchange Act of 1934 (“Exchange Act”) subsection (g), “Due Diligence for the Delivery of Dividends, Interest, and Other Valuable Property Rights,” which directs the Commission to revise Exchange Act Rule 17Ad-17, “Transfer Agents’ Obligation to Search for Lost Securityholders” to: extend the requirements of Rule 17Ad-17 to search for lost securityholders from only recordkeeping transfer agents to brokers and dealers as well; add a requirement that “paying agents” notify “unresponsive payees” that a paying agent has sent a securityholder a check that has not yet been negotiated; and add certain other provisions. The Commission also is adopting a proposed conforming amendment to Rule 17Ad- 7(i) and new Rule 15b1-6, a technical rule to help ensure that brokers and dealers have notice of their new obligations with respect to lost securityholders and unresponsive payees.
+
+EFFECTIVE DATES: The amendments will become effective on March 25, 2013. The compliance date will be January 23, 2014.
+
+FOR FURTHER INFORMATION CONTACT: Thomas C. Etter, Jr., Special Counsel, at
+
+(202) 551-5710, Division of Trading and Markets, Securities and Exchange Commission, 100 F Street, N.E., Washington, DC 20549-7010.
+
+SUPPLEMENTARY INFORMATION
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+On July 21, 2010, the President signed the Dodd-Frank Act into law. <sup>1</sup> This legislation was enacted to, among other things, promote the financial stability of the United States by improving accountability and transparency in the financial system. <sup>2</sup> Title IX of the Dodd-Frank Act provides the Commission with new tools to protect investors and to improve the regulation of securities. <sup>3</sup>
+
+Section 929W of the Dodd-Frank Act added to Section 17A of the Exchange Act subsection (g), which requires the Commission to revise Exchange Act Rule 17Ad-17 <sup>4</sup> to extend to brokers and dealers the rule’s requirement that recordkeeping transfer agents search for “lost securityholders”. <sup>5</sup>
+
+Subsection (g) of Section 17A of the Exchange Act further directs the Commission to revise Rule 17Ad-17 to include “a requirement that the paying agent provide a single written notification to each missing security holder that the missing security holder has been sent a check that has not yet been negotiated.” <sup>6</sup> Such written notification must be sent to a missing securityholder no later than seven months after the sending of the not yet negotiated check and may be sent along with a check or other mailing subsequently sent to the missing securityholder.
+
+Section 17A(g)(1)(D)(i) of the Exchange Act provides that “a security holder shall be considered a ‘missing security holder’ if a check is sent to the security holder and the check is not negotiated before the earlier of the paying agent sending the next regularly scheduled check or the elapsing of six months after the sending of the not yet negotiated check.” <sup>7</sup> Section 17A(g)(1)(D)(ii) of the Exchange Act defines the term “paying agent” to include “any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payments from the issuer of a security and distributes the payments to the holders of the security.” <sup>8</sup>
+
+Exchange Act Section 17A(g)(1)(B) and (C) also require that the revisions to Rule 17Ad- 17: (1) provide an exclusion for paying agents from the notification requirements when thevalue of the not yet negotiated check is less than $25; <sup>9</sup> and (2) add a provision to make clear that the notification requirements imposed on paying agents shall have no effect on state escheatment laws. <sup>10</sup>
+
+Exchange Act Section 17A(g)(2) requires the Commission to adopt rules, regulations, or orders necessary to implement the provisions of Section 17A(g)(1). <sup>11</sup> Section 17A(g)(2) further requires the Commission to seek to minimize disruptions to the current systems used by or on behalf of paying agents to process payments to account holders and to avoid requiring multiple paying agents to send written notification to a missing security holder regarding the same not yet negotiated check. <sup>12</sup>
+
+On March 18, 2011, the Commission issued a release proposing for comment amendments to Exchange Act Rules 17Ad-17 and 17Ad-7 (“Proposing Release”). <sup>13</sup> The amendments were designed to implement Section 929W of the Dodd-Frank Act.
+
+The Commission received fourteen comment letters on the proposed rule amendments, including six letters from trade associations. <sup>14</sup> Five commenters generally expressed support for16707 (Mar. 25, 2011) (“Proposing Release”).
+
+Letters were received from: Mary Pitman, author, The Little Book of Missing Money (March 25, 2011); Kara Follis (April 6, 2011); B.J. Luis (April 7, 2011); Chris Barnard (May 2, 2011); Charles V. Rossi, President, The Security Transfer Association, Inc. (“STA”) (May 5, 2011); Tamara K. Salmon, Senior Associate Counsel, Investmentthe amendments, <sup>15</sup> and one commenter expressed disapproval. <sup>16</sup> Twelve commenters offered suggestions for modification or requests for clarification with respect to specific provisions of the proposal. <sup>17</sup> As discussed below, we are adopting the proposed amendments to Rule 17Ad-17 with certain modifications based on the comments we received, and we are adopting an amendment to Rule 17Ad-7(i) as proposed. We also are adopting a new rule, Rule 15b1-6, to ensure that brokers and dealers have notice of their new obligations with respect to lost securityholders and unresponsive payees.
+
+<h>II. Final Rule</h>
+
+<h>A. Background</h>
+
+The Commission originally adopted Rule 17Ad-17 in 1997 to address situations where recordkeeping transfer agents have lost contact with securityholders. <sup>18</sup> The rule requires such transfer agents to exercise reasonable care to ascertain the correct addresses of these “lost
+
+Company Institute (“ICI”) (May 9, 2011); Laura Stevenson, Compliance Officer, Computershare Trust Company of Canada/Computershare Investor Services Inc. (“Computershare”) (May 9, 2011); Ronald C. Long, Director of Regulatory Services, Wells Fargo Advisors (“WFA”) (May 9, 2011); Prescott Lovern, President, R & L Associates Law LLC (May 9, 2011); Holly H. Smith and Clifford E. Kirsch, Sutherland Asbill & Brennan, LLP on behalf of its client, The Committee on Annuity Insurers (“Annuity Committee”) (May 9, 2011); Thomas F. Price, Managing
+
+Director, SIFMA (May 9, 2011); Anthony Thalman, Managing Director, BNY Mellon Shareholder Services (“BNY Mellon”) (May 17, 2011); Phoebe A. Papageorgiou, Senior Counsel, American Bankers Association (“American Bankers”) (May 23, 2011); and Jeffrey W. Rubin, Chair, Federal Regulation of Securities Committee, Business Law Section, American Bar Association (“ABA”) (May 26, 2011).securityholders” and to conduct certain database searches for them. <sup>19</sup> As the Commission noted at that time, such loss of contact can be harmful to securityholders because they no longer receive corporate communications or the interest and dividend payments to which they may be entitled. <sup>20</sup> Additionally, the securities and any related interest and dividend payments to which the securityholders may be entitled are often placed at risk of being deemed abandoned under operation of state escheatment laws. <sup>21</sup> This loss of contact has various causes, but it most frequently results from: (1) failure of a securityholder to notify the transfer agent of his correct address after relocating; or (2) failure of the estate of a deceased securityholder to notify the transfer agent of the death of the securityholder and the name and address of the trustee/administrator for the estate. <sup>22</sup>
+
+<h>B. Discussion</h>
+
+<h>1. Application of Rule 17Ad-17 to Brokers and Dealers</h>
+
+The amendments to Rule 17Ad-17 implement the statutory directive of Section 17A(g)(1) of the Exchange Act to extend the application of that rule to brokers and dealers. Specifically, the Commission is adopting the changes to Rule 17Ad-17 implementing this extension largely as proposed, principally by revising paragraph (a) of Rule 17Ad-17 to extend its requirements to “every broker or dealer that has customer security accounts that include accounts of lostsecurityholders”. <sup>23</sup> As a result, each such broker or dealer will, like recordkeeping transfer agents, be required to exercise reasonable care to ascertain the correct addresses of “lost securityholders”, as that term is defined in paragraph (b)(2)(i) of Rule 17Ad-17, and to conduct certain database searches for them. <sup>24</sup> The database searches will be conducted by taxpayer identification number (“TIN”), or by name if a search based on TIN is not likely to locate the securityholder, the same procedure that has existed under Rule 17Ad-17 since its adoption in 1997 with respect to lost securityholder searches by transfer agents. <sup>25</sup>
+
+<h>a. Definition of “Broker” and “Dealer”</h>
+
+As adopted, Rule 17Ad-17(a) will now apply to all “brokers” and “dealers”. Two commenters <sup>26</sup> argued that extension of the rule’s lost securityholder requirements to brokers and dealers as directed by the statute <sup>27</sup> should be interpreted in paragraph (a) of Rule 17Ad-17 to mean only those brokers and dealers that carry securities for customers ( i.e. , “carrying firms”).
+
+As explained by one of these commenters, carrying firms by contract accept the obligation to hold customer funds and securities, and without a limitation to carrying firms, the rule could be overbroad and could apply to insurance underwriters and firms selling annuities that do not holdsecurities for the accounts of customers. <sup>28</sup> A third commenter <sup>29</sup> suggested that the Proposing Release overstated the carrying firm’s role in handling customers’ accounts and stated that while the carrying firm does carry customer accounts for introducing firms, in many cases it is the introducing firm that has the primary relationship with the customers. The commenter further suggested that the obligations of Rule 17Ad-17 be allocable among introducing and carrying firms such that the broker or dealer that has the primary relationship with the particular customer, which in many cases would be an introducing firm rather than a carrying firm, would bear the responsibility for complying with those obligations. A fourth commenter <sup>30</sup> asserted that it is unclear whether Congress intended to extend the rule’s coverage to all brokers and dealers and suggested that the Commission could use its exemptive authority under Section 36 of the Exchange Act <sup>31</sup> to narrow the term’s scope and apply the rule only to a subset of brokers and dealers, such as those having customer accounts that contain securities registered under Section 12 of the Exchange Act (“Section 12 securities”). <sup>32</sup>
+
+The Commission has carefully considered these comments for narrowing the application of Rule 17Ad-17 to some subset of brokers and dealers or securities. The Commissionacknowledges that there may be different means by which a broker or dealer may determine whether it has accounts of lost securityholders, as well as different means of exercising reasonable care to ascertain the correct addresses of those securityholders under Rule 17Ad-17. <sup>33</sup> However, the statutory directive of Section 17A(g) of the Exchange Act does not exclude any class of brokers or dealers from making such determinations or exercising such care. Rather, the terms “broker” and “dealer” used by Section 17A(g) are defined terms under Sections 3(a)(4) and (5) of the Exchange Act, <sup>34</sup> and neither the statutory language of Section 17A(g) nor any legislative history indicates that Congress intended the Commission to use an abbreviated or alternative version of these terms for purposes of this rule. Similarly, there is no indication that Congress intended that brokers’ and dealers’ obligations to search for lost securityholders should depend on the type of the securities, such as Section 12 securities, held in the securityholder’s account. Accordingly, the Commission believes that the approach set forth in the Proposing Release of applying Rule 17Ad-17 to all brokers and dealers remains an appropriate implementation of the recent amendments to the Exchange Act and that an exercise of exemptive authority at this stage would be premature.
+
+The Commission is therefore interpreting the terms “broker” and “dealer” in paragraph(a) of the rule to mean a “broker” or “dealer” as defined, respectively, in Exchange Act Sections 3(a)(4) <sup>35</sup> and 3(a)(5). <sup>36</sup> Each broker or dealer that has customer security accounts will have todetermine whether one or more of its customers has become a lost securityholder for purposes of the rule, whether it is consequently subject to the requirements of Rule 17Ad-17 to search for those customers, and what means it should use for making such determinations and complying with such requirements. <sup>37</sup>
+
+<h>b. Items of Correspondence</h>
+
+As adopted, Rule 17Ad-17(a)(1) will now require brokers and dealers to search for “lost securityholders” as that term is defined in paragraph (b)(2) of the rule. Two commenters questioned the obligation to consider a securityholder “lost” after the return of a single item of correspondence, as provided in paragraph (b)(2) of the rule. <sup>38</sup> They suggested that this obligation, which previously applied only to recordkeeping transfer agents, will be burdensome on brokers and dealers because brokers and dealers, unlike transfer agents, routinely send out large amounts of mail to securityholders. These commenters argued that a single item of correspondence easily could be returned as undeliverable, perhaps even by mistake. <sup>39</sup> One of the commenters suggested that the Commission modify the rule to expand the number of returned correspondence to “no less than three before deeming a shareholder lost.” <sup>40</sup> The other commenter, while not addressing a minimum quantity of returned items, suggested limiting thecategories of correspondence that trigger the lost securityholder designation to “annual tax forms ( e.g. , Forms 1099), returned checks, or account statements returned in two consecutive periods.” <sup>41</sup>
+
+The Commission notes that the purpose of Rule 17Ad-17 has been to make certain that records of transfer agents – and now brokers and dealers – reflect the correct addresses for securityholders. Because of the importance of having accurate records and of maintaining contact with securityholders, the rule as adopted in 1997 – the version the Commission is directed by Congress to extend to brokers and dealers – provides that the obligation to search for a lost securityholder should attach when the first item of any type of correspondence is returned as undeliverable. <sup>42</sup> The 1997 rule recognized that a loss of contact with a securityholder does not turn on the number or nature of correspondence, simply that correspondence was returned as undeliverable. This objective and rationale for the rule conditioning “lost securityholder” status on a single item of any correspondence remain whether the records of a transfer agent or a broker or dealer are concerned. In addition, we note that to help make sure that the item was not returned because of simple addressing error of the sender or delivery error of the post office, Rule 17Ad-17 provides in paragraph (b)(2)(i) that if the sender resends the returned item within one month of its return, the sender does not have to consider the securityholder lost until the item is again returned as undeliverable. Consequently, brokers and dealers will have, as do transfer agents, a way to confirm that an item that is returned as undeliverable is actually undeliverable( i.e. , was not returned because of error) before the requirement to search for the lostsecurityholder attaches.
+
+Therefore, the Commission has determined not to adopt the suggestions to delay a broker’s or dealer’s obligation to search until several items or some specific type of correspondence have been returned as undeliverable.
+
+<h>c. Other Issues Regarding Lost Securityholders</h>
+
+One commenter suggested that if the proposed amendments to Rule 17Ad-17 were adopted, the rule should make clear that a broker’s or dealer’s obligation to search for lost securityholders applies to the same universe of securities to which a registered transfer agent’s obligation applies, <sup>43</sup> which the commenter views as limited to Section 12 securities. <sup>44</sup> As stated previously, Section 17A(g) of the Exchange Act includes no indication that Congress intended to limit a broker-dealer’s obligation under this rule to Section 12 securities. In addition, a transfer agent’s obligations under Rule 17Ad-17 are not limited to Section 12 securities. While a transfer agent is required to register with the Commission only if it services one or more Section 12 securities, <sup>45</sup> once a transfer agent is registered, its obligations, including its search obligations under Rule 17Ad-17, are not limited to Section 12 securities.
+
+The commenter also states that if a transfer agent has contractually agreed to search for the lost securityholders of a particular issuer, then no principal underwriter or selling broker ofthat issuer’s securities should be obligated to search for the same lost securityholders. <sup>46</sup> Section 17A(g) of the Exchange Act does not limit its directive to extend Rule 17Ad-17 to a broker or dealer where some third party may have separate cause to search for lost securityholders that may be searched for by that broker or dealer, whether that separate cause is private contract or otherwise. Rather, the language of Section 17A(g) suggests that Congress intended transfer agents, brokers, and dealers all to have search requirements with respect to the securityholders on their records. Such interpretation of the statute is consistent with the fact that brokers’ and dealers’ records will have certain information about securityholders that is not available from the records of transfer agents and vice versa. We believe that Congress intended the Rule 17Ad-17 amendments to extend the benefits of the search requirements to the additional securityholders available on the records of brokers and dealers, not limit such requirements to the securityholders available on the records of transfer agents.
+
+<h>2. Requirements Applicable to Paying Agents</h>
+
+New paragraph (c) of Rule 17Ad-17 implements the statutory directive of Section 17A(g) of the Exchange Act by requiring, among other things, that a paying agent must provide to each unresponsive payee a single written notification no later than seven months after the sending of any not yet negotiated check to inform the unresponsive payee that the unresponsive payee has been sent a check that has not yet been negotiated.
+
+The Commission is adopting Rule 17Ad-17 largely as proposed. However, as described below, the Commission is adopting the term “unresponsive payee” throughout Rule 17Ad-17(c) in lieu of “missing securityholder” because of the potential for confusion and misinterpretationby paying agents and other parties. In addition, also as described below, the Commission is providing additional guidance about when certain of the requirements applicable to paying agents apply, clarifying when notifications must be sent by paying agents, and modifying paragraphs (c)(1) and (c)(3) from the text of the Proposing Release to allow the requisite calculations to rely on days as well as months.
+
+<h>a. Definition of “Paying Agent”</h>
+
+Consistent with the definition in Section 17A(g)(1)(D)(ii) of the Exchange Act, <sup>47</sup> new paragraph (c)(2) of Rule 17Ad-17 defines “paying agent” to “include any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payments from an issuer of securities and distributes the payments to the holders of the security.” One commenter stated that the rule’s proposed definition of “paying agent” is very broad and that not all of the term’s covered entities are registered with the Commission. <sup>48</sup> The commenter also noted that the proposed definition’s use of the term “any other person” covers entities that are outside the Commission’s jurisdiction. This commenter further suggested that the rule’s definition of “paying agent” might be revised and shortened, and because the rule will include the comprehensive term “any other person,” some of the other categories in the definition could be eliminated.
+
+The Commission understands that the term “paying agent” applies broadly, but believes this expansive definition is consistent with congressional intent in light of the precise language requiring a range of specific entities to be included in the definition. While the Commissionrecognizes that some of the entities covered by the definition of “paying agent” are not required to be registered with the Commission, the Commission believes that the broad definition of “paying agent” in Section 17A(g) of the Exchange Act provides the Commission with authority with respect to such entities for purposes of Rule 17Ad-17. Consequently, the Commission is adopting as proposed the statutory language defining “paying agent” specifically drafted by Congress for inclusion in Rule 17Ad-17.
+
+Another commenter stated that the term “paying agent” should be defined to exclude any broker, dealer, transfer agent, investment adviser, indenture trustee, custodian, or any other person that is not contractually obligated to distribute money received from an issuer to an issuer’s securityholders. <sup>49</sup> Because Congress specifically provided a broad statutory definition of “paying agent” that expressly includes entities that accept payments from issuers of securities and distributes those payments to the holders of securities and does not limit this definition to circumstances in which there is a contractual obligation, the Commission is not adopting a more narrow definition of paying agent than provided by the statute. <sup>50</sup>
+
+This commenter also suggests that the rule should exempt issuers that contract with other paying agents from the requirement to provide written notification to persons with checks that are not yet negotiated. The Commission does not interpret the definition of “paying agent” to apply to an issuer that has contracted with another entity to act as the issuer’s “paying agent” and that is not itself distributing payments to securityholders; accordingly, the Commission does not believe a specific exemption is required.
+
+<h>b. Definition of “Missing Securityholder” and “Unresponsive</h>
+
+Payee”
+
+New paragraph (c)(3) of Rule 17Ad-17 , consistent with Section 17A(g)(1)(D)(i) of the Exchange Act, <sup>51</sup> provides that a securityholder will be considered an “unresponsive payee” if a check that is sent to the securityholder is not negotiated before the earlier of the paying agent’s sending the next regularly scheduled check or the elapsing of six months after the sending of the not yet negotiated check.
+
+As adopted, paragraph (c)(3) uses the term “unresponsive payee” instead of the term “missing securityholder,” which is used by Section 17A(g) of the Exchange Act and by the proposed rule. Five commenters objected to the proposed rule’s use of the term “missing securityholder,” asserting that the new term: (1) would be confused with the rule’s existing term “lost securityholder”; (2) is a misnomer because it does not actually involve securityholders that are missing but simply securityholders who have uncashed checks; and (3) should be replaced by a more descriptive term like “unresponsive payee” or “securityholder with an uncashed check.” <sup>52</sup> In light of these comments, the Commission is adopting the term “unresponsive payee” in connection with the requirements of Rule 17Ad-17. While “missing securityholder” was expressly set forth for purposes of this rule by Congress in Section 17A(g)(1)(D)(ii) of the Exchange Act, the potential for confusion with the term “lost securityholder,” as defined since 1997 in paragraph (b)(2) of Rule 17Ad-17, by paying agents and others is apparent from the comments. In addition, as a defined term, an alternative term can be used without potentiallyfrustrating the intent of Congress in its carefully detailed requirements applicable to paying agents. The Commission therefore believes that the term “unresponsive payee” – suggested by several commenters – is a suitable alternative to “missing securityholder.”
+
+One commenter suggested that the term “unresponsive payee” should apply only to natural persons in order to be consistent with the requirements applicable to “lost securityholders”. <sup>53</sup> The Commission agrees with the commenter that, with respect to lost securityholders, paragraph (a)(3)(iii) of Rule 17Ad-17 limits the required searches to natural persons. <sup>54</sup> However, unlike with respect to a lost securityholder, the paying agent will have no indication, such as returned mail, that it has an incorrect address for the unresponsive payee. The paying agents will only know that the check sent to the investor has not been returned as undeliverable and that the investor has not negotiated the check. Therefore, the notices required by Rule 17Ad-17 could be properly sent to the investor’s address on the records of the paying agent without the need for a database search to determine the investor’s correct address. In addition, Section 17A(g) of the Exchange Act provides no indication that Congress intended to limit a paying agent’s obligation to natural persons. Accordingly, the Commission has determined not to limit the meaning of “unresponsive payee” to natural persons.
+
+Two commenters suggested that the Commission clarify that a securityholder may be deemed an unresponsive payee for purposes of paragraph (c) of Rule 17Ad-17 for having failed to cash a check, but that such status will not result in his being deemed a lost securityholder forpurposes of paragraph (a) unless that person specifically meets the definition of “lost securityholder” in paragraph (b)(2) of Rule 17Ad-17. <sup>55</sup> The Commission agrees. The rule as amended would not require a person to be deemed a lost securityholder just because he has been classified as an unresponsive payee. For a securityholder to be deemed a lost securityholder, the securityholder must specifically meet the definition of “lost securityholder” in paragraph (b)(2) of Rule 17Ad-17.
+
+A commenter asked how long a person who becomes an unresponsive payee will remain in that status. <sup>56</sup> Such status will cease when the securityholder negotiates the check or checks that caused the securityholder to be classified as an unresponsive payee. In response to this comment, the Commission has revised paragraph (c)(3) of Rule 17Ad-17 to clarify this point.
+
+A commenter inquired about the situation where an unresponsive payee either becomes a lost securityholder or is known to have died. <sup>57</sup> Under Rule 17Ad-17(c)(1), if an unresponsive payee would be considered a lost securityholder by a transfer agent, broker, or dealer, the paying agent would not be required to send the notice of an unnegotiated check to the unresponsive payee until such time as the paying agent obtains a good address to send the notice. At such time, the investor would no longer be a lost securityholder. In response to this comment, the Commission has revised the rule text of paragraph (c)(1) of Rule 17Ad-17 to clarify this point.
+
+However, with respect to an unresponsive payee that is known to have died, the paying agent would still have the obligation to send the notice of an unnegotiated check. The fact that asecurityholder has died does not in and of itself mean that there is not a good address to send the notice, and such notice could be of benefit to the deceased securityholder’s estate. The paying agent will not know if and how checks ultimately will be negotiated by the trustee or administrator of the estate.
+
+This commenter also inquired about an unresponsive payee who has received one or more checks from a paying agent on a monthly basis but who has not negotiated any check. <sup>58</sup> Specifically, the commenter questioned whether there would be a notification requirement if the unresponsive payee were to negotiate the checks before the “six month period has lapsed” per paragraph (c)(3) of Rule 17Ad-17. We note that if an unresponsive payee were to negotiate a check before the elapsing of six months after the paying agent sent the check, Rule 17Ad-17 would not require the paying agent to send the notice required in paragraph (c)(1) of the rule for that check.
+
+<h>c. Definition of “Regularly Scheduled Check”</h>
+
+The term “regularly scheduled check” in Section 17A(g)(1)(D)(i) of the Exchange Act is not defined by the statute. One commenter suggested that the term should refer to checks that securityholders have made arrangements to have sent to them on a “pre-specified, regularly- scheduled basis” and that the term should not include ad hoc checks. <sup>59</sup> Another commenternoted that unnegotiated checks from paying agents are not necessarily related to scheduled interest and dividend payments and may not even be regularly scheduled. <sup>60</sup> A third commentersuggested the notification requirement should apply only to those checks sent to the securityholder by the paying agent pursuant to its contractual obligation to pass along dividends and other distributions from an issuer to the securityholder and should not apply to unnegotiated checks sent by the paying agent to third parties on behalf of the securityholder or to unregistered checks that constitute the proceeds of a sale. <sup>61</sup>
+
+Congress, in drafting Section 17A(g)(1)(B) of the Exchange Act, did not limit the meaning of “regularly scheduled check” to such instruments as “interest and dividend checks” or mention established “arrangements” in this connection. <sup>62</sup> In addition, Section 17A(g)(1) is captioned “Due Diligence for the Delivery of Dividends, Interest, and Other Valuable Property Rights”. On the other hand, Congress did refer to “regularly scheduled checks” in defining who would qualify as an unresponsive payee, rather than simply “checks.” Therefore, for purposes of Rule 17Ad-17, we are interpreting the term “regularly scheduled check” to include not only checks for interest and dividend payments but also any other regularly scheduled periodic payments from an issuer of securities to be distributed to securityholders as a class.
+
+Accordingly, the term “regularly scheduled check” would not include checks for payment solely to an individual securityholder and not to a class of securityholders pursuant to specific arrangements established at the request of the securityholder or to third parties on behalf of the securityholder.
+
+<h>d. Notification</h>
+
+In the Proposing Release, the Commission proposed to incorporate the statutory definition of “missing securityholder” from Section 17A(g)(1)(D)(i) into subparagraph (c)(3) of Rule 17Ad-17. <sup>63</sup> Specifically, the proposed rule stated, “[T]he securityholder shall be considered a missing securityholder [ i.e. , an unresponsive payee] if a check is sent to thesecurityholder and the check is not negotiated before the earlier of the paying agent’s sending the next regularly scheduled check or the elapsing of six (6) months after the sending of the not yet negotiated check.”
+
+Two commenters stated that some regularly scheduled distributions by paying agents are made on a monthly cycle. <sup>64</sup> In such a situation, they suggest that a securityholder who did not negotiate a check sent to him or her could become an unresponsive payee within one month ( i.e. ,at the time of the next regularly scheduled check). One of the commenters stated that this monthly interval would frequently overlap the timeframe in which payees routinely negotiate their checks. <sup>65</sup> The other commenter likewise stated that, as a paying agent, it provides many clients with services that include payment of a monthly dividend. <sup>66</sup> As an example, the commenter noted that if a securityholder has mail held for himself or herself at one location while he or she spends part of the year at another location, as many retirees do, checks may not be delivered to – let alone negotiated by – the payee before the next monthly check is sent. This commenter suggested that it would be more practical to have a longer time for the requirednotification of a check that was not negotiated and for the triggering of “unresponsive payee” status in those circumstances. One of these commenters recommended a minimum time of not less than 60 days from the payable date of a dividend or from the sending of a check before notification to an unresponsive payee would have to be made. <sup>67</sup>
+
+The Commission notes that the paying agent would have to send only one notification for a given check and that such notification could be sent along with another check or other subsequent mailing. In addition, the Commission notes that while a particular payee receiving monthly checks may become an “unresponsive payee” after a single month, the requirement to provide an actual notification to the payee allows a full seven months following the sending of the unnegotiated check ( i.e. , about six months in the case of an unnegotiated monthly check)before the paying agent must send such notification. As clarified in Rule 17Ad-17(c)(1), if the unresponsive payee negotiates the check in that seven-month interval, he or she will no longer be an unresponsive payee and no notification will need to be sent. Accordingly, the Commission does not at this time believe there is a need to create an initial 60-day period or other time frame before which notifications would not be required. In any case, the timeline for qualifying as an unresponsive payee and the related notification duty are statutory requirements that are set forth, respectively, in Sections 17A(g)(1)(D)(i) and 17A(g)(1)(A) of the Exchange Act. <sup>68</sup>
+
+Two commenters asked if a paying agent may issue one generic notification to alert an unresponsive payee of multiple checks, perhaps from different issuers, that remain unnegotiatedfor the seven-month measuring period. <sup>69</sup> Section 17A(g)(1)(A) of the Exchange Act requires that the paying agent “provide a single written notification to each [unresponsive payee] that the [unresponsive payee] has been sent a check that has not yet been negotiated.” It is not clearly stated in the statute whether the paying agent must provide: (1) a single written notification to each unresponsive payee who has been sent a check that has not yet been negotiated; or (2) a single written notification to the unresponsive payee for each check that has been sent but has not yet been negotiated. The Commission believes that the apparent congressional purpose of Section 17A(g)(1)(A) is to help ensure that securityholders receive and have the benefits of their distribution checks, which can be accomplished through a notice covering one or multiple checks. While a paying agent’s per-check notice may focus a securityholder’s attention on each check, a notice covering multiple checks may serve as a signal to a securityholder that there is an issue with systems or methods used by that securityholder for negotiating checks from that paying agent. Accordingly, we interpret the statutory language as permitting either approach to be used by a paying agent, provided that the applicable time requirements of Rule 17Ad-17 – in particular, the seven-month measuring interval – are met with respect to each individual check.
+
+For a notice covering multiple checks, this interpretation means that the notification must sufficiently identify each not yet negotiated check and that the notice must be sent to the unresponsive payee no later than seven months after the sending of the oldest not yet negotiated check that is covered by the notice.
+
+Commenters further suggested that a check that has not yet been negotiated should be excluded from notification requirements if the check is “redeposited” into the securityholder’saccount. One commenter suggested that such check redepositing should occur within six months of its issuance. <sup>70</sup> The Commission understands these comments to mean that the checks or equivalent funds would be deposited into the securityholders’ brokerage or other accounts with no record of the holders’ potential status as unresponsive payees. While we recognize that the deposit of a previously issued check into the account of a securityholder would have the effect of assuring that the funds represented by the check are no longer held in abeyance and are available to benefit the securityholder, there is no evidence to suggest that it was Congress’ intent to establish or encourage such a depository arrangement for a securityholder where one did not exist prior to the transmittal of the check or checks subject to redeposit. To the extent a securityholder has established standing or other prior instructions for any check or checks to be deposited into its account in a particular manner, a check deposited in compliance with such instructions may properly be considered to have been negotiated by the securityholder for the purpose of Rule 17Ad-17. However, there is no evidence to suggest Congress intended to allow paying agents to avoid the notification requirements of Rule 17Ad-17 simply by depositing the monetary equivalent of the uncashed check into an account for the unresponsive payee.
+
+Another commenter observed that broker-dealers provide periodic statements to customers that include all disbursements, including checks, and that such statements could serve as the notifications contemplated by the rule amendments. <sup>71</sup> While the Commission recognizes that generally all transactions, including checks, are detailed in brokers’ periodic statements, we do not believe that such all-inclusive statements in their present form would present the kind offocused notification of uncashed checks that Congress intended in enacting Section 17A(g)(1)(A).
+
+Three commenters requested clarification on whether the written notification would include electronic communications. <sup>72</sup> Consistent with our prior guidance on electronic delivery of customer disclosures and confirmations, a paying agent may provide the written notification electronically if the customer has affirmatively consented to receiving disclosures generally in such manner. <sup>73</sup>
+
+One of these commenters suggested that instead of using the statutory terms 6 months and 7 months as measuring times, the rule could use 180 calendar days and 210 calendar days, respectively, which the commenter suggests are easier to accommodate in accounting periods and in programming systems. Accordingly, to accommodate variances in entities’ accounting procedures and systems, the Commission is adopting language to provide the option of using months or days. Rule 17Ad-17(c), as adopted, allows “6 months (or 180 days)” and “7 months (or 210 days).”
+
+<h>e. Exemption for Checks Less than $25</h>
+
+New paragraph (c)(4) of Rule 17Ad-17, consistent with Exchange Act Section 17A(g)(1)(B), excludes a paying agent from the notification requirements where the value of the not yet negotiated check is less than $25. <sup>74</sup> One commenter suggested that significant costsavings might accrue by increasing the rule’s notification threshold on uncashed checks to $100, instead of $25. <sup>75</sup> The Commission has determined not to modify the $25 amount established by Section 17A(g) of the Exchange Act for purposes of paragraph (c)(4) of Rule 17Ad-17 at this time, which would require deviating from a specific de minimis level recently selected by
+
+Congress.
+
+<h>f. Minimization of Disruptions</h>
+
+In the Proposing Release, the Commission requested comment on Congress’ directive in Section 17A(g)(2) that “[t]he Commission shall seek to minimize disruptions to current systems used by or on behalf of paying agents to process payments to account holders and avoid requiring multiple paying agents to send written notifications to a missing security holder [ i.e. ,unresponsive payees] regarding the same not yet negotiated check.” Two commenters responded that, while there would be certain increases in programming and administrative costs, they do not believe the amendments would cause any significant disruptions. <sup>76</sup> With regard to paying agents, these commenters stated that the obligation to notify would fall only on the paying agent that holds the relevant records and that, accordingly, it would be unlikely that multiple paying agents would be sending redundant notices about the same checks to securityholders. We agree with these commenters that it would be unlikely for multiple paying agents to be sending redundant notices about the same checks. The Commission also agrees with the commenters’ views that the rule amendments should not cause significant disruptions.
+
+<h>g. State Escheatment Laws</h>
+
+New paragraph (c)(5) of Rule 17Ad-17, as required by Exchange Act Section 17A(g)(1)(C), <sup>77</sup> provides that the requirements of paragraph (c)(1) of Rule 17Ad-17 “shall have no effect on state escheatment laws.” Two commenters observed that future timelines for state escheatment practices are at some point likely to conflict with the timeline for notifying missing securityholders. <sup>78</sup> These commenters suggested that the Commission clarify in the adopting release how firms should apply the rule if a conflict should arise with state escheatment laws.
+
+Rather than address hypothetical situations of what may happen if a conflict arises at some future time between federal and state law, the Commission will consider how to address any such actual conflict at the time it is made aware that such a conflict exists.
+
+One commenter stated that language in footnote 15 of the Proposing Release constituted an effort by the Commission to “eliminate federal preemption subtly.” <sup>79</sup> Footnote 15 of the Proposing Release stated, “Generally, after expiration of a certain period of time, which varies from state to state but is usually three to seven years, an issuer or its transfer agent must remit abandoned property ( e.g. , securities and funds of lost securityholders) to a state’s unclaimed property administrator pursuant to the state’s escheatment laws.” <sup>80</sup> Footnote 15 of the Proposing Release was not a statement concerning federal preemption but instead was intended to bemerely a general statement of the operation of state escheatment law. Similarly, the Commission is not in this release or in Rule 17Ad-17 making any statement regarding federal preemption or regarding preemption’s relationship to state escheatment laws.
+
+<h>3. Compliance Date</h>
+
+Three commenters requested clarification concerning the effective and compliance dates of the amendments to Rule 17Ad-17. <sup>81</sup> One of these commenters suggested that compliance with the amended rule be required 12 months after its approval date, <sup>82</sup> as proposed, and the other two commenters suggested that compliance with the amended rule be required 18 months after the approval date to allow added time for the development of new systems. <sup>83</sup>
+
+In response to the comments, the Commission is making clear that the rules will be effective 60 days after publication in the Federal Register and that the compliance date will be twelve months after publication in the Federal Register. The compliance date is the date on which all entities subject to the requirements of the rule must be in compliance with the rule. Although the Commission is aware that changes to systems require time to plan and implement, we do not find that the two commenters who requested additional time sufficiently justified their need in light of the statutory directive and the policy goals it apparently seeks to advance.
+
+Therefore, we are adopting the compliance date substantially as proposed.
+
+One commenter asked whether the rule would apply retroactively, meaning thatnotifications might be required for checks already outstanding. <sup>84</sup> The Commission notes that the changes to the rule will apply only prospectively.
+
+<h>4. Rule 15b1-6: Notice to Brokers and Dealers of Rule Amendments</h>
+
+Another commenter observed that the rule covers brokers, dealers, transfer agents, and others who may not be aware that the rule will apply to them. <sup>85</sup> It suggests a separate rule, referencing Rule 17Ad-17, be added to the Commission’s rules under Section 15(b) of the Exchange Act, which applies to brokers and dealers, to keep brokers and dealers apprised of the requirements. The Commission agrees with this commenter’s suggestion and is adopting a new technical rule, Rule 15b1-6, which will provide ongoing notice to brokers and dealers of their obligations under Rule 17Ad-17. <sup>86</sup>
+
+The Commission is adopting Rule 15b1-6 simply to provide ongoing notice to brokers and dealers of amendments to Rule 17Ad-17 that affect brokers and dealers, and it imposes no independent obligation on any party. <sup>87</sup> Rule 15b1-6 is solely a mechanism to provide additional notice – on an ongoing basis – to certain registrants regarding amendments to Rule 17Ad-17 that will now impose substantive obligations on them as described in the Proposing Release and this release. <sup>88</sup>
+
+<h>5. Recordkeeping</h>
+
+Currently, Rule 17Ad-17(c) <sup>89</sup> requires that every recordkeeping transfer agent shall maintain records to demonstrate compliance with the requirements of the rule (including written procedures that describe the transfer agent’s methodology for complying) and requires that such records be maintained for a period of not less than three years with the first year in an easily accessible place. <sup>90</sup> These recordkeeping requirements have been part of Rule 17Ad-17 since its adoption in 1997. <sup>91</sup> In the Proposing Release, the Commission proposed redesignating paragraph (c) as paragraph (d) and amending that paragraph to require brokers, dealers, and paying agents (in addition to transfer agents) to maintain such records. The Commission also proposed a conforming amendment to Rule 17Ad-7(i) <sup>92</sup> so that it would cross-reference redesignated paragraph (d), rather than paragraph (c), of Rule 17Ad-17. The Commission received no comments on these proposed recordkeeping amendments and is adopting them as proposed, with a technical change to avoid unnecessarily duplicative language between Rule 17Ad-7(i) and Rule 17Ad-17(d). <sup>93</sup>
+
+<h>6. Titlethan superseded Rule 17Ad-17(c).</h>
+
+One commenter suggested that the Commission’s proposed name for Rule 17Ad-17 (“Transfer agents’, brokers’, and dealers’ obligation to search for lost securityholders; paying agents’ obligation to search for missing securityholders”) is too long. <sup>94</sup> The commenter suggests: “Lost and missing securityholders” as the title for Rule 17Ad-17. The Commission agrees that a shorter title is appropriate and is adopting the title “Lost securityholders and unresponsive payees” for amended Rule 17Ad-17.
+
+<h>III. Paperwork Reduction Act</h>
+
+As explained in the Proposing Release, certain provisions of proposed amendments to Rule 17Ad-17 required a new and mandatory “collection of information” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>95</sup> An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. <sup>96</sup> In accordance with 44 U.S.C. 3507 of the PRA, the Commission submitted the requirements of the proposed amendments to Rule 17Ad-17 entailing a “collection of information” to the Office of Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507 and 5 CFR 1320.11, and the Commission published notice requesting public comment on such requirements in the Proposing Release. <sup>97</sup>
+
+The control number for this release is OMB Control Number 3225-0469 and the title is “Transfer Agents’ Obligation to Search for Lost Securityholders (17 CFR 240.17Ad-17).” The
+
+Commission anticipates changing the title of the collection to “Obligation to Search for Lost Securityholders and Notify Unresponsive Payees” to reflect the amendments to Rule 17Ad-17 and the change in the title of the rule. <sup>98</sup>
+
+<h>A. Summary of Collection of Information</h>
+
+As adopted, the amendments to Rule 17Ad-17 require a new and mandatory “collection of information” within the meaning of the PRA. This collection of information consists of: (1) brokers and dealers collecting information in order to comply with new requirements to search for lost securityholders under paragraph (a) of Rule 17Ad-17; (2) paying agents collecting information in order to comply with new requirements to provide notifications to unresponsive payees under paragraph (c) of Rule 17Ad-17; and (3) brokers, dealers, and paying agents making and maintaining records under paragraph (d) of Rule 17Ad-17 to demonstrate compliance with the requirements of Rule 17Ad-17, including written procedures which describe their methodology for complying. <sup>99</sup> The records required by paragraph (d) must be maintained for a period of not less than three years, with the first year in an easily accessible place, consistent with Rule 17Ad-7(i) under the Exchange Act.
+
+<h>B. Use of Information</h>
+
+Brokers and dealers will use the information collected pursuant to paragraph (a) of Rule 17Ad-17 – namely, information regarding the accounts of lost securityholders and the addresses of lost securityholders – to engage in searches for lost securityholders. Paying agents will use the information collected pursuant to paragraph (c) of Rule 17Ad-17 – namely, informationregarding the accounts of unresponsive payees and the status of their negotiations of checks sent by the paying agent – to provide notifications to unresponsive payees that they have been sent checks but have not negotiated them.
+
+The Commission will use the information collected under paragraph (d) of Rule 17Ad-17 to monitor the records made and maintained by every recordkeeping transfer agent, broker or dealer, and paying agent to demonstrate compliance with the requirements set forth in Rule 17Ad-17. Such records will include written procedures that describe the entity’s methodology for complying with the rule.
+
+<h>C. Respondents</h>
+
+The Commission estimates that approximately 4,705 brokers and dealers would be subject to paragraph (a) of Rule 17Ad-17, which would require them to do certain database searches for their lost securityholders. While applicable to all brokers and dealers, we are estimating that, as a practical matter, paragraph (a) will apply primarily to those brokers and dealers that carry securities accounts for customers ( i.e. , carrying firms), of which there are about 301 brokers and dealers. <sup>100</sup>
+
+The Commission estimates that approximately 28,577 entities – issuers, transfer agents, brokers, dealers, indenture trustees, and custodians – potentially will be subject to the requirements of paragraph (c) of Rule 17Ad-17, which would require them to send certainnotifications to unresponsive payees. <sup>101</sup> However, we estimate that only approximately 3,035 entities accept payments from an issuer of a security and distribute those payments to the holders of the security, thereby qualifying as “paying agents” for purposes of paragraph (c). <sup>102</sup> In general, the Commission believes that in this specialized area most paying agents will consist of the large brokers and dealers and large transfer agents (including bank transfer agents), firms that typically serve as financial intermediaries between issuers and securityholders.
+
+All brokers, dealers, and paying agents – an estimated total of 7,439 entities <sup>103</sup> – also will be subject to the recordkeeping provisions of paragraph (d) of Rule 17Ad-17, which requires maintaining records to demonstrate compliance with Rule 17Ad-17, including written procedures that describe the entity’s methodology for compliance. Such records must be retained for not less than three years, the first year in an easily accessible place.
+
+<h>D. Revisions to Reporting and Burden Estimates</h>
+
+In the Proposing Release, the Commission initially estimated for the purposes of Rule 17Ad-17 that, on an annual basis: (1) approximately 250,000 searches by brokers and dealerswould be required by paragraph (a) of Rule 17Ad-17 as proposed, with each search taking approximately five minutes; and (2) approximately 50,000 notifications by an estimated 1,000 paying agents would be required by paragraph (c) of Rule 17Ad-17 as proposed, with each notification taking approximately three minutes. We further estimated that these searches and notifications would require, respectively, 500 and 100 hours of recordkeeping time.
+
+Accordingly, we estimated that the total estimated burden of the proposed amendments to Rule 17Ad-17 would be 23,933 hours. <sup>104</sup>
+
+In response to the Proposing Release, we received comments that costs stated in the Proposing Release “likely are greater than estimated , ” <sup>105</sup> that the “hours of work” and “estimated costs are low,” <sup>106</sup> and that “costs may be higher” than estimated. <sup>107</sup> In light of these comments and similar ones, the Commission has reexamined the estimates in the Proposing Release and revised them as described below.
+
+<h>1. Paragraph (a) of Rule 17Ad-17 (Application of Rule 17Ad-17 to Brokers and Dealers)</h>
+
+Under paragraph (a) of the amendments to Rule 17Ad-17, brokers and dealers will now be required to conduct certain database searches for lost securityholders. Such database searches must be conducted without charge to the lost securityholders. In the Proposing Release, the Commission stated that much of the information required to be collected in order to effectuatesuch searches (such as the TINs of lost securityholders) is already maintained by brokers and dealers; accordingly, in many cases there should not be an additional cost to the broker or dealer to obtain the required information. We initially assumed that, with automated equipment and much of the information required to be collected already in the possession of brokers and dealers, lost securityholder searches could be performed in about two minutes. We increased the estimated search time in the Proposing Release to five minutes to allow for additional contingencies that may occur in connection with database searches.
+
+In the Proposing Release, the Commission initially estimated that there were 5,063 broker-dealers registered with the Commission, who would perform approximately 250,000 searches per year – that is, approximately 49 searches for lost securityholders per broker or dealer per year (250,000 divided by 5,063 equals 49 searches per broker-dealer), or less than one search per broker-dealer per week. However, as noted in section III.C above, we anticipate – and the Proposing Release assumed – that Rule 17Ad-17 will as a practical matter apply mainly to brokers and dealers that carry securities accounts for customers ( i.e. , carrying firms), which tendto be the larger firms.
+
+In reviewing these estimates, some commenters noted that burdens generally may be higher than anticipated in the Proposing Release. Wells Fargo noted that some project costs, such as printing and operating databases, tend to include associated expenses that are not included in the broader categories such as “labor.” <sup>108</sup> The ABA commented that the “costs may be higher than estimated,” noting further that searches for lost securityholders will apply to all brokers and dealers, of which there are more than 5,000, and, while they are assumed to bealready performing such work on their own, the ABA questioned whether some of them may lack the necessary systems and may need to make additional financial outlays in this connection. <sup>109</sup>
+
+The Commission continues to believe that carrying firms, which we estimate to number approximately 301, <sup>110</sup> represent the population of brokers and dealers most likely to be affected by the burdens associated with paragraph (a) of Rule 17Ad-17. In addition, such brokers and dealers tend to be larger than the overall population of firms and are the ones most likely to have the systems and processes in place for dealing with searches for securityholders, including lost securityholders. In fact, members of the broker-dealer community have stated that these new requirements are unnecessary because broker and dealers already know how to keep track of their customers. We also note that brokers and dealers may enter into commercial arrangements among themselves – such as those between an introducing and a carrying firm – to help ensure compliance with the requirements of Rule 17Ad-17 without unnecessarily burdensome system builds, just as they do in other aspects of their business. <sup>111</sup>
+
+With respect to specific burden estimates, commenters did not address the five minute estimate for the search time under paragraph (a) of Rule 17Ad-17, but instead suggested that we should increase our estimates of the number of searches that would be required. In particular, SIFMA stated, “SIFMA member firms estimate that the number of searches and notifications could be significantly more than the Commission’s stated estimates – perhaps as much as fourtimes more.” <sup>112</sup> After evaluating these comments, the Commission is retaining the estimated search time but has determined to increase the estimated number of searches per year by brokers and dealers in paragraph (a) of Rule 17Ad-17 from 250,000 to 650,000, <sup>113</sup> which increases the estimated total annual hourly burden from 20,833 hours (250,000 searches times five minutes, divided by 60 minutes) to 54,160 hours (650,000 searches times five minutes, divided by 60 minutes). <sup>114</sup> The revised hourly burden estimate is the equivalent – on average – of approximately 42 searches per carrying firm per week (650,000 searches divided by 301 carrying firms divided by 52 weeks equals 41.5 searches per carrying firm per week) or approximately 9 searches per carrying firm per business day (650,000 searches divided by 301 carrying firms divided by 250 business days equals 8.6 searches per carrying firm per day). <sup>115</sup>
+
+<h>2. Paragraph (c) of Rule 17Ad-17 (Requirements Applicable to Paying Agents)</h>
+
+Under amended paragraph (c) of Rule 17Ad-17, a paying agent must provide not less than one written notification to each unresponsive payee no later than seven months after such securityholder has been sent a check that has not yet been negotiated. The notification may be sent with a check or other mailing subsequently sent to the unresponsive payee but must beprovided no later than seven months after the sending of the not yet negotiated check. In the Proposing Release, the Commission stated that the burden for issuing a notification to an unresponsive payee would be modest, approximately three minutes, given the existence of automated systems that can be used for these purposes in the entities expected to be affected by the amendments to Rule 17Ad-17. <sup>116</sup>
+
+In the Proposing Release, the Commission initially estimated that there would be 1,000 entities acting as paying agents that would be affected by paragraph (c) of Rule 17Ad-17, and that those entities would issue approximately 50,000 notifications per year is equivalent – that is, 50 notifications per paying agent per year (50,000 notifications per year divided by 1,000 paying agents equals 50 notifications per paying agent per year), or fewer than one notification per paying agent per week (50 notifications per paying agent per year divided by 52 weeks per year equals 0.96 notifications per week).
+
+Based on the comments described above about burdens being higher than estimated in the Proposing Release, <sup>117</sup> the Commission has determined to increase both its estimate of the number of paying agents and its estimate of the number of notifications that would be issued by such paying agents. The Commission’s initial estimate that only 1,000 entities would be affected by paragraph (c) of Rule 17Ad-17 is equivalent to approximately 3.5% of the total estimate of 28,577 paying agent candidates estimated in the Proposing Release (1,000 divided by 28,577equals 3.5%). <sup>118</sup> To better account for the perspective of commenters and drawing on Commission experience with the mechanics of payments to securityholders, we have increased the estimate of paying agents to 3,035 by assuming that: (1) all estimated 536 transfer agents, estimated 264 indenture trustees, and estimated 896 custodians included in the 28,577 entities will be paying agents; (2) only the estimated 301 brokers and dealers that are carrying firms (who are typically the largest firms with the capacity to manage payments to securityholders) will be paying agents; and (3) only an estimated 1,038 of issuers that file reports with the Commission will be paying agents (10,379 multiplied by 0.10 equals 1,038). <sup>119</sup>
+
+In addition, based on the comments received regarding the potential burden of paragraph(c) of Rule 17Ad-17 and the increased estimate in the number of paying agents, we are also increasing the estimated number of annual notifications by paying agent. Commenters did not address our estimated time of three minutes for each unresponsive payee notification, and the Commission has determined to retain this notification time. Accordingly, the Commission is increasing the number of notifications that it estimates will be issued by paying agents each year
+
+We emphasize that all of these populations they can be subject to substantial variations over time. The Commission also notes that the statutory definition of “paying agent” includes “any other person” after specifying all of the categories of financial entities already included in the Commission’s estimate of the potential universe of paying agents. Accordingly, we anticipate that only a de minimis number of entities not already covered by one of the named categories would be deemed “paying agents” and have therefore assumed no such persons for purposes of this analysis.from 50,000 to 758,750, which is the equivalent of approximately one notification being made per paying agent per business day (1 notification multiplied by 3,035 paying agents multiplied by 250 business days). <sup>120</sup> The revised number of notifications results in an increase in the estimated total annual hourly burden on paying agents from 2,500 hours (50,000 notifications times three minutes, divided by 60 minutes) to 37,938 hours (758,750 notifications times three minutes, divided by 60 minutes).
+
+<h>3. Paragraph (d) of Rule 17Ad-17 (Recordkeeping)</h>
+
+Amended paragraph (d) of Rule 17Ad-17 will now requires brokers, dealers, and paying agents that are subject to paragraph (a) and/or paragraph (c) of the rule to maintain records to demonstrate their compliance with the rule, including written procedures which describe their methodology for compying. The records required by the amended rule must be maintained for a period of not less than three years, with the first year in an easily accessible place, consistent with Rule 17Ad-7(i) under the Exchange Act.
+
+Based on discussions with market participants, we initially estimated in the Proposing Release that the annual burden for making and keeping these records, which should be processed electronically, would be approximately one hour for every 500 lost securityholder accounts and one hour for every 500 unresponsive payee accounts. Based on this incremental burden, we estimated that the total recordkeeping burden would be approximately 600 hours (250,000 lost securityholders searches divided by 500 accounts plus 50,000 notifications to unresponsive payees divided by 500 accounts, times 1 hour).
+
+We received no specific comment on this incremental burden estimate of one hour, and we continue to believe it appropriate. As described above, however, the Commission is increasing its estimate of the number of searches that will be undertaken for lost securityholders to 650,000 searches and is increasing its estimate of the number of notifications that will be sent to unresponsive payees to 758,750. Accordingly, we are increasing our estimate of the total recordkeeping burden as a result of the amendments to Rule 17Ad-17 from approximately 600 hours to approximately 2,818 hours: 1,300 hours with respect to searches for lost securityholders (650,000 searches divided by 500 accounts, times 1 hour) and 1,518 hours with respect to notifications to unresponsive payees (758,750 notifications divided by 500 accounts, times 1 hour).
+
+<h>4. Total Revised Estimated Burden</h>
+
+In summary, the total revised estimated burden resulting from the amendments to Rule 17Ad-17 and based on the assumptions and estimates described above would be 94,916 hours: 54,160 hours associated with the 650,000 searches expected to be undertaken by brokers and dealers pursuant to the amendments to paragraph (a) of Rule 17Ad-17; 37,938 hours associated with the 758,750 notifications to unresponsive payees expected to be made by paying agents pursuant to the amendments to paragraph (c) of Rule 17Ad-17; and 2,818 hours associated with the making and keeping of records anticipated to be necessary for brokers, dealers, and paying agents to comply with the amendments to Rule 17Ad-17 under paragraph (d) of the rule (54,160 hours plus 37,938 hours plus 2,818 hours).
+
+<h>E. Collection of Information is Mandatory</h>
+
+All collections of information pursuant to Rule 17Ad-17 will be mandatory.
+
+<h>F. Confidentiality</h>
+
+The information collected under the amendments to Rule 17Ad-17 would be generated mainly from the internal records of brokers, dealers, and paying agents. The Commission expects that some of this information, if included in a filing with the Commission, would be deemed confidential to the extent permitted by law with respect to such filing. Additionally, with respect to other information collected under the amendments and included in a filing with the Commission, a broker, dealer, or paying agent can request to the Commission that the information be kept confidential. <sup>121</sup> If such a request is made, the Commission will ordinarily keep the information confidential to the extent permitted by law. <sup>122</sup>
+
+<h>G. Record Retention Period</h>
+
+Brokers, dealers, and paying agents will be required to retain records and information under Rule 17Ad-17 for a period of three years, with the first year in an easily accessible place. <sup>123</sup>
+
+<h>IV. Economic Analysis</h>
+
+<h>A. Introduction</h>
+
+Exchange Act Section 23(a)(2) requires the Commission, when adopting rules under the Exchange Act, to consider the impact that any new rule would have on competition, and prohibits the Commission from adopting any rule that would impose a burden on competition that is not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+Furthermore, Exchange Act Section 3(f) requires the Commission, when engaging in rulemaking under the Exchange Act where it is required to consider or determine whether an action is necessary or appropriate in the public interest, to also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+As described above, the Commission is adopting amendments to Rule 17Ad-17 under congressional directive. As originally adopted, Rule 17Ad-17 requires transfer agents to conduct database searches for lost securityholders. Such loss of contact can be harmful to securityholders because they no longer receive corporate communications or interest and dividend payments; in certain cases, securities, cash, and other property may be placed at risk of being deemed abandoned.
+
+As discussed above in detail, Section 929W of the Dodd-Frank Act amended Section 17A of the Exchange Act to extend to brokers and dealers the requirement of Rule 17Ad-17 to search for “lost securityholders.” Separately, the statute requires “paying agents” to provide written notification to each unresponsive payee that the securityholder has been sent a check that has not been negotiated, and defines “paying agent” to include, “any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payments from the issuer of a security and distributes the payments to the holders of the security.” The Commission is adopting amendments to Rule 17Ad-17 to address these statutory requirements and to require brokers, dealers, and paying agents subject to the amended rule to make and keep records to demonstrate compliance with the amended rule, including written procedures that describe their methodology for complying.
+
+While the Commission is adopting amendments to Rule 17Ad-17 specifically toimplement the statutory mandate, the Commission recognizes that there may be costs andbenefits resulting from the statute and amendments to Rule 17Ad-17. Extending the requirements of Rule 17Ad-17 to brokers and dealers represents a new regulatory obligation for brokers and dealers, and these entities will face associated costs of complying with the new obligations. Furthermore, paying agents – including transfer agents, brokers, and dealers – will incur costs associated with the new requirements of Rule 17Ad-17 to provide certain notifications to unresponsive payees. The definition of “paying agent” is sufficiently broad that these costs will also be incurred by entities that do not register with – and have not historically been regulated by – the Commission. At the same time, lost securityholders and unresponsive payees may benefit by receiving securities, cash, or other property as a result of the searches and notifications required by the statute and the resulting amendments to Rule 17Ad-17.
+
+These costs and benefits are discussed below. Additionally, the Commission has considered alternative ways of implementing the statute suggested by commenters, including narrowing the scope of “brokers and dealers” and shortening the definition of “paying agent.” We discuss aspects of these alternative proposals below as well.
+
+<h>B. Economic Baseline</h>
+
+Originally adopted in 1997, Rule 17Ad-17 requires recordkeeping transfer agents to conduct database searches for lost securityholders. At the time, the Commission staff estimated that 1.34% of total accounts held by such transfer agents were lost, representing around $450 million in lost assets. <sup>124</sup> An informal survey by the Commission staff in 2000 of seven large transfer agents (representing about 75% of shareholder accounts), found that 2.23% of total
+
+Committee on Commerce, available at http://www.sec.gov/news/testimony/ts162000.htm (“Bergmann Testimony”).accounts were lost securityholder accounts. <sup>125</sup> Under state escheatment laws, an account that becomes “lost” may result in the assets in the account being deemed abandoned. In the same 2000 survey, the Commission estimated that 0.87% of shareholder accounts, representing an average of $243 per account and over $93 million in total, were remitted to the states as unclaimed property.
+
+As required by the Dodd-Frank Act, the Commission is extending the obligation under Rule 17Ad-17 to search for lost securityholders to brokers and dealers. While brokers and dealers house and manage certain securityholder accounts, there are good economic reasons to believe the likelihood of accounts becoming lost is lower for brokers and dealers than for transfer agents. Brokers and dealers rely on their customers and account holders as a source of revenue, so have an economic incentive to maintain up-to-date records. Additionally, because the customers’ and account holders’ assets are held by brokers and dealers, and because most of their contact in the ordinary course of business is with the broker or dealer (not a transfer agent), customers have a stronger incentive to keep their account information updated with the brokers and dealers than with transfer agents, so as to not lose contact with their assets. Indeed, though recent data are scarce because the Commission has not to date formally tracked the number of lost securityholder accounts at brokers and dealers, there are studies that support this hypothesis to some extent.
+
+In a 2001 survey of transfer agents and broker-dealers by the Government Accountability Office (“GAO”) (then called the General Accounting Office), the GAO found that, similar to Commission surveys, approximately 2% of accounts at transfer agents andbrokers-dealers were classified as lost. While the GAO concluded that few differences may exist between transfer agents and broker-dealers in the ratio of lost securityholder accounts to total accounts, they did find that 95% of brokers-dealers reported less than 1% of accounts as lost, while for transfer agents, 75% reported less than 1% of accounts as lost. Similarly, a less formal 2000 survey of 17 brokers-dealers by SIFMA (then called the Securities Industry Association) found that lost securityholders accounted for 0.79% of total accounts held at brokers-dealers. <sup>126</sup>
+
+Nevertheless, while the overall incidence of lost securityholder accounts relative to total securityholder accounts held may be lower at brokers and dealers than transfer agents, the absolute magnitude, in terms of both number of lost accounts and dollar amount of assets at risk of being abandoned, may still be economically meaningful. Transfer agents serve as an intermediary between issuers and owners of securities, passing along dividends, interest payments, and other corporate communications and distributions to a company’s investors.
+
+However, a Commission Briefing Paper from 2007 on proxy voting mechanics noted that, at the time, approximately 85% of exchange-traded securities were held in street name, as opposed to investor name. <sup>127</sup> Because transfer agents typically only see the street name on their records, the broker or dealer holding the securities on behalf of investors effectively becomes the intermediary. That is, a transfer agent’s searches for lost securityholders likely will not identify lost securityholders who hold securities at a broker or dealer in street name since only the broker’s or dealer’s internal records will show such securityholders. Rule 17Ad-17 washttp://www.sec.gov/spotlight/proxyprocess/proxyvotingbrief.htm.originally adopted to minimize instances where lost property is claimed by the states, by establishing minimum search requirements for lost securityholders. Because brokers and dealers now serve as the effective intermediary for a large majority of securities holdings, they may be in a position to identify a greater number of lost accounts than transfer agents and find lost securityholders with a greater amount of securities and other assets than transfer agents.
+
+In addition to extending the requirement to search for lost securityholders to brokers and dealers, the amendments to Rule 17Ad-17 also require paying agents to notify unresponsive payees in writing when they have unnegotiated checks outstanding. The Commission currently lacks accurate data – including any informal survey or other incomplete dataset that may be indicative – on the number of unresponsive payees, as well as whether a securityholder has not negotiated a check due to, for example, lost or stolen property or investor inattention. However, based on initial estimates in the Proposing Release we provided for public comment and adjusted based on such comment as described in section III above, <sup>128</sup> the Commission estimates that approximately 800,000 notifications would be sent per year.
+
+<h>C. Benefits and Impact on Efficiency, Competition, and Capital Formation</h>
+
+As mentioned in the discussion of the economic baseline, the general purpose of Rule 17Ad-17 is to reduce the number of securityholder accounts that become lost, and therefore to minimize the risk that lost property is claimed by the states under escheatment laws. This risk can be economically significant – in 2000, the Commission staff estimated that over $93 million in assets, or an average of $243 per account, were remitted to the states as unclaimed property. <sup>129</sup>
+
+Extending the rule to brokers and dealers provides another mechanism for minimizing such remittances. A large majority of securities are held in street name rather than investor name – up to 85% of securities, by one Commission estimate – and because transfer agents record only the street name in such cases, brokers and dealers effectively serve as the intermediary between issuers and investors for these holdings and are in a better position than transfer agents in those cases to identify and find lost securityholders. Therefore, the rule should reduce the number of lost securityholders, which would benefit the securityholders “found” by restoring to them their lost securities and other assets that might otherwise be lost to them or escheated.
+
+The Commission recognizes that brokers and dealers already have an economic incentive to search for lost securityholders, since they rely on securityholders for revenue. Therefore, it is possible that the benefits of the rule, in terms of a reduction in the number of lost securityholders, will be relatively modest. However, the Commission believes that establishing minimum search requirements will facilitate the realization of such incentives for identifying and finding lost securityholders, as was apparently intended by Congress.
+
+In the case of unresponsive payees, the Commission believes that, due to instances of lost or stolen property, there may exist a subset of investors who are unaware that an unnegotiated check has gone missing. The rule should benefit these investors by invoking the services of paying agents to reduce the number of unnegotiated checks. While these benefits are difficult to quantify, the Commission estimates that paying agents would send approximately 800,000 notifications per year; accordingly, if even a relatively small percentage of notifications result in checks that would not otherwise have been negotiated being negotiated, there may be a significant aggregate monetary benefit to investors.
+
+The Commission also expects the amendments to Rule 17Ad-17 to modestly improve the efficient allocation and use of resources to the extent that the new rules reduce the number of lost securityholders and unresponsive payees. Fewer lost securityholders and unresponsive payees should reduce the amount of property that is effectively idle and not being used deliberately for an economic purpose because the securityholder is unaware of the existence of the property, as well as reduce the costs securityholders face when attempting to track down and claim lost assets. Furthermore, by identifying lost securityholders and finding lost and idle property, there may be beneficial trades that occur as found accountholders rebalance their portfolios, to the extent that it is optimal to do so. This result should in turn lead to enhanced liquidity and improved price efficiency as assets become available for trade.
+
+The Commission also expects that identification of lost accountholders may lead to better corporate governance, either through improved proxy voting rates or through trades that place the securities in the hands of more active investors. Both channels could result in enhanced managerial monitoring and corporate governance, which in turn would promote capital formation as firms make investment choices that are expected to be more closely aligned with the interests of investors.
+
+Finally, the Commission expects that the amendments will have a marginal, if any, impact on competition. Fundamentally, the regulatory problem that Congress addressed in directing the amendment of Rule 17Ad-17 is about efficiency losses associated with lost property that is ultimately claimed by the state, and not about uncompetitive capital markets. We generally expect the benefits of the rule to be realized in terms of the efficient allocation of resources of securityholders and corresponding effects on capital formation through improvedmonitoring and governance, and not improved competition.
+
+<h>D. Costs and Impact on Efficiency, Competition, and Capital Formation</h>
+
+The amendments to Rule 17Ad-17 create new regulatory obligations for brokers, dealers, and paying agents (which include transfer agents, brokers, dealers, and other entities). Brokers and dealers must conduct searches for lost securityholders, while paying agents must provide notifications to an unresponsive payee that he or she is the holder of an unnegotiated check.
+
+Furthermore, because the definition of “paying agent” captures certain entities that distribute cash flows from issuers to investors, the amendments create obligations under the Exchange Act for entities that have not historically been regulated by the Commission and for issuers that have had to file only disclosures. To the extent that brokers and dealers and paying agents do not already have systems in place to perform these functions and make and keep the records required to demonstrate compliance (including the written procedures to describe their methodology for complying), these entities will incur costs for any necessary modifications to information gathering, management, recordkeeping, and reporting systems or procedures.
+
+As already discussed, brokers and dealers have an economic incentive to search for lost accounts. While the new rule imposes costs on brokers and dealers, they may already be shouldering some of these costs voluntarily, minimizing the incremental costs of the rule.
+
+Nevertheless, in their 2001 study cited above, the GAO found that approximately 40% of transfer agents and brokers and dealers spent less than $10 per lost account to search for lost securityholders, though larger firms were likely to spend more, and about 10% of firms spent greater than $40. <sup>130</sup> The Commission believes this finding provides a reasonable range of cost estimates to brokers and dealers for their obligation to search for lost securityholders since thereappears to be no technology, market, or other development over the last decade that would have materially increased the per-securityholder cost.
+
+The costs incurred by paying agents in fulfilling their obligations to notify unresponsive payees are less certain, and the Commission currently lacks accurate data – including any informal survey or other incomplete dataset that may be indicative – on the number of unresponsive payees. Since unresponsive payees are not lost but merely unresponsive, paying agents do not incur search costs; variable costs should be limited to identifying and recording when a check has gone unnegotiated, and providing the required written notification. However, certain paying agents may not have the same existing economic incentives to identify and notify unresponsive payees as brokers and dealers already have to search for lost securityholders.
+
+Therefore, unlike brokers and dealers that conduct such searches voluntarily being required to do so under the amendments to Rule 17Ad-17, certain paying agents may temporarily face higher fixed costs to set up the systems and procedures to perform their new regulatory obligations.
+
+Furthermore, if fixed costs meaningfully outweigh variable costs, there could be competitive burdens placed on smaller entities.
+
+In addition to these search and notification costs, brokers, dealers, and paying agents will incur costs in making and retaining the records required under the amendments to Rule 17Ad-17, including the requirement to maintain written procedures describing their methodology for complying with such amendments. These costs may be moderated for regulated entities like brokers and dealers, who must already maintain extensive sets of records regarding securityholders, including their contacts with such persons. However, the Commission recognizes that these recordkeeping costs may be higher for paying agents who have not beenpreviously regulated by the Commission in this regard, including issuers and certain custodians.
+
+<h>E. Alternatives Considered</h>
+
+The Commission requested comment on the costs and benefits of the amendments to Rule 17Ad-17 in the Proposing Release, and has considered the comments as well as alternative ways to implement the statute where possible. Several commenters offered alternative interpretations of the phase “brokers and dealers,” suggesting that the statute be read in such a way that the rule does not apply to all brokers and dealers, as a means to mitigate some of the burden of the amendments. <sup>131</sup> Furthermore, one commenter suggested the Commission could use exemptive authority under Section 36 of the Exchange Act to narrow the scope of the phrase “brokers and dealers.” <sup>132</sup> While the Commission appreciates these comments, as explained above, we believe that the Dodd-Frank Act constrains their implementation, particularly in light of the relatively recent adoption of the statute by Congress, and that applying the rule to all brokers and dealers is the appropriate approach at this time, even though the costs of compliance may fall primarily on those brokers and dealers that carry customers’ accounts ( i.e. , carryingfirms). As described above, however, the Commission is not imposing any requirements as to the means by which brokers and dealers comply with their obligations under Rule 17Ad-17, and brokers and dealers may of course negotiate among themselves the most efficient allocation of the costs associated with the rule.
+
+Similarly, several commenters suggested that the Commission revise or shorten the definition of “paying agent,” since the definition captures entities that do not register with the
+
+Commission and have not historically fallen under the Commission’s regulatory purview. <sup>133</sup> As with the interpretations of “brokers and dealers,” the Commission at this time believes that following the statutory language is the appropriate approach. Moreover, to apply rules to only a subset of entities that were specified by Congress as “paying agents” may create unnecessary competitive differences among paying agents, while not fully realizing the benefits of notifying certain classes of unresponsive payees of unnegotiated checks.
+
+Finally, as discussed above, it is not clearly stated in the statute whether the paying agent must provide: (1) a single written notification to each unresponsive payee who has been sent a check that has not yet been negotiated; or (2) a single written notification to the unresponsive payee for each check that has been sent but has not yet been negotiated. While the Commission considered requiring a written notification for each check that is not yet negotiated, the Commission has determined that the Dodd-Frank Act permits it to allow paying agents to decide how best to comply with the statutory mandate. Under the final rules, a paying agent has the option to send a single notification for multiple unnegotiated checks, provided that the single notification sufficiently identifies each unnegotiated check and is sent no later than seven months after the initial sending of the oldest unnegotiated check in the notification. The Commission believes that the regulatory benefits associated with the statutory mandate can be achieved with a single notification for multiple checks; requiring a separate written notification for each check would impose additional regulatory costs on paying agents without realizing corresponding regulatory benefits.
+
+<h>V. Final Regulatory Flexibility Act Analysis (“FRFA”)</h>
+
+A FRFA has been prepared in accordance with Section 4(a) of the Regulatory Flexibility Act. <sup>134</sup> The Commission prepared the Initial Regulatory Flexibility Act Analysis in conjunction with the Proposing Release on March 18, 2011. <sup>135</sup>
+
+<h>A. Need for and Objectives of the Rule</h>
+
+This rulemaking action was expressly directed Section 929W of the Dodd-Frank Act, which added paragraph (g) to Section 17A of the Exchange Act. The objectives of this rulemaking, as discussed above in Sections I and II, are to help reduce the number of lost securityholders and unresponsive payees, and to further the Commission’s mission of protecting investors. The legal basis for the rulemaking is set forth in Section 17A(g) of the Exchange Act. <sup>136</sup>
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+Comments from the public suggested that certain cost estimates included in the Proposing Release were too low. <sup>137</sup> Accordingly, as discussed in more detail above, especially in Section IV, we have revised the rule’s cost estimates.
+
+<h>C. Small Entities Subject to the Rule</h>
+
+<h>1. Brokers and Dealers</h>
+
+The amendments to Rule 17Ad-17 will apply to all brokers and dealers. However, asdescribed above, we anticipate that the amendments will as a practical matter apply mainly to brokers and dealers that carry securities for customer accounts ( i.e. , carrying firms), which tendto be larger broker and dealer firms. There are 301 brokers and dealers registered with the Commission that we believe act as carrying firms, none of which qualifies as a small entity. <sup>138</sup> According to Exchange Act Rule 0-10(c), <sup>139</sup> a broker or dealer is a small entity if it: (1) had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to Section 240.17a-5(d) or, if not required to file such statements, a broker or dealer that had total capital (net worth plus subordinated liabilities) of less than $500,000 on the last business day of the preceding fiscal year (or in the time that it has been in business, if shorter); and (2) is not affiliated with any person (other than a natural person) that is not a small business or small organization as defined in this section. <sup>140</sup> Of the 4,705 brokers and dealers registered with the Commission, the Commission estimates that approximately 812 are classified as “small” entities for purposes of the Regulatory Flexibility Act. There are 301 brokers and dealers registered with the Commission that we believe act as carrying firms, none of which qualifies as a small entity. Accordingly, we do not expect that the amendments to Rule 17Ad-17 will have any significant effect on small brokers or dealers. <sup>141</sup>
+
+<h>2. Paying Agents</h>
+
+Certain amendments to Rule 17Ad-17 will apply to all paying agents. Section 17A(g)(D)(ii) defines the term “paying agent” to include “any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payment from the issuer of a security and distributes the payments to the holder of the security.” With respect to data for the entities who could potentially qualify as “paying agents” under this definition: (1) of the 10,379 issuers that file reports with the Commission, 1,207 qualify as small businesses; <sup>142</sup> (2) of the 536 transfer agents registered with the Commission or with the Federal banking agencies, 135 qualify as small businesses; <sup>143</sup> (3) of the 4,075 brokers and dealers registered with the Commission, 812 qualify as small businesses, as discussed above; <sup>144</sup> (4) of the 11,797 investment advisers registered with the Commission, 718 qualify as small businesses; <sup>145</sup> (5) of the 264 indenture trustees, four qualify as small businesses; <sup>146</sup> and (6) of the 896 custodians, 11 qualify as small businesses. <sup>147</sup> The Commission has no supportable basis to estimate the number of small entities with respect to other persons that potentially may be included in the definition under the “any other person” provision. As noted in Section IV, while approximately 28,577 entities have been identified as potential paying agents, the Commissionestimates that only approximately 3,035 such entities will actually qualify as paying agents under Rule 17Ad-17.
+
+We believe that a high proportion of paying agent services will be provided by: (1) brokers and dealers that carry customer securities (which, as discussed above in Section V.C.1, would not be small entities) and (2) transfer agents (including bank transfer agents) that provide such services. These firms that typically serve as intermediaries between issuers and securityholders are not typically small businesses as defined in Exchange Act Rule 0-10(c). <sup>148</sup>
+
+<h>D. Reporting, Recordkeeping, and Other Compliance Requirements</h>
+
+New paragraph (d) of Rule 17Ad-17 requires brokers, dealers, and paying agents maintain records to demonstrate compliance with the amendments to Rule 17Ad-17, including written procedures that describe their methodology for complying with the amendments. Such records are required to be maintained for not less than three years, the first year in an easily accessible place in accordance with Rule 17Ad-17(i). <sup>149</sup> Records are subject to examination by the appropriate regulatory agency as defined by Section 3(a)(34)(B) of the Exchange Act. <sup>150</sup>
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+As required by Section 604 of the Regulatory Flexibility Act, <sup>151</sup> with respect to small entities, the Commission considered whether viable alternatives to the rulemaking exist that could accomplish the stated objectives of Section 17A(g) of the Exchange Act and whether theywould minimize any significant economic impact of the rules on small entities. Specifically, the Commission considered the following alternatives: (1) the establishment of differing compliance requirements that take into account the resources available to small entities; (2) theclarification, consolidation, or simplification of compliance and reporting requirements under the new rules insofar as they affect small entities; (3) the use of performance rather than design standards; and (4) an exemption from coverage of the rule, or any part thereof, for small entities.
+
+Section 929W of the Dodd-Frank Act, which added Section 17A(g) to the Exchange Act, expressly requires the amendments to Rule 17Ad-17. We believe that small entities should be included under the amendments because, as discussed above, the statutory language does not suggest that Congress intended to exclude or exempt any class of brokers, dealers, or paying agents from compliance. Rather, furthering the apparent goal of Congress – reuniting securityholders and payees with their property – requires the searches and notifications contemplated by Section 929W to be made by entities regardless of their size. In addition, as noted in Section V.C above, we believe that a significant majority of the entities affected by the amendments will be brokers, dealers, and transfer agents that are not small entities. We expect that, in practice, most brokers and dealers conducting searches for lost securityholders will be carrying firms, which are not small entities, and likewise we expect that most paying agents providing notifications to unresponsive payees will be carrying firms and the larger transfer agents (including bank transfer agents). <sup>152</sup>
+
+A copy of the FRFA may be obtained by contacting Thomas C. Etter, Jr., Division of Trading and Markets, Securities and Exchange Commission, 100 F Street, N.E., Washington, DC 20549-7010, telephone no. (202) 551-5713.
+
+<h>VII. Statutory Basis and Text of Amendments</h>
+
+<END MAIN TEXT>
+
+1 Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat. 1376 (2010).
+
+2 Id. at Preamble.
+
+3 Id. § 901 (“This section may be cited as the ‘Investor Protection and Securities Reform Act of 2010’.”); Title IX (“Investor Protections and Improvements to the Regulation of Securities”).
+
+4 17 CFR 240.17Ad-17.
+
+5 Rule 17Ad-17(b)(2), as amended herein, defines a “lost securityholder” to mean “a securityholder: (i) To whom an item of correspondence that was sent to the securityholder at the address contained in the transfer agent’s master securityholder file or in the customer security account record of the broker or dealer has been returned as undeliverable; provided, however, that if such item is re-sent within one month to the lost securityholder, the transfer agent, broker, or dealer may deem the securityholder to be a lost securityholder as of the day the re-sent item is returned as undeliverable; and (ii) For whom the transfer agent, broker, or dealer has not received information regarding the securityholder’s new address.”
+
+6 Section 17A(g)(1)(A), 15 U.S.C. 78q-1(g)(1)(A). We note that in drafting Exchange Act Section 17A(g), Congress used a two-word formulation of the term “security holder.” Currently, in Rule 17Ad-17, however, there is a one-word formulation of the term “securityholder.” We do not believe that Congress intended for the term “security holder” to have a different meaning than the term “securityholder.” Thus, for the sake of consistency within Rule 17Ad-17, we use the term “missing securityholder” to discuss the statutory provision and the amendments to Rule 17Ad-17. In addition, as discussed further in Section II.B.2 below, in response to comments, we use the term “unresponsive payee” in the rule text and throughout this release in place of the statutory term “missing securityholder.”
+
+7 Section 17A(g)(1)(D)(i), 15 U.S.C. 78q-1(g)(1)(D)(i).
+
+8 Section 17A(g)(1)(D)(ii), 15 U.S.C. 78q-1(g)(1)(D)(ii).
+
+9 Section 17A(g)(1)(B), 15 U.S.C. 78q-1(g)(1)(B).
+
+10 Section 17A(g)(1) (C), 15 U.S.C. 78q-1(g)(1)(C).
+
+11 Section 17A(g)(2), 15 U.S.C. 78q-1(g)(2).
+
+12 Id.
+
+13 17 CFR 240.17Ad-17 and 240.17Ad-7; Securities Exchange Act Release No. 64099 (March 18, 2011), 76 FR
+
+14 The Commission received comment letters from six trade associations (representing transfer agents, investment companies, insurance products, the securities industry, the banking industry, and the securities bar), two transfer agents, one broker-dealer, one law firm, and four individuals.
+
+15 Kara Folis, Chris Barnard, STA, ICI, and SIFMA, supra note 14.
+
+16 Prescott Lovern, supra note 14.
+
+17 Chris Barnard, STA, ICI, Computershare, WFA, SIFMA, Prescott Levern, Annuity Committee, SIFMA, BNY Mellon, American Bankers, and ABA, supra note 14.
+
+18 Securities Exchange Act Release No. 39176 (Oct. 1, 1997), 62 FR 52229 (Oct. 7, 1997) (“Rule 17Ad-17 Adopting Release”). A “recordkeeping transfer agent” is a registered transfer agent that maintains and updates the master securityholder file. See Rule 17Ad-9(h).
+
+19 Rule 17Ad-17, 17 CFR 240.17Ad-17.
+
+20 Rule 17Ad-17 Adopting Release, supra note 18.
+
+21 Id. Generally, after expiration of a certain period of time, which varies from state to state but is usually three to seven years, an issuer or its transfer agent will remit abandoned property (e.g., securities and funds of lost securityholders) to a state’s unclaimed property administrator pursuant to the state’s escheatment laws.
+
+22 Securities Exchange Act Release No. 37595 (Aug. 22, 1996), 61 FR 44249 (Aug. 28, 1996).
+
+23 While the Commission is adopting Rule 17Ad-17(a) largely as proposed, we are clarifying that the requirements apply only to brokers or dealers that have customer security accounts “that include accounts of lost securityholders”. The additional language parallels the language applicable to recordkeeping transfer agents and eliminates ambiguity in the proposed rule as to what obligations would be incurred by a broker or dealer that has no customer security accounts of lost securityholders. Letter from ABA, supra note 14.
+
+24 For the amended definition of “lost securityholder,” see supra note 5.
+
+25 See Rule 17Ad-17 Adopting Release, supra note 18.
+
+26 Letters from Mr. Bernard and Annuity Committee, supra note 14.
+
+27 Exchange Act, Section 17A(g)(1), 15 U.S.C. 78q-1(g)(1).
+
+28 Letter from Annuity Committee, supra note 14. While commenters that opined on limiting the kinds of brokers and dealers covered by the amendments to Rule 17Ad-17 referred generally to “clearing firms”, we believe the relevant question is whether to apply the amendments only to carrying firms. While firms that are not carrying firms may clear transactions – such as self-clearing firms with no customer business – it does not appear that commenters were addressing a limitation to clearing firms without regard to whether such firms actually carry accounts for customers that could be lost securityholders. Accordingly, the discussion in this release focuses on “carrying firms,” not the broader universe of “clearing firms”.
+
+29 Letter from SIFMA, supra note 14.
+
+30 Letter from ABA, supra note 14.
+
+31 15 U.S.C. 78mm.
+
+32 15 U.S.C. 78l.
+
+33 For example, the specific functions of carrying and introducing firms may vary from firm to firm depending on particular carrying agreements. See, e.g., FINRA Rule 4311.
+
+34 15 U.S.C. 78c(a)(4) and (5).
+
+35 15 U.S.C. 78c(a)(4).
+
+36 15 U.S.C. 78c(a)(5).
+
+37 See, e.g., supra note 32.
+
+38 Letters from WFA and SIFMA, supra note 14.
+
+39 Another commenter questioned the use of the term “returned as undeliverable” in paragraph (b)(2) of the rule, asserting that no one can prove that correspondence returned by the U.S. Postal Service is undeliverable. Letter from Prescott Lovern, supra note 14. The Commission notes that the term “undeliverable”, a term of the U.S. Postal Service, has been in paragraph (b)(2) of Rule 17Ad-17 since the original rule’s adoption in 1997, and until receipt of this comment, the Commission had never received a request for guidance or a report of confusion concerning the term. Accordingly, at this time, the Commission does not believe there is sufficient basis for substituting another term in the rule.
+
+40 Letter from WFA, supra note 14.
+
+41 Letter from SIFMA, supra note 14.
+
+42 Rule 17Ad-17 Adopting Release, supra note 18.
+
+43 Letter from Annuity Committee, supra note 14.
+
+44 Exchange Act, Section 12, 78 U.S.C. 78l.
+
+45 Exchange Act Section 17A(c)(1), 15 U.S.C. 78q-1(c)(1).
+
+46 Letter from Annuity Committee, supra note 14.
+
+47 Section 17A(g)(1)(D)(ii), 15 U.S.C. 78q-1(g)(1)(D)(ii).
+
+48 Letter from ABA, supra note 14.
+
+49 Letter from Annuity Committee, supra note 14.
+
+50 Rule 17Ad-1(c)(2).
+
+51 15 U.S.C. 78q-1(g)(1)(D)(i).
+
+52 Letters from STA, ICI, BNY Mellon, SIFMA, and Computershare, supra note 14..
+
+53 Letter from ICI, supra note 14. To avoid confusion, the adopted term “unresponsive payee” is used throughout this discussion, even though the comments referred to the proposed term “missing securityholder”.
+
+54 See Rule 17Ad-17 Adopting Release, supra note 18 above (limiting the search requirements of Rule 17Ad-17 to natural persons not known to be deceased as the databases used to search for lost securityholders when the rule was adopted in 1997 generally did not contain information on heirs or estates and were limited to natural persons).
+
+55 Letters from ICI and SIFMA, supra note 14.
+
+56 Letter from BNY Mellon, supra note 14. .
+
+57 Letter from American Bankers, supra note 14. See also Letter from ICI, supra note 14, with respect to the status of a deceased person.
+
+58 Id.
+
+59 Letter from ICI, supra note 14.
+
+60 Letter from SIFMA, supra note 14.
+
+61 Letter from American Bankers, supra note 14.
+
+62 The Commission notes that a number of periodic distributions by issuers, such as partnership distributions, may technically not be interest or dividend payments.
+
+63 Proposing Release, supra note 13.
+
+64 Letters from Computershare and BNY Mellon, supra note 14.
+
+65 Letter from Computershare, supra note 14.
+
+66 Letter from BNY Mellon, supra note 14.
+
+67 Letter from Computershare, supra note 14.
+
+68 15 U.S.C. 78q-1(g)(1)(D)(i) and 78q-1(g)(1)(A).
+
+69 Letters from ICI and BNY Mellon, supra note 14.
+
+70 Letters from ICI and SIFMA, supra note 14.
+
+71 Letter from ICI, supra note 14.
+
+72 Letters from ICI, SIFMA, and American Bankers, supra note 14.
+
+73 “Use of Electronic Media by Broker-Dealers, Transfer Agents, and Investment Advisers for Delivery of Information; Additional Examples Under the Securities Act of 1933, Securities Exchange Act of 1934, and Investment Company Act of 1940,” 61 FR 24644 (May 15, 1996).
+
+74 Section 17A(g)(1)(B), 15 U.S.C. 78q-1(g)(1)(B).
+
+75 Letter from SIFMA, supra note 14.
+
+76 Letters from STA and ICI, supra note 14.
+
+77 Section 17A(g)(1)(C), 15 U.S.C. 78q-1(g)(1)(C).
+
+78 Letters from WFA and SIFMA, supra note 14. Another commenter, Mary Patman, observed that one way to resolve escheatment problems is “to require the shareholder to be informed about unclaimed property laws and educate them on how to prevent their investments from getting turned over to the state in the first place,” but she also indicated that this was probably impossible. Letter from Ms. Putman, supra note 14.
+
+79 Letter from Prescott Lovern, Esq., supra note 14.
+
+80 Proposing Release, supra note 13. This footnote is replicated herein at note 21.
+
+81 Letters from STA, ICI, and Annuity Committee, supra note 14.
+
+82 Letter from STA, supra note 14.
+
+83 Letters from ICI and Annuity Committee, supra note 14.
+
+84 Letter from STA, supra note 14.
+
+85 Letter from ABA, supra note 14.
+
+86 Id.
+
+87 See 6 U.S.C. 553(b).
+
+88 The adoption of Rule 15b1-6 does not require analysis under the Regulatory Flexibility Act or under the Small Business Regulatory Enforcement Fairness Act. 5 U.S.C. 601 and 5 U.S.C. 804.
+
+89 17 CFR 240.17Ad-17(c).
+
+90 Pursuant to Rule 17Ad-7(i), 17 CFR 240.17Ad-7(i), transfer agents have had to maintain records to show their compliance with Rule 17Ad-17. This same requirement for transfer agents, brokers, dealers, and paying agents is now stated explicitly in amended Rule 17Ad-17. In order to maintain consistency with amended Rule 17Ad-17, we have adopted a technical change to Rule 17Ad-7(i) so that it will cross-reference new Rule 17Ad-17(d) rather
+
+91 Rule 17Ad-17 Adopting Release, supra note 18, Section II.B at pages 52232-52233.
+
+92 17 CFR 240.17Ad-7(i).
+
+93 Specifically, Rule 17Ad-17(d) now requires transfer agents, brokers, and dealers to “retain such records in accordance with Rule 17Ad-7(i)”, rather than “for a period of not less than three (3) years with the first year in an easily accessible place”.
+
+94 Letter from ABA, supra note 14.
+
+95 44 U.S.C. 3501 et seq.
+
+96 44 U.S.C. 3506(c)(1).
+
+97 For Proposing Release, see supra note 13. We note that neither Rule 15b1-6 nor the amendments to Rule 17Ad-7 require any “collection of information” within the meaning of the PRA.
+
+98 See supra Section II.B.6.
+
+99 For the definition of “paying agent,” see discussion at Section II.B.2.a, supra. For the definition of “unresponsive payee,” see discussion at Section II.B.2.b, supra.
+
+100 There are approximately 4,705 brokers and dealers registered with the Commission, according to December 31, 2011 FOCUS Report data. Of these registrants, 4,404 brokers and dealers claimed exemptions from Rule 15c3-3 on their FOCUS Reports. Accordingly, the Commission estimates that there are approximately 301 carrying brokers and dealers (4,705 minus 4,404 equals 301).
+
+101 As discussed in Sections IV and V.C.2 of the Proposing Release and in Section III.D.2 below, the 28,577 entities comprise approximately 10,379 issuers that file reports with the Commission, 4,705 brokers and dealers registered with the Commission (see supra note 100), 536 transfer agents registered with the Commission, 11,797 investment advisors registered with the Commission, 264 indenture trustees, and 896 custodians.
+
+102 As discussed below at Section III.D.2, the estimate of 3,035 paying agents comprises 1,038 issuers, 301 brokers and dealers, 536 transfer agents, 264 indenture trustees, and 896 custodians. While approximately 10,379 issuers file reports with the Commission, we interpret the statutory definition of “paying agent” to include only such issuers that “accept[] payments from an issuer of a security and distributes payments to the holders of the security,” a clause that the Commission’s experience with the mechanics of such payments indicates will exclude the vast majority of issuers. Accordingly, we estimate that the definition will exclude approximately 90% of issuers, leaving 10% – or approximately 1,038 issuers – as paying agents. Similarly, based on the Commission’s experience with payments to holders of securities, we expect that not all broker-dealers will act as paying agents; rather, such functions will largely be performed by carrying firms. Accordingly, we assume that all estimated 301 carrying firms will be paying agents. See supra note 100.
+
+103 The estimate of 7,439 entities comprises 1,038 issuers, 4,705 brokers and dealers (both carrying firms and non- carrying firms), 536 transfer agents, 264 indenture trustees, and 896 custodians.
+
+104 250,000 searches of five minutes apiece would require 20,833 hours and 50,000 notifications of three minutes apiece would require 2,600 hours. Accordingly, the total burden would be 23,933 hours (20,833 hours + 2,600 hours + 600 hours of recordkeeping time). Proposing Release, supra note 13, at 16,710.
+
+105 Letter from Wells Fargo, supra note 14.
+
+106 Letter from SIFMA, supra note 14.
+
+107 Letter from ABA, supra note 14.
+
+108 Letter from Wells Fargo, supra note 14.
+
+109 Letter from ABA, supra note 14.
+
+110 See supra note 100.
+
+111 See supra note 33 and accompanying text.
+
+112 Letter from SIFMA, supra note 14.
+
+113 The estimate of 250,000 searches was based on initial discussions with participants in the securities industry. See Proposing Release, supra note 13, Section IV.A. The increase to 650,000 searches is based on the subsequent feedback from commenters, who suggested that the estimates might be “as much as four times more.” See, e.g., letter from SIFMA, supra note 14.
+
+114 See Proposing Release, supra note 13, Section IV.A.
+
+115 While calculating averages for purposes of this analysis, the Commission recognizes that searches may in fact be clustered around certain dates, such as dates established by a firm’s internal policies and procedures for conducting searches or dates established by Rule 17Ad-17 itself.
+
+116 Proposing Release, Section IV.C, supra note 13. The estimate was based on discussions with industry participants.
+
+117 Letters from ABA, SIFMA, and Wells Fargo, supra note 14.
+
+118 The 28,577 entities comprise approximately 10,379 issuers that file reports with the Commission, 4,075 brokers and dealers registered with the Commission, 536 transfer agents registered with the Commission, 11,797 investment advisors registered with the Commission, 264 indenture trustees, and 896 custodians. With the exception of the estimate of brokers and dealers, which is based on December 31, 2011, FOCUS Report data (see supra note 100), these estimates are drawn from various Commission sources as of January 2011. The Proposing Release estimated a total paying agent population of 28,935 entities because it used an older estimate of 5,063 brokers and dealers.
+
+119 While approximately 10,379 issuers file reports with the Commission, we interpret the statutory definition of “paying agent” to include only such issuers that “accept[] payments from an issuer of a security and distributes payments to the holders of the security,” a clause that the Commission’s experience with the mechanics of such payments indicates will exclude the vast majority of issuers.
+
+120 See supra note 114 regarding the clustering of these notifications in practice.
+
+121 See 17 CFR 200.83. Additional information about how to request confidential treatment of information submitted to the Commission is available on the Commission’s website at: http//
+
+122 See, e.g., Exchange Act Section 24, 15 U.S.C. 78x (governing the public availability of information obtained by the Commission) and 5 U.S.C. 552 et seq.
+
+123 The recordkeeping requirements are found in paragraph (d) of Rule 17Ad-17, 17 CFR 240.17Ad-17(d).
+
+124 Testimony of Larry E. Bergmann, Senior Associate Director, Division of Market Regulation, U.S. Securities & Exchange Commission, before the House Subcommittee on Finance and Hazardous Materials,
+
+125 Id.
+
+126 “Lost Security Holders: SEC Should Use Data to Evaluate Its 1997 Rule,” GAO Report GAO-01-978, September 2001, available at (“GAO Report”).
+
+127 “Roundtable on Proxy Voting Mechanics,” Commission Briefing Paper, 2007, available at
+
+128 See, e.g., Letters from SIFMA and Wells Fargo, supra note 14.
+
+129 See Bergmann Testimony, supra note 127.
+
+130 See GAO Report, supra note 129. Even though Rule 17Ad-17 covered only transfer agents at the time of the 2001 GAO report, the report surveyed transfer agents, brokers, and dealers in order to ascertain their activities in dealing with lost securityholders.
+
+131 Letters from Mr. Barnard, Annuity Committee, and SIFMA, supra note 14.
+
+132 Letter from ABA, supra note 14.
+
+133 Letters from ABA, Annuity Committee, and American Bankers, supra note 14.
+
+134 5 U.S.C. 603(a). We note that neither the amendments to Rule 17Ad-17 nor the adoption of technical Rule 15b1-6 requires analysis under the Regulatory Flexibility Act.
+
+135 Supra note 13, at Section VI.
+
+136 15 U.S.C. 78q-1(g).
+
+137 Letters from ABA, SIFMA, and Wells Fargo, supra note 14.
+
+138 See supra note 100.
+
+139 17 CFR 240.0-10(c).
+
+140 Paragraph (i) of Rule 0-10, 17 CFR 240.0-10, discusses the meaning of “affiliated person” as referenced in Paragraph (c) of Rule 0-10.
+
+142 Exchange Act Rule 0-10(a), 17 CFR 240.0-10(a). 143 Exchange Act Rule 0-10(h). 17 CFR 240.0-10(h). 144 Exchange Act Rule 0-10(c). 17 CFR 240.0-10(c).
+
+145 Investment Advisers Act Rule 0-7(a). 17 CFR 275.0-7(a).
+
+146 Trust Indenture Act Rule 0-7, 17 CFR 260.0-7.
+
+148 17 CFR 240.0-10(c).
+
+149 17 CFR 240.240.17Ad-17(i).
+
+150 15 U.S.C. 78c(a)(34)(B).
+
+151 5 U.S.C. 604.
+
+152 See supra Section V.C.1 and Section V.C.2 .
