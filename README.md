@@ -36,7 +36,7 @@ For example, text "...see rule 305. A. for reference" could be identified as
 
 ...see rule 305. 
 
-**<h>A. for reference</h>**
+**<h\>A. for reference</h\>**
 
 The part after A. was incorrectly recognized as a heading
 
@@ -48,7 +48,7 @@ Then, compare the Table of Content section in the text file with the pdf file. T
 
 For incorrect headings, please find the location in the main text and delete the <h> </h> tags before and after the paragraph
 
-For missing headings, please insert <h> </h> tags before and after the paragraph
+For missing headings, please insert <h\> </h\> tags before and after the paragraph
 
 ALL CHANGES should be done in the main text instead of the Table of Contents.
 
