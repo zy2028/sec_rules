@@ -1,112 +1,4 @@
-I.0.0.0 INTRODUCTION AND BACKGROUND
-
-	I.A.0.0 Introduction
-
-	I.B.0.0 Current Filing Technology and Interactive Data
-
-	I.C.0.0 The Commission’s Multiyear Evaluation of Interactive Data and Overview of New Rules
-
-	I.D.0.0 Summary of Adopted Amendments
-
-II.0.0.0 DISCUSSION OF AMENDMENTS
-
-	II.A.0.0 Submission of Financial Information Using Interactive Data
-
-	II.B.0.0 Phase-in under the New Rules
-
-		II.B.1.0 Overview
-
-		II.B.2.0 Companies Covered by New Rules and Phase-in
-
-		II.B.3.0 Information and Documents Covered by the New Rules
-
-			II.B.3.a Financial Statements, Footnotes, and Financial Statement Schedules
-
-	II.A.0.0 , that sets forth tagging requirements, includes an instruction that states that the rule requires a disclosure format, but does not change substantive disclosure requirements. As proposed and as adopted, the rules also state clearly that the information in interactive data format should not be more or less than the information in the ASCII or HTML part of the related registration statement or report.
-
-			II.A.3.b Reports Covered by the New Rules
-
-			II.A.3.c Registration Statements under the Securities Act Covered by the Rules
-
-			II.A.3.d Registration Statements under the Exchange Act Covered by the Rules
-
-		II.A.4.0 Initial Filing Grace Period
-
-	II.A.0.0 or 6-K rather than as exhibits to amendments to Exchange Act periodic reports, so as to avoid negative connotations associated with the filing of an amendment. One commenter even suggested the creation of new forms for these amendments to distinguish them from substantive amendments to periodic reports. We acknowledge these concerns, but note that grace period submissions filed with amended periodic reports need contain only the relevant interactive data as an exhibit and therefore there should not be any confusion that the amended report is being filed for any other reason. In this regard we note that Rule 12b-15 under the Exchange Actgenerally provides that any amendment to a filing that required a certification
-
-		II.A.5.0 Web Site Posting of Interactive Data
-
-	II.C.0.0 Accuracy and Reliability of Interactive Data
-
-		II.C.1.0 Voluntary Program
-
-		II.C.2.0 Use of Technology to Detect Errors
-
-		II.C.3.0 Application of Federal Securities Laws
-
-		II.C.4.0 Officer Certifications and Integration of Interactive Data and Business Information Processing
-
-		II.C.5.0 Continued Traditional Format
-
-	II.D.0.0 Required Items
-
-		II.D.1.0 Data Tags
-
-		II.D.2.0 Regulation S-T and the EDGAR Filer Manual
-
-	II.E.0.0 Consequences of Non-Compliance and Hardship Exemption
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Background
-
-	III.B.0.0 Reporting and Cost Burden Estimates
-
-		III.B.1.0 Registration Statement and Periodic Reporting
-
-		III.B.2.0 Regulation S-K and Regulation S-T
-
-	III.C.0.0 Comments on Collection of Information Burden
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Benefits
-
-		IV.A.1.0 More Financial Information Available to Investors
-
-		IV.A.2.0 Less Costly and More Timely Financial Information
-
-		IV.A.3.0 Fewer Errors
-
-		IV.A.4.0 Increased Comparability and Interpretation of Financial Data
-
-	IV.B.0.0 Costs
-
-		IV.B.1.0 Potential Variability in the Cost estimate
-
-		IV.B.2.0 Cost Estimates for Footnote Tagging and for Software
-
-		IV.B.3.0 Interpretability of Standardized Tagging
-
-		IV.B.4.0 Corporate Web Site Posting
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VI.A.0.0 Reasons for, and Objectives of, the Adopted Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to the Amendments
-
-	VI.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize the Effect on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF AMENDMENTS
-
-<END TABLE OF CONTENTS>SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 229, 230, 232, 239, 240 and 249
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 229, 230, 232, 239, 240 and 249
 
 [Release Nos. 33-9002; 34-59324; 39-2461; IC-28609; File No. S7-11-08] RIN 3235-AJ71
 
@@ -426,9 +318,7 @@ To allow filers time to become familiar with tagging footnotes, in each filer’
 
 The requirement that in the second year a filer tag separately each amount within a footnote ( i.e. , monetary value, percentage, and number) should not affect a filer’s decisions regarding what to disclose. We are aware of questions as to whether the contextual informationor data elements chosen from the standard list of tags could potentially reveal information thatthe rest of the related registration statement or periodic report would not otherwise make known. However, we do not believe that the contextual information or data elements chosen should provide any additional substantive disclosure.
 
-To clarify the intent of the interactive data requirements, new Rule 405 of Regulation
-
-<h>A. , that sets forth tagging requirements, includes an instruction that states that the rule requires a disclosure format, but does not change substantive disclosure requirements. As proposed and as adopted, the rules also state clearly that the information in interactive data format should not be more or less than the information in the ASCII or HTML part of the related registration statement or report.</h>
+To clarify the intent of the interactive data requirements, new Rule 405 of Regulation A. , that sets forth tagging requirements, includes an instruction that states that the rule requires a disclosure format, but does not change substantive disclosure requirements. As proposed and as adopted, the rules also state clearly that the information in interactive data format should not be more or less than the information in the ASCII or HTML part of the related registration statement or report.
 
 As briefly noted above, commenters provided a mix of views on the footnote tagging requirements we proposed. Many commenters objected to some or all of the requirements as proposed and suggested alternatives. <sup>170</sup> In terms of burden, a significant number of commenters objected, in particular, to level (iv) tagging in whole or part. <sup>171</sup> Several of these commenters argued that detailed footnote tagging would require significant effort from the issuer and could be confusing because of the high number of company-specific extensions and the risk ofinconsistency among filers due to varying footnote formats. <sup>172</sup> Other criticisms included assertions that the effort required would be greater than the Commission estimated, <sup>173</sup> overly burdensome <sup>174</sup> and duplicative, <sup>175</sup> would result in so many extensions that the information would not be comparable among issuers, <sup>176</sup> and would produce information that users inappropriately would take out of context. <sup>177</sup>
 
@@ -492,9 +382,7 @@ Some stated that technical difficulties and the limited availability of support 
 
 We acknowledge all of these concerns and suggestions, and while we are adopting the grace periods substantially as proposed, we are deferring the start of the phase-in which we believe may help to alleviate potential burdens by giving more time to prepare the initial submission. We also believe that the eventual dropping of the grace period after the initial submissions will help to make the interactive data files more useful and relevant to investors by requiring the submissions at the same time as the related official filing.
 
-Many commenters suggested that grace period submissions be filed as exhibits to Form
-
-<h>A. or 6-K rather than as exhibits to amendments to Exchange Act periodic reports, so as to avoid negative connotations associated with the filing of an amendment. One commenter even suggested the creation of new forms for these amendments to distinguish them from substantive amendments to periodic reports. We acknowledge these concerns, but note that grace period submissions filed with amended periodic reports need contain only the relevant interactive data as an exhibit and therefore there should not be any confusion that the amended report is being filed for any other reason. In this regard we note that Rule 12b-15 under the Exchange Actgenerally provides that any amendment to a filing that required a certificationmust contain another certification; however, we clarify that, consistent with the exclusion of interactive data from the disclosure certification requirements discussed in part II.C.4 below, anamendment whose sole purposes is to submit interactive data as an exhibit is not subject to the certification requirements of Rule 12b-15 under the Exchange Act. We therefore adopt the rules as proposed as they relate to submitting interactive data as part of an amendment to the form containing the related traditional format financial statements.</h>
+Many commenters suggested that grace period submissions be filed as exhibits to Form A. or 6-K rather than as exhibits to amendments to Exchange Act periodic reports, so as to avoid negative connotations associated with the filing of an amendment. One commenter even suggested the creation of new forms for these amendments to distinguish them from substantive amendments to periodic reports. We acknowledge these concerns, but note that grace period submissions filed with amended periodic reports need contain only the relevant interactive data as an exhibit and therefore there should not be any confusion that the amended report is being filed for any other reason. In this regard we note that Rule 12b-15 under the Exchange Actgenerally provides that any amendment to a filing that required a certificationmust contain another certification; however, we clarify that, consistent with the exclusion of interactive data from the disclosure certification requirements discussed in part II.C.4 below, anamendment whose sole purposes is to submit interactive data as an exhibit is not subject to the certification requirements of Rule 12b-15 under the Exchange Act. We therefore adopt the rules as proposed as they relate to submitting interactive data as part of an amendment to the form containing the related traditional format financial statements.
 
 <h>5. Web Site Posting of Interactive Data</h>
 
