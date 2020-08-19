@@ -16,11 +16,11 @@ Each rule is organized as follows:
 
 1. URL of original pdf file
 
-2. Pre-processed Table of Contents, to be compared with the originals. Ends with “<END TABLE OF CONTENTS>"
+2. Pre-processed Table of Contents, to be compared with the originals. Ends with “<END TABLE OF CONTENTS\>"
 
-3. Header, includes title and author of the rules. Ends with “<END HEADER>"
+3. Header, includes title and author of the rules. Ends with “<END HEADER\>"
 
-4. Main Text, include main texts of the rules, to be corrected. Ends with “<END MAIN TEXT>”
+4. Main Text, include main texts of the rules, to be corrected. Ends with “<END MAIN TEXT\>”
 
 5. Footnotes. 
 
@@ -52,8 +52,12 @@ For missing headings, please insert <h\> </h\> tags before and after the paragra
 
 ALL CHANGES should be done in the main text instead of the Table of Contents.
 
-After correction, **DELETE** "<END TABLE OF CONTENTS>" and everything above it.
+After correction, **DELETE** "<END TABLE OF CONTENTS\>" and everything above it.
   
 While correcting Table of Contents, please disregard everything after "ECONOMIC ANALYSIS" or "PAPERWORK REDUCTION ACT". Our main focus is usually on Section II. 
   
 I have already formatted formatted/2018/33-10450.txt
+
+## Git Basics
+
+TBA
