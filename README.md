@@ -60,4 +60,19 @@ I have already formatted formatted/2018/33-10450.txt
 
 ## Git Basics
 
-TBA
+To start, please first delete everything from our last trial and start clean. That includes the folder on your computer and the branch on your Github page.
+
+1. **Fork** this project to your own Github pages. Then, you'll be working separately on your own branch and submit **Pull Requests** when you reach some checkpoints. 
+
+2. git clone repository on **your own** Github to your computer. NOT the master branch at git@github.com:dahengyang/sec_rules.git
+
+3. set up upstream: git remote add upstream git@github.com:dahengyang/sec_rules.git
+  * this is to make sure everytime you pull, you stay updated with the master
+
+4. every time before start working: git pull upstream/master
+
+5. it is advised that everytime we finished one file, we commit once: git commit -m "file_name"
+
+6. after commiting several files, git push to your own repository
+
+7. finally, after a check point, send a pull request on Github to merge with the master
