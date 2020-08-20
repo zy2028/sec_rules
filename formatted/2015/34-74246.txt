@@ -1,551 +1,3 @@
-https://www.sec.gov/rules/final/2015/34-74246.pdf
-
-I.0.0.0 Introduction
-
-	I.A.0.0 Proposed Rules Governing the SDR Registration Process, Duties, and Core Principles, and Form SDR
-
-	I.B.0.0 Related Commission Actions
-
-	I.C.0.0 Public Comment
-
-	I.D.0.0 Other Initiatives Considered in this Rulemaking
-
-II.0.0.0 Broad Economic Considerations and Baseline
-
-	II.A.0.0 Broad Economic Considerations
-
-	II.B.0.0 Baseline
-
-		II.B.1.0 Transparency in the SBS Market
-
-		II.B.2.0 Current Security-Based Swap Market
-
-			II.B.2.a Security-Based Swap Market Participants
-
-			II.B.2.b Security-Based Swap Data Repositories
-
-III.0.0.0 Definition, Scope of Registration, Services, and Business Models of SDRs
-
-	III.A.0.0 Definition of SDR: Core Services
-
-	III.B.0.0 SDRs Required to Register With The Commission
-
-	III.C.0.0 Ancillary Services
-
-	III.D.0.0 Business Models of SDRs
-
-IV.0.0.0 Number of SDRs and Consolidation of SBS Data
-
-V.0.0.0 Implementation of the SDR Rules
-
-	V.A.0.0 Prior Commission Action
-
-		V.A.1.0 Effective Date Order
-
-		V.A.2.0 Implementation Policy Statement
-
-	V.B.0.0 Summary of Comments
-
-	V.C.0.0 Sequenced Effective Date and Compliance Date for the SDR Rules After considering the issues raised by the commenters and Implementation Joint
-
-VI.0.0.0 Discussion of Rules Governing SDRs
-
-	VI.A.0.0 Registration of SDRs (Rule 13n-1 and Form SDR)
-
-		VI.A.1.0 New Form SDR; Electronic Filing
-
-			VI.A.1.a Proposed Form SDR
-
-			VI.A.1.b Comments on Proposed Form SDR
-
-			VI.A.1.c Final Form SDR
-
-		VI.A.2.0 Factors for Approval of Registration and Procedural Process for Review (Rule 13n-1(c))
-
-			VI.A.2.a Proposed Rule
-
-			VI.A.2.b Comments on the Proposed Rule
-
-			VI.A.2.c Final Rule
-
-		VI.A.3.0 Temporary Registration (Rule 13n-1(d))
-
-			VI.A.3.a Proposed Rule
-
-			VI.A.3.b Comments on the Proposed Rule
-
-			VI.A.3.c Final Rule
-
-		VI.A.4.0 Amendment on Form SDR (Proposed Rule 13n-1(e)/Final Rule 13n-1(d))
-
-			VI.A.4.a Proposed Rule
-
-			VI.A.4.b Comments on the Proposed Rule
-
-			VI.A.4.c Final Rule
-
-		VI.A.5.0 Service of Process and Non-Resident SDRs (Proposed Rules 13n-1(f) and 13n-1(g)/Final Rules 13n-1(e) and 13n-1(f))
-
-			VI.A.5.a Proposed Rule
-
-			VI.A.5.b Comments on the Proposed Rule
-
-			VI.A.5.c Final Rule
-
-		VI.A.6.0 Definition of “Report” (Proposed Rule 13n-1(h)/Final Rule 13n-1(g))
-
-			VI.A.6.a Proposed Rule
-
-			VI.A.6.b Comments on the Proposed Rule
-
-			VI.A.6.c Final Rule
-
-	VI.B.0.0 Withdrawal From Registration; Revocation and Cancellation (Rule 13n-2)
-
-		VI.B.1.0 Proposed Rule
-
-		VI.B.2.0 Comments on the Proposed Rule
-
-		VI.B.3.0 Final Rule
-
-	VI.C.0.0 Registration of Successor to Registered SDR (Rule 13n-3)
-
-		VI.C.1.0 Proposed Rule
-
-		VI.C.2.0 Comments on the Proposed Rule
-
-		VI.C.3.0 Final Rule
-
-			VI.C.3.a Succession by Application
-
-			VI.C.3.b Succession by Amendment
-
-			VI.C.3.c Scope and Applicability of Rule 13n-3
-
-	VI.D.0.0 Enumerated Duties and Core Principles (Rule 13n-4)
-
-		VI.D.1.0 Definitions (Rule 13n-4(a))
-
-			VI.D.1.a Proposed Rule
-
-			VI.D.1.b Comments on the Proposed Rule
-
-			VI.D.1.c Final Rule
-
-		VI.D.2.0 Enumerated Duties (Rule 13n-4(b))
-
-			VI.D.2.a Proposed Rule
-
-			VI.D.2.b Comments on the Proposed Rule
-
-			VI.D.2.c Final Rule
-
-		VI.D.1.0 subject itself to inspection and examination by any representative of the Commission;
-
-		VI.D.2.0 accept data as prescribed in Regulation SBSRfor each SBS;
-
-		VI.D.3.0 confirm, as prescribed in Rule 13n-5, with both counterparties to the SBS the accuracy of the data that was submitted, as discussed further in Section VI.E.1 of this release;
-
-		VI.D.4.0 maintain, as prescribed in Rule 13n-5, the data described in Regulation SBSR in such form, in such manner, and for such period as provided therein and in the Exchange Act and the rules and regulations thereunder, as discussed further in Section VI.E of this release;
-
-		VI.D.5.0 provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity);
-
-		VI.D.6.0 provide the information described in Regulation SBSR in such form and at such frequency as prescribed in Regulation SBSR to comply with requirements set forth in Exchange Act Section 13(m) and the rules and regulations thereunder;
-
-		VI.D.7.0 at such time and in such manner as may be directed by the Commission, establish automated systems for monitoring, screening, and analyzing SBS data;
-
-		VI.D.8.0 maintain the privacy of any and all SBS transaction information that the SDR receives from an SBS dealer, counterparty, or any registered entity, as prescribed in Rule 13n-9 and as discussed further in Section VI.I.1 of this release; and
-
-		VI.D.9.0 [Reserved]
-
-		VI.D.10.0 [Reserved]
-
-		VI.D.11.0 designate an individual to serve as a CCO, as discussed further in Section VI.J of
-
-		VI.D.3.0 Implementation of Core Principles (Rule 13n-4(c))
-
-		VI.D.3.0 conflicts of interest. Specifically, unless necessary or appropriate to achieve the purposes of the Exchange Act, an SDRis prohibited from adopting any rulesor taking any action that results in any unreasonable restraint of trade or imposing any material anticompetitive burden on the trading, clearing, or reporting of transactions. In addition, each SDR must establish governance arrangements that are transparent to fulfill public interest requirements and to support the objectives of the Federal Government, owners, and participants. Moreover, each
-
-			VI.D.3.a First Core Principle: Market Access to Services and Data (Rule 13n-4(c)(1))
-
-		VI.D.1.0 Rule 13n-4(c)(1)(i): Fair, Reasonable, and Not Unreasonably Discriminatory Dues, Fees, Other Charges, Discounts, and Rebates
-
-		VI.D.2.0 Rule 13n-4(c)(1)(ii): Offering Services Separately Three commenters supported the Commission’s proposed rule requiring SDRs to permit
-
-		VI.D.3.0 Rule 13n-4(c)(1)(iii): Fair, Open, and Not Unreasonably Discriminatory Access
-
-		VI.D.4.0 Rule 13n-4(c)(1)(iv): Prohibited or Limited Access One commenter recommended that the Commission require an SDR “to promptly file a
-
-		VI.D.1.0 Rule 13n-4(c)(1)(i): Fair, Reasonable, and Not Unreasonably Discriminatory Dues, Fees, Other Charges, Discounts, and Rebates
-
-		VI.D.2.0 Rule 13n-4(c)(1)(ii): Offering Services Separately Rule 13n-4(c)(1)(ii) requires each SDR to permit market participants to access specific
-
-		VI.D.3.0 Rule 13n-4(c)(1)(iii): Fair, Open, and Not Unreasonably Discriminatory Access
-
-		VI.D.4.0 Rule 13n-4(c)(1)(iv): Prohibited or Limited Access Rule 13n-4(c)(1)(iv) requires each SDR to establish, maintain, and enforce written
-
-			VI.D.4.b Second Core Principle: Governance Arrangements (Rule 13n- 4(c)(2))
-
-			VI.D.4.c Third Core Principle: Rules and Procedures for Minimizing and Resolving Conflicts of Interest (Rule 13n-4(c)(3))
-
-		VI.D.4.0 Indemnification Exemption (Rule 13n-4(d))
-
-	VI.E.0.0 Data Collection and Maintenance (Rule 13n-5)
-
-		VI.E.1.0 Transaction Data (Rule 13n-5(b)(1))
-
-			VI.E.1.a Proposed Rule
-
-			VI.E.1.b Comments on the Proposed Rule
-
-			VI.E.1.c Final Rule
-
-		VI.E.2.0 Positions (Rule 13n-5(b)(2))
-
-			VI.E.2.a Proposed Rule
-
-			VI.E.2.b Comments on the Proposed Rule
-
-			VI.E.2.c Final Rule
-
-		VI.E.3.0 Maintain Accurate Data (Rule 13n-5(b)(3))
-
-			VI.E.3.a Proposed Rule
-
-			VI.E.3.b Comments on the Proposed Rule
-
-			VI.E.3.c Final Rule
-
-		VI.E.4.0 Data Retention (Rule 13n-5(b)(4))
-
-			VI.E.4.a Proposed Rule
-
-			VI.E.4.b Comments on the Proposed Rule
-
-			VI.E.4.c Final Rule
-
-		VI.E.5.0 Controls to Prevent Invalidation (Rule 13n-5(b)(5))
-
-			VI.E.5.a Proposed Rule
-
-			VI.E.5.b Comments on the Proposed Rule
-
-			VI.E.5.c Final Rule
-
-		VI.E.6.0 Dispute Resolution Procedures (Rule 13n-5(b)(6))
-
-			VI.E.6.a Proposed Rule
-
-			VI.E.6.b Comments on the Proposed Rule
-
-			VI.E.6.c Final Rule
-
-		VI.E.7.0 Data Preservation After an SDR Ceases to Do Business (Rule 13n-5(b)(7))
-
-			VI.E.7.a Proposed Rule
-
-			VI.E.7.b Comments on the Proposed Rule
-
-			VI.E.7.c Final Rule
-
-		VI.E.8.0 Plan for Data Preservation (Rule 13n-5(b)(8))
-
-			VI.E.8.a Proposed Rule
-
-			VI.E.8.b Comments on the Proposed Rule
-
-			VI.E.8.c Final Rule
-
-	VI.F.0.0 Automated Systems (Rule 13n-6)
-
-		VI.F.1.0 Proposed Rule
-
-		VI.F.2.0 Comments on the Proposed Rule
-
-		VI.F.3.0 Final Rule
-
-	VI.G.0.0 SDR Recordkeeping (Rule 13n-7)
-
-		VI.G.1.0 Records to be Made by SDRs (Rule 13n-7(a))
-
-			VI.G.1.a Proposed Rule
-
-			VI.G.1.b Comments on the Proposed Rule
-
-			VI.G.1.c Final Rule
-
-		VI.G.2.0 Records to be Preserved by SDRs (Rule 13n-7(b))
-
-			VI.G.2.a Proposed Rule
-
-			VI.G.2.b Comments on the Proposed Rule
-
-			VI.G.2.c Final Rule
-
-		VI.G.3.0 Recordkeeping After an SDR Ceases to do Business (Rule 13n-7(c))
-
-			VI.G.3.a Proposed Rule
-
-			VI.G.3.b Comments on the Proposed Rule
-
-			VI.G.3.c Final Rule
-
-		VI.G.4.0 Applicability (Rule 13n-7(d))
-
-			VI.G.4.a Proposed Rule
-
-			VI.G.4.b Comments on the Proposed Rule
-
-			VI.G.4.c Final Rule
-
-	VI.H.0.0 Reports to be Provided to the Commission (Rule 13n-8)
-
-		VI.H.1.0 Proposed Rule
-
-		VI.H.2.0 Comments on the Proposed Rule
-
-		VI.H.3.0 Final Rule
-
-I.0.0.0 Privacy of SBS Transaction Information and Disclosure to Market Participants (Rules 13n-9 and 13n-10)
-
-		I.H.1.0 Privacy Requirements (Rule 13n-9)
-
-			I.H.1.a Proposed Rule
-
-			I.H.1.b Comments on the Proposed Rule
-
-			I.H.1.c Final Rule
-
-		I.H.2.0 Disclosure Requirements (Rule 13n-10)
-
-			I.H.2.a Proposed Rule
-
-			I.H.2.b Comments on the Proposed Rule
-
-			I.H.2.c Final Rule
-
-	I.J.0.0 Chief Compliance Officer of Each SDR; Compliance Reports and Financial Reports (Rule 13n-11)
-
-		I.J.1.0 In General (Rule 13n-11(a))
-
-			I.J.1.a Proposed Rule
-
-			I.J.1.b Comments on the Proposed Rule
-
-			I.J.1.c Final Rule
-
-		I.J.2.0 Definitions (Rule 13n-11(b))
-
-			I.J.2.a Proposed Rule
-
-			I.J.2.b Comments on the Proposed Rule
-
-			I.J.2.c Final Rule
-
-		I.J.3.0 Enumerated Duties of Chief Compliance Officer (Rule 13n-11(c))
-
-			I.J.3.a Proposed Rule
-
-			I.J.3.b Comments on the Proposed Rule
-
-			I.J.3.c Final Rule
-
-		I.J.4.0 Compliance Reports (Rules 13n-11(d) and 13n-11(e))
-
-			I.J.4.a Proposed Rule
-
-			I.J.4.b Comments on the Proposed Rule
-
-			I.J.4.c Final Rule
-
-		I.J.5.0 Financial Reports and Filing of Reports (Exchange Act Rules 13n-11(f) and (g)/Rules 11, 305, and 407 of Regulation S-T)
-
-			I.J.5.a Proposed Rule
-
-			I.J.5.b Comments on the Proposed Rule
-
-			I.J.5.c Final Rules
-
-		I.J.6.0 Additional Rule Regarding Chief Compliance Officer (Rule 13n-11(h)) In the Proposing Release, the Commission asked whether it should prohibit any officers,
-
-	I.K.0.0 Exemption from Requirements Governing SDRs for Certain Non-U.S. Persons (Rule 13n-12)
-
-		I.K.1.0 Proposed Rule
-
-		I.K.2.0 Comments on the Proposed Rule
-
-		I.K.3.0 Final Rule
-
-VII.0.0.0 Paperwork Reduction Act
-
-	VII.A.0.0 Summary of Collection of Information
-
-		VII.A.1.0 Registration Requirements, Form SDR, and Withdrawal from Registration Rule 13n-1(b) requires an SDR to apply for registration with the Commission by filing
-
-		VII.A.2.0 SDR Duties, Data Collection and Maintenance, and Direct Electronic Access
-
-		VII.A.3.0 Recordkeeping
-
-		VII.A.4.0 Reports
-
-		VII.A.5.0 Disclosure
-
-		VII.A.6.0 Chief Compliance Officer; Compliance Reports and Financial Reports Rule 13n-4(b)(11) requires an SDR and Rule 13n-11(a) requires the board of an SDR to
-
-		VII.A.7.0 Other Provisions Relevant to the Collection of Information
-
-	VII.B.0.0 Use of Information
-
-		VII.B.1.0 Registration Requirements, Form SDR, and Withdrawal from Registration As discussed above, Rules 13n-1 and 13n-3 generally require SDRs to register on Form
-
-		VII.B.2.0 SDR Duties, Data Collection and Maintenance, and Direct Electronic Access
-
-		VII.B.3.0 Recordkeeping
-
-		VII.B.4.0 Reports
-
-		VII.B.5.0 Disclosure
-
-		VII.B.6.0 Chief Compliance Officer; Compliance Reports and Financial Reports
-
-		VII.B.7.0 Other Provisions Relevant to the Collection of Information
-
-	VII.C.0.0 Respondents
-
-		VII.C.1.0 Registration Requirements, Form SDR, and Withdrawal from Registration As discussed above, the registration requirements of Rules 13n-1, 13n-2, 13n-3, 13n-
-
-		VII.C.2.0 SDR Duties, Data Collection and Maintenance, and Direct Electronic Access
-
-		VII.C.3.0 Recordkeeping
-
-		VII.C.4.0 Reports
-
-		VII.C.5.0 Disclosure
-
-		VII.C.6.0 Chief Compliance Officer; Compliance Reports and Financial Reports The provisions regarding CCOs set forth in Rule 13n-11 apply to all SDRs, absent an
-
-		VII.C.7.0 Other Provisions Relevant to the Collection of Information The remaining requirements of the SDR Rulesrelevant to the collection of
-
-	VII.D.0.0 Total Annual Reporting and Recordkeeping Burden
-
-		VII.D.1.0 Registration Requirements, Form SDR, and Withdrawal from Registration Rule 13n-1(b) and Rule 13n-3(a) (which relates to successor SDRs as described above)
-
-		VII.D.2.0 SDR Duties, Data Collection and Maintenance, and Direct Electronic Access
-
-		VII.D.3.0 Recordkeeping
-
-		VII.D.4.0 Reports
-
-		VII.D.5.0 Disclosure
-
-		VII.D.6.0 Chief Compliance Officer; Compliance Reports and Financial Reports Under Rules 13n-11(c)(6) and (7), an SDR’s CCO is responsible for, among other things,
-
-		VII.D.7.0 Other Provisions Relevant to the Collection of Information
-
-	VII.E.0.0 Collection of Information is Mandatory
-
-		VII.E.1.0 Registration Requirements, Form SDR, and Withdrawal from Registration The collection of information relating to registration requirements, Form SDR, and
-
-		VII.E.2.0 SDR Duties, Data Collection and Maintenance, and Direct Electronic Access
-
-		VII.E.3.0 Recordkeeping
-
-		VII.E.4.0 Reports
-
-		VII.E.5.0 Disclosure
-
-		VII.E.6.0 Chief Compliance Officer; Compliance Reports and Financial Reports The collection of information relating to CCOs is mandatory for all SDRs, absent an
-
-		VII.E.7.0 Other Provisions Relevant to the Collection of Information
-
-	VII.F.0.0 Confidentiality
-
-	VII.G.0.0 Retention Period of Recordkeeping Requirements
-
-VIII.0.0.0 Economic Analysis
-
-	VIII.A.0.0 Introduction
-
-	VIII.B.0.0 General Comments on the Costs and Benefits of the SDR Rules
-
-	VIII.C.0.0 Consideration of Benefits, Costs, and the Effect on Efficiency, Competition, and Capital Formation
-
-		VIII.C.1.0 Assessment Costs
-
-		VIII.C.2.0 Programmatic Costs and Benefits
-
-			VIII.C.2.a SDR Registration, Duties, and Core Principles
-
-			VIII.C.2.b Registration Requirements in the Cross-Border Context
-
-		VIII.C.3.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation
-
-			VIII.C.3.a Potential Effects on Efficiency
-
-			VIII.C.3.b Potential Effects on Competition
-
-			VIII.C.3.c Potential Effects on Capital Formation
-
-	VIII.D.0.0 Costs and Benefits of Specific Rules
-
-		VIII.D.1.0 Registration Requirements, Form SDR, and Withdrawal from Registration Rule 13n-1 and Form SDR describe the information that a person must file to register as
-
-			VIII.D.1.a Benefits
-
-			VIII.D.1.b Costs
-
-			VIII.D.1.c Alternatives
-
-		VIII.D.2.0 SDR Duties, Data Collection and Maintenance, and Direct Electronic Access
-
-			VIII.D.2.a Benefits
-
-			VIII.D.2.b Costs
-
-			VIII.D.2.c Alternatives
-
-		VIII.D.3.0 Recordkeeping
-
-			VIII.D.3.a Benefits
-
-			VIII.D.3.b Costs
-
-		VIII.D.4.0 Reports
-
-			VIII.D.4.a Benefits
-
-			VIII.D.4.b Costs
-
-		VIII.D.5.0 Disclosure
-
-			VIII.D.5.a Benefits
-
-			VIII.D.5.b Costs
-
-		VIII.D.6.0 Chief Compliance Officer and Compliance Functions; Compliance Reports and Financial Reports
-
-			VIII.D.6.a Benefits
-
-			VIII.D.6.b Costs
-
-			VIII.D.6.c Alternatives
-
-		VIII.D.7.0 Other Policies and Procedures Relating to an SDR’s Business The SDR Rules require SDRs to develop and maintain various policies and
-
-			VIII.D.7.a Benefits
-
-			VIII.D.7.b Costs
-
-			VIII.D.7.c Alternatives
-
-IX.0.0.0 Regulatory Flexibility Act Certification
-
-X.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version.
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 232, 240, and 249
@@ -1694,27 +1146,27 @@ Comments on the other enumerated duties either are discussed later in this relea
 
 After considering the comments, the Commission is adopting Rule 13n-4(b) as proposed, with modifications. Specifically, each SDR is required to:
 
-<h>1. subject itself to inspection and examination by any representative of the Commission;</h>
+1. subject itself to inspection and examination by any representative of the Commission;
 
-<h>2. accept data as prescribed in Regulation SBSRfor each SBS;</h>
+2. accept data as prescribed in Regulation SBSRfor each SBS;
 
-<h>3. confirm, as prescribed in Rule 13n-5, with both counterparties to the SBS the accuracy of the data that was submitted, as discussed further in Section VI.E.1 of this release;</h>
+3. confirm, as prescribed in Rule 13n-5, with both counterparties to the SBS the accuracy of the data that was submitted, as discussed further in Section VI.E.1 of this release;
 
-<h>4. maintain, as prescribed in Rule 13n-5, the data described in Regulation SBSR in such form, in such manner, and for such period as provided therein and in the Exchange Act and the rules and regulations thereunder, as discussed further in Section VI.E of this release;</h>
+4. maintain, as prescribed in Rule 13n-5, the data described in Regulation SBSR in such form, in such manner, and for such period as provided therein and in the Exchange Act and the rules and regulations thereunder, as discussed further in Section VI.E of this release;
 
-<h>5. provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity);</h>
+5. provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity);
 
-<h>6. provide the information described in Regulation SBSR in such form and at such frequency as prescribed in Regulation SBSR to comply with requirements set forth in Exchange Act Section 13(m) and the rules and regulations thereunder;</h>
+6. provide the information described in Regulation SBSR in such form and at such frequency as prescribed in Regulation SBSR to comply with requirements set forth in Exchange Act Section 13(m) and the rules and regulations thereunder;
 
-<h>7. at such time and in such manner as may be directed by the Commission, establish automated systems for monitoring, screening, and analyzing SBS data;</h>
+7. at such time and in such manner as may be directed by the Commission, establish automated systems for monitoring, screening, and analyzing SBS data;
 
-<h>8. maintain the privacy of any and all SBS transaction information that the SDR receives from an SBS dealer, counterparty, or any registered entity, as prescribed in Rule 13n-9 and as discussed further in Section VI.I.1 of this release; and</h>
+8. maintain the privacy of any and all SBS transaction information that the SDR receives from an SBS dealer, counterparty, or any registered entity, as prescribed in Rule 13n-9 and as discussed further in Section VI.I.1 of this release; and
 
-<h>9. [Reserved]</h>
+9. [Reserved]
 
-<h>10. [Reserved]</h>
+10. [Reserved]
 
-<h>11. designate an individual to serve as a CCO, as discussed further in Section VI.J ofthis release. <sup>414</sup></h>
+11. designate an individual to serve as a CCO, as discussed further in Section VI.J ofthis release. <sup>414</sup>
 
 With respect to one commenter’s general recommendation that all of the Commission’s substantive rules “remain as strong as possible, irrespective of the Commission’s approach to its very limited jurisdiction over cross-border transactions or the CFTC’s approach to the implementation of Title VII,” <sup>415</sup> the Commission believes that the final SDR Rules are robust and reflect an appropriate approach to furthering the goals of the Dodd-Frank Act and minimizing an SDR’s cost of compliance. <sup>416</sup>
 
@@ -1750,7 +1202,7 @@ Although the Commission is adopting Rule 13n-4(b)(7) as proposed, it is not, at 
 
 Each SDR is required, under Exchange Act Section 13(n)(7), to comply with core principles relating to (1) market access to services and data, (2) governance arrangements, and
 
-<h>3. conflicts of interest. Specifically, unless necessary or appropriate to achieve the purposes of the Exchange Act, an SDRis prohibited from adopting any rulesor taking any action that results in any unreasonable restraint of trade or imposing any material anticompetitive burden on the trading, clearing, or reporting of transactions. In addition, each SDR must establish governance arrangements that are transparent to fulfill public interest requirements and to support the objectives of the Federal Government, owners, and participants. Moreover, each</h>
+3. conflicts of interest. Specifically, unless necessary or appropriate to achieve the purposes of the Exchange Act, an SDRis prohibited from adopting any rulesor taking any action that results in any unreasonable restraint of trade or imposing any material anticompetitive burden on the trading, clearing, or reporting of transactions. In addition, each SDR must establish governance arrangements that are transparent to fulfill public interest requirements and to support the objectives of the Federal Government, owners, and participants. Moreover, each
 
 SDR must establish and enforce rules to minimize conflicts of interest in the decision-making process of the SDR and to establish a process for resolving any such conflicts of interest. <sup>440</sup> Rule 13n-4(c) incorporates and implements these three core principles.
 
@@ -1766,7 +1218,7 @@ As discussed below, eight commenters submitted comments relating to this propose
 
 In suggesting that the Commission rely on CPSS-IOSCO’s recommendations such as the PFMI Report, the commenter cited, as an example, to the Commission’s concurrence, in the Proposing Release, with the CPSS-IOSCO Trade Repository Report’s recommendation that “[m]arket infrastructures and service providers that may or may not offer potentially competing services should not be subject to anticompetitive practices such as product tying, contracts with non-compete and/ or exclusivity clauses, overly restrictive terms of use and anti-competitive price discrimination.” <sup>451</sup>
 
-<h>1. Rule 13n-4(c)(1)(i): Fair, Reasonable, and Not Unreasonably Discriminatory Dues, Fees, Other Charges, Discounts, and Rebates</h>
+1. Rule 13n-4(c)(1)(i): Fair, Reasonable, and Not Unreasonably Discriminatory Dues, Fees, Other Charges, Discounts, and Rebates
 
 One commenter supported the requirements in proposed Rule 13n-4(c)(1)(i) because “they should encourage market participants to use SDRs’ services.” <sup>452</sup> The commenter believed that an SDR should charge different fee structures only if it relates to the SDR’s “differing costsof providing access or service to particular categories” and that “[a]nything else would be discrimination.” <sup>453</sup> The commenter suggested that “any preferential pricing such as volume discounts or reductions should be generally viewed as discriminatory” and believed that “[s]uch volume discounts or reductions tend to discriminate in favour of the large players.” <sup>454</sup>
 
@@ -1778,13 +1230,13 @@ Another commenter believed that the Commission’s proposed rule, which refers t
 
 One commenter to proposed Regulation SBSR suggested that SDRs should not be permitted to charge fees to third parties acting on behalf of counterparties for accepting SBS transaction information because such fees would increase the cost of using an SB SEF or other third party. <sup>468</sup> The commenter believed that SDRs would likely charge the same third parties for subsequent use of SBS data maintained by the SDRs. <sup>469</sup> In submitting comments to the Commission’s rulemaking regarding SB SEFs, the same commenter suggested that the Commission require SDRs to (i) make available any data they collect and may properly use for commercial purposes to all market participants, including SB SEFs and clearing agencies, on reasonable terms and pricing and on a non-discriminatory basis, and (ii) share, on commercially reasonable terms, revenue that SDRs generate from redistributing such data with partiesproviding the data to the SDRs (e.g., SB SEFs). <sup>470</sup> The commenter believed that without these requirements, the Commission would be effectively taking away from market participants, including SB SEFs and clearing agencies, a potentially significant and valuable component of their potential market data revenue streams. <sup>471</sup>
 
-<h>2. Rule 13n-4(c)(1)(ii): Offering Services Separately Three commenters supported the Commission’s proposed rule requiring SDRs to permitmarket participants to access services offered by SDRs separately. <sup>472</sup> Specifically, one commenter agreed that SDRs’ fees should be transparent. <sup>473</sup> As a corollary to this, one of the commenters suggested that third party service providers should be barred from bundling their services with an SDR’s services. <sup>474</sup> Additionally, the same commenter believed that “[a]ny provider offering trading[,] clearing or repository services for one asset class should not bebundling would also (a) reverse the principal-agent relationship	and (b) add a layer ofunnecessary risk to the control processes that market participants may determine are needed.”).permitted [to] bundl[e] or t[ie] when providing services for other asset classes.” <sup>475</sup> The commenter suggested, however, that SDRs should be permitted to offer two or more service options, including one that fulfills the minimum regulatory reporting requirements and a suite of other services to complement the mandatory reporting function. <sup>476</sup></h>
+2. Rule 13n-4(c)(1)(ii): Offering Services Separately Three commenters supported the Commission’s proposed rule requiring SDRs to permitmarket participants to access services offered by SDRs separately. <sup>472</sup> Specifically, one commenter agreed that SDRs’ fees should be transparent. <sup>473</sup> As a corollary to this, one of the commenters suggested that third party service providers should be barred from bundling their services with an SDR’s services. <sup>474</sup> Additionally, the same commenter believed that “[a]ny provider offering trading[,] clearing or repository services for one asset class should not bebundling would also (a) reverse the principal-agent relationship	and (b) add a layer ofunnecessary risk to the control processes that market participants may determine are needed.”).permitted [to] bundl[e] or t[ie] when providing services for other asset classes.” <sup>475</sup> The commenter suggested, however, that SDRs should be permitted to offer two or more service options, including one that fulfills the minimum regulatory reporting requirements and a suite of other services to complement the mandatory reporting function. <sup>476</sup>
 
 One commenter believed that SDRs should be able to offer ancillary services, whether bundled or not. <sup>477</sup> The commenter, however, did not support the bundling of ancillary services with mandatory or regulatory services. <sup>478</sup>
 
 Another commenter stated that the proposed rule went “a long way to address a third party’s (such as a service provider’s) non-discriminatory access rights to granular [SDR] Information,” and that such access is important so as to “not stifle innovation and the competition in the provision of post-trade processing services” and to “uphold a fair, secure and efficient post-trade market.” <sup>479</sup> In the context of discussing proposed Rule 13n-4(c)(1)(ii), the commenter suggested that, to further these goals, the Commission should clarify that all “users” of an SDR’s services, including unaffiliated third party service providers, and not only market participants that submit trade data, should be permitted to access each of the SDR’s services separately. <sup>480</sup>
 
-<h>3. Rule 13n-4(c)(1)(iii): Fair, Open, and Not Unreasonably Discriminatory Access</h>
+3. Rule 13n-4(c)(1)(iii): Fair, Open, and Not Unreasonably Discriminatory Access
 
 Four commenters generally supported the Commission’s proposed rule regarding fair, open, and not unreasonably discriminatory access to services offered and data maintained by SDRs, but a few of these commenters also recommended additional requirements. <sup>481</sup> One of these commenters noted that “all counterparties to trades reported to an SDR should, as a matter of principle, have access to all data relating to trades to which they are [counterparties]” and that “[t]his access should be made available to smaller, lower volume market participants, as necessary, through the reduction or waiver of certain fees.” <sup>482</sup> The same commenter also noted that “clearinghouses and [SB SEFs] should have the ability to report trades to SDRs . . . to satisfy their customers’ reporting preferences.” <sup>483</sup> In addition, the commenter supported “open access to data by other service providers (based on the consent of the parties for that provider to receive the data) [because it] is critical to preserve the trading parties’ control over their own data.” <sup>484</sup>
 
@@ -1794,13 +1246,13 @@ One commenter urged the Commission to “clarify in the final rule that [SDRs] s
 
 One commenter recommended that the Commission require that each SDR establish and maintain effective interoperability and interconnectivity with other SDRs, market infrastructures, and venues from which data can be submitted to the SDR. <sup>493</sup> Additionally, the commenter suggested that market participants should have “equal and fair access to data on SBStransactions,” <sup>494</sup> and that the Commission’s rules “establish stronger and more detailed standards against discriminatory access, and they should also establish regulatory oversight of access denials.” <sup>495</sup> The commenter further suggested that the Commission’s proposed rules set forth the “clearly stated objective criteria” and permit denial of access only on risk-based grounds, i.e. , risks related to the security or functioning of the market. <sup>496</sup>
 
-<h>4. Rule 13n-4(c)(1)(iv): Prohibited or Limited Access One commenter recommended that the Commission require an SDR “to promptly file anotice with the Commission if the SDR . . . prohibits or limits any person’s access to services offered or data maintained by the SDR.” <sup>497</sup></h>
+4. Rule 13n-4(c)(1)(iv): Prohibited or Limited Access One commenter recommended that the Commission require an SDR “to promptly file anotice with the Commission if the SDR . . . prohibits or limits any person’s access to services offered or data maintained by the SDR.” <sup>497</sup>
 
 F inal Rule
 
 After considering the comments, the Commission is adopting Rule 13n-4(c)(1) as proposed, with one minor modification. <sup>498</sup> Rule 13n-4(c)(1), which tracks the statutory language, <sup>499</sup> provides that “[u]nless necessary or appropriate to achieve the purposes of the [Exchange] Act and the rules and regulations thereunder, the security-based swap data repository shall not adopt any policies or procedures <sup>500</sup> or take any action that results in an unreasonable restraint of trade or impose any material anticompetitive burden on the trading, clearing, orreporting of transactions.” In implementing the first core principle, this rule is intended to protect investors and to maintain a fair, orderly, and efficient SBS market. <sup>501</sup> The Commission believes that this rule will protect investors by, for example, fostering service transparency and promoting competition in the SBS market. <sup>502</sup> Generally speaking, the Commission also believes that “[m]arket infrastructures and service providers that may or may not offer potentially competing services should not be subject to anti-competitive practices such as product tying, contracts with non-compete and/or exclusivity clauses, overly restrictive terms of use and anti- competitive price discrimination.” <sup>503</sup> As discussed in the Proposing Release and more fully below, when administering this rule, the Commission generally expects to apply the principles and procedures that it has developed in other areas in which it monitors analogous services, such as clearing agencies. <sup>504</sup> To comply with the first core principle, an SDR is required to comply with four specific requirements.
 
-<h>1. Rule 13n-4(c)(1)(i): Fair, Reasonable, and Not Unreasonably Discriminatory Dues, Fees, Other Charges, Discounts, and Rebates</h>
+1. Rule 13n-4(c)(1)(i): Fair, Reasonable, and Not Unreasonably Discriminatory Dues, Fees, Other Charges, Discounts, and Rebates
 
 Rule 13n-4(c)(1)(i) requires each SDR to ensure that any dues, fees, or other charges that it imposes, and any discounts or rebates that it offers, are fair and reasonable and notunreasonably discriminatory. <sup>505</sup> The rule also requires such dues, fees, other charges, discounts, or rebates to be applied consistently across all similarly-situated users of the SDR’s services, including, but not limited to, market participants, market infrastructures (including central counterparties), venues from which data can be submitted to the SDR (including exchanges, SB SEFs, electronic trading venues, and matching and confirmation platforms), and third party service providers.
 
@@ -1822,13 +1274,13 @@ With respect to cross-subsidies, the Commission believes that it is not necessar
 
 One commenter suggested that the Commission extend the applicability of its rule to providers engaged in two or more of trading, clearing, or repository services to prevent predatory or coercive pricing by the providers. <sup>523</sup> As with its other rules governing SDRs, the Commission’s rule implementing the first core principle generally applies only to SDR services. To the extent that the Commission decides that predatory or coercive pricing with respect to non-SDR services needs to be addressed, the Commission will take appropriate action.
 
-<h>2. Rule 13n-4(c)(1)(ii): Offering Services Separately Rule 13n-4(c)(1)(ii) requires each SDR to permit market participants to access specificservices offered by the SDR separately. As one commenter suggested, <sup>524</sup> an SDR may bundle its services, including any ancillary services, regardless of the asset class at issue, but this rule requires the SDR to also provide market participants with the option of using its services separately. <sup>525</sup> The Commission believes that it is appropriate to adopt this rule as proposed to promote competition. <sup>526</sup></h>
+2. Rule 13n-4(c)(1)(ii): Offering Services Separately Rule 13n-4(c)(1)(ii) requires each SDR to permit market participants to access specificservices offered by the SDR separately. As one commenter suggested, <sup>524</sup> an SDR may bundle its services, including any ancillary services, regardless of the asset class at issue, but this rule requires the SDR to also provide market participants with the option of using its services separately. <sup>525</sup> The Commission believes that it is appropriate to adopt this rule as proposed to promote competition. <sup>526</sup>
 
 If an SDR or its affiliate <sup>527</sup> provides an ancillary service, such as a matching and confirmation service, then the SDR is prohibited by Rule 13n-4(c)(1)(ii) from requiring a market participant to use and pay for that service as a condition of using the SDR’s data collection and maintenance services. <sup>528</sup> In such an instance, the SDR is also prohibited from requiring a market participant that uses the SDR’s or affiliate’s ancillary service to use the SDR’s data collection and maintenance services. The Commission also believes that if an SDR enters into an oral or written agreement or arrangement with an affiliate or third party service provider that reflects a business plan in which the affiliate or third party service provider will require its customers to use the core services of that SDR, then the SDR would not be in compliance with Rule 13n-4(c)(1)(ii). <sup>529</sup> In evaluating the fairness and reasonableness of fees that an SDR charges for bundled and unbundled services, the Commission will take into consideration, among other things, the SDR’s cost of making those services available on a bundled or unbundled basis, as the case may be, and a market participant’s proportional use of the SDR’s services.
 
 With regard to one commenter’s suggestion that all “users” of an SDR’s services, including unaffiliated third party service providers, should be permitted to access the SDR’s non- SDR services separately, <sup>530</sup> the Commission agrees, as set forth in Rule 13n-4(c)(1)(ii), that market participants that use an SDR’s services should have access to specific services offered by the SDR, including any ancillary services, separately. The Commission believes that SDRs should consider giving third party service providers acting as agents for such market participants the same rights as the market participants to access these services separately. However, Rule 13n-4(c)(1)(ii) does not require an SDR to afford the agent access to the SDR’s unbundled services outside of its agency capacity.
 
-<h>3. Rule 13n-4(c)(1)(iii): Fair, Open, and Not Unreasonably Discriminatory Access</h>
+3. Rule 13n-4(c)(1)(iii): Fair, Open, and Not Unreasonably Discriminatory Access
 
 Rule 13n-4(c)(1)(iii) requires each SDR to establish, monitor on an ongoing basis, and enforce clearly stated objective criteria that would permit fair, open, and not unreasonably discriminatory access to services offered and data maintained by the SDR as well as fair, open, and not unreasonably discriminatory participation by market participants, market infrastructures, venues from which data can be submitted to the SDR, and third party service providers that seekto connect to or link with the SDR. As with Rule 13n-4(c)(1)(i), the Commission will evaluate whether such access or participation is “fair, open, and not unreasonably discriminatory” on a case-by-case basis. Although this rule does not explicitly require, as one commenter suggested, <sup>531</sup> SDRs to establish and maintain effective interoperability and interconnectivity with other SDRs, <sup>532</sup> market infrastructures, and venues from which data can be submitted, the rule is intended to encourage such interoperability and interconnectivity by requiring SDRs to establish criteria that would permit fair, open, and not unreasonably discriminatory participation by others, including those that seek to connect to or link with the SDR.
 
@@ -1842,7 +1294,7 @@ One commenter recommended that the Commission permit SDRs to deny access only on
 
 The Commission does not believe that Rule 13n-1(c)(1)(iii) should require an SDR to provide “full and unrestricted” access to third party service providers acting pursuant to written authorizations from an SBS counterparty, as suggested by one commenter. <sup>544</sup> While the Commission agrees with the commenter that such a third party service provider is exercising the SBS counterparty’s right to access data with respect to that counterparty’s trades, the Commission believes that requiring an SDR to provide “full and unrestricted” access (beyond that provided to the SBS counterparty acting directly) would appear to be inconsistent with the Exchange Act. Even if the service provider has received written authorization from one SBS counterparty, the SDR nonetheless would be required to protect the privacy and confidentiality of the other counterparty; <sup>545</sup> thus, the SDR need only provide the third party service provider with access to such data that the SBS counterparty that has authorized disclosure would be entitled to access. As noted by the commenter, such a third party service provider is acting as the SBS counterparty’s agent and should be entitled to the same level of access as provided to the SBS counterparty. <sup>546</sup> The Commission agrees with the commenter regarding the importance of upholding “a fair, secure and efficient post-trade market” <sup>547</sup> and believes that the rule as adopted achieves this goal.
 
-<h>4. Rule 13n-4(c)(1)(iv): Prohibited or Limited Access Rule 13n-4(c)(1)(iv) requires each SDR to establish, maintain, and enforce writtenpolicies and procedures reasonably designed to review any prohibition or limitation of anyperson with respect to access to services offered, directly or indirectly, or data maintained by the SDR and to grant such person access to such services or data if such person has been discriminated against unfairly.</h>
+4. Rule 13n-4(c)(1)(iv): Prohibited or Limited Access Rule 13n-4(c)(1)(iv) requires each SDR to establish, maintain, and enforce writtenpolicies and procedures reasonably designed to review any prohibition or limitation of anyperson with respect to access to services offered, directly or indirectly, or data maintained by the SDR and to grant such person access to such services or data if such person has been discriminated against unfairly.
 
 As stated in the Proposing Release, the Commission believes that, for any such policies and procedures to be reasonable, at a minimum, those at an SDR involved in the decision- making process of prohibiting or limiting a person’s access to the SDR’s services or data cannot be involved in the review of whether the prohibition or limitation was appropriate. <sup>548</sup> Otherwise, the purpose of the review process would be undermined. Additionally, an SDR may wish to consider whether its internal review process should be done by the SDR’s board <sup>549</sup> or an executive committee.
 
