@@ -69,7 +69,7 @@ To start, please first delete everything from our last trial and start clean. Th
 3. set up upstream: git remote add upstream git@github.com:dahengyang/sec_rules.git
   * this is to make sure everytime you pull, you stay updated with the master
 
-4. every time before start working: git pull upstream/master
+4. every time before start working: 1. git fetch upstream, 2. git merge upstream/master
 
 5. it is advised that everytime we finished one file, we commit once: git commit -m "file_name"
 
