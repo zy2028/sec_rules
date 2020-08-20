@@ -79,9 +79,9 @@ To start, please first delete everything from our last trial and start clean. Th
 
 ## Division of Labor
 
-We only need to double check Post 2005 rules. Daheng will check 2017 and 2018 rules. 
+We only need to double check Post 2005 rules. Daheng will check 2017, 2018, and 2006 rules. 
 
-Let's finish 2016 rules as discussed earlier. Then, Meichen will check 2010 - 2015 rules, and Zheng will check 2005 - 2009. 
+Let's finish 2016 rules as discussed earlier. Then, Meichen will check 2010 - 2015 rules, and Zheng will check 2005, 2007 - 2009. 
 
 A few notes: 
 
