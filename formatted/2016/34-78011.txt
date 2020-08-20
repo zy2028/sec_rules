@@ -1,217 +1,3 @@
-https://www.sec.gov/rules/final/2016/34-78011.pdf
-
-I.0.0.0 Introduction
-
-	I.A.0.0 Trade Acknowledgment and Verification
-
-		I.A.1.0 Final Rule 15Fi-2 contains the substantive trade acknowledgment and verification requirements, an exception for clearing transactions, an exception for certain transactions that are executed on a security-based swap execution facility (“SBSEF”) or a national securities exchange or that are accepted for clearing by a clearing agency, and the exemption from Rule 10b-10.
-
-	I.B.0.0 Cross-Border Application and Availability of Substituted Compliance
-
-II.0.0.0 Discussion of Trade Acknowledgment and Verification Rule
-
-	II.A.0.0 Definitions
-
-		II.A.1.0 Proposed Rule
-
-		II.A.2.0 Comments
-
-		II.A.3.0 Response to Comments and Final Rule
-
-	II.B.0.0 Trade Acknowledgment Requirement
-
-		II.B.1.0 Proposed Rule
-
-		II.B.2.0 Comments
-
-		II.B.3.0 Response to Comments and Final Rule
-
-	II.C.0.0 Time to Provide a Trade Acknowledgment
-
-		II.C.1.0 Proposed Rule
-
-		II.C.2.0 Comments
-
-		II.C.3.0 Response to Comments and Final Rule
-
-	II.D.0.0 Form and Content of Trade Acknowledgments
-
-		II.D.1.0 Proposed Rule
-
-		II.D.105.0 Id.
-
-		II.D.106.0 Id.
-
-		II.D.107.0 Id.
-
-		II.D.1.0 the terms of any fixed or floating rate payments, and the frequency of any payments;
-
-		II.D.2.0 whether or not the security-based swap would have been cleared by a clearing agency;
-
-		II.D.3.0 an indication if both counterparties are SBS dealers; (11) if the transaction involved an existing SBS, an indication that the transaction did not involve an opportunity to negotiate a material term of the contract, other than the counterparty; (12) an indication if the SBS is customized to the extent that the information provided above does not provide all of the material information necessary to identify the customized SBS or does not contain the data elements necessary to calculate the price; (13) the participant ID of each counterparty; (14) the broker ID, desk ID, and trader ID of the reporting party; (15) the amount(s) and currenc(ies) of any up-front payment(s) and a description of the terms and contingencies of the payment streams of each counterparty to the other; (16) the title of any master agreement, or any other agreement governing the transaction, incorporated by reference and the date of any such agreement; (17) the data elements necessary for a person to determine the market value of the transaction; (18) if the SBS will be cleared,
-
-		II.D.2.0 Comments
-
-		II.D.3.0 Response to Comments and Final Rule
-
-		II.D.119.0 Id.
-
-		II.D.120.0 Id.
-
-	II.E.0.0 Trade Verification
-
-		II.E.1.0 Proposed Rule
-
-		II.E.2.0 Comments
-
-		II.E.3.0 Response to Comments and Final Rule
-
-		II.E.140.0 Id.
-
-		II.E.141.0 Id.
-
-	II.F.0.0 Exception for Clearing Transactions
-
-	II.G.0.0 Exception for Transactions Executed on a Security-Based Swap Execution Facility or National Securities Exchange or Accepted for Clearing by a Clearing Agency
-
-		II.G.1.0 Exception for Transactions Executed on a Security-Based Swap Execution Facility or National Securities Exchange
-
-		II.G.2.0 Exception for Transactions Accepted for Clearing by a Clearing Agency
-
-		II.G.3.0 Trade Acknowledgment and Verification After Notice That an SBSEF or Exchange Has Not Acknowledged and Verified a Transaction or That a Transaction Has Not Been Accepted for Clearing by a Clearing Agency
-
-	II.H.0.0 Exemption from Rule 10b-10
-
-III.0.0.0 Cross-Border Application of Trade Acknowledgment and Verification Requirements
-
-	III.A.0.0 Proposed Application
-
-	III.B.0.0 Commenter Views
-
-			III.B.3.a Generally appear not to apply to a non-U.S. swap dealer’s transaction with a non-U.S. counterparty (other than a guaranteed or conduit affiliate). See id. at 45352-53 (stating that “generally there may be a relatively greater supervisory interest on the part of foreign regulators with respect to transactions between two counterparties that are non-U.S. persons so that application of the Category A Transaction-Level Requirements may not be warranted.”).
-
-			III.B.3.b Generally appear to apply to a non-U.S. swap dealer’s transactions with U.S. counterparties (other than foreign branches of U.S. banks) without the availability of substituted compliance, with the proviso that such a non-U.S. dealer would be deemed in
-
-	III.C.0.0 Response to Comments and Final Interpretation
-
-			III.C.3.c Generally appear to apply to the transactions of a swap dealer that is a foreign branch of a U.S. bank, but with substituted compliance available for the foreign branch’s transactions with non-U.S. counterparties. See id. at 45350-51 (noting “the interests of foreign regulators in applying their transaction-level requirements to a swap taking place in their jurisdiction” along with the fact that foreign branches “are subject generally to direct or indirect oversight by U.S. regulators because they are part of a U.S. person”). Substituted compliance generally would not be available for that foreign branch’s transactions with U.S. counterparties, unless the counterparty also is a foreign branch. See id. at 45350 (noting the CFTC’s “strong supervisory interests in entities that are part of or extensions of” U.S. swap dealers).
-
-IV.0.0.0 Availability of Substituted Compliance for Trade Acknowledgment and Verification Requirements
-
-	IV.A.0.0 Existing Substituted Compliance Rule
-
-	IV.B.0.0 Response to Comments and Final Rule
-
-		IV.B.1.0 Basis for Substituted Compliance in Connection with the Trade Acknowledgment and Verification Requirements
-
-		IV.B.2.0 Comparability Criteria, and Consideration of Related Requirements
-
-V.0.0.0 Effective and Compliance Dates
-
-	V.A.0.0 Trade Acknowledgment and Verification Rule
-
-	V.B.0.0 Substituted Compliance Rule
-
-VI.0.0.0 Paperwork Reduction Act
-
-	VI.A.0.0 Introduction
-
-	VI.B.0.0 Rule 15Fi-2
-
-		VI.B.1.0 Summary of Collection of Information
-
-		VI.B.2.0 Proposed Use of Information
-
-		VI.B.3.0 Respondents
-
-		VI.B.4.0 Total Initial and Annual Reporting and Recordkeeping Burdens
-
-		VI.B.5.0 Retention Period of Recordkeeping Requirements
-
-		VI.B.6.0 Collection of Information is Mandatory
-
-		VI.B.7.0 Confidentiality
-
-	VI.C.0.0 Rule 3a71-6
-
-		VI.C.1.0 Summary of Collection of Information
-
-		VI.C.2.0 Proposed Use of Information
-
-		VI.C.3.0 Respondents
-
-		VI.C.4.0 Total Initial and Annual Reporting and Recordkeeping Burdens
-
-		VI.C.5.0 Collection of Information Is Mandatory
-
-		VI.C.6.0 Confidentiality
-
-VII.0.0.0 Economic Analysis
-
-	VII.A.0.0 Introduction
-
-	VII.B.0.0 Economic Baseline
-
-		VII.B.1.0 Available Data on Security-Based Swaps
-
-		VII.B.2.0 Current Security-Based Swap Market
-
-		VII.B.3.0 Current Estimates of Number of SBS Dealers and Major SBS Participants
-
-		VII.B.4.0 Trade Execution
-
-		VII.B.5.0 Clearing Activity
-
-		VII.B.6.0 Current Trade Confirmation Practices
-
-			VII.B.6.a Joint Regulatory Initiative
-
-			VII.B.6.b CFTC Trade Confirmation Rules
-
-			VII.B.6.c Foreign Trade Confirmation Rules
-
-	VII.C.0.0 Benefits, Costs, and Effects on Efficiency, Competition, and Capital Formation
-
-		VII.C.1.0 Effects on Efficiency, Competition, and Capital Formation
-
-			VII.C.1.a Broad Market Effects
-
-			VII.C.1.b Substituted Compliance
-
-		VII.C.2.0 Costs and Benefits to Registered SBS Entities
-
-		VII.C.3.0 Costs and Benefits to Non-Registered Market Participants
-
-		VII.C.4.0 Costs and Benefits of the Substituted Compliance Provisions
-
-		VII.C.5.0 Costs and Benefits of the Clearing and Security-Based Swap Execution Facility and National Securities Exchange Exceptions
-
-		VII.C.6.0 Exemption From Rule 10b-10
-
-	VII.D.0.0 Alternatives Considered
-
-		VII.D.1.0 Trade Acknowledgment Rules
-
-			VII.D.1.a Approved Third Parties
-
-			VII.D.1.b Time of Acknowledgment
-
-			VII.D.1.c Terms of the Transaction
-
-		VII.D.2.0 Clearing Transactions
-
-		VII.D.3.0 Certain Transactions on a Security-Based Swap Execution Facility or a National Securities Exchange
-
-	VII.E.0.0 Comment and Response to Comment
-
-VIII.0.0.0 Regulatory Flexibility Act Certification
-
-IX.0.0.0 Statutory Basis and Text of Proposed Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
 
 [Release No. 34-78011; File No. S7-03-11] RIN 3235-AK91
@@ -380,23 +166,23 @@ Paragraph (d) of proposed Rule 15Fi-1 would have required the trade acknowledgme
 
 The Commission noted in particular that SBS Entities may choose to provide trade acknowledgments through a mutually agreed upon electronic standard, such as a messaging system that uses Financial products Markup Language (commonly known as FpML). <sup>105</sup> The
 
-<h>105. Id.</h>
+105. Id.
 
 Commission also specifically discussed facsimile transmission or electronic mail as a means of providing trade acknowledgments, particularly when engaging in SBS transactions with counterparties that rarely buy or sell SBS and that consequently do not have the means to receive trade acknowledgments otherwise. <sup>106</sup> The Commission further stated that providing trade acknowledgments exclusively by mail or overnight courier would not satisfy the requirements of the proposed rule. <sup>107</sup>
 
 Paragraph (d) of proposed Rule 15Fi-1 also would have required trade acknowledgments to contain a minimum of 22 items of information, all but one of which were identical to the items that the Commission had proposed that SBS Entities would be required to report to an SBS data repository pursuant to Regulation SBSR. <sup>108</sup>
 
-<h>106. Id.</h>
+106. Id.
 
-<h>107. Id.</h>
+107. Id。
 
 Specifically, proposed Rule 15Fi-1(d) would have required the trade acknowledgment to include terms from proposed Regulation SBSR, including: (1) the asset class; (2) information identifying the SBS instrument and the specific asset(s) or issuer of a security on which the SBS is based; (3) the notional amount and currency; (4) date and time of execution; (5) the effective date; (6) the scheduled termination date; (7) the price;
 
-<h>1. the terms of any fixed or floating rate payments, and the frequency of any payments;</h>
+1. the terms of any fixed or floating rate payments, and the frequency of any payments;
 
-<h>2. whether or not the security-based swap would have been cleared by a clearing agency;</h>
+2. whether or not the security-based swap would have been cleared by a clearing agency;
 
-<h>3. an indication if both counterparties are SBS dealers; (11) if the transaction involved an existing SBS, an indication that the transaction did not involve an opportunity to negotiate a material term of the contract, other than the counterparty; (12) an indication if the SBS is customized to the extent that the information provided above does not provide all of the material information necessary to identify the customized SBS or does not contain the data elements necessary to calculate the price; (13) the participant ID of each counterparty; (14) the broker ID, desk ID, and trader ID of the reporting party; (15) the amount(s) and currenc(ies) of any up-front payment(s) and a description of the terms and contingencies of the payment streams of each counterparty to the other; (16) the title of any master agreement, or any other agreement governing the transaction, incorporated by reference and the date of any such agreement; (17) the data elements necessary for a person to determine the market value of the transaction; (18) if the SBS will be cleared,</h>
+3. an indication if both counterparties are SBS dealers; (11) if the transaction involved an existing SBS, an indication that the transaction did not involve an opportunity to negotiate a material term of the contract, other than the counterparty; (12) an indication if the SBS is customized to the extent that the information provided above does not provide all of the material information necessary to identify the customized SBS or does not contain the data elements necessary to calculate the price; (13) the participant ID of each counterparty; (14) the broker ID, desk ID, and trader ID of the reporting party; (15) the amount(s) and currenc(ies) of any up-front payment(s) and a description of the terms and contingencies of the payment streams of each counterparty to the other; (16) the title of any master agreement, or any other agreement governing the transaction, incorporated by reference and the date of any such agreement; (17) the data elements necessary for a person to determine the market value of the transaction; (18) if the SBS will be cleared,
 
 <h>2. Comments</h>
 
@@ -414,9 +200,9 @@ One commenter suggested that “the record trail created by the verification pro
 
 The Commission is adopting the requirement to provide a trade acknowledgment through any electronic means that provide reasonable assurance of delivery and a record of transmittal as proposed in Rule 15Fi-1(d), but is re-designating it as Rule 15Fi-2(c). <sup>121</sup> The Commission acknowledges the comment that it should allow SBS Entities to deliver trade acknowledgments in certain instances on paper rather than electronically, <sup>122</sup> but the Commission believes that requiring electronic delivery of trade acknowledgments will promote the objectives of Exchange Act Section 15F(i)(1) for timely and accurate confirmation and documentation of security-based swaps. Specifically, the electronic delivery of trade acknowledgments will result in SBS counterparties receiving trade acknowledgments in a timelier manner, which will enable them to review the terms of their transactions more quickly to either verify the transactions or dispute the terms. This in turn should help to reduce operational risk by decreasing the amount of time
 
-<h>119. Id.</h>
+119. Id.
 
-<h>120. Id.within which a counterparty may recognize and work to resolve any potential discrepancies in the trade documentation. The Commission also understands that electronic confirmation is the norm for SBS transactions. <sup>123</sup> The Commission does not, however, specify the means of electronic delivery, so SBS Entities may rely on any electronic means, such as email systems, to comply with the rule’s requirements rather than acquiring or building new computer systems solely to provide trade acknowledgments. Thus, taking into consideration the potential costs of electronic trade acknowledgments and the expected benefits, the Commission believes that it is appropriate to require electronic delivery of trade acknowledgments. The Commission acknowledges the comment that asserts that it might not be possible to provide an electronic confirmation in all cases. <sup>124</sup> However, the rule as adopted does not require any particular means of electronic delivery; for example, an SBS Entity could send an email with a PDF attachment as a trade acknowledgment to a counterparty. Thus, given the flexibility provided by the rule to provide an electronic confirmation, the Commission believes it is appropriate to require SBS Entities to provide an electronic trade acknowledgment by the end of the next business day after the day of execution.</h>
+120. Id.within which a counterparty may recognize and work to resolve any potential discrepancies in the trade documentation. The Commission also understands that electronic confirmation is the norm for SBS transactions. <sup>123</sup> The Commission does not, however, specify the means of electronic delivery, so SBS Entities may rely on any electronic means, such as email systems, to comply with the rule’s requirements rather than acquiring or building new computer systems solely to provide trade acknowledgments. Thus, taking into consideration the potential costs of electronic trade acknowledgments and the expected benefits, the Commission believes that it is appropriate to require electronic delivery of trade acknowledgments. The Commission acknowledges the comment that asserts that it might not be possible to provide an electronic confirmation in all cases. <sup>124</sup> However, the rule as adopted does not require any particular means of electronic delivery; for example, an SBS Entity could send an email with a PDF attachment as a trade acknowledgment to a counterparty. Thus, given the flexibility provided by the rule to provide an electronic confirmation, the Commission believes it is appropriate to require SBS Entities to provide an electronic trade acknowledgment by the end of the next business day after the day of execution.
 
 After careful consideration of the comments, the Commission is revising proposed Rule 15Fi-1(d), now re-designated as Final Rule 15Fi-2(c), to require an SBS Entity to disclose all the terms of the security-based swap transaction, rather than certain enumerated items. <sup>125</sup> The Commission agrees with the commenter that maintained that the confirmation should constitutethe best record of the transaction so as to help SBS counterparties have a record that clearly identifies their rights and obligations under the SBS, and thus is requiring that the trade acknowledgment (which forms the basis of the confirmation) include all the terms of the transaction. Final Rule 15Fi-2(c) also responds to objections to the required disclosure of certain listed data requirements of proposed Regulation SBSR, such as the participant ID of each counterparty, the broker ID, the desk ID, and the trader ID, which are not terms of the transaction and may not reflect the data that is most relevant to counterparties. Further, by not enumerating the content requirements of the trade acknowledgment, Final Rule 15Fi-2(c) also allows for flexibility for counterparties with respect to the information provided for different SBS in different asset classes. The requirement to report all the terms of the SBS transaction implicitly accepts that if the terms of SBS in different classes vary, only the terms relevant to the specific asset class of the transaction being acknowledged must be included on the trade acknowledgment under Final Rule 15Fi-2. <sup>126</sup>
 
@@ -452,9 +238,9 @@ One commenter supported what it viewed as a requirement in proposed Rule 15Fi-1(
 
 The Commission is adopting proposed Rule15Fi-1(e) with some modifications compared to the proposed rule as described below, and is re-designating it as Final Rule 15Fi-2(d). The Commission believes that requiring SBS Entities to establish, maintain, and enforce written policies and procedures reasonably designed to obtain prompt verification of security-based swap transactions will encourage prompt verification of trades with SBS Entities and thereby will advance the objective of Exchange Act Section 15(F)(i) to promote timely and accurate
 
-<h>140. Id.</h>
+140. Id.
 
-<h>141. Id.confirmation and documentation of security-based swaps. Final Rule 15Fi-2(d)(2) will further promote this objective by requiring an SBS Entity to promptly verify the accuracy of, or otherwise dispute with its counterparty, the terms of a trade acknowledgment it receives pursuant to Final Rule 15Fi-2(a). <sup>144</sup></h>
+141. Id.confirmation and documentation of security-based swaps. Final Rule 15Fi-2(d)(2) will further promote this objective by requiring an SBS Entity to promptly verify the accuracy of, or otherwise dispute with its counterparty, the terms of a trade acknowledgment it receives pursuant to Final Rule 15Fi-2(a). <sup>144</sup>
 
 The Commission is not adopting, as suggested by a commenter, a maximum amount of time for an SBS Entity to verify a trade acknowledgment that it receives. The Commission believes that it is appropriate for the final rule to specify a maximum amount of time for an SBS Entity to provide a trade acknowledgment because the trade acknowledgment serves the important roles of notifying the recipient that (1) its counterparty believes it has executed an SBS transaction and (2) the purported terms of that transaction. The recipient then has the opportunity to review the trade acknowledgment to determine if the trade acknowledgment accurately reflects its agreement with the counterparty. If the recipient agrees that the trade acknowledgment is accurate, the recipient could be expected as an ordinary business practice to verify the transaction promptly. If the recipient believes the trade acknowledgment is inaccurate, the recipient may need additional time to resolve its dispute about the purported terms. Placing a specific time period on the requirement to verify a transaction could mean that, even in the case of good faith disputes about the terms of a trade acknowledgment, a trade acknowledgment recipient would be made to verify, and effectively agree to, incorrect terms on a trade acknowledgment solely to avoid violating the rule even though both counterparties might benefit from using more time to resolve the dispute. The trade acknowledgment’s timing requirementthus promotes timely documentation of the transaction, and the flexibility afforded by the final rule’s requirements on verification help to safeguard the accuracy of that documentation.
 
