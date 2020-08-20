@@ -76,3 +76,17 @@ To start, please first delete everything from our last trial and start clean. Th
 6. after commiting several files, git push to your own repository
 
 7. finally, after a check point, send a pull request on Github to merge with the master
+
+## Division of Labor
+
+We only need to double check Post 2005 rules. Daheng will check 2017, 2018, and 2006 rules. 
+
+Let's finish 2016 rules as discussed earlier. Then, Meichen will check 2010 - 2015 rules, and Zheng will check 2005, 2007 - 2009. 
+
+A few notes: 
+
+1. make sure to git fetch upstream and git merge upstream/master before start working
+
+2. it is advised on tech blogs to git add and git commit for each "small checkpoint" separately. However, for our purposes, we don't have to do that -- since we can always update the file in later commits 
+
+3. since we are new to Git, let's keep a backup in a separate folder for corrected files
